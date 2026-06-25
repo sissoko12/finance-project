@@ -7,49 +7,67 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <style>
   :root {
-    --bg: #0d1117; --panel: #161b22; --border: #30363d;
-    --text: #e6edf3; --muted: #8b949e; --accent: #2f81f7;
-    --green: #3fb950; --red: #f85149;
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c2230; --border:#30363d;
+    --text:#e6edf3; --muted:#8b949e; --accent:#2f81f7; --green:#3fb950; --red:#f85149;
   }
   * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--bg); color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  }
-  header {
-    padding: 20px 28px; border-bottom: 1px solid var(--border);
-    display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
-  }
-  header h1 { font-size: 18px; margin: 0; font-weight: 600; }
-  header .sub { color: var(--muted); font-size: 13px; }
-  .controls { margin-left: auto; display: flex; gap: 12px; align-items: center; }
-  select, input {
-    background: var(--panel); color: var(--text); border: 1px solid var(--border);
-    border-radius: 6px; padding: 8px 10px; font-size: 14px; min-width: 220px;
-  }
-  main { padding: 24px 28px; max-width: 1300px; margin: 0 auto; }
-  .company-meta { margin-bottom: 20px; }
-  .company-meta h2 { margin: 0 0 4px; font-size: 22px; }
-  .company-meta .tags { color: var(--muted); font-size: 13px; }
-  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 26px; }
-  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
-  .card .label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
-  .card .value { font-size: 24px; font-weight: 600; margin-top: 6px; }
-  .card .yr { color: var(--muted); font-size: 11px; margin-top: 4px; }
-  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px; margin-bottom: 26px; }
-  .panel h3 { margin: 0 0 14px; font-size: 15px; }
-  .chart-wrap { position: relative; height: 340px; }
-  table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th, td { padding: 8px 10px; text-align: right; border-bottom: 1px solid var(--border); white-space: nowrap; }
-  th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--panel); }
-  thead th { color: var(--muted); font-weight: 600; border-bottom: 2px solid var(--border); }
-  .table-scroll { overflow-x: auto; }
-  tbody tr:hover td { background: rgba(47,129,247,.08); }
-  .pos { color: var(--green); } .neg { color: var(--red); }
-  .banner { background: #3d2a00; border: 1px solid #9e6a00; color: #ffd479; padding: 12px 16px; border-radius: 8px; margin: 16px 28px; font-size: 13px; }
-  .muted { color: var(--muted); }
-  footer { padding: 20px 28px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--border); }
-  code { background: #00000040; padding: 1px 5px; border-radius: 4px; }
+  body { margin:0; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  header { padding:18px 28px; border-bottom:1px solid var(--border);
+    display:flex; align-items:center; gap:22px; flex-wrap:wrap; }
+  header h1 { font-size:18px; margin:0; font-weight:600; }
+  header .sub { color:var(--muted); font-size:13px; }
+
+  /* search */
+  .search-wrap { margin-left:auto; position:relative; width:320px; }
+  #search { width:100%; background:var(--panel); color:var(--text);
+    border:1px solid var(--border); border-radius:8px; padding:10px 12px; font-size:14px; }
+  #search:focus { outline:none; border-color:var(--accent); }
+  .suggestions { position:absolute; top:46px; left:0; right:0; background:var(--panel);
+    border:1px solid var(--border); border-radius:8px; max-height:340px; overflow-y:auto;
+    z-index:20; display:none; box-shadow:0 8px 24px #0008; }
+  .sugg-item { padding:9px 12px; cursor:pointer; font-size:14px; border-bottom:1px solid #21262d; }
+  .sugg-item:last-child { border-bottom:none; }
+  .sugg-item:hover, .sugg-item.active { background:rgba(47,129,247,.15); }
+  .sugg-item b { color:var(--accent); }
+
+  main { padding:24px 28px; max-width:1320px; margin:0 auto; }
+  .company-meta { margin-bottom:18px; }
+  .company-meta h2 { margin:0 0 4px; font-size:24px; }
+  .company-meta .tags { color:var(--muted); font-size:13px; }
+
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px; margin-bottom:22px; }
+  .card { background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:14px 16px; }
+  .card .label { color:var(--muted); font-size:11px; text-transform:uppercase; letter-spacing:.04em; }
+  .card .value { font-size:22px; font-weight:600; margin-top:6px; }
+  .card .yr { color:var(--muted); font-size:11px; margin-top:4px; }
+
+  .panel { background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:18px; margin-bottom:22px; }
+  .panel h3 { margin:0 0 14px; font-size:15px; }
+  .chart-wrap { position:relative; height:300px; }
+
+  .tabs { display:flex; gap:6px; margin-bottom:14px; flex-wrap:wrap; }
+  .tab { background:var(--panel); border:1px solid var(--border); color:var(--muted);
+    padding:9px 16px; border-radius:8px; cursor:pointer; font-size:14px; }
+  .tab:hover { color:var(--text); }
+  .tab.active { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
+
+  .note { color:var(--muted); font-size:12px; margin:0 0 12px; }
+  .table-scroll { overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th, td { padding:8px 12px; text-align:right; border-bottom:1px solid var(--border); white-space:nowrap; }
+  th:first-child, td:first-child { text-align:left; position:sticky; left:0; background:var(--panel); z-index:1; }
+  thead th { color:var(--muted); font-weight:600; border-bottom:2px solid var(--border); }
+  tbody tr:hover td { background:rgba(47,129,247,.08); }
+  tbody tr:hover td:first-child { background:#1b2330; }
+  .neg { color:var(--red); }
+  .pos { color:var(--green); }
+
+  .banner { background:#3d2a00; border:1px solid #9e6a00; color:#ffd479;
+    padding:12px 16px; border-radius:8px; margin:16px 28px; font-size:13px; }
+  .muted { color:var(--muted); }
+  code { background:#00000040; padding:1px 5px; border-radius:4px; }
+  footer { padding:18px 28px; color:var(--muted); font-size:12px; border-top:1px solid var(--border); }
 </style>
 </head>
 <body>
@@ -58,9 +76,9 @@
     <h1>S&amp;P 500 Financial Dashboard</h1>
     <div class="sub">SEC EDGAR XBRL · 10-K annual data · FY2010+</div>
   </div>
-  <div class="controls">
-    <input id="search" type="text" placeholder="Filter companies…" />
-    <select id="company"></select>
+  <div class="search-wrap">
+    <input id="search" type="text" placeholder="Search ticker or company…" autocomplete="off" />
+    <div id="suggestions" class="suggestions"></div>
   </div>
 </header>
 
@@ -71,63 +89,145 @@
   <div id="cards" class="cards"></div>
 
   <div class="panel">
-    <h3>Trend (Revenue · Net Income · Free Cash Flow)</h3>
+    <h3>Trend — Revenue · Net Income · Free Cash Flow (in thousands USD)</h3>
     <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
   </div>
 
   <div class="panel">
-    <h3>All metrics by fiscal year</h3>
-    <div class="table-scroll"><table id="metricsTable"></table></div>
+    <div class="tabs" id="tabs"></div>
+    <p class="note">All dollar &amp; share figures shown <b>in thousands</b> (SEC stores full dollars; values are ÷1000).
+      Per-share figures are in actual $; margins in %. Fiscal years run most-recent first.</p>
+    <div class="table-scroll"><table id="statementTable"></table></div>
   </div>
 </main>
 
-<footer>
-  Values shown in full dollars as stored by SEC XBRL. Margins shown as %, EPS &amp; dividends per share in $, share counts as units.
-</footer>
+<footer>Data: SEC EDGAR companyfacts → Supabase. Dashboard: vanilla JS + Chart.js.</footer>
 
 <script>
 // ============================================================================
-// CONFIG — fill in your Supabase project URL and **anon (publishable)** key.
-// Do NOT put the service_role key here: this file is committed to a public
-// repo and the anon key (protected by Row-Level Security) is the safe one to
-// expose in the browser. Find it in Supabase → Project Settings → API.
+// CONFIG — anon/publishable key is safe to expose client-side (protected by RLS)
 // ============================================================================
 const SUPABASE_URL = "https://daafhufkauamzrvyxfwg.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
+const SUPABASE_ANON_KEY = "sb_publishable_TeErJ1ekfBz_zoVGILd1Cg_YQKzQSM_";
 
 const REST = SUPABASE_URL.replace(/\/$/, "") + "/rest/v1";
 const HEADERS = { apikey: SUPABASE_ANON_KEY, Authorization: "Bearer " + SUPABASE_ANON_KEY };
 
-// Metrics highlighted as summary cards (in display order).
-const CARD_METRICS = [
+// ---- statement layout: tab -> ordered [metric, label] ----------------------
+const STATEMENTS = [
+  { id: "income", title: "Income Statement", rows: [
+    ["RevenueFromContractWithCustomerExcludingAssessedTax", "Revenue"],
+    ["CostOfGoodsAndServicesSold", "Cost of Goods & Services Sold"],
+    ["GrossProfit", "Gross Profit"],
+    ["GrossMarginPct", "Gross Margin"],
+    ["OperatingExpenses", "Operating Expenses"],
+    ["SellingGeneralAndAdministrativeExpense", "SG&A Expense"],
+    ["ResearchAndDevelopmentExpense", "R&D Expense"],
+    ["OperatingIncomeLoss", "Operating Income"],
+    ["OperatingMarginPct", "Operating Margin"],
+    ["DepreciationDepletionAndAmortization", "Depreciation & Amortization"],
+    ["EBITDA", "EBITDA"],
+    ["InterestExpense", "Interest Expense"],
+    ["OtherNonoperatingIncomeExpense", "Other Non-operating Inc/Exp"],
+    ["NonoperatingIncomeExpense", "Non-operating Inc/Exp"],
+    ["IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest", "Pre-tax Income"],
+    ["IncomeTaxExpenseBenefit", "Income Tax Expense"],
+    ["NetIncomeLoss", "Net Income"],
+    ["NetMarginPct", "Net Margin"],
+    ["ComprehensiveIncomeNetOfTax", "Comprehensive Income"],
+    ["ShareBasedCompensation", "Share-Based Compensation"],
+    ["EarningsPerShareBasic", "EPS (Basic)"],
+    ["EarningsPerShareDiluted", "EPS (Diluted)"],
+    ["WeightedAverageNumberOfSharesOutstandingBasic", "Wtd Avg Shares (Basic)"],
+    ["WeightedAverageNumberOfDilutedSharesOutstanding", "Wtd Avg Shares (Diluted)"],
+    ["CommonStockDividendsPerShareCashPaid", "Dividends / Share"],
+  ]},
+  { id: "balance", title: "Balance Sheet", rows: [
+    ["Assets", "Total Assets"],
+    ["AssetsCurrent", "Current Assets"],
+    ["AssetsNoncurrent", "Non-current Assets"],
+    ["CashAndCashEquivalentsAtCarryingValue", "Cash & Equivalents"],
+    ["AccountsReceivableNetCurrent", "Accounts Receivable"],
+    ["InventoryNet", "Inventory"],
+    ["PropertyPlantAndEquipmentNet", "PP&E (Net)"],
+    ["PropertyPlantAndEquipmentGross", "PP&E (Gross)"],
+    ["Goodwill", "Goodwill"],
+    ["FiniteLivedIntangibleAssetsNet", "Intangibles (Net)"],
+    ["Liabilities", "Total Liabilities"],
+    ["LiabilitiesCurrent", "Current Liabilities"],
+    ["LiabilitiesNoncurrent", "Non-current Liabilities"],
+    ["AccountsPayableCurrent", "Accounts Payable"],
+    ["DeferredRevenueCurrent", "Deferred Revenue (Current)"],
+    ["CommercialPaper", "Commercial Paper"],
+    ["LongTermDebt", "Long-Term Debt"],
+    ["LongTermDebtNoncurrent", "Long-Term Debt (Non-current)"],
+    ["TotalDebt", "Total Debt"],
+    ["NetDebt", "Net Debt"],
+    ["OperatingLeaseLiability", "Operating Lease Liability"],
+    ["FinanceLeaseLiability", "Finance Lease Liability"],
+    ["StockholdersEquity", "Shareholders' Equity"],
+    ["RetainedEarningsAccumulatedDeficit", "Retained Earnings"],
+    ["CommonStockSharesIssued", "Common Shares Issued"],
+    ["CommonStockSharesOutstanding", "Common Shares Outstanding"],
+    ["EntityCommonStockSharesOutstanding", "Entity Shares Outstanding"],
+  ]},
+  { id: "cashflow", title: "Cash Flow", rows: [
+    ["NetCashProvidedByUsedInOperatingActivities", "Operating Cash Flow"],
+    ["NetCashProvidedByUsedInInvestingActivities", "Investing Cash Flow"],
+    ["NetCashProvidedByUsedInFinancingActivities", "Financing Cash Flow"],
+    ["PaymentsToAcquirePropertyPlantAndEquipment", "CapEx"],
+    ["FreeCashFlow", "Free Cash Flow"],
+    ["PaymentsToAcquireBusinessesNetOfCashAcquired", "Acquisitions (net)"],
+    ["ProceedsFromIssuanceOfLongTermDebt", "LT Debt Issued"],
+    ["RepaymentsOfLongTermDebt", "LT Debt Repaid"],
+    ["PaymentsForRepurchaseOfCommonStock", "Stock Buybacks"],
+    ["ProceedsFromIssuanceOfCommonStock", "Stock Issued"],
+    ["PaymentsOfDividends", "Dividends Paid"],
+    ["CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents", "Cash & Restricted Cash (EOP)"],
+    ["IncomeTaxesPaidNet", "Income Taxes Paid (net)"],
+    ["InterestPaidNet", "Interest Paid (net)"],
+  ]},
+];
+
+const KPI_CARDS = [
   ["RevenueFromContractWithCustomerExcludingAssessedTax", "Revenue"],
   ["NetIncomeLoss", "Net Income"],
   ["FreeCashFlow", "Free Cash Flow"],
-  ["EBITDA", "EBITDA"],
   ["Assets", "Total Assets"],
-  ["StockholdersEquity", "Shareholders' Equity"],
 ];
 
 let allCompanies = [];
+let pivot = {};        // metric -> { year: value }
+let years = [];        // sorted desc
+let activeTab = "income";
 
-// ---- formatting helpers ----------------------------------------------------
+// ---- formatting ------------------------------------------------------------
 function isPct(m) { return /Pct$/.test(m); }
 function isPerShare(m) { return /EarningsPerShare|PerShareCashPaid/.test(m); }
-function isShares(m) { return /Shares|WeightedAverageNumber/.test(m); }
 
-function fmt(metric, v) {
-  if (v === null || v === undefined || Number.isNaN(v)) return "—";
+// returns {text, neg} — dollars/shares are shown in THOUSANDS with commas.
+function fmtCell(metric, v) {
+  if (v === null || v === undefined || Number.isNaN(v)) return { text: "—", neg: false };
+  if (isPct(metric)) return { text: (v * 100).toFixed(1) + "%", neg: v < 0 };
+  if (isPerShare(metric)) {
+    const s = (v < 0 ? "-$" : "$") + Math.abs(v).toFixed(2);
+    return { text: s, neg: v < 0 };
+  }
+  const scaled = v / 1000;               // full dollars -> thousands
+  const txt = Math.round(scaled).toLocaleString("en-US");
+  return { text: txt, neg: scaled < 0 };
+}
+
+// compact form for KPI cards (in thousands)
+function fmtCard(metric, v) {
+  if (v == null) return "—";
   if (isPct(metric)) return (v * 100).toFixed(1) + "%";
   if (isPerShare(metric)) return "$" + v.toFixed(2);
-  if (isShares(metric)) return Math.round(v).toLocaleString();
-  // currency, full dollars -> compact
-  const a = Math.abs(v);
-  const sign = v < 0 ? "-" : "";
-  if (a >= 1e12) return sign + "$" + (a / 1e12).toFixed(2) + "T";
-  if (a >= 1e9)  return sign + "$" + (a / 1e9).toFixed(2) + "B";
-  if (a >= 1e6)  return sign + "$" + (a / 1e6).toFixed(2) + "M";
-  if (a >= 1e3)  return sign + "$" + (a / 1e3).toFixed(1) + "K";
-  return sign + "$" + a.toFixed(0);
+  const t = v / 1000, a = Math.abs(t), s = t < 0 ? "-" : "";
+  if (a >= 1e9) return s + (a / 1e9).toFixed(2) + "B";   // billions of thousands
+  if (a >= 1e6) return s + (a / 1e6).toFixed(2) + "M";
+  if (a >= 1e3) return s + (a / 1e3).toFixed(1) + "K";
+  return s + Math.round(a).toLocaleString("en-US");
 }
 
 async function api(path) {
@@ -136,42 +236,75 @@ async function api(path) {
   return res.json();
 }
 
-// ---- load company list -----------------------------------------------------
+// ---- companies + search ----------------------------------------------------
 async function loadCompanies() {
   allCompanies = await api("/companies?select=cik,ticker,name,sector,industry&order=ticker");
-  renderCompanyOptions(allCompanies);
-  if (allCompanies.length) {
-    const aapl = allCompanies.find(c => c.ticker === "AAPL");
-    selectCompany((aapl || allCompanies[0]).ticker);
-  }
+  buildTabs();
+  const aapl = allCompanies.find(c => c.ticker === "AAPL");
+  await selectCompany((aapl || allCompanies[0]).ticker);   // default AAPL
 }
 
-function renderCompanyOptions(list) {
-  const sel = document.getElementById("company");
-  sel.innerHTML = list.map(c =>
-    `<option value="${c.ticker}">${c.ticker} — ${c.name || ""}</option>`).join("");
+const searchEl = document.getElementById("search");
+const suggEl = document.getElementById("suggestions");
+let suggMatches = [], suggIdx = -1;
+
+function renderSuggestions() {
+  const q = searchEl.value.trim().toUpperCase();
+  if (!q) { suggEl.style.display = "none"; return; }
+  suggMatches = allCompanies.filter(c =>
+    c.ticker.includes(q) || (c.name || "").toUpperCase().includes(q)).slice(0, 12);
+  suggIdx = -1;
+  if (!suggMatches.length) { suggEl.style.display = "none"; return; }
+  suggEl.innerHTML = suggMatches.map((c, i) =>
+    `<div class="sugg-item" data-i="${i}"><b>${c.ticker}</b> <span class="muted">${c.name || ""}</span></div>`
+  ).join("");
+  suggEl.style.display = "block";
 }
 
-// ---- load one company's financials ----------------------------------------
+searchEl.addEventListener("input", renderSuggestions);
+searchEl.addEventListener("keydown", e => {
+  if (suggEl.style.display === "none") return;
+  if (e.key === "ArrowDown") { suggIdx = Math.min(suggIdx + 1, suggMatches.length - 1); e.preventDefault(); }
+  else if (e.key === "ArrowUp") { suggIdx = Math.max(suggIdx - 1, 0); e.preventDefault(); }
+  else if (e.key === "Enter") {
+    const pick = suggMatches[suggIdx >= 0 ? suggIdx : 0];
+    if (pick) chooseCompany(pick.ticker);
+    return;
+  } else if (e.key === "Escape") { suggEl.style.display = "none"; return; }
+  [...suggEl.children].forEach((el, i) => el.classList.toggle("active", i === suggIdx));
+});
+suggEl.addEventListener("click", e => {
+  const item = e.target.closest(".sugg-item");
+  if (item) chooseCompany(suggMatches[+item.dataset.i].ticker);
+});
+document.addEventListener("click", e => {
+  if (!e.target.closest(".search-wrap")) suggEl.style.display = "none";
+});
+
+function chooseCompany(ticker) {
+  searchEl.value = "";
+  suggEl.style.display = "none";
+  selectCompany(ticker);
+}
+
+// ---- load one company ------------------------------------------------------
 async function selectCompany(ticker) {
-  document.getElementById("company").value = ticker;
   const company = allCompanies.find(c => c.ticker === ticker);
   const rows = await api(`/financials?ticker=eq.${encodeURIComponent(ticker)}` +
-                         `&select=fiscal_year,metric,value&order=fiscal_year.asc`);
+    `&select=fiscal_year,metric,value&order=fiscal_year.asc`);
 
-  // pivot: metric -> { year: value }, and collect sorted years
-  const byMetric = {};
-  const yearSet = new Set();
+  pivot = {};
+  const yset = new Set();
   for (const r of rows) {
-    yearSet.add(r.fiscal_year);
-    (byMetric[r.metric] ||= {})[r.fiscal_year] = r.value;
+    yset.add(r.fiscal_year);
+    (pivot[r.metric] ||= {})[r.fiscal_year] = r.value;
   }
-  const years = [...yearSet].sort((a, b) => a - b);
+  years = [...yset].sort((a, b) => b - a);   // most recent first
 
   renderMeta(company);
-  renderCards(byMetric, years);
-  renderTable(byMetric, years);
-  renderChart(byMetric, years);
+  renderCards();
+  renderChart();
+  renderTable();
 }
 
 function renderMeta(c) {
@@ -180,88 +313,90 @@ function renderMeta(c) {
     <div class="tags">${[c.sector, c.industry].filter(Boolean).join(" · ")} · CIK ${c.cik}</div>` : "";
 }
 
-function renderCards(byMetric, years) {
-  const latest = years[years.length - 1];
-  const html = CARD_METRICS.map(([m, label]) => {
-    const series = byMetric[m] || {};
-    // latest year that actually has a value
-    let yr = null, val = null;
-    for (let i = years.length - 1; i >= 0; i--) {
-      if (series[years[i]] != null) { yr = years[i]; val = series[years[i]]; break; }
-    }
-    return `<div class="card">
-      <div class="label">${label}</div>
-      <div class="value">${fmt(m, val)}</div>
-      <div class="yr">${yr ? "FY" + yr : "no data"}</div>
-    </div>`;
+function latestWithValue(metric) {
+  const s = pivot[metric] || {};
+  for (const y of years) if (s[y] != null) return { yr: y, val: s[y] };
+  return { yr: null, val: null };
+}
+
+function renderCards() {
+  document.getElementById("cards").innerHTML = KPI_CARDS.map(([m, label]) => {
+    const { yr, val } = latestWithValue(m);
+    return `<div class="card"><div class="label">${label}</div>
+      <div class="value">${fmtCard(m, val)}</div>
+      <div class="yr">${yr ? "FY" + yr + " · thousands" : "no data"}</div></div>`;
   }).join("");
-  document.getElementById("cards").innerHTML = html;
 }
 
-function renderTable(byMetric, years) {
-  const metrics = Object.keys(byMetric).sort();
-  let head = "<thead><tr><th>Metric</th>" +
+// ---- tabs + statement table -----------------------------------------------
+function buildTabs() {
+  document.getElementById("tabs").innerHTML = STATEMENTS.map(s =>
+    `<button class="tab ${s.id === activeTab ? "active" : ""}" data-id="${s.id}">${s.title}</button>`
+  ).join("");
+  document.querySelectorAll(".tab").forEach(btn => btn.addEventListener("click", () => {
+    activeTab = btn.dataset.id;
+    document.querySelectorAll(".tab").forEach(b => b.classList.toggle("active", b === btn));
+    renderTable();
+  }));
+}
+
+function renderTable() {
+  const stmt = STATEMENTS.find(s => s.id === activeTab);
+  const head = "<thead><tr><th>Line item</th>" +
     years.map(y => `<th>FY${y}</th>`).join("") + "</tr></thead>";
-  let body = "<tbody>" + metrics.map(m => {
+
+  const body = stmt.rows.map(([metric, label]) => {
+    const series = pivot[metric] || {};
+    // hide rows with no data at all
+    if (!years.some(y => series[y] != null)) return "";
     const cells = years.map(y => {
-      const v = byMetric[m][y];
-      const cls = (typeof v === "number" && v < 0) ? "neg" : "";
-      return `<td class="${cls}">${v == null ? "" : fmt(m, v)}</td>`;
+      const { text, neg } = fmtCell(metric, series[y]);
+      return `<td class="${neg ? "neg" : ""}">${text}</td>`;
     }).join("");
-    return `<tr><td>${m}</td>${cells}</tr>`;
-  }).join("") + "</tbody>";
-  document.getElementById("metricsTable").innerHTML = head + body;
+    return `<tr><td>${label}</td>${cells}</tr>`;
+  }).join("");
+
+  document.getElementById("statementTable").innerHTML = head + "<tbody>" + body + "</tbody>";
 }
 
+// ---- chart -----------------------------------------------------------------
 let chart;
-function renderChart(byMetric, years) {
-  const series = (m) => years.map(y => (byMetric[m]?.[y]) ?? null);
-  const data = {
-    labels: years.map(y => "FY" + y),
-    datasets: [
-      { label: "Revenue", data: series("RevenueFromContractWithCustomerExcludingAssessedTax"),
-        borderColor: "#2f81f7", backgroundColor: "#2f81f733", tension: .25 },
-      { label: "Net Income", data: series("NetIncomeLoss"),
-        borderColor: "#3fb950", backgroundColor: "#3fb95033", tension: .25 },
-      { label: "Free Cash Flow", data: series("FreeCashFlow"),
-        borderColor: "#db61a2", backgroundColor: "#db61a233", tension: .25 },
-    ],
-  };
-  const opts = {
-    responsive: true, maintainAspectRatio: false,
-    plugins: { legend: { labels: { color: "#e6edf3" } } },
+function renderChart() {
+  const chrono = [...years].sort((a, b) => a - b);   // chart left->right = old->new
+  const series = m => chrono.map(y => (pivot[m]?.[y] != null ? pivot[m][y] / 1000 : null));
+  const data = { labels: chrono.map(y => "FY" + y), datasets: [
+    { label: "Revenue", data: series("RevenueFromContractWithCustomerExcludingAssessedTax"),
+      borderColor: "#2f81f7", backgroundColor: "#2f81f733", tension: .25 },
+    { label: "Net Income", data: series("NetIncomeLoss"),
+      borderColor: "#3fb950", backgroundColor: "#3fb95033", tension: .25 },
+    { label: "Free Cash Flow", data: series("FreeCashFlow"),
+      borderColor: "#db61a2", backgroundColor: "#db61a233", tension: .25 },
+  ]};
+  const opts = { responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: "#e6edf3" } },
+      tooltip: { callbacks: { label: c => c.dataset.label + ": " +
+        (c.parsed.y == null ? "—" : Math.round(c.parsed.y).toLocaleString() + "K") } } },
     scales: {
       x: { ticks: { color: "#8b949e" }, grid: { color: "#30363d" } },
-      y: { ticks: { color: "#8b949e", callback: v => fmt("Revenue", v) }, grid: { color: "#30363d" } },
-    },
-  };
+      y: { ticks: { color: "#8b949e", callback: v => (v / 1e6).toFixed(0) + "B" }, grid: { color: "#30363d" } },
+    } };
   if (chart) chart.destroy();
   chart = new Chart(document.getElementById("trendChart"), { type: "line", data, options: opts });
 }
 
-// ---- events ----------------------------------------------------------------
-document.getElementById("company").addEventListener("change", e => selectCompany(e.target.value));
-document.getElementById("search").addEventListener("input", e => {
-  const q = e.target.value.trim().toUpperCase();
-  const filtered = allCompanies.filter(c =>
-    c.ticker.includes(q) || (c.name || "").toUpperCase().includes(q));
-  renderCompanyOptions(filtered.length ? filtered : allCompanies);
-});
-
 // ---- boot ------------------------------------------------------------------
 (function boot() {
-  if (SUPABASE_ANON_KEY === "YOUR_SUPABASE_ANON_KEY") {
+  if (!SUPABASE_ANON_KEY || SUPABASE_ANON_KEY.includes("YOUR_")) {
     const b = document.getElementById("config-banner");
     b.style.display = "block";
-    b.innerHTML = "⚠️ Set <code>SUPABASE_ANON_KEY</code> near the top of dashboard.html " +
-      "(Supabase → Project Settings → API → anon/public key). The dashboard can't load data until then.";
+    b.innerHTML = "⚠️ Set <code>SUPABASE_ANON_KEY</code> near the top of dashboard.html.";
     return;
   }
   loadCompanies().catch(err => {
     const b = document.getElementById("config-banner");
     b.style.display = "block";
     b.textContent = "Failed to load data: " + err.message +
-      " — check the anon key and that a public read policy / grant exists on the tables.";
+      " — check the anon key and that a public SELECT policy exists on the tables.";
   });
 })();
 </script>
