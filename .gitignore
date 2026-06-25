@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Downloaded data files (can be thousands of files)
+data/
+
+# macOS metadata
+.DS_Store
+
+# Backup/save files
+*.save
+
+# Claude Code internal files
+.claude/
