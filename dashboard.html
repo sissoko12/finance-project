@@ -59,7 +59,8 @@
   .mcat { font-size:11px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); padding:8px 8px 4px; }
   .mitem { display:flex; align-items:center; justify-content:space-between; padding:7px 8px; border-radius:6px; cursor:pointer; font-size:13px; }
   .mitem:hover { background:#f3f4f6; }
-  .mitem.sel { color:var(--accent); font-weight:600; }
+  .mitem.sel { color:var(--muted); opacity:.5; cursor:default; }
+  .mitem.sel:hover { background:transparent; }
   .mitem .chk { opacity:0; }
   .mitem.sel .chk { opacity:1; }
   .chips { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px; }
@@ -246,7 +247,7 @@ const KPI_CARDS = [
 
 // ---- analytics chart metric catalog (label -> stored metric key) -----------
 const CHART_CATALOG = [
-  { cat: "Income Statement", items: [
+  { cat: "📊 Income Statement", items: [
     ["Total Revenue", "RevenueFromContractWithCustomerExcludingAssessedTax"],
     ["Cost of Revenue", "CostOfGoodsAndServicesSold"],
     ["Gross Profit", "GrossProfit"],
@@ -263,9 +264,10 @@ const CHART_CATALOG = [
     ["Interest Expense", "InterestExpense"],
     ["Depreciation & Amortization", "DepreciationDepletionAndAmortization"],
   ]},
-  { cat: "Balance Sheet", items: [
+  { cat: "🏦 Balance Sheet", items: [
     ["Total Assets", "Assets"],
     ["Current Assets", "AssetsCurrent"],
+    ["Non-Current Assets", "AssetsNoncurrent"],
     ["Total Liabilities", "Liabilities"],
     ["Current Liabilities", "LiabilitiesCurrent"],
     ["Stockholders Equity", "StockholdersEquity"],
@@ -276,7 +278,7 @@ const CHART_CATALOG = [
     ["PP&E Net", "PropertyPlantAndEquipmentNet"],
     ["Goodwill", "Goodwill"],
   ]},
-  { cat: "Cash Flow", items: [
+  { cat: "💵 Cash Flow", items: [
     ["Operating Cash Flow", "NetCashProvidedByUsedInOperatingActivities"],
     ["Investing Cash Flow", "NetCashProvidedByUsedInInvestingActivities"],
     ["Financing Cash Flow", "NetCashProvidedByUsedInFinancingActivities"],
@@ -285,6 +287,7 @@ const CHART_CATALOG = [
     ["Stock Repurchases", "PaymentsForRepurchaseOfCommonStock"],
     ["Dividends Paid", "PaymentsOfDividends"],
     ["Debt Repayment", "RepaymentsOfLongTermDebt"],
+    ["Proceeds from Debt", "ProceedsFromIssuanceOfLongTermDebt"],
   ]},
 ];
 const COLORS = ["#2563eb", "#16a34a", "#db2777", "#d97706", "#7c3aed",
@@ -557,7 +560,8 @@ addBtn.addEventListener("click", e => {
 metricSearch.addEventListener("input", () => buildMetricMenu(metricSearch.value));
 metricList.addEventListener("click", e => {
   const it = e.target.closest(".mitem");
-  if (it) toggleMetric(it.dataset.metric);
+  if (!it || it.classList.contains("sel")) return;   // selected = grayed/disabled; remove via chip ×
+  toggleMetric(it.dataset.metric);
 });
 chipsEl.addEventListener("click", e => {
   const x = e.target.closest(".x");
