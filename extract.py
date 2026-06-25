@@ -24,6 +24,7 @@ both so the unit convention is visible rather than silently rescaled.
 
 import os
 import json
+import math
 import sqlite3
 from datetime import datetime
 
@@ -359,6 +360,96 @@ def init_db(conn):
 
 
 # --------------------------------------------------------------------------
+# Supabase upload (PostgREST upsert)
+# --------------------------------------------------------------------------
+SUPABASE_BATCH = 5000
+
+
+def upload_to_supabase(company_rows, fin_rows):
+    """Upsert companies and financials into Supabase via the PostgREST API.
+
+    Requires SUPABASE_URL / SUPABASE_KEY (service_role) in the environment and
+    the tables to already exist (run the setup SQL in the Supabase SQL editor).
+    NULL financial values are skipped — they carry no information and the
+    dashboard treats missing (cik, year, metric) rows as N/A.
+    """
+    if not (SUPABASE_URL and SUPABASE_KEY):
+        print("Skipping Supabase upload (no SUPABASE_URL / SUPABASE_KEY in .env).")
+        return
+
+    base = SUPABASE_URL.rstrip("/") + "/rest/v1"
+    auth = {"apikey": SUPABASE_KEY, "Authorization": f"Bearer {SUPABASE_KEY}"}
+    write_headers = dict(auth)
+    write_headers["Content-Type"] = "application/json"
+    write_headers["Prefer"] = "resolution=merge-duplicates,return=minimal"
+
+    # Verify the tables exist before attempting to upload.
+    try:
+        chk = requests.get(f"{base}/companies?select=cik&limit=1", headers=auth, timeout=30)
+    except requests.RequestException as exc:
+        print(f"Supabase unreachable, skipping upload: {exc}")
+        return
+    if chk.status_code == 404:
+        print("\n*** Supabase tables not found. Run the setup SQL in the Supabase "
+              "SQL editor first, then re-run extract.py. Skipping upload. ***")
+        return
+    if chk.status_code >= 300:
+        print(f"Supabase check failed ({chk.status_code}): {chk.text[:200]} — skipping upload.")
+        return
+
+    print("\nUploading to Supabase ...")
+
+    # ---- companies (upsert on cik) ----
+    comp_payload = [
+        {"cik": c[0], "ticker": c[1], "name": c[2], "sector": c[3], "industry": c[4]}
+        for c in company_rows
+    ]
+    r = requests.post(f"{base}/companies?on_conflict=cik",
+                      headers=write_headers, data=json.dumps(comp_payload), timeout=120)
+    if r.status_code < 300:
+        print(f"  companies: uploaded {len(comp_payload)} rows")
+    else:
+        print(f"  companies upload FAILED ({r.status_code}): {r.text[:300]}")
+
+    # ---- financials (upsert on cik,fiscal_year,metric); skip NULL values ----
+    payload = []
+    for cik, ticker, fy, metric, value in fin_rows:
+        if value is None:
+            continue
+        if isinstance(value, float) and not math.isfinite(value):
+            continue
+        payload.append({
+            "cik": cik, "ticker": ticker, "fiscal_year": fy,
+            "metric": metric, "value": value,
+        })
+
+    total = len(payload)
+    uploaded = 0
+    failed = 0
+    for start in range(0, total, SUPABASE_BATCH):
+        chunk = payload[start:start + SUPABASE_BATCH]
+        try:
+            r = requests.post(
+                f"{base}/financials?on_conflict=cik,fiscal_year,metric",
+                headers=write_headers, data=json.dumps(chunk), timeout=180,
+            )
+        except requests.RequestException as exc:
+            failed += len(chunk)
+            print(f"  batch @{start} error: {exc}")
+            continue
+        if r.status_code < 300:
+            uploaded += len(chunk)
+        else:
+            failed += len(chunk)
+            print(f"  batch @{start} FAILED ({r.status_code}): {r.text[:200]}")
+        if (start // SUPABASE_BATCH) % 5 == 0:
+            print(f"  financials: {uploaded}/{total} uploaded ...")
+
+    print(f"  financials: uploaded {uploaded}/{total} non-null rows "
+          f"({failed} failed).")
+
+
+# --------------------------------------------------------------------------
 # Main
 # --------------------------------------------------------------------------
 def main():
@@ -392,6 +483,7 @@ def main():
     companies_loaded = 0
     skipped = []  # (ticker, reason)
     fin_rows = []  # (cik, ticker, fiscal_year, metric, value)
+    company_rows = []  # (cik, ticker, name, sector, industry)
 
     for i, row in enumerate(sp500.itertuples(index=False), start=1):
         ticker = row.ticker
@@ -444,12 +536,14 @@ def main():
             continue
 
         # Company row
+        comp = (int(cik), ticker, getattr(row, "name", None),
+                getattr(row, "sector", None), getattr(row, "industry", None))
         cur.execute(
             "INSERT OR REPLACE INTO companies (cik, ticker, name, sector, industry) "
             "VALUES (?, ?, ?, ?, ?)",
-            (int(cik), ticker, getattr(row, "name", None),
-             getattr(row, "sector", None), getattr(row, "industry", None)),
+            comp,
         )
+        company_rows.append(comp)
 
         # Financial rows: one per (fiscal_year, metric); missing -> NULL.
         for fy in sorted(years):
@@ -486,6 +580,11 @@ def main():
     print(f"Skipped tickers ({len(skipped)}):")
     for tkr, reason in skipped:
         print(f"  - {tkr}: {reason}")
+
+    # ----------------------------------------------------------------------
+    # Upload to Supabase (no-op if tables/credentials are missing)
+    # ----------------------------------------------------------------------
+    upload_to_supabase(company_rows, fin_rows)
 
     conn.close()
 
