@@ -46,6 +46,35 @@
   .panel h3 { margin:0 0 14px; font-size:15px; }
   .chart-wrap { position:relative; height:300px; }
 
+  /* analytics metric picker */
+  .analytics-head { display:flex; justify-content:space-between; align-items:flex-start; gap:16px; margin-bottom:12px; flex-wrap:wrap; }
+  .add-wrap { position:relative; }
+  .add-btn { background:var(--accent); color:#fff; border:none; border-radius:16px; padding:7px 15px; font-size:13px; cursor:pointer; }
+  .add-btn:hover { filter:brightness(1.07); }
+  .metric-menu { position:absolute; top:40px; right:0; width:300px; background:#fff; border:1px solid var(--border);
+    border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,.12); z-index:30; display:none; padding:8px; }
+  .metric-menu input { width:100%; padding:8px 10px; border:1px solid var(--border); border-radius:8px; font-size:13px; margin-bottom:6px; }
+  .metric-menu input:focus { outline:none; border-color:var(--accent); }
+  .metric-list { max-height:300px; overflow-y:auto; }
+  .mcat { font-size:11px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); padding:8px 8px 4px; }
+  .mitem { display:flex; align-items:center; justify-content:space-between; padding:7px 8px; border-radius:6px; cursor:pointer; font-size:13px; }
+  .mitem:hover { background:#f3f4f6; }
+  .mitem.sel { color:var(--accent); font-weight:600; }
+  .mitem .chk { opacity:0; }
+  .mitem.sel .chk { opacity:1; }
+  .chips { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px; }
+  .chip { display:inline-flex; align-items:center; gap:7px; background:var(--panel2); border:1px solid var(--border);
+    border-radius:16px; padding:5px 12px; font-size:13px; }
+  .chip .dot { width:9px; height:9px; border-radius:50%; }
+  .chip .x { cursor:pointer; color:var(--muted); font-weight:700; margin-left:2px; }
+  .chip .x:hover { color:var(--red); }
+
+  .topnav { display:flex; gap:4px; padding:0 28px; background:#ffffff; border-bottom:1px solid var(--border); }
+  .navtab { background:none; border:none; border-bottom:2px solid transparent; color:var(--muted);
+    padding:12px 16px; font-size:14px; cursor:pointer; }
+  .navtab:hover { color:var(--text); }
+  .navtab.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:600; }
+
   .tabs { display:flex; gap:6px; margin-bottom:14px; flex-wrap:wrap; }
   .tab { background:var(--panel); border:1px solid var(--border); color:var(--muted);
     padding:9px 16px; border-radius:8px; cursor:pointer; font-size:14px; }
@@ -83,21 +112,41 @@
 
 <div id="config-banner" class="banner" style="display:none"></div>
 
+<nav class="topnav">
+  <button class="navtab active" data-view="analytics">Analytics</button>
+  <button class="navtab" data-view="financials">Financials</button>
+</nav>
+
 <main>
   <div id="company-meta" class="company-meta"></div>
-  <div id="cards" class="cards"></div>
 
-  <div class="panel">
-    <h3>Trend — Revenue · Net Income · Free Cash Flow (in thousands USD)</h3>
-    <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
-  </div>
+  <section id="view-analytics" class="view">
+    <div id="cards" class="cards"></div>
 
-  <div class="panel">
-    <div class="tabs" id="tabs"></div>
-    <p class="note">All dollar &amp; share figures shown <b>in thousands</b> (SEC stores full dollars; values are ÷1000).
-      Per-share figures are in actual $; margins in %. Fiscal years run most-recent first.</p>
-    <div class="table-scroll"><table id="statementTable"></table></div>
-  </div>
+    <div class="panel">
+      <div class="analytics-head">
+        <h3>Analytics <span class="muted" style="font-weight:400;font-size:12px;">(in thousands USD; EPS in $)</span></h3>
+        <div class="add-wrap">
+          <button id="addBtn" class="add-btn">+ Add</button>
+          <div id="metricMenu" class="metric-menu">
+            <input id="metricSearch" type="text" placeholder="Search metrics…" autocomplete="off" />
+            <div id="metricList" class="metric-list"></div>
+          </div>
+        </div>
+      </div>
+      <div id="chips" class="chips"></div>
+      <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
+    </div>
+  </section>
+
+  <section id="view-financials" class="view" style="display:none">
+    <div class="panel">
+      <div class="tabs" id="tabs"></div>
+      <p class="note">All dollar &amp; share figures shown <b>in thousands</b> (SEC stores full dollars; values are ÷1000).
+        Per-share figures are in actual $; margins in %. Fiscal years run most-recent first.</p>
+      <div class="table-scroll"><table id="statementTable"></table></div>
+    </div>
+  </section>
 </main>
 
 <footer>Data: SEC EDGAR companyfacts → Supabase. Dashboard: vanilla JS + Chart.js.</footer>
@@ -194,6 +243,56 @@ const KPI_CARDS = [
   ["FreeCashFlow", "Free Cash Flow"],
   ["Assets", "Total Assets"],
 ];
+
+// ---- analytics chart metric catalog (label -> stored metric key) -----------
+const CHART_CATALOG = [
+  { cat: "Income Statement", items: [
+    ["Total Revenue", "RevenueFromContractWithCustomerExcludingAssessedTax"],
+    ["Cost of Revenue", "CostOfGoodsAndServicesSold"],
+    ["Gross Profit", "GrossProfit"],
+    ["Operating Expenses", "OperatingExpenses"],
+    ["Operating Income", "OperatingIncomeLoss"],
+    ["Pretax Income", "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"],
+    ["Tax Provision", "IncomeTaxExpenseBenefit"],
+    ["Net Income", "NetIncomeLoss"],
+    ["EBITDA", "EBITDA"],
+    ["Basic EPS", "EarningsPerShareBasic"],
+    ["Diluted EPS", "EarningsPerShareDiluted"],
+    ["SG&A", "SellingGeneralAndAdministrativeExpense"],
+    ["R&D Expense", "ResearchAndDevelopmentExpense"],
+    ["Interest Expense", "InterestExpense"],
+    ["Depreciation & Amortization", "DepreciationDepletionAndAmortization"],
+  ]},
+  { cat: "Balance Sheet", items: [
+    ["Total Assets", "Assets"],
+    ["Current Assets", "AssetsCurrent"],
+    ["Total Liabilities", "Liabilities"],
+    ["Current Liabilities", "LiabilitiesCurrent"],
+    ["Stockholders Equity", "StockholdersEquity"],
+    ["Long Term Debt", "LongTermDebt"],
+    ["Cash & Equivalents", "CashAndCashEquivalentsAtCarryingValue"],
+    ["Accounts Receivable", "AccountsReceivableNetCurrent"],
+    ["Inventory", "InventoryNet"],
+    ["PP&E Net", "PropertyPlantAndEquipmentNet"],
+    ["Goodwill", "Goodwill"],
+  ]},
+  { cat: "Cash Flow", items: [
+    ["Operating Cash Flow", "NetCashProvidedByUsedInOperatingActivities"],
+    ["Investing Cash Flow", "NetCashProvidedByUsedInInvestingActivities"],
+    ["Financing Cash Flow", "NetCashProvidedByUsedInFinancingActivities"],
+    ["Capital Expenditures", "PaymentsToAcquirePropertyPlantAndEquipment"],
+    ["Free Cash Flow", "FreeCashFlow"],
+    ["Stock Repurchases", "PaymentsForRepurchaseOfCommonStock"],
+    ["Dividends Paid", "PaymentsOfDividends"],
+    ["Debt Repayment", "RepaymentsOfLongTermDebt"],
+  ]},
+];
+const COLORS = ["#2563eb", "#16a34a", "#db2777", "#d97706", "#7c3aed",
+                "#0891b2", "#dc2626", "#0d9488", "#ca8a04", "#4b5563"];
+const METRIC_LABEL = {};
+CHART_CATALOG.forEach(g => g.items.forEach(([label, m]) => (METRIC_LABEL[m] = label)));
+function labelFor(m) { return METRIC_LABEL[m] || m; }
+let selectedMetrics = ["RevenueFromContractWithCustomerExcludingAssessedTax", "NetIncomeLoss", "FreeCashFlow"];
 
 let allCompanies = [];
 let pivot = {};        // metric -> { year: value }
@@ -302,8 +401,10 @@ async function selectCompany(ticker) {
 
   renderMeta(company);
   renderCards();
+  renderChips();
   renderChart();
   renderTable();
+  if (metricMenu.style.display === "block") buildMetricMenu(metricSearch.value);
 }
 
 function renderMeta(c) {
@@ -358,30 +459,122 @@ function renderTable() {
   document.getElementById("statementTable").innerHTML = head + "<tbody>" + body + "</tbody>";
 }
 
-// ---- chart -----------------------------------------------------------------
+// ---- analytics: metric picker + multi-line chart ---------------------------
+const chipsEl = document.getElementById("chips");
+const addBtn = document.getElementById("addBtn");
+const metricMenu = document.getElementById("metricMenu");
+const metricSearch = document.getElementById("metricSearch");
+const metricList = document.getElementById("metricList");
+
+function metricAvailable(m) {
+  const s = pivot[m];
+  return !!s && years.some(y => s[y] != null);
+}
+
+function fmtAxisThousands(v) {            // v is already in thousands
+  const dollars = v * 1000, a = Math.abs(dollars), s = dollars < 0 ? "-" : "";
+  if (a >= 1e9) return s + "$" + (a / 1e9).toFixed(0) + "B";
+  if (a >= 1e6) return s + "$" + (a / 1e6).toFixed(0) + "M";
+  if (a >= 1e3) return s + "$" + (a / 1e3).toFixed(0) + "K";
+  return s + "$" + Math.round(a);
+}
+
+function renderChips() {
+  chipsEl.innerHTML = selectedMetrics.map((m, i) => {
+    const color = COLORS[i % COLORS.length];
+    return `<span class="chip"><span class="dot" style="background:${color}"></span>` +
+      `${labelFor(m)}<span class="x" data-metric="${m}">×</span></span>`;
+  }).join("") || `<span class="muted" style="font-size:13px;">No metrics selected — click “+ Add”.</span>`;
+}
+
+function buildMetricMenu(q) {
+  const ql = (q || "").trim().toLowerCase();
+  let html = "";
+  for (const grp of CHART_CATALOG) {
+    const items = grp.items.filter(([label, m]) =>
+      metricAvailable(m) && (!ql || label.toLowerCase().includes(ql)));
+    if (!items.length) continue;
+    html += `<div class="mcat">${grp.cat}</div>`;
+    for (const [label, m] of items) {
+      const sel = selectedMetrics.includes(m);
+      html += `<div class="mitem ${sel ? "sel" : ""}" data-metric="${m}">` +
+        `<span>${label}</span><span class="chk">✓</span></div>`;
+    }
+  }
+  metricList.innerHTML = html || `<div class="mcat">No matching metrics</div>`;
+}
+
+function toggleMetric(m) {
+  const i = selectedMetrics.indexOf(m);
+  if (i >= 0) selectedMetrics.splice(i, 1);
+  else selectedMetrics.push(m);
+  renderChips();
+  renderChart();
+  buildMetricMenu(metricSearch.value);   // keep menu in sync while it stays open
+}
+
 let chart;
 function renderChart() {
   const chrono = [...years].sort((a, b) => a - b);   // chart left->right = old->new
-  const series = m => chrono.map(y => (pivot[m]?.[y] != null ? pivot[m][y] / 1000 : null));
-  const data = { labels: chrono.map(y => "FY" + y), datasets: [
-    { label: "Revenue", data: series("RevenueFromContractWithCustomerExcludingAssessedTax"),
-      borderColor: "#2f81f7", backgroundColor: "#2f81f733", tension: .25 },
-    { label: "Net Income", data: series("NetIncomeLoss"),
-      borderColor: "#3fb950", backgroundColor: "#3fb95033", tension: .25 },
-    { label: "Free Cash Flow", data: series("FreeCashFlow"),
-      borderColor: "#db61a2", backgroundColor: "#db61a233", tension: .25 },
-  ]};
+  const hasPS = selectedMetrics.some(isPerShare);
+  const datasets = selectedMetrics.map((m, i) => {
+    const color = COLORS[i % COLORS.length];
+    const ps = isPerShare(m);
+    const data = chrono.map(y => {
+      const v = pivot[m]?.[y];
+      return v == null ? null : (ps ? v : v / 1000);
+    });
+    return { label: labelFor(m), data, borderColor: color, backgroundColor: color + "22",
+      tension: .25, spanGaps: true, yAxisID: ps ? "yR" : "y" };
+  });
+  const scales = {
+    x: { ticks: { color: "#6b7280" }, grid: { color: "#e5e7eb" } },
+    y: { position: "left", ticks: { color: "#6b7280", callback: fmtAxisThousands }, grid: { color: "#e5e7eb" } },
+  };
+  if (hasPS) scales.yR = { position: "right", grid: { drawOnChartArea: false },
+    ticks: { color: "#6b7280", callback: v => "$" + v.toFixed(2) } };
   const opts = { responsive: true, maintainAspectRatio: false,
+    interaction: { mode: "index", intersect: false },
     plugins: { legend: { labels: { color: "#1a1a1a" } },
-      tooltip: { callbacks: { label: c => c.dataset.label + ": " +
-        (c.parsed.y == null ? "—" : Math.round(c.parsed.y).toLocaleString() + "K") } } },
-    scales: {
-      x: { ticks: { color: "#6b7280" }, grid: { color: "#e5e7eb" } },
-      y: { ticks: { color: "#6b7280", callback: v => (v / 1e6).toFixed(0) + "B" }, grid: { color: "#e5e7eb" } },
-    } };
+      tooltip: { callbacks: { label: c => {
+        if (c.parsed.y == null) return c.dataset.label + ": —";
+        return c.dataset.label + ": " + (c.dataset.yAxisID === "yR"
+          ? "$" + c.parsed.y.toFixed(2)
+          : Math.round(c.parsed.y).toLocaleString() + "K"); } } } },
+    scales };
   if (chart) chart.destroy();
-  chart = new Chart(document.getElementById("trendChart"), { type: "line", data, options: opts });
+  chart = new Chart(document.getElementById("trendChart"),
+    { type: "line", data: { labels: chrono.map(y => "FY" + y), datasets }, options: opts });
 }
+
+// metric-picker events
+addBtn.addEventListener("click", e => {
+  e.stopPropagation();
+  const show = metricMenu.style.display !== "block";
+  metricMenu.style.display = show ? "block" : "none";
+  if (show) { metricSearch.value = ""; buildMetricMenu(""); metricSearch.focus(); }
+});
+metricSearch.addEventListener("input", () => buildMetricMenu(metricSearch.value));
+metricList.addEventListener("click", e => {
+  const it = e.target.closest(".mitem");
+  if (it) toggleMetric(it.dataset.metric);
+});
+chipsEl.addEventListener("click", e => {
+  const x = e.target.closest(".x");
+  if (x) toggleMetric(x.dataset.metric);
+});
+document.addEventListener("click", e => {
+  if (!e.target.closest(".add-wrap")) metricMenu.style.display = "none";
+});
+
+// top-nav view switching (Analytics / Financials)
+document.querySelectorAll(".navtab").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll(".navtab").forEach(b => b.classList.toggle("active", b === btn));
+  const v = btn.dataset.view;
+  document.getElementById("view-analytics").style.display = v === "analytics" ? "" : "none";
+  document.getElementById("view-financials").style.display = v === "financials" ? "" : "none";
+  if (v === "analytics" && chart) chart.resize();
+}));
 
 // ---- boot ------------------------------------------------------------------
 (function boot() {
