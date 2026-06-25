@@ -48,15 +48,19 @@
 
   /* analytics metric picker */
   .analytics-head { display:flex; justify-content:space-between; align-items:flex-start; gap:16px; margin-bottom:12px; flex-wrap:wrap; }
+  .head-controls { display:flex; align-items:center; gap:10px; }
+  .mode-toggle { display:inline-flex; border:1px solid var(--border); border-radius:16px; overflow:hidden; }
+  .mode-btn { background:#fff; border:none; color:var(--muted); padding:7px 14px; font-size:13px; cursor:pointer; }
+  .mode-btn.active { background:var(--accent); color:#fff; font-weight:600; }
   .add-wrap { position:relative; }
   .add-btn { background:var(--accent); color:#fff; border:none; border-radius:16px; padding:7px 15px; font-size:13px; cursor:pointer; }
   .add-btn:hover { filter:brightness(1.07); }
-  .metric-menu { position:absolute; top:40px; right:0; width:300px; background:#fff; border:1px solid var(--border);
-    border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,.12); z-index:30; display:none; padding:8px; }
+  .metric-menu { position:absolute; top:42px; right:0; width:300px; background:#ffffff; border:1px solid var(--border);
+    border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.18); z-index:9999; display:none; padding:8px; }
   .metric-menu input { width:100%; padding:8px 10px; border:1px solid var(--border); border-radius:8px; font-size:13px; margin-bottom:6px; }
   .metric-menu input:focus { outline:none; border-color:var(--accent); }
   .metric-list { max-height:300px; overflow-y:auto; }
-  .mcat { font-size:11px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); padding:8px 8px 4px; }
+  .mcat { font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.04em; color:var(--text); padding:10px 8px 4px; }
   .mitem { display:flex; align-items:center; justify-content:space-between; padding:7px 8px; border-radius:6px; cursor:pointer; font-size:13px; }
   .mitem:hover { background:#f3f4f6; }
   .mitem.sel { color:var(--muted); opacity:.5; cursor:default; }
@@ -126,12 +130,18 @@
 
     <div class="panel">
       <div class="analytics-head">
-        <h3>Analytics <span class="muted" style="font-weight:400;font-size:12px;">(in thousands USD; EPS in $)</span></h3>
-        <div class="add-wrap">
-          <button id="addBtn" class="add-btn">+ Add</button>
-          <div id="metricMenu" class="metric-menu">
-            <input id="metricSearch" type="text" placeholder="Search metrics…" autocomplete="off" />
-            <div id="metricList" class="metric-list"></div>
+        <h3>Analytics <span class="muted" style="font-weight:400;font-size:12px;">(USD in billions; EPS &amp; dividends in $; margins in %)</span></h3>
+        <div class="head-controls">
+          <div class="mode-toggle">
+            <button id="modeValue" class="mode-btn active">Value</button>
+            <button id="modeYoy" class="mode-btn">YoY %</button>
+          </div>
+          <div class="add-wrap">
+            <button id="addBtn" class="add-btn">+ Add</button>
+            <div id="metricMenu" class="metric-menu">
+              <input id="metricSearch" type="text" placeholder="Search metrics…" autocomplete="off" />
+              <div id="metricList" class="metric-list"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -259,10 +269,19 @@ const CHART_CATALOG = [
     ["EBITDA", "EBITDA"],
     ["Basic EPS", "EarningsPerShareBasic"],
     ["Diluted EPS", "EarningsPerShareDiluted"],
+    ["Basic Shares", "WeightedAverageNumberOfSharesOutstandingBasic"],
+    ["Diluted Shares", "WeightedAverageNumberOfDilutedSharesOutstanding"],
     ["SG&A", "SellingGeneralAndAdministrativeExpense"],
     ["R&D Expense", "ResearchAndDevelopmentExpense"],
     ["Interest Expense", "InterestExpense"],
     ["Depreciation & Amortization", "DepreciationDepletionAndAmortization"],
+    ["Share Based Compensation", "ShareBasedCompensation"],
+    ["Other Non-Operating Income", "OtherNonoperatingIncomeExpense"],
+    ["Comprehensive Income", "ComprehensiveIncomeNetOfTax"],
+    ["Dividends Per Share", "CommonStockDividendsPerShareCashPaid"],
+    ["Gross Margin %", "GrossMarginPct"],
+    ["Operating Margin %", "OperatingMarginPct"],
+    ["Net Margin %", "NetMarginPct"],
   ]},
   { cat: "🏦 Balance Sheet", items: [
     ["Total Assets", "Assets"],
@@ -270,13 +289,27 @@ const CHART_CATALOG = [
     ["Non-Current Assets", "AssetsNoncurrent"],
     ["Total Liabilities", "Liabilities"],
     ["Current Liabilities", "LiabilitiesCurrent"],
+    ["Non-Current Liabilities", "LiabilitiesNoncurrent"],
     ["Stockholders Equity", "StockholdersEquity"],
+    ["Retained Earnings", "RetainedEarningsAccumulatedDeficit"],
     ["Long Term Debt", "LongTermDebt"],
+    ["Long Term Debt (Non-Current)", "LongTermDebtNoncurrent"],
     ["Cash & Equivalents", "CashAndCashEquivalentsAtCarryingValue"],
     ["Accounts Receivable", "AccountsReceivableNetCurrent"],
     ["Inventory", "InventoryNet"],
+    ["Accounts Payable", "AccountsPayableCurrent"],
     ["PP&E Net", "PropertyPlantAndEquipmentNet"],
+    ["PP&E Gross", "PropertyPlantAndEquipmentGross"],
     ["Goodwill", "Goodwill"],
+    ["Intangibles Net", "FiniteLivedIntangibleAssetsNet"],
+    ["Deferred Revenue", "DeferredRevenueCurrent"],
+    ["Commercial Paper", "CommercialPaper"],
+    ["Shares Issued", "CommonStockSharesIssued"],
+    ["Shares Outstanding", "CommonStockSharesOutstanding"],
+    ["Operating Lease Liability", "OperatingLeaseLiability"],
+    ["Finance Lease Liability", "FinanceLeaseLiability"],
+    ["Total Debt", "TotalDebt"],
+    ["Net Debt", "NetDebt"],
   ]},
   { cat: "💵 Cash Flow", items: [
     ["Operating Cash Flow", "NetCashProvidedByUsedInOperatingActivities"],
@@ -284,18 +317,24 @@ const CHART_CATALOG = [
     ["Financing Cash Flow", "NetCashProvidedByUsedInFinancingActivities"],
     ["Capital Expenditures", "PaymentsToAcquirePropertyPlantAndEquipment"],
     ["Free Cash Flow", "FreeCashFlow"],
+    ["Acquisitions", "PaymentsToAcquireBusinessesNetOfCashAcquired"],
+    ["Proceeds from Debt", "ProceedsFromIssuanceOfLongTermDebt"],
+    ["Debt Repayment", "RepaymentsOfLongTermDebt"],
     ["Stock Repurchases", "PaymentsForRepurchaseOfCommonStock"],
     ["Dividends Paid", "PaymentsOfDividends"],
-    ["Debt Repayment", "RepaymentsOfLongTermDebt"],
-    ["Proceeds from Debt", "ProceedsFromIssuanceOfLongTermDebt"],
+    ["Stock Issuance", "ProceedsFromIssuanceOfCommonStock"],
+    ["End Cash Position", "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"],
+    ["Tax Paid", "IncomeTaxesPaidNet"],
+    ["Interest Paid", "InterestPaidNet"],
   ]},
 ];
-const COLORS = ["#2563eb", "#16a34a", "#db2777", "#d97706", "#7c3aed",
+const COLORS = ["#2d4eb5", "#16a34a", "#db2777", "#d97706", "#7c3aed",
                 "#0891b2", "#dc2626", "#0d9488", "#ca8a04", "#4b5563"];
 const METRIC_LABEL = {};
 CHART_CATALOG.forEach(g => g.items.forEach(([label, m]) => (METRIC_LABEL[m] = label)));
 function labelFor(m) { return METRIC_LABEL[m] || m; }
-let selectedMetrics = ["RevenueFromContractWithCustomerExcludingAssessedTax", "NetIncomeLoss", "FreeCashFlow"];
+let selectedMetrics = ["RevenueFromContractWithCustomerExcludingAssessedTax"];
+let chartMode = "value";   // "value" = bar (billions) | "yoy" = line (% change)
 
 let allCompanies = [];
 let pivot = {};        // metric -> { year: value }
@@ -319,16 +358,12 @@ function fmtCell(metric, v) {
   return { text: txt, neg: scaled < 0 };
 }
 
-// compact form for KPI cards (in thousands)
+// compact form for KPI cards (full dollars -> $B / $M, consistent with chart)
 function fmtCard(metric, v) {
   if (v == null) return "—";
   if (isPct(metric)) return (v * 100).toFixed(1) + "%";
   if (isPerShare(metric)) return "$" + v.toFixed(2);
-  const t = v / 1000, a = Math.abs(t), s = t < 0 ? "-" : "";
-  if (a >= 1e9) return s + (a / 1e9).toFixed(2) + "B";   // billions of thousands
-  if (a >= 1e6) return s + (a / 1e6).toFixed(2) + "M";
-  if (a >= 1e3) return s + (a / 1e3).toFixed(1) + "K";
-  return s + Math.round(a).toLocaleString("en-US");
+  return fmtBillions(v / 1e9);
 }
 
 async function api(path) {
@@ -427,7 +462,7 @@ function renderCards() {
     const { yr, val } = latestWithValue(m);
     return `<div class="card"><div class="label">${label}</div>
       <div class="value">${fmtCard(m, val)}</div>
-      <div class="yr">${yr ? "FY" + yr + " · thousands" : "no data"}</div></div>`;
+      <div class="yr">${yr ? "FY" + yr : "no data"}</div></div>`;
   }).join("");
 }
 
@@ -469,17 +504,36 @@ const metricMenu = document.getElementById("metricMenu");
 const metricSearch = document.getElementById("metricSearch");
 const metricList = document.getElementById("metricList");
 
-function metricAvailable(m) {
-  const s = pivot[m];
-  return !!s && years.some(y => s[y] != null);
+// ---- metric unit kinds -----------------------------------------------------
+function isShares(m) { return /Shares|WeightedAverageNumber/.test(m); }
+function metricKind(m) {
+  if (isPct(m)) return "pct";
+  if (isPerShare(m)) return "pershare";
+  if (isShares(m)) return "shares";
+  return "dollars";
 }
-
-function fmtAxisThousands(v) {            // v is already in thousands
-  const dollars = v * 1000, a = Math.abs(dollars), s = dollars < 0 ? "-" : "";
-  if (a >= 1e9) return s + "$" + (a / 1e9).toFixed(0) + "B";
-  if (a >= 1e6) return s + "$" + (a / 1e6).toFixed(0) + "M";
-  if (a >= 1e3) return s + "$" + (a / 1e3).toFixed(0) + "K";
-  return s + "$" + Math.round(a);
+function axisFor(m) { const k = metricKind(m); return (k === "pct" || k === "pershare") ? "yR" : "y"; }
+function plotValue(m, raw) {            // value mode: dollars/shares -> billions
+  if (raw == null) return null;
+  const k = metricKind(m);
+  if (k === "pct") return raw * 100;
+  if (k === "pershare") return raw;
+  return raw / 1e9;                      // dollars & share counts -> billions
+}
+function fmtBillions(v) {               // v already in billions
+  const a = Math.abs(v), s = v < 0 ? "-" : "";
+  if (a === 0) return "$0";
+  if (a >= 1) return s + "$" + (a >= 10 ? a.toFixed(0) : a.toFixed(1)) + "B";
+  if (a >= 0.001) return s + "$" + (a * 1000).toFixed(0) + "M";
+  return s + "$" + Math.round(a * 1e9);
+}
+function yoySeries(m, chrono) {         // year-over-year % change, aligned to chrono
+  return chrono.map((y, i) => {
+    if (i === 0) return null;
+    const cur = pivot[m]?.[y], prev = pivot[m]?.[chrono[i - 1]];
+    if (cur == null || prev == null || prev === 0) return null;
+    return (cur - prev) / Math.abs(prev) * 100;
+  });
 }
 
 function renderChips() {
@@ -494,8 +548,7 @@ function buildMetricMenu(q) {
   const ql = (q || "").trim().toLowerCase();
   let html = "";
   for (const grp of CHART_CATALOG) {
-    const items = grp.items.filter(([label, m]) =>
-      metricAvailable(m) && (!ql || label.toLowerCase().includes(ql)));
+    const items = grp.items.filter(([label]) => !ql || label.toLowerCase().includes(ql));
     if (!items.length) continue;
     html += `<div class="mcat">${grp.cat}</div>`;
     for (const [label, m] of items) {
@@ -516,38 +569,91 @@ function toggleMetric(m) {
   buildMetricMenu(metricSearch.value);   // keep menu in sync while it stays open
 }
 
+// shared chart option helpers
+function canvasEl() { return document.getElementById("trendChart"); }
+function baseOpts() {
+  return { responsive: true, maintainAspectRatio: false,
+    interaction: { mode: "index", intersect: false },
+    layout: { padding: { top: 22 } },
+    plugins: { legend: { labels: { color: "#1a1a1a", usePointStyle: true, boxWidth: 8 } } } };
+}
+function xScale() { return { grid: { display: false }, border: { display: false }, ticks: { color: "#6b7280" } }; }
+function gridDash() { return { color: "#e5e7eb", borderDash: [4, 4], drawTicks: false }; }
+
+// draw the YoY% above each bar (value mode only)
+const yoyBarLabels = {
+  id: "yoyBarLabels",
+  afterDatasetsDraw(c) {
+    if (chartMode !== "value") return;
+    const ctx = c.ctx;
+    c.data.datasets.forEach((ds, di) => {
+      if (!ds._yoy) return;
+      c.getDatasetMeta(di).data.forEach((bar, i) => {
+        const g = ds._yoy[i];
+        if (g == null) return;
+        ctx.save();
+        ctx.fillStyle = "#6b7280";
+        ctx.font = "10px -apple-system, Segoe UI, sans-serif";
+        ctx.textAlign = "center";
+        ctx.fillText((g >= 0 ? "+" : "") + g.toFixed(1) + "%", bar.x, bar.y - 5);
+        ctx.restore();
+      });
+    });
+  }
+};
+
 let chart;
 function renderChart() {
-  const chrono = [...years].sort((a, b) => a - b);   // chart left->right = old->new
-  const hasPS = selectedMetrics.some(isPerShare);
+  const chrono = [...years].sort((a, b) => a - b);
+  const labels = chrono.map(y => String(y));   // plain years: 2022, 2023, 2024, 2025
+
+  // ----- YoY % mode: line chart of year-over-year % change -----
+  if (chartMode === "yoy") {
+    const datasets = selectedMetrics.map((m, i) => {
+      const color = COLORS[i % COLORS.length];
+      return { label: labelFor(m), data: yoySeries(m, chrono), borderColor: color,
+        backgroundColor: color + "22", tension: .25, spanGaps: true, pointRadius: 3, borderWidth: 2 };
+    });
+    const opts = baseOpts();
+    opts.scales = { x: xScale(),
+      y: { grid: gridDash(), border: { display: false },
+        ticks: { color: "#6b7280", callback: v => v.toFixed(0) + "%" } } };
+    opts.plugins.tooltip = { callbacks: { label: c =>
+      c.dataset.label + ": " + (c.parsed.y == null ? "—"
+        : (c.parsed.y >= 0 ? "+" : "") + c.parsed.y.toFixed(1) + "%") } };
+    if (chart) chart.destroy();
+    chart = new Chart(canvasEl(), { type: "line", data: { labels, datasets }, options: opts });
+    return;
+  }
+
+  // ----- Value mode: grouped bar chart in billions -----
+  const hasR = selectedMetrics.some(m => axisFor(m) === "yR");
   const datasets = selectedMetrics.map((m, i) => {
     const color = COLORS[i % COLORS.length];
-    const ps = isPerShare(m);
-    const data = chrono.map(y => {
-      const v = pivot[m]?.[y];
-      return v == null ? null : (ps ? v : v / 1000);
-    });
-    return { label: labelFor(m), data, borderColor: color, backgroundColor: color + "22",
-      tension: .25, spanGaps: true, yAxisID: ps ? "yR" : "y" };
+    return { label: labelFor(m), data: chrono.map(y => plotValue(m, pivot[m]?.[y])),
+      backgroundColor: color, borderColor: color, borderRadius: 4, borderSkipped: false,
+      categoryPercentage: .7, barPercentage: .9, yAxisID: axisFor(m),
+      _yoy: yoySeries(m, chrono) };
   });
-  const scales = {
-    x: { ticks: { color: "#6b7280" }, grid: { color: "#e5e7eb" } },
-    y: { position: "left", ticks: { color: "#6b7280", callback: fmtAxisThousands }, grid: { color: "#e5e7eb" } },
-  };
-  if (hasPS) scales.yR = { position: "right", grid: { drawOnChartArea: false },
-    ticks: { color: "#6b7280", callback: v => "$" + v.toFixed(2) } };
-  const opts = { responsive: true, maintainAspectRatio: false,
-    interaction: { mode: "index", intersect: false },
-    plugins: { legend: { labels: { color: "#1a1a1a" } },
-      tooltip: { callbacks: { label: c => {
-        if (c.parsed.y == null) return c.dataset.label + ": —";
-        return c.dataset.label + ": " + (c.dataset.yAxisID === "yR"
-          ? "$" + c.parsed.y.toFixed(2)
-          : Math.round(c.parsed.y).toLocaleString() + "K"); } } } },
-    scales };
+  const opts = baseOpts();
+  opts.scales = { x: xScale(),
+    y: { grid: gridDash(), border: { display: false }, beginAtZero: true,
+      ticks: { color: "#6b7280", callback: fmtBillions } } };
+  if (hasR) opts.scales.yR = { position: "right", grid: { drawOnChartArea: false },
+    border: { display: false }, ticks: { color: "#6b7280" } };
+  opts.plugins.tooltip = { callbacks: { label: c => {
+    const m = selectedMetrics[c.datasetIndex], raw = pivot[m]?.[chrono[c.dataIndex]];
+    if (raw == null) return c.dataset.label + ": —";
+    const k = metricKind(m);
+    let val;
+    if (k === "pct") val = (raw * 100).toFixed(1) + "%";
+    else if (k === "pershare") val = "$" + raw.toFixed(2);
+    else if (k === "shares") val = (raw / 1e9).toFixed(2) + "B sh";
+    else val = fmtBillions(raw / 1e9);
+    return c.dataset.label + ": " + val; } } };
   if (chart) chart.destroy();
-  chart = new Chart(document.getElementById("trendChart"),
-    { type: "line", data: { labels: chrono.map(y => "FY" + y), datasets }, options: opts });
+  chart = new Chart(canvasEl(),
+    { type: "bar", data: { labels, datasets }, options: opts, plugins: [yoyBarLabels] });
 }
 
 // metric-picker events
@@ -570,6 +676,18 @@ chipsEl.addEventListener("click", e => {
 document.addEventListener("click", e => {
   if (!e.target.closest(".add-wrap")) metricMenu.style.display = "none";
 });
+
+// chart mode toggle (Value / YoY %)
+const modeValueBtn = document.getElementById("modeValue");
+const modeYoyBtn = document.getElementById("modeYoy");
+function setMode(mode) {
+  chartMode = mode;
+  modeValueBtn.classList.toggle("active", mode === "value");
+  modeYoyBtn.classList.toggle("active", mode === "yoy");
+  renderChart();
+}
+modeValueBtn.addEventListener("click", () => setMode("value"));
+modeYoyBtn.addEventListener("click", () => setMode("yoy"));
 
 // top-nav view switching (Analytics / Financials)
 document.querySelectorAll(".navtab").forEach(btn => btn.addEventListener("click", () => {
