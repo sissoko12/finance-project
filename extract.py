@@ -400,10 +400,16 @@ def upload_to_supabase(company_rows, fin_rows):
     print("\nUploading to Supabase ...")
 
     # ---- companies (upsert on cik) ----
-    comp_payload = [
-        {"cik": c[0], "ticker": c[1], "name": c[2], "sector": c[3], "industry": c[4]}
-        for c in company_rows
-    ]
+    # Dedupe by cik: dual-class tickers (GOOGL/GOOG, FOXA/FOX, NWSA/NWS) share
+    # one CIK; a single upsert command cannot touch the same key twice.
+    comp_seen = set()
+    comp_payload = []
+    for c in company_rows:
+        if c[0] in comp_seen:
+            continue
+        comp_seen.add(c[0])
+        comp_payload.append(
+            {"cik": c[0], "ticker": c[1], "name": c[2], "sector": c[3], "industry": c[4]})
     r = requests.post(f"{base}/companies?on_conflict=cik",
                       headers=write_headers, data=json.dumps(comp_payload), timeout=120)
     if r.status_code < 300:
@@ -412,12 +418,19 @@ def upload_to_supabase(company_rows, fin_rows):
         print(f"  companies upload FAILED ({r.status_code}): {r.text[:300]}")
 
     # ---- financials (upsert on cik,fiscal_year,metric); skip NULL values ----
+    # Dedupe by (cik, fiscal_year, metric) — dual-class tickers share a CIK and
+    # would otherwise put the same conflict key twice in one batch.
     payload = []
+    fin_seen = set()
     for cik, ticker, fy, metric, value in fin_rows:
         if value is None:
             continue
         if isinstance(value, float) and not math.isfinite(value):
             continue
+        k = (cik, fy, metric)
+        if k in fin_seen:
+            continue
+        fin_seen.add(k)
         payload.append({
             "cik": cik, "ticker": ticker, "fiscal_year": fy,
             "metric": metric, "value": value,
