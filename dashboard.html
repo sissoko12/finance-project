@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>S&P 500 Financial Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --border: #30363d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #2f81f7;
+    --green: #3fb950; --red: #f85149;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 20px 28px; border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+  }
+  header h1 { font-size: 18px; margin: 0; font-weight: 600; }
+  header .sub { color: var(--muted); font-size: 13px; }
+  .controls { margin-left: auto; display: flex; gap: 12px; align-items: center; }
+  select, input {
+    background: var(--panel); color: var(--text); border: 1px solid var(--border);
+    border-radius: 6px; padding: 8px 10px; font-size: 14px; min-width: 220px;
+  }
+  main { padding: 24px 28px; max-width: 1300px; margin: 0 auto; }
+  .company-meta { margin-bottom: 20px; }
+  .company-meta h2 { margin: 0 0 4px; font-size: 22px; }
+  .company-meta .tags { color: var(--muted); font-size: 13px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 26px; }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
+  .card .label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .card .value { font-size: 24px; font-weight: 600; margin-top: 6px; }
+  .card .yr { color: var(--muted); font-size: 11px; margin-top: 4px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px; margin-bottom: 26px; }
+  .panel h3 { margin: 0 0 14px; font-size: 15px; }
+  .chart-wrap { position: relative; height: 340px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 8px 10px; text-align: right; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--panel); }
+  thead th { color: var(--muted); font-weight: 600; border-bottom: 2px solid var(--border); }
+  .table-scroll { overflow-x: auto; }
+  tbody tr:hover td { background: rgba(47,129,247,.08); }
+  .pos { color: var(--green); } .neg { color: var(--red); }
+  .banner { background: #3d2a00; border: 1px solid #9e6a00; color: #ffd479; padding: 12px 16px; border-radius: 8px; margin: 16px 28px; font-size: 13px; }
+  .muted { color: var(--muted); }
+  footer { padding: 20px 28px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--border); }
+  code { background: #00000040; padding: 1px 5px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>S&amp;P 500 Financial Dashboard</h1>
+    <div class="sub">SEC EDGAR XBRL · 10-K annual data · FY2010+</div>
+  </div>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Filter companies…" />
+    <select id="company"></select>
+  </div>
+</header>
+
+<div id="config-banner" class="banner" style="display:none"></div>
+
+<main>
+  <div id="company-meta" class="company-meta"></div>
+  <div id="cards" class="cards"></div>
+
+  <div class="panel">
+    <h3>Trend (Revenue · Net Income · Free Cash Flow)</h3>
+    <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
+  </div>
+
+  <div class="panel">
+    <h3>All metrics by fiscal year</h3>
+    <div class="table-scroll"><table id="metricsTable"></table></div>
+  </div>
+</main>
+
+<footer>
+  Values shown in full dollars as stored by SEC XBRL. Margins shown as %, EPS &amp; dividends per share in $, share counts as units.
+</footer>
+
+<script>
+// ============================================================================
+// CONFIG — fill in your Supabase project URL and **anon (publishable)** key.
+// Do NOT put the service_role key here: this file is committed to a public
+// repo and the anon key (protected by Row-Level Security) is the safe one to
+// expose in the browser. Find it in Supabase → Project Settings → API.
+// ============================================================================
+const SUPABASE_URL = "https://daafhufkauamzrvyxfwg.supabase.co";
+const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
+
+const REST = SUPABASE_URL.replace(/\/$/, "") + "/rest/v1";
+const HEADERS = { apikey: SUPABASE_ANON_KEY, Authorization: "Bearer " + SUPABASE_ANON_KEY };
+
+// Metrics highlighted as summary cards (in display order).
+const CARD_METRICS = [
+  ["RevenueFromContractWithCustomerExcludingAssessedTax", "Revenue"],
+  ["NetIncomeLoss", "Net Income"],
+  ["FreeCashFlow", "Free Cash Flow"],
+  ["EBITDA", "EBITDA"],
+  ["Assets", "Total Assets"],
+  ["StockholdersEquity", "Shareholders' Equity"],
+];
+
+let allCompanies = [];
+
+// ---- formatting helpers ----------------------------------------------------
+function isPct(m) { return /Pct$/.test(m); }
+function isPerShare(m) { return /EarningsPerShare|PerShareCashPaid/.test(m); }
+function isShares(m) { return /Shares|WeightedAverageNumber/.test(m); }
+
+function fmt(metric, v) {
+  if (v === null || v === undefined || Number.isNaN(v)) return "—";
+  if (isPct(metric)) return (v * 100).toFixed(1) + "%";
+  if (isPerShare(metric)) return "$" + v.toFixed(2);
+  if (isShares(metric)) return Math.round(v).toLocaleString();
+  // currency, full dollars -> compact
+  const a = Math.abs(v);
+  const sign = v < 0 ? "-" : "";
+  if (a >= 1e12) return sign + "$" + (a / 1e12).toFixed(2) + "T";
+  if (a >= 1e9)  return sign + "$" + (a / 1e9).toFixed(2) + "B";
+  if (a >= 1e6)  return sign + "$" + (a / 1e6).toFixed(2) + "M";
+  if (a >= 1e3)  return sign + "$" + (a / 1e3).toFixed(1) + "K";
+  return sign + "$" + a.toFixed(0);
+}
+
+async function api(path) {
+  const res = await fetch(REST + path, { headers: HEADERS });
+  if (!res.ok) throw new Error(res.status + " " + (await res.text()));
+  return res.json();
+}
+
+// ---- load company list -----------------------------------------------------
+async function loadCompanies() {
+  allCompanies = await api("/companies?select=cik,ticker,name,sector,industry&order=ticker");
+  renderCompanyOptions(allCompanies);
+  if (allCompanies.length) {
+    const aapl = allCompanies.find(c => c.ticker === "AAPL");
+    selectCompany((aapl || allCompanies[0]).ticker);
+  }
+}
+
+function renderCompanyOptions(list) {
+  const sel = document.getElementById("company");
+  sel.innerHTML = list.map(c =>
+    `<option value="${c.ticker}">${c.ticker} — ${c.name || ""}</option>`).join("");
+}
+
+// ---- load one company's financials ----------------------------------------
+async function selectCompany(ticker) {
+  document.getElementById("company").value = ticker;
+  const company = allCompanies.find(c => c.ticker === ticker);
+  const rows = await api(`/financials?ticker=eq.${encodeURIComponent(ticker)}` +
+                         `&select=fiscal_year,metric,value&order=fiscal_year.asc`);
+
+  // pivot: metric -> { year: value }, and collect sorted years
+  const byMetric = {};
+  const yearSet = new Set();
+  for (const r of rows) {
+    yearSet.add(r.fiscal_year);
+    (byMetric[r.metric] ||= {})[r.fiscal_year] = r.value;
+  }
+  const years = [...yearSet].sort((a, b) => a - b);
+
+  renderMeta(company);
+  renderCards(byMetric, years);
+  renderTable(byMetric, years);
+  renderChart(byMetric, years);
+}
+
+function renderMeta(c) {
+  document.getElementById("company-meta").innerHTML = c ? `
+    <h2>${c.name || c.ticker} <span class="muted">(${c.ticker})</span></h2>
+    <div class="tags">${[c.sector, c.industry].filter(Boolean).join(" · ")} · CIK ${c.cik}</div>` : "";
+}
+
+function renderCards(byMetric, years) {
+  const latest = years[years.length - 1];
+  const html = CARD_METRICS.map(([m, label]) => {
+    const series = byMetric[m] || {};
+    // latest year that actually has a value
+    let yr = null, val = null;
+    for (let i = years.length - 1; i >= 0; i--) {
+      if (series[years[i]] != null) { yr = years[i]; val = series[years[i]]; break; }
+    }
+    return `<div class="card">
+      <div class="label">${label}</div>
+      <div class="value">${fmt(m, val)}</div>
+      <div class="yr">${yr ? "FY" + yr : "no data"}</div>
+    </div>`;
+  }).join("");
+  document.getElementById("cards").innerHTML = html;
+}
+
+function renderTable(byMetric, years) {
+  const metrics = Object.keys(byMetric).sort();
+  let head = "<thead><tr><th>Metric</th>" +
+    years.map(y => `<th>FY${y}</th>`).join("") + "</tr></thead>";
+  let body = "<tbody>" + metrics.map(m => {
+    const cells = years.map(y => {
+      const v = byMetric[m][y];
+      const cls = (typeof v === "number" && v < 0) ? "neg" : "";
+      return `<td class="${cls}">${v == null ? "" : fmt(m, v)}</td>`;
+    }).join("");
+    return `<tr><td>${m}</td>${cells}</tr>`;
+  }).join("") + "</tbody>";
+  document.getElementById("metricsTable").innerHTML = head + body;
+}
+
+let chart;
+function renderChart(byMetric, years) {
+  const series = (m) => years.map(y => (byMetric[m]?.[y]) ?? null);
+  const data = {
+    labels: years.map(y => "FY" + y),
+    datasets: [
+      { label: "Revenue", data: series("RevenueFromContractWithCustomerExcludingAssessedTax"),
+        borderColor: "#2f81f7", backgroundColor: "#2f81f733", tension: .25 },
+      { label: "Net Income", data: series("NetIncomeLoss"),
+        borderColor: "#3fb950", backgroundColor: "#3fb95033", tension: .25 },
+      { label: "Free Cash Flow", data: series("FreeCashFlow"),
+        borderColor: "#db61a2", backgroundColor: "#db61a233", tension: .25 },
+    ],
+  };
+  const opts = {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: "#e6edf3" } } },
+    scales: {
+      x: { ticks: { color: "#8b949e" }, grid: { color: "#30363d" } },
+      y: { ticks: { color: "#8b949e", callback: v => fmt("Revenue", v) }, grid: { color: "#30363d" } },
+    },
+  };
+  if (chart) chart.destroy();
+  chart = new Chart(document.getElementById("trendChart"), { type: "line", data, options: opts });
+}
+
+// ---- events ----------------------------------------------------------------
+document.getElementById("company").addEventListener("change", e => selectCompany(e.target.value));
+document.getElementById("search").addEventListener("input", e => {
+  const q = e.target.value.trim().toUpperCase();
+  const filtered = allCompanies.filter(c =>
+    c.ticker.includes(q) || (c.name || "").toUpperCase().includes(q));
+  renderCompanyOptions(filtered.length ? filtered : allCompanies);
+});
+
+// ---- boot ------------------------------------------------------------------
+(function boot() {
+  if (SUPABASE_ANON_KEY === "YOUR_SUPABASE_ANON_KEY") {
+    const b = document.getElementById("config-banner");
+    b.style.display = "block";
+    b.innerHTML = "⚠️ Set <code>SUPABASE_ANON_KEY</code> near the top of dashboard.html " +
+      "(Supabase → Project Settings → API → anon/public key). The dashboard can't load data until then.";
+    return;
+  }
+  loadCompanies().catch(err => {
+    const b = document.getElementById("config-banner");
+    b.style.display = "block";
+    b.textContent = "Failed to load data: " + err.message +
+      " — check the anon key and that a public read policy / grant exists on the tables.";
+  });
+})();
+</script>
+</body>
+</html>

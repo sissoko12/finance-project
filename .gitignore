@@ -12,3 +12,16 @@ data/
 
 # Claude Code internal files
 .claude/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Database files
+*.db
