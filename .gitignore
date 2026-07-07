@@ -1,26 +1,12 @@
-# Python virtual environment
+# Python
 venv/
-
-# Downloaded data files (can be thousands of files)
-data/
-
-# macOS metadata
-.DS_Store
-
-# Backup/save files
-*.save
-
-# Claude Code internal files
-.claude/
-
-# Python cache
 __pycache__/
 *.pyc
-
-# Environment variables
+*.save
+.claude/
+.DS_Store
+*.db
 .env
-
-# Node modules
 node_modules/
 
 # Database files
@@ -35,3 +21,23 @@ zacks_downloads/
 debug_*.png
 debug_*.html
 debug_*.txt
+
+# Keep raw 10-K HTML filings ignored (too large for GitHub)
+data/JPM/
+data/BAC/
+data/WFC/
+data/C/
+data/GS/
+data/MS/
+data/USB/
+data/PNC/
+data/TFC/
+data/COF/
+data/STT/
+data/BK/
+data/SCHW/
+data/xbrl_cache/
+
+# But DO track processed CSVs and news
+!data/processed/
+!data/news/
