@@ -3,6 +3,8 @@ venv/
 
 # Downloaded data files (can be thousands of files)
 data/
+# Exception: S&P 500 company list needed by the dashboard
+!data/sp500_tickers.json
 
 # macOS metadata
 .DS_Store

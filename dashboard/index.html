@@ -1037,7 +1037,7 @@ tbody tr:hover td { background: rgba(0,102,204,0.04); }
 <section id="view-credit" class="view">
   <!-- Ticker search -->
   <div class="ca-search-wrap">
-    <input type="text" id="ca-input" placeholder="Search any company… (e.g. Apple, Tesla, Goldman Sachs)" autocomplete="off"/>
+    <input type="text" id="ca-input" placeholder="Search any S&amp;P 500 company by name or ticker… (e.g. Apple, Tesla, Goldman Sachs)" autocomplete="off"/>
     <div id="ca-dropdown" class="ca-dropdown hidden"></div>
   </div>
 
@@ -1045,7 +1045,7 @@ tbody tr:hover td { background: rgba(0,102,204,0.04); }
   <div id="ca-empty" class="ca-empty-state">
     <div class="ca-icon">🔍</div>
     <p>Search for any publicly traded company to run a full credit &amp; fundamental analysis</p>
-    <p style="font-size:12px;color:var(--muted)">Powered by Finnhub · Data cached per session · Works for any ticker</p>
+    <p style="font-size:12px;color:var(--muted)">Powered by SEC EDGAR XBRL API · Free, no API key · Data cached per session</p>
   </div>
 
   <!-- Loading skeleton -->
@@ -1158,7 +1158,7 @@ tbody tr:hover td { background: rgba(0,102,204,0.04); }
         <div class="ca-chart-body"><div class="ca-chart-wrap"><canvas id="ca-chart-lev"></canvas></div></div>
       </div>
       <div class="ca-chart-panel">
-        <div class="ca-chart-title">Interest Coverage History</div>
+        <div class="ca-chart-title">ROE &amp; ROA History</div>
         <div class="ca-chart-body"><div class="ca-chart-wrap"><canvas id="ca-chart-cov"></canvas></div></div>
       </div>
     </div>
@@ -1199,7 +1199,7 @@ tbody tr:hover td { background: rgba(0,102,204,0.04); }
       <strong>Credit Analysis Disclaimer:</strong> Credit analysis metrics and scores shown here are computed
       from publicly available financial data and heuristic formulas. They are illustrative tools only —
       NOT credit ratings, NOT investment advice, and NOT a substitute for professional credit analysis.
-      Finnhub data may be incomplete or delayed. Consult a licensed financial or credit professional
+      SEC EDGAR XBRL data may lag or be incomplete for some filers. Consult a licensed financial or credit professional
       before making any investment or lending decision.
     </div>
   </div>
@@ -2026,323 +2026,511 @@ function renderBankView(ticker) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// CREDIT ANALYSIS MODULE
+// CREDIT ANALYSIS MODULE — v2 (SEC EDGAR XBRL · S&P 500)
 // ═══════════════════════════════════════════════════════════════════════
 const CA = (() => {
-  const FH = 'https://finnhub.io/api/v1';
-  const TK = 'demo';
-  const TT = 'https://api.tickertick.com';
+  // ── Config ────────────────────────────────────────────────────────────
+  const SEC_BASE  = 'https://data.sec.gov/api/xbrl/companyfacts/';
+  const SP500_URL = '../data/sp500_tickers.json';
+  const BANK_SET  = new Set(['JPM','BAC','WFC','C','GS','MS','USB','PNC','TFC','COF','STT','BK','SCHW']);
 
-  let ticker = null;
-  let _data = {};
+  const PEER_MAP = {
+    AAPL:['MSFT','GOOGL','META','AMZN'],  MSFT:['AAPL','GOOGL','META','AMZN'],
+    GOOGL:['MSFT','META','AMZN','AAPL'],  META:['GOOGL','MSFT','AMZN','NFLX'],
+    AMZN:['AAPL','MSFT','GOOGL','WMT'],   NVDA:['AMD','INTC','AVGO','QCOM'],
+    AMD:['NVDA','INTC','AVGO','QCOM'],    TSLA:['F','GM','TM','STLA'],
+    JPM:['BAC','WFC','C','GS'],           BAC:['JPM','WFC','C','USB'],
+    WFC:['JPM','BAC','C','PNC'],          C:['JPM','BAC','WFC','GS'],
+    GS:['JPM','MS','C','BAC'],            MS:['GS','JPM','C','BAC'],
+    JNJ:['PFE','MRK','ABT','BMY'],        PFE:['JNJ','MRK','ABT','BMY'],
+    MRK:['JNJ','PFE','ABT','LLY'],        LLY:['JNJ','PFE','MRK','ABT'],
+    XOM:['CVX','COP','SLB','MPC'],        CVX:['XOM','COP','SLB','MPC'],
+    WMT:['TGT','COST','KR','DG'],         TGT:['WMT','COST','KR','DG'],
+    V:['MA','AXP','PYPL','FIS'],          MA:['V','AXP','PYPL','FIS'],
+    PG:['JNJ','KO','PEP','CL'],           KO:['PEP','PG','MCD','MDLZ'],
+    NFLX:['DIS','PARA','WBD','AMZN'],     DIS:['NFLX','PARA','WBD','CMCSA'],
+    USB:['PNC','TFC','COF','JPM'],        PNC:['USB','TFC','COF','BAC'],
+    TFC:['USB','PNC','COF','WFC'],        COF:['USB','PNC','TFC','BAC'],
+    BK:['STT','JPM','GS','MS'],           STT:['BK','JPM','GS','MS'],
+    SCHW:['MS','GS','BAC','JPM'],
+  };
+
+  // ── State ─────────────────────────────────────────────────────────────
+  let _sp500  = null;
+  let _ticker = null;
+  let _data   = {};
+  let _ts     = [];
   let _charts = {};
   let _ddItems = [];
-  let _ddHi = -1;
+  let _ddHi   = -1;
   let _ddTimer = null;
-  let _searchInited = false;
+  let _inited = false;
 
-  // ── Formatting helpers ──────────────────────────────────────────────
-  const n = (v, d=1, s='') => (v==null||isNaN(v)) ? '—' : v.toFixed(d)+s;
-  const nB = v => {
-    if (v==null||isNaN(v)) return '—';
-    const a=Math.abs(v);
-    if (a>=1e6) return (v/1e6).toFixed(2)+'T';
-    if (a>=1e3) return (v/1e3).toFixed(2)+'B';
-    return v.toFixed(1)+'M';
+  // ── Formatting ────────────────────────────────────────────────────────
+  const N  = (v, d=1, s='') => (v==null||isNaN(+v)) ? '—' : (+v).toFixed(d)+s;
+  const NB = v => {
+    if (v==null||isNaN(+v)) return '—';
+    const a=Math.abs(+v);
+    if (a>=1e6) return ((+v)/1e6).toFixed(2)+'T';
+    if (a>=1e3) return ((+v)/1e3).toFixed(2)+'B';
+    return (+v).toFixed(1)+'M';
   };
-  const pos = '#007a3d', neg = '#cc0000', warn = '#cc6600', acc = '#0066cc';
+  const P='#007a3d', NG='#cc0000', WN='#cc6600', AC='#0066cc';
 
-  // ── Chart helpers ────────────────────────────────────────────────────
+  // ── Chart helpers ──────────────────────────────────────────────────────
   function mkChart(id, cfg) {
     if (_charts[id]) { _charts[id].destroy(); delete _charts[id]; }
     const c = document.getElementById(id);
-    if (!c) return;
+    if (!c) return null;
     _charts[id] = new Chart(c, cfg);
     return _charts[id];
   }
+  const el = id => document.getElementById(id);
 
-  // ── sessionStorage cache (10 min TTL) ──────────────────────────────
-  function fromCache(k) {
+  // ── sessionStorage cache (1 hr TTL) ────────────────────────────────────
+  function fromSS(k) {
     try {
-      const s = sessionStorage.getItem(k);
-      if (!s) return null;
-      const o = JSON.parse(s);
-      if (Date.now()-o.ts > 600000) { sessionStorage.removeItem(k); return null; }
-      return o.d;
+      const o = JSON.parse(sessionStorage.getItem(k)||'null');
+      return (o && Date.now()-o.ts < 3600000) ? o.d : null;
     } catch { return null; }
   }
-  function toCache(k,d) { try { sessionStorage.setItem(k,JSON.stringify({ts:Date.now(),d})); } catch {} }
+  function toSS(k, d) { try { sessionStorage.setItem(k, JSON.stringify({ts:Date.now(),d})); } catch {} }
 
-  // ── Finnhub fetch ────────────────────────────────────────────────────
-  async function fh(endpoint, params={}) {
-    const sym = params.symbol || ticker;
-    const k = `ca_${sym}_${endpoint}_${JSON.stringify(params)}`;
-    const cached = fromCache(k);
-    if (cached !== null) return cached;
-    const url = new URL(FH+endpoint);
-    url.searchParams.set('token', TK);
-    Object.entries(params).forEach(([a,b]) => url.searchParams.set(a,String(b)));
-    try {
-      const r = await fetch(url.toString());
-      if (!r.ok) return null;
-      const d = await r.json();
-      toCache(k,d);
-      return d;
-    } catch { return null; }
+  // ── S&P 500 list ──────────────────────────────────────────────────────
+  async function loadSP500() {
+    if (_sp500) return _sp500;
+    const cached = fromSS('sp500_list');
+    if (cached) { _sp500 = cached; return _sp500; }
+    const r = await fetch(SP500_URL);
+    if (!r.ok) throw new Error('Could not load S&P 500 company list');
+    _sp500 = await r.json();
+    toSS('sp500_list', _sp500);
+    return _sp500;
   }
 
-  // ── localStorage manual inputs ──────────────────────────────────────
-  const mKey = t => `ca_manual_${t}`;
-  function loadM(t) { try { return JSON.parse(localStorage.getItem(mKey(t))||'{}'); } catch { return {}; } }
-  function saveM(t,o) { try { localStorage.setItem(mKey(t),JSON.stringify(o)); } catch {} }
+  function getCompanyInfo(ticker) {
+    return _sp500?.find(c => c.ticker === ticker.toUpperCase()) || null;
+  }
 
-  // ── TickerTick autocomplete ─────────────────────────────────────────
-  async function doAC(q) {
-    try {
-      const r = await fetch(`${TT}/tickers?p=${encodeURIComponent(q)}&n=10`);
-      if (!r.ok) return [];
-      const d = await r.json();
-      return (d.tickers||[]).map(t=>({ticker:t.id.toUpperCase(),name:t.n||'',exchange:t.se||''}));
-    } catch { return []; }
+  function getCIK(ticker) {
+    const info = getCompanyInfo(ticker);
+    return info?.cik ? String(info.cik).padStart(10,'0') : null;
+  }
+
+  // ── XBRL parsing ──────────────────────────────────────────────────────
+  function getAnnualVals(gaap, concept) {
+    const info = gaap[concept];
+    if (!info) return {};
+    const usd = info.units?.USD || info.units?.pure || [];
+    const best = {};
+    for (const d of usd) {
+      if (d.form !== '10-K') continue;
+      if (d.fp && d.fp !== 'FY') continue;
+      const yr = d.end ? +d.end.slice(0,4) : 0;
+      if (!yr || yr < 2009) continue;
+      if (!best[yr] || (d.filed||'') > (best[yr].filed||'')) {
+        best[yr] = {value: d.val, filed: d.filed||''};
+      }
+    }
+    const out = {};
+    for (const [yr, {value}] of Object.entries(best)) {
+      if (value != null) out[+yr] = value;
+    }
+    return out;
+  }
+
+  function pickFirst(gaap, concepts, yr) {
+    for (const c of concepts) {
+      const v = getAnnualVals(gaap, c)[yr];
+      if (v != null) return v;
+    }
+    return null;
+  }
+
+  function parseXBRL(facts) {
+    const gaap = facts?.facts?.['us-gaap'] || {};
+    const revC  = ['Revenues','RevenueFromContractWithCustomerExcludingAssessedTax',
+                   'RevenueFromContractWithCustomerIncludingAssessedTax','SalesRevenueNet','SalesRevenueGoodsNet'];
+    const daC   = ['DepreciationDepletionAndAmortization','DepreciationAndAmortization',
+                   'Depreciation','DepreciationAmortizationDepletion'];
+    const cashC = ['CashAndCashEquivalentsAtCarryingValue','CashAndCashEquivalents',
+                   'CashCashEquivalentsAndShortTermInvestments'];
+    const ltdC  = ['LongTermDebt','LongTermDebtNoncurrent','LongTermNotesPayable'];
+    const stdC  = ['ShortTermBorrowings','NotesPayableCurrent','LongTermDebtCurrent','CommercialPaper'];
+    const eqC   = ['StockholdersEquity','StockholdersEquityAttributableToParent'];
+
+    // Collect years
+    const allYrs = new Set();
+    for (const info of Object.values(gaap)) {
+      for (const unit of Object.values(info.units||{})) {
+        for (const d of (unit||[])) {
+          if (d.form==='10-K'&&d.end) {
+            const yr=+d.end.slice(0,4);
+            if (yr>=2009) allYrs.add(yr);
+          }
+        }
+      }
+    }
+
+    const result = {};
+    for (const yr of Array.from(allYrs).sort()) {
+      const g  = c => getAnnualVals(gaap,c)[yr]??null;
+      const pf = (cs) => pickFirst(gaap,cs,yr);
+
+      const rev  = pf(revC);
+      const gp   = g('GrossProfit');
+      const ebit = g('OperatingIncomeLoss');
+      const ni   = g('NetIncomeLoss');
+      const ie   = g('InterestExpense');
+      const tax  = g('IncomeTaxExpense');
+      const da   = pf(daC);
+      const sga  = g('SellingGeneralAndAdministrativeExpense');
+      const rnd  = g('ResearchAndDevelopmentExpense');
+      const rest = g('RestructuringCharges');
+      const imp  = g('GoodwillImpairmentLoss');
+
+      const assets= g('Assets');
+      const liab  = g('Liabilities');
+      const eq    = pf(eqC);
+      const cash  = pf(cashC);
+      const ltd   = pf(ltdC);
+      const std   = pf(stdC);
+      const ar    = g('AccountsReceivableNetCurrent');
+      const inv   = g('InventoryNet');
+      const ap    = g('AccountsPayableCurrent');
+
+      const ocf   = g('NetCashProvidedByUsedInOperatingActivities');
+      const capex = g('PaymentsToAcquirePropertyPlantAndEquipment');
+      const divs  = g('PaymentsOfDividends');
+      const bb    = g('PaymentsForRepurchaseOfCommonStock');
+
+      const totDebt = (ltd||0)+(std||0);
+      const netDebt = totDebt-(cash||0);
+      let ebitda = null;
+      if (ebit!=null&&da!=null)            ebitda = ebit+da;
+      else if (ni!=null&&ie!=null&&tax!=null&&da!=null) ebitda = ni+ie+tax+da;
+      const fcf  = (ocf!=null&&capex!=null) ? ocf-Math.abs(capex) : null;
+      const cogs = (rev!=null&&gp!=null) ? rev-gp : null;
+
+      const M = v => v!=null ? Math.round(v/1e4)/100 : null;  // raw USD → $M (2dp)
+
+      const row = {
+        revenue:             M(rev),
+        gross_profit:        M(gp),
+        gross_margin:        (rev&&gp)     ? +(gp/rev*100).toFixed(2)   : null,
+        ebit:                M(ebit),
+        ebitda:              M(ebitda),
+        ebitda_margin:       (rev&&ebitda) ? +(ebitda/rev*100).toFixed(2): null,
+        net_income:          M(ni),
+        net_margin:          (rev&&ni)     ? +(ni/rev*100).toFixed(2)    : null,
+        interest_expense:    ie!=null      ? M(Math.abs(ie)) : null,
+        tax_expense:         M(tax),
+        da:                  M(da),
+        sga:                 M(sga),
+        rnd:                 M(rnd),
+        restructuring:       M(rest),
+        impairment:          M(imp),
+        total_assets:        M(assets),
+        liabilities:         M(liab),
+        stockholders_equity: M(eq),
+        cash:                M(cash),
+        lt_debt:             M(ltd),
+        st_debt:             M(std),
+        total_debt:          totDebt ? M(totDebt) : null,
+        net_debt:            M(netDebt),
+        net_debt_ebitda:     (ebitda&&ebitda>0) ? +(netDebt/ebitda).toFixed(2) : null,
+        roe:                 (ni&&eq&&eq>0)      ? +(ni/eq*100).toFixed(2)      : null,
+        roa:                 (ni&&assets)        ? +(ni/assets*100).toFixed(2)  : null,
+        ar:                  M(ar),
+        inventory:           M(inv),
+        accounts_payable:    M(ap),
+        operating_cf:        M(ocf),
+        capex:               capex!=null ? M(Math.abs(capex)) : null,
+        dividends:           M(divs),
+        buybacks:            M(bb),
+        fcf:                 M(fcf),
+        fcf_margin:          (rev&&fcf) ? +(fcf/rev*100).toFixed(2) : null,
+        receivable_days:     (rev&&ar)  ? +(ar/rev*365).toFixed(1)  : null,
+        inventory_days:      (cogs&&inv&&cogs>0) ? +(inv/cogs*365).toFixed(1) : null,
+        payable_days:        (cogs&&ap&&cogs>0)  ? +(ap/cogs*365).toFixed(1)  : null,
+        cash_cycle:          null,
+      };
+
+      const rd=row.receivable_days, id=row.inventory_days, pd=row.payable_days;
+      if (rd!=null&&pd!=null) row.cash_cycle = +((rd||0)+(id||0)-pd).toFixed(1);
+
+      const hasData = ['revenue','ebitda','net_income','total_assets','operating_cf'].some(k=>row[k]!=null);
+      if (hasData) result[yr] = row;
+    }
+    return result;
+  }
+
+  // ── Bank data merge (BANK_DATA is embedded in page) ────────────────────
+  function mergeBank(data, ticker) {
+    if (!BANK_SET.has(ticker.toUpperCase())) return data;
+    const bankArr = (typeof BANK_DATA !== 'undefined') ? BANK_DATA[ticker] : null;
+    if (!bankArr) return data;
+    const bankCols = ['cet1_ratio','tier1_capital_ratio','total_capital_ratio','tier1_leverage_ratio',
+      'nim','roe','roa','rotce','npl_ratio','net_charge_off_rate','allowance_coverage_ratio',
+      'net_charge_offs','npl','npa','provision_credit_losses','net_interest_income','net_loans',
+      'total_deposits','level3_assets','level3_pct_assets','derivatives_notional'];
+    for (const row of bankArr) {
+      const yr = row.year;
+      if (!yr) continue;
+      if (!data[yr]) data[yr] = {};
+      for (const col of bankCols) {
+        const v = row[col];
+        if (v != null && !isNaN(+v)) data[yr][col] = +v;
+      }
+    }
+    return data;
+  }
+
+  // ── Fetch XBRL ────────────────────────────────────────────────────────
+  async function fetchXBRL(tkr) {
+    const cacheKey = `xbrl2_${tkr}`;
+    const cached = fromSS(cacheKey);
+    if (cached) return cached;
+
+    const cik = getCIK(tkr);
+    if (!cik) throw new Error(`${tkr} not found in S&P 500. Try a listed S&P 500 company.`);
+
+    const r = await fetch(`${SEC_BASE}CIK${cik}.json`);
+    if (!r.ok) throw new Error(`SEC EDGAR returned HTTP ${r.status} for ${tkr}`);
+    const facts = await r.json();
+
+    let data = parseXBRL(facts);
+    data = mergeBank(data, tkr);
+
+    toSS(cacheKey, data);
+    return data;
+  }
+
+  function toTS(data) {
+    return Object.entries(data)
+      .map(([yr, d]) => ({yr:+yr, ...d}))
+      .sort((a,b) => a.yr-b.yr);
+  }
+
+  // ── Scoring (no interest coverage) ────────────────────────────────────
+  function computeScore(ts, ticker) {
+    const lat = ts[ts.length-1] || {};
+    const isBank = BANK_SET.has((ticker||'').toUpperCase());
+    let total = 0;
+    const bk = {};
+
+    if (isBank) {
+      const cet1 = lat.cet1_ratio;
+      let s1=0; if(cet1!=null){if(cet1>13)s1=40;else if(cet1>12)s1=30;else if(cet1>11)s1=20;else if(cet1>10)s1=10;}
+      total+=s1; bk.cet1={s:s1,max:40,label:'CET1 Ratio',detail:cet1!=null?`CET1: ${N(cet1,1)}%`:'No data'};
+
+      const roe = lat.roe??lat.rotce;
+      let s2=0; if(roe!=null){if(roe>15)s2=30;else if(roe>12)s2=22;else if(roe>10)s2=15;else if(roe>7)s2=8;}
+      total+=s2; bk.roe={s:s2,max:30,label:'ROE',detail:roe!=null?`ROE: ${N(roe,1)}%`:'No data'};
+
+      const npl = lat.npl_ratio;
+      let s3=0; if(npl!=null){if(npl<0.5)s3=30;else if(npl<1)s3=22;else if(npl<1.5)s3=15;else if(npl<2)s3=8;}
+      total+=s3; bk.credit={s:s3,max:30,label:'Credit Quality',detail:npl!=null?`NPL: ${N(npl,2)}%`:'No data'};
+    } else {
+      const em = lat.ebitda_margin;
+      let s1=0; if(em!=null){if(em>30)s1=40;else if(em>20)s1=32;else if(em>10)s1=24;else if(em>5)s1=16;else if(em>0)s1=8;}
+      total+=s1; bk.prof={s:s1,max:40,label:'Profitability',detail:em!=null?`EBITDA margin: ${N(em,1)}%`:'No data'};
+
+      const fm = lat.fcf_margin;
+      let s2=0; if(fm!=null){if(fm>20)s2=30;else if(fm>10)s2=24;else if(fm>5)s2=18;else if(fm>0)s2=10;}
+      total+=s2; bk.fcf={s:s2,max:30,label:'Free Cash Flow',detail:fm!=null?`FCF margin: ${N(fm,1)}%`:'No data'};
+
+      const lev = lat.net_debt_ebitda;
+      let s3=0; if(lev!=null){if(lev<0)s3=30;else if(lev<1)s3=27;else if(lev<2)s3=21;else if(lev<3)s3=15;else if(lev<4)s3=8;else if(lev<5)s3=3;}
+      total+=s3; bk.lev={s:s3,max:30,label:'Leverage',detail:lev!=null?`Net Debt/EBITDA: ${N(lev,1)}x`:'No data'};
+    }
+
+    const verdict = total>=70?'SAFE':total>=40?'WATCH':'DANGER';
+    return {total, verdict, bk};
+  }
+
+  // ── Red flags (no interest coverage) ──────────────────────────────────
+  function computeFlags(ts, ticker) {
+    const fls=[], n=ts.length;
+    if (!n) return fls;
+    const lat=ts[n-1], isBank=BANK_SET.has((ticker||'').toUpperCase());
+
+    if (n>=3) {
+      const l3=ts.slice(-3);
+      if (l3[2].revenue!=null&&l3[1].revenue!=null&&l3[0].revenue!=null
+          &&l3[2].revenue<l3[1].revenue*0.99&&l3[1].revenue<l3[0].revenue*0.99)
+        fls.push({sev:'danger',txt:'Revenue declining 2+ consecutive years — sustained top-line contraction'});
+    }
+
+    if (!isBank) {
+      if (lat.ebitda_margin!=null&&lat.ebitda_margin<5)
+        fls.push({sev:lat.ebitda_margin<0?'danger':'warn',
+          txt:`EBITDA margin ${N(lat.ebitda_margin,1)}% — thin or negative profitability`});
+      if (lat.fcf!=null&&lat.fcf<-100)
+        fls.push({sev:'danger',txt:`Free cash flow negative (${NB(lat.fcf)}) — company is cash-consuming`});
+      if (lat.net_debt_ebitda!=null&&lat.net_debt_ebitda>5)
+        fls.push({sev:'danger',txt:`Leverage ${N(lat.net_debt_ebitda,1)}x Net Debt/EBITDA — very high debt load`});
+      else if (lat.net_debt_ebitda!=null&&lat.net_debt_ebitda>3.5)
+        fls.push({sev:'warn',txt:`Leverage ${N(lat.net_debt_ebitda,1)}x Net Debt/EBITDA — elevated debt load`});
+      if (lat.revenue&&lat.cash!=null&&lat.cash<lat.revenue*0.08)
+        fls.push({sev:'warn',txt:'Cash appears low relative to revenue — potential liquidity strain'});
+      if (lat.operating_cf!=null&&lat.net_income!=null&&lat.net_income>0&&lat.operating_cf<lat.net_income*0.75)
+        fls.push({sev:'warn',txt:'Operating cash flow < net income — possible accruals / earnings quality concern'});
+    } else {
+      if (lat.cet1_ratio!=null&&lat.cet1_ratio<10.5)
+        fls.push({sev:'danger',txt:`CET1 ratio ${N(lat.cet1_ratio,1)}% — below regulatory buffer threshold`});
+      if (lat.npl_ratio!=null&&lat.npl_ratio>2)
+        fls.push({sev:'danger',txt:`NPL ratio ${N(lat.npl_ratio,2)}% — elevated non-performing loan stress`});
+      else if (lat.npl_ratio!=null&&lat.npl_ratio>1.5)
+        fls.push({sev:'warn',txt:`NPL ratio ${N(lat.npl_ratio,2)}% — rising credit quality concerns`});
+      if (lat.net_charge_off_rate!=null&&lat.net_charge_off_rate>1.5)
+        fls.push({sev:'warn',txt:`Net charge-off rate ${N(lat.net_charge_off_rate,2)}% — elevated loss content`});
+    }
+    return fls;
+  }
+
+  // ── Search UI ──────────────────────────────────────────────────────────
+  function filterSP500(q) {
+    if (!_sp500||!q) return [];
+    const ql=q.toLowerCase().trim();
+    return _sp500.filter(c=>
+      c.ticker.toLowerCase().startsWith(ql)||c.name.toLowerCase().includes(ql)
+    ).slice(0,10);
   }
 
   function renderDD(items) {
-    const dd = document.getElementById('ca-dropdown');
-    if (!dd) return;
-    _ddItems = items;
-    _ddHi = -1;
-    if (!items.length) { dd.classList.add('hidden'); return; }
-    dd.innerHTML = items.map((it,i)=>`
+    const dd=el('ca-dropdown'); if(!dd) return;
+    _ddItems=items; _ddHi=-1;
+    if (!items.length){dd.classList.add('hidden');return;}
+    dd.innerHTML=items.map((it,i)=>`
       <div class="ca-dd-item" data-i="${i}">
         <span class="ca-dd-ticker">${it.ticker}</span>
         <span class="ca-dd-name">${it.name}</span>
-        <span class="ca-dd-ex">${it.exchange}</span>
+        <span class="ca-dd-ex">${it.sector||''}</span>
       </div>`).join('');
     dd.classList.remove('hidden');
-    dd.querySelectorAll('.ca-dd-item').forEach((el,i)=>{
-      el.addEventListener('mousedown',e=>{e.preventDefault();selectDD(i);});
-      el.addEventListener('mouseover',()=>hilite(i));
+    dd.querySelectorAll('.ca-dd-item').forEach((e,i)=>{
+      e.addEventListener('mousedown',ev=>{ev.preventDefault();selectDD(i);});
+      e.addEventListener('mouseover',()=>hilite(i));
     });
   }
 
-  function hilite(i) {
-    _ddHi = i;
-    document.querySelectorAll('#ca-dropdown .ca-dd-item').forEach((el,j)=>el.classList.toggle('highlighted',j===i));
+  function hilite(i){
+    _ddHi=i;
+    document.querySelectorAll('#ca-dropdown .ca-dd-item').forEach((e,j)=>e.classList.toggle('highlighted',j===i));
   }
 
-  function closeDD() {
-    const dd = document.getElementById('ca-dropdown');
-    if (dd) dd.classList.add('hidden');
-    _ddItems=[]; _ddHi=-1;
+  function closeDD(){const dd=el('ca-dropdown');if(dd)dd.classList.add('hidden');_ddItems=[];_ddHi=-1;}
+
+  function selectDD(i){
+    const it=_ddItems[i]; if(!it) return;
+    const inp=el('ca-input'); if(inp) inp.value=`${it.ticker} — ${it.name}`;
+    closeDD(); load(it.ticker);
   }
 
-  function selectDD(i) {
-    const it = _ddItems[i];
-    if (!it) return;
-    const inp = document.getElementById('ca-input');
-    if (inp) inp.value = `${it.ticker} — ${it.name}`;
-    closeDD();
-    load(it.ticker);
-  }
-
-  // ── Search input init ───────────────────────────────────────────────
-  function initSearch() {
-    if (_searchInited) return;
-    _searchInited = true;
-    const inp = document.getElementById('ca-input');
-    if (!inp) return;
-    inp.addEventListener('input', () => {
-      const q = inp.value.trim();
+  function initSearch(){
+    if(_inited) return; _inited=true;
+    loadSP500().catch(()=>{});
+    const inp=el('ca-input'); if(!inp) return;
+    inp.addEventListener('input',()=>{
+      const q=inp.value.trim();
       clearTimeout(_ddTimer);
-      if (!q||q.length<2) { closeDD(); return; }
-      _ddTimer = setTimeout(async()=>{ const r=await doAC(q); renderDD(r); }, 220);
+      if(!q||q.length<1){closeDD();return;}
+      _ddTimer=setTimeout(()=>{
+        if(!_sp500){loadSP500().then(()=>renderDD(filterSP500(q)));return;}
+        renderDD(filterSP500(q));
+      },180);
     });
-    inp.addEventListener('keydown', e => {
-      const dd = document.getElementById('ca-dropdown');
-      if (!dd||dd.classList.contains('hidden')) {
-        if (e.key==='Enter') {
-          const q = inp.value.trim().split(/[\s—]/)[0].toUpperCase();
-          if (q) { closeDD(); load(q); }
-        }
+    inp.addEventListener('keydown',e=>{
+      const dd=el('ca-dropdown');
+      if(!dd||dd.classList.contains('hidden')){
+        if(e.key==='Enter'){const q=inp.value.trim().split(/[\s—]/)[0].toUpperCase();if(q){closeDD();load(q);}}
         return;
       }
-      if (e.key==='ArrowDown')  { e.preventDefault(); hilite(Math.min(_ddHi+1,_ddItems.length-1)); }
-      else if (e.key==='ArrowUp') { e.preventDefault(); hilite(Math.max(_ddHi-1,0)); }
-      else if (e.key==='Enter') { e.preventDefault(); if(_ddHi>=0) selectDD(_ddHi); else if(_ddItems.length) selectDD(0); }
-      else if (e.key==='Escape') closeDD();
+      if(e.key==='ArrowDown')  {e.preventDefault();hilite(Math.min(_ddHi+1,_ddItems.length-1));}
+      else if(e.key==='ArrowUp'){e.preventDefault();hilite(Math.max(_ddHi-1,0));}
+      else if(e.key==='Enter') {e.preventDefault();if(_ddHi>=0)selectDD(_ddHi);else if(_ddItems.length)selectDD(0);}
+      else if(e.key==='Escape')closeDD();
     });
-    document.addEventListener('click', e=>{
-      if (!e.target.closest('.ca-search-wrap')) closeDD();
-    });
+    document.addEventListener('click',e=>{if(!e.target.closest('.ca-search-wrap'))closeDD();});
   }
 
-  // ── Extract time-series from Finnhub reported financials ────────────
-  function extract(financials) {
-    if (!financials||!financials.data) return [];
-    return financials.data
-      .filter(r=>r.report)
-      .map(r=>{
-        const ic={}, bs={}, cf={};
-        (r.report.ic||[]).forEach(x=>{ic[x.concept]=x.value;});
-        (r.report.bs||[]).forEach(x=>{bs[x.concept]=x.value;});
-        (r.report.cf||[]).forEach(x=>{cf[x.concept]=x.value;});
-
-        const rev  = ic['Revenues']||ic['RevenueFromContractWithCustomerExcludingAssessedTax']||ic['SalesRevenueNet']||ic['RevenueFromContractWithCustomerIncludingAssessedTax']||0;
-        const opInc= ic['OperatingIncomeLoss']||0;
-        const netInc= ic['NetIncomeLoss']||0;
-        const intExp= Math.abs(ic['InterestExpense']||ic['InterestAndDebtExpense']||0);
-        const da   = Math.abs(ic['DepreciationAndAmortization']||cf['DepreciationDepletionAndAmortization']||cf['DepreciationAndAmortization']||0);
-        const ebitda= opInc + da;
-
-        const ltDebt= bs['LongTermDebt']||bs['LongTermDebtNoncurrent']||0;
-        const stDebt= bs['ShortTermBorrowings']||bs['NotesPayableCurrent']||bs['LongTermDebtCurrent']||0;
-        const totalDebt= ltDebt + stDebt;
-        const cash = bs['CashAndCashEquivalentsAtCarryingValue']||bs['CashAndCashEquivalents']||0;
-        const netDebt= totalDebt - cash;
-
-        const ocf  = cf['NetCashProvidedByUsedInOperatingActivities']||0;
-        const capex= Math.abs(cf['PaymentsToAcquirePropertyPlantAndEquipment']||cf['CapitalExpendituresIncurringObligation']||0);
-        const fcf  = ocf - capex;
-
-        const totAssets= bs['Assets']||0;
-        const equity   = bs['StockholdersEquity']||bs['StockholdersEquityAttributableToParent']||0;
-
-        const yr = r.year || (r.endDate ? +r.endDate.slice(0,4) : 0);
-        return {
-          yr, rev, opInc, netInc, intExp, da, ebitda, totalDebt, cash, netDebt,
-          ocf, capex, fcf, totAssets, equity,
-          ebitdaM: rev ? ebitda/rev : null,
-          netM:    rev ? netInc/rev : null,
-          lev:     ebitda>0 ? netDebt/ebitda : null,
-          cov:     intExp>0 ? ebitda/intExp : null,
-          fcfM:    rev ? fcf/rev : null,
-        };
-      })
-      .filter(r=>r.yr>2000)
-      .sort((a,b)=>a.yr-b.yr);
-  }
-
-  // ── Score ────────────────────────────────────────────────────────────
-  function score(ts, metrics) {
-    const m = metrics?.metric||{};
-    const lat = ts[ts.length-1]||{};
-    let total=0; const bk={};
-
-    const ebitdaM = lat.ebitdaM??( m['ebitdaMarginTTM']!=null ? m['ebitdaMarginTTM']/100 : null);
-    let pS=0;
-    if (ebitdaM!=null) { if(ebitdaM>.3)pS=25; else if(ebitdaM>.2)pS=20; else if(ebitdaM>.1)pS=15; else if(ebitdaM>.05)pS=10; else if(ebitdaM>0)pS=5; }
-    total+=pS; bk.prof={s:pS,max:25,label:'Profitability',detail:ebitdaM!=null?`EBITDA margin: ${n(ebitdaM*100,1)}%`:'No data'};
-
-    const fcfM = lat.fcfM;
-    let cS=0;
-    if(fcfM!=null){if(fcfM>.2)cS=25;else if(fcfM>.1)cS=20;else if(fcfM>.05)cS=15;else if(fcfM>0)cS=8;}
-    total+=cS; bk.cf={s:cS,max:25,label:'Free Cash Flow',detail:fcfM!=null?`FCF margin: ${n(fcfM*100,1)}%`:'No data'};
-
-    const lev = lat.lev??m['netDebtToEbitda'];
-    let lS=0;
-    if(lev!=null){if(lev<0)lS=25;else if(lev<1)lS=23;else if(lev<2)lS=18;else if(lev<3)lS=12;else if(lev<4)lS=7;else if(lev<5)lS=3;}
-    total+=lS; bk.lev={s:lS,max:25,label:'Leverage',detail:lev!=null?`Net Debt/EBITDA: ${n(lev,1)}x`:'No data'};
-
-    const cov = lat.cov;
-    let vS=0;
-    if(cov!=null){if(cov>10)vS=25;else if(cov>6)vS=20;else if(cov>4)vS=15;else if(cov>2)vS=8;else if(cov>1)vS=3;}
-    total+=vS; bk.cov={s:vS,max:25,label:'Int. Coverage',detail:cov!=null?`Coverage: ${n(cov,1)}x`:'No data'};
-
-    const verdict = total>=70?'SAFE':total>=40?'WATCH':'DANGER';
-    return {total,verdict,bk};
-  }
-
-  // ── Red flags ────────────────────────────────────────────────────────
-  function flags(ts) {
-    const fl=[], n2=ts.length;
-    if(!n2) return fl;
-    const lat=ts[n2-1];
-    if(n2>=3){
-      const last3=ts.slice(-3);
-      if(last3[2].rev<last3[1].rev*0.99&&last3[1].rev<last3[0].rev*0.99)
-        fl.push({sev:'danger',txt:'Revenue declining 2+ consecutive years — sustained top-line contraction'});
-    }
-    if(lat.ebitdaM!=null&&lat.ebitdaM<0.05)
-      fl.push({sev:lat.ebitdaM<0?'danger':'warn',txt:`EBITDA margin ${n(lat.ebitdaM*100,1)}% — thin or negative profitability`});
-    if(lat.fcf<-1000)
-      fl.push({sev:'danger',txt:`Free cash flow negative (${nB(lat.fcf/1e6)}) — company is cash-consuming`});
-    if(lat.lev!=null&&lat.lev>5)
-      fl.push({sev:'danger',txt:`Leverage ${n(lat.lev,1)}x Net Debt/EBITDA — very high debt load`});
-    else if(lat.lev!=null&&lat.lev>3.5)
-      fl.push({sev:'warn',txt:`Leverage ${n(lat.lev,1)}x Net Debt/EBITDA — elevated debt load`});
-    if(lat.cov!=null&&lat.cov<2&&lat.intExp>0)
-      fl.push({sev:'danger',txt:`Interest coverage ${n(lat.cov,1)}x — insufficient earnings to service debt`});
-    if(lat.rev&&lat.cash<lat.rev*0.08)
-      fl.push({sev:'warn',txt:`Cash appears low relative to revenue — potential liquidity strain`});
-    if(lat.ocf&&lat.netInc>0&&lat.ocf<lat.netInc*0.75)
-      fl.push({sev:'warn',txt:'Operating cash flow < net income — accruals / earnings quality concern'});
-    return fl;
-  }
-
-  // ── Main load ─────────────────────────────────────────────────────────
-  async function load(sym) {
-    ticker = sym.toUpperCase();
+  // ── Main load ──────────────────────────────────────────────────────────
+  async function load(sym){
+    _ticker=sym.toUpperCase();
     el('ca-empty').style.display='none';
     el('ca-loading').style.display='block';
     el('ca-results').style.display='none';
 
-    const [prof, metr, fin, peers, epsEst] = await Promise.all([
-      fh('/stock/profile2',{symbol:ticker}),
-      fh('/stock/metric',{symbol:ticker,metric:'all'}),
-      fh('/stock/financials-reported',{symbol:ticker,freq:'annual'}),
-      fh('/stock/peers',{symbol:ticker}),
-      fh('/stock/eps-estimate',{symbol:ticker,freq:'annual'}),
-    ]);
+    try {
+      await loadSP500();
+      const data = await fetchXBRL(_ticker);
+      if (!Object.keys(data).length) throw new Error('No XBRL financial data found for this company');
 
-    const ts = extract(fin||{});
-    const peerTkrs = (peers||[]).slice(0,5);
-    const peerM = await Promise.all(
-      peerTkrs.map(p=>fh('/stock/metric',{symbol:p,metric:'all'}).then(m=>({ticker:p,m})))
-    );
+      _data=data; _ts=toTS(data);
+      const sc=computeScore(_ts,_ticker), fls=computeFlags(_ts,_ticker), info=getCompanyInfo(_ticker);
 
-    _data = {prof,metr,fin,peers,epsEst,peerM,ts};
-    const sc  = score(ts, metr);
-    const fls = flags(ts);
-    _data._sc = sc; _data._fls = fls;
+      renderSignal(info,sc);
+      renderKPIs(_ts);
+      renderProfit(_ts);
+      renderFlagSection(fls);
+      renderCashFlow(_ts);
+      renderCapStruct(_ts,loadManual(_ticker));
+      renderManualForm(_ticker,loadManual(_ticker));
+      renderScenarios();
+      renderVerdict(sc,fls,_ts);
 
-    renderSignal(prof,metr,sc);
-    renderKPIs(prof,metr,ts);
-    renderProfit(ts,peerM);
-    renderFlagSection(fls);
-    renderCashFlow(ts,metr);
-    renderCapStruct(ts,metr,loadM(ticker));
-    renderPeers(metr,peerM);
-    renderScenarios();
-    renderVerdict(sc,fls,ts);
-    renderManualForm(ticker,loadM(ticker));
+      el('ca-loading').style.display='none';
+      el('ca-results').style.display='block';
 
-    el('ca-loading').style.display='none';
-    el('ca-results').style.display='block';
+      // Fetch peer data asynchronously (non-blocking)
+      const peerTkrs=(PEER_MAP[_ticker]||[]).slice(0,4);
+      fetchPeerData(peerTkrs).then(pd=>renderPeers(_ts,pd,peerTkrs)).catch(()=>renderPeers(_ts,[],peerTkrs));
+
+    } catch(err){
+      el('ca-loading').style.display='none';
+      el('ca-empty').style.display='';
+      el('ca-empty').innerHTML=`
+        <div class="ca-icon">⚠️</div>
+        <p>Could not load data for <strong>${_ticker}</strong></p>
+        <p style="font-size:12px;color:var(--muted)">${err.message}</p>
+        <p style="font-size:12px;color:var(--muted)">Search for any S&amp;P 500 company by name or ticker above.</p>`;
+    }
   }
 
-  function el(id){ return document.getElementById(id); }
+  async function fetchPeerData(peers){
+    const out=[];
+    for(const p of peers){
+      try{
+        await new Promise(r=>setTimeout(r,150));
+        const d=await fetchXBRL(p);
+        const ts=toTS(d);
+        if(ts.length) out.push({ticker:p,ts});
+      }catch{}
+    }
+    return out;
+  }
 
-  // ── §1 Signal Panel ──────────────────────────────────────────────────
-  function renderSignal(prof, metr, sc) {
-    const {total,verdict,bk} = sc;
-    const cls = verdict.toLowerCase();
-    const name = prof?.name||ticker;
-    const sector = prof?.finnhubIndustry||'';
-    const exchange = prof?.exchange||'';
-    const mcap = prof?.marketCapitalization;
+  // ── localStorage manual inputs ──────────────────────────────────────────
+  const mKey = t=>`ca_manual_${t}`;
+  function loadManual(t){try{return JSON.parse(localStorage.getItem(mKey(t))||'{}');}catch{return {};}}
+  function saveManual(t,o){try{localStorage.setItem(mKey(t),JSON.stringify(o));}catch{}}
 
-    const pills = Object.values(bk).map(b=>`
+  // ── §1 Signal Panel ──────────────────────────────────────────────────────
+  function renderSignal(info,sc){
+    const {total,verdict,bk}=sc, cls=verdict.toLowerCase();
+    const name=info?.name||_ticker, sector=info?.sector||'', industry=info?.industry||'';
+    const pills=Object.values(bk).map(b=>`
       <div class="ca-pill">
         <span class="ca-pill-label">${b.label}</span>
         <span class="ca-pill-score">${b.s}/${b.max}</span>
         <span style="font-size:10px;color:var(--muted)">${b.detail}</span>
       </div>`).join('');
-
-    el('ca-s1-signal').innerHTML = `
+    el('ca-s1-signal').innerHTML=`
       <div class="ca-signal-panel ${cls}">
         <div class="ca-signal-left">
-          <div class="ca-company-name">${name} <span style="font-size:14px;font-weight:400;color:var(--muted)">${ticker}</span></div>
-          <div style="font-size:12px;color:var(--muted);margin-bottom:6px">${[exchange,sector,mcap?'Mkt Cap: $'+nB(mcap)+'M':''].filter(Boolean).join(' · ')}</div>
+          <div class="ca-company-name">${name} <span style="font-size:14px;font-weight:400;color:var(--muted)">${_ticker}</span></div>
+          <div style="font-size:12px;color:var(--muted);margin-bottom:6px">${[sector,industry].filter(Boolean).join(' · ')}</div>
           <div class="ca-pill-row">${pills}</div>
         </div>
         <div class="ca-signal-right">
@@ -2353,204 +2541,216 @@ const CA = (() => {
       </div>`;
   }
 
-  // ── §2 KPI Cards ──────────────────────────────────────────────────────
-  function renderKPIs(prof, metr, ts) {
-    const m = metr?.metric||{};
-    const lat = ts[ts.length-1]||{};
-    const prv = ts[ts.length-2]||{};
-    const kpis = [
-      {label:'P/E (TTM)',   v:m['peTTM']!=null?n(m['peTTM'],1,'x'):'—',  sub:'Trailing earnings'},
-      {label:'EV/EBITDA',   v:m['evToEbitda']!=null?n(m['evToEbitda'],1,'x'):(m['evEbitdaTTM']!=null?n(m['evEbitdaTTM'],1,'x'):'—'), sub:'Enterprise value'},
-      {label:'EBITDA Margin',v:lat.ebitdaM!=null?n(lat.ebitdaM*100,1,'%'):(m['ebitdaMarginTTM']!=null?n(m['ebitdaMarginTTM'],1,'%'):'—'),
-        sub:'Latest annual', chg:lat.ebitdaM!=null&&prv.ebitdaM!=null?(lat.ebitdaM-prv.ebitdaM)*100:null, goodHigh:true},
-      {label:'FCF Margin',  v:lat.fcfM!=null?n(lat.fcfM*100,1,'%'):'—', sub:'Latest annual', goodHigh:true},
-      {label:'Net Debt/EBITDA',v:lat.lev!=null?n(lat.lev,1,'x'):(m['netDebtToEbitda']!=null?n(m['netDebtToEbitda'],1,'x'):'—'), sub:'Leverage', goodHigh:false},
-      {label:'Int. Coverage',v:lat.cov!=null?n(lat.cov,1,'x'):'—', sub:'EBITDA / Interest', goodHigh:true},
-      {label:'Revenue',      v:lat.rev?nB(lat.rev/1e6):'—', sub:lat.yr||'',
-        chg:lat.rev&&prv.rev?(lat.rev/prv.rev-1)*100:null, goodHigh:true},
-      {label:'Free Cash Flow',v:lat.fcf!=null?nB(lat.fcf/1e6):'—', sub:lat.yr||'', goodHigh:true},
+  // ── §2 KPI Cards ──────────────────────────────────────────────────────────
+  function renderKPIs(ts){
+    const lat=ts[ts.length-1]||{}, prv=ts[ts.length-2]||{};
+    const isBank=BANK_SET.has(_ticker);
+    const pct=(a,b)=>a&&b&&b?+((a/b-1)*100).toFixed(1):null;
+    const diff=(a,b)=>a!=null&&b!=null?+(a-b).toFixed(2):null;
+
+    const kpis = isBank ? [
+      {label:'Revenue',         v:NB(lat.revenue),               sub:lat.yr||'', chg:pct(lat.revenue,prv.revenue), goodHigh:true},
+      {label:'Net Income',      v:NB(lat.net_income),            sub:lat.yr||'', chg:pct(lat.net_income,prv.net_income), goodHigh:true},
+      {label:'ROE',             v:N(lat.roe??lat.rotce,1,'%'),   sub:'Return on equity', goodHigh:true},
+      {label:'CET1 Ratio',      v:N(lat.cet1_ratio,1,'%'),       sub:'Capital adequacy', goodHigh:true},
+      {label:'NPL Ratio',       v:N(lat.npl_ratio,2,'%'),        sub:'Non-performing loans', goodHigh:false},
+      {label:'NIM',             v:N(lat.nim,2,'%'),              sub:'Net interest margin', goodHigh:true},
+      {label:'Net Loans',       v:NB(lat.net_loans),             sub:lat.yr||'', goodHigh:true},
+      {label:'Provisions',      v:NB(lat.provision_credit_losses),sub:'Credit loss provisions', goodHigh:false},
+    ] : [
+      {label:'Revenue',         v:NB(lat.revenue),               sub:lat.yr||'', chg:pct(lat.revenue,prv.revenue), goodHigh:true},
+      {label:'EBITDA',          v:NB(lat.ebitda),                sub:lat.yr||'', chg:pct(lat.ebitda,prv.ebitda), goodHigh:true},
+      {label:'EBITDA Margin',   v:N(lat.ebitda_margin,1,'%'),    sub:'Latest annual', chg:diff(lat.ebitda_margin,prv.ebitda_margin), goodHigh:true},
+      {label:'Net Income',      v:NB(lat.net_income),            sub:lat.yr||'', goodHigh:true},
+      {label:'Free Cash Flow',  v:NB(lat.fcf),                   sub:lat.yr||'', chg:pct(lat.fcf,prv.fcf), goodHigh:true},
+      {label:'FCF Margin',      v:N(lat.fcf_margin,1,'%'),       sub:'Latest annual', chg:diff(lat.fcf_margin,prv.fcf_margin), goodHigh:true},
+      {label:'Net Debt/EBITDA', v:lat.net_debt_ebitda!=null?N(lat.net_debt_ebitda,1,'x'):'—', sub:'Leverage ratio', goodHigh:false},
+      {label:'ROE',             v:N(lat.roe,1,'%'),              sub:'Return on equity', goodHigh:true},
     ];
-    el('ca-s2-kpis').innerHTML = kpis.map(k=>{
-      const chgHtml = k.chg!=null ? `<div class="ca-kpi-chg" style="color:${k.goodHigh?(k.chg>=0?pos:neg):(k.chg<=0?pos:neg)}">
-        ${k.chg>=0?'▲':'▼'} ${n(Math.abs(k.chg),1)}</div>` : '';
-      return `<div class="ca-kpi-card">
-        <div class="ca-kpi-label">${k.label}</div>
-        <div class="ca-kpi-value">${k.v}</div>
-        <div class="ca-kpi-sub">${k.sub}</div>${chgHtml}
-      </div>`;
+
+    el('ca-s2-kpis').innerHTML=kpis.map(k=>{
+      const chgHtml=k.chg!=null?`<div class="ca-kpi-chg" style="color:${k.goodHigh?(k.chg>=0?P:NG):(k.chg<=0?P:NG)}">
+        ${k.chg>=0?'▲':'▼'} ${N(Math.abs(k.chg),1)}</div>`:'';
+      return `<div class="ca-kpi-card"><div class="ca-kpi-label">${k.label}</div>
+        <div class="ca-kpi-value">${k.v}</div><div class="ca-kpi-sub">${k.sub}</div>${chgHtml}</div>`;
     }).join('');
   }
 
-  // ── §3 Profitability ──────────────────────────────────────────────────
-  function renderProfit(ts, peerM) {
-    const yrs=ts.map(r=>r.yr), rev=ts.map(r=>r.rev/1e6), ebitda=ts.map(r=>r.ebitda/1e6);
+  // ── §3 Profitability ──────────────────────────────────────────────────────
+  function renderProfit(ts){
+    const yrs=ts.map(r=>r.yr);
 
     mkChart('ca-chart-rev',{type:'bar',data:{labels:yrs,datasets:[
-      {label:'Revenue ($M)',data:rev,backgroundColor:'rgba(0,102,204,0.18)',borderColor:acc,borderWidth:1.5,yAxisID:'y'},
-      {label:'EBITDA ($M)',data:ebitda,type:'line',borderColor:pos,backgroundColor:'rgba(0,122,61,0.07)',pointRadius:4,yAxisID:'y'}
-    ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'$M'}}}}});
+      {label:'Revenue ($M)',data:ts.map(r=>r.revenue),backgroundColor:'rgba(0,102,204,0.18)',borderColor:AC,borderWidth:1.5,yAxisID:'y'},
+      {label:'EBITDA ($M)', data:ts.map(r=>r.ebitda), type:'line',borderColor:P,backgroundColor:'rgba(0,122,61,0.07)',pointRadius:3,yAxisID:'y'},
+      {label:'EBITDA Margin %',data:ts.map(r=>r.ebitda_margin),type:'line',borderColor:WN,borderDash:[4,3],pointRadius:3,yAxisID:'y2'},
+    ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},
+      scales:{y:{title:{display:true,text:'$M'}},y2:{position:'right',title:{display:true,text:'%'},grid:{drawOnChartArea:false}}}}});
 
     const lat=ts[ts.length-1];
-    if(lat){
-      const opex=(-(lat.rev-lat.opInc))/1e6;
-      const bData=[lat.rev/1e6,opex,lat.da/1e6,lat.ebitda/1e6];
-      mkChart('ca-chart-bridge',{type:'bar',data:{labels:['Revenue','- OpEx','+ D&A','= EBITDA'],datasets:[{
-        label:'$M',data:bData,
-        backgroundColor:bData.map((v,i)=>i===0||i===3?'rgba(0,102,204,0.7)':v>=0?'rgba(0,122,61,0.7)':'rgba(204,0,0,0.7)')
+    if (lat){
+      const ni=lat.net_income||0,ie=lat.interest_expense||0,tax=lat.tax_expense||0,da=lat.da||0;
+      const rest=lat.restructuring||0,imp=lat.impairment||0;
+      const allParts=[{l:'Net Income',v:ni},{l:'+ Interest',v:ie},{l:'+ Taxes',v:tax},
+        {l:'+ D&A',v:da},{l:'+ Restructuring',v:rest},{l:'+ Impairment',v:imp},{l:'= EBITDA',v:lat.ebitda||0}];
+      const parts=allParts.filter(x=>x.v!=null&&(x.v!==0||x.l==='= EBITDA'));
+      mkChart('ca-chart-bridge',{type:'bar',data:{labels:parts.map(x=>x.l),datasets:[{
+        label:'$M',data:parts.map(x=>x.v),
+        backgroundColor:parts.map((x,i)=>i===0||x.l==='= EBITDA'?'rgba(0,102,204,0.75)':x.v>=0?'rgba(0,122,61,0.7)':'rgba(204,0,0,0.7)')
       }]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{title:{display:true,text:'$M'}}}}});
     }
 
     mkChart('ca-chart-addbacks',{type:'line',data:{labels:yrs,datasets:[
-      {label:'D&A ($M)',data:ts.map(r=>r.da/1e6),borderColor:warn,backgroundColor:'rgba(204,102,0,0.07)',pointRadius:4}
+      {label:'D&A ($M)',data:ts.map(r=>r.da),borderColor:WN,backgroundColor:'rgba(204,102,0,0.07)',pointRadius:4},
+      {label:'R&D ($M)',data:ts.map(r=>r.rnd),borderColor:'rgba(0,102,204,0.6)',borderDash:[4,3],pointRadius:3},
     ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'$M'}}}}});
 
-    if(peerM&&peerM.length){
-      const pLabels=[ticker,...peerM.map(p=>p.ticker)];
-      const pData=[ts[ts.length-1]?.ebitdaM!=null?ts[ts.length-1].ebitdaM*100:null,...peerM.map(p=>p.m?.metric?.['ebitdaMarginTTM']??null)];
-      mkChart('ca-chart-peer-prof',{type:'bar',data:{labels:pLabels,datasets:[{
-        label:'EBITDA Margin %',data:pData,
-        backgroundColor:pLabels.map((_,i)=>i===0?acc:'rgba(0,102,204,0.3)')
-      }]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{title:{display:true,text:'%'}}}}});
-    }
-
+    // Profitability table (most recent first)
     el('ca-prof-table').innerHTML=`<table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
       <thead><tr style="background:#f0f4f8">
         <th style="padding:6px 10px;text-align:left">Year</th>
-        <th style="padding:6px 10px;text-align:right">Revenue $M</th>
-        <th style="padding:6px 10px;text-align:right">EBITDA $M</th>
-        <th style="padding:6px 10px;text-align:right">EBITDA Margin</th>
-        <th style="padding:6px 10px;text-align:right">Net Income $M</th>
-        <th style="padding:6px 10px;text-align:right">Net Margin</th>
+        <th style="padding:6px 10px;text-align:right">Revenue</th>
+        <th style="padding:6px 10px;text-align:right">Gross Profit</th>
+        <th style="padding:6px 10px;text-align:right">Gross Mgn</th>
+        <th style="padding:6px 10px;text-align:right">EBITDA</th>
+        <th style="padding:6px 10px;text-align:right">EBITDA Mgn</th>
+        <th style="padding:6px 10px;text-align:right">Net Income</th>
+        <th style="padding:6px 10px;text-align:right">Net Mgn</th>
+        <th style="padding:6px 10px;text-align:right">R&amp;D</th>
       </tr></thead>
-      <tbody>${ts.map(r=>`<tr style="border-bottom:1px solid #f0f4f8">
-        <td style="padding:5px 10px">${r.yr}</td>
-        <td style="padding:5px 10px;text-align:right">${nB(r.rev/1e6)}</td>
-        <td style="padding:5px 10px;text-align:right">${nB(r.ebitda/1e6)}</td>
-        <td style="padding:5px 10px;text-align:right;color:${r.ebitdaM>0?pos:neg}">${r.ebitdaM!=null?n(r.ebitdaM*100,1)+'%':'—'}</td>
-        <td style="padding:5px 10px;text-align:right">${nB(r.netInc/1e6)}</td>
-        <td style="padding:5px 10px;text-align:right;color:${r.netM>0?pos:neg}">${r.netM!=null?n(r.netM*100,1)+'%':'—'}</td>
+      <tbody>${[...ts].reverse().map(r=>`<tr style="border-bottom:1px solid #f0f4f8">
+        <td style="padding:5px 10px;font-weight:600">${r.yr}</td>
+        <td style="padding:5px 10px;text-align:right">${NB(r.revenue)}</td>
+        <td style="padding:5px 10px;text-align:right">${NB(r.gross_profit)}</td>
+        <td style="padding:5px 10px;text-align:right;color:${r.gross_margin>0?P:NG}">${N(r.gross_margin,1,'%')}</td>
+        <td style="padding:5px 10px;text-align:right">${NB(r.ebitda)}</td>
+        <td style="padding:5px 10px;text-align:right;color:${r.ebitda_margin>0?P:NG}">${N(r.ebitda_margin,1,'%')}</td>
+        <td style="padding:5px 10px;text-align:right;color:${(r.net_income||0)>=0?P:NG}">${NB(r.net_income)}</td>
+        <td style="padding:5px 10px;text-align:right;color:${(r.net_margin||0)>=0?P:NG}">${N(r.net_margin,1,'%')}</td>
+        <td style="padding:5px 10px;text-align:right">${NB(r.rnd)}</td>
       </tr>`).join('')}</tbody></table>`;
   }
 
-  // ── §4 Red Flags ──────────────────────────────────────────────────────
-  function renderFlagSection(fls) {
-    el('ca-s4-flags').innerHTML = !fls.length
-      ? `<div class="ca-flag-item safe"><span class="ca-flag-dot safe"></span>No major red flags detected based on available data</div>`
-      : fls.map(f=>`<div class="ca-flag-item ${f.sev}"><span class="ca-flag-dot ${f.sev}"></span>${f.txt}</div>`).join('');
+  // ── §4 Red Flags ──────────────────────────────────────────────────────────
+  function renderFlagSection(fls){
+    el('ca-s4-flags').innerHTML=!fls.length
+      ?`<div class="ca-flag-item safe"><span class="ca-flag-dot safe"></span>No major red flags detected based on available SEC EDGAR data</div>`
+      :fls.map(f=>`<div class="ca-flag-item ${f.sev}"><span class="ca-flag-dot ${f.sev}"></span>${f.txt}</div>`).join('');
   }
 
-  // ── §5 Cash Flow & Liquidity ──────────────────────────────────────────
-  function renderCashFlow(ts, metr) {
-    const m=metr?.metric||{}, lat=ts[ts.length-1]||{}, yrs=ts.map(r=>r.yr);
+  // ── §5 Cash Flow & Liquidity ──────────────────────────────────────────────
+  function renderCashFlow(ts){
+    const yrs=ts.map(r=>r.yr), lat=ts[ts.length-1]||{};
 
     mkChart('ca-chart-fcf-hist',{type:'bar',data:{labels:yrs,datasets:[
-      {label:'Operating CF ($M)',data:ts.map(r=>r.ocf/1e6),backgroundColor:'rgba(0,102,204,0.45)',borderColor:acc,borderWidth:1},
-      {label:'Free CF ($M)',data:ts.map(r=>r.fcf/1e6),type:'line',borderColor:ts.map(r=>r.fcf>=0?pos:neg),
-        segment:{borderColor:ctx=>ctx.p0.parsed.y>=0?pos:neg},
-        pointBackgroundColor:ts.map(r=>r.fcf>=0?pos:neg),pointRadius:5}
+      {label:'Operating CF ($M)',data:ts.map(r=>r.operating_cf),backgroundColor:'rgba(0,102,204,0.45)',borderColor:AC,borderWidth:1},
+      {label:'Free CF ($M)',data:ts.map(r=>r.fcf),type:'line',
+        segment:{borderColor:ctx=>ctx.p0.parsed.y>=0?P:NG},
+        pointBackgroundColor:ts.map(r=>(r.fcf||0)>=0?P:NG),pointRadius:5},
     ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'$M'}}}}});
 
-    if(lat.ocf!=null){
-      const wf=[lat.ocf/1e6,-(lat.capex/1e6||0),lat.fcf/1e6];
-      mkChart('ca-chart-fcf-fall',{type:'bar',data:{labels:['Operating CF','- Capex','= FCF'],datasets:[{
+    if(lat.operating_cf!=null){
+      const wf=[lat.operating_cf,-(lat.capex||0),lat.fcf];
+      mkChart('ca-chart-fcf-fall',{type:'bar',data:{labels:['Operating CF','− Capex','= FCF'],datasets:[{
         label:'$M',data:wf,
-        backgroundColor:wf.map((v,i)=>i===2?(v>=0?'rgba(0,122,61,0.8)':'rgba(204,0,0,0.8)'):(v>=0?'rgba(0,102,204,0.6)':'rgba(204,0,0,0.5)'))
+        backgroundColor:wf.map((v,i)=>i===2?(v>=0?'rgba(0,122,61,0.8)':'rgba(204,0,0,0.8)'):(v!=null&&v>=0?'rgba(0,102,204,0.6)':'rgba(204,0,0,0.5)'))
       }]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{title:{display:true,text:'$M'}}}}});
     }
 
-    const dso=m['daysSalesOutstandingTTM'], dio=m['daysInventoryTTM'], dpo=m['daysPayableOutstandingTTM'];
-    mkChart('ca-chart-ccc',{type:'bar',data:{labels:['Days Receivable','Days Inventory','Days Payable (neg)','Cash Conv. Cycle'],
-      datasets:[{label:'Days',data:[dso,dio,dpo!=null?-dpo:null,(dso&&dio&&dpo)?(dso+dio-dpo):null],
-        backgroundColor:['rgba(0,102,204,0.6)','rgba(0,102,204,0.6)','rgba(204,102,0,0.6)','rgba(0,122,61,0.7)']}]},
-      options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{title:{display:true,text:'Days'}}}}});
+    mkChart('ca-chart-ccc',{type:'bar',data:{labels:yrs,datasets:[
+      {label:'Receivable Days',data:ts.map(r=>r.receivable_days),backgroundColor:'rgba(0,102,204,0.5)'},
+      {label:'Inventory Days', data:ts.map(r=>r.inventory_days), backgroundColor:'rgba(0,102,204,0.25)'},
+      {label:'Cash Cycle',     data:ts.map(r=>r.cash_cycle),type:'line',borderColor:P,pointRadius:4},
+    ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'Days'}}}}});
 
-    mkChart('ca-chart-maturities',{type:'bar',data:{labels:['Yr 1','Yr 2','Yr 3','Yr 4','Yr 5+'],datasets:[{
-      label:'Debt Maturity ($M) — enter via manual inputs',data:[null,null,null,null,null],backgroundColor:'rgba(0,102,204,0.35)'}]},
-      options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'},title:{display:true,text:'Enter maturity schedule via manual inputs above'}},scales:{y:{title:{display:true,text:'$M'}}}}});
+    // Capital allocation chart (replaces maturity schedule)
+    mkChart('ca-chart-maturities',{type:'bar',data:{labels:yrs,datasets:[
+      {label:'Capex ($M)',    data:ts.map(r=>r.capex),     backgroundColor:'rgba(204,102,0,0.45)'},
+      {label:'Dividends ($M)',data:ts.map(r=>r.dividends), backgroundColor:'rgba(0,102,204,0.35)'},
+      {label:'Buybacks ($M)', data:ts.map(r=>r.buybacks),  backgroundColor:'rgba(0,122,61,0.35)'},
+    ]},options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{position:'bottom'},title:{display:true,text:'Capital Allocation History (from SEC XBRL)'}},
+      scales:{y:{title:{display:true,text:'$M'}}}}});
 
-    const cashMo = lat.cash&&lat.rev ? lat.cash/lat.rev*12 : null;
+    const cashMo=(lat.cash&&lat.revenue)?lat.cash/lat.revenue*12:null;
     if(cashMo!=null){
-      const pct=Math.min(cashMo/18*100,100);
-      const gcls=cashMo>=6?'safe':cashMo>=3?'watch':'danger';
+      const pct=Math.min(cashMo/18*100,100), gcls=cashMo>=6?'safe':cashMo>=3?'watch':'danger';
       el('ca-gauge-fill').style.width=pct+'%';
       el('ca-gauge-fill').className='ca-gauge-fill '+gcls;
-      el('ca-gauge-label').textContent=`Cash runway: ~${n(cashMo,1)} months of revenue`;
+      el('ca-gauge-label').textContent=`Cash runway: ~${N(cashMo,1)} months of revenue`;
       el('ca-liquidity-conclusion').textContent=cashMo>=6
-        ?`Adequate liquidity — ${n(cashMo,1)} months of revenue in cash.`
-        :cashMo>=3?`Moderate liquidity — ${n(cashMo,1)} months of revenue. Monitor for burn.`
-        :`Low liquidity — only ${n(cashMo,1)} months of revenue in cash. Potential stress risk.`;
+        ?`Adequate liquidity — ${N(cashMo,1)} months of revenue in cash. No near-term liquidity concern.`
+        :cashMo>=3?`Moderate liquidity — ${N(cashMo,1)} months in cash. Monitor cash burn carefully.`
+        :`Low liquidity — only ${N(cashMo,1)} months of revenue in cash. Potential stress risk.`;
     } else {
       el('ca-gauge-label').textContent='Liquidity data unavailable';
+      el('ca-liquidity-conclusion').textContent='';
     }
   }
 
-  // ── §6 Capital Structure ──────────────────────────────────────────────
-  function renderCapStruct(ts, metr, manual) {
+  // ── §6 Capital Structure ──────────────────────────────────────────────────
+  function renderCapStruct(ts,manual){
     const lat=ts[ts.length-1]||{}, yrs=ts.map(r=>r.yr);
 
     mkChart('ca-chart-lev',{type:'line',data:{labels:yrs,datasets:[
-      {label:'Net Debt/EBITDA',data:ts.map(r=>r.lev),borderColor:neg,backgroundColor:'rgba(204,0,0,0.05)',pointRadius:4,fill:true},
+      {label:'Net Debt/EBITDA',data:ts.map(r=>r.net_debt_ebitda),borderColor:NG,backgroundColor:'rgba(204,0,0,0.05)',pointRadius:4,fill:true},
       {label:'3x',data:yrs.map(()=>3),borderColor:'rgba(204,102,0,0.5)',borderDash:[6,4],pointRadius:0},
       {label:'5x',data:yrs.map(()=>5),borderColor:'rgba(204,0,0,0.35)',borderDash:[4,3],pointRadius:0},
     ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'x EBITDA'}}}}});
 
     mkChart('ca-chart-cov',{type:'line',data:{labels:yrs,datasets:[
-      {label:'Interest Coverage',data:ts.map(r=>r.cov),borderColor:acc,pointRadius:4},
-      {label:'2x min',data:yrs.map(()=>2),borderColor:'rgba(204,0,0,0.35)',borderDash:[6,4],pointRadius:0},
-    ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'x'}}}}});
+      {label:'ROE %',data:ts.map(r=>r.roe),borderColor:AC,pointRadius:4},
+      {label:'ROA %',data:ts.map(r=>r.roa),borderColor:P,borderDash:[4,3],pointRadius:3},
+    ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'%'}}}}});
 
-    const totDebt=(manual.totalDebt!=null?+manual.totalDebt:(lat.totalDebt/1e6))||0;
+    const totDebt=(manual.totalDebt!=null?+manual.totalDebt:lat.total_debt)||0;
     const senSec=+(manual.seniorSecured||0);
     const senUns=+(manual.seniorUnsecured||Math.max(0,totDebt-senSec));
     const sub=+(manual.subDebt||0);
-    const eq=lat.equity/1e6||0, cashM=lat.cash/1e6||0;
+    const cashM=lat.cash||0, eq=lat.stockholders_equity||0;
 
     const rows=[
-      {label:'Cash & Equivalents',amt:cashM,color:pos,note:'Asset — offsets debt'},
-      senSec?{label:'Senior Secured Debt',amt:-senSec,color:neg,note:manual.seniorSecuredNote||''}:null,
-      senUns?{label:'Senior Unsecured Debt',amt:-senUns,color:warn,note:manual.seniorUnsecuredNote||''}:null,
-      sub?{label:'Subordinated Debt',amt:-sub,color:neg,note:manual.subDebtNote||''}:null,
-      {label:'Book Equity',amt:eq,color:acc,note:'Residual claim'},
+      {label:'Cash & Equivalents', amt:cashM,  color:P,  note:'Asset — offsets debt'},
+      senSec?{label:'Senior Secured',  amt:-senSec,color:NG, note:manual.seniorSecuredNote||''}:null,
+      senUns?{label:'Senior Unsecured',amt:-senUns,color:WN, note:manual.seniorUnsecuredNote||''}:null,
+      sub?{label:'Subordinated Debt',  amt:-sub,  color:NG, note:manual.subDebtNote||''}:null,
+      {label:'Book Equity',        amt:eq,     color:AC, note:'Residual claim'},
     ].filter(Boolean);
 
     el('ca-cap-table-wrap').innerHTML=`<table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
       <thead><tr style="background:#f0f4f8">
-        <th style="padding:6px 10px;text-align:left">Layer</th>
-        <th style="padding:6px 10px;text-align:right">$M</th>
-        <th style="padding:6px 10px;text-align:left">Note</th>
+        <th style="padding:6px 10px;text-align:left">Layer</th><th style="padding:6px 10px;text-align:right">$M</th><th style="padding:6px 10px;text-align:left">Note</th>
       </tr></thead>
       <tbody>${rows.map(r=>`<tr style="border-bottom:1px solid #f0f4f8">
         <td style="padding:5px 10px"><span style="display:inline-block;width:9px;height:9px;background:${r.color};border-radius:2px;margin-right:6px"></span>${r.label}</td>
-        <td style="padding:5px 10px;text-align:right;color:${r.amt>=0?pos:neg}">${r.amt>=0?'+':''}${nB(r.amt)}</td>
+        <td style="padding:5px 10px;text-align:right;color:${r.amt>=0?P:NG}">${r.amt>=0?'+':''}${NB(r.amt)}</td>
         <td style="padding:5px 10px;color:var(--muted);font-size:11px">${r.note}</td>
       </tr>`).join('')}</tbody>
       <tfoot><tr style="background:#f0f4f8;font-weight:700">
-        <td style="padding:6px 10px">Net Debt</td>
-        <td style="padding:6px 10px;text-align:right">${nB((lat.netDebt||0)/1e6)}</td>
-        <td></td>
+        <td style="padding:6px 10px">Net Debt</td><td style="padding:6px 10px;text-align:right">${NB(lat.net_debt||0)}</td><td></td>
       </tr></tfoot></table>`;
 
-    const lev=lat.lev;
-    let conc='';
-    if(lev==null) conc='Leverage data unavailable — complete manual inputs above.';
-    else if(lev<0) conc=`${ticker} holds a <strong>net cash position</strong> (${n(lev,1)}x) — credit positive.`;
-    else if(lev<2) conc=`Leverage is <strong>conservative</strong> at ${n(lev,1)}x net debt/EBITDA.`;
-    else if(lev<3.5) conc=`Leverage is <strong>moderate</strong> at ${n(lev,1)}x — monitor for debt-funded acquisitions.`;
-    else if(lev<5) conc=`Leverage is <strong>elevated</strong> at ${n(lev,1)}x — debt service capacity is stretched.`;
-    else conc=`Leverage is <strong>very high</strong> at ${n(lev,1)}x — material risk of covenant breach or refinancing difficulty.`;
+    const lev=lat.net_debt_ebitda;
+    let conc;
+    if(lev==null)    conc=`${_ticker}: leverage data not available — complete manual inputs above for a fuller picture.`;
+    else if(lev<0)   conc=`${_ticker} holds a <strong>net cash position</strong> (${N(lev,1)}x) — balance sheet is a credit positive.`;
+    else if(lev<2)   conc=`Leverage is <strong>conservative</strong> at ${N(lev,1)}x net debt/EBITDA.`;
+    else if(lev<3.5) conc=`Leverage is <strong>moderate</strong> at ${N(lev,1)}x — monitor for debt-funded acquisitions.`;
+    else if(lev<5)   conc=`Leverage is <strong>elevated</strong> at ${N(lev,1)}x — debt service capacity is stretched.`;
+    else             conc=`Leverage is <strong>very high</strong> at ${N(lev,1)}x — material risk of covenant breach or refinancing difficulty.`;
     el('ca-cap-conclusion-body').innerHTML=`<div style="font-size:13px;line-height:1.7;color:var(--text)">${conc}</div>`;
   }
 
-  // ── Manual form ─────────────────────────────────────────────────────
+  // ── Manual form ────────────────────────────────────────────────────────────
   function renderManualForm(t,manual){
     const fields=[
-      {k:'totalDebt',lbl:'Total Debt ($M)',ph:'e.g. 5200'},
-      {k:'seniorSecured',lbl:'Senior Secured ($M)',ph:'e.g. 2000'},
-      {k:'seniorSecuredNote',lbl:'Senior Secured Note',ph:'e.g. Term Loan B due 2027'},
-      {k:'seniorUnsecured',lbl:'Senior Unsecured ($M)',ph:'e.g. 3200'},
-      {k:'seniorUnsecuredNote',lbl:'Senior Unsecured Note',ph:'e.g. 5.5% Notes due 2029'},
-      {k:'subDebt',lbl:'Subordinated Debt ($M)',ph:'e.g. 0'},
-      {k:'subDebtNote',lbl:'Sub-Debt Note',ph:'e.g. —'},
+      {k:'totalDebt',          lbl:'Total Debt ($M)',       ph:'e.g. 120000'},
+      {k:'seniorSecured',      lbl:'Senior Secured ($M)',   ph:'e.g. 50000'},
+      {k:'seniorSecuredNote',  lbl:'Senior Secured Note',   ph:'e.g. Term Loan A due 2027'},
+      {k:'seniorUnsecured',    lbl:'Senior Unsecured ($M)', ph:'e.g. 70000'},
+      {k:'seniorUnsecuredNote',lbl:'Senior Unsecured Note', ph:'e.g. 4.2% Notes due 2030'},
+      {k:'subDebt',            lbl:'Subordinated Debt ($M)',ph:'e.g. 0'},
+      {k:'subDebtNote',        lbl:'Sub-Debt Note',         ph:'e.g. —'},
     ];
     el('ca-manual-grid').innerHTML=fields.map(f=>`
       <div class="ca-manual-field">
@@ -2561,57 +2761,88 @@ const CA = (() => {
 
   function applyManual(){
     const manual={};
-    document.querySelectorAll('.ca-manual-input').forEach(i=>{ if(i.value.trim()) manual[i.dataset.key]=i.value.trim(); });
-    saveM(ticker,manual);
-    renderCapStruct(_data.ts,_data.metr,manual);
+    document.querySelectorAll('.ca-manual-input').forEach(i=>{if(i.value.trim())manual[i.dataset.key]=i.value.trim();});
+    saveManual(_ticker,manual);
+    renderCapStruct(_ts,manual);
   }
 
   function clearManual(){
-    saveM(ticker,{});
+    saveManual(_ticker,{});
     document.querySelectorAll('.ca-manual-input').forEach(i=>i.value='');
-    renderCapStruct(_data.ts,_data.metr,{});
+    renderCapStruct(_ts,{});
   }
 
-  // ── §7 Peers ──────────────────────────────────────────────────────────
-  function renderPeers(metr,peerM){
-    const m=metr?.metric||{}, ts=_data.ts, lat=ts[ts.length-1]||{};
-    const all=[{ticker,m,lat},...(peerM||[]).map(p=>({ticker:p.ticker,m:p.m?.metric||{},lat:{}}))];
-    const cols=['P/E','EV/EBITDA','EBITDA Mgn %','D/E','ROE %','Rev Grw %','FCF Mgn %'];
-    const get=(m,lat,c)=>{
-      if(c==='P/E') return m['peTTM'];
-      if(c==='EV/EBITDA') return m['evToEbitda']||m['evEbitdaTTM'];
-      if(c==='EBITDA Mgn %') return m['ebitdaMarginTTM'];
-      if(c==='D/E') return m['totalDebtToEquity']||m['totalDebt/totalEquityAnnual'];
-      if(c==='ROE %') return m['roeTTM'];
-      if(c==='Rev Grw %') return m['revenueGrowthTTMYoy']||m['revenueGrowth3Y'];
-      if(c==='FCF Mgn %') return m['fcfMarginTTM'];
+  // ── §7 Peers ──────────────────────────────────────────────────────────────
+  function renderPeers(ts,peerData,peerTickers){
+    const lat=ts[ts.length-1]||{}, isBank=BANK_SET.has(_ticker);
+    const cols=isBank
+      ?['ROE %','CET1 %','NPL %','NIM %','Revenue ($M)','Net Income ($M)']
+      :['EBITDA Mgn %','Net Mgn %','FCF Mgn %','Net Debt/EBITDA','ROE %','Revenue ($M)'];
+
+    const getV=(r,col)=>{
+      if(col==='EBITDA Mgn %')     return r.ebitda_margin;
+      if(col==='Net Mgn %')        return r.net_margin;
+      if(col==='FCF Mgn %')        return r.fcf_margin;
+      if(col==='Net Debt/EBITDA')  return r.net_debt_ebitda;
+      if(col==='ROE %')            return r.roe??r.rotce;
+      if(col==='Revenue ($M)')     return r.revenue;
+      if(col==='Net Income ($M)')  return r.net_income;
+      if(col==='CET1 %')           return r.cet1_ratio;
+      if(col==='NPL %')            return r.npl_ratio;
+      if(col==='NIM %')            return r.nim;
+      return null;
     };
+
+    const allRows=[{ticker:_ticker,lat},...peerData.map(p=>({ticker:p.ticker,lat:p.ts[p.ts.length-1]||{}}))];
+
     el('ca-peer-table-wrap').innerHTML=`<table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
-      <thead><tr style="background:#f0f4f8"><th style="padding:6px 10px;text-align:left">Ticker</th>${cols.map(c=>`<th style="padding:6px 10px;text-align:right">${c}</th>`).join('')}</tr></thead>
-      <tbody>${all.map((r,i)=>`<tr style="border-bottom:1px solid #f0f4f8;${i===0?'font-weight:700;background:rgba(0,102,204,0.04)':''}">
+      <thead><tr style="background:#f0f4f8">
+        <th style="padding:6px 10px;text-align:left">Ticker</th>
+        ${cols.map(c=>`<th style="padding:6px 10px;text-align:right">${c}</th>`).join('')}
+      </tr></thead>
+      <tbody>${allRows.map((r,i)=>`<tr style="border-bottom:1px solid #f0f4f8;${i===0?'font-weight:700;background:rgba(0,102,204,0.04)':''}">
         <td style="padding:5px 10px">${r.ticker}${i===0?' ★':''}</td>
-        ${cols.map(c=>`<td style="padding:5px 10px;text-align:right">${get(r.m,r.lat,c)!=null?n(get(r.m,r.lat,c),1):'—'}</td>`).join('')}
-      </tr>`).join('')}</tbody></table>`;
+        ${cols.map(c=>`<td style="padding:5px 10px;text-align:right">${getV(r.lat,c)!=null?N(getV(r.lat,c),1):'—'}</td>`).join('')}
+      </tr>`).join('')}</tbody></table>
+    <div style="font-size:10px;color:var(--muted);margin-top:6px;padding:0 2px">
+      Peer data from SEC EDGAR XBRL — loads in background. Missing peers may not be in S&amp;P 500.</div>`;
+
+    if(peerData.length){
+      const pLabels=[_ticker,...peerData.map(p=>p.ticker)];
+      const field=isBank?'roe':'ebitda_margin';
+      const pVals=[lat[field],...peerData.map(p=>(p.ts[p.ts.length-1]||{})[field])];
+      mkChart('ca-chart-peer-prof',{type:'bar',data:{labels:pLabels,datasets:[{
+        label:isBank?'ROE %':'EBITDA Margin %',data:pVals,
+        backgroundColor:pLabels.map((_,i)=>i===0?AC:'rgba(0,102,204,0.3)')
+      }]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{title:{display:true,text:'%'}}}}});
+    }
   }
 
-  // ── §8 Scenarios ──────────────────────────────────────────────────────
+  // ── §8 Scenarios ──────────────────────────────────────────────────────────
   function renderScenarios(){
-    const ts=_data.ts;
-    if(!ts||!ts.length) return;
+    const ts=_ts; if(!ts||!ts.length) return;
     const lat=ts[ts.length-1];
     const dsRev=+(el('ca-ds-rev')?.value||10)/100;
-    const dsM=+(el('ca-ds-margin')?.value||3)/100;
-    const baseRev=lat.rev/1e6, baseEM=lat.ebitdaM||0;
+    const dsMargin=+(el('ca-ds-margin')?.value||3)/100;
+    const baseRev=lat.revenue||0, baseEM=(lat.ebitda_margin||0)/100;
+
+    // Average revenue growth
+    const last4=ts.slice(-4);
+    let avgGr=0.03;
+    if(last4.length>=2&&last4[0].revenue&&last4[last4.length-1].revenue){
+      const yrs=last4.length-1;
+      avgGr=Math.pow(last4[last4.length-1].revenue/last4[0].revenue,1/yrs)-1;
+      avgGr=Math.max(-0.25,Math.min(0.35,avgGr));
+    }
 
     const scenarios=[
-      {name:'Bull',color:pos,rev:baseRev*1.08,em:baseEM+0.02},
-      {name:'Base',color:acc,rev:baseRev*1.02,em:baseEM},
-      {name:'Bear / Downside',color:neg,rev:baseRev*(1-dsRev),em:Math.max(0,baseEM-dsM)},
+      {name:'Bull', color:P,  rev:baseRev*(1+Math.max(avgGr,0.04)+0.02),em:baseEM+0.02},
+      {name:'Base', color:AC, rev:baseRev*(1+avgGr),                     em:baseEM},
+      {name:'Bear', color:NG, rev:baseRev*(1-dsRev),                     em:Math.max(0,baseEM-dsMargin)},
     ].map(s=>{
       const ebitda=s.rev*s.em;
-      const lev=ebitda>0?(lat.netDebt/1e6)/ebitda:null;
-      const cov=lat.intExp>0?(ebitda*1e6)/lat.intExp:null;
-      return {...s,ebitda,lev,cov};
+      const lev=(ebitda>0&&lat.net_debt!=null)?lat.net_debt/ebitda:null;
+      return {...s,ebitda,lev};
     });
 
     el('ca-scenario-table').innerHTML=`<table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
@@ -2621,31 +2852,29 @@ const CA = (() => {
         <th style="padding:6px 10px;text-align:right">EBITDA $M</th>
         <th style="padding:6px 10px;text-align:right">EBITDA Margin</th>
         <th style="padding:6px 10px;text-align:right">Net Debt/EBITDA</th>
-        <th style="padding:6px 10px;text-align:right">Coverage</th>
         <th style="padding:6px 10px;text-align:right">Assessment</th>
       </tr></thead>
       <tbody>${scenarios.map(s=>{
-        const ass=s.lev!=null&&s.lev<3&&(s.cov==null||s.cov>4)?'Comfortable':s.lev!=null&&s.lev>5?'Stress':'Manageable';
+        const ass=s.lev!=null&&s.lev<3?'Comfortable':s.lev!=null&&s.lev>5?'Stress':'Manageable';
         return `<tr style="border-bottom:1px solid #f0f4f8">
           <td style="padding:5px 10px;font-weight:700;color:${s.color}">${s.name}</td>
-          <td style="padding:5px 10px;text-align:right">${nB(s.rev)}</td>
-          <td style="padding:5px 10px;text-align:right">${nB(s.ebitda)}</td>
-          <td style="padding:5px 10px;text-align:right">${n(s.em*100,1)}%</td>
-          <td style="padding:5px 10px;text-align:right">${s.lev!=null?n(s.lev,1)+'x':'—'}</td>
-          <td style="padding:5px 10px;text-align:right">${s.cov!=null?n(s.cov,1)+'x':'—'}</td>
-          <td style="padding:5px 10px;text-align:right;color:${ass==='Comfortable'?pos:ass==='Stress'?neg:warn}">${ass}</td>
+          <td style="padding:5px 10px;text-align:right">${NB(s.rev)}</td>
+          <td style="padding:5px 10px;text-align:right">${NB(s.ebitda)}</td>
+          <td style="padding:5px 10px;text-align:right">${N(s.em*100,1)}%</td>
+          <td style="padding:5px 10px;text-align:right">${s.lev!=null?N(s.lev,1)+'x':'—'}</td>
+          <td style="padding:5px 10px;text-align:right;color:${ass==='Comfortable'?P:ass==='Stress'?NG:WN}">${ass}</td>
         </tr>`;
       }).join('')}</tbody></table>`;
   }
 
-  // ── §9 Verdict ──────────────────────────────────────────────────────
+  // ── §9 Final Verdict ──────────────────────────────────────────────────────
   function renderVerdict(sc,fls,ts){
     const {total,verdict}=sc, cls=verdict.toLowerCase(), lat=ts[ts.length-1]||{};
     const text=verdict==='SAFE'
-      ?`<strong>${ticker}</strong> demonstrates solid credit fundamentals. Leverage and cash flow support debt service. Investment-grade-adjacent profile.`
+      ?`<strong>${_ticker}</strong> demonstrates solid credit fundamentals based on SEC EDGAR data. Profitability and cash flow support the balance sheet. Investment-grade-adjacent profile.`
       :verdict==='WATCH'
-      ?`<strong>${ticker}</strong> presents mixed signals. Some metrics are adequate but key areas warrant monitoring — track leverage trajectory and FCF quality closely.`
-      :`<strong>${ticker}</strong> exhibits material credit concerns. One or more metrics are in stress territory — significant due diligence required before any credit exposure.`;
+      ?`<strong>${_ticker}</strong> presents mixed credit signals. Some metrics are adequate but key areas warrant monitoring — track leverage trajectory and FCF quality closely.`
+      :`<strong>${_ticker}</strong> exhibits material credit concerns. One or more metrics are in stress territory — significant due diligence required before any credit exposure.`;
 
     const dCnt=fls.filter(f=>f.sev==='danger').length, wCnt=fls.filter(f=>f.sev==='warn').length;
     el('ca-s9-verdict').innerHTML=`
@@ -2660,46 +2889,44 @@ const CA = (() => {
         <div style="font-size:13px;line-height:1.7;color:var(--text)">${text}</div>
       </div>`;
 
-    const riskRows=[
-      {risk:'Earnings Volatility',lvl:lat.ebitdaM!=null&&lat.ebitdaM>.15?'Low':'Medium'},
-      {risk:'Refinancing Risk',lvl:lat.lev!=null&&lat.lev>4?'High':lat.lev>2?'Medium':'Low'},
-      {risk:'Liquidity Risk',lvl:lat.cash&&lat.rev&&lat.cash/lat.rev>.12?'Low':'Medium'},
-      {risk:'Cash Flow Sustainability',lvl:lat.fcf>0?'Low':'High'},
-      {risk:'Execution / Operational Risk',lvl:'Medium'},
-    ];
     el('ca-risks-table-wrap').innerHTML=`
       <div class="ca-section-hdr" style="margin-top:20px">RISK MATRIX</div>
-      <div class="ca-chart-panel" style="overflow-x:auto">
-        <table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
-          <thead><tr style="background:#f0f4f8"><th style="padding:6px 10px;text-align:left">Risk Factor</th><th style="padding:6px 10px">Level</th></tr></thead>
-          <tbody>${riskRows.map(r=>`<tr style="border-bottom:1px solid #f0f4f8">
-            <td style="padding:5px 10px">${r.risk}</td>
-            <td style="padding:5px 10px;text-align:center"><span style="padding:2px 10px;border-radius:4px;font-size:11px;background:${r.lvl==='Low'?'rgba(0,122,61,0.12)':r.lvl==='High'?'rgba(204,0,0,0.12)':'rgba(204,102,0,0.12)'};color:${r.lvl==='Low'?pos:r.lvl==='High'?neg:warn}">${r.lvl}</span></td>
-          </tr>`).join('')}</tbody></table></div>`;
+      <div class="ca-chart-panel" style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
+        <thead><tr style="background:#f0f4f8"><th style="padding:6px 10px;text-align:left">Risk Factor</th><th style="padding:6px 10px">Level</th></tr></thead>
+        <tbody>${[
+          {r:'Earnings Volatility',   l:lat.ebitda_margin!=null&&lat.ebitda_margin>15?'Low':'Medium'},
+          {r:'Refinancing Risk',      l:lat.net_debt_ebitda!=null&&lat.net_debt_ebitda>4?'High':lat.net_debt_ebitda>2?'Medium':'Low'},
+          {r:'Liquidity Risk',        l:lat.cash&&lat.revenue&&lat.cash/lat.revenue>0.12?'Low':'Medium'},
+          {r:'FCF Sustainability',    l:lat.fcf!=null&&lat.fcf>0?'Low':'High'},
+          {r:'Operational Risk',      l:'Medium'},
+        ].map(({r,l})=>`<tr style="border-bottom:1px solid #f0f4f8">
+          <td style="padding:5px 10px">${r}</td>
+          <td style="padding:5px 10px;text-align:center"><span style="padding:2px 10px;border-radius:4px;font-size:11px;
+            background:${l==='Low'?'rgba(0,122,61,0.12)':l==='High'?'rgba(204,0,0,0.12)':'rgba(204,102,0,0.12)'};
+            color:${l==='Low'?P:l==='High'?NG:WN}">${l}</span></td>
+        </tr>`).join('')}</tbody></table></div>`;
 
-    const probScens=[
-      {name:'Base (no stress)',prob:55,outcome:'Leverage stable, adequate coverage'},
-      {name:'Mild stress',prob:30,outcome:'Revenue -5%, EBITDA margin -2pp'},
-      {name:'Severe stress',prob:15,outcome:'Revenue -15%, possible covenant breach'},
-    ];
     el('ca-prob-scenarios-wrap').innerHTML=`
       <div class="ca-section-hdr" style="margin-top:20px">PROBABILITY-WEIGHTED SCENARIOS</div>
-      <div class="ca-chart-panel">
-        <table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
-          <thead><tr style="background:#f0f4f8"><th style="padding:6px 10px;text-align:left">Scenario</th><th style="padding:6px 10px;text-align:right">Est. Prob.</th><th style="padding:6px 10px;text-align:left">Assumed Outcome</th></tr></thead>
-          <tbody>${probScens.map(s=>`<tr style="border-bottom:1px solid #f0f4f8">
-            <td style="padding:5px 10px">${s.name}</td>
-            <td style="padding:5px 10px;text-align:right">${s.prob}%</td>
-            <td style="padding:5px 10px;color:var(--muted)">${s.outcome}</td>
-          </tr>`).join('')}</tbody></table></div>`;
+      <div class="ca-chart-panel"><table style="width:100%;border-collapse:collapse;font-size:12px;font-family:var(--mono)">
+        <thead><tr style="background:#f0f4f8">
+          <th style="padding:6px 10px;text-align:left">Scenario</th>
+          <th style="padding:6px 10px;text-align:right">Est. Prob.</th>
+          <th style="padding:6px 10px;text-align:left">Assumed Outcome</th>
+        </tr></thead>
+        <tbody>
+          <tr style="border-bottom:1px solid #f0f4f8"><td style="padding:5px 10px">Base</td><td style="padding:5px 10px;text-align:right">55%</td><td style="padding:5px 10px;color:var(--muted)">Leverage stable, adequate margins</td></tr>
+          <tr style="border-bottom:1px solid #f0f4f8"><td style="padding:5px 10px">Mild stress</td><td style="padding:5px 10px;text-align:right">30%</td><td style="padding:5px 10px;color:var(--muted)">Revenue −5%, EBITDA margin −2pp</td></tr>
+          <tr><td style="padding:5px 10px">Severe stress</td><td style="padding:5px 10px;text-align:right">15%</td><td style="padding:5px 10px;color:var(--muted)">Revenue −15%, possible covenant stress</td></tr>
+        </tbody></table></div>`;
 
     el('ca-ddl').innerHTML=[
       'Review latest 10-K / 10-Q for covenant language and compliance status',
       'Confirm debt maturity schedule and any near-term refinancing needs',
       'Check recent credit rating actions from S&P, Moody\'s, and Fitch',
       'Analyze management guidance on capex and FCF outlook',
-      'Assess industry cyclicality, competitive positioning, and market share',
-      fls.length?`Investigate ${fls.length} flagged risk item(s) identified above`:'No flags — still verify data completeness vs. source filings',
+      'Assess industry cyclicality, competitive positioning, and market share trends',
+      fls.length?`Investigate ${fls.length} flagged risk item(s) identified above`:'No flags — verify data completeness vs. source filings',
       'Obtain latest investor presentation and earnings call transcript',
       'Review pension obligations, off-balance-sheet items, and contingent liabilities',
       'Cross-reference with any sell-side or bank credit research available',
@@ -2708,6 +2935,7 @@ const CA = (() => {
 
   return { load, initSearch, applyManual, clearManual, renderScenarios };
 })();
+
 
 // ═══════════════════════════════════════════════════════════════════════
 // INIT
