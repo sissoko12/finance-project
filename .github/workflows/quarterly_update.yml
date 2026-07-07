@@ -1,0 +1,58 @@
+name: Quarterly Data Update
+
+on:
+  schedule:
+    - cron: '0 6 1 1,4,7,10 *'
+  workflow_dispatch:
+    inputs:
+      force_reextract:
+        description: 'Force re-extract all filings'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4 lxml pandas numpy tqdm requests feedparser
+
+      - name: Download new filings
+        run: python3 fetch_filings.py
+
+      - name: Extract financial data
+        run: python3 scripts/parse_financials.py
+
+      - name: Extract text and crisis language
+        run: python3 scripts/parse_text.py
+
+      - name: Fetch latest news
+        run: python3 scripts/fetch_news.py || echo "News fetch skipped"
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/processed/ data/news/ 2>/dev/null || true
+          git diff --staged --quiet && echo "No changes" || (
+            QUARTER=$(python3 -c "from datetime import date; d=date.today(); print(f'Q{(d.month-1)//3+1} {d.year}')")
+            git commit -m "Auto quarterly update: $QUARTER [skip ci]"
+            git push origin main
+          )

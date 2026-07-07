@@ -1,8 +1,9 @@
+import os
 import requests
 import time
 from pathlib import Path
 
-USER_AGENT = "Eliran Cohen eliran.eliran35@gmail.com"
+USER_AGENT = os.environ.get('SEC_USER_AGENT', 'Eliran Cohen eliran.eliran35@gmail.com')
 
 TICKERS = {
     "JPM":  "0000019617",  # JPMorgan Chase
