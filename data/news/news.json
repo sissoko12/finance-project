@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-07-07T20:52:49.528165+00:00",
+  "last_updated": "2026-07-07T22:17:11.128964+00:00",
   "headlines": [
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019506/0001918704-26-019506-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019511/0001918704-26-019511-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T20:24:53+00:00",
+      "published": "2026-07-07T20:58:15+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019508/0001918704-26-019508-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T20:37:49+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -18,6 +27,16 @@
       "published": "2026-07-07T20:24:17+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Bank of America warns America now has 2 economies",
+      "url": "https://www.thestreet.com/economy/bank-of-america-warns-america-now-has-2-economies?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-07T20:23:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -50,6 +69,15 @@
       ]
     },
     {
+      "title": "Procter & Gamble and 6 Other Stocks to Buy Ahead of Earnings",
+      "url": "https://finance.yahoo.com/m/90dfa35b-db15-39f8-b41b-6df9c014dae8/procter-%26-gamble-and-6-other.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-07T20:05:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "MGM Upgraded by Wells Fargo -- Price Target Raised to $48.30",
       "url": "https://www.gurufocus.com/news/8948087/mgm-upgraded-by-wells-fargo-price-target-raised-to-4830",
       "source": "gurufocus.com",
@@ -66,6 +94,26 @@
       "published": "2026-07-07T20:02:51+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Figma shares rise as Bank of America resumes coverage with a ‘Buy’ rating",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095073/figma-shares-rise-as-bank-of-america-resumes-coverage-with-a-buy-rating-1095073.html?.tsrc=rss",
+      "source": "proactiveinvestors.com",
+      "published": "2026-07-07T20:02:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000195004726006908/0001950047-26-006908-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T20:01:57+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -88,6 +136,15 @@
       ]
     },
     {
+      "title": "Goldman Sachs revamps SpaceX stock price target for 2026",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-spacex-stock-price-target-for-2026?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-07T19:47:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019498/0001918704-26-019498-index.htm",
       "source": "sec.gov",
@@ -95,6 +152,16 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Truist Earnings Path Uncertain Amid Leadership Changes, Rate Hike Prospects, UBS Says in Downgrade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-earnings-path-uncertain-amid-194138972.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-07T19:41:38+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -116,6 +183,16 @@
       ]
     },
     {
+      "title": "SharkNinja price target boosted by Bank of America on improving sales trends",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095072/sharkninja-price-target-boosted-by-bank-of-america-on-improving-sales-trends-1095072.html?.tsrc=rss",
+      "source": "proactiveinvestors.com",
+      "published": "2026-07-07T19:29:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "US Debt, Global Fiscal Ratios Still Concerning, Says Citi's DeQuadros",
       "url": "https://www.bloomberg.com/news/videos/2026-07-07/debt-global-fiscal-ratios-still-concerning-dequadros-video",
       "source": "bloomberg.com",
@@ -131,33 +208,6 @@
       "published": "2026-07-07T19:20:50+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "JP Morgan Leads Top Five Active ETFs by June Flows",
-      "url": "https://etfdb.com/news/2026/07/07/jpmorgan-leads-5-active-etfs/",
-      "source": "etfdb.com",
-      "published": "2026-07-07T19:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010350/0000950103-26-010350-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T18:55:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman’s Top Strategist Sees a Dangerous Amount of Leverage Piling Up",
-      "url": "https://247wallst.com/investing/2026/07/07/goldmans-top-strategist-sees-a-dangerous-amount-of-leverage-piling-up/",
-      "source": "247wallst.com",
-      "published": "2026-07-07T18:45:10+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
