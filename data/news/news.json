@@ -1,270 +1,147 @@
 {
-  "last_updated": "2026-07-07T16:04:09.044207+00:00",
+  "last_updated": "2026-07-07T18:31:33.801617+00:00",
   "headlines": [
     {
-      "title": "Apple in spotlight as JP Morgan sees more 'resilience' in outlook despite price hikes",
-      "url": "https://seekingalpha.com/news/4612000-apple-in-spotlight-as-jp-morgan-sees-more-resilience-in-outlook-despite-price-hikes",
-      "source": "seekingalpha.com",
-      "published": "2026-07-07T15:35:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "O Domhnaill Enterprises Inc. Sells 1,200 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-o-domhnaill-enterprises-inc-sells-1200-shares-of-the-goldman-sachs-group-inc-gs-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T15:21:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526297126/0001193125-26-297126-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T15:20:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "EchoStar (ECHO) Reinstated by Citigroup -- Price Target Announced at $126",
-      "url": "https://www.gurufocus.com/news/8947705/echostar-echo-reinstated-by-citigroup-price-target-announced-at-126",
+      "title": "FIS Reinstated by Morgan Stanley -- Price Target Announced at $47",
+      "url": "https://www.gurufocus.com/news/8947993/fis-reinstated-by-morgan-stanley-price-target-announced-at-47",
       "source": "gurufocus.com",
-      "published": "2026-07-07T15:20:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MS Upgraded by Morgan Stanley -- Price Target Raised to $255",
-      "url": "https://www.gurufocus.com/news/8947704/ms-upgraded-by-morgan-stanley-price-target-raised-to-255",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T15:20:14+00:00",
+      "published": "2026-07-07T18:03:44+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "PNC Upgraded by UBS -- Price Target Raised to $288",
-      "url": "https://www.gurufocus.com/news/8947699/pnc-upgraded-by-ubs-price-target-raised-to-288",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T15:18:06+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "SpaceX Joins Nasdaq 100; Crinetics Pharmaceuticals Soars on Buyout | Stock Movers",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-07/spacex-joins-nasdaq-100-crinetics-soars-on-buyout-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-07T15:03:40+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "PNC"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000183988226033639/0001839882-26-033639-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026075867/0001213900-26-075867-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T15:01:23+00:00",
+      "published": "2026-07-07T17:38:49+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley Increases Moody's (NYSE:MCO) Price Target to $496.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-increases-moodys-nysemco-price-target-to-49600-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T15:00:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Forecasts Strong Price Appreciation for Citigroup (NYSE:C) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-forecasts-strong-price-appreciation-for-citigroup-nysec-stock-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T15:00:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "T-Mobile US (NASDAQ:TMUS) Price Target Cut to $230.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/t-mobile-us-nasdaqtmus-price-target-cut-to-23000-by-analysts-at-morgan-stanley-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T15:00:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "S&P Global (NYSE:SPGI) Price Target Lowered to $525.00 at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/sp-global-nysespgi-price-target-lowered-to-52500-at-morgan-stanley-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T15:00:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (NYSE:MS) Price Target Raised to $250.00",
-      "url": "https://www.tickerreport.com/banking-finance/13496834/morgan-stanley-nysems-price-target-raised-to-250-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T14:48:49+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019438/0001918704-26-019438-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033689/0001839882-26-033689-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T14:45:56+00:00",
+      "published": "2026-07-07T17:33:39+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "J.P. Morgan raises Apple stock target to $345 despite hardware price hikes",
-      "url": "https://9to5mac.com/2026/07/07/j-p-morgan-raises-apple-stock-target-to-345-despite-hardware-price-hikes/",
-      "source": "9to5mac.com",
-      "published": "2026-07-07T14:41:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs and Morgan Stanley split on SpaceX stock by $1 trillion",
-      "url": "https://qz.com/goldman-sachs-morgan-stanley-spacex-price-target-070726",
-      "source": "qz.com",
-      "published": "2026-07-07T14:40:29+00:00",
-      "tickers": [
-        "GS",
         "MS"
       ]
     },
     {
-      "title": "Double down on the HALO trade: Goldman says asset-heavy companies will keep beating the market",
-      "url": "https://www.businessinsider.com/goldman-sachs-halo-trade-stock-market-infrastructure-stocks-defense-manufacturing-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-07T14:36:02+00:00",
+      "title": "Goldman Sachs Highlights Strong Performance in Capital-Intensive Stocks (HALO)",
+      "url": "https://www.gurufocus.com/news/8947911/goldman-sachs-highlights-strong-performance-in-capitalintensive-stocks-halo",
+      "source": "gurufocus.com",
+      "published": "2026-07-07T17:31:04+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Hits New 12-Month High After Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13496808/the-pnc-financial-services-group-nysepnc-hits-new-12-month-high-after-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T14:33:03+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019478/0001918704-26-019478-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T17:27:17+00:00",
       "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "UBS ETRACS Wells Fargo® Business Development Company Index declares $0.5323 dividend",
+      "url": "https://seekingalpha.com/news/4612050-ubs-etracs-wells-fargo-business-development-company-index-declares-0_5323-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-07T17:16:47+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "First Solar (FSLR) Stock Dips Despite Analyst Upgrades From Deutsche Bank and Wells Fargo",
+      "url": "https://blockonomi.com/first-solar-fslr-stock-dips-despite-analyst-upgrades-from-deutsche-bank-and-wells-fargo/",
+      "source": "blockonomi.com",
+      "published": "2026-07-07T17:15:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526297263/0001193125-26-297263-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T17:13:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank Stocks To Watch Today – July 7th",
+      "url": "https://www.tickerreport.com/banking-finance/13497210/bank-stocks-to-watch-today-july-7th.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-07T17:01:19+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019475/0001918704-26-019475-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T16:52:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sage Rhino Capital LLC Takes $872,000 Position in Goldman Sachs Access High Yield Corporate Bond ETF $GHYB",
+      "url": "https://www.tickerreport.com/banking-finance/13497168/sage-rhino-capital-llc-takes-872000-position-in-goldman-sachs-access-high-yield-corporate-bond-etf-ghyb.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-07T16:51:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Raised to $264.50 at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13497142/the-pnc-financial-services-group-nysepnc-price-target-raised-to-264-50-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-07T16:41:44+00:00",
+      "tickers": [
+        "JPM",
         "C",
         "PNC"
       ]
     },
     {
-      "title": "Platform Technology Partners Has $9.21 Million Stake in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13496803/platform-technology-partners-has-9-21-million-stake-in-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T14:32:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Nu Holdings: The Growth Runway Is Huge, The Risks Are Real | $BAC $NU",
-      "url": "https://seekingalpha.com/article/4920330-nu-holdings-the-growth-runway-is-huge-the-risks-are-real",
-      "source": "seekingalpha.com",
-      "published": "2026-07-07T14:31:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Downgrades Adobe (ADBE) Stock with $190 Price Target Amid AI Disruption",
-      "url": "https://blockonomi.com/bank-of-america-downgrades-adobe-adbe-stock-with-190-price-target-amid-ai-disruption/",
-      "source": "blockonomi.com",
-      "published": "2026-07-07T14:28:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019433/0001918704-26-019433-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000243/0000019617-26-000243-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T14:24:55+00:00",
+      "published": "2026-07-07T16:41:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019467/0001918704-26-019467-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T16:30:11+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Capital One Financial (NYSE:COF) Given New $253.00 Price Target at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-nysecof-given-new-25300-price-target-at-td-cowen-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T14:18:24+00:00",
+      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010335/0000950103-26-010335-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T16:29:03+00:00",
       "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Keybank National Association OH Has $525.98 Million Stock Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-keybank-national-association-oh-has-52598-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T14:17:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Position Trimmed by Pzena Investment Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-trimmed-by-pzena-investment-management-llc-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T14:17:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Holdings Cut by Smithbridge Asset Management Inc. DE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-holdings-cut-by-smithbridge-asset-management-inc-de-2026-07-07/",
-      "source": "marketbeat.com",
-      "published": "2026-07-07T14:17:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Nscale Secures $900M Credit Line From Major Banks to Fuel AI Infrastructure Expansion",
-      "url": "https://blockonomi.com/nscale-secures-900m-credit-line-from-major-banks-to-fuel-ai-infrastructure-expansion/",
-      "source": "blockonomi.com",
-      "published": "2026-07-07T14:15:44+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "Financial Stocks To Watch Today – July 4th",
-      "url": "https://www.tickerreport.com/banking-finance/13496747/financial-stocks-to-watch-today-july-4th.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T14:03:20+00:00",
-      "tickers": [
-        "JPM"
+        "C"
       ]
     }
   ]
