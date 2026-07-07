@@ -1,147 +1,163 @@
 {
-  "last_updated": "2026-07-07T18:31:33.801617+00:00",
+  "last_updated": "2026-07-07T20:52:49.528165+00:00",
   "headlines": [
     {
-      "title": "FIS Reinstated by Morgan Stanley -- Price Target Announced at $47",
-      "url": "https://www.gurufocus.com/news/8947993/fis-reinstated-by-morgan-stanley-price-target-announced-at-47",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T18:03:44+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019506/0001918704-26-019506-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T20:24:53+00:00",
       "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MidEast Still A 'Highly Uncertain Environment' for Oil, Says Daan Struyven",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-07/mideast-still-highly-uncertain-for-oil-struyven-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-07T20:24:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "ECB tells banks: Fix AI cyber gaps by Oct. 31",
+      "url": "https://www.americanbanker.com/news/ecb-tells-banks-fix-ai-cyber-gaps-by-oct-31",
+      "source": "americanbanker.com",
+      "published": "2026-07-07T20:20:33+00:00",
+      "tickers": [
+        "C",
+        "GS",
         "MS"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026075867/0001213900-26-075867-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019503/0001918704-26-019503-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T17:38:49+00:00",
+      "published": "2026-07-07T20:11:11+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033689/0001839882-26-033689-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T17:33:39+00:00",
+      "title": "CMPS Reiterated by Morgan Stanley -- Price Target Maintained at $17.00",
+      "url": "https://www.gurufocus.com/news/8948102/cmps-reiterated-by-morgan-stanley-price-target-maintained-at-1700",
+      "source": "gurufocus.com",
+      "published": "2026-07-07T20:10:51+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Goldman Sachs Highlights Strong Performance in Capital-Intensive Stocks (HALO)",
-      "url": "https://www.gurufocus.com/news/8947911/goldman-sachs-highlights-strong-performance-in-capitalintensive-stocks-halo",
+      "title": "MGM Upgraded by Wells Fargo -- Price Target Raised to $48.30",
+      "url": "https://www.gurufocus.com/news/8948087/mgm-upgraded-by-wells-fargo-price-target-raised-to-4830",
       "source": "gurufocus.com",
-      "published": "2026-07-07T17:31:04+00:00",
+      "published": "2026-07-07T20:04:22+00:00",
       "tickers": [
-        "GS"
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "TLX Maintained by Citigroup -- Price Target Lowered to $22.00",
+      "url": "https://www.gurufocus.com/news/8948085/tlx-maintained-by-citigroup-price-target-lowered-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-07-07T20:02:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Figma stock jumps 6% as BofA backs AI outlook",
+      "url": "https://invezz.com/news/2026/07/07/figma-stock-jumps-6-as-bofa-backs-ai-outlook/",
+      "source": "invezz.com",
+      "published": "2026-07-07T19:57:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010352/0000950103-26-010352-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T19:57:26+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019478/0001918704-26-019478-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019498/0001918704-26-019498-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T17:27:17+00:00",
+      "published": "2026-07-07T19:45:16+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "UBS ETRACS Wells Fargo® Business Development Company Index declares $0.5323 dividend",
-      "url": "https://seekingalpha.com/news/4612050-ubs-etracs-wells-fargo-business-development-company-index-declares-0_5323-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-07T17:16:47+00:00",
+      "title": "J.P. Morgan Raises Apple Stock Price Target to $345 Despite Price Hikes",
+      "url": "https://www.macobserver.com/news/j-p-morgan-raises-apple-stock-price-target-to-345-despite-price-hikes/?utm_source=macobserver&utm_medium=rss&utm_campaign=rss_everything",
+      "source": "macobserver.com",
+      "published": "2026-07-07T19:35:35+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "First Solar (FSLR) Stock Dips Despite Analyst Upgrades From Deutsche Bank and Wells Fargo",
-      "url": "https://blockonomi.com/first-solar-fslr-stock-dips-despite-analyst-upgrades-from-deutsche-bank-and-wells-fargo/",
-      "source": "blockonomi.com",
-      "published": "2026-07-07T17:15:11+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526297263/0001193125-26-297263-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T17:13:44+00:00",
+      "title": "Meet the former Goldman Sachs exec who became the America’s Cup Partnership’s first CEO and is running the 175-year-old trophy like a startup",
+      "url": "https://fortune.com/2026/07/07/goldman-sachs-exec-america-cup-sailing-regatta-marzio-perrelli-napoli-naples-italy/",
+      "source": "fortune.com",
+      "published": "2026-07-07T19:29:51+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank Stocks To Watch Today – July 7th",
-      "url": "https://www.tickerreport.com/banking-finance/13497210/bank-stocks-to-watch-today-july-7th.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T17:01:19+00:00",
+      "title": "US Debt, Global Fiscal Ratios Still Concerning, Says Citi's DeQuadros",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-07/debt-global-fiscal-ratios-still-concerning-dequadros-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-07T19:21:22+00:00",
       "tickers": [
-        "JPM",
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019475/0001918704-26-019475-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033721/0001839882-26-033721-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T16:52:04+00:00",
+      "published": "2026-07-07T19:20:50+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Sage Rhino Capital LLC Takes $872,000 Position in Goldman Sachs Access High Yield Corporate Bond ETF $GHYB",
-      "url": "https://www.tickerreport.com/banking-finance/13497168/sage-rhino-capital-llc-takes-872000-position-in-goldman-sachs-access-high-yield-corporate-bond-etf-ghyb.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T16:51:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Raised to $264.50 at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13497142/the-pnc-financial-services-group-nysepnc-price-target-raised-to-264-50-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-07T16:41:44+00:00",
-      "tickers": [
-        "JPM",
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000243/0000019617-26-000243-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T16:41:35+00:00",
+      "title": "JP Morgan Leads Top Five Active ETFs by June Flows",
+      "url": "https://etfdb.com/news/2026/07/07/jpmorgan-leads-5-active-etfs/",
+      "source": "etfdb.com",
+      "published": "2026-07-07T19:00:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019467/0001918704-26-019467-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010350/0000950103-26-010350-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T16:30:11+00:00",
+      "published": "2026-07-07T18:55:48+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010335/0000950103-26-010335-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T16:29:03+00:00",
+      "title": "Goldman’s Top Strategist Sees a Dangerous Amount of Leverage Piling Up",
+      "url": "https://247wallst.com/investing/2026/07/07/goldmans-top-strategist-sees-a-dangerous-amount-of-leverage-piling-up/",
+      "source": "247wallst.com",
+      "published": "2026-07-07T18:45:10+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     }
   ]
