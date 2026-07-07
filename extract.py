@@ -3,7 +3,11 @@
 extract.py
 
 Extract financial data for all S&P 500 companies from SEC EDGAR
-companyfacts JSON files and load it into a SQLite database.
+companyfacts JSON files and upsert it into Supabase.
+
+Supabase is the single source of truth: this script builds the rows in
+memory and upserts them straight into the `companies` / `financials`
+tables via PostgREST. No local SQLite / financials.db is written.
 
 Pipeline:
   1. Download the current S&P 500 constituents list from Wikipedia.
@@ -12,8 +16,11 @@ Pipeline:
      facts from fiscal_year 2010 onward, deduplicated per fiscal year.
   4. Extract a fixed set of us-gaap / dei tags (with fallbacks).
   5. Compute derived metrics (EBITDA, FreeCashFlow, margins, ...).
-  6. Save everything into financials.db (companies + financials tables).
-  7. Print an AAPL validation table.
+  6. Upsert everything into Supabase (companies + financials tables).
+  7. Print an AAPL validation table (from the in-memory rows).
+
+The Supabase tables must already exist (run schema-equivalent setup SQL in
+the Supabase SQL editor once). SUPABASE_URL / SUPABASE_KEY are required.
 
 NOTE ON UNITS: SEC XBRL stores values in *full dollars*
 (e.g. Apple FY2022 revenue = 394,328,000,000). The spec's "expected"
@@ -25,7 +32,6 @@ both so the unit convention is visible rather than silently rescaled.
 import os
 import json
 import math
-import sqlite3
 from datetime import datetime
 
 import requests
@@ -46,7 +52,6 @@ HOME = os.path.expanduser("~")
 COMPANYFACTS_DIR = os.path.join(HOME, "Desktop", "companyfacts")
 TICKERS_FILE = os.path.join(HOME, "Desktop", "tickers.json")
 PROJECT_DIR = os.path.join(HOME, "Desktop", "finance-project")
-DB_PATH = os.path.join(PROJECT_DIR, "financials.db")
 
 WIKI_URL = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
 MIN_FISCAL_YEAR = 2010
@@ -331,35 +336,6 @@ def compute_derived(per_year):
 
 
 # --------------------------------------------------------------------------
-# Database
-# --------------------------------------------------------------------------
-def init_db(conn):
-    cur = conn.cursor()
-    cur.execute("DROP TABLE IF EXISTS companies")
-    cur.execute("DROP TABLE IF EXISTS financials")
-    cur.execute("""
-        CREATE TABLE companies (
-            cik INTEGER PRIMARY KEY,
-            ticker TEXT,
-            name TEXT,
-            sector TEXT,
-            industry TEXT
-        )
-    """)
-    cur.execute("""
-        CREATE TABLE financials (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            cik INTEGER,
-            ticker TEXT,
-            fiscal_year INTEGER,
-            metric TEXT,
-            value REAL
-        )
-    """)
-    conn.commit()
-
-
-# --------------------------------------------------------------------------
 # Supabase upload (PostgREST upsert)
 # --------------------------------------------------------------------------
 SUPABASE_BATCH = 5000
@@ -466,12 +442,11 @@ def upload_to_supabase(company_rows, fin_rows):
 # Main
 # --------------------------------------------------------------------------
 def main():
-    os.makedirs(PROJECT_DIR, exist_ok=True)
-
-    if SUPABASE_URL and SUPABASE_KEY:
-        print(f"Supabase credentials loaded (URL host: {SUPABASE_URL.split('//')[-1]})")
-    else:
-        print("Supabase credentials not set (.env) — running in local SQLite mode only.")
+    if not (SUPABASE_URL and SUPABASE_KEY):
+        raise SystemExit(
+            "SUPABASE_URL / SUPABASE_KEY must be set in .env — Supabase is the "
+            "single source of truth and this script writes nowhere else.")
+    print(f"Supabase credentials loaded (URL host: {SUPABASE_URL.split('//')[-1]})")
 
     print("Downloading S&P 500 list from Wikipedia ...")
     sp500 = get_sp500()
@@ -481,10 +456,6 @@ def main():
     print("Building CIK lookup from tickers.json ...")
     _, norm_to_cik = build_cik_lookup(TICKERS_FILE)
     print(f"  -> {len(norm_to_cik)} tickers in lookup")
-
-    conn = sqlite3.connect(DB_PATH)
-    init_db(conn)
-    cur = conn.cursor()
 
     derived_names = [
         "EBITDA", "FreeCashFlow", "TotalDebt", "NetDebt",
@@ -551,11 +522,6 @@ def main():
         # Company row
         comp = (int(cik), ticker, getattr(row, "name", None),
                 getattr(row, "sector", None), getattr(row, "industry", None))
-        cur.execute(
-            "INSERT OR REPLACE INTO companies (cik, ticker, name, sector, industry) "
-            "VALUES (?, ?, ?, ?, ?)",
-            comp,
-        )
         company_rows.append(comp)
 
         # Financial rows: one per (fiscal_year, metric); missing -> NULL.
@@ -566,44 +532,38 @@ def main():
 
         companies_loaded += 1
 
-    print("Writing financial rows to database ...")
-    cur.executemany(
-        "INSERT INTO financials (cik, ticker, fiscal_year, metric, value) "
-        "VALUES (?, ?, ?, ?, ?)",
-        fin_rows,
-    )
-    conn.commit()
-
     # ----------------------------------------------------------------------
-    # Validation table for AAPL
+    # Validation table for AAPL (read from the in-memory rows)
     # ----------------------------------------------------------------------
-    print_validation(cur)
+    aapl_vals = {(metric, fy): value
+                 for cik, ticker, fy, metric, value in fin_rows
+                 if ticker == "AAPL" and value is not None}
+    print_validation(aapl_vals)
 
     # ----------------------------------------------------------------------
     # Summary
     # ----------------------------------------------------------------------
-    cur.execute("SELECT COUNT(*) FROM financials")
-    total_fin_rows = cur.fetchone()[0]
-
+    non_null = sum(1 for r in fin_rows if r[4] is not None)
     print("\n" + "=" * 60)
     print("SUMMARY")
     print("=" * 60)
     print(f"Total companies loaded  : {companies_loaded}")
-    print(f"Total rows in financials: {total_fin_rows}")
+    print(f"Total financial rows     : {len(fin_rows)} ({non_null} non-null)")
     print(f"Skipped tickers ({len(skipped)}):")
     for tkr, reason in skipped:
         print(f"  - {tkr}: {reason}")
 
     # ----------------------------------------------------------------------
-    # Upload to Supabase (no-op if tables/credentials are missing)
+    # Upsert to Supabase (single source of truth)
     # ----------------------------------------------------------------------
     upload_to_supabase(company_rows, fin_rows)
 
-    conn.close()
 
+def print_validation(aapl_vals):
+    """Print the AAPL validation table comparing extracted vs expected.
 
-def print_validation(cur):
-    """Print the AAPL validation table comparing extracted vs expected."""
+    `aapl_vals` is an in-memory {(metric, fiscal_year): value} lookup.
+    """
     metrics = [
         ("Revenue", "RevenueFromContractWithCustomerExcludingAssessedTax",
             {2022: 394328000, 2023: 383285000, 2024: 391035000}),
@@ -621,12 +581,7 @@ def print_validation(cur):
     years = [2022, 2023, 2024]
 
     def got(metric, fy):
-        cur.execute(
-            "SELECT value FROM financials WHERE ticker='AAPL' AND metric=? AND fiscal_year=?",
-            (metric, fy),
-        )
-        r = cur.fetchone()
-        return r[0] if r and r[0] is not None else None
+        return aapl_vals.get((metric, fy))
 
     def fmt(v):
         if v is None:

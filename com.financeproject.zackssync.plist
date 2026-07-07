@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.financeproject.zackssync</string>
+
+    <!-- Run the wrapper; each ProgramArguments entry is a separate arg, so the
+         path's spaces / non-ASCII characters need no escaping. -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/netanelnevo/Desktop/לימודים/שנה ג׳/מנהל עסקים/סמסטר ב׳/בסיסי נתונים/finance-project/run_zacks_sync.sh</string>
+    </array>
+
+    <!-- Every Sunday at 09:00 local time. Weekday 0 = Sunday. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>0</integer>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Do NOT run the moment the agent is loaded; wait for the scheduled time.
+         If the Mac is asleep at 09:00 Sunday, launchd runs the job at the next
+         wake (this is why launchd beats crontab on macOS laptops). -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Bootstrap-level stdout/stderr (the wrapper itself logs to zacks_sync.log). -->
+    <key>StandardOutPath</key>
+    <string>/Users/netanelnevo/Desktop/לימודים/שנה ג׳/מנהל עסקים/סמסטר ב׳/בסיסי נתונים/finance-project/zacks_launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/netanelnevo/Desktop/לימודים/שנה ג׳/מנהל עסקים/סמסטר ב׳/בסיסי נתונים/finance-project/zacks_launchd.log</string>
+</dict>
+</plist>

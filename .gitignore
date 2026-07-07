@@ -25,3 +25,13 @@ node_modules/
 
 # Database files
 *.db
+
+# Pipeline audit output
+risk_insufficient_data.log
+zacks_downloads/
+*.log
+
+# Selenium debug artifacts (screenshots, page source, clickable-element dumps)
+debug_*.png
+debug_*.html
+debug_*.txt

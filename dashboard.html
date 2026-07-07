@@ -102,6 +102,62 @@
   .muted { color:var(--muted); }
   code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
   footer { padding:18px 28px; color:var(--muted); font-size:12px; border-top:1px solid var(--border); }
+
+  /* ---- Risk tab ---- */
+  .risk-intro { color:var(--muted); font-size:13px; line-height:1.5; margin:0 0 16px; }
+  .risk-grid { display:grid; grid-template-columns:1fr 1fr; gap:22px; margin-bottom:22px; }
+  @media (max-width:900px){ .risk-grid { grid-template-columns:1fr; } }
+  .risk-filters { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:14px; }
+  .risk-filters select, .risk-filters input {
+    background:var(--panel); color:var(--text); border:1px solid var(--border);
+    border-radius:8px; padding:8px 10px; font-size:13px; }
+  .risk-filters select:focus, .risk-filters input:focus { outline:none; border-color:var(--accent); }
+  .risk-filters .count { margin-left:auto; color:var(--muted); font-size:12px; }
+
+  #riskTable th { cursor:pointer; user-select:none; }
+  #riskTable th .arrow { color:var(--accent); font-size:10px; }
+  #riskTable tbody tr { cursor:pointer; }
+
+  /* colored pills */
+  .pill { display:inline-block; padding:2px 9px; border-radius:11px; font-size:12px; font-weight:600; }
+  .flag-Critical { background:#fee2e2; color:#b91c1c; }
+  .flag-Warning  { background:#ffedd5; color:#c2410c; }
+  .flag-Watch    { background:#fef9c3; color:#a16207; }
+  .flag-Healthy  { background:#dcfce7; color:#15803d; }
+  .flag-NA       { background:#f3f4f6; color:#6b7280; }
+  /* burn vs stress-overlay are DIFFERENT metrics -> different treatment */
+  .mode-burn    { background:#ede9fe; color:#6d28d9; border:1px solid #ddd6fe; }
+  .mode-stress  { background:#e0f2fe; color:#0369a1; border:1px solid #bae6fd; }
+
+  .collapsible { margin-top:8px; }
+  .collapsible > summary { cursor:pointer; font-size:14px; font-weight:600; color:var(--text);
+    padding:10px 0; list-style:none; }
+  .collapsible > summary::-webkit-details-marker { display:none; }
+  .collapsible > summary::before { content:"▸ "; color:var(--muted); }
+  .collapsible[open] > summary::before { content:"▾ "; }
+
+  /* breakdown modal */
+  .modal-backdrop { position:fixed; inset:0; background:rgba(0,0,0,.4); z-index:100;
+    display:none; align-items:flex-start; justify-content:center; overflow-y:auto; padding:40px 16px; }
+  .modal-backdrop.open { display:flex; }
+  .modal { background:#fff; border:1px solid var(--border); border-radius:12px; width:640px;
+    max-width:100%; box-shadow:0 20px 60px rgba(0,0,0,.25); }
+  .modal-head { display:flex; align-items:flex-start; justify-content:space-between;
+    padding:18px 20px; border-bottom:1px solid var(--border); }
+  .modal-head h3 { margin:0; font-size:17px; }
+  .modal-head .close { background:none; border:none; font-size:22px; color:var(--muted); cursor:pointer; line-height:1; }
+  .modal-body { padding:18px 20px; }
+  .brk-section { margin-bottom:18px; }
+  .brk-section h4 { margin:0 0 8px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); }
+  .brk-row { display:flex; justify-content:space-between; gap:16px; font-size:13px; padding:5px 0; border-bottom:1px solid #f1f2f4; }
+  .brk-row:last-child { border-bottom:none; }
+  .brk-row .k { color:var(--muted); }
+  .brk-row .v { font-weight:600; font-variant-numeric:tabular-nums; text-align:right; }
+  .brk-row .src { color:#9ca3af; font-weight:400; font-size:11px; }
+  .brk-formula { background:var(--panel2); border:1px solid var(--border); border-radius:8px;
+    padding:10px 12px; font-size:12px; color:var(--text); font-family:ui-monospace,Menlo,monospace; margin-top:6px; }
+  .brk-note { color:#92400e; background:#fef3c7; border:1px solid #fcd34d; border-radius:8px;
+    padding:8px 10px; font-size:12px; margin-top:10px; }
 </style>
 </head>
 <body>
@@ -120,6 +176,7 @@
 <nav class="topnav">
   <button class="navtab active" data-view="analytics">Analytics</button>
   <button class="navtab" data-view="financials">Financials</button>
+  <button class="navtab" data-view="risk">Risk</button>
 </nav>
 
 <main>
@@ -158,7 +215,64 @@
       <div class="table-scroll"><table id="statementTable"></table></div>
     </div>
   </section>
+
+  <section id="view-risk" class="view" style="display:none">
+    <p class="risk-intro">
+      Liquidity <b>runway</b> and <b>synthetic credit</b> for the S&amp;P 500, from the latest annual (10-K) filing per company.
+      <b>Burn mode</b> (<span class="pill mode-burn">burn</span>) measures months of liquid assets against a company's actual negative operating cash flow.
+      <b>Stress overlay</b> (<span class="pill mode-stress">stress</span>) applies to cash-generative firms: a severe <b>revenue-to-zero</b> stress — months of liquid assets against full operating opex (COGS + OpEx + SG&amp;A). These are <b>different metrics</b>; a “Critical” stress flag means thin cash vs. total opex, not imminent default.
+      Synthetic rating maps EBIT ÷ interest coverage to a Damodaran default spread (financial vs. non-financial breakpoint tables). Click any row for the full calculation breakdown.
+    </p>
+
+    <div id="risk-status" class="banner" style="display:none"></div>
+
+    <div class="risk-grid">
+      <div class="panel" style="margin:0">
+        <h3>Runway flag distribution</h3>
+        <div class="chart-wrap" style="height:260px"><canvas id="distChart"></canvas></div>
+      </div>
+      <div class="panel" style="margin:0">
+        <h3>Interest coverage vs. runway <span class="muted" style="font-weight:400;font-size:12px;">(double-risk = bottom-left)</span></h3>
+        <div class="chart-wrap" style="height:260px"><canvas id="scatterChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="risk-filters">
+        <input id="riskSearch" type="text" placeholder="Filter ticker / company…" autocomplete="off" />
+        <select id="riskSector"><option value="">All sectors</option></select>
+        <select id="riskFlag">
+          <option value="">All flags</option>
+          <option>Critical</option><option>Warning</option><option>Watch</option><option>Healthy</option>
+        </select>
+        <select id="riskMode">
+          <option value="">Burn &amp; stress</option>
+          <option value="burn">Burn only</option>
+          <option value="stress_overlay">Stress only</option>
+        </select>
+        <span class="count" id="riskCount"></span>
+      </div>
+      <div class="table-scroll"><table id="riskTable"></table></div>
+
+      <details class="collapsible" id="insufficientWrap" style="display:none">
+        <summary id="insufficientSummary">Insufficient data</summary>
+        <p class="note">These companies lack the tags needed to compute a runway (e.g. banks/utilities/REITs that don't file COGS/OpEx/SG&amp;A, or firms with no cash tag). Listed for auditability — not mixed into the ranked table above.</p>
+        <div class="table-scroll"><table id="insufficientTable"></table></div>
+      </details>
+    </div>
+  </section>
 </main>
+
+<!-- risk breakdown modal -->
+<div id="riskModal" class="modal-backdrop">
+  <div class="modal">
+    <div class="modal-head">
+      <h3 id="modalTitle"></h3>
+      <button class="close" id="modalClose">&times;</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
 
 <footer>Data: SEC EDGAR companyfacts → Supabase. Dashboard: vanilla JS + Chart.js.</footer>
 
@@ -689,14 +803,292 @@ function setMode(mode) {
 modeValueBtn.addEventListener("click", () => setMode("value"));
 modeYoyBtn.addEventListener("click", () => setMode("yoy"));
 
-// top-nav view switching (Analytics / Financials)
+// top-nav view switching (Analytics / Financials / Risk)
+let riskLoaded = false;
 document.querySelectorAll(".navtab").forEach(btn => btn.addEventListener("click", () => {
   document.querySelectorAll(".navtab").forEach(b => b.classList.toggle("active", b === btn));
   const v = btn.dataset.view;
-  document.getElementById("view-analytics").style.display = v === "analytics" ? "" : "none";
-  document.getElementById("view-financials").style.display = v === "financials" ? "" : "none";
+  ["analytics", "financials", "risk"].forEach(name =>
+    document.getElementById("view-" + name).style.display = v === name ? "" : "none");
+  // Risk is a whole-market view, not tied to the selected company.
+  document.getElementById("company-meta").style.display = v === "risk" ? "none" : "";
   if (v === "analytics" && chart) chart.resize();
+  if (v === "risk") {
+    if (!riskLoaded) { riskLoaded = true; loadRisk(); }
+    else { if (distChart) distChart.resize(); if (scatterChart) scatterChart.resize(); }
+  }
 }));
+
+// ============================================================================
+// RISK TAB — liquidity runway + synthetic credit for the whole S&P 500
+// ============================================================================
+let riskRows = [];          // computable latest-snapshot rows
+let riskInsufficient = [];  // runway_mode === 'insufficient_data'
+let riskSort = { key: "runway_months", dir: 1 };  // riskiest first
+let distChart, scatterChart;
+
+const FLAG_COLORS = { Critical: "#dc2626", Warning: "#ea580c", Watch: "#ca8a04",
+                      Healthy: "#16a34a", "N/A": "#9ca3af" };
+const SECTOR_COLORS = {
+  "Information Technology": "#2563eb", "Financials": "#16a34a", "Health Care": "#db2777",
+  "Consumer Discretionary": "#d97706", "Communication Services": "#7c3aed",
+  "Industrials": "#0891b2", "Consumer Staples": "#dc2626", "Energy": "#0d9488",
+  "Utilities": "#ca8a04", "Real Estate": "#4b5563", "Materials": "#9333ea" };
+function sectorColor(s) { return SECTOR_COLORS[s] || "#9ca3af"; }
+
+// ---- formatting ----
+function fUSD(v) { return v == null ? "—" : fmtBillions(v / 1e9); }
+function fMonths(m) { return m == null ? "—" : m.toFixed(1); }
+function fCov(c) { return c == null ? "—" : c.toFixed(2) + "×"; }
+function fPctDec(x) { return x == null ? "—" : (x * 100).toFixed(2) + "%"; }
+function flagClass(f) { return "flag-" + (f === "N/A" ? "NA" : f); }
+function modePill(m) {
+  if (m === "burn") return `<span class="pill mode-burn">burn</span>`;
+  if (m === "stress_overlay") return `<span class="pill mode-stress">stress</span>`;
+  return `<span class="pill flag-NA">n/a</span>`;
+}
+
+const RISK_COLS = [
+  { key: "ticker",               label: "Ticker",     num: false },
+  { key: "sector",               label: "Sector",     num: false },
+  { key: "runway_mode",          label: "Mode",       num: false },
+  { key: "runway_months",        label: "Runway (mo)",num: true  },
+  { key: "runway_flag",          label: "Flag",       num: false },
+  { key: "interest_coverage",    label: "Coverage",   num: true  },
+  { key: "synthetic_rating",     label: "Rating",     num: false },
+  { key: "synthetic_spread",     label: "Spread",     num: true  },
+  { key: "implied_cost_of_debt", label: "Impl. CoD",  num: true  },
+];
+
+async function loadRisk() {
+  const status = document.getElementById("risk-status");
+  try {
+    const rows = await api("/risk_metrics?is_latest=eq.true&select=*");
+    if (!rows.length) {
+      status.style.display = "block";
+      status.innerHTML = "No <code>risk_metrics</code> rows yet. Deploy <code>schema.sql</code> " +
+        "to Supabase and run <code>python risk_pipeline.py</code> to populate the table.";
+      return;
+    }
+    status.style.display = "none";
+    riskInsufficient = rows.filter(r => r.runway_mode === "insufficient_data");
+    riskRows = rows.filter(r => r.runway_mode !== "insufficient_data");
+
+    // sector filter options
+    const sectors = [...new Set(rows.map(r => r.sector).filter(Boolean))].sort();
+    const sel = document.getElementById("riskSector");
+    sel.innerHTML = `<option value="">All sectors</option>` +
+      sectors.map(s => `<option>${s}</option>`).join("");
+
+    renderDistChart();
+    renderScatter();
+    renderRiskTable();
+    renderInsufficient();
+  } catch (err) {
+    status.style.display = "block";
+    status.textContent = "Failed to load risk_metrics: " + err.message +
+      " — deploy schema.sql and run risk_pipeline.py, and ensure the anon read policy exists.";
+  }
+}
+
+// ---- filtering + sorting ----
+function filteredRisk() {
+  const q = document.getElementById("riskSearch").value.trim().toUpperCase();
+  const sec = document.getElementById("riskSector").value;
+  const flag = document.getElementById("riskFlag").value;
+  const mode = document.getElementById("riskMode").value;
+  let rows = riskRows.filter(r =>
+    (!q || r.ticker.includes(q) || (r.company_name || "").toUpperCase().includes(q)) &&
+    (!sec || r.sector === sec) &&
+    (!flag || r.runway_flag === flag) &&
+    (!mode || r.runway_mode === mode));
+  const { key, dir } = riskSort;
+  rows.sort((a, b) => {
+    const x = a[key], y = b[key];
+    if (x == null && y == null) return 0;
+    if (x == null) return 1;          // nulls always last
+    if (y == null) return -1;
+    if (typeof x === "number") return (x - y) * dir;
+    return String(x).localeCompare(String(y)) * dir;
+  });
+  return rows;
+}
+
+function renderRiskTable() {
+  const rows = filteredRisk();
+  document.getElementById("riskCount").textContent =
+    `${rows.length} of ${riskRows.length} shown` +
+    (riskInsufficient.length ? ` · ${riskInsufficient.length} insufficient-data` : "");
+
+  const head = "<thead><tr>" + RISK_COLS.map(c => {
+    const arrow = riskSort.key === c.key ? `<span class="arrow">${riskSort.dir > 0 ? "▲" : "▼"}</span>` : "";
+    return `<th data-key="${c.key}">${c.label} ${arrow}</th>`;
+  }).join("") + "</tr></thead>";
+
+  const body = rows.map(r => `<tr data-ticker="${r.ticker}">
+    <td>${r.ticker}</td>
+    <td style="text-align:left">${r.sector || "—"}</td>
+    <td>${modePill(r.runway_mode)}</td>
+    <td>${fMonths(r.runway_months)}</td>
+    <td><span class="pill ${flagClass(r.runway_flag)}">${r.runway_flag}</span></td>
+    <td>${fCov(r.interest_coverage)}</td>
+    <td>${r.synthetic_rating || "—"}</td>
+    <td>${fPctDec(r.synthetic_spread)}</td>
+    <td>${fPctDec(r.implied_cost_of_debt)}</td>
+  </tr>`).join("");
+
+  document.getElementById("riskTable").innerHTML = head + "<tbody>" + body + "</tbody>";
+}
+
+function renderInsufficient() {
+  const wrap = document.getElementById("insufficientWrap");
+  if (!riskInsufficient.length) { wrap.style.display = "none"; return; }
+  wrap.style.display = "";
+  document.getElementById("insufficientSummary").textContent =
+    `Insufficient data (${riskInsufficient.length})`;
+  const head = "<thead><tr><th>Ticker</th><th style='text-align:left'>Sector</th>" +
+    "<th style='text-align:left'>Reason</th></tr></thead>";
+  const body = riskInsufficient
+    .sort((a, b) => a.ticker.localeCompare(b.ticker))
+    .map(r => `<tr data-ticker="${r.ticker}"><td>${r.ticker}</td>` +
+      `<td style="text-align:left">${r.sector || "—"}</td>` +
+      `<td style="text-align:left" class="muted">${r.notes || "—"}</td></tr>`).join("");
+  document.getElementById("insufficientTable").innerHTML = head + "<tbody>" + body + "</tbody>";
+}
+
+// ---- distribution bar chart ----
+function renderDistChart() {
+  const order = ["Critical", "Warning", "Watch", "Healthy"];
+  const counts = order.map(f => riskRows.filter(r => r.runway_flag === f).length);
+  const opts = baseOpts();
+  opts.plugins.legend = { display: false };
+  opts.scales = { x: xScale(),
+    y: { grid: gridDash(), border: { display: false }, beginAtZero: true,
+      ticks: { color: "#6b7280", precision: 0 } } };
+  opts.plugins.tooltip = { callbacks: { label: c => `${c.parsed.y} companies` } };
+  if (distChart) distChart.destroy();
+  distChart = new Chart(document.getElementById("distChart"), {
+    type: "bar",
+    data: { labels: order, datasets: [{ data: counts,
+      backgroundColor: order.map(f => FLAG_COLORS[f]), borderRadius: 4 }] },
+    options: opts,
+  });
+}
+
+// ---- coverage vs runway scatter (colored by sector) ----
+// clamp extremes so the double-risk (bottom-left) corner stays readable. The
+// x floor keeps deeply-distressed NEGATIVE-coverage names visible on the left
+// edge instead of clipping them off — they are the whole point of this view.
+const COV_CAP = 40, COV_FLOOR = -5, RUN_CAP = 72;
+function renderScatter() {
+  const bySector = {};
+  for (const r of riskRows) {
+    if (r.interest_coverage == null || r.runway_months == null) continue;
+    (bySector[r.sector || "—"] ||= []).push({
+      x: Math.max(Math.min(r.interest_coverage, COV_CAP), COV_FLOOR),
+      y: Math.min(r.runway_months, RUN_CAP),
+      t: r.ticker, cov: r.interest_coverage, run: r.runway_months });
+  }
+  const datasets = Object.entries(bySector).map(([sec, pts]) => ({
+    label: sec, data: pts, backgroundColor: sectorColor(sec), pointRadius: 4, pointHoverRadius: 6 }));
+  const opts = baseOpts();
+  opts.plugins.legend = { position: "bottom",
+    labels: { color: "#1a1a1a", usePointStyle: true, boxWidth: 7, font: { size: 10 }, padding: 8 } };
+  opts.scales = {
+    x: { title: { display: true, text: "Interest coverage (×)", color: "#6b7280" },
+      grid: gridDash(), border: { display: false }, ticks: { color: "#6b7280" },
+      min: COV_FLOOR, max: COV_CAP },
+    y: { title: { display: true, text: "Runway (months)", color: "#6b7280" },
+      grid: gridDash(), border: { display: false }, ticks: { color: "#6b7280" },
+      min: 0, max: RUN_CAP } };
+  opts.plugins.tooltip = { callbacks: { label: c => {
+    const p = c.raw;
+    return `${p.t}: coverage ${p.cov.toFixed(2)}×, runway ${p.run.toFixed(1)} mo`; } } };
+  if (scatterChart) scatterChart.destroy();
+  scatterChart = new Chart(document.getElementById("scatterChart"),
+    { type: "scatter", data: { datasets }, options: opts });
+}
+
+// ---- breakdown modal (row-click; every figure traced to its source) ----
+function brkRow(k, v, src) {
+  return `<div class="brk-row"><span class="k">${k}</span>` +
+    `<span class="v">${v}${src ? ` <span class="src">${src}</span>` : ""}</span></div>`;
+}
+function openRiskModal(ticker) {
+  const r = riskRows.find(x => x.ticker === ticker) ||
+            riskInsufficient.find(x => x.ticker === ticker);
+  if (!r) return;
+  document.getElementById("modalTitle").innerHTML =
+    `${r.ticker} <span class="muted" style="font-weight:400">${r.company_name || ""}</span>` +
+    `<div class="tags muted" style="font-size:12px">${r.sector || "—"} · ${r.fiscal_period}` +
+    `${r.is_financial_sector ? " · financial breakpoint table" : " · non-financial breakpoint table"}</div>`;
+
+  const isBurn = r.runway_mode === "burn";
+  const isStress = r.runway_mode === "stress_overlay";
+  const denomLabel = isBurn ? "Monthly cash burn (−CFO ÷ 12)"
+    : isStress ? "Monthly stress opex (COGS+OpEx+SG&A ÷ 12)" : "Monthly outflow";
+  const formula = isBurn
+    ? `runway = liquid_assets ÷ (−CFO ÷ 12)\n       = ${fUSD(r.liquid_assets)} ÷ ${fUSD(r.monthly_outflow)}/mo\n       = ${fMonths(r.runway_months)} months`
+    : isStress
+    ? `runway = liquid_assets ÷ (stress_opex ÷ 12)\n       = ${fUSD(r.liquid_assets)} ÷ ${fUSD(r.monthly_outflow)}/mo\n       = ${fMonths(r.runway_months)} months`
+    : "runway not computable (insufficient data)";
+
+  let liq = `<div class="brk-section"><h4>Liquidity &amp; runway — ${modePill(r.runway_mode)}</h4>`;
+  liq += brkRow("Cash &amp; equivalents", fUSD(r.cash_and_equivalents), r.cash_source || "—");
+  liq += brkRow("Short-term investments", fUSD(r.short_term_investments), "ShortTermInvestments / MarketableSecuritiesCurrent");
+  liq += brkRow("Undrawn revolver", r.revolver_data_available ? fUSD(r.undrawn_revolver) : "not disclosed (→ 0)", "UndrawnRevolverCapacity");
+  liq += brkRow("<b>Liquid assets</b>", "<b>" + fUSD(r.liquid_assets) + "</b>", "");
+  if (isBurn) liq += brkRow("TTM operating cash flow", fUSD(r.ttm_cfo), "NetCashProvidedByUsedInOperatingActivities");
+  if (isStress) liq += brkRow("TTM operating cash flow", fUSD(r.ttm_cfo) + " (≥0 → stress applied)", "NetCashProvidedByUsedInOperatingActivities");
+  if (isStress) liq += brkRow("Stress opex (annual)", fUSD(r.stress_opex), "CostOfGoodsAndServicesSold + OperatingExpenses + SG&A");
+  liq += brkRow(denomLabel, fUSD(r.monthly_outflow) + "/mo", "");
+  liq += brkRow("<b>Runway</b>", `<b>${fMonths(r.runway_months)} mo</b> · <span class="pill ${flagClass(r.runway_flag)}">${r.runway_flag}</span>`, "");
+  liq += `<div class="brk-formula">${formula}</div></div>`;
+
+  let cr = `<div class="brk-section"><h4>Synthetic credit</h4>`;
+  cr += brkRow("EBIT", fUSD(r.ebit), "OperatingIncomeLoss");
+  cr += brkRow("Interest expense", fUSD(r.interest_expense), r.interest_expense_source || "—");
+  cr += brkRow("Interest coverage", fCov(r.interest_coverage), "EBIT ÷ interest");
+  cr += brkRow("Synthetic rating", r.synthetic_rating || "N/A", r.is_financial_sector ? "financial table" : "non-financial table");
+  cr += brkRow("Default spread", fPctDec(r.synthetic_spread), "");
+  cr += brkRow("Risk-free rate", fPctDec(r.risk_free_rate), "");
+  cr += brkRow("<b>Implied cost of debt</b>", "<b>" + fPctDec(r.implied_cost_of_debt) + "</b>", "risk-free + spread");
+  cr += brkRow("Total debt", fUSD(r.total_debt), "TotalDebt");
+  cr += brkRow("Net debt", fUSD(r.net_debt), "NetDebt");
+  cr += `</div>`;
+
+  const note = r.notes ? `<div class="brk-note">⚠︎ ${r.notes}</div>` : "";
+  document.getElementById("modalBody").innerHTML = liq + cr + note;
+  document.getElementById("riskModal").classList.add("open");
+}
+
+// ---- risk tab events ----
+["riskSearch", "riskSector", "riskFlag", "riskMode"].forEach(id => {
+  document.getElementById(id).addEventListener("input", renderRiskTable);
+});
+document.getElementById("riskTable").addEventListener("click", e => {
+  const th = e.target.closest("th");
+  if (th) {
+    const key = th.dataset.key;
+    if (riskSort.key === key) riskSort.dir *= -1; else riskSort = { key, dir: 1 };
+    renderRiskTable();
+    return;
+  }
+  const tr = e.target.closest("tr[data-ticker]");
+  if (tr) openRiskModal(tr.dataset.ticker);
+});
+document.getElementById("insufficientTable").addEventListener("click", e => {
+  const tr = e.target.closest("tr[data-ticker]");
+  if (tr) openRiskModal(tr.dataset.ticker);
+});
+document.getElementById("modalClose").addEventListener("click", () =>
+  document.getElementById("riskModal").classList.remove("open"));
+document.getElementById("riskModal").addEventListener("click", e => {
+  if (e.target.id === "riskModal") e.currentTarget.classList.remove("open");
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") document.getElementById("riskModal").classList.remove("open");
+});
 
 // ---- boot ------------------------------------------------------------------
 (function boot() {
