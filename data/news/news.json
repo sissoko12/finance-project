@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-07-07T22:17:11.128964+00:00",
+  "last_updated": "2026-07-07T23:31:08.353543+00:00",
   "headlines": [
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019511/0001918704-26-019511-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T20:58:15+00:00",
+      "title": "Axos to buy San Francisco fintech and its AI technology",
+      "url": "https://www.americanbanker.com/news/axos-to-buy-san-francisco-fintech-and-its-ai-technology",
+      "source": "americanbanker.com",
+      "published": "2026-07-07T22:23:19+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Dave Ramsey: “Citibank and Amex Have Screwed an 85-Year-Old Widow” With $45,000 in Credit Card Debt",
+      "url": "https://247wallst.com/personal-finance/2026/07/07/dave-ramsey-citibank-and-amex-have-screwed-an-85-year-old-widow-with-45000-in-credit-card-debt/",
+      "source": "247wallst.com",
+      "published": "2026-07-07T22:09:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "RBC Capital, BofA up Agios targets after FDA Priority Review acceptance of mitapivat for sickle cell",
+      "url": "https://awesomecapital.blogspot.com/2026/07/rbc-capital-bofa-up-agios-targets-after.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-07-07T21:57:10+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -13,10 +32,39 @@
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019508/0001918704-26-019508-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010372/0000950103-26-010372-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-07T20:37:49+00:00",
+      "published": "2026-07-07T21:30:29+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226033730/0001839882-26-033730-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T21:23:37+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526297622/0001193125-26-297622-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T21:06:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019511/0001918704-26-019511-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T20:58:15+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -31,8 +79,8 @@
     },
     {
       "title": "Bank of America warns America now has 2 economies",
-      "url": "https://www.thestreet.com/economy/bank-of-america-warns-america-now-has-2-economies?.tsrc=rss",
-      "source": "thestreet.com",
+      "url": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+      "source": "yahoo.com",
       "published": "2026-07-07T20:23:00+00:00",
       "tickers": [
         "BAC",
@@ -133,81 +181,6 @@
       "published": "2026-07-07T19:57:26+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs revamps SpaceX stock price target for 2026",
-      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-spacex-stock-price-target-for-2026?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-07T19:47:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019498/0001918704-26-019498-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T19:45:16+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Earnings Path Uncertain Amid Leadership Changes, Rate Hike Prospects, UBS Says in Downgrade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-earnings-path-uncertain-amid-194138972.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-07T19:41:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Raises Apple Stock Price Target to $345 Despite Price Hikes",
-      "url": "https://www.macobserver.com/news/j-p-morgan-raises-apple-stock-price-target-to-345-despite-price-hikes/?utm_source=macobserver&utm_medium=rss&utm_campaign=rss_everything",
-      "source": "macobserver.com",
-      "published": "2026-07-07T19:35:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Meet the former Goldman Sachs exec who became the America’s Cup Partnership’s first CEO and is running the 175-year-old trophy like a startup",
-      "url": "https://fortune.com/2026/07/07/goldman-sachs-exec-america-cup-sailing-regatta-marzio-perrelli-napoli-naples-italy/",
-      "source": "fortune.com",
-      "published": "2026-07-07T19:29:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SharkNinja price target boosted by Bank of America on improving sales trends",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095072/sharkninja-price-target-boosted-by-bank-of-america-on-improving-sales-trends-1095072.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-07-07T19:29:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "US Debt, Global Fiscal Ratios Still Concerning, Says Citi's DeQuadros",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-07/debt-global-fiscal-ratios-still-concerning-dequadros-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-07T19:21:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033721/0001839882-26-033721-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T19:20:50+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
