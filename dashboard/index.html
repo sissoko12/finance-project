@@ -2312,7 +2312,7 @@ const CA = (() => {
       .sort((a,b) => a.yr-b.yr);
   }
 
-  // ── Scoring (no interest coverage) ────────────────────────────────────
+  // ── Scoring ────────────────────────────────────────────────────────────────
   function computeScore(ts, ticker) {
     const lat = ts[ts.length-1] || {};
     const isBank = BANK_SET.has((ticker||'').toUpperCase());
@@ -2349,7 +2349,7 @@ const CA = (() => {
     return {total, verdict, bk};
   }
 
-  // ── Red flags (no interest coverage) ──────────────────────────────────
+  // ── Red flags ──────────────────────────────────────────────────────────────
   function computeFlags(ts, ticker) {
     const fls=[], n=ts.length;
     if (!n) return fls;
