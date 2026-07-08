@@ -1,280 +1,176 @@
 {
-  "last_updated": "2026-07-08T15:51:51.267398+00:00",
+  "last_updated": "2026-07-08T17:45:43.854101+00:00",
   "headlines": [
     {
-      "title": "Infrastructure Software is 'Place to Be' Amid AI Trade, Says Fatima Boolani",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-08/infrastructure-software-is-place-to-be-says-boolani-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-08T15:20:38+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019564/0001918704-26-019564-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T16:34:18+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase focuses on small company deals to juice M&A - report",
-      "url": "https://seekingalpha.com/news/4612309-jpmorgan-chase-focuses-on-small-company-deals-to-juice-m-and-a-report",
+      "title": "EHang faces fallout from Beijing aircraft crash—BofA Securities",
+      "url": "https://seekingalpha.com/news/4612328-ehang-faces-fallout-from-beijing-aircraft-crash",
       "source": "seekingalpha.com",
-      "published": "2026-07-08T15:14:59+00:00",
+      "published": "2026-07-08T16:15:57+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Lowers Fiserv (NASDAQ:FISV) Price Target to $62.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-fiserv-nasdaqfisv-price-target-to-6200-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T15:12:32+00:00",
+      "title": "Wells Fargo Q2 Preview: NIM Matters More Than EPS | $WFC",
+      "url": "https://seekingalpha.com/article/4920650-wells-fargo-q2-preview-nim-matters-more-than-eps",
+      "source": "seekingalpha.com",
+      "published": "2026-07-08T16:14:01+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Pfizer (NYSE:PFE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-pfizer-nysepfe-stock-price-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T15:12:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street’s Triple Play: Capturing the U.S. Broad Market Benchmarks",
-      "url": "https://www.etftrends.com/equity-etf-content-hub/state-streets-triple-play-capturing-us-broad-market-benchmarks/",
-      "source": "etftrends.com",
-      "published": "2026-07-08T15:06:06+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "AA Downgraded by Morgan Stanley -- Price Target Lowered to $53.00",
-      "url": "https://www.gurufocus.com/news/8949522/aa-downgraded-by-morgan-stanley-price-target-lowered-to-5300",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:14+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VALE Downgraded by Morgan Stanley -- Price Target Lowered to $16.50",
-      "url": "https://www.gurufocus.com/news/8949524/vale-downgraded-by-morgan-stanley-price-target-lowered-to-1650",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:14+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "RH Upgraded by Goldman Sachs -- Price Target Raised to $155",
-      "url": "https://www.gurufocus.com/news/8949551/rh-upgraded-by-goldman-sachs-price-target-raised-to-155",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "DLTR Upgraded by Goldman Sachs -- Price Target Raised to $125",
-      "url": "https://www.gurufocus.com/news/8949552/dltr-upgraded-by-goldman-sachs-price-target-raised-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "RLAY Initiated Coverage by JP Morgan -- Rating Overweight with Target $28",
-      "url": "https://www.gurufocus.com/news/8949567/rlay-initiated-coverage-by-jp-morgan-rating-overweight-with-target-28",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:13+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BBOT Initiated Coverage by JP Morgan -- Rating Set to Overweight",
-      "url": "https://www.gurufocus.com/news/8949570/bbot-initiated-coverage-by-jp-morgan-rating-set-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:13+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "LMND Downgraded by Morgan Stanley -- Maintains Price Target at $75",
-      "url": "https://www.gurufocus.com/news/8949543/lmnd-downgraded-by-morgan-stanley-maintains-price-target-at-75",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "HONA Initiates Coverage On by Morgan Stanley -- Price Target Set at $255",
-      "url": "https://www.gurufocus.com/news/8949545/hona-initiates-coverage-on-by-morgan-stanley-price-target-set-at-255",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BBWI Downgraded by Goldman Sachs -- Price Target Lowered to $19.00",
-      "url": "https://www.gurufocus.com/news/8949612/bbwi-downgraded-by-goldman-sachs-price-target-lowered-to-1900",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "TFC Downgraded by Truist Financial -- Price Target Raised to $56",
-      "url": "https://www.gurufocus.com/news/8949601/tfc-downgraded-by-truist-financial-price-target-raised-to-56",
-      "source": "gurufocus.com",
-      "published": "2026-07-08T15:05:12+00:00",
-      "tickers": [
-        "C",
-        "TFC"
+        "WFC",
+        "C"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076245/0001213900-26-076245-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019562/0001918704-26-019562-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T15:03:44+00:00",
+      "published": "2026-07-08T16:12:45+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Klarna Group (NYSE:KLAR) Price Target Raised to $22.00 at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13498092/klarna-group-nyseklar-price-target-raised-to-22-00-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-08T15:01:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Affirm (NASDAQ:AFRM) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-affirm-nasdaqafrm-stock-2026-07-08/",
+      "title": "Citigroup Lowers Kura Sushi USA (NASDAQ:KRUS) Price Target to $59.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-kura-sushi-usa-nasdaqkrus-price-target-to-5900-2026-07-08/",
       "source": "marketbeat.com",
-      "published": "2026-07-08T15:00:24+00:00",
+      "published": "2026-07-08T16:12:23+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Devon Energy (NYSE:DVN) Given New $55.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/devon-energy-nysedvn-given-new-5500-price-target-at-jpmorgan-chase-co-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T15:00:21+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526298248/0001193125-26-298248-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T16:10:23+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Raises General Motors (NYSE:GM) Price Target to $110.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-raises-general-motors-nysegm-price-target-to-11000-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T15:00:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley upgrades Ivanhoe Mines, cuts Alcoa and Vale on metals outlook",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-upgrades-ivanhoe-mines-cuts-alcoa-and-vale-on-metals-outlook-4781964",
-      "source": "investing.com",
-      "published": "2026-07-08T14:49:53+00:00",
+      "title": "Rocket Lab’s stock could surge 250% as the company takes a page out of SpaceX’s book, analyst says",
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-could-surge-250-as-the-company-takes-a-page-out-of-spacexs-book-analyst-says-3b4f8a4f?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-08T16:03:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Truist Financial Has Lowered Expectations for Winnebago Industries (NYSE:WGO) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13498085/truist-financial-has-lowered-expectations-for-winnebago-industries-nysewgo-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-08T14:48:45+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Patrick Industries (NASDAQ:PATK) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-patrick-industries-nasdaqpatk-stock-price-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T14:48:22+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Antero Resources (NYSE:AR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-antero-resources-nysear-stock-price-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T14:48:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "S&P Global (NYSE:SPGI) Price Target Cut to $535.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/sp-global-nysespgi-price-target-cut-to-53500-by-analysts-at-jpmorgan-chase-co-2026-07-08/",
-      "source": "marketbeat.com",
-      "published": "2026-07-08T14:48:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Kirby stock surges 7% on BofA price target hike to $182",
-      "url": "https://www.investing.com/news/stock-market-news/kirby-stock-surges-7-on-bofa-price-target-hike-to-182-93CH-4781945",
+      "title": "BofA downgrades EHang stock rating on Beijing crash concerns",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-downgrades-ehang-stock-rating-on-beijing-crash-concerns-93CH-4782063",
       "source": "investing.com",
-      "published": "2026-07-08T14:36:03+00:00",
+      "published": "2026-07-08T16:00:49+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Truist Financial Raises Aercap (NYSE:AER) Price Target to $175.00",
-      "url": "https://www.tickerreport.com/banking-finance/13498081/truist-financial-raises-aercap-nyseaer-price-target-to-175-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-08T14:24:45+00:00",
+      "title": "PNC’s new mobile banking app built on personalization",
+      "url": "https://www.bankingdive.com/news/pnc-new-mobile-banking-app-personalization-agentic-ai/824713/",
+      "source": "bankingdive.com",
+      "published": "2026-07-08T15:52:47+00:00",
       "tickers": [
         "C",
-        "TFC"
+        "PNC"
       ]
     },
     {
-      "title": "Ollie's Bargain Outlet Q2 results to show compressed margins, negative comparable sales—J.P. Morgan",
-      "url": "https://seekingalpha.com/news/4612250-ollies-bargain-outlet-q2-results-to-show-compressed-margins-negative-comparable-sales",
+      "title": "This is why Citi Cut Strategy Inc. (MSTR) Price Target But Asserted Buy Rating",
+      "url": "https://www.insidermonkey.com/blog/this-is-why-citi-cut-strategy-inc-mstr-price-target-but-asserted-buy-rating-1797706/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T15:51:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist downgraded to Neutral at BofA ahead of changing of the guard",
+      "url": "https://seekingalpha.com/news/4612320-truist-downgraded-to-neutral-at-bofa-ahead-of-changing-of-the-guard",
       "source": "seekingalpha.com",
-      "published": "2026-07-08T14:21:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TRUIST FINANCIAL CORP: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000079/0000092230-26-000079-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T14:20:21+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019532/0001918704-26-019532-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T14:19:27+00:00",
+      "published": "2026-07-08T15:50:09+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "LPL Financial Onboards $380 Million Advisor David Logsdon",
+      "url": "https://pulse2.com/lpl-financial-onboards-380-million-advisor-david-logsdon/",
+      "source": "pulse2.com",
+      "published": "2026-07-08T15:42:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts 2026 average gold forecast, sees long-term upside",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-cuts-2026-average-gold-forecast-sees-long-term-upside/articleshow/132267299.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-08T15:41:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033813/0001839882-26-033813-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T15:40:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar",
+      "url": "https://www.insidermonkey.com/blog/revenue-and-growth-outlook-affirm-why-taiwan-semiconductor-manufacturing-co-tsm-is-a-top-ai-stock-on-wall-streets-radar-1798006/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T15:39:12+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Folks with stock awarded from your company, do you keep it in the provided broker or transfer?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uqw8j8/folks_with_stock_awarded_from_your_company_do_you/",
+      "source": "reddit.com",
+      "published": "2026-07-08T15:37:19+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Affirms Why NVIDIA Corp. (NVDA) is a Top AI Stock on Wall Street Radar",
+      "url": "https://www.insidermonkey.com/blog/bank-of-america-affirms-why-nvidia-corp-nvda-is-a-top-ai-stock-on-wall-street-radar-1798055/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T15:35:41+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019547/0001918704-26-019547-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T15:34:37+00:00",
+      "tickers": [
         "C"
       ]
     }
