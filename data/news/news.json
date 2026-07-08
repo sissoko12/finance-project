@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-07-07T23:31:08.353543+00:00",
+  "last_updated": "2026-07-08T03:31:13.540592+00:00",
   "headlines": [
+    {
+      "title": "Kingsoft Cloud Holdings (KC) Receives Overweight Rating from Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/8948527/kingsoft-cloud-holdings-kc-receives-overweight-rating-from-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-07-08T00:56:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Mets benefit from unbelievable little league home run",
+      "url": "https://www.audacy.com/wfan/sports/mets/mets-benefit-from-unbelievable-little-league-home-run",
+      "source": "audacy.com",
+      "published": "2026-07-08T00:41:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Recent Investment Analysts’ Ratings Updates for BP (BP)",
+      "url": "https://www.tickerreport.com/banking-finance/13497442/recent-investment-analysts-ratings-updates-for-bp-bp.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-08T00:26:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "10 Best Under-the-Radar Stocks to Invest In",
+      "url": "https://www.insidermonkey.com/blog/10-best-under-the-radar-stocks-to-invest-in-1797322/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-07T23:09:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "SpaceX Is Quickly Entering Index Funds. Will OpenAI and Anthropic do the Same After Their IPOs?",
+      "url": "https://www.fool.com/investing/2026/07/07/spacex-is-quickly-entering-index-funds-will-openai/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-07T23:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi Remains a Buy on Intuit (INTU) Despite 8% Decline Over the Past Month",
+      "url": "https://www.insidermonkey.com/blog/citi-remains-a-buy-on-intuit-intu-despite-8-decline-over-the-past-month-1797192/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-07T22:41:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Full Truck Alliance Co. Ltd. (YMM) A Beaten-Down Chinese Internet Mid-Cap Stock to Own for Decades",
+      "url": "https://www.insidermonkey.com/blog/full-truck-alliance-co-ltd-ymm-a-beaten-down-chinese-internet-mid-cap-stock-to-own-for-decades-1797264/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-07T22:39:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Soft Volumes Lead to Slower Non-Alc Beverage Sales in June",
+      "url": "https://www.bevnet.com/news/2026/soft-volumes-lead-to-slower-non-alc-beverage-sales-in-june",
+      "source": "bevnet.com",
+      "published": "2026-07-07T22:35:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Axos to buy San Francisco fintech and its AI technology",
       "url": "https://www.americanbanker.com/news/axos-to-buy-san-francisco-fintech-and-its-ai-technology",
@@ -40,6 +112,15 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019515/0001918704-26-019515-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-07T21:24:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226033730/0001839882-26-033730-index.htm",
       "source": "sec.gov",
@@ -65,121 +146,6 @@
       "published": "2026-07-07T20:58:15+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MidEast Still A 'Highly Uncertain Environment' for Oil, Says Daan Struyven",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-07/mideast-still-highly-uncertain-for-oil-struyven-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-07T20:24:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America warns America now has 2 economies",
-      "url": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
-      "source": "yahoo.com",
-      "published": "2026-07-07T20:23:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ECB tells banks: Fix AI cyber gaps by Oct. 31",
-      "url": "https://www.americanbanker.com/news/ecb-tells-banks-fix-ai-cyber-gaps-by-oct-31",
-      "source": "americanbanker.com",
-      "published": "2026-07-07T20:20:33+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019503/0001918704-26-019503-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T20:11:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CMPS Reiterated by Morgan Stanley -- Price Target Maintained at $17.00",
-      "url": "https://www.gurufocus.com/news/8948102/cmps-reiterated-by-morgan-stanley-price-target-maintained-at-1700",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T20:10:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Procter & Gamble and 6 Other Stocks to Buy Ahead of Earnings",
-      "url": "https://finance.yahoo.com/m/90dfa35b-db15-39f8-b41b-6df9c014dae8/procter-%26-gamble-and-6-other.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-07T20:05:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MGM Upgraded by Wells Fargo -- Price Target Raised to $48.30",
-      "url": "https://www.gurufocus.com/news/8948087/mgm-upgraded-by-wells-fargo-price-target-raised-to-4830",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T20:04:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "TLX Maintained by Citigroup -- Price Target Lowered to $22.00",
-      "url": "https://www.gurufocus.com/news/8948085/tlx-maintained-by-citigroup-price-target-lowered-to-2200",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T20:02:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Figma shares rise as Bank of America resumes coverage with a ‘Buy’ rating",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095073/figma-shares-rise-as-bank-of-america-resumes-coverage-with-a-buy-rating-1095073.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-07-07T20:02:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CAPITAL ONE FINANCIAL CORP: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/927628/000195004726006908/0001950047-26-006908-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T20:01:57+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Figma stock jumps 6% as BofA backs AI outlook",
-      "url": "https://invezz.com/news/2026/07/07/figma-stock-jumps-6-as-bofa-backs-ai-outlook/",
-      "source": "invezz.com",
-      "published": "2026-07-07T19:57:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010352/0000950103-26-010352-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T19:57:26+00:00",
-      "tickers": [
         "C"
       ]
     }
