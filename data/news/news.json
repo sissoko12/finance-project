@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-07-08T03:31:13.540592+00:00",
+  "last_updated": "2026-07-08T06:34:41.289037+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley (MS) to Release Earnings on Wednesday",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-ms-to-release-earnings-on-wednesday-2026-07-08/",
+      "source": "marketbeat.com",
+      "published": "2026-07-08T05:26:18+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon (BNY) Expected to Announce Earnings on Wednesday",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-bny-expected-to-announce-earnings-on-wednesday-2026-07-08/",
+      "source": "marketbeat.com",
+      "published": "2026-07-08T05:26:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (USB) Price Target Lowered at Oppenheimer. Here is Why",
+      "url": "https://www.insidermonkey.com/blog/u-s-bancorp-usb-price-target-lowered-at-oppenheimer-here-is-why-1797617/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T05:09:53+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Removes Duke Energy (DUK) from its US Conviction List",
+      "url": "https://www.insidermonkey.com/blog/goldman-sachs-removes-duke-energy-duk-from-its-us-conviction-list-1797620/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T05:08:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PepsiCo (PEP) Price Target Trimmed at JP Morgan. Here is Why",
+      "url": "https://www.insidermonkey.com/blog/pepsico-pep-price-target-trimmed-at-jp-morgan-here-is-why-1797628/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T05:06:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi Downgrades Truist Financial (TFC) to Neutral. Here is Why",
+      "url": "https://www.insidermonkey.com/blog/citi-downgrades-truist-financial-tfc-to-neutral-here-is-why-1797641/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T05:04:02+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Eni (E) Price Target Lowered by €2.5 at JP Morgan",
+      "url": "https://www.insidermonkey.com/blog/eni-e-price-target-lowered-by-e2-5-at-jp-morgan-1797643/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T05:01:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Trims Price Target on Occidental Petroleum (OXY). Here is Why",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-trims-price-target-on-occidental-petroleum-oxy-here-is-why-1797646/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T05:00:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BP Price Target Cut by £50 at JP Morgan",
+      "url": "https://www.insidermonkey.com/blog/bp-price-target-cut-by-50-at-jp-morgan-1797648/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-08T04:59:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "China cost cuts put US$1T robotaxi market within reach by 2040",
+      "url": "https://www.digitimes.com/news/a20260708PD228/robotaxi-market-cost-supply-chain-tesla.html",
+      "source": "digitimes.com",
+      "published": "2026-07-08T04:00:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Review: Pendino shows promise in its pies",
+      "url": "https://www.cascadiadaily.com/2026/jul/07/review-pendino-shows-promise-in-its-pies/?utm_source=rss&utm_medium=rss&utm_campaign=review-pendino-shows-promise-in-its-pies",
+      "source": "cascadiadaily.com",
+      "published": "2026-07-08T04:00:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Mets drop slugfest with Royals despite strong offensive performance",
+      "url": "https://thebrunswicknews.com/sports/national_sports/mets-drop-slugfest-with-royals-despite-strong-offensive-performance/article_392d2e31-d982-52f2-94e0-f9f0d2f7c1c5.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-07-08T03:29:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "New credit creation, which one should I choose?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uqg94q/new_credit_creation_which_one_should_i_choose/",
+      "source": "reddit.com",
+      "published": "2026-07-08T02:47:47+00:00",
+      "tickers": [
+        "C",
+        "USB",
+        "COF"
+      ]
+    },
+    {
+      "title": "Credit Card hardship programs & mortgages",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uqfqe8/credit_card_hardship_programs_mortgages/",
+      "source": "reddit.com",
+      "published": "2026-07-08T02:23:18+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sodium batteries to cut below LFP costs in 2027, reshaping energy storage economics",
+      "url": "https://www.digitimes.com/news/a20260707PD239/2027-2026-market-lithium-capacity.html",
+      "source": "digitimes.com",
+      "published": "2026-07-08T01:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Kingsoft Cloud Holdings (KC) Receives Overweight Rating from Morgan Stanley",
       "url": "https://www.gurufocus.com/news/8948527/kingsoft-cloud-holdings-kc-receives-overweight-rating-from-morgan-stanley",
@@ -26,6 +165,15 @@
       "published": "2026-07-08T00:26:44+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Info Edge shares rally 19% in 2 days after Q1 update. Here’s what Nomura, Goldman Sachs, other brokerages say",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-rally-19-in-2-days-after-q1-update-heres-what-nomura-goldman-sachs-other-brokerages-say/articleshow/132253998.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-07T23:22:08+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -127,25 +275,6 @@
       "published": "2026-07-07T21:23:37+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526297622/0001193125-26-297622-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T21:06:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019511/0001918704-26-019511-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-07T20:58:15+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
