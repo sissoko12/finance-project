@@ -1,86 +1,131 @@
 {
-  "last_updated": "2026-07-08T21:16:37.606870+00:00",
+  "last_updated": "2026-07-08T22:35:06.389046+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033887/0001839882-26-033887-index.htm",
+      "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000202/0000895421-26-000202-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T20:29:30+00:00",
+      "published": "2026-07-08T21:46:26+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019611/0001918704-26-019611-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526298742/0001193125-26-298742-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T20:27:55+00:00",
+      "published": "2026-07-08T21:30:31+00:00",
       "tickers": [
-        "BAC",
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010415/0000950103-26-010415-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T21:23:16+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "Top Managed Care Stock Pick from Morgan Stanley",
-      "url": "https://www.investing.com/news/stock-market-news/top-managed-care-stock-pick-from-morgan-stanley-93CH-4782292",
-      "source": "investing.com",
-      "published": "2026-07-08T20:08:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033880/0001839882-26-033880-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T20:07:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019603/0001918704-26-019603-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T20:06:15+00:00",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 2.6% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-price-down-26-should-you-sell-2026-07-08/",
+      "source": "marketbeat.com",
+      "published": "2026-07-08T21:20:42+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Beacon Financial Corporation Announces Second Quarter 2026 Earnings Release Date and Conference Call",
-      "url": "https://www.globenewswire.com/en/news-release/2026/07/08/3324431/0/en/Beacon-Financial-Corporation-Announces-Second-Quarter-2026-Earnings-Release-Date-and-Conference-Call.html",
-      "source": "globenewswire.com",
-      "published": "2026-07-08T20:05:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019601/0001918704-26-019601-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T20:00:52+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA Bankers U-Turn on OpenAI - Bloomberg's Liana Baker joins Dani Burger on \"Bloomberg Deals.\" ...",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-08/bofa-bankers-u-turn-on-openai-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-08T19:37:58+00:00",
+      "title": "Bank of America (NYSE:BAC) Trading Down 2.5% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-down-25-should-you-sell-2026-07-08/",
+      "source": "marketbeat.com",
+      "published": "2026-07-08T21:20:40+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Nvidia’s stock trades at a juicy discount, according to BofA",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-08T19:36:00+00:00",
+      "title": "Matthew Cooper Sells 3,500 Shares of Capital One Financial (NYSE:COF) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/matthew-cooper-sells-3500-shares-of-capital-one-financial-nysecof-stock-2026-07-08/",
+      "source": "marketbeat.com",
+      "published": "2026-07-08T21:07:53+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Asia Centric: How AI and Energy Security Fuel a New Supercycle",
+      "url": "https://www.bloomberg.com/news/audio/2026-07-08/asia-centric-how-ai-and-energy-security-fuel-a-new-supercycle",
+      "source": "bloomberg.com",
+      "published": "2026-07-08T21:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Alcoa (AA) and Vale (VALE) Downgraded by Morgan Stanley Amid Metal Surplus Concerns",
+      "url": "https://www.gurufocus.com/news/8950112/alcoa-aa-and-vale-vale-downgraded-by-morgan-stanley-amid-metal-surplus-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-07-08T20:57:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010407/0000950103-26-010407-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T20:56:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076423/0001213900-26-076423-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T20:54:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street's SPLB or iShares' TLT: Which Long-Term Bond ETF Should Investors Choose?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/08/state-street-s-splb-or-ishares-tlt-which-long-term-bond-etf-should-investors-choose/?.tsrc=rss",
+      "source": "fool.com",
+      "published": "2026-07-08T20:53:12+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019624/0001918704-26-019624-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T20:52:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Keeps Buy Rating on Gilead (GILD)",
+      "url": "https://finance.yahoo.com/healthcare/articles/morgan-stanley-keeps-buy-rating-204826865.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-08T20:48:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Oppenheimer Downgrades Bank of America (BAC) to Perform",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgrades-bank-america-bac-204137407.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-08T20:41:37+00:00",
       "tickers": [
         "BAC",
         "C"
