@@ -1,137 +1,88 @@
 {
-  "last_updated": "2026-07-08T19:45:24.222024+00:00",
+  "last_updated": "2026-07-08T21:16:37.606870+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076316/0001213900-26-076316-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033887/0001839882-26-033887-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T18:58:31+00:00",
+      "published": "2026-07-08T20:29:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019611/0001918704-26-019611-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T20:27:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Top Managed Care Stock Pick from Morgan Stanley",
+      "url": "https://www.investing.com/news/stock-market-news/top-managed-care-stock-pick-from-morgan-stanley-93CH-4782292",
+      "source": "investing.com",
+      "published": "2026-07-08T20:08:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033880/0001839882-26-033880-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T20:07:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019603/0001918704-26-019603-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T20:06:15+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Ultrapar upgraded to Buy at BofA as two key overhangs diminish",
-      "url": "https://seekingalpha.com/news/4612396-ultrapar-upgraded-to-buy-at-bofa-as-two-key-overhangs-diminish",
-      "source": "seekingalpha.com",
-      "published": "2026-07-08T18:52:10+00:00",
+      "title": "Beacon Financial Corporation Announces Second Quarter 2026 Earnings Release Date and Conference Call",
+      "url": "https://www.globenewswire.com/en/news-release/2026/07/08/3324431/0/en/Beacon-Financial-Corporation-Announces-Second-Quarter-2026-Earnings-Release-Date-and-Conference-Call.html",
+      "source": "globenewswire.com",
+      "published": "2026-07-08T20:05:00+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA Makes U-Turn on OpenAI, Provides $520M Credit Line",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-08/bofa-makes-u-turn-on-openai-provides-520m-credit-line-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-08T18:43:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bloomberg Tech: OpenAI Gets BofA Credit Line (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-07-08/bloomberg-tech-openai-gets-bofa-credit-line-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-07-08T18:31:29+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jittery Tech Markets; OpenAI Gets BofA Credit Line | Bloomberg Tech 7/08/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-08/bloomberg-tech-7-08-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-08T18:30:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033851/0001839882-26-033851-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T18:30:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Hedge Funds Are Selling Tech Stock Hand Over Fist. Is the 2026 Melt-Up On Its Last Legs?",
-      "url": "https://247wallst.com/investing/2026/07/08/hedge-funds-are-selling-tech-stock-hand-over-fist-is-the-2026-melt-up-on-its-last-legs/",
-      "source": "247wallst.com",
-      "published": "2026-07-08T18:25:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019583/0001918704-26-019583-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T18:15:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA extends $520M loan to OpenAI ahead of IPO",
-      "url": "https://cryptobriefing.com/bofa-520m-loan-openai-ipo/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-08T18:10:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000066/0001390777-26-000066-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T17:55:06+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019579/0001918704-26-019579-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T17:50:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Turns Bullish on SpaceX Stock with $300 Price Target — That Would Value SPCX at $4 Trillion",
-      "url": "https://www.barchart.com/story/news/3189858/morgan-stanley-turns-bullish-on-spacex-stock-with-300-price-target-that-would-value-spcx-at-4-trillion",
-      "source": "barchart.com",
-      "published": "2026-07-08T17:47:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bofa-extends-first-520-million-loan-to-openai-ahead-of-ipo/articleshow/132269559.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-08T17:36:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
+        "C",
+        "TFC"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010387/0000950103-26-010387-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019601/0001918704-26-019601-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T17:33:57+00:00",
+      "published": "2026-07-08T20:00:52+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Bankers U-Turn on OpenAI - Bloomberg's Liana Baker joins Dani Burger on \"Bloomberg Deals.\" ...",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/bofa-bankers-u-turn-on-openai-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-08T19:37:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Nvidia’s stock trades at a juicy discount, according to BofA",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-08T19:36:00+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     }
