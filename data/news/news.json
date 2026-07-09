@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-09T22:03:57.601916+00:00",
+  "last_updated": "2026-07-09T23:47:47.077814+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan Builds AI Agents That Beat 60/40 Portfolio in Backtests",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+      "source": "bloomberg.com",
+      "published": "2026-07-09T23:00:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "LPL Recruits Three Teams Managing $725M From Wells Fargo, MML",
+      "url": "https://altswire.com/lpl-recruits-three-teams-managing-725m-from-wells-fargo-mml/",
+      "source": "altswire.com",
+      "published": "2026-07-09T22:29:50+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Chase Bank in Grand Rapids holds workshop for scam warning signs",
+      "url": "https://www.woodtv.com/news/grand-rapids/chase-bank-in-grand-rapids-holds-workshop-for-scam-warning-signs/",
+      "source": "woodtv.com",
+      "published": "2026-07-09T21:30:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526299855/0001193125-26-299855-index.htm",
@@ -8,6 +36,43 @@
       "published": "2026-07-09T21:29:12+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "The Memo - Special edition - AI-2040.com - 9/Jul/2026",
+      "url": "https://lifearchitect.substack.com/p/the-memo-special-edition-ai-2040-com",
+      "source": "substack.com",
+      "published": "2026-07-09T21:23:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.4% - Still a Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-up-14-still-a-buy-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T21:20:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019779/0001918704-26-019779-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T21:17:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank’s California expansion turns from jeers to cheers on Wall Street amid AI boom",
+      "url": "https://www.bizjournals.com/sanfrancisco/news/2026/07/09/us-bank-california-bay-area-expansion.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-09T21:16:07+00:00",
+      "tickers": [
+        "USB"
       ]
     },
     {
@@ -35,6 +100,35 @@
       "published": "2026-07-09T21:11:51+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "IYF vs. KRE: Which Bank ETF Is the Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/09/iyf-vs-kre-which-financials-etf-is-the-better-buy-in-2026/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-09T21:01:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "ServiceNow (NYSE:NOW) Trading Up 1% Following Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13499291/servicenow-nysenow-trading-up-1-following-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-09T21:00:48+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Kaiser Aluminum (KALU) Downgraded by Wells Fargo, Price Target Adjusted",
+      "url": "https://www.gurufocus.com/news/8952239/kaiser-aluminum-kalu-downgraded-by-wells-fargo-price-target-adjusted",
+      "source": "gurufocus.com",
+      "published": "2026-07-09T20:57:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -71,15 +165,6 @@
       "published": "2026-07-09T20:52:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Which Is the Better International ETF, Vanguard's VWO Targeting Emerging Markets or State Street's Climate Change-Focused NZAC?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/09/which-is-the-better-international-etf-vanguard-s-vwo-targeting-emerging-markets-or-state-street-s-climate-change-focused-nzac/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-09T20:25:01+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
