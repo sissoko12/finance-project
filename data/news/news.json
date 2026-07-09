@@ -1,253 +1,85 @@
 {
-  "last_updated": "2026-07-09T20:23:05.882775+00:00",
+  "last_updated": "2026-07-09T22:03:57.601916+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019757/0001918704-26-019757-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526299855/0001193125-26-299855-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-09T19:37:37+00:00",
+      "published": "2026-07-09T21:29:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs is banning employees from betting on prediction markets",
+      "url": "https://qz.com/goldman-sachs-prediction-markets-ban-employees-insider-trading-070926",
+      "source": "qz.com",
+      "published": "2026-07-09T21:12:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs bars staff from prediction market trades on finance and war - report",
+      "url": "https://seekingalpha.com/news/4612774-goldman-sachs-bars-staff-from-prediction-market-trades-on-finance-and-war---report",
+      "source": "seekingalpha.com",
+      "published": "2026-07-09T21:12:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076789/0001213900-26-076789-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T21:11:51+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "US CLO ETFs Surpass $50B in Total Assets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/us-clo-etfs-surpass-50b-in-total-assets-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-09T19:33:39+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Kaiser Aluminum cut to Sell equivalent at Wells Fargo as valuation looks stretched",
-      "url": "https://seekingalpha.com/news/4612737-kaiser-aluminum-cut-to-sell-equivalent-at-wells-fargo-as-valuation-looks-stretched",
-      "source": "seekingalpha.com",
-      "published": "2026-07-09T19:11:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019753/0001918704-26-019753-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-09T19:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Bank of America Says Nvidia Stock Is Cheap Here",
-      "url": "https://www.barchart.com/story/news/3211302/why-bank-of-america-says-nvidia-stock-is-cheap-here",
-      "source": "barchart.com",
-      "published": "2026-07-09T18:58:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Wins $70 Billion In Retirement Asset Management Mandates From Verizon And Lockheed Martin",
-      "url": "https://pulse2.com/goldman-sachs-wins-70-billion-in-retirement-asset-management-mandates-from-verizon-and-lockheed-martin/",
-      "source": "pulse2.com",
-      "published": "2026-07-09T18:54:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
-      "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
-      "source": "cnbc.com",
-      "published": "2026-07-09T18:52:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs bans staff from most prediction market trading - Bloomberg",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-bans-staff-from-most-prediction-market-trading--bloomberg-93CH-4784713",
-      "source": "investing.com",
-      "published": "2026-07-09T18:50:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist Financial Cuts Ollie's Bargain Outlet (NASDAQ:OLLI) Price Target to $80.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-cuts-ollies-bargain-outlet-nasdaqolli-price-target-to-8000-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T18:48:31+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Keefe, Bruyette & Woods Issues Positive Forecast for State Street (NYSE:STT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/keefe-bruyette-woods-issues-positive-forecast-for-state-street-nysestt-stock-price-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T18:48:27+00:00",
-      "tickers": [
-        "STT"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010452/0000950103-26-010452-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019775/0001918704-26-019775-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-09T18:47:31+00:00",
+      "published": "2026-07-09T20:54:26+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Invesco Pharmaceuticals ETF vs State Street Biotech ETF: Which Fund Is the Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/09/invesco-pharmaceuticals-etf-vs-state-street-biotech-etf-which-fund-is-the-better-buy-in-2026/?source=iedfolrf0000001",
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526299804/0001193125-26-299804-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T20:54:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs bans employees from making finance, politics bets on prediction markets: report",
+      "url": "https://nypost.com/2026/07/09/business/goldman-sachs-bans-employees-from-making-finance-politics-bets-on-prediction-markets-report/",
+      "source": "nypost.com",
+      "published": "2026-07-09T20:52:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Says Bitcoin's Main Risk Isn't Strategy",
+      "url": "https://www.cryptoprowl.com/releases/jpmorgan-chase-says-bitcoins-main-risk-isnt-strategy-6113?.tsrc=rss",
+      "source": "cryptoprowl.com",
+      "published": "2026-07-09T20:52:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Which Is the Better International ETF, Vanguard's VWO Targeting Emerging Markets or State Street's Climate Change-Focused NZAC?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/09/which-is-the-better-international-etf-vanguard-s-vwo-targeting-emerging-markets-or-state-street-s-climate-change-focused-nzac/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-07-09T18:47:25+00:00",
+      "published": "2026-07-09T20:25:01+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Goldman Bans Staff Prediction Markets Bets on Finance, Politics",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/goldman-bans-staff-prediction-markets-bets-on-finance-politics",
-      "source": "bloomberg.com",
-      "published": "2026-07-09T18:45:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Cenovus Energy (TSE:CVE) Price Target Cut to C$45.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/cenovus-energy-tsecve-price-target-cut-to-c4500-by-analysts-at-jpmorgan-chase-co-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T18:42:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Waste Connections (NYSE:WCN) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-waste-connections-nysewcn-stock-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T18:42:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226034066/0001839882-26-034066-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-09T18:38:19+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CECO Environmental jumps as J.P. Morgan initiates at Buy on 'transformative' Thermon deal",
-      "url": "https://seekingalpha.com/news/4612731-ceco-environmental-jumps-as-jp-morgan-initiates-at-buy-on-transformative-thermon-deal",
-      "source": "seekingalpha.com",
-      "published": "2026-07-09T18:27:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034059/0001839882-26-034059-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-09T18:26:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034055/0001839882-26-034055-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-09T18:24:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526299517/0001193125-26-299517-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-09T18:09:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "TXG Maintained by Morgan Stanley -- Price Target Raised to $37",
-      "url": "https://www.gurufocus.com/news/8951989/txg-maintained-by-morgan-stanley-price-target-raised-to-37",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GH Maintained by Morgan Stanley -- Price Target Raised to $175",
-      "url": "https://www.gurufocus.com/news/8952017/gh-maintained-by-morgan-stanley-price-target-raised-to-175",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CRL Maintained by Morgan Stanley -- Price Target Raised to $260",
-      "url": "https://www.gurufocus.com/news/8951991/crl-maintained-by-morgan-stanley-price-target-raised-to-260",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BALL Maintains Rating by Citigroup -- Price Target Lowered to $72",
-      "url": "https://www.gurufocus.com/news/8951986/ball-maintains-rating-by-citigroup-price-target-lowered-to-72",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AVY Maintained by Citigroup -- Price Target Lowered to $184",
-      "url": "https://www.gurufocus.com/news/8951988/avy-maintained-by-citigroup-price-target-lowered-to-184",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ADPT Maintained by Morgan Stanley -- Price Target Raised to $20.00",
-      "url": "https://www.gurufocus.com/news/8951990/adpt-maintained-by-morgan-stanley-price-target-raised-to-2000",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "HLI Maintained by Morgan Stanley -- Price Target Lowered to $187",
-      "url": "https://www.gurufocus.com/news/8952019/hli-maintained-by-morgan-stanley-price-target-lowered-to-187",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T18:06:40+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
