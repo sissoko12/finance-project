@@ -1,288 +1,269 @@
 {
-  "last_updated": "2026-07-09T12:12:01.467666+00:00",
+  "last_updated": "2026-07-09T15:42:49.034348+00:00",
   "headlines": [
     {
-      "title": "Meta Platforms (META) Secures Spot on BofA's US 1 List of Top Investments",
-      "url": "https://www.gurufocus.com/news/8950965/meta-platforms-meta-secures-spot-on-bofas-us-1-list-of-top-investments",
+      "title": "Goldman Sachs Secures $70 Billion Retirement Asset Management from Verizon and Lockheed Martin",
+      "url": "https://www.gurufocus.com/news/8951698/goldman-sachs-secures-70-billion-retirement-asset-management-from-verizon-and-lockheed-martin",
       "source": "gurufocus.com",
-      "published": "2026-07-09T11:25:03+00:00",
+      "published": "2026-07-09T15:25:59+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "PKG Downgraded by Wells Fargo -- Price Target Raised to $246",
-      "url": "https://www.gurufocus.com/news/8950989/pkg-downgraded-by-wells-fargo-price-target-raised-to-246",
+      "title": "FISV Maintained by Wells Fargo -- Price Target Lowered to $56",
+      "url": "https://www.gurufocus.com/news/8951695/fisv-maintained-by-wells-fargo-price-target-lowered-to-56",
       "source": "gurufocus.com",
-      "published": "2026-07-09T11:25:03+00:00",
+      "published": "2026-07-09T15:25:59+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "GVA Downgraded by Goldman Sachs -- Price Target Lowered to $139",
-      "url": "https://www.gurufocus.com/news/8951002/gva-downgraded-by-goldman-sachs-price-target-lowered-to-139",
+      "title": "Goldman Sachs Upgrades Toast (TOST) to Buy Amid Competitive Concerns",
+      "url": "https://www.gurufocus.com/news/8951720/goldman-sachs-upgrades-toast-tost-to-buy-amid-competitive-concerns",
       "source": "gurufocus.com",
-      "published": "2026-07-09T11:25:02+00:00",
+      "published": "2026-07-09T15:25:58+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "FIX Initiated Coverage by Goldman Sachs -- Price Target Announced at $2159",
-      "url": "https://www.gurufocus.com/news/8951004/fix-initiated-coverage-by-goldman-sachs-price-target-announced-at-2159",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T11:25:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America: The Case For The Company's Convertible Preferred Series L | $BAC",
-      "url": "https://seekingalpha.com/article/4920834-bank-of-america-the-case-for-the-companys-convertible-preferred-bacprl",
-      "source": "seekingalpha.com",
-      "published": "2026-07-09T11:16:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-      "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
-      "source": "coindesk.com",
-      "published": "2026-07-09T11:08:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman: The Fed Has Three Paths. Inflation Will Decide Which One It Takes.",
-      "url": "https://vblgoldfix.substack.com/p/goldman-the-fed-has-three-paths-inflation",
-      "source": "substack.com",
-      "published": "2026-07-09T10:56:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA sees Bank of Korea rate hike on inflation and FX concerns",
-      "url": "https://www.investing.com/news/economy-news/bofa-sees-bank-of-korea-rate-hike-on-inflation-and-fx-concerns-93CH-4783600",
-      "source": "investing.com",
-      "published": "2026-07-09T10:54:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Shares Sold by Sumitomo Mitsui Trust Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-sold-by-sumitomo-mitsui-trust-group-inc-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T10:49:15+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "SWIFT Launches Blockchain Ledger Trial With 17 Major Banks for Tokenized Payments",
-      "url": "https://blockonomi.com/swift-launches-blockchain-ledger-trial-with-17-major-banks-for-tokenized-payments/",
-      "source": "blockonomi.com",
-      "published": "2026-07-09T10:46:52+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA cuts Cameco stock price target on uranium market outlook",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-cameco-stock-price-target-on-uranium-market-outlook-93CH-4783508",
-      "source": "investing.com",
-      "published": "2026-07-09T10:42:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman expects Airbus to reports strong Q2 results, raises price target",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-expects-airbus-to-reports-strong-q2-results-raises-price-target-4783506",
-      "source": "investing.com",
-      "published": "2026-07-09T10:41:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CNK Upgraded by Goldman Sachs -- Price Target Raised to $30",
-      "url": "https://www.gurufocus.com/news/8950937/cnk-upgraded-by-goldman-sachs-price-target-raised-to-30",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T10:31:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MSGE Downgraded by Goldman Sachs -- Price Target Raised to $82.00",
-      "url": "https://www.gurufocus.com/news/8950936/msge-downgraded-by-goldman-sachs-price-target-raised-to-8200",
-      "source": "gurufocus.com",
-      "published": "2026-07-09T10:31:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Isthmus Partners LLC Has $14.29 Million Stock Holdings in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-isthmus-partners-llc-has-1429-million-stock-holdings-in-the-pnc-financial-services-group-inc-pnc-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T10:25:22+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Munich Reinsurance Co Stock Corp in Munich Has $3.20 Million Holdings in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-has-320-million-holdings-in-us-bancorp-usb-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T10:25:19+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Munich Reinsurance Co Stock Corp in Munich Buys 16,302 Shares of The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-buys-16302-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T10:25:17+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Munich Reinsurance Co Stock Corp in Munich Increases Stock Holdings in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-increases-stock-holdings-in-the-charles-schwab-corporation-schw-2026-07-09/",
-      "source": "marketbeat.com",
-      "published": "2026-07-09T10:24:48+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Citi sees USD/JPY at 163 if Topix stock index rises to 4,500",
-      "url": "https://www.investing.com/news/forex-news/citi-sees-usdjpy-at-163-if-topix-stock-index-rises-to-4500-93CH-4783466",
-      "source": "investing.com",
-      "published": "2026-07-09T10:21:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Said the Clarity Act's Stablecoin Rules Will \"Blow Up\" the System. JPMorgan Chase's June 29 Position Paper Explains Why.",
-      "url": "https://www.fool.com/investing/2026/07/09/jamie-dimon-said-the-clarity-acts-stablecoin-rules/",
-      "source": "fool.com",
-      "published": "2026-07-09T10:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SWIFT launches blockchain ledger pilot with 17 global banks",
-      "url": "https://crypto.news/swift-launches-blockchain-ledger-pilot-with-17-global-banks/",
+      "title": "Wells Fargo loads up on Strategy while trimming BlackRock Bitcoin ETF",
+      "url": "https://crypto.news/wells-fargo-loads-up-strategy-while-trimming-btc-etf/",
       "source": "crypto.news",
-      "published": "2026-07-09T10:11:03+00:00",
+      "published": "2026-07-09T15:19:20+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Senegal’s Political Rupture Raises Risk of Debt Reprofile, Says Citibank",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/senegal-s-political-rupture-raises-risk-of-debt-reprofile-says-citibank",
+      "source": "bloomberg.com",
+      "published": "2026-07-09T15:03:03+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "State Street SPDR Portfolio S&P 500 ETF $SPYM is IAG Wealth Partners LLC’s Largest Position",
-      "url": "https://www.tickerreport.com/banking-finance/13498696/state-street-spdr-portfolio-sp-500-etf-spym-is-iag-wealth-partners-llcs-largest-position.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-09T10:09:06+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019693/0001918704-26-019693-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T14:56:55+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "BofA raises Amphenol stock price target to $185 on AI demand",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-amphenol-stock-price-target-to-185-on-ai-demand-93CH-4783363",
-      "source": "investing.com",
-      "published": "2026-07-09T10:00:50+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010429/0000950103-26-010429-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T14:43:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Toast upgraded to Buy at Goldman Sachs on new product and market expansion efforts",
+      "url": "https://seekingalpha.com/news/4612680-toast-upgraded-to-buy-at-goldman-sachs-on-new-product-and-market-expansion-efforts",
+      "source": "seekingalpha.com",
+      "published": "2026-07-09T14:41:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA Says AI Is Fueling Figma’s Next Growth Phase",
+      "url": "https://www.barchart.com/story/news/3206969/bofa-says-ai-is-fueling-figmas-next-growth-phase",
+      "source": "barchart.com",
+      "published": "2026-07-09T14:39:28+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BofA raises Hims and Hers stock price target to $37 on growth",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-hims-and-hers-stock-price-target-to-37-on-growth-93CH-4783362",
+      "title": "Global M&A activity on track to eclipse 2021 deal boom, Morgan Stanley says",
+      "url": "https://www.investing.com/news/economy-news/global-ma-activity-on-track-to-eclipse-2021-deal-boom-morgan-stanley-says-4784460",
       "source": "investing.com",
-      "published": "2026-07-09T10:00:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA raises Ligand Pharma stock price target on royalty growth",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-ligand-pharma-stock-price-target-on-royalty-growth-93CH-4783361",
-      "source": "investing.com",
-      "published": "2026-07-09T10:00:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA raises Sensata Technologies price target on operational gains",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-sensata-technologies-price-target-on-operational-gains-93CH-4783357",
-      "source": "investing.com",
-      "published": "2026-07-09T10:00:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (MS) – Analysts’ Weekly Ratings Changes",
-      "url": "https://www.tickerreport.com/banking-finance/13498670/morgan-stanley-ms-analysts-weekly-ratings-changes.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-09T09:56:44+00:00",
+      "published": "2026-07-09T14:36:46+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Koshinski Asset Management Inc. Sells 1,992 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13498655/koshinski-asset-management-inc-sells-1992-shares-of-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-09T09:50:52+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019683/0001918704-26-019683-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T14:36:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs turns bearish on Mattel on mounting execution risks",
+      "url": "https://seekingalpha.com/news/4612643-goldman-sachs-turns-bearish-on-mattel-on-mounting-execution-risks",
+      "source": "seekingalpha.com",
+      "published": "2026-07-09T14:33:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs is taking over $70 billion in retirement assets from Verizon and Lockheed Martin",
+      "url": "https://qz.com/goldman-sachs-verizon-lockheed-martin-retirement-assets-070926",
+      "source": "qz.com",
+      "published": "2026-07-09T14:30:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019677/0001918704-26-019677-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T14:25:05+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Sampo shares up as Goldman upgrades on UK motor recovery, margin expansion",
-      "url": "https://www.investing.com/news/stock-market-news/sampo-shares-up-as-goldman-upgrades-on-uk-motor-recovery-margin-expansion-4783324",
-      "source": "investing.com",
-      "published": "2026-07-09T09:48:50+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226033938/0001839882-26-033938-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T14:22:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+      "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
+      "source": "cnbc.com",
+      "published": "2026-07-09T14:11:19+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Erste Shares to Rally 30% on Poland Growth, Goldman Sachs Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/erste-shares-to-rally-30-on-poland-growth-goldman-sachs-says",
-      "source": "bloomberg.com",
-      "published": "2026-07-09T09:47:42+00:00",
+      "title": "JPMorgan Chase & Co. Reiterates Neutral Rating for Stellantis (NYSE:STLA)",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-reiterates-neutral-rating-for-stellantis-nysestla-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:06:24+00:00",
       "tickers": [
-        "GS"
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Devon Energy (NYSE:DVN) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13499087/truist-financial-issues-pessimistic-forecast-for-devon-energy-nysedvn-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-09T14:01:18+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "MongoDB (NASDAQ:MDB) Price Target Raised to $400.00",
+      "url": "https://www.marketbeat.com/instant-alerts/mongodb-nasdaqmdb-price-target-raised-to-40000-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Forecasts Strong Price Appreciation for GitLab (NASDAQ:GTLB) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-gitlab-nasdaqgtlb-stock-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:32+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JFrog (NASDAQ:FROG) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/jfrog-nasdaqfrog-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:31+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for PagerDuty (NYSE:PD) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-pagerduty-nysepd-stock-price-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "ServiceNow (NYSE:NOW) Given New $130.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/servicenow-nysenow-given-new-13000-price-target-at-truist-financial-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Lowers Devon Energy (NYSE:DVN) Price Target to $61.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-devon-energy-nysedvn-price-target-to-6100-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:24+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for Dynatrace (NYSE:DT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-dynatrace-nysedt-stock-price-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Antero Resources (NYSE:AR) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-antero-resources-nysear-stock-price-2026-07-09/",
+      "source": "marketbeat.com",
+      "published": "2026-07-09T14:00:21+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JPMorgan Says Everything Is an AI Trade: ‘It’s How You Play It’",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-says-everything-is-an-ai-trade-it-s-how-you-play-it",
+      "source": "bloomberg.com",
+      "published": "2026-07-09T14:00:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076571/0001213900-26-076571-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-09T13:51:10+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
