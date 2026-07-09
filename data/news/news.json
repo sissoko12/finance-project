@@ -1,13 +1,51 @@
 {
-  "last_updated": "2026-07-08T22:35:06.389046+00:00",
+  "last_updated": "2026-07-09T00:17:35.727228+00:00",
   "headlines": [
     {
+      "title": "Insider Sell: Matthew Cooper Sells 3,500 Shares of Capital One Financial Corp (COF)",
+      "url": "https://www.gurufocus.com/news/8950439/insider-sell-matthew-cooper-sells-3500-shares-of-capital-one-financial-corp-cof",
+      "source": "gurufocus.com",
+      "published": "2026-07-08T23:01:32+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
       "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000202/0000895421-26-000202-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000203/0000895421-26-000203-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T21:46:26+00:00",
+      "published": "2026-07-08T22:55:25+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Truist Financial Corp (TFC) Shares Fall 3.2% -- What GF Score of 60 Tells Investors",
+      "url": "https://www.gurufocus.com/news/8950386/truist-financial-corp-tfc-shares-fall-32-what-gf-score-of-60-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-07-08T22:42:24+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Nasdaq 100 Fluctuates Amid Geopolitical Tensions | The Close 7/8/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/the-close-7-8-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-08T22:18:53+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Which Small-Cap Value ETF Is the Better Buy: iShares' IWN or State Street's SLYV?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/08/which-small-cap-value-etf-is-the-better-buy-ishares-iwn-or-state-street-s-slyv/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-08T21:51:08+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -17,6 +55,25 @@
       "published": "2026-07-08T21:30:31+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019629/0001918704-26-019629-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T21:28:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000183988226033896/0001839882-26-033896-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-08T21:28:05+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -85,49 +142,12 @@
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076423/0001213900-26-076423-index.htm",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226033890/0001839882-26-033890-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-08T20:54:06+00:00",
+      "published": "2026-07-08T20:53:11+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street's SPLB or iShares' TLT: Which Long-Term Bond ETF Should Investors Choose?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/08/state-street-s-splb-or-ishares-tlt-which-long-term-bond-etf-should-investors-choose/?.tsrc=rss",
-      "source": "fool.com",
-      "published": "2026-07-08T20:53:12+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019624/0001918704-26-019624-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-08T20:52:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Keeps Buy Rating on Gilead (GILD)",
-      "url": "https://finance.yahoo.com/healthcare/articles/morgan-stanley-keeps-buy-rating-204826865.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-08T20:48:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Oppenheimer Downgrades Bank of America (BAC) to Perform",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgrades-bank-america-bac-204137407.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-08T20:41:37+00:00",
-      "tickers": [
-        "BAC",
+        "WFC",
         "C"
       ]
     }
