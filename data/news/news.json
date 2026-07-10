@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-07-09T23:47:47.077814+00:00",
+  "last_updated": "2026-07-10T03:59:26.625218+00:00",
   "headlines": [
+    {
+      "title": "JLL Arranges $352 Million Refinancing For 425 Lexington Avenue In Midtown Manhattan",
+      "url": "https://pulse2.com/jll-arranges-352-million-refinancing-for-425-lexington-avenue-in-midtown-manhattan/",
+      "source": "pulse2.com",
+      "published": "2026-07-10T03:12:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman, Morgan Stanley Bar Staff from Prediction Markets, But Sports Trading Is OK",
+      "url": "https://www.casino.org/news/goldman-morgan-stanley-bar-staff-from-prediction-markets-but-sports-trading-is-ok/",
+      "source": "casino.org",
+      "published": "2026-07-10T02:23:45+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Financial Firms Ban Employee Prediction Market Trading as Compliance Concerns Spread",
+      "url": "https://www.pymnts.com/economy/markets/2026/financial-firms-ban-employee-prediction-market-trading-as-compliance-concerns-spread/",
+      "source": "pymnts.com",
+      "published": "2026-07-10T01:44:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan, Citi Bankers to Join Hong Kong Exchange Listing Panel",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/jpmorgan-citi-bankers-to-join-hong-kong-exchange-listing-panel",
+      "source": "bloomberg.com",
+      "published": "2026-07-10T01:24:06+00:00",
+      "tickers": [
+        "JPM",
+        "C"
+      ]
+    },
+    {
+      "title": "Huntington Bancshares: Financials Have Improving Technicals And Fundamentals | $MS $OZK $CFG $XLF $HBAN",
+      "url": "https://seekingalpha.com/article/4921052-huntington-bancshares-financials-have-improving-technicals-and-fundamentals",
+      "source": "seekingalpha.com",
+      "published": "2026-07-10T00:59:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Illegally Fired Muni Bond Whistleblower, Suit Says",
+      "url": "https://www.law360.com/compliance/articles/2498980?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-07-09T23:18:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "How Wells Fargo keeps advisors by letting them go independent",
+      "url": "https://www.americanbanker.com/news/how-wells-fargo-keeps-advisors-by-letting-them-go-independent",
+      "source": "americanbanker.com",
+      "published": "2026-07-09T23:09:52+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "JPMorgan Builds AI Agents That Beat 60/40 Portfolio in Backtests",
       "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
