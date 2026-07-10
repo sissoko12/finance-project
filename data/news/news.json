@@ -1,13 +1,155 @@
 {
-  "last_updated": "2026-07-10T21:13:10.265229+00:00",
+  "last_updated": "2026-07-10T22:33:48.409870+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034258/0001839882-26-034258-index.htm",
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of July 12 | $EPD $LEVI $LNN $MRSH $PNC",
+      "url": "https://seekingalpha.com/article/4921276-dividend-champion-contender-and-challenger-highlights-week-of-july-12",
+      "source": "seekingalpha.com",
+      "published": "2026-07-10T21:55:32+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+      "source": "bloomberg.com",
+      "published": "2026-07-10T21:40:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Now Is the Time for Carry Trades, Goldman Says",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-10/now-is-the-time-for-carry-trades-goldman-says-evening-briefing-americas",
+      "source": "bloomberg.com",
+      "published": "2026-07-10T21:24:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010533/0000950103-26-010533-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-10T19:56:08+00:00",
+      "published": "2026-07-10T21:21:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019893/0001918704-26-019893-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T21:01:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226034271/0001839882-26-034271-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T20:58:06+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034269/0001839882-26-034269-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T20:44:12+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019888/0001918704-26-019888-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T20:38:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "XLE vs ICLN ETF Showdown Traditional Energy Meets Clean Energy. Which ETF Is the Better Buy?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/10/xle-vs-icln-etf-showdown-traditional-energy-meets-clean-energy-which-etf-is-the-better-buy/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-10T20:37:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Big Earnings Due As Market Sets Up; Nvidia, Micron, Sandisk, Robinhood, SpaceX In Focus",
+      "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures%3A-big.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-10T20:35:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "How a serial borrower fooled 7 banks out of $39 million",
+      "url": "https://www.americanbanker.com/news/how-a-serial-borrower-fooled-seven-banks-out-of-39-million",
+      "source": "americanbanker.com",
+      "published": "2026-07-10T20:20:11+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan Tests AI Agents Against 60/40",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-tests-ai-agents-against-200543343.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-10T20:05:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "HAS Maintained by Citigroup -- Price Target Lowered to $101",
+      "url": "https://www.gurufocus.com/news/8953972/has-maintained-by-citigroup-price-target-lowered-to-101",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T20:02:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MAT Maintained by Citigroup -- Price Target Lowered to $15.00",
+      "url": "https://www.gurufocus.com/news/8953971/mat-maintained-by-citigroup-price-target-lowered-to-1500",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T20:02:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Why GATX Is Strengthening Its Rail Leasing Business With High Fleet Utilization and Wells Fargo Portfolio Integration",
+      "url": "https://www.insidermonkey.com/blog/why-gatx-is-strengthening-its-rail-leasing-business-with-high-fleet-utilization-and-wells-fargo-portfolio-integration-1799600/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-10T19:57:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo (WF) Positioned Favorably Ahead of Earnings Reports",
+      "url": "https://www.gurufocus.com/news/8953952/wells-fargo-wf-positioned-favorably-ahead-of-earnings-reports",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T19:55:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -17,6 +159,15 @@
       "published": "2026-07-10T19:45:37+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan AI Tops 60/40 Portfolio by 0.7% in Two-Decade Backtest",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-ai-tops-60-40-194434927.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-10T19:44:34+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -45,119 +196,6 @@
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Prediction Markets Are Exploding—but the Corporate Crackdown Has Already Begun",
-      "url": "https://www.inc.com/georgia-fearn/prediction-markets-exploding-corporate-crackdown-has-already-begun/91372445",
-      "source": "inc.com",
-      "published": "2026-07-10T19:20:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Eli Lilly and Company (NYSE:LLY) Price Target Raised to $1,334.00",
-      "url": "https://www.tickerreport.com/banking-finance/13500223/eli-lilly-and-company-nyselly-price-target-raised-to-1334-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T19:16:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "A widely followed sell signal for stocks just hit its most extreme level in 5 years",
-      "url": "https://www.businessinsider.com/stock-market-selloff-bearish-signal-investor-sentiment-bank-of-america-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-10T19:07:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
-      "url": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-10T19:04:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi wins bank support for tokenized deposit tools",
-      "url": "https://www.americanbanker.com/payments/news/citi-wins-bank-support-for-tokenized-deposit-tools",
-      "source": "americanbanker.com",
-      "published": "2026-07-10T19:01:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010506/0000950103-26-010506-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-10T18:56:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Lowers Hasbro (NASDAQ:HAS) Price Target to $101.00",
-      "url": "https://www.tickerreport.com/banking-finance/13500213/citigroup-lowers-hasbro-nasdaqhas-price-target-to-101-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T18:54:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hasbro (NASDAQ:HAS) Price Target Lowered to $101.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/hasbro-nasdaqhas-price-target-lowered-to-10100-at-citigroup-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T18:54:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TRUIST FINANCIAL CORP: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000091/0000092230-26-000091-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-10T18:49:47+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019865/0001918704-26-019865-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-10T18:48:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Just Upgraded Seagate Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/3229239/wells-fargo-just-upgraded-seagate-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-07-10T18:46:46+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Canadian National Railway (TSE:CNR) Given New C$175.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/canadian-national-railway-tsecnr-given-new-c17500-price-target-at-jpmorgan-chase-co-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T18:42:30+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
