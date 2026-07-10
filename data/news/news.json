@@ -1,284 +1,281 @@
 {
-  "last_updated": "2026-07-10T11:12:38.995604+00:00",
+  "last_updated": "2026-07-10T13:29:06.241857+00:00",
   "headlines": [
     {
-      "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
-      "url": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-07-10T10:14:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman says rotation driven by positioning, not fundamentals",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-says-rotation-driven-by-positioning-not-fundamentals-93CH-4785753",
-      "source": "investing.com",
-      "published": "2026-07-10T10:12:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026076899/0001213900-26-076899-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019796/0001918704-26-019796-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-10T10:07:16+00:00",
+      "published": "2026-07-10T13:00:26+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "AstraZeneca (LON:AZN) Cut to Buy at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13499743/astrazeneca-lonazn-cut-to-buy-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T09:54:47+00:00",
+      "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
+      "url": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-07-10T12:28:46+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo & Company $WFC Shares Bought by Main Street Research LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wells-fargo-company-wfc-shares-bought-by-main-street-research-llc-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T09:44:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Main Street Research LLC Buys 14,578 Shares of The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-main-street-research-llc-buys-14578-shares-of-the-charles-schwab-corporation-schw-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T09:44:47+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Bought by Kestra Advisory Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-bought-by-kestra-advisory-services-llc-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T09:36:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Pep Biel of Charlotte FC celebrates with teammate Kerwin Vargas after scoring a goal during the second half of their match against FC Cincinnati at Bank of America Stadium on May 9, 2026, in Charlotte, N.C..",
-      "url": "https://thebrunswicknews.com/sports/national_sports/pep-biel-of-charlotte-fc-celebrates-with-teammate-kerwin-vargas-after-scoring-a-goal-during/image_9d7e2027-5ffa-5e9c-9bdb-52916e8ea446.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-07-10T09:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sumitomo Mitsui Trust Group Inc. Has $176.75 Million Stock Holdings in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sumitomo-mitsui-trust-group-inc-has-17675-million-stock-holdings-in-us-bancorp-usb-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T09:29:21+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Sold by Sumitomo Mitsui Trust Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-sold-by-sumitomo-mitsui-trust-group-inc-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T09:29:19+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Munich Reinsurance Co Stock Corp in Munich Decreases Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-decreases-holdings-in-capital-one-financial-corporation-cof-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T09:28:40+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America lifts tobacco estimates after regulatory wins",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-lifts-tobacco-estimates-after-regulatory-wins-93CH-4785637",
-      "source": "investing.com",
-      "published": "2026-07-10T09:23:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "3 things could dash hopes for a summer stock rally, Morgan Stanley says",
-      "url": "https://www.businessinsider.com/stock-market-outlook-sp500-rally-risks-interest-rates-morgan-stanley-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-10T09:15:01+00:00",
-      "tickers": [
+        "GS",
         "MS"
       ]
     },
     {
-      "title": "BofA sees spending rise in all U.S. World Cup host cities",
-      "url": "https://www.investing.com/news/economy-news/bofa-sees-spending-rise-in-all-us-world-cup-host-cities-93CH-4785563",
-      "source": "investing.com",
-      "published": "2026-07-10T09:01:31+00:00",
+      "title": "JPMorgan Chase swells North Carolina foothold to 60 branches, 1,300 employees",
+      "url": "https://www.bizjournals.com/triangle/news/2026/07/10/jpmorgan-chase-north-carolina-branch-expansion.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-10T12:22:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Weir Group (LON:WEIR) Downgraded to Buy Rating by Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13500007/the-weir-group-lonweir-downgraded-to-buy-rating-by-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-10T12:12:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Hiscox (LON:HSX) Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13500006/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-hiscox-lonhsx-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-10T12:12:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Weir Group (LON:WEIR) Stock Rating Lowered by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/the-weir-group-lonweir-stock-rating-lowered-by-citigroup-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:12:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Hiscox (LON:HSX) Price Target Raised to GBX 2,050",
+      "url": "https://www.marketbeat.com/instant-alerts/hiscox-lonhsx-price-target-raised-to-gbx-2050-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:12:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Rio Tinto Group (LON:RIO) Price Target to GBX 8,250",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-rio-tinto-group-lonrio-price-target-to-gbx-8250-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:12:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Glencore (LON:GLEN) Price Target to GBX 520",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-glencore-longlen-price-target-to-gbx-520-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:12:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for BHP Group (LON:BHP) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-bhp-group-lonbhp-stock-price-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:12:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Anglo American (LON:AAL) Given New GBX 3,350 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/anglo-american-lonaal-given-new-gbx-3350-price-target-at-jpmorgan-chase-co-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:12:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "French banks: BofA upbeat ahead of quarterly results",
+      "url": "https://www.marketscreener.com/news/french-banks-bofa-upbeat-ahead-of-quarterly-results-ce7f5eded08ef321",
+      "source": "marketscreener.com",
+      "published": "2026-07-10T12:12:21+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "4 ETFs Built for Long-Term Investors to Buy and Hold Now",
-      "url": "https://www.fool.com/investing/2026/07/10/4-etfs-built-for-long-term-investors-to-buy-and-ho/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-10T09:00:00+00:00",
+      "title": "Bank of America Increases MSCI (NYSE:MSCI) Price Target to $730.00",
+      "url": "https://www.tickerreport.com/banking-finance/13499999/bank-of-america-increases-msci-nysemsci-price-target-to-730-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-10T12:07:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Initiates Coverage on Honeywell Aerospace (NASDAQ:HONA)",
+      "url": "https://www.tickerreport.com/banking-finance/13499995/jpmorgan-chase-co-initiates-coverage-on-honeywell-aerospace-nasdaqhona.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-10T12:07:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citi turns tactically bearish on sterling ahead of Burnham appointment",
-      "url": "https://www.investing.com/news/forex-news/citi-turns-tactically-bearish-on-sterling-ahead-of-burnham-appointment-93CH-4785555",
-      "source": "investing.com",
-      "published": "2026-07-10T08:57:52+00:00",
+      "title": "Las Vegas Sands (NYSE:LVS) Given New $73.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/las-vegas-sands-nyselvs-given-new-7300-price-target-at-citigroup-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T12:06:39+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "K.J. Harrison & Partners Inc Has $8.48 Million Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kj-harrison-partners-inc-has-848-million-holdings-in-jpmorgan-chase-co-jpm-2026-07-10/",
+      "title": "Bank of America Has Lowered Expectations for Procter & Gamble (NYSE:PG) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-has-lowered-expectations-for-procter-gamble-nysepg-stock-price-2026-07-10/",
       "source": "marketbeat.com",
-      "published": "2026-07-10T08:56:40+00:00",
+      "published": "2026-07-10T12:06:37+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM is Walter Public Investments Inc.'s 9th Largest Position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-is-walter-public-investments-incs-9th-largest-position-2026-07-10/",
+      "title": "Ryder System's (R) Neutral Rating Reaffirmed at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/ryder-systems-r-neutral-rating-reaffirmed-at-citigroup-2026-07-10/",
       "source": "marketbeat.com",
-      "published": "2026-07-10T08:56:40+00:00",
+      "published": "2026-07-10T12:06:36+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Steigerwald Gordon & Koch Inc. Has $35.26 Million Stock Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-steigerwald-gordon-koch-inc-has-3526-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-07-10/",
+      "title": "S&P Global (NYSE:SPGI) Price Target Cut to $550.00 by Analysts at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/sp-global-nysespgi-price-target-cut-to-55000-by-analysts-at-bank-of-america-2026-07-10/",
       "source": "marketbeat.com",
-      "published": "2026-07-10T08:56:39+00:00",
+      "published": "2026-07-10T12:06:35+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Stephens Inc. AR Has $125.06 Million Stock Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-stephens-inc-ar-has-12506-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-07-10/",
+      "title": "Truist Financial Begins Coverage on Travelers Companies (NYSE:TRV)",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-begins-coverage-on-travelers-companies-nysetrv-2026-07-10/",
       "source": "marketbeat.com",
-      "published": "2026-07-10T08:56:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Lee Danner & Bass Inc. Sells 3,375 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lee-danner-bass-inc-sells-3375-shares-of-jpmorgan-chase-co-jpm-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T08:56:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EasyJet Bidding War, JP Morgan AI Beats 60/40 Portfolio, More",
-      "url": "https://www.bloomberg.com/news/audio/2026-07-10/easyjet-bidding-war-jp-morgan-ai-beats-60-40-portfolio-more",
-      "source": "bloomberg.com",
-      "published": "2026-07-10T08:31:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Equitable Trust Co. Sells 20,789 Shares of Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-equitable-trust-co-sells-20789-shares-of-truist-financial-corporation-tfc-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T08:24:42+00:00",
+      "published": "2026-07-10T12:06:35+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Griffin Asset Management Inc. Sells 1,497 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-griffin-asset-management-inc-sells-1497-shares-of-the-goldman-sachs-group-inc-gs-2026-07-10/",
+      "title": "Citigroup Reiterates \"Neutral\" Rating for Liberty Global (NASDAQ:LILAK)",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-reiterates-neutral-rating-for-liberty-global-nasdaqlilak-2026-07-10/",
       "source": "marketbeat.com",
-      "published": "2026-07-10T08:08:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "7,424 Shares in Citigroup Inc. $C Acquired by Ibex Wealth Advisors",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-7424-shares-in-citigroup-inc-c-acquired-by-ibex-wealth-advisors-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T08:01:03+00:00",
+      "published": "2026-07-10T12:06:31+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Ibex Wealth Advisors Cuts Position in Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ibex-wealth-advisors-cuts-position-in-morgan-stanley-ms-2026-07-10/",
+      "title": "Melco Resorts & Entertainment (NASDAQ:MLCO) Given New $9.40 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/melco-resorts-entertainment-nasdaqmlco-given-new-940-price-target-at-citigroup-2026-07-10/",
       "source": "marketbeat.com",
-      "published": "2026-07-10T08:00:58+00:00",
+      "published": "2026-07-10T12:06:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup, SoFi and other financial giants ramp up hiring for 4,100+ jobs. What does that mean for Charlotte's talent pool?",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/07/10/financial-jobs-smbc-sofi-citigroup-capital-group.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-10T12:05:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase celebrates South End branch opening as growth milestone in Charlotte",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/07/10/jpmorgan-chase-celebrates-major-growth-milestone.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-10T12:03:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "TeraWulf seeks $3.5bn in funding for construction of data center for Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/terawulf-seeks-35bn-in-funding-for-construction-of-data-center-for-anthropic/",
+      "source": "datacenterdynamics.com",
+      "published": "2026-07-10T11:55:30+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Ibex Wealth Advisors Trims Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ibex-wealth-advisors-trims-position-in-the-goldman-sachs-group-inc-gs-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T08:00:57+00:00",
+      "title": "‘Staggering’: Goldman Sachs Says China’s Oil Demand May Never Fully Recover",
+      "url": "https://247wallst.com/investing/2026/07/10/staggering-goldman-sachs-says-chinas-oil-demand-may-never-fully-recover/",
+      "source": "247wallst.com",
+      "published": "2026-07-10T11:54:43+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Ibex Wealth Advisors Cuts Stock Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ibex-wealth-advisors-cuts-stock-holdings-in-capital-one-financial-corporation-cof-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T08:00:53+00:00",
+      "title": "Goldman Sachs sees ETF inflows surpassing $1T year to date as investors pile into equities",
+      "url": "https://cryptobriefing.com/goldman-sachs-etf-inflows-surpass-1-trillion/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-10T11:50:19+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "GS"
       ]
     },
     {
-      "title": "Capital One Urges Leaders to Listen Before They Launch",
-      "url": "https://www.pymnts.com/news/banking/2026/capital-one-urges-leaders-to-listen-before-they-launch/",
-      "source": "pymnts.com",
-      "published": "2026-07-10T08:00:47+00:00",
+      "title": "Inflation Is a Tailwind for European, Morgan Stanley Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/inflation-is-tailwind-for-europe-stocks-morgan-stanley-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-10T11:31:53+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "MS"
       ]
     },
     {
-      "title": "Jamie Dimon's JPMorgan Kicks Off Bank Earnings July 14. Here's the One Number to Watch.",
-      "url": "https://www.fool.com/investing/2026/07/10/jamie-dimons-jpmorgan-kicks-off-bank-earnings-july/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-10T07:58:00+00:00",
+      "title": "STX Upgraded by Wells Fargo -- Price Target Raised to $1100",
+      "url": "https://www.gurufocus.com/news/8953249/stx-upgraded-by-wells-fargo-price-target-raised-to-1100",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T11:31:48+00:00",
       "tickers": [
-        "JPM"
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "PEP Downgraded by Citigroup -- Price Target Lowered to $145",
+      "url": "https://www.gurufocus.com/news/8953256/pep-downgraded-by-citigroup-price-target-lowered-to-145",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T11:31:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "LAMR Downgraded by Citigroup -- Rating Changed to Neutral",
+      "url": "https://www.gurufocus.com/news/8953255/lamr-downgraded-by-citigroup-rating-changed-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T11:31:47+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
