@@ -1,281 +1,211 @@
 {
-  "last_updated": "2026-07-10T13:29:06.241857+00:00",
+  "last_updated": "2026-07-10T16:00:08.595652+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426019796/0001918704-26-019796-index.htm",
+      "title": "Union Pacific (NYSE:UNP) Price Target Raised to $304.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/union-pacific-nyseunp-price-target-raised-to-30400-at-jpmorgan-chase-co-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T15:18:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019829/0001918704-26-019829-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-10T13:00:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
-      "url": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-07-10T12:28:46+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase swells North Carolina foothold to 60 branches, 1,300 employees",
-      "url": "https://www.bizjournals.com/triangle/news/2026/07/10/jpmorgan-chase-north-carolina-branch-expansion.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-10T12:22:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Weir Group (LON:WEIR) Downgraded to Buy Rating by Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13500007/the-weir-group-lonweir-downgraded-to-buy-rating-by-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T12:12:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Hiscox (LON:HSX) Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13500006/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-hiscox-lonhsx-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T12:12:58+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Weir Group (LON:WEIR) Stock Rating Lowered by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/the-weir-group-lonweir-stock-rating-lowered-by-citigroup-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:12:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hiscox (LON:HSX) Price Target Raised to GBX 2,050",
-      "url": "https://www.marketbeat.com/instant-alerts/hiscox-lonhsx-price-target-raised-to-gbx-2050-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:12:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Rio Tinto Group (LON:RIO) Price Target to GBX 8,250",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-rio-tinto-group-lonrio-price-target-to-gbx-8250-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:12:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Glencore (LON:GLEN) Price Target to GBX 520",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-glencore-longlen-price-target-to-gbx-520-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:12:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for BHP Group (LON:BHP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-bhp-group-lonbhp-stock-price-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:12:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Anglo American (LON:AAL) Given New GBX 3,350 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/anglo-american-lonaal-given-new-gbx-3350-price-target-at-jpmorgan-chase-co-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:12:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "French banks: BofA upbeat ahead of quarterly results",
-      "url": "https://www.marketscreener.com/news/french-banks-bofa-upbeat-ahead-of-quarterly-results-ce7f5eded08ef321",
-      "source": "marketscreener.com",
-      "published": "2026-07-10T12:12:21+00:00",
+      "published": "2026-07-10T15:11:10+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Increases MSCI (NYSE:MSCI) Price Target to $730.00",
-      "url": "https://www.tickerreport.com/banking-finance/13499999/bank-of-america-increases-msci-nysemsci-price-target-to-730-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T12:07:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Initiates Coverage on Honeywell Aerospace (NASDAQ:HONA)",
-      "url": "https://www.tickerreport.com/banking-finance/13499995/jpmorgan-chase-co-initiates-coverage-on-honeywell-aerospace-nasdaqhona.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-10T12:07:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Las Vegas Sands (NYSE:LVS) Given New $73.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/las-vegas-sands-nyselvs-given-new-7300-price-target-at-citigroup-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Has Lowered Expectations for Procter & Gamble (NYSE:PG) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-has-lowered-expectations-for-procter-gamble-nysepg-stock-price-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ryder System's (R) Neutral Rating Reaffirmed at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/ryder-systems-r-neutral-rating-reaffirmed-at-citigroup-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "S&P Global (NYSE:SPGI) Price Target Cut to $550.00 by Analysts at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/sp-global-nysespgi-price-target-cut-to-55000-by-analysts-at-bank-of-america-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Begins Coverage on Travelers Companies (NYSE:TRV)",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-begins-coverage-on-travelers-companies-nysetrv-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Citigroup Reiterates \"Neutral\" Rating for Liberty Global (NASDAQ:LILAK)",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-reiterates-neutral-rating-for-liberty-global-nasdaqlilak-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Melco Resorts & Entertainment (NASDAQ:MLCO) Given New $9.40 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/melco-resorts-entertainment-nasdaqmlco-given-new-940-price-target-at-citigroup-2026-07-10/",
-      "source": "marketbeat.com",
-      "published": "2026-07-10T12:06:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup, SoFi and other financial giants ramp up hiring for 4,100+ jobs. What does that mean for Charlotte's talent pool?",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/07/10/financial-jobs-smbc-sofi-citigroup-capital-group.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-10T12:05:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase celebrates South End branch opening as growth milestone in Charlotte",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/07/10/jpmorgan-chase-celebrates-major-growth-milestone.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-10T12:03:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TeraWulf seeks $3.5bn in funding for construction of data center for Anthropic",
-      "url": "https://www.datacenterdynamics.com/en/news/terawulf-seeks-35bn-in-funding-for-construction-of-data-center-for-anthropic/",
-      "source": "datacenterdynamics.com",
-      "published": "2026-07-10T11:55:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "‘Staggering’: Goldman Sachs Says China’s Oil Demand May Never Fully Recover",
-      "url": "https://247wallst.com/investing/2026/07/10/staggering-goldman-sachs-says-chinas-oil-demand-may-never-fully-recover/",
-      "source": "247wallst.com",
-      "published": "2026-07-10T11:54:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees ETF inflows surpassing $1T year to date as investors pile into equities",
-      "url": "https://cryptobriefing.com/goldman-sachs-etf-inflows-surpass-1-trillion/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-10T11:50:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Inflation Is a Tailwind for European, Morgan Stanley Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/inflation-is-tailwind-for-europe-stocks-morgan-stanley-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-10T11:31:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "STX Upgraded by Wells Fargo -- Price Target Raised to $1100",
-      "url": "https://www.gurufocus.com/news/8953249/stx-upgraded-by-wells-fargo-price-target-raised-to-1100",
+      "title": "Micron Technology (MU) Poised for Growth in AI Chip Market, Says Bank of America",
+      "url": "https://www.gurufocus.com/news/8953620/micron-technology-mu-poised-for-growth-in-ai-chip-market-says-bank-of-america",
       "source": "gurufocus.com",
-      "published": "2026-07-10T11:31:48+00:00",
+      "published": "2026-07-10T15:10:39+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "RJF Maintained by Morgan Stanley -- Price Target Raised to $174",
+      "url": "https://www.gurufocus.com/news/8953618/rjf-maintained-by-morgan-stanley-price-target-raised-to-174",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T15:08:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Raises CocaCola (NYSE:KO) Price Target to $90.00",
+      "url": "https://www.tickerreport.com/banking-finance/13500094/jpmorgan-chase-co-raises-cocacola-nyseko-price-target-to-90-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-10T15:06:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for CocaCola (NYSE:KO) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-cocacola-nyseko-stock-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T15:06:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Ashland (NYSE:ASH) Price Target Raised to $75.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/ashland-nyseash-price-target-raised-to-7500-at-jpmorgan-chase-co-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T15:00:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo Upgrades Seagate Technology (STX) to Overweight, Raises Price Target",
+      "url": "https://www.gurufocus.com/news/8953569/wells-fargo-upgrades-seagate-technology-stx-to-overweight-raises-price-target",
+      "source": "gurufocus.com",
+      "published": "2026-07-10T14:58:28+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "PEP Downgraded by Citigroup -- Price Target Lowered to $145",
-      "url": "https://www.gurufocus.com/news/8953256/pep-downgraded-by-citigroup-price-target-lowered-to-145",
-      "source": "gurufocus.com",
-      "published": "2026-07-10T11:31:47+00:00",
+      "title": "Robinhood stock slides even as Morgan Stanley lifts target to $124",
+      "url": "https://crypto.news/robinhood-stock-slides-morgan-stanley-lifts-target/",
+      "source": "crypto.news",
+      "published": "2026-07-10T14:57:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019826/0001918704-26-019826-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T14:57:18+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "LAMR Downgraded by Citigroup -- Rating Changed to Neutral",
-      "url": "https://www.gurufocus.com/news/8953255/lamr-downgraded-by-citigroup-rating-changed-to-neutral",
+      "title": "Bank of America Highlights Strong Returns in Diversified Multi-Asset Strategy",
+      "url": "https://www.gurufocus.com/news/8953561/bank-of-america-highlights-strong-returns-in-diversified-multiasset-strategy",
       "source": "gurufocus.com",
-      "published": "2026-07-10T11:31:47+00:00",
+      "published": "2026-07-10T14:55:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial stock may move 3.2% on July 17 earnings report",
+      "url": "https://www.investing.com/news/stock-market-news/truist-financial-stock-may-move-32-on-july-17-earnings-report-93CH-4786483",
+      "source": "investing.com",
+      "published": "2026-07-10T14:52:48+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034160/0001839882-26-034160-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T14:50:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wall Street banks rule on staff betting on prediction markets, sources say",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-banks-rule-on-staff-betting-on-prediction-markets-sources-say/articleshow/132314792.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-10T14:50:22+00:00",
+      "tickers": [
+        "JPM",
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019822/0001918704-26-019822-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-10T14:49:10+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Aptiv (NYSE:APTV) Price Target Cut to $75.00 by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/aptiv-nyseaptv-price-target-cut-to-7500-by-analysts-at-jpmorgan-chase-co-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T14:48:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Lear (NYSE:LEA) Price Target to $159.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-lear-nyselea-price-target-to-15900-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T14:48:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Watsco (NYSE:WSO) Price Target Raised to $405.00 at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/watsco-nysewso-price-target-raised-to-40500-at-morgan-stanley-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T14:48:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Coca-Cola, back near its highs, bubbling on BofA optimism",
+      "url": "https://www.marketscreener.com/news/coca-cola-back-near-its-highs-bubbling-on-bofa-optimism-ce7f5edfd889ff20",
+      "source": "marketscreener.com",
+      "published": "2026-07-10T14:37:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rocket Lab’s Stock Drop Comes With a Bullish Twist",
+      "url": "https://www.marketbeat.com/articles/rocket-labs-stock-drop-comes-with-a-bullish-twist/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T14:35:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Imposter Scam Wipes Out Florida Man’s Entire Life Savings of $251,300: Report",
+      "url": "https://dailyhodl.com/2026/07/10/wells-fargo-imposter-scam-wipes-out-florida-mans-entire-life-savings-of-251300-report/",
+      "source": "dailyhodl.com",
+      "published": "2026-07-10T14:30:18+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Robinhood Markets (NASDAQ:HOOD) Price Target Raised to $124.00",
+      "url": "https://www.marketbeat.com/instant-alerts/robinhood-markets-nasdaqhood-price-target-raised-to-12400-2026-07-10/",
+      "source": "marketbeat.com",
+      "published": "2026-07-10T14:24:21+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
