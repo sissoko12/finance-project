@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-07-11T13:42:49.813433+00:00",
+  "last_updated": "2026-07-11T15:02:24.273726+00:00",
   "headlines": [
+    {
+      "title": "Bank Of America Reportedly Reverses Course And Extends $520 Million Credit Line To OpenAI",
+      "url": "https://pulse2.com/bank-of-america-reportedly-reverses-course-and-extends-520-million-credit-line-to-openai/",
+      "source": "pulse2.com",
+      "published": "2026-07-11T14:07:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Integrated Advisors Network LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-integrated-advisors-network-llc-2026-07-11/",
+      "source": "marketbeat.com",
+      "published": "2026-07-11T14:00:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Bought by Kathmere Capital Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-kathmere-capital-management-llc-2026-07-11/",
+      "source": "marketbeat.com",
+      "published": "2026-07-11T14:00:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Crypto meets competitive gaming as Wolves Esports ties Bilibili Gaming in VCT China Stage 2",
+      "url": "https://cryptobriefing.com/wolves-esports-bilibili-gaming-crypto-vct-china/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-11T13:56:53+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
     {
       "title": "Candriam S.C.A. Has $62.85 Million Position in Bank of America Corporation $BAC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-candriam-sca-has-6285-million-position-in-bank-of-america-corporation-bac-2026-07-11/",
@@ -31,6 +68,16 @@
       ]
     },
     {
+      "title": "Looking for another credit card option with a high limit. Suggestions are appreciated.",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1utjtxl/looking_for_another_credit_card_option_with_a/",
+      "source": "reddit.com",
+      "published": "2026-07-11T13:14:38+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
       "title": "U.S. Bancorp $USB Shares Bought by Conning Inc.",
       "url": "https://www.marketbeat.com/instant-alerts/filing-us-bancorp-usb-shares-bought-by-conning-inc-2026-07-11/",
       "source": "marketbeat.com",
@@ -56,6 +103,24 @@
       "published": "2026-07-11T13:12:58+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Says $1 Trillion in Hyperscaler Capex Is Coming — and Consensus Is Still Too Low",
+      "url": "https://fourweekmba.com/ai-goldman-sachs-hyperscaler-capex-trillion-ai-supercycle/?utm_source=rss&utm_medium=rss&utm_campaign=ai-goldman-sachs-hyperscaler-capex-trillion-ai-supercycle",
+      "source": "fourweekmba.com",
+      "published": "2026-07-11T13:06:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Stocks Priced for ‘Sunshine and Rainbows’ Now Face Earnings Test",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test",
+      "source": "bloomberg.com",
+      "published": "2026-07-11T13:00:01+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -211,71 +276,6 @@
       "published": "2026-07-11T04:10:38+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Just Made 4 Bold Calls: 2 Sells, 1 Buy, and a $2,159 Price Target On This Popular Stock",
-      "url": "https://247wallst.com/investing/2026/07/11/goldman-sachs-just-made-4-bold-calls-2-sells-1-buy-and-a-2159-price-target-on-this-popular-stock/",
-      "source": "247wallst.com",
-      "published": "2026-07-11T04:02:16+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Mar 31, 2025; Washington, District of Columbia, USA; Miami Heat guard Tyler Herro (14) and center Bam Adebayo (13) react during the third quarter against the Washington Wizards at Capital One Arena. Mandatory Credit: Reggie Hildred-Imagn Images",
-      "url": "https://fremonttribune.com/image_0fec7dd0-6073-5f32-ba2e-c065cda5c2d3.html",
-      "source": "fremonttribune.com",
-      "published": "2026-07-11T01:34:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "A Look at Morgan Stanley (MS) After 0.1% Gain -- GF Value $151.93 vs Price $222.28",
-      "url": "https://www.gurufocus.com/news/8954343/a-look-at-morgan-stanley-ms-after-01-gain-gf-value-15193-vs-price-22228",
-      "source": "gurufocus.com",
-      "published": "2026-07-11T01:31:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Targets Ethereum and Solana ETF Market Share Amid Intensifying Fee Competition",
-      "url": "https://news.bitcoin.com/morgan-stanley-targets-ethereum-and-solana-etf-market-share-amid-intensifying-fee-competition/",
-      "source": "bitcoin.com",
-      "published": "2026-07-11T01:30:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "A Look at Bank of America Corp (BAC) After 0.7% Gain -- GF Value $49.95 vs Price $59.67",
-      "url": "https://www.gurufocus.com/news/8954337/a-look-at-bank-of-america-corp-bac-after-07-gain-gf-value-4995-vs-price-5967",
-      "source": "gurufocus.com",
-      "published": "2026-07-11T01:25:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Is JPMorgan Chase & Co (JPM) Overvalued After 0.3% Rally? GF Value Says Overvalued",
-      "url": "https://www.gurufocus.com/news/8954328/is-jpmorgan-chase-co-jpm-overvalued-after-03-rally-gf-value-says-overvalued",
-      "source": "gurufocus.com",
-      "published": "2026-07-11T01:16:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Eric Costello & Who Owns Slack in 2026",
-      "url": "https://fourweekmba.com/who-owns-slack/?utm_source=rss&utm_medium=rss&utm_campaign=who-owns-slack",
-      "source": "fourweekmba.com",
-      "published": "2026-07-11T01:03:30+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
