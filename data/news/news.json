@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-11T10:01:17.703819+00:00",
+  "last_updated": "2026-07-11T11:32:16.336452+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs warns the US will bear the brunt of a global AI-induced inflation surge",
+      "url": "https://www.businessinsider.com/us-inflation-outlook-economy-ai-memory-software-prices-goldman-sachs-2026-7",
+      "source": "businessinsider.com",
+      "published": "2026-07-11T09:10:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "The K-Shaped Economy Revisited: The Hidden Divide Behind America's Resilient Consumer",
       "url": "https://thepeopleseconomist.substack.com/p/the-k-shaped-economy-revisited-the",
@@ -91,6 +100,15 @@
       "published": "2026-07-11T01:03:30+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Asian Funds Chase AI’s Hard Assets as Doubts Mount Over Bubble Risks",
+      "url": "https://www.webpronews.com/asian-funds-chase-ais-hard-assets-as-doubts-mount-over-bubble-risks/",
+      "source": "webpronews.com",
+      "published": "2026-07-11T01:02:06+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -231,16 +249,6 @@
       "tickers": [
         "C",
         "SCHW"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226034271/0001839882-26-034271-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-10T20:58:06+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
