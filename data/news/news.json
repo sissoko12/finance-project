@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-07-11T22:25:38.526388+00:00",
+  "last_updated": "2026-07-11T23:30:33.188402+00:00",
   "headlines": [
+    {
+      "title": "Purchased a vehicle about 3 weeks ago. New lender is Capital One but",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1utuza2/purchased_a_vehicle_about_3_weeks_ago_new_lender/",
+      "source": "reddit.com",
+      "published": "2026-07-11T20:36:30+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
       "url": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html?.tsrc=rss",
@@ -275,15 +285,6 @@
       "published": "2026-07-11T14:00:52+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Crypto meets competitive gaming as Wolves Esports ties Bilibili Gaming in VCT China Stage 2",
-      "url": "https://cryptobriefing.com/wolves-esports-bilibili-gaming-crypto-vct-china/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-11T13:56:53+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
