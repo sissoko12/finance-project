@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-11T21:24:49.424409+00:00",
+  "last_updated": "2026-07-11T22:25:38.526388+00:00",
   "headlines": [
+    {
+      "title": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-11T20:10:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
+      "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-11T20:05:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Digital Bank Revolut Focuses on European Business Operations with Key Appointment",
       "url": "https://www.crowdfundinsider.com/2026/07/291032-digital-bank-revolut-focuses-on-european-business-operations-with-key-appointment/",
@@ -8,6 +26,15 @@
       "published": "2026-07-11T19:41:33+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley drops timely Honeywell stock opinion",
+      "url": "https://www.thestreet.com/investing/stocks/hona-honeywell-aerospace-stock-rating-morgan-stanley?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-11T19:37:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -82,6 +109,15 @@
       "published": "2026-07-11T16:42:46+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley says stock market rally faces $1.2 trillion question",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-says-stock-market-rally-faces-1-2-trillion-question?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-11T16:03:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -195,6 +231,15 @@
       ]
     },
     {
+      "title": "Why More Retirees Are Replacing 40% Bond Allocations With Dividend Stocks",
+      "url": "https://247wallst.com/personal-finance/2026/07/11/why-more-retirees-are-replacing-40-bond-allocations-with-dividend-stocks/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-07-11T14:40:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "BofA names South Korea, UAE among top AI contenders beyond U.S. and China",
       "url": "https://www.investing.com/news/stock-market-news/bofa-names-south-korea-uae-among-top-ai-contenders-beyond-us-and-china-4787282",
       "source": "investing.com",
@@ -239,53 +284,6 @@
       "published": "2026-07-11T13:56:53+00:00",
       "tickers": [
         "USB"
-      ]
-    },
-    {
-      "title": "Citi Highlights MongoDB (MDB) as Key Player in AI Spending Surge",
-      "url": "https://www.gurufocus.com/news/8954641/citi-highlights-mongodb-mdb-as-key-player-in-ai-spending-surge",
-      "source": "gurufocus.com",
-      "published": "2026-07-11T13:55:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Werner Enterprises (NASDAQ:WERN) Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13500556/citigroup-forecasts-strong-price-appreciation-for-werner-enterprises-nasdaqwern-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-11T13:27:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Candriam S.C.A. Has $62.85 Million Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-candriam-sca-has-6285-million-position-in-bank-of-america-corporation-bac-2026-07-11/",
-      "source": "marketbeat.com",
-      "published": "2026-07-11T13:20:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Candriam S.C.A. Raises Stock Holdings in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-candriam-sca-raises-stock-holdings-in-the-charles-schwab-corporation-schw-2026-07-11/",
-      "source": "marketbeat.com",
-      "published": "2026-07-11T13:20:42+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Purchased by Candriam S.C.A.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-purchased-by-candriam-sca-2026-07-11/",
-      "source": "marketbeat.com",
-      "published": "2026-07-11T13:20:41+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
