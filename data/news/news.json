@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-07-12T09:08:19.958685+00:00",
+  "last_updated": "2026-07-12T10:56:02.213126+00:00",
   "headlines": [
+    {
+      "title": "AI Is Now Load-Bearing for the US Economy — Bloomberg, Morgan Stanley, and Bridgewater Agree",
+      "url": "https://fourweekmba.com/ai-ai-gdp-load-bearing-us-economy-bloomberg-morgan-stanley-brid/?utm_source=rss&utm_medium=rss&utm_campaign=ai-ai-gdp-load-bearing-us-economy-bloomberg-morgan-stanley-brid",
+      "source": "fourweekmba.com",
+      "published": "2026-07-12T09:45:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "From Satya Nadella to David Solomon: Five CEOs who accepted pay cuts despite no personal fault",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/from-satya-nadella-to-david-solomon-five-ceos-who-accepted-pay-cuts-despite-no-personal-fault/articleshow/132343170.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-12T09:39:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Hidden Edge: Nine Years Of Market Outperformance From Forensic Value Investing | $VIRT $UWMC $WFC $CPSH $CRUS",
+      "url": "https://seekingalpha.com/article/4921406-the-hidden-edge-nine-years-of-market-outperformance-from-forensic-value-investing",
+      "source": "seekingalpha.com",
+      "published": "2026-07-12T08:56:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology",
+      "url": "https://cryptobriefing.com/dimon-warns-ai-cybersecurity-threats-anthropic/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-12T08:34:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Pay for Raymond James full(er) service, or stick with ETFs at Morgan Stanley?",
       "url": "https://www.reddit.com/r/personalfinance/comments/1uu53mj/pay_for_raymond_james_fuller_service_or_stick/",
@@ -102,6 +139,16 @@
       ]
     },
     {
+      "title": "Bank of America’s AI Paradox: Billions Spent, Tiny Gains Today, 10x Promise Tomorrow",
+      "url": "https://www.webpronews.com/bank-of-americas-ai-paradox-billions-spent-tiny-gains-today-10x-promise-tomorrow/",
+      "source": "webpronews.com",
+      "published": "2026-07-11T18:22:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Which is Best for Investors: Healthcare Stability (XLV) or Biotech Growth (IBBQ)?",
       "url": "https://www.fool.com/coverage/etfs/2026/07/11/which-is-best-for-investors-healthcare-stability-xlv-or-biotech-growth-ibbq/?source=iedfolrf0000001",
       "source": "fool.com",
@@ -136,16 +183,6 @@
       "tickers": [
         "JPM",
         "C"
-      ]
-    },
-    {
-      "title": "Kestra Advisory Services LLC Has $28.01 Million Stock Holdings in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13501025/kestra-advisory-services-llc-has-28-01-million-stock-holdings-in-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-11T16:50:58+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     },
     {
@@ -242,47 +279,6 @@
       "published": "2026-07-11T15:05:07+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Sequoia Financial Advisors LLC Sells 16,001 Shares of The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sequoia-financial-advisors-llc-sells-16001-shares-of-the-charles-schwab-corporation-schw-2026-07-11/",
-      "source": "marketbeat.com",
-      "published": "2026-07-11T15:04:40+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Banking Heavyweights To Kick Off Earnings Next Week | $FAST $JPM $BAC $GS $WFC",
-      "url": "https://seekingalpha.com/article/4921238-banking-heavyweights-to-kick-off-earnings-next-week",
-      "source": "seekingalpha.com",
-      "published": "2026-07-11T15:00:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Barclays and Morgan Stanley raise Robinhood price target by up to 50% as crypto bet pays off",
-      "url": "https://cryptobriefing.com/barclays-morgan-stanley-raise-robinhood-price-target/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-11T14:51:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Why More Retirees Are Replacing 40% Bond Allocations With Dividend Stocks",
-      "url": "https://247wallst.com/personal-finance/2026/07/11/why-more-retirees-are-replacing-40-bond-allocations-with-dividend-stocks/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-07-11T14:40:32+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
