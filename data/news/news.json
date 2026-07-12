@@ -1,6 +1,122 @@
 {
-  "last_updated": "2026-07-12T17:07:56.181231+00:00",
+  "last_updated": "2026-07-12T18:29:31.542116+00:00",
   "headlines": [
+    {
+      "title": "Welch & Forbes LLC Cuts Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-welch-forbes-llc-cuts-position-in-bank-of-america-corporation-bac-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T18:00:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WealthPLAN Partners LLC Sells 3,413 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthplan-partners-llc-sells-3413-shares-of-jpmorgan-chase-co-jpm-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T18:00:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "LGT Fund Management Co Ltd. Acquires 62,764 Shares of Wells Fargo & Company $WFC",
+      "url": "https://www.tickerreport.com/banking-finance/13501719/lgt-fund-management-co-ltd-acquires-62764-shares-of-wells-fargo-company-wfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-12T17:54:59+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Pinterest (NYSE:PINS) Rating Increased to Buy at Wall Street Zen",
+      "url": "https://www.tickerreport.com/banking-finance/13501646/pinterest-nysepins-rating-increased-to-buy-at-wall-street-zen.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-12T17:31:08+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Holdings Raised by UNIVEST FINANCIAL Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-holdings-raised-by-univest-financial-corp-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T17:21:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Charles Schwab Corporation $SCHW Stock Holdings Trimmed by UNIVEST FINANCIAL Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-holdings-trimmed-by-univest-financial-corp-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T17:21:04+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "The Charles Schwab Corporation $SCHW Shares Sold by Seneca House Advisors",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-sold-by-seneca-house-advisors-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T17:20:48+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Midwest Trust Co Purchases 14,780 Shares of Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-midwest-trust-co-purchases-14780-shares-of-morgan-stanley-ms-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T17:12:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Midwest Trust Co Has $55.31 Million Stock Holdings in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-midwest-trust-co-has-5531-million-stock-holdings-in-the-pnc-financial-services-group-inc-pnc-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T17:12:45+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Sovran Advisors LLC Grows Stock Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sovran-advisors-llc-grows-stock-position-in-the-goldman-sachs-group-inc-gs-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T17:12:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GALLERY: BOA opens latest steakhouse in Napa",
+      "url": "https://napavalleyregister.com/news/gallery-boa-opens-latest-steakhouse-in-napa/collection_7cf94813-0b0c-41bb-a95d-4fdbd61ca079.html",
+      "source": "napavalleyregister.com",
+      "published": "2026-07-12T16:45:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "What Is the State Street SPDR Portfolio Developed World ex-US ETF, and Who Should Buy It?",
+      "url": "https://www.fool.com/investing/2026/07/12/what-is-the-state-street-spdr-portfolio-developed/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-12T16:37:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Wall Street Brunch: Will AI Steal Earnings Spotlight From Banks? | $TSM $ASML $C $NFLX $GS",
       "url": "https://seekingalpha.com/article/4921442-wall-street-brunch-will-ai-steal-earnings-spotlight-from-banks",
@@ -8,6 +124,15 @@
       "published": "2026-07-12T16:35:00+00:00",
       "tickers": [
         "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology",
+      "url": "https://247wallst.com/investing/2026/07/12/goldman-sachs-insane-spacex-ai-forecast-has-one-clear-winner-micron-technology/",
+      "source": "247wallst.com",
+      "published": "2026-07-12T16:26:22+00:00",
+      "tickers": [
         "GS"
       ]
     },
@@ -158,135 +283,6 @@
       "url": "https://www.gurufocus.com/news/8954679/morgan-stanley-reiterates-buy-rating-for-nvidia-nvda-with-288-target-price",
       "source": "gurufocus.com",
       "published": "2026-07-12T14:01:14+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Earnings week ahead: JPM, C, BAC, WFC, MS, UNH, JNJ, ABT, UAL, GS, TSM, and more | $NFLX $BAC $JPM $GS $C",
-      "url": "https://seekingalpha.com/news/4612883-earnings-week-ahead-jpm-c-bac-wfc-ms-unh-jnj-abt-ual-gs-tsm-and-more",
-      "source": "seekingalpha.com",
-      "published": "2026-07-12T13:33:02+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Which companies reporting earnings this week show the strongest bullish signals? | $NFLX $GE $BAC $JPM $JNJ",
-      "url": "https://seekingalpha.com/news/4612648-which-companies-reporting-earnings-this-week-show-the-strongest-bullish-signals",
-      "source": "seekingalpha.com",
-      "published": "2026-07-12T13:30:43+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Financial Advice to keep growth",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuf10b/financial_advice_to_keep_growth/",
-      "source": "reddit.com",
-      "published": "2026-07-12T13:07:49+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Western Digital (NASDAQ:WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions",
-      "url": "https://www.insidermonkey.com/blog/why-western-digital-nasdaqwdc-is-benefiting-from-ai-driven-storage-demand-and-tight-hdd-supply-conditions-1800210/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-12T12:31:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures-loom-amid.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-12T12:23:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs releases competitive framework for Chinese AI models, signaling major shift in global tech race",
-      "url": "https://cryptobriefing.com/goldman-sachs-chinese-ai-models-framework/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-12T12:20:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "I’m Paying $0 For A Chauffeur To Meet My Family At Baggage Claim And Skip The Airport Uber Lot",
-      "url": "https://viewfromthewing.com/im-paying-0-for-a-chauffeur-to-meet-my-family-at-baggage-claim-and-skip-the-airport-uber-lot/",
-      "source": "viewfromthewing.com",
-      "published": "2026-07-12T12:04:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs picks its favorite Chinese AI models",
-      "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
-      "source": "cnbc.com",
-      "published": "2026-07-12T12:03:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Texas Man Allegedly Drains $23,500 From Wells Fargo Account of Hatfield Township Resident",
-      "url": "https://dailyhodl.com/2026/07/12/texas-man-allegedly-drains-23500-from-wells-fargo-account-of-hatfield-township-resident/",
-      "source": "dailyhodl.com",
-      "published": "2026-07-12T11:45:19+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell Without Losing Them?",
-      "url": "https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover-cards-to-it/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-12T11:15:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Warns of \"Chipflation\" as Hyperscalers Invest More in Compute Capacity: 2 No-Brainer Artificial Intelligence (AI) Chip Stocks to Buy Right Now",
-      "url": "https://www.fool.com/investing/2026/07/12/chipflation/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-12T11:14:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wall Street Week Ahead | $JPM $GS $BAC $C $WFC",
-      "url": "https://seekingalpha.com/article/4921418-wall-street-week-ahead",
-      "source": "seekingalpha.com",
-      "published": "2026-07-12T10:36:48+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (MS) Stock Looks Above Fair Value Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stock-looks-100634841.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-12T10:06:34+00:00",
       "tickers": [
         "MS"
       ]
