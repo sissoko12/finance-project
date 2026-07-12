@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-07-11T23:30:33.188402+00:00",
+  "last_updated": "2026-07-12T03:38:12.520290+00:00",
   "headlines": [
+    {
+      "title": "Who Owns Netflix in 2026? (It’s Not Elon Musk)",
+      "url": "https://fourweekmba.com/who-owns-netflix/?utm_source=rss&utm_medium=rss&utm_campaign=who-owns-netflix",
+      "source": "fourweekmba.com",
+      "published": "2026-07-12T01:02:17+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Guggenheim AI Survey: Adoption Surging At Large IT Enterprises As Mass Layoff Fears Fall Flat",
+      "url": "https://awesomecapital.blogspot.com/2026/07/guggenheim-ai-survey-adoption-surging.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-07-12T00:30:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Everyday Banking at Morgan Stanley",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uu0b7r/everyday_banking_at_morgan_stanley/",
+      "source": "reddit.com",
+      "published": "2026-07-12T00:25:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Purchased a vehicle about 3 weeks ago. New lender is Capital One but",
       "url": "https://www.reddit.com/r/personalfinance/comments/1utuza2/purchased_a_vehicle_about_3_weeks_ago_new_lender/",
@@ -257,34 +284,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank Of America Reportedly Reverses Course And Extends $520 Million Credit Line To OpenAI",
-      "url": "https://pulse2.com/bank-of-america-reportedly-reverses-course-and-extends-520-million-credit-line-to-openai/",
-      "source": "pulse2.com",
-      "published": "2026-07-11T14:07:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Integrated Advisors Network LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-integrated-advisors-network-llc-2026-07-11/",
-      "source": "marketbeat.com",
-      "published": "2026-07-11T14:00:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Bought by Kathmere Capital Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-kathmere-capital-management-llc-2026-07-11/",
-      "source": "marketbeat.com",
-      "published": "2026-07-11T14:00:52+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
