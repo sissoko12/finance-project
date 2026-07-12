@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-07-12T19:44:41.900901+00:00",
+  "last_updated": "2026-07-12T20:59:58.977227+00:00",
   "headlines": [
+    {
+      "title": "Capital One Financial Corporation (NYSE:COF) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-corporation-nysecof-given-consensus-recommendation-of-moderate-buy-by-brokerages-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T20:29:30+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Truist Financial Corporation (NYSE:TFC) Receives Average Recommendation of \"Hold\" from Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-corporation-nysetfc-receives-average-recommendation-of-hold-from-analysts-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T20:29:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Strategies Fund (NYSE:DHF) Shares Cross Below Fifty Day Moving Average – Here’s Why",
+      "url": "https://www.tickerreport.com/banking-finance/13501885/bny-mellon-high-yield-strategies-fund-nysedhf-shares-cross-below-fifty-day-moving-average-heres-why.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-12T19:41:01+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Why Citigroup is the one to watch when banks report earnings this week",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=6509e3b1-dbb8-4c4b-88aa-43950d1668ea&mod=mw_rss_bulletins",
+      "source": "marketwatch.com",
+      "published": "2026-07-12T18:51:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Welch & Forbes LLC Cuts Position in Bank of America Corporation $BAC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-welch-forbes-llc-cuts-position-in-bank-of-america-corporation-bac-2026-07-12/",
@@ -247,43 +285,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Upcoming Earnings Season Highlights Major Players Like JPMorgan Chase (JPM)",
-      "url": "https://www.gurufocus.com/news/8954680/upcoming-earnings-season-highlights-major-players-like-jpmorgan-chase-jpm",
-      "source": "gurufocus.com",
-      "published": "2026-07-12T14:55:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "American Trust Purchases 22,849 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13501320/american-trust-purchases-22849-shares-of-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-12T14:49:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs flags Fed rate outlook as key risk for U.S. stocks ahead of CPI",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-fed-rate-outlook-as-key-risk-for-us-stocks-ahead-of-cpi-4787366",
-      "source": "investing.com",
-      "published": "2026-07-12T14:01:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Reiterates Buy Rating for NVIDIA (NVDA) with $288 Target Price",
-      "url": "https://www.gurufocus.com/news/8954679/morgan-stanley-reiterates-buy-rating-for-nvidia-nvda-with-288-target-price",
-      "source": "gurufocus.com",
-      "published": "2026-07-12T14:01:14+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
