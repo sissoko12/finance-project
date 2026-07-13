@@ -330,19 +330,28 @@
     background:var(--panel);border-bottom:1px solid var(--border);}
 #view-screener .plot-controls select {border:1px solid var(--border);border-radius:6px;padding:5px 8px;font-size:12px;}
 #view-screener .plot-controls label {display:flex;align-items:center;gap:5px;font-size:12px;cursor:pointer;}
-#view-screener .canvas-wrap {position:relative;padding:12px 16px;}
+#view-screener .canvas-wrap {position:relative;padding:12px 16px;height:520px;}
+#view-screener #anaCanvas {display:block;width:100%;height:100%;}
 #view-screener canvas {background:#fff;border:1px solid var(--border);border-radius:8px;}
 #view-screener #plotTip,
 #view-screener #anaTip {position:fixed;display:none;background:#1a1f2e;color:#fff;padding:6px 9px;border-radius:6px;
     font-size:11px;pointer-events:none;z-index:800;line-height:1.4;box-shadow:0 4px 12px rgba(0,0,0,.3);}
-#view-screener .ana {display:flex;height:100%;overflow:hidden;}
-#view-screener .ana-left {flex:1;display:flex;flex-direction:column;overflow:auto;}
-#view-screener .stat-cards {display:grid;grid-template-columns:repeat(5,1fr);gap:8px;padding:12px 16px;}
-#view-screener .stat-card {background:#fff;border:1px solid var(--border);border-radius:8px;padding:10px;}
-#view-screener .stat-card .t {font-size:10px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);font-weight:700;}
-#view-screener .stat-card .v {font-size:18px;font-weight:700;margin-top:4px;}
-#view-screener .stat-card .m {font-size:11px;color:var(--muted);margin-top:2px;}
-#view-screener .ana-right {width:400px;min-width:400px;border-left:1px solid var(--border);overflow-y:auto;background:#fff;}
+#view-screener .ana {display:flex;flex-direction:column;height:100%;overflow-y:auto;overflow-x:hidden;}
+#view-screener .ana-left {display:flex;flex-direction:column;}
+#view-screener .snap-pick {display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted);margin-left:16px;white-space:nowrap;}
+#view-screener .snap-pick select {border:1px solid var(--border);border-radius:6px;padding:4px 8px;font-size:12px;background:#fff;color:var(--text);cursor:pointer;}
+#view-screener .snap-viewing {font-size:12px;font-weight:600;margin-left:10px;white-space:nowrap;}
+#view-screener .snap-viewing.live {color:#16a34a;}
+#view-screener .snap-viewing.hist {color:#b45309;}
+#view-screener .stat-cards {display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;padding:12px 16px;}
+#view-screener .stat-card {background:#fff;border:1px solid var(--border);border-radius:8px;padding:10px 12px;}
+#view-screener .stat-card .t {font-size:10px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);font-weight:700;margin-bottom:5px;}
+#view-screener .stat-card .row {display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:12px;line-height:1.55;}
+#view-screener .stat-card .row .k {color:var(--muted);}
+#view-screener .stat-card .row .val {font-weight:700;font-size:14px;}
+#view-screener .stat-card .n {margin-top:6px;padding-top:5px;border-top:1px solid var(--border);font-size:11px;font-weight:700;color:#475569;}
+#view-screener .stat-card .n.small {color:#b45309;}
+#view-screener .ana-right {width:100%;max-height:250px;border-top:1px solid var(--border);overflow-y:auto;background:#fff;}
 #view-screener .ana-right table {width:100%;border-collapse:collapse;font-size:11px;}
 #view-screener .ana-right th,
 #view-screener .ana-right td {padding:5px 8px;text-align:right;border-bottom:1px solid var(--border);white-space:nowrap;}
@@ -379,6 +388,18 @@
     border:1px solid var(--border); border-radius:10px; overflow:hidden; }
   #view-screener .sidebar, #view-screener .main{ height:100%; }
   #view-screener .banner{ margin:0 0 14px; border-radius:8px; }
+
+  /* Screener full-bleed — ONLY while its tab is active (body.screener-full is toggled
+     on tab click). Other tabs keep the centered max-width:1320px <main>. Body becomes
+     a viewport-tall flex column so <main> fills all space under the header/nav with no
+     hardcoded height. Higher specificity than `main{max-width:1320px}` and
+     `#view-screener .app{...}`, so these overrides win (neither base rule uses !important). */
+  body.screener-full { display:flex; flex-direction:column; height:100vh; overflow:hidden; }
+  body.screener-full > main { flex:1 1 auto; min-height:0; max-width:none; margin:0; padding:0; overflow:hidden; }
+  body.screener-full > footer { display:none; }
+  body.screener-full #view-screener,
+  body.screener-full #view-screener .app { height:100%; }
+  body.screener-full #view-screener .app { border:none; border-radius:0; min-height:0; }
 </style>
 </head>
 <body>
@@ -439,6 +460,9 @@
   </section>
 
   <section id="view-risk" class="view" style="display:none">
+    <div class="tabs" id="riskTabs"></div>
+
+    <div id="risk-sub-portfolio">
     <p class="risk-intro">
       Liquidity <b>runway</b> and <b>synthetic credit</b> for the S&amp;P 500, from the latest annual (10-K) filing per company.
       <b>Burn mode</b> (<span class="pill mode-burn">burn</span>) measures months of liquid assets against a company's actual negative operating cash flow.
@@ -481,6 +505,22 @@
         <p class="note">These companies lack the tags needed to compute a runway (e.g. banks/utilities/REITs that don't file COGS/OpEx/SG&amp;A, or firms with no cash tag). Listed for auditability — not mixed into the ranked table above.</p>
         <div class="table-scroll"><table id="insufficientTable"></table></div>
       </details>
+    </div>
+    </div><!-- /risk-sub-portfolio -->
+
+    <div id="risk-sub-history" style="display:none">
+      <div class="panel">
+        <h3>Interest coverage <span class="muted" style="font-weight:400;font-size:12px;">(EBIT ÷ interest, ×)</span>
+          <span id="rcHistCo" class="muted" style="font-weight:400;font-size:12px;"></span></h3>
+        <div class="risk-filters" style="margin:6px 0 12px">
+          <input id="covSearch" list="covSearchList" placeholder="Search ticker or company…" autocomplete="off" />
+          <datalist id="covSearchList"></datalist>
+        </div>
+        <p class="note">EBIT ÷ interest expense per fiscal year, from the annual (10-K) history.
+          Banks/financials reconstruct EBIT as (pre-tax income + interest expense) when
+          <code>OperatingIncomeLoss</code> isn't tagged. Years with no tagged interest expense are shown as gaps.</p>
+        <div class="chart-wrap"><canvas id="covHistChart"></canvas></div>
+      </div>
     </div>
   </section>
 
@@ -556,6 +596,10 @@
   <div class="main">
     <div class="toolbar">
       <div class="count"><b id="fCount">0</b> of <span id="tCount">0</span> companies</div>
+      <label class="snap-pick">Snapshot:
+        <select id="snapSel"><option value="latest">Latest (live)</option></select>
+      </label>
+      <span id="snapViewing" class="snap-viewing"></span>
       <div class="spacer"></div>
       <button class="tbtn" id="heatBtn">Heatmap</button>
       <button class="tbtn" id="pctBtn">% Percentile</button>
@@ -916,6 +960,11 @@ async function selectCompany(ticker) {
   renderChart();
   renderTable();
   if (metricMenu.style.display === "block") buildMetricMenu(metricSearch.value);
+
+  // Keep the Risk > Coverage History trend in sync with the selected company.
+  currentTicker = ticker;
+  if (document.getElementById("view-risk").style.display !== "none" && activeRiskSub === "history")
+    renderCoverageHistory();
 }
 
 function renderMeta(c) {
@@ -1170,13 +1219,17 @@ document.querySelectorAll(".navtab").forEach(btn => btn.addEventListener("click"
   const v = btn.dataset.view;
   ["analytics", "financials", "risk", "screener"].forEach(name =>
     document.getElementById("view-" + name).style.display = v === name ? "" : "none");
+  // Screener goes full-bleed; every other tab keeps the centered max-width layout.
+  document.body.classList.toggle("screener-full", v === "screener");
   // Risk and Screener are whole-market views, not tied to the selected company.
   document.getElementById("company-meta").style.display =
     (v === "risk" || v === "screener") ? "none" : "";
   if (v === "analytics" && chart) chart.resize();
   if (v === "risk") {
+    buildRiskTabs();
     if (!riskLoaded) { riskLoaded = true; loadRisk(); }
     else { if (distChart) distChart.resize(); if (scatterChart) scatterChart.resize(); }
+    if (activeRiskSub === "history") renderCoverageHistory();
   }
   if (v === "screener" && !screenerLoaded) { screenerLoaded = true; window.__loadScreener(); }
 }));
@@ -1187,7 +1240,7 @@ document.querySelectorAll(".navtab").forEach(btn => btn.addEventListener("click"
 let riskRows = [];          // computable latest-snapshot rows
 let riskInsufficient = [];  // runway_mode === 'insufficient_data'
 let riskSort = { key: "runway_months", dir: 1 };  // riskiest first
-let distChart, scatterChart;
+let distChart, scatterChart, covHistChart;
 
 const FLAG_COLORS = { Critical: "#dc2626", Warning: "#ea580c", Watch: "#ca8a04",
                       Healthy: "#16a34a", "N/A": "#9ca3af" };
@@ -1202,6 +1255,92 @@ function sectorColor(s) { return SECTOR_COLORS[s] || "#9ca3af"; }
 function fUSD(v) { return v == null ? "—" : fmtBillions(v / 1e9); }
 function fMonths(m) { return m == null ? "—" : m.toFixed(1); }
 function fCov(c) { return c == null ? "—" : c.toFixed(2) + "×"; }
+
+// ---- Risk subtabs: Portfolio (cross-company) | Coverage History (per-company) ----
+const RISK_SUBTABS = [
+  { id: "portfolio", title: "Portfolio" },
+  { id: "history",   title: "Coverage History" },
+];
+let activeRiskSub = "portfolio";
+let riskTabsBuilt = false;
+let currentTicker = null;
+
+function buildRiskTabs() {
+  const bar = document.getElementById("riskTabs");
+  bar.innerHTML = RISK_SUBTABS.map(t =>
+    `<button class="tab ${t.id === activeRiskSub ? "active" : ""}" data-sub="${t.id}">${t.title}</button>`
+  ).join("");
+  // (Re)populate the company search each open so it fills once companies load.
+  const dl = document.getElementById("covSearchList");
+  if (dl) dl.innerHTML = allCompanies.map(c =>
+    `<option value="${c.ticker}">${(c.name || "").replace(/"/g, "&quot;")}</option>`).join("");
+
+  if (riskTabsBuilt) return;          // wire the handlers only once
+  riskTabsBuilt = true;
+  bar.addEventListener("click", e => {
+    const btn = e.target.closest(".tab"); if (!btn) return;
+    activeRiskSub = btn.dataset.sub;
+    bar.querySelectorAll(".tab").forEach(b => b.classList.toggle("active", b === btn));
+    document.getElementById("risk-sub-portfolio").style.display = activeRiskSub === "portfolio" ? "" : "none";
+    document.getElementById("risk-sub-history").style.display   = activeRiskSub === "history"   ? "" : "none";
+    if (activeRiskSub === "history") renderCoverageHistory();
+    else { if (distChart) distChart.resize(); if (scatterChart) scatterChart.resize(); }
+  });
+  document.getElementById("covSearch").addEventListener("change", e => {
+    const t = e.target.value.trim().toUpperCase();
+    const hit = allCompanies.find(c => c.ticker === t)
+             || allCompanies.find(c => (c.name || "").toUpperCase() === t)
+             || (t && allCompanies.find(c => c.ticker.startsWith(t)));
+    if (hit) selectCompany(hit.ticker);   // selectCompany re-renders this trend
+  });
+}
+
+// Per-company interest-coverage trend, computed from the already-loaded `pivot`
+// (full annual history; banks reconstruct EBIT = pre-tax income + interest).
+const COV_TAG_EBIT   = "OperatingIncomeLoss";
+const COV_TAG_PRETAX = "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest";
+const COV_TAG_INT    = "InterestExpense";
+function coverageSeries() {
+  const chrono = [...years].sort((a, b) => a - b);   // oldest -> newest
+  return chrono.map(y => {
+    const intr = pivot[COV_TAG_INT]?.[y];
+    if (intr == null || intr === 0) return { y, cov: null };   // can't divide -> gap
+    let ebit = pivot[COV_TAG_EBIT]?.[y];
+    if (ebit == null) {
+      const pretax = pivot[COV_TAG_PRETAX]?.[y];
+      ebit = (pretax != null) ? pretax + intr : null;          // bank reconstruction
+    }
+    return { y, cov: ebit == null ? null : ebit / intr };
+  });
+}
+
+function renderCoverageHistory() {
+  const co = allCompanies.find(c => c.ticker === currentTicker);
+  document.getElementById("rcHistCo").textContent =
+    co ? `— ${co.name || co.ticker} (${co.ticker})` : (currentTicker ? `— ${currentTicker}` : "");
+  const search = document.getElementById("covSearch");
+  if (search && document.activeElement !== search) search.value = currentTicker || "";
+
+  const series = coverageSeries();
+  const labels = series.map(p => "FY" + p.y);
+  const covData = series.map(p => p.cov);
+
+  const o1 = baseOpts();
+  o1.plugins.legend = { display: false };
+  o1.scales = { x: xScale(),
+    y: { grid: gridDash(), border: { display: false }, beginAtZero: true,
+      ticks: { color: "#6b7280", callback: v => v + "×" } } };
+  o1.plugins.tooltip = { callbacks: { label: c =>
+    c.parsed.y == null ? "No interest expense tagged" : "Coverage: " + c.parsed.y.toFixed(2) + "×" } };
+  if (covHistChart) covHistChart.destroy();
+  covHistChart = new Chart(document.getElementById("covHistChart"), {
+    type: "line",
+    data: { labels, datasets: [{ data: covData, borderColor: "#2563eb",
+      backgroundColor: "rgba(37,78,181,.08)", fill: true, tension: .25,
+      pointRadius: 3, pointBackgroundColor: "#2563eb", spanGaps: true }] },
+    options: o1,
+  });
+}
 function fPctDec(x) { return x == null ? "—" : (x * 100).toFixed(2) + "%"; }
 function flagClass(f) { return "flag-" + (f === "N/A" ? "NA" : f); }
 function modePill(m) {
@@ -1563,6 +1702,7 @@ const COLS = [
      fmt:r=>fmtB(r.mktcap_bil)},
   {key:"sector",   label:"Sector",       type:"text", left:true, disp:r=>r.sector,
      fmt:r=>esc(r.sector||""), val:r=>r.sector},
+  {key:"beta",     label:"Beta",         type:"num", disp:r=>num(r.beta), fmt:r=>fmt2(r.beta)},
   {key:"pe_ttm",   label:"P/E TTM",      type:"num", disp:r=>r.pe_ttm, heat:"red",
      fmt:r=>fmt2(r.pe_ttm)},
   {key:"peg",      label:"PEG",          type:"num", disp:r=>r.peg,
@@ -1581,6 +1721,12 @@ const COLS = [
      fmt:r=>fmt1(r.ebitda_margin)},
   {key:"debt_ebitda", label:"Debt/EBITDA", type:"num", disp:r=>r.debt_ebitda, heat:"red",
      fmt:r=>fmt2(r.debt_ebitda)},
+  {key:"inventory_turnover", label:"Inv Turn", type:"num", disp:r=>num(r.inventory_turnover),
+     fmt:r=>fmt2(r.inventory_turnover)},
+  {key:"debt_equity_ratio", label:"Debt/Eq", type:"num", disp:r=>num(r.debt_equity_ratio),
+     fmt:r=>fmt2(r.debt_equity_ratio)},
+  {key:"cash_ratio", label:"Cash Ratio", type:"num", disp:r=>num(r.cash_ratio),
+     fmt:r=>fmt2(r.cash_ratio)},
   {key:"interest_coverage", label:"Int Cov", type:"num", disp:r=>r.interest_coverage, optional:true,
      fmt:r=>fmt1(r.interest_coverage)},
   {key:"cf_lt_debt", label:"CF/LT Debt", type:"num", disp:r=>r.cf_lt_debt, optional:true,
@@ -1603,6 +1749,8 @@ function badge(s){ return s?`<span class="badge b-${s}" title="${SIG_DESC[s]||''
 // ============================================================================
 let DATA = [];                 // all computed rows
 let DB_TOTAL = 0;              // authoritative row count from the DB (Content-Range)
+let SNAPSHOTS = [];            // [{snapshot_date, company_count}] newest-first
+let currentSnap = "latest";    // "latest" (live table) or a YYYY-MM-DD (history)
 let SECTOR_AVG = {};           // sector -> {eps,ebitda,sales,pe}
 let filters = defaultFilters();
 let colFilters = {};           // key -> {sort, cond, excluded:Set, blanks:bool}
@@ -1649,22 +1797,73 @@ async function fetchAllRows(pathWithQuery){
   return { rows: all, total: total!=null ? total : all.length };
 }
 
-async function loadData(){
+// Snapshot picker: "latest" reads the live zacks_fundamentals table; a YYYY-MM-DD
+// reads that dated snapshot from zacks_fundamentals_history. Both go through
+// fetchAllRows(), so the "X of Y" counter, Exchange column, filters, etc. behave
+// identically regardless of which snapshot is being viewed.
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function fmtSnapDate(iso){
+  const [y,m,d] = String(iso).split("-").map(Number);
+  return `${MONTHS[(m||1)-1]} ${d}, ${y}`;
+}
+function setSnapViewing(){
+  const el = document.getElementById("snapViewing"); if(!el) return;
+  if(currentSnap === "latest"){
+    const d = SNAPSHOTS.length ? " — " + fmtSnapDate(SNAPSHOTS[0].snapshot_date) : "";
+    el.textContent = "Viewing: Latest (live)" + d;
+    el.className = "snap-viewing live";
+  } else {
+    el.textContent = "Viewing: " + fmtSnapDate(currentSnap) + " (historical)";
+    el.className = "snap-viewing hist";
+  }
+}
+async function loadSnapshots(){
+  try{
+    const { rows } = await fetchAllRows(
+      "/zacks_snapshot_dates?select=snapshot_date,company_count&order=snapshot_date.desc");
+    SNAPSHOTS = rows || [];
+  }catch(e){ SNAPSHOTS = []; }
+  const sel = document.getElementById("snapSel");
+  if(sel){
+    sel.innerHTML = SNAPSHOTS.length
+      ? SNAPSHOTS.map((s,i) => i === 0
+          ? `<option value="latest">Latest (live) — ${fmtSnapDate(s.snapshot_date)}</option>`
+          : `<option value="${s.snapshot_date}">${fmtSnapDate(s.snapshot_date)} (${(+s.company_count).toLocaleString()})</option>`
+        ).join("")
+      : `<option value="latest">Latest (live)</option>`;
+    sel.value = "latest";
+  }
+  currentSnap = "latest";
+  setSnapViewing();
+}
+
+async function loadData(snap){
+  currentSnap = snap || "latest";
   let rows=null, source="demo";
   try{
-    const { rows:zj, total } = await fetchAllRows("/zacks_fundamentals?select=*&order=ticker");
+    const path = currentSnap === "latest"
+      ? "/zacks_fundamentals?select=*&order=ticker"
+      : `/zacks_fundamentals_history?select=*&snapshot_date=eq.${encodeURIComponent(currentSnap)}&order=ticker`;
+    const { rows:zj, total } = await fetchAllRows(path);
     if(Array.isArray(zj) && zj.length){
       rows = await enrichWithEdgar(zj); source="live"; DB_TOTAL = total;
     }
   }catch(e){ /* fall through to synthetic */ }
 
-  if(!rows){ rows = synthesize(); source="demo"; }
+  if(!rows){ rows = synthesize(); source="demo"; DB_TOTAL = 0; }
   DATA = rows.map(computeRow);
   computeSectorAverages();
   if(source==="demo"){
     showBanner("Demo mode — no Zacks data in Supabase yet. Showing a synthetic 5,374-company set matching the real sector distribution. Run zacks_sync.py to load live data.");
   }
+  setSnapViewing();
   boot();
+}
+
+// Screener entry point: populate the snapshot picker, then load the latest snapshot.
+async function initScreener(){
+  await loadSnapshots();
+  await loadData(currentSnap);
 }
 
 // Best-effort EDGAR enrichment for live Zacks rows: pull latest-year metrics
@@ -2156,20 +2355,34 @@ document.getElementById("viewWrap").addEventListener("mousemove",e=>{
 // ============================================================================
 //  ANALYSIS VIEW  (PS / SG / EG)
 // ============================================================================
-let anaX="salesgr", anaY="pe_ttm";
+let anaX="salesgr", anaY="pe_ttm", anaCrossOn=true, anaTrendOn=false;
 function renderAnalysis(){
   document.getElementById("pager").style.display="none";
-  const rows=FILTERED;
-  const metricDefs=[
-    {k:"salesgr",t:"Sales Growth %",f:v=>v==null?"—":(v*100).toFixed(1)+"%",g:r=>r.salesgr},
-    {k:"epsgr01",t:"EPS Growth %",f:v=>v==null?"—":v.toFixed(1)+"%",g:r=>(r.epsgr01!=null&&Math.abs(r.epsgr01)<99)?r.epsgr01:null},
-    {k:"ps",t:"P/S TTM",f:v=>v==null?"—":v.toFixed(2),g:r=>r.ps},
-    {k:"peg",t:"PEG",f:v=>v==null?"—":v.toFixed(2),g:r=>r.peg},
-    {k:"ebitda_margin",t:"EBITDA Margin",f:v=>v==null?"—":v.toFixed(1)+"%",g:r=>r.ebitda_margin},
-  ];
-  const cards=metricDefs.map(m=>{const vs=rows.map(m.g).filter(v=>v!=null);
-    return `<div class="stat-card"><div class="t">${m.t}</div><div class="v">${m.f(mean(vs))}</div>
-      <div class="m">Med ${m.f(median(vs))} · N ${vs.length}</div></div>`;}).join("");
+  const rows=FILTERED;   // <- the CURRENTLY-filtered set; recomputed on every refresh()
+  // AVG + MEDIAN for EVERY numeric column, computed over the filtered set. Formatted
+  // per the column's unit ($ billions / % / ratio). EPS-growth sentinels (|v|>=99,
+  // the "capped" display markers) are excluded so they don't skew the averages.
+  const fmtAgg=(col,v)=>{
+    if(v==null||!isFinite(v)) return "—";
+    if(col.unit==="%") return v.toFixed(1)+"%";
+    if(col.unit==="$") return "$"+(v>=100?v.toFixed(0):v.toFixed(2))+"B";
+    return v.toFixed(2);
+  };
+  const aggVal=(col,r)=>{
+    const v=col.disp(r);
+    if((col.key==="epsgr01"||col.key==="epsgr12") && v!=null && Math.abs(v)>=99) return null;
+    return v;
+  };
+  const cards=NUM_METRICS.map(col=>{
+    const vs=rows.map(r=>aggVal(col,r)).filter(v=>v!=null && isFinite(v));
+    const small = vs.length>0 && vs.length<30;   // flag small-sample averages
+    return `<div class="stat-card">
+      <div class="t">${col.label}</div>
+      <div class="row"><span class="k">Avg</span><span class="val">${fmtAgg(col,mean(vs))}</span></div>
+      <div class="row"><span class="k">Median</span><span class="val">${fmtAgg(col,median(vs))}</span></div>
+      <div class="n${small?' small':''}">N = ${vs.length.toLocaleString()}${small?' ⚠ small sample':''}</div>
+    </div>`;
+  }).join("");
   const opts=NUM_METRICS.map(c=>`<option value="${c.key}">${c.label}</option>`).join("");
   // right table
   const avg={sg:mean(rows.map(r=>r.salesgr).filter(v=>v!=null)),
@@ -2196,10 +2409,10 @@ function renderAnalysis(){
         <div class="stat-cards">${cards}</div>
         <div class="plot-controls">
           <select id="anaX">${opts}</select><span>vs</span><select id="anaY">${opts}</select>
-          <label><input type="checkbox" id="anaTrend"> Trend line</label>
-          <label><input type="checkbox" id="anaCross"> Avg crosshairs</label>
+          <label><input type="checkbox" id="anaTrend" ${anaTrendOn?"checked":""}> Trend line</label>
+          <label><input type="checkbox" id="anaCross" ${anaCrossOn?"checked":""}> Avg crosshairs</label>
         </div>
-        <div class="canvas-wrap"><canvas id="anaCanvas" width="900" height="460"></canvas></div>
+        <div class="canvas-wrap"><canvas id="anaCanvas"></canvas></div>
       </div>
       <div class="ana-right">
         <table><thead><tr><th class="l">Ticker</th><th>SG%</th><th>EG%</th><th>PS</th><th>PEG</th><th>EBITDA%</th></tr></thead>
@@ -2214,34 +2427,85 @@ function renderAnalysis(){
   axs.value=anaX;ays.value=anaY;
   axs.onchange=()=>{anaX=axs.value;drawAna();};
   ays.onchange=()=>{anaY=ays.value;drawAna();};
-  document.getElementById("anaTrend").onchange=drawAna;
-  document.getElementById("anaCross").onchange=drawAna;
+  document.getElementById("anaTrend").onchange=e=>{anaTrendOn=e.target.checked;drawAna();};
+  document.getElementById("anaCross").onchange=e=>{anaCrossOn=e.target.checked;drawAna();};
   document.querySelectorAll(".ana-right .tk-lnk").forEach(el=>el.onclick=()=>openPeek(el.dataset.tk));
   drawAna();
 }
+// "Nice" axis ticks (rounded 1/2/5×10^n intervals) so the axes show readable numbers.
+function niceNum(x, round){
+  if(!(x>0)) return 1;
+  const exp=Math.floor(Math.log10(x)), f=x/Math.pow(10,exp);
+  const nf = round ? (f<1.5?1:f<3?2:f<7?5:10) : (f<=1?1:f<=2?2:f<=5?5:10);
+  return nf*Math.pow(10,exp);
+}
+function niceTicks(min,max,n){
+  if(!isFinite(min)||!isFinite(max)) return [0];
+  if(min===max){ const d=Math.abs(min)||1; min-=d*0.5; max+=d*0.5; }
+  const step=niceNum((max-min)/Math.max(1,n-1), true);
+  const gmin=Math.floor(min/step)*step, gmax=Math.ceil(max/step)*step;
+  const out=[]; for(let v=gmin; v<=gmax+step*0.5; v+=step) out.push(+v.toFixed(10));
+  return out;
+}
+function fmtTick(col,v){
+  const abbr=x=>{ const a=Math.abs(x);
+    if(a>=1e6) return (x/1e6).toFixed(1)+"M";
+    if(a>=1e3) return (x/1e3).toFixed(a>=1e4?0:1)+"k";
+    if(a>=10||a===0) return x.toFixed(0);
+    if(a>=1) return x.toFixed(1);
+    return x.toFixed(2); };
+  if(col.unit==="%") return (Math.abs(v)>=1000?(v/1000).toFixed(1)+"k":Math.round(v))+"%";
+  if(col.unit==="$") return "$"+abbr(v)+"B";
+  return abbr(v);
+}
 function drawAna(){
   const cv=document.getElementById("anaCanvas"); if(!cv)return;
-  const W=cv.width=cv.clientWidth||900,H=cv.height; const ctx=cv.getContext("2d");ctx.clearRect(0,0,W,H);
+  // Render at the container's real pixel size (× devicePixelRatio for crispness) so the
+  // plot fills the full width/height instead of a fixed 900×460 box.
+  const cssW=cv.clientWidth||900, cssH=cv.clientHeight||460, dpr=window.devicePixelRatio||1;
+  cv.width=Math.round(cssW*dpr); cv.height=Math.round(cssH*dpr);
+  const ctx=cv.getContext("2d"); ctx.setTransform(dpr,0,0,dpr,0,0); ctx.clearRect(0,0,cssW,cssH);
+  const W=cssW,H=cssH;
   const cx=COLS.find(c=>c.key===anaX),cy=COLS.find(c=>c.key===anaY);
-  const pad={l:56,r:16,t:16,b:40};
+  const pad={l:72,r:24,t:18,b:48};
   const pts=FILTERED.map(r=>({x:cx.disp(r),y:cy.disp(r),r})).filter(p=>p.x!=null&&p.y!=null&&isFinite(p.x)&&isFinite(p.y));
-  if(!pts.length)return;
-  const xmin=Math.min(...pts.map(p=>p.x)),xmax=Math.max(...pts.map(p=>p.x));
-  const ymin=Math.min(...pts.map(p=>p.y)),ymax=Math.max(...pts.map(p=>p.y));
+  if(!pts.length){ ctx.fillStyle="#9ca3af";ctx.font="13px Inter,system-ui";ctx.textAlign="center";
+    ctx.fillText("No data for the current filter / metric pair", W/2, H/2); return; }
+  const xt=niceTicks(Math.min(...pts.map(p=>p.x)),Math.max(...pts.map(p=>p.x)),7);
+  const yt=niceTicks(Math.min(...pts.map(p=>p.y)),Math.max(...pts.map(p=>p.y)),7);
+  const xmin=xt[0],xmax=xt[xt.length-1],ymin=yt[0],ymax=yt[yt.length-1];
   const sx=v=>pad.l+(v-xmin)/((xmax-xmin)||1)*(W-pad.l-pad.r);
   const sy=v=>H-pad.b-(v-ymin)/((ymax-ymin)||1)*(H-pad.t-pad.b);
-  ctx.strokeStyle="#e5e7eb";ctx.fillStyle="#6b7280";ctx.font="10px Inter,system-ui";
-  ctx.beginPath();ctx.moveTo(pad.l,pad.t);ctx.lineTo(pad.l,H-pad.b);ctx.lineTo(W-pad.r,H-pad.b);ctx.stroke();
-  ctx.fillText(cx.label,W/2-20,H-4);ctx.save();ctx.translate(14,H/2);ctx.rotate(-Math.PI/2);ctx.fillText(cy.label,0,0);ctx.restore();
-  const showLbl=pts.length<=120;
+  // gridlines + numeric tick labels
+  ctx.font="10px Inter,system-ui"; ctx.lineWidth=1; ctx.strokeStyle="#eef0f3"; ctx.fillStyle="#6b7280";
+  ctx.textAlign="center"; ctx.textBaseline="top";
+  for(const t of xt){ const X=sx(t); if(X<pad.l-1||X>W-pad.r+1) continue;
+    ctx.beginPath();ctx.moveTo(X,pad.t);ctx.lineTo(X,H-pad.b);ctx.stroke(); ctx.fillText(fmtTick(cx,t),X,H-pad.b+6); }
+  ctx.textAlign="right"; ctx.textBaseline="middle";
+  for(const t of yt){ const Y=sy(t); if(Y<pad.t-1||Y>H-pad.b+1) continue;
+    ctx.beginPath();ctx.moveTo(pad.l,Y);ctx.lineTo(W-pad.r,Y);ctx.stroke(); ctx.fillText(fmtTick(cy,t),pad.l-8,Y); }
+  // axis frame + titles
+  ctx.strokeStyle="#cbd0d6"; ctx.beginPath();ctx.moveTo(pad.l,pad.t);ctx.lineTo(pad.l,H-pad.b);ctx.lineTo(W-pad.r,H-pad.b);ctx.stroke();
+  ctx.fillStyle="#374151"; ctx.font="11px Inter,system-ui"; ctx.textAlign="center"; ctx.textBaseline="alphabetic";
+  ctx.fillText(cx.label,(pad.l+(W-pad.r))/2,H-8);
+  ctx.save();ctx.translate(16,(pad.t+(H-pad.b))/2);ctx.rotate(-Math.PI/2);ctx.fillText(cy.label,0,0);ctx.restore();
+  // points
+  const showLbl=pts.length<=120; ctx.textAlign="left"; ctx.textBaseline="alphabetic";
   for(const p of pts){ const X=sx(p.x),Y=sy(p.y);
     ctx.beginPath();ctx.fillStyle="#1d4ed8";ctx.arc(X,Y,3.5,0,7);ctx.fill();
-    if(showLbl){ctx.fillStyle="#374151";ctx.fillText(p.r.ticker,X+5,Y-4);} }
-  if(document.getElementById("anaCross")&&document.getElementById("anaCross").checked){
+    if(showLbl){ctx.fillStyle="#374151";ctx.font="10px Inter,system-ui";ctx.fillText(p.r.ticker,X+5,Y-4);} }
+  // avg crosshair (dotted) + value labels — updates with the selected X/Y metrics
+  if(anaCrossOn){
     const mx=mean(pts.map(p=>p.x)),my=mean(pts.map(p=>p.y));
-    ctx.strokeStyle="#1d4ed8";ctx.setLineDash([5,4]);ctx.beginPath();
-    ctx.moveTo(sx(mx),pad.t);ctx.lineTo(sx(mx),H-pad.b);ctx.moveTo(pad.l,sy(my));ctx.lineTo(W-pad.r,sy(my));ctx.stroke();ctx.setLineDash([]); }
-  if(document.getElementById("anaTrend")&&document.getElementById("anaTrend").checked){
+    ctx.strokeStyle="#1d4ed8"; ctx.setLineDash([5,4]); ctx.lineWidth=1; ctx.beginPath();
+    ctx.moveTo(sx(mx),pad.t);ctx.lineTo(sx(mx),H-pad.b);
+    ctx.moveTo(pad.l,sy(my));ctx.lineTo(W-pad.r,sy(my));ctx.stroke(); ctx.setLineDash([]);
+    ctx.fillStyle="#1d4ed8"; ctx.font="10px Inter,system-ui";
+    ctx.textAlign="left";ctx.textBaseline="top"; ctx.fillText("avg "+fmtTick(cx,mx), Math.min(sx(mx)+4,W-pad.r-64), pad.t+2);
+    ctx.textAlign="right";ctx.textBaseline="bottom"; ctx.fillText("avg "+fmtTick(cy,my), W-pad.r-2, sy(my)-3);
+  }
+  // trend line
+  if(anaTrendOn){
     const {m,b}=linreg(pts);ctx.strokeStyle="#dc2626";ctx.lineWidth=2;ctx.beginPath();
     ctx.moveTo(sx(xmin),sy(m*xmin+b));ctx.lineTo(sx(xmax),sy(m*xmax+b));ctx.stroke();ctx.lineWidth=1; }
 }
@@ -2437,6 +2701,8 @@ document.getElementById("viewSeg").querySelectorAll("button").forEach(b=>b.oncli
   refresh();
 });
 document.getElementById("applyBtn").onclick=()=>{ refresh(); toast(FILTERED.length.toLocaleString()+" companies match"); };
+// Snapshot picker: reload the selected snapshot (latest live table, or a past date from history).
+document.getElementById("snapSel").onchange=e=>{ loadData(e.target.value); };
 // columns menu
 function buildColMenu(){
   document.getElementById("colMenu").innerHTML=COLS.filter(c=>c.key!=="ticker").map(c=>
@@ -2486,7 +2752,7 @@ function boot(){
   refresh();
 }
 
-window.__loadScreener = loadData;  // lazy-init on first tab open
+window.__loadScreener = initScreener;  // lazy-init on first tab open (loads snapshots + data)
 })();
 
 // ---- boot ------------------------------------------------------------------
