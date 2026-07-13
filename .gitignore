@@ -41,3 +41,12 @@ data/xbrl_cache/
 # But DO track processed CSVs and news
 !data/processed/
 !data/news/
+
+# Zacks discovery/diagnostic artifacts
+zacks_diag.py
+zacks_criteria_labels.txt
+zacks_editview_catalog.txt
+zacks_editview_columns.txt
+zacks_editview_dom.html
+zacks_tmp_export.csv
+zacks_export_fundamentals.csv

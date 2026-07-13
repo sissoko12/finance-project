@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>US Bank Financial Dashboard</title>
+<title>Financial Analysis</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
@@ -1068,7 +1068,7 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
 
 <!-- NAV -->
 <nav class="topnav">
-  <div class="nav-brand">US Bank Financial Dashboard</div>
+  <div class="nav-brand">Financial Analysis</div>
   <div class="nav-controls">
     <input type="search" id="search-bar" placeholder="Search ticker or metric…" autocomplete="off"/>
     <div class="nav-tabs">
@@ -1771,6 +1771,9 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
 
 <!-- ===== RISK VIEW (merged from dashboard.html) ===== -->
 <section id="view-risk" class="view">
+  <div class="tabs" id="riskTabs"></div>
+
+  <div id="risk-sub-portfolio">
   <p class="risk-intro">
     Liquidity <b>runway</b> and <b>synthetic credit</b> for the S&amp;P 500, from the latest annual (10-K) filing per company.
     <b>Burn mode</b> (<span class="pill mode-burn">burn</span>) measures months of liquid assets against a company's actual negative operating cash flow.
@@ -1813,6 +1816,22 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
       <p class="note">These companies lack the tags needed to compute a runway (e.g. banks/utilities/REITs that don't file COGS/OpEx/SG&amp;A, or firms with no cash tag). Listed for auditability — not mixed into the ranked table above.</p>
       <div class="table-scroll"><table id="insufficientTable"></table></div>
     </details>
+  </div>
+  </div><!-- /risk-sub-portfolio -->
+
+  <div id="risk-sub-history" style="display:none">
+    <div class="panel">
+      <h3>Interest coverage <span class="muted" style="font-weight:400;font-size:12px;">(EBIT ÷ interest, ×)</span>
+        <span id="rcHistCo" class="muted" style="font-weight:400;font-size:12px;"></span></h3>
+      <div class="risk-filters" style="margin:6px 0 12px">
+        <input id="covSearch" list="covSearchList" placeholder="Search ticker or company…" autocomplete="off" />
+        <datalist id="covSearchList"></datalist>
+      </div>
+      <p class="note">EBIT ÷ interest expense per fiscal year, from the annual (10-K) history.
+        Banks/financials reconstruct EBIT as (pre-tax income + interest expense) when
+        <code>OperatingIncomeLoss</code> isn't tagged. Years with no tagged interest expense are shown as gaps.</p>
+      <div class="chart-wrap"><canvas id="covHistChart"></canvas></div>
+    </div>
   </div>
 </section>
 
@@ -5663,6 +5682,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const inp = document.getElementById('ca-input');
         if (inp) setTimeout(() => inp.focus(), 80);
       } else if (view === 'risk') {
+        buildRiskTabs();   // [merged] Portfolio | Coverage History subtabs
         if (!riskLoaded) { riskLoaded = true; loadRisk(); }
         else { if (distChart) distChart.resize(); if (scatterChart) scatterChart.resize(); }
       } else if (view === 'screener') {

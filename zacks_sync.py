@@ -91,9 +91,16 @@ SELECTORS = {
     "cookie_accept": (By.CSS_SELECTOR,
         "#onetrust-accept-btn-handler, #truste-consent-button, "
         ".truste-button2, button[aria-label*='accept' i], button[title*='accept' i]"),
-    # On the screener page, the "Run Query" then "Excel" export controls.
+    # On the screener page, the "Run Query" then CSV export controls.
     "run_query": (By.ID, "btn_run_query"),
-    "export_excel": (By.CSS_SELECTOR, "a#screener_export, a[href*='export'][href*='excel']"),
+    # The results table is a DataTables.js grid; its "Buttons" extension renders
+    # the export as a plain <a class="dt-button buttons-csv buttons-html5"> with
+    # no href (the download is triggered by a JS click handler, not a URL). We
+    # match on the DataTables classes, with an XPath fallback on the span text.
+    "export_csv": (By.CSS_SELECTOR,
+        "a.dt-button.buttons-csv, a.buttons-csv, a.buttons-html5"),
+    "export_csv_fallback": (By.XPATH,
+        "//a[contains(@class,'dt-button')][.//span[normalize-space()='CSV']]"),
 }
 
 # Map raw Zacks export header -> our DB column. Zacks headers vary in case /
@@ -311,7 +318,7 @@ def login(driver):
 
 
 def download_export(driver):
-    print("Opening screener and exporting Excel...")
+    print("Opening screener and exporting CSV...")
     before = set(glob.glob(str(DOWNLOAD_DIR / "*")))
     driver.get(ZACKS_SCREENER_URL)
     wait = WebDriverWait(driver, 30)
@@ -319,32 +326,45 @@ def download_export(driver):
     # A consent banner can also overlay the export controls on this page.
     dismiss_overlays(driver)
 
-    # Run the saved query if the button is present, then trigger the export.
-    clicked = {}
-    for key in ("run_query", "export_excel"):
+    # Run the saved query first (the export button only appears once the
+    # DataTables grid has rendered results). Treated as best-effort: on a
+    # saved-screen URL the results may already be present.
+    try:
+        el = wait.until(EC.element_to_be_clickable(SELECTORS["run_query"]))
+        el.click()
+        print("  clicked 'run_query'")
+        time.sleep(3)
+    except Exception as e:
+        print(f"  note: could not click 'run_query' ({e.__class__.__name__})")
+
+    # Click the DataTables CSV button. Try the class-based selector first, then
+    # fall back to matching the <span>CSV</span> text.
+    exported = False
+    for key in ("export_csv", "export_csv_fallback"):
         try:
             el = wait.until(EC.element_to_be_clickable(SELECTORS[key]))
             el.click()
-            clicked[key] = True
-            print(f"  clicked '{key}'")
+            print(f"  clicked CSV export via '{key}'")
+            exported = True
             time.sleep(3)
+            break
         except Exception as e:
-            clicked[key] = False
-            print(f"  note: could not click '{key}' ({e.__class__.__name__})")
+            print(f"  note: '{key}' did not match ({e.__class__.__name__})")
 
     # If the export never fired, capture the real DOM so we can fix the
     # selectors -- and bail out early rather than burning 120s on a download
     # that will never arrive.
-    if not clicked.get("export_excel"):
+    if not exported:
         dump_debug(driver, "screener_page")
         dump_clickables(driver)
         raise RuntimeError(
-            "Could not drive the screener export. Saved screener_page debug "
+            "Could not drive the screener CSV export. Saved screener_page debug "
             "artifacts + a clickable-elements list; update "
-            "SELECTORS['run_query'] / SELECTORS['export_excel'] from those "
-            "(the flow may also need a criterion added before Run appears).")
+            "SELECTORS['export_csv'] from those (the DataTables button only "
+            "renders after the query returns rows -- if the saved screen has 0 "
+            "matches, loosen its criteria in Zacks first).")
 
-    # Wait for a new .xls/.xlsx to finish downloading (no .crdownload lock).
+    # Wait for a new .csv to finish downloading (no .crdownload lock).
     path = _wait_for_download(before, timeout=120)
     print(f"  downloaded: {path}")
     return path
@@ -353,7 +373,10 @@ def download_export(driver):
 def _wait_for_download(before, timeout=120):
     deadline = time.time() + timeout
     while time.time() < deadline:
-        current = set(glob.glob(str(DOWNLOAD_DIR / "*.xls"))) | \
+        # DataTables exports CSV; keep .xls/.xlsx too in case the source ever
+        # switches back to an Excel button.
+        current = set(glob.glob(str(DOWNLOAD_DIR / "*.csv"))) | \
+                  set(glob.glob(str(DOWNLOAD_DIR / "*.xls"))) | \
                   set(glob.glob(str(DOWNLOAD_DIR / "*.xlsx")))
         new = [p for p in current if p not in before]
         # Make sure nothing is still mid-download.
@@ -380,7 +403,11 @@ def _norm(header):
 
 def parse_excel(path):
     print(f"Parsing {path} ...")
-    df = pd.read_excel(path)
+    # The Zacks DataTables export is CSV now; still accept .xls/.xlsx.
+    if str(path).lower().endswith(".csv"):
+        df = pd.read_csv(path)
+    else:
+        df = pd.read_excel(path)
     # Rename via the alias table.
     rename = {}
     for col in df.columns:
@@ -410,7 +437,12 @@ def parse_excel(path):
                  .str.strip())
         df[c] = pd.to_numeric(df[c], errors="coerce")
 
-    print(f"  parsed {len(df)} rows across {df['sector'].nunique()} sectors")
+    if len(df) == 0:
+        print("  !! WARNING: export contained 0 rows -- the Zacks screen "
+              "returned no matches. Loosen the saved screen's criteria in "
+              "Zacks; nothing will be upserted.")
+    else:
+        print(f"  parsed {len(df)} rows across {df['sector'].nunique()} sectors")
     return df
 
 
@@ -475,6 +507,12 @@ def main():
             driver.quit()
 
     df = parse_excel(path)
+
+    # A 0-row export means the screen matched nothing -- skip both upserts so we
+    # don't record an empty dated snapshot or mask the problem.
+    if len(df) == 0:
+        print("=== Aborting: 0 rows to upsert (fix the Zacks screen criteria). ===")
+        sys.exit(2)
 
     # a. current snapshot -- overwrite in place (unchanged behavior)
     upsert_supabase(df, "zacks_fundamentals")
