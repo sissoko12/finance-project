@@ -1,11 +1,130 @@
 {
-  "last_updated": "2026-07-13T01:10:32.260150+00:00",
+  "last_updated": "2026-07-13T05:03:53.852351+00:00",
   "headlines": [
     {
+      "title": "SBI Funds IPO anchor book draws Capital Group, BlackRock, Goldman, GIC",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-ipo-anchor-book-draws-capital-group-blackrock-goldman-gic/articleshow/132356321.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-13T04:22:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Linklaters advises Citi on the inaugural digitally native commercial paper issuance on Clearstream’s D7",
+      "url": "https://legaldesire.com/linklaters-advises-citi-on-the-inaugural-digitally-native-commercial-paper-issuance-on-clearstreams-d7/",
+      "source": "legaldesire.com",
+      "published": "2026-07-13T04:03:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jane Fraser’s ruthless remake of Citigroup",
+      "url": "https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713",
+      "source": "ft.com",
+      "published": "2026-07-13T04:00:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MiniMax Shares Slump After JPMorgan Cuts Target Price Further",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/minimax-shares-slump-after-jpmorgan-cuts-target-price-further",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T03:23:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Q2 Earnings: What To Expect",
+      "url": "https://stockstory.org/us/stocks/nyse/bac/news/earnings/bank-of-america-bac-q2-earnings-what-to-expect",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:01:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Q2 Earnings Report Preview: What To Look For",
+      "url": "https://stockstory.org/us/stocks/nyse/jpm/news/earnings/jpmorgan-chase-jpm-q2-earnings-report-preview-what-to-look-for",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:01:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What To Expect From Goldman Sachs’s (GS) Q2 Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/gs/news/earnings/what-to-expect-from-goldman-sachss-gs-q2-earnings",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:01:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "What To Expect From Wells Fargo’s (WFC) Q2 Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/wfc/news/earnings/what-to-expect-from-wells-fargos-wfc-q2-earnings",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:00:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/c/news/earnings/citigroup-c-reports-q2-everything-you-need-to-know-ahead-of-earnings",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:00:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SBI Funds IPO Anchor Book 20 Times Subscribed; Draws Capital Group, BlackRock, Goldman, ADIA, GIC",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/capital-group-blackrock-said-to-buy-into-sbi-funds-anchor-book",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T03:00:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "18 and want financial independence",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuyq21/18_and_want_financial_independence/",
+      "source": "reddit.com",
+      "published": "2026-07-13T02:19:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs models favor France for 2026 World Cup, England gaining ground",
+      "url": "https://cryptobriefing.com/goldman-sachs-models-favor-france-for-2026-world-cup-england-gaining-ground/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-13T01:35:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Broker - Schwab or IBKR - I currently have an account at Morgan Stanley and I want to ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuugaq/broker_schwab_or_ibkr/",
+      "source": "reddit.com",
+      "published": "2026-07-12T23:05:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Better Financial Sector ETF: European-Focused iShares EUFN vs. State Street KBE Targeting U.S. Banks",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/12/better-financial-sector-etf-european-focused-ishares-eufn-vs-state-street-kbe-targeting-u-s-banks/",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/12/better-financial-sector-etf-european-focused-ishares-eufn-vs-state-street-kbe-targeting-u-s-banks/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-07-12T23:16:01+00:00",
+      "published": "2026-07-12T22:56:01+00:00",
       "tickers": [
         "STT"
       ]
@@ -126,15 +245,6 @@
       ]
     },
     {
-      "title": "Sovran Advisors LLC Sells 11,176 Shares of State Street SPDR Portfolio S&P 500 ETF $SPYM",
-      "url": "https://www.tickerreport.com/banking-finance/13501700/sovran-advisors-llc-sells-11176-shares-of-state-street-spdr-portfolio-sp-500-etf-spym.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-12T17:46:50+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
       "title": "Pinterest (NYSE:PINS) Rating Increased to Buy at Wall Street Zen",
       "url": "https://www.tickerreport.com/banking-finance/13501646/pinterest-nysepins-rating-increased-to-buy-at-wall-street-zen.html",
       "source": "tickerreport.com",
@@ -172,120 +282,6 @@
       "tickers": [
         "C",
         "SCHW"
-      ]
-    },
-    {
-      "title": "Midwest Trust Co Purchases 14,780 Shares of Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-midwest-trust-co-purchases-14780-shares-of-morgan-stanley-ms-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T17:12:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Sovran Advisors LLC Grows Stock Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sovran-advisors-llc-grows-stock-position-in-the-goldman-sachs-group-inc-gs-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T17:12:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sets jaw-dropping SanDisk stock price target for 2026",
-      "url": "https://www.thestreet.com/investing/stocks/sndk-sandisk-stock-price-target-goldman-sachs-july-2026-nand-supply?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-12T16:47:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GALLERY: BOA opens latest steakhouse in Napa",
-      "url": "https://napavalleyregister.com/news/gallery-boa-opens-latest-steakhouse-in-napa/collection_7cf94813-0b0c-41bb-a95d-4fdbd61ca079.html",
-      "source": "napavalleyregister.com",
-      "published": "2026-07-12T16:45:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "What Is the State Street SPDR Portfolio Developed World ex-US ETF, and Who Should Buy It?",
-      "url": "https://www.fool.com/investing/2026/07/12/what-is-the-state-street-spdr-portfolio-developed/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-12T16:37:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Wall Street Brunch: Will AI Steal Earnings Spotlight From Banks? | $TSM $ASML $C $NFLX $GS",
-      "url": "https://seekingalpha.com/article/4921442-wall-street-brunch-will-ai-steal-earnings-spotlight-from-banks",
-      "source": "seekingalpha.com",
-      "published": "2026-07-12T16:35:00+00:00",
-      "tickers": [
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology",
-      "url": "https://247wallst.com/investing/2026/07/12/goldman-sachs-insane-spacex-ai-forecast-has-one-clear-winner-micron-technology/",
-      "source": "247wallst.com",
-      "published": "2026-07-12T16:26:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Summertime Blues: BOA Cuts Forecasts",
-      "url": "https://vblgoldfix.substack.com/p/summertime-blues-boa-cuts-forecasts",
-      "source": "substack.com",
-      "published": "2026-07-12T16:09:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Follow Now - July 12th",
-      "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-to-follow-now-july-12th-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T16:02:00+00:00",
-      "tickers": [
-        "JPM",
-        "C"
-      ]
-    },
-    {
-      "title": "Promising Bank Stocks To Consider - July 12th",
-      "url": "https://www.marketbeat.com/instant-alerts/promising-bank-stocks-to-consider-july-12th-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T16:01:59+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup stands out as five major US banks report earnings on the same day",
-      "url": "https://cryptobriefing.com/citigroup-five-us-banks-earnings/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-12T15:45:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Market Preview: Bank Earnings and Critical Inflation Reports Dominate This Week’s Trading",
-      "url": "https://blockonomi.com/market-preview-bank-earnings-and-critical-inflation-reports-dominate-this-weeks-trading/",
-      "source": "blockonomi.com",
-      "published": "2026-07-12T15:42:10+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
