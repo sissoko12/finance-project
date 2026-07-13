@@ -1076,7 +1076,11 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
       <button class="tab-btn" data-view="financials">Financials</button>
       <button class="tab-btn active" data-view="bank">Per-Bank</button>
       <button class="tab-btn" data-view="allbanks">All Banks</button>
+      <!-- Credit Analysis disabled from the UI: its SEC EDGAR calls are CORS-blocked in the
+           browser and need a backend proxy. The #view-credit section and CA module below are
+           left intact — re-enable this tab by uncommenting the button once the proxy exists.
       <button class="tab-btn" data-view="credit">Credit Analysis</button>
+      -->
       <button class="tab-btn" data-view="risk">Risk</button>
       <button class="tab-btn" data-view="screener">Screener</button>
       <button class="tab-btn" data-view="news">📰 News</button>
