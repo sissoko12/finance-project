@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-13T19:39:21.729916+00:00",
+  "last_updated": "2026-07-13T21:04:51.787830+00:00",
   "headlines": [
+    {
+      "title": "Jamie Dimon faces Warren scrutiny over reported Epstein-linked lobbying advice",
+      "url": "https://www.investing.com/news/stock-market-news/jamie-dimon-faces-warren-scrutiny-over-reported-epsteinlinked-lobbying-advice-4789174",
+      "source": "investing.com",
+      "published": "2026-07-13T20:11:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Party At Goldman Sachs Since 2022 May Be Ending (Rating Downgrade) | $GS",
+      "url": "https://seekingalpha.com/article/4921678-the-party-at-goldman-sachs-since-2022-may-be-ending-rating-downgrade",
+      "source": "seekingalpha.com",
+      "published": "2026-07-13T20:03:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MDU Resources rated new Overweight at Wells Fargo as solid regulated growth story | $MDU",
+      "url": "https://seekingalpha.com/news/4613353-mdu-resources-rated-new-overweight-at-wells-fargo-as-solid-regulated-growth-story",
+      "source": "seekingalpha.com",
+      "published": "2026-07-13T19:53:20+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019992/0001918704-26-019992-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T19:33:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Atmos Energy initiated Overweight at Wells Fargo on exposure to Texas infrastructure growth",
+      "url": "https://seekingalpha.com/news/4613349-atmos-energy-initiated-overweight-at-wells-fargo-on-exposure-to-texas-infrastructure-growth",
+      "source": "seekingalpha.com",
+      "published": "2026-07-13T19:31:19+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026077519/0001213900-26-077519-index.htm",
@@ -8,6 +56,15 @@
       "published": "2026-07-13T19:16:27+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Gotham FC star Jaedyn Shaw is inspiring the next generation of players",
+      "url": "https://abc7.com/videoClip/sports-soccer-womens-gotham-fc/19500423/",
+      "source": "abc7.com",
+      "published": "2026-07-13T19:12:27+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -30,6 +87,16 @@
       ]
     },
     {
+      "title": "Alphabet (GOOGL) Stock Holds Strong as Q2 Earnings Approach on July 22",
+      "url": "https://blockonomi.com/alphabet-googl-stock-holds-strong-as-q2-earnings-approach-on-july-22/",
+      "source": "blockonomi.com",
+      "published": "2026-07-13T18:32:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "ETFs Are for Bets - Mets ETFs, TXSE listings, Bending Spoons HR quants and failed ...",
       "url": "https://www.bloomberg.com/opinion/newsletters/2026-07-13/etfs-are-for-bets",
       "source": "bloomberg.com",
@@ -48,12 +115,39 @@
       ]
     },
     {
+      "title": "Citigroup Issues Pessimistic Forecast for Wabtec (NYSE:WAB) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13502742/citigroup-issues-pessimistic-forecast-for-wabtec-nysewab-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-13T18:24:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Jamie Dimon hinted at what he might do after JPMorgan — and it's not politics",
       "url": "https://www.businessinsider.com/jamie-dimon-succession-jpmorgan-ceo-president-politics-2026-7",
       "source": "businessinsider.com",
       "published": "2026-07-13T18:24:43+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers Cognizant Technology Solutions (NASDAQ:CTSH) Price Target to $45.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-cognizant-technology-solutions-nasdaqctsh-price-target-to-4500-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T18:24:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wabtec (NYSE:WAB) Price Target Lowered to $311.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/wabtec-nysewab-price-target-lowered-to-31100-at-citigroup-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T18:24:22+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -102,6 +196,15 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019976/0001918704-26-019976-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T18:11:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "WCN Maintained by JP Morgan -- Price Target Lowered to $195",
       "url": "https://www.gurufocus.com/news/8955896/wcn-maintained-by-jp-morgan-price-target-lowered-to-195",
       "source": "gurufocus.com",
@@ -115,97 +218,6 @@
       "url": "https://www.gurufocus.com/news/8955895/trmb-maintained-by-jp-morgan-price-target-lowered-to-7500",
       "source": "gurufocus.com",
       "published": "2026-07-13T18:03:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SAH Maintained by JP Morgan -- Price Target Lowered to $76.00",
-      "url": "https://www.gurufocus.com/news/8955893/sah-maintained-by-jp-morgan-price-target-lowered-to-7600",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T18:02:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "RKT Maintained by JP Morgan -- Price Target Lowered to $15.50",
-      "url": "https://www.gurufocus.com/news/8955891/rkt-maintained-by-jp-morgan-price-target-lowered-to-1550",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T18:01:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ONT Maintained by JP Morgan -- Price Target Lowered to $22.00",
-      "url": "https://www.gurufocus.com/news/8955889/ont-maintained-by-jp-morgan-price-target-lowered-to-2200",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T18:00:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Labcorp (NYSE:LH) Price Target Raised to $320.00",
-      "url": "https://www.marketbeat.com/instant-alerts/labcorp-nyselh-price-target-raised-to-32000-2026-07-13/",
-      "source": "marketbeat.com",
-      "published": "2026-07-13T18:00:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034441/0001839882-26-034441-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T17:56:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi Just Upped Its Price Target on Apple Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/3258243/citi-just-upped-its-price-target-on-apple-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-07-13T17:56:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Low expectations, North American production set automakers/suppliers up for strong Q2 -- Citi",
-      "url": "https://seekingalpha.com/news/4613294-low-expectations-north-american-production-set-automakerssuppliers-up-for-strong-q2---citi",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T17:55:19+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034438/0001839882-26-034438-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T17:54:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Analysts’ New Coverage for July 13th (ALKS, APYX, BCRX, CADL, CEPL, DIS, DNLI, FCBM, GLAS, HONA)",
-      "url": "https://www.tickerreport.com/banking-finance/13502725/analysts-new-coverage-for-july-13th-alks-apyx-bcrx-cadl-cepl-dis-dnli-fcbm-glas-hona.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-13T17:44:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NAVI Maintained by JP Morgan -- Price Target Lowered to $8.00",
-      "url": "https://www.gurufocus.com/news/8955865/navi-maintained-by-jp-morgan-price-target-lowered-to-800",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T17:41:04+00:00",
       "tickers": [
         "JPM"
       ]
