@@ -1,0 +1,43 @@
+# The deployed image is a STATIC SITE. Keep only the dashboard HTML + its data
+# assets; exclude the Python pipeline, SQL, and all build/scratch artifacts.
+#
+# KEPT (not listed here): index.html, dashboard.html, dashboard/index.html,
+# data/** (sp500_tickers.json, news/, processed/*.csv), Caddyfile.
+
+# VCS / meta
+.git
+.github
+.gitignore
+.env
+.env.example
+README.md
+
+# Python data pipeline (static site — no Python app to build)
+*.py
+__pycache__/
+requirements.txt
+
+# SQL schema / DDL
+*.sql
+
+# Local automation / scheduling
+*.sh
+*.plist
+zacks_downloads/
+
+# Standalone screener (already merged into dashboard.html as a tab)
+screener.html
+
+# Session scratch / debug artifacts present in the build context
+zacks_export_fundamentals.csv
+zacks_tmp_export.csv
+zacks_criteria_labels.txt
+zacks_editview_columns.txt
+zacks_editview_catalog.txt
+zacks_editview_dom.html
+debug_*
+
+# Build config itself doesn't need to be served
+Dockerfile
+railway.json
+.dockerignore

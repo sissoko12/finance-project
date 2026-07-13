@@ -1,0 +1,12 @@
+{
+	# Railway terminates TLS at its edge, so Caddy should not try to obtain certs.
+	auto_https off
+}
+
+# Listen on the port Railway injects.
+:{$PORT} {
+	root * /srv
+	file_server
+	encode gzip
+	# Serve index.html for "/"; the dashboard is index.html (identical to dashboard.html).
+}
