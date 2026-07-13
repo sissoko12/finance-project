@@ -1,288 +1,284 @@
 {
-  "last_updated": "2026-07-13T15:24:57.496277+00:00",
+  "last_updated": "2026-07-13T17:31:50.313524+00:00",
   "headlines": [
     {
-      "title": "NIO gains after Goldman Sachs turns bullish on its earnings potential",
-      "url": "https://seekingalpha.com/news/4613192-nio-gains-after-goldman-sachs-turns-bullish-on-its-earnings-potential",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T14:51:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010539/0000950103-26-010539-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T14:47:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019910/0001918704-26-019910-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T14:20:18+00:00",
+      "title": "JPMorgan, Morgan Stanley, Bank of America: Three Major Banks, Three Different Verdicts",
+      "url": "https://247wallst.com/investing/2026/07/13/jpmorgan-morgan-stanley-bank-of-america-three-major-banks-three-different-verdicts/",
+      "source": "247wallst.com",
+      "published": "2026-07-13T17:00:10+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Humana pops as Wells Fargo upgrades on moderating cost trends | $HUM",
-      "url": "https://seekingalpha.com/news/4613243-humana-pops-as-wells-fargo-upgrades-on-moderating-cost-trends",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T14:17:10+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Seagate Technology (NASDAQ:STX) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-stock-price-expected-to-rise-citigroup-analyst-says-2026-07-13/",
-      "source": "marketbeat.com",
-      "published": "2026-07-13T14:06:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Pentagon Releases Its Clearest UFO Video Yet—A Massive Structure Captured By Military Sensors [Roundup]",
-      "url": "https://viewfromthewing.com/pentagon-releases-its-clearest-ufo-video-yet-a-massive-structure-captured-by-military-sensors-roundup/",
-      "source": "viewfromthewing.com",
-      "published": "2026-07-13T14:04:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America expands regional investment banking business ahead of earnings release",
-      "url": "https://seekingalpha.com/news/4613230-bank-of-america-expands-regional-investment-banking-business-ahead-of-earnings-release",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T14:00:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi raises Apple target $50 to $365",
-      "url": "https://www.ped30.com/2026/07/13/citi-apple-target-365/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=citi-apple-target-365",
-      "source": "ped30.com",
-      "published": "2026-07-13T13:57:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010538/0000950103-26-010538-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T13:55:15+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Chipotle Mexican Grill (NYSE:CMG) Price Target Cut to $45.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/chipotle-mexican-grill-nysecmg-price-target-cut-to-4500-by-analysts-at-citigroup-2026-07-13/",
-      "source": "marketbeat.com",
-      "published": "2026-07-13T13:42:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NIO (NIO) Stock Surges After Goldman Sachs Upgrades Rating to Buy",
-      "url": "https://blockonomi.com/nio-nio-stock-surges-after-goldman-sachs-upgrades-rating-to-buy/",
-      "source": "blockonomi.com",
-      "published": "2026-07-13T13:33:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Provides New Price Target For Apple Stock (AAPL)",
-      "url": "https://watcher.guru/news/citi-provides-new-price-target-for-apple-stock-aapl",
-      "source": "watcher.guru",
-      "published": "2026-07-13T13:31:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "RMD Downgraded by Citigroup -- Price Target Lowered to $235",
-      "url": "https://www.gurufocus.com/news/8955285/rmd-downgraded-by-citigroup-price-target-lowered-to-235",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "THC Maintained by Wells Fargo -- Price Target Raised to $231",
-      "url": "https://www.gurufocus.com/news/8955316/thc-maintained-by-wells-fargo-price-target-raised-to-231",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "KNSA Maintained by Wells Fargo -- Price Target Raised to $74.00",
-      "url": "https://www.gurufocus.com/news/8955313/knsa-maintained-by-wells-fargo-price-target-raised-to-7400",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "DIS Maintained by Wells Fargo -- Price Target Lowered to $125",
-      "url": "https://www.gurufocus.com/news/8955311/dis-maintained-by-wells-fargo-price-target-lowered-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ATO Initiates Coverage On Wells Fargo -- Rating Set to Overweight",
-      "url": "https://www.gurufocus.com/news/8955306/ato-initiates-coverage-on-wells-fargo-rating-set-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "UHS Maintained by Wells Fargo -- Price Target Raised to $166",
-      "url": "https://www.gurufocus.com/news/8955315/uhs-maintained-by-wells-fargo-price-target-raised-to-166",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "HUM Upgraded by Wells Fargo -- Price Target Raised to $502",
-      "url": "https://www.gurufocus.com/news/8955301/hum-upgraded-by-wells-fargo-price-target-raised-to-502",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "HCA Maintained by Wells Fargo -- Price Target Lowered to $428",
-      "url": "https://www.gurufocus.com/news/8955314/hca-maintained-by-wells-fargo-price-target-lowered-to-428",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Raises Apple (AAPL) Price Target to $365 Ahead of Earnings",
-      "url": "https://www.gurufocus.com/news/8955353/citi-raises-apple-aapl-price-target-to-365-ahead-of-earnings",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T13:25:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees 10%+ EPS Growth Fueling Broader Stock Rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-10-eps-132240007.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T13:22:40+00:00",
-      "tickers": [
+        "C",
         "MS"
       ]
     },
     {
-      "title": "BofA downgrades Papa John’s to Underperform, cuts price target",
-      "url": "https://seekingalpha.com/news/4613188-bofa-downgrades-papa-johns-to-underperform-cuts-price-target",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T12:53:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Saia set up for market share gains into trucking sector upcycle—BofA Securities",
-      "url": "https://seekingalpha.com/news/4613185-saia-set-up-for-market-share-gains-into-trucking-sector-upcycle---bofa-securities",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T12:50:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Upgrades Apple (AAPL) Target to $365 Before July Earnings Release",
-      "url": "https://blockonomi.com/citi-upgrades-apple-aapl-target-to-365-before-july-earnings-release/",
-      "source": "blockonomi.com",
-      "published": "2026-07-13T12:49:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Apple stock target raised as Citi sees continued market share gains",
-      "url": "https://www.investing.com/news/stock-market-news/apple-stock-target-raised-as-citi-sees-continued-market-share-gains-4788552",
-      "source": "investing.com",
-      "published": "2026-07-13T12:46:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA turns bearish on Papa John’s, sees limited upside amid fierce competition",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-turns-bearish-on-papa-johns-sees-limited-upside-amid-fierce-competition-4788499",
-      "source": "investing.com",
-      "published": "2026-07-13T12:35:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist upgrades Biogen to Buy on Alzheimer’s, pipeline optimism ahead of key data",
-      "url": "https://finance.yahoo.com/healthcare/articles/truist-upgrades-biogen-buy-alzheimer-123105983.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T12:31:05+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Dividend Harvesting Portfolio Week 280: $28,000 Allocated, $3,144.21 In Projected Dividends | $META $NVDA $JPM $ORCL $TSM",
-      "url": "https://seekingalpha.com/article/4921478-dividend-harvesting-portfolio-week-280-28000-allocated-3144-21-in-projected-dividends",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T12:30:31+00:00",
+      "title": "JPMorgan Maintains Jamie Dimon Didn’t Know Epstein As Sen. Warren Investigates",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/07/13/jpmorgan-maintains-jamie-dimon-didnt-know-epstein-as-sen-warren-investigates/",
+      "source": "forbes.com",
+      "published": "2026-07-13T16:50:21+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman Sachs stock forms a risky pattern ahead of earnings",
-      "url": "https://invezz.com/news/2026/07/13/goldman-sachs-stock-forms-a-risky-pattern-ahead-of-earnings/",
-      "source": "invezz.com",
-      "published": "2026-07-13T12:30:00+00:00",
+      "title": "Wells Fargo flags tech concentration risk as earnings season kicks off",
+      "url": "https://seekingalpha.com/news/4613289-wells-fargo-flags-tech-concentration-risk-as-earnings-season-kicks-off",
+      "source": "seekingalpha.com",
+      "published": "2026-07-13T16:40:36+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034409/0001839882-26-034409-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T16:33:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for AGCO (NYSE:AGCO) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-agco-nyseagco-stock-price-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Group 1 Automotive (NYSE:GPI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-group-1-automotive-nysegpi-stock-price-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Neptune Insurance (NYSE:NP) Price Target Raised to $30.00",
+      "url": "https://www.marketbeat.com/instant-alerts/neptune-insurance-nysenp-price-target-raised-to-3000-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Merck & Co., Inc. (NYSE:MRK) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-merck-co-inc-nysemrk-stock-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Ryan Specialty (NYSE:RYAN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-ryan-specialty-nyseryan-stock-price-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Terex (NYSE:TEX) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-terex-nysetex-stock-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Wabtec (NYSE:WAB) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-wabtec-nysewab-stock-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "United Rentals (NYSE:URI) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/united-rentals-nyseuri-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Baldwin Insurance Group (NASDAQ:BWIN) Price Target Raised to $30.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/baldwin-insurance-group-nasdaqbwin-price-target-raised-to-3000-at-jpmorgan-chase-co-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Mercury Systems (NASDAQ:MRCY) Price Target to $101.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-mercury-systems-nasdaqmrcy-price-target-to-10100-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for NMI (NASDAQ:NMIH) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-nmi-nasdaqnmih-stock-price-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PACCAR (NASDAQ:PCAR) Price Target Raised to $155.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/paccar-nasdaqpcar-price-target-raised-to-15500-at-jpmorgan-chase-co-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SLM (NASDAQ:SLM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/slm-nasdaqslm-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "TWFG (NASDAQ:TWFG) Price Target Raised to $27.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/twfg-nasdaqtwfg-price-target-raised-to-2700-at-jpmorgan-chase-co-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:12:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526301731/0001193125-26-301731-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T16:09:31+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Capital One credit cards denial",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvfwls/capital_one_credit_cards_denial/",
+      "source": "reddit.com",
+      "published": "2026-07-13T16:09:12+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Campbell Global Appoints Michael Barbara to Head of Global Acquisitions",
+      "url": "https://www.prnewswire.com/news-releases/campbell-global-appoints-michael-barbara-to-head-of-global-acquisitions-302823963.html",
+      "source": "prnewswire.com",
+      "published": "2026-07-13T16:05:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Financial Stocks To Watch Now - July 13th",
+      "url": "https://www.marketbeat.com/instant-alerts/financial-stocks-to-watch-now-july-13th-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:02:24+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Promising Bank Stocks To Watch Now - July 13th",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-bank-stocks-to-watch-now-july-13th-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T16:02:21+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "BK"
+      ]
+    },
+    {
+      "title": "Meet the man tasked with fixing Citi's tech — and securing its future",
+      "url": "https://www.businessinsider.com/tim-ryan-citi-tech-transformation-ai-citigroup-2026-7",
+      "source": "businessinsider.com",
+      "published": "2026-07-13T15:57:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526301718/0001193125-26-301718-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T15:56:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019929/0001918704-26-019929-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T15:48:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Illinois Tool Works (NYSE:ITW) Price Target Raised to $310.00",
+      "url": "https://www.tickerreport.com/banking-finance/13502645/illinois-tool-works-nyseitw-price-target-raised-to-310-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-13T15:48:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Herc (NYSE:HRI) Given New $165.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/herc-nysehri-given-new-16500-price-target-at-jpmorgan-chase-co-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T15:48:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Illinois Tool Works (NYSE:ITW) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-illinois-tool-works-nyseitw-stock-price-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T15:48:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Marsh & McLennan Companies (NYSE:MRSH) Given New $212.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/marsh-mclennan-companies-nysemrsh-given-new-21200-price-target-at-jpmorgan-chase-co-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T15:48:24+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
