@@ -1557,6 +1557,8 @@ const COLS = [
      fmt:r=>`<a class="tk-lnk" data-tk="${r.ticker}">${r.ticker}</a>`, val:r=>r.ticker},
   {key:"company_name", label:"Company",  type:"text", left:true, disp:r=>r.company_name,
      fmt:r=>esc(r.company_name||""), val:r=>r.company_name},
+  {key:"exchange", label:"Exchange",   type:"text", left:true, disp:r=>r.exchange,
+     fmt:r=>esc(r.exchange||""), val:r=>r.exchange},
   {key:"mktcap_bil", label:"Mkt Cap ($B)", type:"num", unit:"$", disp:r=>r.mktcap_bil,
      fmt:r=>fmtB(r.mktcap_bil)},
   {key:"sector",   label:"Sector",       type:"text", left:true, disp:r=>r.sector,
@@ -1600,6 +1602,7 @@ function badge(s){ return s?`<span class="badge b-${s}" title="${SIG_DESC[s]||''
 //  STATE
 // ============================================================================
 let DATA = [];                 // all computed rows
+let DB_TOTAL = 0;              // authoritative row count from the DB (Content-Range)
 let SECTOR_AVG = {};           // sector -> {eps,ebitda,sales,pe}
 let filters = defaultFilters();
 let colFilters = {};           // key -> {sort, cond, excluded:Set, blanks:bool}
@@ -1618,13 +1621,40 @@ function defaultFilters(){
 // ============================================================================
 //  DATA LOADING  (Supabase → synthetic fallback)
 // ============================================================================
+// Page through ALL rows of a PostgREST query. A plain GET is capped at ~1000
+// rows, so we pull 1000-row windows via the Range header and read the true total
+// from the Content-Range response header ("start-end/total"). The query MUST
+// include an order=... clause so paging is stable (no rows skipped/duplicated
+// between windows). Returns { rows: [...all...], total: <exact DB count> }.
+async function fetchAllRows(pathWithQuery){
+  const PAGE = 1000;
+  let from = 0, all = [], total = null;
+  for(;;){
+    const to = from + PAGE - 1;
+    const r = await fetch(REST + pathWithQuery, {
+      headers: {...HEADERS, "Range-Unit":"items", Range:`${from}-${to}`, Prefer:"count=exact"}
+    });
+    if(!r.ok) throw new Error(pathWithQuery + " → HTTP " + r.status);
+    const chunk = await r.json();
+    all = all.concat(chunk);
+    if(total===null){
+      const cr = r.headers.get("Content-Range");   // e.g. "0-999/5380"
+      const m = cr && /\/(\d+)\s*$/.exec(cr);
+      if(m) total = +m[1];
+    }
+    if(chunk.length < PAGE) break;                 // reached the last window
+    from += PAGE;
+    if(total!==null && from >= total) break;
+  }
+  return { rows: all, total: total!=null ? total : all.length };
+}
+
 async function loadData(){
   let rows=null, source="demo";
   try{
-    const zr = await fetch(`${REST}/zacks_fundamentals?select=*`, {headers:HEADERS});
-    if(zr.ok){
-      const zj = await zr.json();
-      if(Array.isArray(zj) && zj.length){ rows = await enrichWithEdgar(zj); source="live"; }
+    const { rows:zj, total } = await fetchAllRows("/zacks_fundamentals?select=*&order=ticker");
+    if(Array.isArray(zj) && zj.length){
+      rows = await enrichWithEdgar(zj); source="live"; DB_TOTAL = total;
     }
   }catch(e){ /* fall through to synthetic */ }
 
@@ -1646,19 +1676,19 @@ async function enrichWithEdgar(zrows){
     "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"];
   const byTicker = {};
   try{
-    const q = `${REST}/financials?select=ticker,metric,value,fiscal_year&metric=in.(${need.join(",")})`;
-    const r = await fetch(q, {headers:HEADERS});
-    if(r.ok){
-      const fin = await r.json();
-      // keep latest fiscal_year per ticker+metric
-      const latest={};
-      for(const f of fin){
-        const k=f.ticker+"|"+f.metric;
-        if(!latest[k]||f.fiscal_year>latest[k].fiscal_year) latest[k]=f;
-      }
-      for(const k in latest){
-        const f=latest[k]; (byTicker[f.ticker]=byTicker[f.ticker]||{})[f.metric]=f.value;
-      }
+    // Paginate: financials has far more than 1000 rows, so a single GET enriched
+    // only a fraction of tickers. Page through all of them (order=... keeps paging
+    // stable). We keep the latest fiscal_year per ticker+metric below anyway.
+    const q = `/financials?select=ticker,metric,value,fiscal_year&metric=in.(${need.join(",")})&order=ticker,metric,fiscal_year`;
+    const { rows:fin } = await fetchAllRows(q);
+    // keep latest fiscal_year per ticker+metric
+    const latest={};
+    for(const f of fin){
+      const k=f.ticker+"|"+f.metric;
+      if(!latest[k]||f.fiscal_year>latest[k].fiscal_year) latest[k]=f;
+    }
+    for(const k in latest){
+      const f=latest[k]; (byTicker[f.ticker]=byTicker[f.ticker]||{})[f.metric]=f.value;
     }
   }catch(e){}
   const pick=(m,keys)=>{ for(const k of keys) if(m[k]!=null) return m[k]; return null; };
@@ -1852,7 +1882,7 @@ let FILTERED=[];
 function refresh(){
   FILTERED=getFiltered();
   document.getElementById("fCount").textContent=FILTERED.length.toLocaleString();
-  document.getElementById("tCount").textContent=DATA.length.toLocaleString();
+  document.getElementById("tCount").textContent=(DB_TOTAL||DATA.length).toLocaleString();
   renderFilterCount(); renderChips(); renderDist();
   if(view==="table") renderTable();
   else if(view==="scatter") renderScatter();
