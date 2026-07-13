@@ -983,6 +983,62 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
 #view-screener .sidebar, #view-screener .main{ height:100%; }
 #view-screener .banner{ margin:0 0 14px; border-radius:8px; }
 
+/* ═══════════════════════════════════════════════════════════════════════
+   ANALYTICS + FINANCIALS tabs (merged from dashboard.html) — S&P 500 via
+   Supabase, shared company search bar.
+   ═══════════════════════════════════════════════════════════════════════ */
+.analytics-bar { display:flex; align-items:center; gap:20px; flex-wrap:wrap; padding:14px 28px; background:var(--card); border-bottom:1px solid var(--border); }
+.search-wrap { position:relative; width:320px; }
+#search { width:100%; background:var(--card); color:var(--text); border:1px solid var(--border); border-radius:8px; padding:10px 12px; font-size:14px; }
+#search:focus { outline:none; border-color:var(--accent); }
+.suggestions { position:absolute; top:46px; left:0; right:0; background:var(--card); border:1px solid var(--border); border-radius:8px; max-height:340px; overflow-y:auto; z-index:20; display:none; box-shadow:0 8px 24px rgba(0,0,0,.12); }
+.sugg-item { padding:9px 12px; cursor:pointer; font-size:14px; border-bottom:1px solid var(--border); }
+.sugg-item:last-child { border-bottom:none; }
+.sugg-item:hover, .sugg-item.active { background:rgba(0,102,204,.12); }
+.sugg-item b { color:var(--accent); }
+.company-meta { margin:0; }
+.company-meta h2 { margin:0 0 4px; font-size:18px; }
+.company-meta .tags { color:var(--muted); font-size:13px; }
+
+.cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px; margin-bottom:22px; }
+.card { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:14px 16px; }
+.card .label { color:var(--muted); font-size:11px; text-transform:uppercase; letter-spacing:.04em; }
+.card .value { font-size:22px; font-weight:600; margin-top:6px; }
+.card .yr { color:var(--muted); font-size:11px; margin-top:4px; }
+
+.analytics-head { display:flex; justify-content:space-between; align-items:flex-start; gap:16px; margin-bottom:12px; flex-wrap:wrap; }
+.head-controls { display:flex; align-items:center; gap:10px; }
+.mode-toggle { display:inline-flex; border:1px solid var(--border); border-radius:16px; overflow:hidden; }
+.mode-btn { background:#fff; border:none; color:var(--muted); padding:7px 14px; font-size:13px; cursor:pointer; }
+.mode-btn.active { background:var(--accent); color:#fff; font-weight:600; }
+.add-wrap { position:relative; }
+.add-btn { background:var(--accent); color:#fff; border:none; border-radius:16px; padding:7px 15px; font-size:13px; cursor:pointer; }
+.add-btn:hover { filter:brightness(1.07); }
+.metric-menu { position:absolute; top:42px; right:0; width:300px; background:var(--card); border:1px solid var(--border);
+  border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.18); z-index:9999; display:none; padding:8px; }
+.metric-menu input { width:100%; padding:8px 10px; border:1px solid var(--border); border-radius:8px; font-size:13px; margin-bottom:6px; }
+.metric-menu input:focus { outline:none; border-color:var(--accent); }
+.metric-list { max-height:300px; overflow-y:auto; }
+.mcat { font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.04em; color:var(--text); padding:10px 8px 4px; }
+.mitem { display:flex; align-items:center; justify-content:space-between; padding:7px 8px; border-radius:6px; cursor:pointer; font-size:13px; }
+.mitem:hover { background:#f3f4f6; }
+.mitem.sel { color:var(--muted); opacity:.5; cursor:default; }
+.mitem.sel:hover { background:transparent; }
+.mitem .chk { opacity:0; }
+.mitem.sel .chk { opacity:1; }
+.chips { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px; }
+.chip { display:inline-flex; align-items:center; gap:7px; background:var(--grid); border:1px solid var(--border);
+  border-radius:16px; padding:5px 12px; font-size:13px; }
+.chip .dot { width:9px; height:9px; border-radius:50%; }
+.chip .x { cursor:pointer; color:var(--muted); font-weight:700; margin-left:2px; }
+.chip .x:hover { color:var(--neg); }
+
+.tabs { display:flex; gap:6px; margin-bottom:14px; flex-wrap:wrap; }
+.tab { background:var(--card); border:1px solid var(--border); color:var(--muted);
+  padding:9px 16px; border-radius:8px; cursor:pointer; font-size:14px; }
+.tab:hover { color:var(--text); }
+.tab.active { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
+
 </style>
 </head>
 <body>
@@ -993,11 +1049,13 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
   <div class="nav-controls">
     <input type="search" id="search-bar" placeholder="Search ticker or metric…" autocomplete="off"/>
     <div class="nav-tabs">
+      <button class="tab-btn" data-view="analytics">Analytics</button>
+      <button class="tab-btn" data-view="financials">Financials</button>
       <button class="tab-btn active" data-view="bank">Per-Bank</button>
       <button class="tab-btn" data-view="allbanks">All Banks</button>
       <button class="tab-btn" data-view="credit">Credit Analysis</button>
-      <button class="tab-btn" data-view="screener">Screener</button>
       <button class="tab-btn" data-view="risk">Risk</button>
+      <button class="tab-btn" data-view="screener">Screener</button>
       <button class="tab-btn" data-view="news">📰 News</button>
       <button class="tab-btn" data-view="methodology">Methodology</button>
     </div>
@@ -1026,10 +1084,55 @@ code { background:#f3f4f6; padding:1px 5px; border-radius:4px; }
   <span id="bank-title-label" class="bank-title-label"></span>
 </div>
 
+<!-- ANALYTICS/FINANCIALS SEARCH (visible in analytics/financials view; shared by both tabs) -->
+<div class="analytics-bar" id="analytics-bar" style="display:none">
+  <div class="search-wrap">
+    <input id="search" type="text" placeholder="Search any S&amp;P 500 ticker or company…" autocomplete="off" />
+    <div id="suggestions" class="suggestions"></div>
+  </div>
+  <div id="company-meta" class="company-meta"></div>
+</div>
+
 <!-- SEARCH HIGHLIGHT BANNER -->
 <div id="search-banner" class="search-banner" style="display:none"></div>
 
 <main>
+
+<!-- ===== ANALYTICS VIEW (merged from dashboard.html; S&P 500 via Supabase) ===== -->
+<section id="view-analytics" class="view">
+  <div id="cards" class="cards"></div>
+
+  <div class="panel">
+    <div class="analytics-head">
+      <h3>Analytics <span class="muted" style="font-weight:400;font-size:12px;">(USD in billions; EPS &amp; dividends in $; margins in %)</span></h3>
+      <div class="head-controls">
+        <div class="mode-toggle">
+          <button id="modeValue" class="mode-btn active">Value</button>
+          <button id="modeYoy" class="mode-btn">YoY %</button>
+        </div>
+        <div class="add-wrap">
+          <button id="addBtn" class="add-btn">+ Add</button>
+          <div id="metricMenu" class="metric-menu">
+            <input id="metricSearch" type="text" placeholder="Search metrics…" autocomplete="off" />
+            <div id="metricList" class="metric-list"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="chips" class="chips"></div>
+    <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
+  </div>
+</section>
+
+<!-- ===== FINANCIALS VIEW (merged from dashboard.html; S&P 500 via Supabase) ===== -->
+<section id="view-financials" class="view">
+  <div class="panel">
+    <div class="tabs" id="tabs"></div>
+    <p class="note">All dollar &amp; share figures shown <b>in thousands</b> (SEC stores full dollars; values are ÷1000).
+      Per-share figures are in actual $; margins in %. Fiscal years run most-recent first.</p>
+    <div class="table-scroll"><table id="statementTable"></table></div>
+  </div>
+</section>
 
 <!-- ===== BANK VIEW ===== -->
 <section id="view-bank" class="view active">
@@ -2505,6 +2608,8 @@ function activateView(view) {
   if (btn) btn.classList.add('active');
   const selectorBar = document.getElementById('bank-selector-bar');
   if (selectorBar) selectorBar.style.display = view === 'bank' ? 'flex' : 'none';
+  const analyticsBar = document.getElementById('analytics-bar');
+  if (analyticsBar) analyticsBar.style.display = (view === 'analytics' || view === 'financials') ? 'flex' : 'none';
 }
 
 function renderBankView(ticker) {
@@ -3427,6 +3532,521 @@ const CA = (() => {
 
   return { load, initSearch, applyManual, clearManual, renderScenarios };
 })();
+
+// ═══════════════════════════════════════════════════════════════════════
+// ANALYTICS + FINANCIALS TABS (merged from dashboard.html; S&P 500 via Supabase)
+// ═══════════════════════════════════════════════════════════════════════
+let analyticsLoaded = false;
+
+const STATEMENTS = [
+  { id: "income", title: "Income Statement", rows: [
+    ["RevenueFromContractWithCustomerExcludingAssessedTax", "Revenue"],
+    ["CostOfGoodsAndServicesSold", "Cost of Goods & Services Sold"],
+    ["GrossProfit", "Gross Profit"],
+    ["GrossMarginPct", "Gross Margin"],
+    ["OperatingExpenses", "Operating Expenses"],
+    ["SellingGeneralAndAdministrativeExpense", "SG&A Expense"],
+    ["ResearchAndDevelopmentExpense", "R&D Expense"],
+    ["OperatingIncomeLoss", "Operating Income"],
+    ["OperatingMarginPct", "Operating Margin"],
+    ["DepreciationDepletionAndAmortization", "Depreciation & Amortization"],
+    ["EBITDA", "EBITDA"],
+    ["InterestExpense", "Interest Expense"],
+    ["OtherNonoperatingIncomeExpense", "Other Non-operating Inc/Exp"],
+    ["NonoperatingIncomeExpense", "Non-operating Inc/Exp"],
+    ["IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest", "Pre-tax Income"],
+    ["IncomeTaxExpenseBenefit", "Income Tax Expense"],
+    ["NetIncomeLoss", "Net Income"],
+    ["NetMarginPct", "Net Margin"],
+    ["ComprehensiveIncomeNetOfTax", "Comprehensive Income"],
+    ["ShareBasedCompensation", "Share-Based Compensation"],
+    ["EarningsPerShareBasic", "EPS (Basic)"],
+    ["EarningsPerShareDiluted", "EPS (Diluted)"],
+    ["WeightedAverageNumberOfSharesOutstandingBasic", "Wtd Avg Shares (Basic)"],
+    ["WeightedAverageNumberOfDilutedSharesOutstanding", "Wtd Avg Shares (Diluted)"],
+    ["CommonStockDividendsPerShareCashPaid", "Dividends / Share"],
+  ]},
+  { id: "balance", title: "Balance Sheet", rows: [
+    ["Assets", "Total Assets"],
+    ["AssetsCurrent", "Current Assets"],
+    ["AssetsNoncurrent", "Non-current Assets"],
+    ["CashAndCashEquivalentsAtCarryingValue", "Cash & Equivalents"],
+    ["AccountsReceivableNetCurrent", "Accounts Receivable"],
+    ["InventoryNet", "Inventory"],
+    ["PropertyPlantAndEquipmentNet", "PP&E (Net)"],
+    ["PropertyPlantAndEquipmentGross", "PP&E (Gross)"],
+    ["Goodwill", "Goodwill"],
+    ["FiniteLivedIntangibleAssetsNet", "Intangibles (Net)"],
+    ["Liabilities", "Total Liabilities"],
+    ["LiabilitiesCurrent", "Current Liabilities"],
+    ["LiabilitiesNoncurrent", "Non-current Liabilities"],
+    ["AccountsPayableCurrent", "Accounts Payable"],
+    ["DeferredRevenueCurrent", "Deferred Revenue (Current)"],
+    ["CommercialPaper", "Commercial Paper"],
+    ["LongTermDebt", "Long-Term Debt"],
+    ["LongTermDebtNoncurrent", "Long-Term Debt (Non-current)"],
+    ["TotalDebt", "Total Debt"],
+    ["NetDebt", "Net Debt"],
+    ["OperatingLeaseLiability", "Operating Lease Liability"],
+    ["FinanceLeaseLiability", "Finance Lease Liability"],
+    ["StockholdersEquity", "Shareholders' Equity"],
+    ["RetainedEarningsAccumulatedDeficit", "Retained Earnings"],
+    ["CommonStockSharesIssued", "Common Shares Issued"],
+    ["CommonStockSharesOutstanding", "Common Shares Outstanding"],
+    ["EntityCommonStockSharesOutstanding", "Entity Shares Outstanding"],
+  ]},
+  { id: "cashflow", title: "Cash Flow", rows: [
+    ["NetCashProvidedByUsedInOperatingActivities", "Operating Cash Flow"],
+    ["NetCashProvidedByUsedInInvestingActivities", "Investing Cash Flow"],
+    ["NetCashProvidedByUsedInFinancingActivities", "Financing Cash Flow"],
+    ["PaymentsToAcquirePropertyPlantAndEquipment", "CapEx"],
+    ["FreeCashFlow", "Free Cash Flow"],
+    ["PaymentsToAcquireBusinessesNetOfCashAcquired", "Acquisitions (net)"],
+    ["ProceedsFromIssuanceOfLongTermDebt", "LT Debt Issued"],
+    ["RepaymentsOfLongTermDebt", "LT Debt Repaid"],
+    ["PaymentsForRepurchaseOfCommonStock", "Stock Buybacks"],
+    ["ProceedsFromIssuanceOfCommonStock", "Stock Issued"],
+    ["PaymentsOfDividends", "Dividends Paid"],
+    ["CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents", "Cash & Restricted Cash (EOP)"],
+    ["IncomeTaxesPaidNet", "Income Taxes Paid (net)"],
+    ["InterestPaidNet", "Interest Paid (net)"],
+  ]},
+];
+
+const KPI_CARDS = [
+  ["RevenueFromContractWithCustomerExcludingAssessedTax", "Revenue"],
+  ["NetIncomeLoss", "Net Income"],
+  ["FreeCashFlow", "Free Cash Flow"],
+  ["Assets", "Total Assets"],
+];
+
+// ---- analytics chart metric catalog (label -> stored metric key) -----------
+const CHART_CATALOG = [
+  { cat: "📊 Income Statement", items: [
+    ["Total Revenue", "RevenueFromContractWithCustomerExcludingAssessedTax"],
+    ["Cost of Revenue", "CostOfGoodsAndServicesSold"],
+    ["Gross Profit", "GrossProfit"],
+    ["Operating Expenses", "OperatingExpenses"],
+    ["Operating Income", "OperatingIncomeLoss"],
+    ["Pretax Income", "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"],
+    ["Tax Provision", "IncomeTaxExpenseBenefit"],
+    ["Net Income", "NetIncomeLoss"],
+    ["EBITDA", "EBITDA"],
+    ["Basic EPS", "EarningsPerShareBasic"],
+    ["Diluted EPS", "EarningsPerShareDiluted"],
+    ["Basic Shares", "WeightedAverageNumberOfSharesOutstandingBasic"],
+    ["Diluted Shares", "WeightedAverageNumberOfDilutedSharesOutstanding"],
+    ["SG&A", "SellingGeneralAndAdministrativeExpense"],
+    ["R&D Expense", "ResearchAndDevelopmentExpense"],
+    ["Interest Expense", "InterestExpense"],
+    ["Depreciation & Amortization", "DepreciationDepletionAndAmortization"],
+    ["Share Based Compensation", "ShareBasedCompensation"],
+    ["Other Non-Operating Income", "OtherNonoperatingIncomeExpense"],
+    ["Comprehensive Income", "ComprehensiveIncomeNetOfTax"],
+    ["Dividends Per Share", "CommonStockDividendsPerShareCashPaid"],
+    ["Gross Margin %", "GrossMarginPct"],
+    ["Operating Margin %", "OperatingMarginPct"],
+    ["Net Margin %", "NetMarginPct"],
+  ]},
+  { cat: "🏦 Balance Sheet", items: [
+    ["Total Assets", "Assets"],
+    ["Current Assets", "AssetsCurrent"],
+    ["Non-Current Assets", "AssetsNoncurrent"],
+    ["Total Liabilities", "Liabilities"],
+    ["Current Liabilities", "LiabilitiesCurrent"],
+    ["Non-Current Liabilities", "LiabilitiesNoncurrent"],
+    ["Stockholders Equity", "StockholdersEquity"],
+    ["Retained Earnings", "RetainedEarningsAccumulatedDeficit"],
+    ["Long Term Debt", "LongTermDebt"],
+    ["Long Term Debt (Non-Current)", "LongTermDebtNoncurrent"],
+    ["Cash & Equivalents", "CashAndCashEquivalentsAtCarryingValue"],
+    ["Accounts Receivable", "AccountsReceivableNetCurrent"],
+    ["Inventory", "InventoryNet"],
+    ["Accounts Payable", "AccountsPayableCurrent"],
+    ["PP&E Net", "PropertyPlantAndEquipmentNet"],
+    ["PP&E Gross", "PropertyPlantAndEquipmentGross"],
+    ["Goodwill", "Goodwill"],
+    ["Intangibles Net", "FiniteLivedIntangibleAssetsNet"],
+    ["Deferred Revenue", "DeferredRevenueCurrent"],
+    ["Commercial Paper", "CommercialPaper"],
+    ["Shares Issued", "CommonStockSharesIssued"],
+    ["Shares Outstanding", "CommonStockSharesOutstanding"],
+    ["Operating Lease Liability", "OperatingLeaseLiability"],
+    ["Finance Lease Liability", "FinanceLeaseLiability"],
+    ["Total Debt", "TotalDebt"],
+    ["Net Debt", "NetDebt"],
+  ]},
+  { cat: "💵 Cash Flow", items: [
+    ["Operating Cash Flow", "NetCashProvidedByUsedInOperatingActivities"],
+    ["Investing Cash Flow", "NetCashProvidedByUsedInInvestingActivities"],
+    ["Financing Cash Flow", "NetCashProvidedByUsedInFinancingActivities"],
+    ["Capital Expenditures", "PaymentsToAcquirePropertyPlantAndEquipment"],
+    ["Free Cash Flow", "FreeCashFlow"],
+    ["Acquisitions", "PaymentsToAcquireBusinessesNetOfCashAcquired"],
+    ["Proceeds from Debt", "ProceedsFromIssuanceOfLongTermDebt"],
+    ["Debt Repayment", "RepaymentsOfLongTermDebt"],
+    ["Stock Repurchases", "PaymentsForRepurchaseOfCommonStock"],
+    ["Dividends Paid", "PaymentsOfDividends"],
+    ["Stock Issuance", "ProceedsFromIssuanceOfCommonStock"],
+    ["End Cash Position", "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"],
+    ["Tax Paid", "IncomeTaxesPaidNet"],
+    ["Interest Paid", "InterestPaidNet"],
+  ]},
+];
+const COLORS = ["#2d4eb5", "#16a34a", "#db2777", "#d97706", "#7c3aed",
+                "#0891b2", "#dc2626", "#0d9488", "#ca8a04", "#4b5563"];
+const METRIC_LABEL = {};
+CHART_CATALOG.forEach(g => g.items.forEach(([label, m]) => (METRIC_LABEL[m] = label)));
+function labelFor(m) { return METRIC_LABEL[m] || m; }
+let selectedMetrics = ["RevenueFromContractWithCustomerExcludingAssessedTax"];
+let chartMode = "value";   // "value" = bar (billions) | "yoy" = line (% change)
+
+let allCompanies = [];
+let pivot = {};        // metric -> { year: value }
+let years = [];        // sorted desc
+let activeTab = "income";
+
+// ---- formatting ------------------------------------------------------------
+function isPct(m) { return /Pct$/.test(m); }
+function isPerShare(m) { return /EarningsPerShare|PerShareCashPaid/.test(m); }
+
+// returns {text, neg} — dollars/shares are shown in THOUSANDS with commas.
+function fmtCell(metric, v) {
+  if (v === null || v === undefined || Number.isNaN(v)) return { text: "—", neg: false };
+  if (isPct(metric)) return { text: (v * 100).toFixed(1) + "%", neg: v < 0 };
+  if (isPerShare(metric)) {
+    const s = (v < 0 ? "-$" : "$") + Math.abs(v).toFixed(2);
+    return { text: s, neg: v < 0 };
+  }
+  const scaled = v / 1000;               // full dollars -> thousands
+  const txt = Math.round(scaled).toLocaleString("en-US");
+  return { text: txt, neg: scaled < 0 };
+}
+
+// compact form for KPI cards (full dollars -> $B / $M, consistent with chart)
+function fmtCard(metric, v) {
+  if (v == null) return "—";
+  if (isPct(metric)) return (v * 100).toFixed(1) + "%";
+  if (isPerShare(metric)) return "$" + v.toFixed(2);
+  return fmtBillions(v / 1e9);
+}
+
+// ---- companies + search ----------------------------------------------------
+async function loadCompanies() {
+  allCompanies = await api("/companies?select=cik,ticker,name,sector,industry&order=ticker");
+  buildTabs();
+  const aapl = allCompanies.find(c => c.ticker === "AAPL");
+  await selectCompany((aapl || allCompanies[0]).ticker);   // default AAPL
+}
+
+const searchEl = document.getElementById("search");
+const suggEl = document.getElementById("suggestions");
+let suggMatches = [], suggIdx = -1;
+
+function renderSuggestions() {
+  const q = searchEl.value.trim().toUpperCase();
+  if (!q) { suggEl.style.display = "none"; return; }
+  suggMatches = allCompanies.filter(c =>
+    c.ticker.includes(q) || (c.name || "").toUpperCase().includes(q)).slice(0, 12);
+  suggIdx = -1;
+  if (!suggMatches.length) { suggEl.style.display = "none"; return; }
+  suggEl.innerHTML = suggMatches.map((c, i) =>
+    `<div class="sugg-item" data-i="${i}"><b>${c.ticker}</b> <span class="muted">${c.name || ""}</span></div>`
+  ).join("");
+  suggEl.style.display = "block";
+}
+
+searchEl.addEventListener("input", renderSuggestions);
+searchEl.addEventListener("keydown", e => {
+  if (suggEl.style.display === "none") return;
+  if (e.key === "ArrowDown") { suggIdx = Math.min(suggIdx + 1, suggMatches.length - 1); e.preventDefault(); }
+  else if (e.key === "ArrowUp") { suggIdx = Math.max(suggIdx - 1, 0); e.preventDefault(); }
+  else if (e.key === "Enter") {
+    const pick = suggMatches[suggIdx >= 0 ? suggIdx : 0];
+    if (pick) chooseCompany(pick.ticker);
+    return;
+  } else if (e.key === "Escape") { suggEl.style.display = "none"; return; }
+  [...suggEl.children].forEach((el, i) => el.classList.toggle("active", i === suggIdx));
+});
+suggEl.addEventListener("click", e => {
+  const item = e.target.closest(".sugg-item");
+  if (item) chooseCompany(suggMatches[+item.dataset.i].ticker);
+});
+document.addEventListener("click", e => {
+  if (!e.target.closest(".search-wrap")) suggEl.style.display = "none";
+});
+
+function chooseCompany(ticker) {
+  searchEl.value = "";
+  suggEl.style.display = "none";
+  selectCompany(ticker);
+}
+
+// ---- load one company ------------------------------------------------------
+async function selectCompany(ticker) {
+  const company = allCompanies.find(c => c.ticker === ticker);
+  const rows = await api(`/financials?ticker=eq.${encodeURIComponent(ticker)}` +
+    `&select=fiscal_year,metric,value&order=fiscal_year.asc`);
+
+  pivot = {};
+  const yset = new Set();
+  for (const r of rows) {
+    yset.add(r.fiscal_year);
+    (pivot[r.metric] ||= {})[r.fiscal_year] = r.value;
+  }
+  years = [...yset].sort((a, b) => b - a);   // most recent first
+
+  renderMeta(company);
+  renderCards();
+  renderChips();
+  renderChart();
+  renderStatementTable();
+  if (metricMenu.style.display === "block") buildMetricMenu(metricSearch.value);
+}
+
+function renderMeta(c) {
+  document.getElementById("company-meta").innerHTML = c ? `
+    <h2>${c.name || c.ticker} <span class="muted">(${c.ticker})</span></h2>
+    <div class="tags">${[c.sector, c.industry].filter(Boolean).join(" · ")}</div>` : "";
+}
+
+function latestWithValue(metric) {
+  const s = pivot[metric] || {};
+  for (const y of years) if (s[y] != null) return { yr: y, val: s[y] };
+  return { yr: null, val: null };
+}
+
+function renderCards() {
+  document.getElementById("cards").innerHTML = KPI_CARDS.map(([m, label]) => {
+    const { yr, val } = latestWithValue(m);
+    return `<div class="card"><div class="label">${label}</div>
+      <div class="value">${fmtCard(m, val)}</div>
+      <div class="yr">${yr ? "FY" + yr : "no data"}</div></div>`;
+  }).join("");
+}
+
+// ---- tabs + statement table -----------------------------------------------
+function buildTabs() {
+  document.getElementById("tabs").innerHTML = STATEMENTS.map(s =>
+    `<button class="tab ${s.id === activeTab ? "active" : ""}" data-id="${s.id}">${s.title}</button>`
+  ).join("");
+  document.querySelectorAll(".tab").forEach(btn => btn.addEventListener("click", () => {
+    activeTab = btn.dataset.id;
+    document.querySelectorAll(".tab").forEach(b => b.classList.toggle("active", b === btn));
+    renderStatementTable();
+  }));
+}
+
+function renderStatementTable() {
+  const stmt = STATEMENTS.find(s => s.id === activeTab);
+  const head = "<thead><tr><th>Line item</th>" +
+    years.map(y => `<th>FY${y}</th>`).join("") + "</tr></thead>";
+
+  const body = stmt.rows.map(([metric, label]) => {
+    const series = pivot[metric] || {};
+    // hide rows with no data at all
+    if (!years.some(y => series[y] != null)) return "";
+    const cells = years.map(y => {
+      const { text, neg } = fmtCell(metric, series[y]);
+      return `<td class="${neg ? "neg" : ""}">${text}</td>`;
+    }).join("");
+    return `<tr><td>${label}</td>${cells}</tr>`;
+  }).join("");
+
+  document.getElementById("statementTable").innerHTML = head + "<tbody>" + body + "</tbody>";
+}
+
+// ---- analytics: metric picker + multi-line chart ---------------------------
+const chipsEl = document.getElementById("chips");
+const addBtn = document.getElementById("addBtn");
+const metricMenu = document.getElementById("metricMenu");
+const metricSearch = document.getElementById("metricSearch");
+const metricList = document.getElementById("metricList");
+
+// ---- metric unit kinds -----------------------------------------------------
+function isShares(m) { return /Shares|WeightedAverageNumber/.test(m); }
+function metricKind(m) {
+  if (isPct(m)) return "pct";
+  if (isPerShare(m)) return "pershare";
+  if (isShares(m)) return "shares";
+  return "dollars";
+}
+function axisFor(m) { const k = metricKind(m); return (k === "pct" || k === "pershare") ? "yR" : "y"; }
+function plotValue(m, raw) {            // value mode: dollars/shares -> billions
+  if (raw == null) return null;
+  const k = metricKind(m);
+  if (k === "pct") return raw * 100;
+  if (k === "pershare") return raw;
+  return raw / 1e9;                      // dollars & share counts -> billions
+}
+function fmtBillions(v) {               // v already in billions
+  const a = Math.abs(v), s = v < 0 ? "-" : "";
+  if (a === 0) return "$0";
+  if (a >= 1) return s + "$" + (a >= 10 ? a.toFixed(0) : a.toFixed(1)) + "B";
+  if (a >= 0.001) return s + "$" + (a * 1000).toFixed(0) + "M";
+  return s + "$" + Math.round(a * 1e9);
+}
+function yoySeries(m, chrono) {         // year-over-year % change, aligned to chrono
+  return chrono.map((y, i) => {
+    if (i === 0) return null;
+    const cur = pivot[m]?.[y], prev = pivot[m]?.[chrono[i - 1]];
+    if (cur == null || prev == null || prev === 0) return null;
+    return (cur - prev) / Math.abs(prev) * 100;
+  });
+}
+
+function renderChips() {
+  chipsEl.innerHTML = selectedMetrics.map((m, i) => {
+    const color = COLORS[i % COLORS.length];
+    return `<span class="chip"><span class="dot" style="background:${color}"></span>` +
+      `${labelFor(m)}<span class="x" data-metric="${m}">×</span></span>`;
+  }).join("") || `<span class="muted" style="font-size:13px;">No metrics selected — click “+ Add”.</span>`;
+}
+
+function buildMetricMenu(q) {
+  const ql = (q || "").trim().toLowerCase();
+  let html = "";
+  for (const grp of CHART_CATALOG) {
+    const items = grp.items.filter(([label]) => !ql || label.toLowerCase().includes(ql));
+    if (!items.length) continue;
+    html += `<div class="mcat">${grp.cat}</div>`;
+    for (const [label, m] of items) {
+      const sel = selectedMetrics.includes(m);
+      html += `<div class="mitem ${sel ? "sel" : ""}" data-metric="${m}">` +
+        `<span>${label}</span><span class="chk">✓</span></div>`;
+    }
+  }
+  metricList.innerHTML = html || `<div class="mcat">No matching metrics</div>`;
+}
+
+function toggleMetric(m) {
+  const i = selectedMetrics.indexOf(m);
+  if (i >= 0) selectedMetrics.splice(i, 1);
+  else selectedMetrics.push(m);
+  renderChips();
+  renderChart();
+  buildMetricMenu(metricSearch.value);   // keep menu in sync while it stays open
+}
+
+// shared chart option helpers
+function canvasEl() { return document.getElementById("trendChart"); }
+function baseOpts() {
+  return { responsive: true, maintainAspectRatio: false,
+    interaction: { mode: "index", intersect: false },
+    layout: { padding: { top: 22 } },
+    plugins: { legend: { labels: { color: "#1a1a1a", usePointStyle: true, boxWidth: 8 } } } };
+}
+function xScale() { return { grid: { display: false }, border: { display: false }, ticks: { color: "#6b7280" } }; }
+function gridDash() { return { color: "#e5e7eb", borderDash: [4, 4], drawTicks: false }; }
+
+// draw the YoY% above each bar (value mode only)
+const yoyBarLabels = {
+  id: "yoyBarLabels",
+  afterDatasetsDraw(c) {
+    if (chartMode !== "value") return;
+    const ctx = c.ctx;
+    c.data.datasets.forEach((ds, di) => {
+      if (!ds._yoy) return;
+      c.getDatasetMeta(di).data.forEach((bar, i) => {
+        const g = ds._yoy[i];
+        if (g == null) return;
+        ctx.save();
+        ctx.fillStyle = "#6b7280";
+        ctx.font = "10px -apple-system, Segoe UI, sans-serif";
+        ctx.textAlign = "center";
+        ctx.fillText((g >= 0 ? "+" : "") + g.toFixed(1) + "%", bar.x, bar.y - 5);
+        ctx.restore();
+      });
+    });
+  }
+};
+
+let chart;
+function renderChart() {
+  const chrono = [...years].sort((a, b) => a - b);
+  const labels = chrono.map(y => String(y));   // plain years: 2022, 2023, 2024, 2025
+
+  // ----- YoY % mode: line chart of year-over-year % change -----
+  if (chartMode === "yoy") {
+    const datasets = selectedMetrics.map((m, i) => {
+      const color = COLORS[i % COLORS.length];
+      return { label: labelFor(m), data: yoySeries(m, chrono), borderColor: color,
+        backgroundColor: color + "22", tension: .25, spanGaps: true, pointRadius: 3, borderWidth: 2 };
+    });
+    const opts = baseOpts();
+    opts.scales = { x: xScale(),
+      y: { grid: gridDash(), border: { display: false },
+        ticks: { color: "#6b7280", callback: v => v.toFixed(0) + "%" } } };
+    opts.plugins.tooltip = { callbacks: { label: c =>
+      c.dataset.label + ": " + (c.parsed.y == null ? "—"
+        : (c.parsed.y >= 0 ? "+" : "") + c.parsed.y.toFixed(1) + "%") } };
+    if (chart) chart.destroy();
+    chart = new Chart(canvasEl(), { type: "line", data: { labels, datasets }, options: opts });
+    return;
+  }
+
+  // ----- Value mode: grouped bar chart in billions -----
+  const hasR = selectedMetrics.some(m => axisFor(m) === "yR");
+  const datasets = selectedMetrics.map((m, i) => {
+    const color = COLORS[i % COLORS.length];
+    return { label: labelFor(m), data: chrono.map(y => plotValue(m, pivot[m]?.[y])),
+      backgroundColor: color, borderColor: color, borderRadius: 4, borderSkipped: false,
+      categoryPercentage: .7, barPercentage: .9, yAxisID: axisFor(m),
+      _yoy: yoySeries(m, chrono) };
+  });
+  const opts = baseOpts();
+  opts.scales = { x: xScale(),
+    y: { grid: gridDash(), border: { display: false }, beginAtZero: true,
+      ticks: { color: "#6b7280", callback: fmtBillions } } };
+  if (hasR) opts.scales.yR = { position: "right", grid: { drawOnChartArea: false },
+    border: { display: false }, ticks: { color: "#6b7280" } };
+  opts.plugins.tooltip = { callbacks: { label: c => {
+    const m = selectedMetrics[c.datasetIndex], raw = pivot[m]?.[chrono[c.dataIndex]];
+    if (raw == null) return c.dataset.label + ": —";
+    const k = metricKind(m);
+    let val;
+    if (k === "pct") val = (raw * 100).toFixed(1) + "%";
+    else if (k === "pershare") val = "$" + raw.toFixed(2);
+    else if (k === "shares") val = (raw / 1e9).toFixed(2) + "B sh";
+    else val = fmtBillions(raw / 1e9);
+    return c.dataset.label + ": " + val; } } };
+  if (chart) chart.destroy();
+  chart = new Chart(canvasEl(),
+    { type: "bar", data: { labels, datasets }, options: opts, plugins: [yoyBarLabels] });
+}
+
+// metric-picker events
+addBtn.addEventListener("click", e => {
+  e.stopPropagation();
+  const show = metricMenu.style.display !== "block";
+  metricMenu.style.display = show ? "block" : "none";
+  if (show) { metricSearch.value = ""; buildMetricMenu(""); metricSearch.focus(); }
+});
+metricSearch.addEventListener("input", () => buildMetricMenu(metricSearch.value));
+metricList.addEventListener("click", e => {
+  const it = e.target.closest(".mitem");
+  if (!it || it.classList.contains("sel")) return;   // selected = grayed/disabled; remove via chip ×
+  toggleMetric(it.dataset.metric);
+});
+chipsEl.addEventListener("click", e => {
+  const x = e.target.closest(".x");
+  if (x) toggleMetric(x.dataset.metric);
+});
+document.addEventListener("click", e => {
+  if (!e.target.closest(".add-wrap")) metricMenu.style.display = "none";
+});
+
+// chart mode toggle (Value / YoY %)
+const modeValueBtn = document.getElementById("modeValue");
+const modeYoyBtn = document.getElementById("modeYoy");
+function setMode(mode) {
+  chartMode = mode;
+  modeValueBtn.classList.toggle("active", mode === "value");
+  modeYoyBtn.classList.toggle("active", mode === "yoy");
+  renderChart();
+}
+modeValueBtn.addEventListener("click", () => setMode("value"));
+modeYoyBtn.addEventListener("click", () => setMode("yoy"));
 
 // ═══════════════════════════════════════════════════════════════════════
 // RISK TAB — liquidity runway + synthetic credit for the whole S&P 500
@@ -4769,6 +5389,9 @@ document.addEventListener('DOMContentLoaded', () => {
         else { if (distChart) distChart.resize(); if (scatterChart) scatterChart.resize(); }
       } else if (view === 'screener') {
         if (!screenerLoaded) { screenerLoaded = true; window.__loadScreener(); }
+      } else if (view === 'analytics' || view === 'financials') {
+        if (!analyticsLoaded) { analyticsLoaded = true; loadCompanies(); }
+        else if (view === 'analytics' && chart) { chart.resize(); }
       }
     });
   });
