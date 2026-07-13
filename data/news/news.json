@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-13T22:30:11.734420+00:00",
+  "last_updated": "2026-07-13T23:58:34.792846+00:00",
   "headlines": [
+    {
+      "title": "When AI Knows Everything, What Should Humans Learn?",
+      "url": "https://dev.to/jamilxt/when-ai-knows-everything-what-should-humans-learn-p1l",
+      "source": "dev.to",
+      "published": "2026-07-13T22:28:56+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Recent Analysts’ Ratings Changes for Norwegian Cruise Line (NCLH)",
+      "url": "https://www.tickerreport.com/banking-finance/13502835/recent-analysts-ratings-changes-for-norwegian-cruise-line-nclh.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-13T22:26:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Top REITs to Watch: BofA Analyst Names Seven Best Picks",
       "url": "https://www.investing.com/news/stock-market-news/top-reits-to-watch-bofa-analyst-names-seven-best-picks-93CH-4789512",
@@ -52,6 +70,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526302145/0001193125-26-302145-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-13T21:18:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "AMD Stock Price Target Raised to $620 by Bank of America",
       "url": "https://www.gurufocus.com/news/8956130/amd-stock-price-target-raised-to-620-by-bank-of-america",
       "source": "gurufocus.com",
@@ -68,6 +95,16 @@
       "published": "2026-07-13T21:08:38+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Delta’s Starbucks Crowned Best Airline Coffee, Amex Centurion Named Best Lounge: New Survey Gets Both Wrong",
+      "url": "https://viewfromthewing.com/deltas-starbucks-crowned-best-airline-coffee-amex-centurion-named-best-lounge-new-survey-gets-both-wrong/",
+      "source": "viewfromthewing.com",
+      "published": "2026-07-13T21:04:48+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -97,6 +134,15 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Says This AI Pick and Shovel Stock Has 25% Upside",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-says-this-ai-pick-and-shovel-stock-has-25-upside-1800821/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-13T20:56:25+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -155,74 +201,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Wall Street Prepares For Four Top Banks To Report Earnings On The Same Day",
-      "url": "https://finance.yahoo.com/m/4a4ea8c5-8523-31c9-b201-b670ba675fbc/wall-street-prepares-for-four.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T20:16:13+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon faces Warren scrutiny over reported Epstein-linked lobbying advice",
-      "url": "https://www.investing.com/news/stock-market-news/jamie-dimon-faces-warren-scrutiny-over-reported-epsteinlinked-lobbying-advice-4789174",
-      "source": "investing.com",
-      "published": "2026-07-13T20:11:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Party At Goldman Sachs Since 2022 May Be Ending (Rating Downgrade) | $GS",
-      "url": "https://seekingalpha.com/article/4921678-the-party-at-goldman-sachs-since-2022-may-be-ending-rating-downgrade",
-      "source": "seekingalpha.com",
-      "published": "2026-07-13T20:03:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "EQPT Maintained by Citigroup -- Price Target Lowered to $18.00",
-      "url": "https://www.gurufocus.com/news/8956055/eqpt-maintained-by-citigroup-price-target-lowered-to-1800",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T20:03:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Papa John's downgraded on turnaround concerns, lower forecasts",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095368/papa-john-s-downgraded-on-turnaround-concerns-lower-forecasts-1095368.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-07-13T20:02:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "WAB Maintains Rating by Citigroup -- Price Target Lowered to $311",
-      "url": "https://www.gurufocus.com/news/8956052/wab-maintains-rating-by-citigroup-price-target-lowered-to-311",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T20:01:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Earnings Put Trading in Focus",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-earnings-put-trading-focus-195758338.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T19:57:58+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
