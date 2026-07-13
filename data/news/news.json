@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-07-13T05:03:53.852351+00:00",
+  "last_updated": "2026-07-13T08:34:28.448316+00:00",
   "headlines": [
+    {
+      "title": "Drone Startup Helsing Raises at $18 Billion With Goldman Backing",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T07:27:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s Wilson Sees Profit Boost for Stocks Beyond Tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/morgan-stanley-s-wilson-sees-profit-boost-for-stocks-beyond-tech",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T07:25:40+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC is AMF Tjanstepension AB's 8th Largest Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-is-amf-tjanstepension-abs-8th-largest-position-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T07:06:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. (NYSE:C) Given Consensus Recommendation of \"Moderate Buy\" by Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-inc-nysec-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T06:44:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Raises Apple (AAPL) Price Target on Market Share Gains",
+      "url": "https://www.gurufocus.com/news/8954779/citigroup-raises-apple-aapl-price-target-on-market-share-gains",
+      "source": "gurufocus.com",
+      "published": "2026-07-13T05:40:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs pegs Nifty target at 26,500 by June 2027; lists 15 stocks from key themes",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-pegs-nifty-target-at-26500-by-june-2027-lists-15-stocks-from-key-themes/articleshow/132357525.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-13T05:27:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Global Funds Return to Indian Stocks With $1 Billion in Buying",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/global-funds-return-to-indian-stocks-with-1-billion-in-buying",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T05:21:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "SBI Funds IPO anchor book draws Capital Group, BlackRock, Goldman, GIC",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-ipo-anchor-book-draws-capital-group-blackrock-goldman-gic/articleshow/132356321.cms",
@@ -72,15 +136,6 @@
       "published": "2026-07-13T03:00:51+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "url": "https://stockstory.org/us/stocks/nyse/c/news/earnings/citigroup-c-reports-q2-everything-you-need-to-know-ahead-of-earnings",
-      "source": "stockstory.org",
-      "published": "2026-07-13T03:00:48+00:00",
-      "tickers": [
         "C"
       ]
     },
@@ -220,68 +275,6 @@
       "published": "2026-07-12T18:00:31+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Inflation, Bank of America, Wells Fargo, Goldman, ASML, J&J, and More to Watch This Week",
-      "url": "https://finance.yahoo.com/m/73937fd6-a4d6-3f00-a0ca-40f831d909a2/inflation%2C-bank-of-america%2C.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-12T18:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "LGT Fund Management Co Ltd. Acquires 62,764 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.tickerreport.com/banking-finance/13501719/lgt-fund-management-co-ltd-acquires-62764-shares-of-wells-fargo-company-wfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-12T17:54:59+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pinterest (NYSE:PINS) Rating Increased to Buy at Wall Street Zen",
-      "url": "https://www.tickerreport.com/banking-finance/13501646/pinterest-nysepins-rating-increased-to-buy-at-wall-street-zen.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-12T17:31:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Holdings Raised by UNIVEST FINANCIAL Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-holdings-raised-by-univest-financial-corp-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T17:21:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Stock Holdings Trimmed by UNIVEST FINANCIAL Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-holdings-trimmed-by-univest-financial-corp-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T17:21:04+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Shares Sold by Seneca House Advisors",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-sold-by-seneca-house-advisors-2026-07-12/",
-      "source": "marketbeat.com",
-      "published": "2026-07-12T17:20:48+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
       ]
     }
   ]
