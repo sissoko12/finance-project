@@ -1,283 +1,278 @@
 {
-  "last_updated": "2026-07-07T05:58:39.028304+00:00",
+  "last_updated": "2026-07-13T08:34:28.448316+00:00",
   "headlines": [
     {
-      "title": "$C^3$ASD: Multi-Level Consistency-Driven Representation Learning",
-      "url": "https://arxiv.org/abs/2607.03018",
-      "source": "arxiv.org",
-      "published": "2026-07-07T04:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Inside the BoF and Clinuvel Community Lunch Exploring the Future of Skin Health",
-      "url": "https://www.businessoffashion.com/articles/the-business-of-beauty-global-forum-2026/inside-the-bof-and-clinuvel-community-lunch-exploring-the-future-of-skin-health/",
-      "source": "businessoffashion.com",
-      "published": "2026-07-07T04:00:00+00:00",
+      "title": "Drone Startup Helsing Raises at $18 Billion With Goldman Backing",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T07:27:07+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMorgan Relaxes Return-to-Office Rules During London Heat Wave",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/jpmorgan-relaxes-return-to-office-rules-during-london-heat-wave",
+      "title": "Morgan Stanley’s Wilson Sees Profit Boost for Stocks Beyond Tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/morgan-stanley-s-wilson-sees-profit-boost-for-stocks-beyond-tech",
       "source": "bloomberg.com",
-      "published": "2026-07-07T04:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Faces Departures in Hong Kong DCM Team",
-      "url": "https://www.gurufocus.com/news/8946467/morgan-stanley-faces-departures-in-hong-kong-dcm-team",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T03:30:37+00:00",
+      "published": "2026-07-13T07:25:40+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Zeta Global Holdings Corp Webinar Moderated by Citi Transcript",
-      "url": "https://www.gurufocus.com/news/8946459/zeta-global-holdings-corp-webinar-moderated-by-citi-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-07-07T03:00:10+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Americans deserve to know how far Bank of America’s de-banking went",
-      "url": "https://nypost.com/2026/07/06/opinion/bank-of-america-must-come-clean-on-de-banking/",
-      "source": "nypost.com",
-      "published": "2026-07-07T02:10:12+00:00",
+      "title": "Bank of America Corporation $BAC is AMF Tjanstepension AB's 8th Largest Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-is-amf-tjanstepension-abs-8th-largest-position-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T07:06:47+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Prediction: Buying This Space Economy Stock Could Help Set You Up for Life",
-      "url": "https://www.fool.com/investing/2026/07/06/prediction-buying-this-space-economy-stock-could-h/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-07T01:05:00+00:00",
+      "title": "Citigroup Inc. (NYSE:C) Given Consensus Recommendation of \"Moderate Buy\" by Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-inc-nysec-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-07-13/",
+      "source": "marketbeat.com",
+      "published": "2026-07-13T06:44:16+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Had a baby, my parents want to give him money, where to put it?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1upf96f/had_a_baby_my_parents_want_to_give_him_money/",
+      "title": "Citigroup Raises Apple (AAPL) Price Target on Market Share Gains",
+      "url": "https://www.gurufocus.com/news/8954779/citigroup-raises-apple-aapl-price-target-on-market-share-gains",
+      "source": "gurufocus.com",
+      "published": "2026-07-13T05:40:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs pegs Nifty target at 26,500 by June 2027; lists 15 stocks from key themes",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-pegs-nifty-target-at-26500-by-june-2027-lists-15-stocks-from-key-themes/articleshow/132357525.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-13T05:27:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Global Funds Return to Indian Stocks With $1 Billion in Buying",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/global-funds-return-to-indian-stocks-with-1-billion-in-buying",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T05:21:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SBI Funds IPO anchor book draws Capital Group, BlackRock, Goldman, GIC",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-ipo-anchor-book-draws-capital-group-blackrock-goldman-gic/articleshow/132356321.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-13T04:22:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Linklaters advises Citi on the inaugural digitally native commercial paper issuance on Clearstream’s D7",
+      "url": "https://legaldesire.com/linklaters-advises-citi-on-the-inaugural-digitally-native-commercial-paper-issuance-on-clearstreams-d7/",
+      "source": "legaldesire.com",
+      "published": "2026-07-13T04:03:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jane Fraser’s ruthless remake of Citigroup",
+      "url": "https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713",
+      "source": "ft.com",
+      "published": "2026-07-13T04:00:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MiniMax Shares Slump After JPMorgan Cuts Target Price Further",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/minimax-shares-slump-after-jpmorgan-cuts-target-price-further",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T03:23:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Q2 Earnings: What To Expect",
+      "url": "https://stockstory.org/us/stocks/nyse/bac/news/earnings/bank-of-america-bac-q2-earnings-what-to-expect",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:01:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Q2 Earnings Report Preview: What To Look For",
+      "url": "https://stockstory.org/us/stocks/nyse/jpm/news/earnings/jpmorgan-chase-jpm-q2-earnings-report-preview-what-to-look-for",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:01:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What To Expect From Goldman Sachs’s (GS) Q2 Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/gs/news/earnings/what-to-expect-from-goldman-sachss-gs-q2-earnings",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:01:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "What To Expect From Wells Fargo’s (WFC) Q2 Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/wfc/news/earnings/what-to-expect-from-wells-fargos-wfc-q2-earnings",
+      "source": "stockstory.org",
+      "published": "2026-07-13T03:00:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SBI Funds IPO Anchor Book 20 Times Subscribed; Draws Capital Group, BlackRock, Goldman, ADIA, GIC",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/capital-group-blackrock-said-to-buy-into-sbi-funds-anchor-book",
+      "source": "bloomberg.com",
+      "published": "2026-07-13T03:00:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "18 and want financial independence",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuyq21/18_and_want_financial_independence/",
       "source": "reddit.com",
-      "published": "2026-07-07T00:22:16+00:00",
+      "published": "2026-07-13T02:19:34+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Big US banks explore Fiserv network deal: WSJ",
-      "url": "https://awesomecapital.blogspot.com/2026/07/big-us-banks-explore-fiserv-network.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-07-07T00:16:53+00:00",
+      "title": "Goldman Sachs models favor France for 2026 World Cup, England gaining ground",
+      "url": "https://cryptobriefing.com/goldman-sachs-models-favor-france-for-2026-world-cup-england-gaining-ground/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-13T01:35:24+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Major US banks may seek deal to bypass card fee caps",
-      "url": "https://awesomecapital.blogspot.com/2026/07/major-us-banks-may-seek-deal-to-bypass.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-07-06T23:57:01+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Where PNC is cutting Colorado branches following FirstBank conversion",
-      "url": "https://www.bizjournals.com/denver/news/2026/07/06/pnc-branch-cuts-colorado-firstbank-acquisition.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-06T23:05:03+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Why PNC is cutting 18 branches in Colorado and Arizona following FirstBank conversion",
-      "url": "https://www.bizjournals.com/pittsburgh/news/2026/07/06/pnc-branch-cuts-colorado-arizona.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-06T22:35:09+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Chip Stocks Rally in AI Trade Revival | The Close 7/6/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-06/the-close-7-6-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-06T22:14:51+00:00",
+      "title": "Broker - Schwab or IBKR - I currently have an account at Morgan Stanley and I want to ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuugaq/broker_schwab_or_ibkr/",
+      "source": "reddit.com",
+      "published": "2026-07-12T23:05:50+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Syntiant Corp taps Citigroup, BofA Securities, UBS, and others to underwrite its edge AI IPO",
-      "url": "https://cryptobriefing.com/syntiant-corp-ipo-underwriters-edge-ai/",
+      "title": "Better Financial Sector ETF: European-Focused iShares EUFN vs. State Street KBE Targeting U.S. Banks",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/12/better-financial-sector-etf-european-focused-ishares-eufn-vs-state-street-kbe-targeting-u-s-banks/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-12T22:56:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase reaches 60 branches in North Carolina",
+      "url": "https://www.bizjournals.com/triangle/news/2026/07/10/jpmorgan-chase-north-carolina-branch-expansion.html?utm_source=newsletter&utm_medium=email&utm_campaign=BizFayetteville.com+Friday+Update#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-07-12T22:32:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Catcher Luis Torrens #13 of the New York Mets watches as Jarren Duran #16 of the Boston Red Sox follows through on his ninth inning game tying RBI single at Citi Field on July 12, 2026, in New York City.",
+      "url": "https://thebrunswicknews.com/sports/national_sports/catcher-luis-torrens-13-of-the-new-york-mets-watches-as-jarren-duran-16-of/image_55cbc223-c374-5817-8d41-2a4e7245e22f.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-07-12T21:18:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX-Tesla merger seen as strategically coherent by J.P. Morgan",
+      "url": "https://cryptobriefing.com/spacex-tesla-merger-seen-as-strategically-coherent-by-jp-morgan/",
       "source": "cryptobriefing.com",
-      "published": "2026-07-06T21:37:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Downgrades Ferguson (FERG) Amid Mixed Growth Outlook",
-      "url": "https://www.gurufocus.com/news/8946002/goldman-sachs-downgrades-ferguson-ferg-amid-mixed-growth-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-07-06T21:31:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026075616/0001213900-26-075616-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T21:29:51+00:00",
+      "published": "2026-07-12T20:34:13+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Mets Try To Salvage Atlanta Finale Before Returning Home",
-      "url": "https://wabcradio.com/2026/07/06/mets-braves-finale-royals-next-july-6-2026/",
-      "source": "wabcradio.com",
-      "published": "2026-07-06T21:27:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Weaker demand to cap near-term gold price gains, J.P. Morgan says",
-      "url": "https://seekingalpha.com/news/4611797-weaker-demand-to-cap-near-term-gold-price-gains-jp-morgan-says",
-      "source": "seekingalpha.com",
-      "published": "2026-07-06T21:25:43+00:00",
+      "title": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
+      "url": "https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk-spacex-tesla/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-12T20:30:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526296437/0001193125-26-296437-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T21:25:24+00:00",
+      "title": "Capital One Financial Corporation (NYSE:COF) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-corporation-nysecof-given-consensus-recommendation-of-moderate-buy-by-brokerages-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T20:29:30+00:00",
       "tickers": [
-        "GS"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426019383/0001918704-26-019383-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T21:23:19+00:00",
+      "title": "Truist Financial Corporation (NYSE:TFC) Receives Average Recommendation of \"Hold\" from Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-corporation-nysetfc-receives-average-recommendation-of-hold-from-analysts-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T20:29:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Strategies Fund (NYSE:DHF) Shares Cross Below Fifty Day Moving Average – Here’s Why",
+      "url": "https://www.tickerreport.com/banking-finance/13501885/bny-mellon-high-yield-strategies-fund-nysedhf-shares-cross-below-fifty-day-moving-average-heres-why.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-12T19:41:01+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Why Citigroup is the one to watch when banks report earnings this week",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=6509e3b1-dbb8-4c4b-88aa-43950d1668ea&mod=mw_rss_bulletins",
+      "source": "marketwatch.com",
+      "published": "2026-07-12T18:51:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Welch & Forbes LLC Cuts Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-welch-forbes-llc-cuts-position-in-bank-of-america-corporation-bac-2026-07-12/",
+      "source": "marketbeat.com",
+      "published": "2026-07-12T18:00:49+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526296393/0001193125-26-296393-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T21:13:23+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs downgrades Ferguson stock rating on subdued growth outlook",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-ferguson-stock-rating-on-subdued-growth-outlook-93CH-4777644",
-      "source": "investing.com",
-      "published": "2026-07-06T21:08:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs upgrades Rentokil Initial stock rating on growth recovery",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-rentokil-initial-stock-rating-on-growth-recovery-93CH-4777643",
-      "source": "investing.com",
-      "published": "2026-07-06T21:08:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426019379/0001918704-26-019379-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T21:06:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226033552/0001839882-26-033552-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T21:04:58+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive",
-      "url": "https://www.barchart.com/story/news/3150038/amid-strong-positive-catalysts-and-the-endorsement-of-goldman-sachs-amazon-stock-looks-very-attractive",
-      "source": "barchart.com",
-      "published": "2026-07-06T21:01:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1% Higher on Analyst Upgrade",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-1-higher-on-analyst-upgrade-2026-07-06/",
+      "title": "WealthPLAN Partners LLC Sells 3,413 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthplan-partners-llc-sells-3413-shares-of-jpmorgan-chase-co-jpm-2026-07-12/",
       "source": "marketbeat.com",
-      "published": "2026-07-06T21:00:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Price Up 2% Following Analyst Upgrade",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-stock-price-up-2-following-analyst-upgrade-2026-07-06/",
-      "source": "marketbeat.com",
-      "published": "2026-07-06T21:00:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026075568/0001213900-26-075568-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-06T20:58:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Antofagasta (ANFGF) Upgraded by J.P. Morgan with Increased Price Target",
-      "url": "https://www.gurufocus.com/news/8945960/antofagasta-anfgf-upgraded-by-jp-morgan-with-increased-price-target",
-      "source": "gurufocus.com",
-      "published": "2026-07-06T20:55:55+00:00",
+      "published": "2026-07-12T18:00:31+00:00",
       "tickers": [
         "JPM"
       ]
