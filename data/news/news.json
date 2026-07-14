@@ -1,6 +1,75 @@
 {
-  "last_updated": "2026-07-14T05:53:44.756013+00:00",
+  "last_updated": "2026-07-14T08:20:34.636097+00:00",
   "headlines": [
+    {
+      "title": "JPM, Jamie Dimon Plans Writing and Teaching After CEO Role",
+      "url": "https://www.gurufocus.com/news/8957002/jpm-jamie-dimon-plans-writing-and-teaching-after-ceo-role",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T07:27:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Birinyi Associates Inc. Buys New Position in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-birinyi-associates-inc-buys-new-position-in-the-charles-schwab-corporation-schw-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T07:12:58+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "AMG National Trust Bank Purchases 125,738 Shares of The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amg-national-trust-bank-purchases-125738-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T07:05:01+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Visible Alpha Breakdown Of U.S. Banks' Second Quarter 2026 Earnings Expectations | $JPM $BAC $C $WFC",
+      "url": "https://seekingalpha.com/article/4921775-visible-alpha-breakdown-of-us-banks-second-quarter-2026-earnings-expectations",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T07:05:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Financial (COF) Projected to Release Quarterly Earnings on Tuesday",
+      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-cof-projected-to-release-quarterly-earnings-on-tuesday-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T06:26:12+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Just Dial shares rocket 36% in two days! Why Citi, Kotak, others think Reliance-backed stock can rally up to 62%?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/just-dial-shares-rocket-36-in-two-days-why-citi-kotak-others-think-reliance-backed-stock-can-rally-up-to-62/articleshow/132382158.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-14T05:47:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
+      "url": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
+      "source": "cnbc.com",
+      "published": "2026-07-14T05:44:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "5 Housing Finance Stocks Receive ‘Buy’ Calls from Morgan Stanley with Up to 40% Upside",
       "url": "https://tradebrains.in/5-housing-finance-stocks-receive-buy-calls-from-morgan-stanley-with-up-to-40-upside/",
@@ -66,6 +135,18 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Fidelity, BNY, Goldman Sachs, JPMorgan, Morgan Stanley, Citi Lead Strategy’s Bitcoin Banking Adoption",
+      "url": "https://news.bitcoin.com/fidelity-bny-goldman-sachs-jpmorgan-morgan-stanley-citi-lead-strategys-bitcoin-banking-adoption/",
+      "source": "bitcoin.com",
+      "published": "2026-07-14T01:01:12+00:00",
+      "tickers": [
+        "C",
+        "GS",
+        "MS",
+        "BK"
       ]
     },
     {
@@ -209,72 +290,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010564/0000950103-26-010564-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T21:08:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Delta’s Starbucks Crowned Best Airline Coffee, Amex Centurion Named Best Lounge: New Survey Gets Both Wrong",
-      "url": "https://viewfromthewing.com/deltas-starbucks-crowned-best-airline-coffee-amex-centurion-named-best-lounge-new-survey-gets-both-wrong/",
-      "source": "viewfromthewing.com",
-      "published": "2026-07-13T21:04:48+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026077628/0001213900-26-077628-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T21:04:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Pembina Pipeline (PBA) Gains 4.4% Following Wells Fargo's Upgrade",
-      "url": "https://www.gurufocus.com/news/8956097/pembina-pipeline-pba-gains-44-following-wells-fargos-upgrade",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T20:58:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Atmos Energy (ATO) Receives Overweight Rating from Wells Fargo, Target Set at $200",
-      "url": "https://www.gurufocus.com/news/8956096/atmos-energy-ato-receives-overweight-rating-from-wells-fargo-target-set-at-200",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T20:57:46+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Says This AI Pick and Shovel Stock Has 25% Upside",
-      "url": "https://www.insidermonkey.com/blog/morgan-stanley-says-this-ai-pick-and-shovel-stock-has-25-upside-1800821/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-13T20:56:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Funnels $205M to Refi Blackstone’s East Hotel in Miami",
-      "url": "https://commercialobserver.com/2026/07/jpmorgan-east-hotel-miami-brickel-blackstone/",
-      "source": "commercialobserver.com",
-      "published": "2026-07-13T20:50:20+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
