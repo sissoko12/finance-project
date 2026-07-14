@@ -1,219 +1,119 @@
 {
-  "last_updated": "2026-07-14T10:19:26.782382+00:00",
+  "last_updated": "2026-07-14T11:57:18.709703+00:00",
   "headlines": [
     {
-      "title": "Bank of America survey shows global investors most bullish since February",
-      "url": "https://cryptobriefing.com/bofa-survey-investors-bullish-since-february/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-14T09:13:41+00:00",
+      "title": "Bank of America in charts: Consumer banking revenue +5% Y/Y, global wealth and investment management +15.7%",
+      "url": "https://seekingalpha.com/news/4613459-bank-of-america-in-charts-consumer-banking-revenue-5-yy-global-wealth-and-investment-management-157",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T11:24:31+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Shares Bought by Kestra Advisory Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-kestra-advisory-services-llc-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T09:12:29+00:00",
+      "title": "Bank of America profit rises on record trading boost",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-profit-rises-on-trading-boost-4790403",
+      "source": "investing.com",
+      "published": "2026-07-14T11:18:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple & more",
+      "url": "https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html",
+      "source": "cnbc.com",
+      "published": "2026-07-14T11:18:30+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Sees Record Profit as Stock-Trading Climbs 86%",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/jpmorgan-sees-record-profit-as-stock-trading-climbs-86-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T11:17:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Pricey Stocks Charge Into CPI, Earnings and Fed, All in One Day",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/pricey-stocks-charge-into-cpi-earnings-and-fed-all-in-one-day",
-      "source": "bloomberg.com",
-      "published": "2026-07-14T09:10:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "OHLA stock tumbles after J.P.Morgan sells 6% stake",
-      "url": "https://www.investing.com/news/stock-market-news/ohla-stock-tumbles-after-jpmorgan-sells-6-stake-93CH-4790000",
+      "title": "Goldman Sachs expects June CPI to show core inflation below consensus",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-expects-june-cpi-to-show-core-inflation-below-consensus-93CH-4790514",
       "source": "investing.com",
-      "published": "2026-07-14T09:08:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Sumitomo Mitsui Trust Group Inc. Has $1.80 Billion Stock Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sumitomo-mitsui-trust-group-inc-has-180-billion-stock-position-in-jpmorgan-chase-co-jpm-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T09:04:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA Warns Stock Bulls to Consider Curbing Aggressive Buying",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/bofa-warns-stock-bulls-to-consider-curbing-aggressive-buying",
-      "source": "bloomberg.com",
-      "published": "2026-07-14T09:02:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ever Cheaper AI Will Limit Its Returns. Just ask AT&T",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-07-14/cheaper-ai-that-benefits-society-will-limits-returns-for-creators-investors",
-      "source": "bloomberg.com",
-      "published": "2026-07-14T09:00:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AI spending and Fed hopes fuel sharp rebound in investor sentiment, BofA finds",
-      "url": "https://invezz.com/news/2026/07/14/ai-spending-and-fed-hopes-fuel-sharp-rebound-in-investor-sentiment-bofa-finds/",
-      "source": "invezz.com",
-      "published": "2026-07-14T08:45:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Indra shares climb after Morgan Stanley upgrades stock, lifts target price",
-      "url": "https://www.investing.com/news/stock-market-news/indra-shares-climb-after-morgan-stanley-upgrades-stock-lifts-target-price-4789896",
-      "source": "investing.com",
-      "published": "2026-07-14T08:33:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America expects Bank of Canada to hold rates at 2.25%",
-      "url": "https://www.investing.com/news/economy-news/bank-of-america-expects-bank-of-canada-to-hold-rates-at-225-93CH-4789885",
-      "source": "investing.com",
-      "published": "2026-07-14T08:26:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Calamos Advisors LLC Grows Holdings in Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-grows-holdings-in-citigroup-inc-c-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T08:18:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Calamos Advisors LLC Sells 39,827 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-sells-39827-shares-of-capital-one-financial-corporation-cof-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T08:17:45+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Calamos Advisors LLC Increases Stock Holdings in Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-increases-stock-holdings-in-morgan-stanley-ms-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T08:17:05+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital Management Associates NY Has $98,000 Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-management-associates-ny-has-98000-position-in-bank-of-america-corporation-bac-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T08:01:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "EssilorLuxottica falls as Goldman cuts to Neutral on slowing AI glasses outlook",
-      "url": "https://www.investing.com/news/stock-market-news/essilorluxottica-falls-as-goldman-cuts-to-neutral-on-slowing-ai-glasses-outlook-4789856",
-      "source": "investing.com",
-      "published": "2026-07-14T07:58:54+00:00",
+      "published": "2026-07-14T11:16:07+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "State Street to Continue Buying Tech Dips, Veitmane Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-14/state-street-to-continue-buying-tech-dips-veitmane-says-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-14T07:51:14+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Bought by Diversify Wealth Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-bought-by-diversify-wealth-management-llc-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T07:44:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Diversify Wealth Management LLC Raises Stake in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-diversify-wealth-management-llc-raises-stake-in-the-charles-schwab-corporation-schw-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T07:44:53+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Global investors turn most bullish since February, BofA survey shows",
-      "url": "https://www.investing.com/news/economy-news/global-investors-turn-most-bullish-since-february-bofa-survey-shows-4789823",
-      "source": "investing.com",
-      "published": "2026-07-14T07:37:41+00:00",
+      "title": "Bank of America stock falls despite earnings beat",
+      "url": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-14T11:15:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "JPM, Jamie Dimon Plans Writing and Teaching After CEO Role",
-      "url": "https://www.gurufocus.com/news/8957002/jpm-jamie-dimon-plans-writing-and-teaching-after-ceo-role",
-      "source": "gurufocus.com",
-      "published": "2026-07-14T07:27:58+00:00",
+      "title": "Wells Fargo profit jumps on interest income boost, trading boom",
+      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-profit-jumps-on-interest-income-boost-4790326",
+      "source": "investing.com",
+      "published": "2026-07-14T11:14:17+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo in charts: Q2 consumer banking growth slows as commercial activity climbs",
+      "url": "https://seekingalpha.com/news/4613458-wells-fargo-in-charts-q2-consumer-banking-growth-slows-as-commercial-activity-climbs",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T11:11:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Earnings Snapshot: Bank of America net interest income and investment banking drive solid top-line beat",
+      "url": "https://seekingalpha.com/news/4613416-earnings-snapshot-bank-of-america-net-interest-income-and-investment-banking-drive-solid-top-line-beat",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T11:09:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Q2 earnings beat as investment banking, equities fees surge, but expenses rise too",
+      "url": "https://seekingalpha.com/news/4613485-jpmorgan-chase-q2-earnings-beat-as-investment-banking-equities-fees-surge-but-expenses-rise-too",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T11:09:16+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Birinyi Associates Inc. Buys New Position in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-birinyi-associates-inc-buys-new-position-in-the-charles-schwab-corporation-schw-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T07:12:58+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "AMG National Trust Bank Purchases 125,738 Shares of The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amg-national-trust-bank-purchases-125738-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T07:05:01+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Visible Alpha Breakdown Of U.S. Banks' Second Quarter 2026 Earnings Expectations | $JPM $BAC $C $WFC",
-      "url": "https://seekingalpha.com/article/4921775-visible-alpha-breakdown-of-us-banks-second-quarter-2026-earnings-expectations",
+      "title": "Wells Fargo stock rises as Q2 interest income beats estimates, provisions fall",
+      "url": "https://seekingalpha.com/news/4613487-wells-fargo-stock-rises-as-q2-interest-income-beat-estimates-provisions-fall",
       "source": "seekingalpha.com",
-      "published": "2026-07-14T07:05:00+00:00",
+      "published": "2026-07-14T11:08:05+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stock Movers: Bank of America, JPMorgan, Wells Fargo (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-07-14/stock-movers-bank-of-america-jpmorgan-wells-fargo-podcast",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T11:03:13+00:00",
       "tickers": [
         "JPM",
         "BAC",
@@ -222,67 +122,176 @@
       ]
     },
     {
-      "title": "Should You Buy ICICI Prudential AMC Shares? Here’s What Morgan Stanley, HSBC and Others Have to Say",
-      "url": "https://tradebrains.in/should-you-buy-icici-prudential-amc-shares-heres-what-morgan-stanley-hsbc-and-others-have-to-say/",
-      "source": "tradebrains.in",
-      "published": "2026-07-14T06:58:50+00:00",
+      "title": "Earnings Snapshot: Wells Fargo tops estimates as commercial banking revenue reaches $3.12B",
+      "url": "https://seekingalpha.com/news/4613494-earnings-snapshot-wells-fargo-tops-estimates-as-commercial-banking-revenue-reaches-312b",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T10:57:20+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One Financial (COF) Projected to Release Quarterly Earnings on Tuesday",
-      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-cof-projected-to-release-quarterly-earnings-on-tuesday-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T06:26:12+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Just Dial shares rocket 36% in two days! Why Citi, Kotak, others think Reliance-backed stock can rally up to 62%?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/just-dial-shares-rocket-36-in-two-days-why-citi-kotak-others-think-reliance-backed-stock-can-rally-up-to-62/articleshow/132382158.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-14T05:47:07+00:00",
-      "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
-      "url": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
-      "source": "cnbc.com",
-      "published": "2026-07-14T05:44:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "5 Housing Finance Stocks Receive ‘Buy’ Calls from Morgan Stanley with Up to 40% Upside",
-      "url": "https://tradebrains.in/5-housing-finance-stocks-receive-buy-calls-from-morgan-stanley-with-up-to-40-upside/",
-      "source": "tradebrains.in",
-      "published": "2026-07-14T04:00:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Has Jane Fraser remade Citigroup?",
-      "url": "https://www.ft.com/content/ce09aaee-b538-4cf1-b10a-cb96b7fe5f10",
-      "source": "ft.com",
-      "published": "2026-07-14T04:00:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs stock picks! RIL, HDFC Bank, Adani Power, among 14 names brokerage is bullish on",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-stock-picks-ril-hdfc-bank-adani-power-among-14-names-brokerage-is-bullish-on/slideshow/132380450.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-14T03:46:13+00:00",
+      "title": "Bullish Exhaustion Signals Sighted In Goldman Sachs Ahead Of Earnings",
+      "url": "https://seekingalpha.com/article/4921866-bullish-exhaustion-signals-sighted-in-goldman-sachs-ahead-of-earnings",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T10:52:00+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Reports Second Quarter 2026 Financial Results",
+      "url": "http://www.businesswire.com/news/home/20260713183510/en/Wells-Fargo-Reports-Second-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
+      "source": "businesswire.com",
+      "published": "2026-07-14T10:49:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America GAAP EPS of $1.21 beats by $0.09, revenue of $31.6B beats by $830M",
+      "url": "https://seekingalpha.com/news/4613489-bank-of-america-gaap-eps-of-1_21-beats-by-0_09-revenue-of-31_6b-beats-by-830m",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T10:45:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo: Q2 Earnings Snapshot",
+      "url": "https://wtop.com/news/2026/07/wells-fargo-q2-earnings-snapshot/",
+      "source": "wtop.com",
+      "published": "2026-07-14T10:38:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank earnings live updates: JPMorgan, BofA, Goldman, Citi and Wells Fargo are set to report - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVExbDBuR1dkY2F5X1Q1Zmw0SU5NbzlYek5xR2wycnhlTEZFdmhMcXRFNXdaMHhCMFBXbTdUNzhmM0NST1FTSHlOLXc4ZnkydThaaDBqeHExbTdoQWJiYjhxaW9uclUwTzliaWxSZzA2TkJLNnBXYi1kZGhfaTdVZkZpNk5aR0dJUXlZaTYyVTVUd9IBlwFBVV95cUxQV2FFWFhCVEREQjNxSEVKMVZ1VDgwLUx0ZDhpRkhIWmJ4VDVKSEpVV3ZHMkc4ZG1hMExEcDhKNExvcXkzc1RsMEUzcm5rVDBqSkpBcDg1WDdWTjVCYUdGd2pBb1dad3d4TDdHQXFYRzlDSG4xejRXZWdWdDVoa250Z012eEY0dVFEdlI4VHEtNGc2VEhXTGVJ?oc=5",
+      "source": "google.com",
+      "published": "2026-07-14T10:38:00+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorganChase Reports Second-Quarter 2026 Financial Results",
+      "url": "http://www.businesswire.com/news/home/20260713327923/en/JPMorganChase-Reports-Second-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-07-14T10:38:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Rate Hike Chances Rising as Warsh Takes Center Stage",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-14/rate-hike-chances-rising-as-warsh-takes-center-stage",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T10:37:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Non-GAAP EPS of $6.14 beats by $0.34, revenue of $58B beats by $6.7B",
+      "url": "https://seekingalpha.com/news/4613486-jpmorgan-chase-non-gaap-eps-of-6_14-beats-by-0_34-revenue-of-58b-beats-by-6_7b",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T10:35:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Y.D. More Investments Ltd Cuts Stock Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-yd-more-investments-ltd-cuts-stock-position-in-the-goldman-sachs-group-inc-gs-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T10:33:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo GAAP EPS of $2.00 beats by $0.28, revenue of $22.62B beats by $770M",
+      "url": "https://seekingalpha.com/news/4613483-wells-fargo-gaap-eps-of-2_00-beats-by-0_28-revenue-of-22_62b-beats-by-770m",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T10:32:41+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026048078/0001628280-26-048078-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-14T10:30:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000288/0000072971-26-000288-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-14T10:28:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "China's AI Race Is Producing New Winners. Goldman Sachs Says A Few Models Are Pulling Ahead.",
+      "url": "https://www.ibtimes.com/chinas-ai-race-producing-new-winners-goldman-sachs-says-few-models-are-pulling-ahead-3805241",
+      "source": "ibtimes.com",
+      "published": "2026-07-14T10:24:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Legacy Capital Group California Inc. Sells 2,827 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legacy-capital-group-california-inc-sells-2827-shares-of-the-goldman-sachs-group-inc-gs-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T10:16:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Legacy Capital Group California Inc. Sells 9,680 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legacy-capital-group-california-inc-sells-9680-shares-of-bank-of-america-corporation-bac-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T10:16:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA survey shows investor bullishness reaches highest since December 2024",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-survey-shows-investor-bullishness-reaches-highest-since-december-2024-4790158",
+      "source": "investing.com",
+      "published": "2026-07-14T10:03:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State of Michigan Retirement System Sells 11,900 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-of-michigan-retirement-system-sells-11900-shares-of-citigroup-inc-c-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T10:00:47+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
