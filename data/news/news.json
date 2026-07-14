@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-07-14T03:24:14.428467+00:00",
+  "last_updated": "2026-07-14T05:53:44.756013+00:00",
   "headlines": [
+    {
+      "title": "5 Housing Finance Stocks Receive ‘Buy’ Calls from Morgan Stanley with Up to 40% Upside",
+      "url": "https://tradebrains.in/5-housing-finance-stocks-receive-buy-calls-from-morgan-stanley-with-up-to-40-upside/",
+      "source": "tradebrains.in",
+      "published": "2026-07-14T04:00:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Has Jane Fraser remade Citigroup?",
+      "url": "https://www.ft.com/content/ce09aaee-b538-4cf1-b10a-cb96b7fe5f10",
+      "source": "ft.com",
+      "published": "2026-07-14T04:00:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs stock picks! RIL, HDFC Bank, Adani Power, among 14 names brokerage is bullish on",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-stock-picks-ril-hdfc-bank-adani-power-among-14-names-brokerage-is-bullish-on/slideshow/132380450.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-14T03:46:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan, Citi, BofA and Wells Fargo are building their own tokenized deposit network.",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uvx7jm/jpmorgan_citi_bofa_and_wells_fargo_are_building/",
+      "source": "reddit.com",
+      "published": "2026-07-14T03:28:41+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan just issued real commercial paper on Solana. Citi is tokenizing private shares. The same banks that called Bitcoin a fraud are now quietly running live financial instruments on public blockchains.",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uvwyq7/jpmorgan_just_issued_real_commercial_paper_on/",
+      "source": "reddit.com",
+      "published": "2026-07-14T03:16:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Has A New Favourite In India's AI Journey, And It Isn't An IT Giant",
+      "url": "https://www.ndtvprofit.com/markets/bofa-initiates-buy-on-netweb-technologies-nvidia-partner-amid-india-ai-boom-check-upside-target-price-11767821",
+      "source": "ndtvprofit.com",
+      "published": "2026-07-14T03:16:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Road closure on East Broad Street for final tree removal July 16",
+      "url": "https://greensboro.com/article_95f649c7-d63c-530d-8b17-2095cfde31a2.html",
+      "source": "greensboro.com",
+      "published": "2026-07-14T01:53:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley Pathway Large Cap Equity ETF (NYSEARCA:MSLC) Short Interest Down 85.5% in June",
       "url": "https://www.tickerreport.com/banking-finance/13502863/morgan-stanley-pathway-large-cap-equity-etf-nysearcamslc-short-interest-down-85-5-in-june.html",
@@ -67,7 +134,7 @@
     },
     {
       "title": "Wells Fargo's $50M Deal In Atty's Ponzi Scheme Gets 1st OK",
-      "url": "https://www.law360.com/consumerprotection/articles/2500079?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "url": "https://www.law360.com/corporate/articles/2500079?utm_source=rss&utm_medium=rss&utm_campaign=section",
       "source": "law360.com",
       "published": "2026-07-13T21:52:16+00:00",
       "tickers": [
@@ -208,45 +275,6 @@
       "published": "2026-07-13T20:50:20+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Update: Nasdaq Snaps 3-Day Winning Streak as Oil Jumps Amid US-Iran Tensions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-snaps-3-day-winning-204142128.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T20:41:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank Stocks 'An Island of Stability' as Financial Institutions Set to Release Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-stocks-apos-island-stability-203932525.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T20:39:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street Poised For Strong Q2 Earnings As SpaceX IPO, Market Volatility Drive Growth",
-      "url": "https://www.ibtimes.com/wall-street-banks-q2-earnings-spacex-ipo-trading-revenue-3805244",
-      "source": "ibtimes.com",
-      "published": "2026-07-13T20:32:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "QTTB Upgraded by Wells Fargo -- Rating Changed to Overweight",
-      "url": "https://www.gurufocus.com/news/8956080/qttb-upgraded-by-wells-fargo-rating-changed-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T20:30:36+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
