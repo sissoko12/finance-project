@@ -1,174 +1,279 @@
 {
-  "last_updated": "2026-07-14T17:24:19.515290+00:00",
+  "last_updated": "2026-07-14T18:41:58.971145+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000183988226034612/0001839882-26-034612-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-14T16:48:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America: Path To $70 | $JPM $WFC $BAC",
-      "url": "https://seekingalpha.com/article/4921978-bank-of-america-path-to-70",
-      "source": "seekingalpha.com",
-      "published": "2026-07-14T16:27:28+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Digital Banking Becomes Bank of America’s Deposit Engine",
-      "url": "https://www.pymnts.com/earnings/2026/digital-banking-becomes-bank-of-america-deposit-engine/",
-      "source": "pymnts.com",
-      "published": "2026-07-14T16:24:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street banks smash records on stock trading boom",
-      "url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
-      "source": "ft.com",
-      "published": "2026-07-14T16:23:20+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Dimon says JPMorgan CEO transition remains years away",
-      "url": "https://www.americanbanker.com/news/dimon-says-jpmorgan-ceo-transition-remains-years-away",
-      "source": "americanbanker.com",
-      "published": "2026-07-14T16:22:20+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wall Street Lunch: Big Banks Fall Despite Upbeat Earnings | $JPM $BAC $WFC $C $GS",
-      "url": "https://seekingalpha.com/article/4921952-wall-street-lunch-big-banks-fall-despite-upbeat-earnings",
-      "source": "seekingalpha.com",
-      "published": "2026-07-14T16:15:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs profit tops estimates on trading boom and deal spree",
-      "url": "https://cryptobriefing.com/goldman-sachs-profit-trading-boom-deals/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-14T16:05:52+00:00",
+      "title": "VIK Maintained by Goldman Sachs -- Price Target Raised to $108",
+      "url": "https://www.gurufocus.com/news/8958283/vik-maintained-by-goldman-sachs-price-target-raised-to-108",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T18:05:40+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Broadcom is a 'core AI winner,' even as MediaTek encroaches, Morgan Stanley says",
-      "url": "https://seekingalpha.com/news/4613668-broadcom-is-a-core-ai-winner-even-as-mediatek-encroaches-morgan-stanley-says",
-      "source": "seekingalpha.com",
-      "published": "2026-07-14T16:05:23+00:00",
+      "title": "WAT Maintained by Goldman Sachs -- Price Target Raised to $425",
+      "url": "https://www.gurufocus.com/news/8958282/wat-maintained-by-goldman-sachs-price-target-raised-to-425",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T18:05:00+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Promising Financial Stocks To Follow Today - July 14th",
-      "url": "https://www.marketbeat.com/instant-alerts/promising-financial-stocks-to-follow-today-july-14th-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T16:03:28+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Best Bank Stocks To Watch Today - July 14th",
-      "url": "https://www.marketbeat.com/instant-alerts/best-bank-stocks-to-watch-today-july-14th-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T16:03:27+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "BK"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026077853/0001213900-26-077853-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-14T16:02:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Valero Energy (NYSE:VLO) Price Target Raised to $302.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/valero-energy-nysevlo-price-target-raised-to-30200-at-citigroup-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T16:00:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Allison Transmission (NYSE:ALSN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-allison-transmission-nysealsn-stock-price-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T16:00:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010585/0000950103-26-010585-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-14T16:00:03+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Google Stock Falls Below $350: Citi and UBS Provide New Price Target",
-      "url": "https://watcher.guru/news/google-stock-falls-below-350-citi-and-ubs-provide-new-price-target",
-      "source": "watcher.guru",
-      "published": "2026-07-14T16:00:00+00:00",
-      "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020044/0001918704-26-020044-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020070/0001918704-26-020070-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-14T15:59:10+00:00",
+      "published": "2026-07-14T18:04:35+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Recent Investment Analysts’ Ratings Changes for Mercury Systems (MRCY)",
-      "url": "https://www.tickerreport.com/banking-finance/13503569/recent-investment-analysts-ratings-changes-for-mercury-systems-mrcy.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-14T15:56:43+00:00",
+      "title": "NOC Maintained by Goldman Sachs -- Price Target Lowered to $533",
+      "url": "https://www.gurufocus.com/news/8958281/noc-maintained-by-goldman-sachs-price-target-lowered-to-533",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T18:04:25+00:00",
       "tickers": [
-        "JPM"
+        "GS"
+      ]
+    },
+    {
+      "title": "KDP Maintained by Citigroup -- Price Target Raised to $37.00",
+      "url": "https://www.gurufocus.com/news/8958272/kdp-maintained-by-citigroup-price-target-raised-to-3700",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T18:01:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "LDOS Maintained by Goldman Sachs -- Price Target Lowered to $152",
+      "url": "https://www.gurufocus.com/news/8958270/ldos-maintained-by-goldman-sachs-price-target-lowered-to-152",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T18:01:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. 2026 Q2 - Results - Earnings Call Presentation | $GS",
+      "url": "https://seekingalpha.com/article/4922041-the-goldman-sachs-group-inc-2026-q2-results-earnings-call-presentation",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T18:00:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BAH Maintained by Goldman Sachs -- Price Target Lowered to $65",
+      "url": "https://www.gurufocus.com/news/8958268/bah-maintained-by-goldman-sachs-price-target-lowered-to-65",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T18:00:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) Reports Strong Earnings, Beats Estimates with 92% EPS Surge",
+      "url": "https://www.gurufocus.com/news/8958240/goldman-sachs-gs-reports-strong-earnings-beats-estimates-with-92-eps-surge",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:56:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Is Bank of America Corp a Buy After Its Latest Earnings Report?",
+      "url": "https://www.fool.com/investing/2026/07/14/is-bank-of-america-corp-a-buy-after-its-latest-ear/",
+      "source": "fool.com",
+      "published": "2026-07-14T17:50:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley runs to Broadcom's defense as investors worry about competition",
+      "url": "https://www.cnbc.com/2026/07/14/analysts-run-to-broadcoms-defense-as-investors-worry-about-competition.html",
+      "source": "cnbc.com",
+      "published": "2026-07-14T17:48:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Broadcom (AVGO) Stock: Why Morgan Stanley Isn’t Worried About the MediaTek Challenge",
+      "url": "https://blockonomi.com/broadcom-avgo-stock-why-morgan-stanley-isnt-worried-about-the-mediatek-challenge/",
+      "source": "blockonomi.com",
+      "published": "2026-07-14T17:45:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America expects 2026 NII growth at the upper end of 6% to 8% while targeting 300 to 400 bps operating leverage",
+      "url": "https://seekingalpha.com/news/4613707-bank-of-america-expects-2026-nii-growth-at-the-upper-end-of-6-percent-to-8-percent-while",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T17:41:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation (BAC) Q2 2026 Earnings Call Transcript | $BAC $BACRP",
+      "url": "https://seekingalpha.com/article/4921951-bank-of-america-corporation-bac-q2-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T17:39:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "PL Maintained by Goldman Sachs -- Price Target Raised to $25.00",
+      "url": "https://www.gurufocus.com/news/8958231/pl-maintained-by-goldman-sachs-price-target-raised-to-2500",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:36:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "KTOS Maintains Buy Rating by Goldman Sachs -- Price Target Lowered to $89.00",
+      "url": "https://www.gurufocus.com/news/8958230/ktos-maintains-buy-rating-by-goldman-sachs-price-target-lowered-to-8900",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:36:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MPC Maintained by Citigroup -- Price Target Raised to $303",
+      "url": "https://www.gurufocus.com/news/8958229/mpc-maintained-by-citigroup-price-target-raised-to-303",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:35:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PSX Maintained by Citigroup -- Price Target Raised to $204",
+      "url": "https://www.gurufocus.com/news/8958227/psx-maintained-by-citigroup-price-target-raised-to-204",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:34:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NCLH Maintained by Goldman Sachs -- Price Target Raised to $16.00",
+      "url": "https://www.gurufocus.com/news/8958225/nclh-maintained-by-goldman-sachs-price-target-raised-to-1600",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:34:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SBUX Maintained by Citigroup -- Price Target Raised to $108",
+      "url": "https://www.gurufocus.com/news/8958224/sbux-maintained-by-citigroup-price-target-raised-to-108",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:33:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VLO Maintained by Citigroup -- Price Target Raised to $302",
+      "url": "https://www.gurufocus.com/news/8958222/vlo-maintained-by-citigroup-price-target-raised-to-302",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:33:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ALH Maintains Rating by Citigroup -- Price Target Raised to $31.00",
+      "url": "https://www.gurufocus.com/news/8958220/alh-maintains-rating-by-citigroup-price-target-raised-to-3100",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:32:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi (C) - Related Stocks: C,",
+      "url": "https://www.gurufocus.com/news/8958218/citi-c",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:32:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ALSN Maintained by Citigroup -- Price Target Lowered to $125",
+      "url": "https://www.gurufocus.com/news/8958217/alsn-maintained-by-citigroup-price-target-lowered-to-125",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:31:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CAT Maintained by Citigroup -- Price Target Raised to $1100",
+      "url": "https://www.gurufocus.com/news/8958215/cat-maintained-by-citigroup-price-target-raised-to-1100",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:31:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CMI Maintained by Citigroup -- Price Target Raised to $790",
+      "url": "https://www.gurufocus.com/news/8958213/cmi-maintained-by-citigroup-price-target-raised-to-790",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:30:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "C: Citi's CEO Highlights Focus on Immediate and Future Goals",
+      "url": "https://www.gurufocus.com/news/8958206/c-citis-ceo-highlights-focus-on-immediate-and-future-goals",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:28:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Major US Banks, ASML, and TSMC: EX DeFi Focuses on Earnings Season, AI Boom Faces Key Investment Test",
+      "url": "https://www.globenewswire.com/en/news-release/2026/07/14/3327194/0/en/Major-US-Banks-ASML-and-TSMC-EX-DeFi-Focuses-on-Earnings-Season-AI-Boom-Faces-Key-Investment-Test.html",
+      "source": "globenewswire.com",
+      "published": "2026-07-14T17:28:00+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
+      "title": "C: Citi Provides Insight on Second Half Outlook",
+      "url": "https://www.gurufocus.com/news/8958204/c-citi-provides-insight-on-second-half-outlook",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:27:12+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi (C) Indicates Potential for Increased Severance in Second Half",
+      "url": "https://www.gurufocus.com/news/8958202/citi-c-indicates-potential-for-increased-severance-in-second-half",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T17:26:22+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
