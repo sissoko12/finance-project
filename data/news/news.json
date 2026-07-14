@@ -1,6 +1,185 @@
 {
-  "last_updated": "2026-07-14T08:20:34.636097+00:00",
+  "last_updated": "2026-07-14T10:19:26.782382+00:00",
   "headlines": [
+    {
+      "title": "Bank of America survey shows global investors most bullish since February",
+      "url": "https://cryptobriefing.com/bofa-survey-investors-bullish-since-february/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-14T09:13:41+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Bought by Kestra Advisory Services LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-kestra-advisory-services-llc-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T09:12:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Pricey Stocks Charge Into CPI, Earnings and Fed, All in One Day",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/pricey-stocks-charge-into-cpi-earnings-and-fed-all-in-one-day",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T09:10:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "OHLA stock tumbles after J.P.Morgan sells 6% stake",
+      "url": "https://www.investing.com/news/stock-market-news/ohla-stock-tumbles-after-jpmorgan-sells-6-stake-93CH-4790000",
+      "source": "investing.com",
+      "published": "2026-07-14T09:08:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Sumitomo Mitsui Trust Group Inc. Has $1.80 Billion Stock Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sumitomo-mitsui-trust-group-inc-has-180-billion-stock-position-in-jpmorgan-chase-co-jpm-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T09:04:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA Warns Stock Bulls to Consider Curbing Aggressive Buying",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/bofa-warns-stock-bulls-to-consider-curbing-aggressive-buying",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T09:02:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ever Cheaper AI Will Limit Its Returns. Just ask AT&T",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-07-14/cheaper-ai-that-benefits-society-will-limits-returns-for-creators-investors",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T09:00:20+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AI spending and Fed hopes fuel sharp rebound in investor sentiment, BofA finds",
+      "url": "https://invezz.com/news/2026/07/14/ai-spending-and-fed-hopes-fuel-sharp-rebound-in-investor-sentiment-bofa-finds/",
+      "source": "invezz.com",
+      "published": "2026-07-14T08:45:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Indra shares climb after Morgan Stanley upgrades stock, lifts target price",
+      "url": "https://www.investing.com/news/stock-market-news/indra-shares-climb-after-morgan-stanley-upgrades-stock-lifts-target-price-4789896",
+      "source": "investing.com",
+      "published": "2026-07-14T08:33:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America expects Bank of Canada to hold rates at 2.25%",
+      "url": "https://www.investing.com/news/economy-news/bank-of-america-expects-bank-of-canada-to-hold-rates-at-225-93CH-4789885",
+      "source": "investing.com",
+      "published": "2026-07-14T08:26:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Calamos Advisors LLC Grows Holdings in Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-grows-holdings-in-citigroup-inc-c-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T08:18:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Calamos Advisors LLC Sells 39,827 Shares of Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-sells-39827-shares-of-capital-one-financial-corporation-cof-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T08:17:45+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Calamos Advisors LLC Increases Stock Holdings in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-increases-stock-holdings-in-morgan-stanley-ms-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T08:17:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Capital Management Associates NY Has $98,000 Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-management-associates-ny-has-98000-position-in-bank-of-america-corporation-bac-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T08:01:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "EssilorLuxottica falls as Goldman cuts to Neutral on slowing AI glasses outlook",
+      "url": "https://www.investing.com/news/stock-market-news/essilorluxottica-falls-as-goldman-cuts-to-neutral-on-slowing-ai-glasses-outlook-4789856",
+      "source": "investing.com",
+      "published": "2026-07-14T07:58:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "State Street to Continue Buying Tech Dips, Veitmane Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/state-street-to-continue-buying-tech-dips-veitmane-says-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-14T07:51:14+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Shares Bought by Diversify Wealth Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-bought-by-diversify-wealth-management-llc-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T07:44:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Diversify Wealth Management LLC Raises Stake in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-diversify-wealth-management-llc-raises-stake-in-the-charles-schwab-corporation-schw-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T07:44:53+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Global investors turn most bullish since February, BofA survey shows",
+      "url": "https://www.investing.com/news/economy-news/global-investors-turn-most-bullish-since-february-bofa-survey-shows-4789823",
+      "source": "investing.com",
+      "published": "2026-07-14T07:37:41+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "JPM, Jamie Dimon Plans Writing and Teaching After CEO Role",
       "url": "https://www.gurufocus.com/news/8957002/jpm-jamie-dimon-plans-writing-and-teaching-after-ceo-role",
@@ -40,6 +219,15 @@
         "BAC",
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Should You Buy ICICI Prudential AMC Shares? Here’s What Morgan Stanley, HSBC and Others Have to Say",
+      "url": "https://tradebrains.in/should-you-buy-icici-prudential-amc-shares-heres-what-morgan-stanley-hsbc-and-others-have-to-say/",
+      "source": "tradebrains.in",
+      "published": "2026-07-14T06:58:50+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -95,201 +283,6 @@
       "published": "2026-07-14T03:46:13+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan, Citi, BofA and Wells Fargo are building their own tokenized deposit network.",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uvx7jm/jpmorgan_citi_bofa_and_wells_fargo_are_building/",
-      "source": "reddit.com",
-      "published": "2026-07-14T03:28:41+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan just issued real commercial paper on Solana. Citi is tokenizing private shares. The same banks that called Bitcoin a fraud are now quietly running live financial instruments on public blockchains.",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uvwyq7/jpmorgan_just_issued_real_commercial_paper_on/",
-      "source": "reddit.com",
-      "published": "2026-07-14T03:16:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA Has A New Favourite In India's AI Journey, And It Isn't An IT Giant",
-      "url": "https://www.ndtvprofit.com/markets/bofa-initiates-buy-on-netweb-technologies-nvidia-partner-amid-india-ai-boom-check-upside-target-price-11767821",
-      "source": "ndtvprofit.com",
-      "published": "2026-07-14T03:16:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Road closure on East Broad Street for final tree removal July 16",
-      "url": "https://greensboro.com/article_95f649c7-d63c-530d-8b17-2095cfde31a2.html",
-      "source": "greensboro.com",
-      "published": "2026-07-14T01:53:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Fidelity, BNY, Goldman Sachs, JPMorgan, Morgan Stanley, Citi Lead Strategy’s Bitcoin Banking Adoption",
-      "url": "https://news.bitcoin.com/fidelity-bny-goldman-sachs-jpmorgan-morgan-stanley-citi-lead-strategys-bitcoin-banking-adoption/",
-      "source": "bitcoin.com",
-      "published": "2026-07-14T01:01:12+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "MS",
-        "BK"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Pathway Large Cap Equity ETF (NYSEARCA:MSLC) Short Interest Down 85.5% in June",
-      "url": "https://www.tickerreport.com/banking-finance/13502863/morgan-stanley-pathway-large-cap-equity-etf-nysearcamslc-short-interest-down-85-5-in-june.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-14T00:40:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees Nifty rallying to 26,500, signals nearly 9.5% upside",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-sees-nifty-rallying-to-26500-signals-nearly-9-5-upside/articleshow/132378525.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-14T00:08:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Should Disney Get Out Of Streaming, Or Double Down On Distribution?",
-      "url": "https://www.forbes.com/sites/dbloom/2026/07/13/should-disney-get-out-of-streaming-or-double-down-on-distribution/",
-      "source": "forbes.com",
-      "published": "2026-07-13T23:59:35+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Sees First Bank Goes Live with its Clearing and Token Services Solution",
-      "url": "https://finovate.com/citi-sees-first-bank-goes-live-with-its-clearing-and-token-services-solution/",
-      "source": "finovate.com",
-      "published": "2026-07-13T23:48:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Weekly Ratings Changes for Bruker (BRKR)",
-      "url": "https://www.tickerreport.com/banking-finance/13502852/research-analysts-weekly-ratings-changes-for-bruker-brkr.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-13T23:26:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "When AI Knows Everything, What Should Humans Learn?",
-      "url": "https://dev.to/jamilxt/when-ai-knows-everything-what-should-humans-learn-p1l",
-      "source": "dev.to",
-      "published": "2026-07-13T22:28:56+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Recent Analysts’ Ratings Changes for Norwegian Cruise Line (NCLH)",
-      "url": "https://www.tickerreport.com/banking-finance/13502835/recent-analysts-ratings-changes-for-norwegian-cruise-line-nclh.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-13T22:26:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo's $50M Deal In Atty's Ponzi Scheme Gets 1st OK",
-      "url": "https://www.law360.com/corporate/articles/2500079?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-07-13T21:52:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top REITs to Watch: BofA Analyst Names Seven Best Picks",
-      "url": "https://www.investing.com/news/stock-market-news/top-reits-to-watch-bofa-analyst-names-seven-best-picks-93CH-4789512",
-      "source": "investing.com",
-      "published": "2026-07-13T21:51:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo’s Mike Mayo: Citi My Top Pick of Big Banks",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-13/wells-fargo-s-mike-mayo-citi-my-top-pick-of-big-banks-video",
-      "source": "bloomberg.com",
-      "published": "2026-07-13T21:47:45+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "FirstFT: Investors cut back bets on Asia’s chipmakers",
-      "url": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275",
-      "source": "ft.com",
-      "published": "2026-07-13T21:37:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MDU Resources (MDU) Gains 1.5% as Wells Fargo Initiates Coverage with Overweight Rating",
-      "url": "https://www.gurufocus.com/news/8956156/mdu-resources-mdu-gains-15-as-wells-fargo-initiates-coverage-with-overweight-rating",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T21:24:21+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase Prepares for Earnings Amid Market Tensions",
-      "url": "https://www.gurufocus.com/news/8956157/jpmorgan-chase-prepares-for-earnings-amid-market-tensions",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T21:24:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526302145/0001193125-26-302145-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-13T21:18:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "AMD Stock Price Target Raised to $620 by Bank of America",
-      "url": "https://www.gurufocus.com/news/8956130/amd-stock-price-target-raised-to-620-by-bank-of-america",
-      "source": "gurufocus.com",
-      "published": "2026-07-13T21:12:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
