@@ -1,6 +1,196 @@
 {
-  "last_updated": "2026-07-14T21:31:41.168469+00:00",
+  "last_updated": "2026-07-14T23:02:38.566831+00:00",
   "headlines": [
+    {
+      "title": "State Street Corporation Declares Dividends on its Common Stock and Non-Cumulative Perpetual Preferred Stock Series “G,” “I,” “J,” and “K”",
+      "url": "http://www.businesswire.com/news/home/20260714544599/en/State-Street-Corporation-Declares-Dividends-on-its-Common-Stock-and-Non-Cumulative-Perpetual-Preferred-Stock-Series-%E2%80%9CG%E2%80%9D-%E2%80%9CI%E2%80%9D-%E2%80%9CJ%E2%80%9D-and-%E2%80%9CK%E2%80%9D/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-07-14T22:00:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citi’s Best Quarter This Decade Shows Global Complexity’s New Price",
+      "url": "https://www.pymnts.com/earnings/2026/citi-best-quarter-this-decade-shows-global-complexity-new-price/",
+      "source": "pymnts.com",
+      "published": "2026-07-14T21:24:54+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "What’s Behind a Red-Hot Quarter for Bank Earnings",
+      "url": "https://pdst.fm/e/traffic.megaphone.fm/WSJ9815665126.mp3",
+      "source": "pdst.fm",
+      "published": "2026-07-14T21:15:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Banks Unveil Blockchain Network as Stablecoin Payments Reach $33 Trillion",
+      "url": "https://www.gurufocus.com/news/8956583/banks-unveil-blockchain-network-as-stablecoin-payments-reach-33-trillion",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T21:13:06+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034712/0001839882-26-034712-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-14T21:11:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034711/0001839882-26-034711-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-14T21:09:40+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226034710/0001839882-26-034710-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-14T21:07:53+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs raises $10B in high-grade bond sale - report",
+      "url": "https://seekingalpha.com/news/4613785-goldman-sachs-raises-10b-in-high-grade-bond-sale-report",
+      "source": "seekingalpha.com",
+      "published": "2026-07-14T21:06:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000121390026078000/0001213900-26-078000-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-14T21:03:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group Inc (GS) Q2 2026 Earnings Call Highlights: Record Revenues and ...",
+      "url": "https://www.gurufocus.com/news/8958455/the-goldman-sachs-group-inc-gs-q2-2026-earnings-call-highlights-record-revenues-and-strategic-growth",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T21:00:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 2.5% Higher Following Earnings Beat",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-25-higher-following-earnings-beat-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T21:00:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Trading 1.9% Higher on Earnings Beat",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-19-higher-on-earnings-beat-2026-07-14/",
+      "source": "marketbeat.com",
+      "published": "2026-07-14T21:00:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co (JPM) Q2 2026 Earnings Call Highlights: Strong Net Income and Revenue ...",
+      "url": "https://www.gurufocus.com/news/8958451/jpmorgan-chase-co-jpm-q2-2026-earnings-call-highlights-strong-net-income-and-revenue-growth-amid-rising-expenses",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T21:00:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America Corp (BAC) Q2 2026 Earnings Call Highlights: Robust Growth and Strategic ...",
+      "url": "https://www.gurufocus.com/news/8958449/bank-of-america-corp-bac-q2-2026-earnings-call-highlights-robust-growth-and-strategic-optimizations",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T21:00:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Q2 2026 Citigroup Inc Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/8958443/q2-2026-citigroup-inc-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T21:00:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says JPMorgan has slashed 40% of jobs in some departments, thanks to AI",
+      "url": "https://www.fastcompany.com/91573524/jamie-dimon-says-jpmorgan-has-slashed-40-of-jobs-in-some-departments-thanks-to-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "fastcompany.com",
+      "published": "2026-07-14T21:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Goldman, CrowdStrike Jump, AI Stocks Need To Do This; ASML, Morgan Stanley Due",
+      "url": "https://finance.yahoo.com/m/ff2fea6d-f6fc-389f-b0c6-62b745afe36d/dow-jones-futures%3A-goldman%2C.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-14T20:59:20+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Drug Pipeline Wins State Street Over on Healthcare",
+      "url": "https://www.etftrends.com/sector-investing-content-hub/drug-pipeline-state-street-healthcare/",
+      "source": "etftrends.com",
+      "published": "2026-07-14T20:55:06+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. Q2 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-citigroup-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "moby.co",
+      "published": "2026-07-14T20:48:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo & Company Q2 2026 Earnings Call Summary",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-wells-fargo-company-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "moby.co",
+      "published": "2026-07-14T20:48:12+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Wells Fargo names veteran to lead South Bay Coastal commercial banking",
       "url": "https://www.bizjournals.com/sanjose/news/2026/07/14/wells-fargo-varun-gupta-palo-alto.html?ana=brss_1543",
@@ -18,6 +208,24 @@
       "published": "2026-07-14T20:43:27+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Update: Equities Rise Following CPI Data, Big Bank Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-following-cpi-data-203856763.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-14T20:38:56+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jim Cramer Shares Morgan Stanley’s View Of Space Exploration Technologies Corp. (SPCX)",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-shares-morgan-stanleys-view-of-space-exploration-technologies-corp-spcx-1801422/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-14T20:36:43+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -39,10 +247,10 @@
       ]
     },
     {
-      "title": "BofA Sees ‘Strong’ Consumer, Bucking Fears of Price Pressures",
-      "url": "https://financialpost.com/pmn/business-pmn/bofa-sees-strong-consumer-bucking-fears-of-price-pressures",
-      "source": "financialpost.com",
-      "published": "2026-07-14T20:23:08+00:00",
+      "title": "Bank of America (BAC) Reports Strong Q2 Growth, Exceeds Profit Expectations",
+      "url": "https://www.gurufocus.com/news/8958417/bank-of-america-bac-reports-strong-q2-growth-exceeds-profit-expectations",
+      "source": "gurufocus.com",
+      "published": "2026-07-14T20:33:33+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -75,220 +283,6 @@
       "published": "2026-07-14T20:17:22+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Announces Redemptions of $400,000,000 Floating Rate Senior Notes and $5,750,000,000 1.734% Fixed/Floating Rate Senior Notes, Due July 2027",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-announces-redemptions-of-400-000-000-floating-rate-senior-notes-and-5-750-000-000-1-734-fixedfloating-rate-senior-notes-due-july-2027--302825538.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-14T20:15:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon warns of bubbly markets after record earnings",
-      "url": "https://cryptobriefing.com/jpmorgan-dimon-warns-bubbly-markets-record-earnings/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-14T20:14:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wall Street's biggest banks posted record profits as trading and dealmaking surged",
-      "url": "https://qz.com/jpmorgan-goldman-bank-of-america-citigroup-wells-fargo-record-profits-071426",
-      "source": "qz.com",
-      "published": "2026-07-14T20:10:50+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs expects full-year alternatives fundraising to exceed $125B as Q2 revenue reaches $20.3B",
-      "url": "https://seekingalpha.com/news/4613752-goldman-sachs-expects-full-year-alternatives-fundraising-to-exceed-125b-as-q2-revenue-reaches",
-      "source": "seekingalpha.com",
-      "published": "2026-07-14T20:10:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. (GS) Q2 2026 Earnings Call Transcript | $GS",
-      "url": "https://seekingalpha.com/article/4921983-the-goldman-sachs-group-inc-gs-q2-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-07-14T20:09:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Value Stocks To Follow Now - July 14th",
-      "url": "https://www.marketbeat.com/instant-alerts/value-stocks-to-follow-now-july-14th-2026-07-14/",
-      "source": "marketbeat.com",
-      "published": "2026-07-14T20:02:18+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Wants Employees to Go Easy on AI Usage",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-wants-employees-to-go-easy-on-ai-usage/",
-      "source": "pymnts.com",
-      "published": "2026-07-14T19:58:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Here's Why Goldman Sachs Just Turned Bullish on NIO Stock",
-      "url": "https://www.barchart.com/story/news/3281469/here-s-why-goldman-sachs-just-turned-bullish-on-nio-stock",
-      "source": "barchart.com",
-      "published": "2026-07-14T19:51:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "source": "cnbc.com",
-      "published": "2026-07-14T19:50:48+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "The next boost to Apple’s stock could come from an iPhone price hike",
-      "url": "https://www.marketwatch.com/story/the-next-boost-to-apples-stock-could-come-from-an-iphone-price-hike-126150cf?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-14T19:49:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AMD Looks Set for a Beat-and-Raise Quarter on Surging AI Server Demand, According to BofA",
-      "url": "https://www.barchart.com/story/news/3281420/amd-looks-set-for-a-beat-and-raise-quarter-on-surging-ai-server-demand-according-to-bofa",
-      "source": "barchart.com",
-      "published": "2026-07-14T19:46:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo CFO Sees Healthy Investment Banking Pipeline",
-      "url": "https://www.youtube.com/watch?v=SXCDRBbjpDY",
-      "source": "youtube.com",
-      "published": "2026-07-14T19:46:09+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Wealth Unit Drives Productivity Boom With New AI Suite",
-      "url": "https://www.pymnts.com/earnings/2026/wells-fargo-wealth-unit-drives-productivity-boom-with-new-ai-suite/",
-      "source": "pymnts.com",
-      "published": "2026-07-14T19:38:52+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Here’s Why Wells Fargo Rates Snap (SNAP) Neutral With A $5 Price Target",
-      "url": "https://www.insidermonkey.com/blog/heres-why-wells-fargo-rates-snap-snap-neutral-with-a-5-price-target-1801398/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-14T19:30:04+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Here’s Why Wells Fargo Raised Pinterest (PINS) Price Target To $30, Maintained “Overweight”",
-      "url": "https://www.insidermonkey.com/blog/heres-why-wells-fargo-raised-pinterest-pins-price-target-to-30-maintained-overweight-1801397/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-14T19:29:58+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Is Up 14% This Year: Is It Outperforming Other Bank Stocks Like Wells Fargo and Bank of America?",
-      "url": "https://247wallst.com/investing/2026/07/14/citigroup-is-up-14-this-year-is-it-outperforming-other-bank-stocks-like-wells-fargo-and-bank-of-america/",
-      "source": "247wallst.com",
-      "published": "2026-07-14T19:18:53+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "‘Close to as good as it gets’: Jamie Dimon just offered another warning on bubbly markets as Wall Street had a monster quarter",
-      "url": "https://fortune.com/2026/07/14/jamie-dimon-warning-jpmorgan-goldman-earnings/",
-      "source": "fortune.com",
-      "published": "2026-07-14T19:17:19+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Is Bullish on Palo Alto Stock. Why More Upside Is Still Ahead for PANW Here.",
-      "url": "https://www.barchart.com/story/news/3281045/citi-is-bullish-on-palo-alto-stock-why-more-upside-is-still-ahead-for-panw-here",
-      "source": "barchart.com",
-      "published": "2026-07-14T19:13:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One stock may move 4.3% on July 21 earnings report",
-      "url": "https://www.investing.com/news/stock-market-news/capital-one-stock-may-move-43-on-july-21-earnings-report-93CH-4791515",
-      "source": "investing.com",
-      "published": "2026-07-14T19:13:19+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley says Nvidia stock remains top pick despite headwind",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-says-nvidia-stock-remains-top-pick-despite-headwind?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-14T19:13:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Here's what growing public opposition to the data center boom means for markets",
-      "url": "https://www.businessinsider.com/data-center-protests-ai-trade-markets-sei-be-morgan-stanley-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-14T19:04:14+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo did enough to remain in our portfolio. What we liked about earnings",
-      "url": "https://www.cnbc.com/2026/07/14/wells-fargo-did-enough-to-remain-in-our-portfolio-what-we-liked-about-earnings.html",
-      "source": "cnbc.com",
-      "published": "2026-07-14T19:03:15+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
