@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-07-13T23:58:34.792846+00:00",
+  "last_updated": "2026-07-14T03:24:14.428467+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley Pathway Large Cap Equity ETF (NYSEARCA:MSLC) Short Interest Down 85.5% in June",
+      "url": "https://www.tickerreport.com/banking-finance/13502863/morgan-stanley-pathway-large-cap-equity-etf-nysearcamslc-short-interest-down-85-5-in-june.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-14T00:40:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees Nifty rallying to 26,500, signals nearly 9.5% upside",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-sees-nifty-rallying-to-26500-signals-nearly-9-5-upside/articleshow/132378525.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-14T00:08:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Should Disney Get Out Of Streaming, Or Double Down On Distribution?",
+      "url": "https://www.forbes.com/sites/dbloom/2026/07/13/should-disney-get-out-of-streaming-or-double-down-on-distribution/",
+      "source": "forbes.com",
+      "published": "2026-07-13T23:59:35+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Sees First Bank Goes Live with its Clearing and Token Services Solution",
+      "url": "https://finovate.com/citi-sees-first-bank-goes-live-with-its-clearing-and-token-services-solution/",
+      "source": "finovate.com",
+      "published": "2026-07-13T23:48:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Weekly Ratings Changes for Bruker (BRKR)",
+      "url": "https://www.tickerreport.com/banking-finance/13502852/research-analysts-weekly-ratings-changes-for-bruker-brkr.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-13T23:26:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "When AI Knows Everything, What Should Humans Learn?",
       "url": "https://dev.to/jamilxt/when-ai-knows-everything-what-should-humans-learn-p1l",
@@ -17,6 +63,16 @@
       "published": "2026-07-13T22:26:43+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo's $50M Deal In Atty's Ponzi Scheme Gets 1st OK",
+      "url": "https://www.law360.com/consumerprotection/articles/2500079?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-07-13T21:52:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -190,16 +246,6 @@
       "published": "2026-07-13T20:30:36+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "S&P 500 Heads Into Second-Quarter Earnings Season With Elevated Growth Targets, Oppenheimer Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-heads-second-quarter-202545353.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-13T20:25:45+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
