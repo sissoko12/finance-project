@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-07-15T00:53:04.539384+00:00",
+  "last_updated": "2026-07-15T04:10:14.082004+00:00",
   "headlines": [
+    {
+      "title": "Why Goldman Sachs Stock Jumped Today",
+      "url": "https://www.fool.com/investing/2026/07/14/why-goldman-sachs-stock-is-up-today/",
+      "source": "fool.com",
+      "published": "2026-07-15T03:20:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi’s $1 Trillion Treasury Franchise Steals the Quarter",
+      "url": "https://www.pymnts.com/earnings/2026/citi-1trillion-treasury-franchise-steals-the-quarter/",
+      "source": "pymnts.com",
+      "published": "2026-07-15T01:55:04+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "June's Inflation Cooled to 3.5%, a Month Before the Blockade Existed",
+      "url": "https://www.themarketbreakdown.com/p/junes-inflation-cooled-to-35-a-month",
+      "source": "themarketbreakdown.com",
+      "published": "2026-07-15T01:14:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Female JPMorgan Chase Exec Files Counterclaim in Sexual Harassment Lawsuit Against Her",
+      "url": "https://www.tmz.com/2026/07/14/jpmorgan-chase-exec-files-counterclaim-in-sexual-harassment-lawsuit/",
+      "source": "tmz.com",
+      "published": "2026-07-15T00:28:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley updates S-1 filings for spot Ether, Solana ETFs with Coinbase custody",
+      "url": "https://cryptobriefing.com/morgan-stanley-updates-s-1-filings-for-spot-ether-solana-etfs-with-coinbase/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-15T00:27:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Calls Crown Castle (CCI) the Largest Pure-Play US Tower Operator",
+      "url": "https://www.insidermonkey.com/blog/goldman-sachs-calls-crown-castle-cci-the-largest-pure-play-us-tower-operator-1801097/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-15T00:22:37+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "American Tower (AMT): Goldman Sachs Starts Coverage With a Buy and a $215 Target",
+      "url": "https://www.insidermonkey.com/blog/american-tower-amt-goldman-sachs-starts-coverage-with-a-buy-and-a-215-target-1801099/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-15T00:22:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Which Is the Better Global ETF for Long-Term Investors: Vanguard's VEA or State Street's NZAC?",
       "url": "https://www.fool.com/coverage/etfs/2026/07/14/which-is-the-better-global-etf-for-long-term-investors-vanguard-s-vea-or-state-street-s-nzac/?source=iedfolrf0000001",
@@ -8,6 +73,15 @@
       "published": "2026-07-14T23:46:20+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Peaks, Joins 2 Best Stock Lists, Leads 16 New Names To IBD 50, Big Cap 20, More",
+      "url": "https://www.investors.com/news/goldman-leads-16-new-names-to-ibd-50-more/",
+      "source": "investors.com",
+      "published": "2026-07-14T23:02:29+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -159,6 +233,16 @@
       ]
     },
     {
+      "title": "Nolte: Wall Streeter Urges Disney to Drop Stagnant Disney+",
+      "url": "https://www.breitbart.com/entertainment/2026/07/14/nolte-wall-streeter-urges-disney-to-drop-stagnant-disney/",
+      "source": "breitbart.com",
+      "published": "2026-07-14T21:15:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "What’s Behind a Red-Hot Quarter for Bank Earnings",
       "url": "https://pdst.fm/e/traffic.megaphone.fm/WSJ9815665126.mp3",
       "source": "pdst.fm",
@@ -186,34 +270,6 @@
       "published": "2026-07-14T21:11:28+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034711/0001839882-26-034711-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-14T21:09:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226034710/0001839882-26-034710-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-14T21:07:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs raises $10B in high-grade bond sale - report",
-      "url": "https://seekingalpha.com/news/4613785-goldman-sachs-raises-10b-in-high-grade-bond-sale-report",
-      "source": "seekingalpha.com",
-      "published": "2026-07-14T21:06:47+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
