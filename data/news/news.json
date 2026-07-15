@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-07-15T21:08:01.594170+00:00",
+  "last_updated": "2026-07-15T22:32:14.648947+00:00",
   "headlines": [
+    {
+      "title": "Wells Fargo profit jumps 18% as asset-cap removal fuels growth",
+      "url": "https://www.charlotteobserver.com/living/article316513654.html#new_tab",
+      "source": "charlotteobserver.com",
+      "published": "2026-07-15T21:41:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Recent Analysts’ Ratings Changes for STMicroelectronics (STM)",
+      "url": "https://www.tickerreport.com/banking-finance/13504998/recent-analysts-ratings-changes-for-stmicroelectronics-stm.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-15T21:26:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000114036126028575/0001140361-26-028575-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T21:24:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Trump - Sen. Dave McCormick, R-Pa., speaks as Jamie Dimon, chairman ...",
+      "url": "https://www.idahopress.com/ap_news/us/trump/image_fc4dbbaa-45b1-5af3-ab6f-df2cd7f96425.html",
+      "source": "idahopress.com",
+      "published": "2026-07-15T21:18:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Trump - Jamie Dimon, chairman and CEO of JP Morgan Chase, speaks at ...",
+      "url": "https://www.idahopress.com/ap_news/us/trump/image_52b2ab01-32bf-5a20-a6b8-700d566a88a5.html",
+      "source": "idahopress.com",
+      "published": "2026-07-15T21:14:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010677/0000950103-26-010677-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T21:14:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Just Slashed Its Price Target on Microsoft Stock Ahead of Earnings. Here's Why.",
+      "url": "https://www.barchart.com/story/news/3305487/citi-just-slashed-its-price-target-on-microsoft-stock-ahead-of-earnings-here-s-why",
+      "source": "barchart.com",
+      "published": "2026-07-15T21:12:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Leads $3 Billion Financing for Warburg’s Pantherx Buy",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/jpmorgan-leads-3-billion-financing-for-warburg-s-pantherx-buy",
+      "source": "bloomberg.com",
+      "published": "2026-07-15T21:08:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. 6 DEP NCM PFD EE declares $0.375 dividend",
+      "url": "https://seekingalpha.com/news/4614306-jpmorgan-chase-and-co-6-dep-ncm-pfd-ee-declares-0_375-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T21:05:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. 5.75% SHS PFD DD declares $0.3593 dividend",
+      "url": "https://seekingalpha.com/news/4614305-jpmorgan-chase-and-co-5_75-percent-shs-pfd-dd-declares-0_3593-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T21:04:55+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. 4.625 DEP PFD LL declares $0.289 dividend",
+      "url": "https://seekingalpha.com/news/4614304-jpmorgan-chase-and-co-4_625-dep-pfd-ll-declares-0_289-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T21:04:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. 4.55 DEP PFD JJpr declares $0.2843 dividend",
+      "url": "https://seekingalpha.com/news/4614303-jpmorgan-chase-and-co-4_55-dep-pfd-jjpr-declares-0_2843-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T21:04:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. 4.20% DP PFD MMp declares $0.2625 dividend",
+      "url": "https://seekingalpha.com/news/4614302-jpmorgan-chase-and-co-4_20-percent-dp-pfd-mmp-declares-0_2625-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T21:03:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. 4.75% DP SH GGp declares $0.2968 dividend",
+      "url": "https://seekingalpha.com/news/4614301-jpmorgan-chase-and-co-4_75-percent-dp-sh-ggp-declares-0_2968-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T21:03:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.1% on Analyst Upgrade",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-price-up-11-on-analyst-upgrade-2026-07-15/",
+      "source": "marketbeat.com",
+      "published": "2026-07-15T21:00:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Trading 1.7% Higher After Strong Earnings",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-17-higher-after-strong-earnings-2026-07-15/",
+      "source": "marketbeat.com",
+      "published": "2026-07-15T21:00:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (MS) Q2 2026 Earnings Call Highlights: Record Revenues and Strategic Growth ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-q2-2026-210033376.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-15T21:00:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526304887/0001193125-26-304887-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T20:48:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Predicting S&P 500 At 6,300 - 6,500 By Year End | $SPY $ANTHRO $OPENAI $SPCX $GS",
+      "url": "https://seekingalpha.com/article/4922429-predicting-s-and-p-500-at-6300-6500-by-year-end",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T20:47:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Investor: ‘By 2050, The Biggest Companies Operating in Space Won’t Be Space Companies’",
+      "url": "https://247wallst.com/investing/2026/07/15/investor-by-2050-the-biggest-companies-operating-in-space-wont-be-space-companies/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-07-15T20:42:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Micron, PayPal, IBM, SpaceX, BlackRock, and More Stocks That Explain Today’s Market",
+      "url": "https://finance.yahoo.com/m/7f6124a8-3d38-32d3-beb1-d4745f652359/micron%2C-paypal%2C-ibm%2C-spacex%2C.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-15T20:41:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon compared Anthropic's Mythos AI to giving ballistic missiles to the public",
+      "url": "https://qz.com/jamie-dimon-anthropic-mythos-ai-warning-jpmorgan-071526",
+      "source": "qz.com",
+      "published": "2026-07-15T20:36:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Mythos AI access is a ‘real issue,’ says JPMorgan Chase CEO Jamie Dimon",
       "url": "https://seekingalpha.com/news/4614283-mythos-ai-access-is-a-real-issue-says-jpmorgan-chase-ceo-jamie-dimon",
@@ -8,6 +208,16 @@
       "published": "2026-07-15T20:34:34+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "PNC is latest bank to say costs will rise alongside revenue",
+      "url": "https://www.americanbanker.com/news/pnc-is-latest-bank-to-say-costs-will-rise-alongside-revenue",
+      "source": "americanbanker.com",
+      "published": "2026-07-15T20:29:11+00:00",
+      "tickers": [
+        "C",
+        "PNC"
       ]
     },
     {
@@ -29,12 +239,13 @@
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526304803/0001193125-26-304803-index.htm",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020202/0001918704-26-020202-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-15T20:20:11+00:00",
+      "published": "2026-07-15T20:22:13+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     },
     {
@@ -44,147 +255,6 @@
       "published": "2026-07-15T20:16:40+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "BNY: AI bet is paying off, client impact is 'measurable'",
-      "url": "https://www.americanbanker.com/news/bny-ai-bet-is-paying-off-client-impact-is-measurable",
-      "source": "americanbanker.com",
-      "published": "2026-07-15T20:09:47+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "US stocks today: US stocks end higher on cool inflation data, strong earnings",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-cool-inflation-data-strong-earnings/articleshow/132424759.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-15T20:03:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PNC forecasts 2026 loan growth of ~12.5% and net interest income up 15%-15.5% as it targets >3% net interest margin by year-end",
-      "url": "https://seekingalpha.com/news/4614242-pnc-forecasts-2026-loan-growth-of-12_5-percent-and-net-interest-income-up-15-percentminus",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T19:58:48+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc. (PNC) Q2 2026 Earnings Call Transcript | $PNC",
-      "url": "https://seekingalpha.com/article/4922350-the-pnc-financial-services-group-inc-pnc-q2-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T19:57:58+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Ring Energy started Buy at BofA as Waha recovery more than offsets oil declines",
-      "url": "https://seekingalpha.com/news/4614235-ring-energy-started-buy-at-bofa-as-waha-recovery-more-than-offsets-oil-declines",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T19:57:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078302/0001213900-26-078302-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T19:34:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Veteran Bank Resets Microsoft Stock Price Target for 2027",
-      "url": "https://www.gurufocus.com/news/8960432/veteran-bank-resets-microsoft-stock-price-target-for-2027",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T19:31:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Trims Microsoft Target - The bank still expects strong quarterly results, helped by Azure ...",
-      "url": "https://www.gurufocus.com/news/8960417/citi-trims-microsoft-target",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T19:31:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Tenaris upgraded at Morgan Stanley on improving OCTG industry fundamentals",
-      "url": "https://seekingalpha.com/news/4614229-tenaris-upgraded-at-morgan-stanley-on-improving-octg-industry-fundamentals",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T19:31:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon warns of risks from Anthropic’s Mythos AI model",
-      "url": "https://cryptobriefing.com/dimon-warns-anthropic-mythos-ai-risks/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-15T19:27:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020194/0001918704-26-020194-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T19:25:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America's Moynihan touts 'good economics' of AI",
-      "url": "https://www.americanbanker.com/news/bank-of-americas-moynihan-touts-good-economics-of-ai",
-      "source": "americanbanker.com",
-      "published": "2026-07-15T19:21:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase Posts Record $21.2 Billion Quarterly Profit As Stock Trading Revenue Hits $6 Billion",
-      "url": "https://pulse2.com/jpmorgan-chase-posts-record-21-2-billion-quarterly-profit-as-stock-trading-revenue-hits-6-billion/",
-      "source": "pulse2.com",
-      "published": "2026-07-15T19:18:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034869/0001839882-26-034869-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T19:16:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Debbie Dingell acquires Honeywell Aerospace stock in Morgan Stanley brokerage account",
-      "url": "https://www.investing.com/news/company-news/debbie-dingell-acquires-honeywell-aerospace-stock-in-morgan-stanley-brokerage-account-93CH-4794111",
-      "source": "investing.com",
-      "published": "2026-07-15T19:11:15+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
