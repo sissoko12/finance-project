@@ -1,6 +1,174 @@
 {
-  "last_updated": "2026-07-15T19:46:47.553766+00:00",
+  "last_updated": "2026-07-15T21:08:01.594170+00:00",
   "headlines": [
+    {
+      "title": "Mythos AI access is a ‘real issue,’ says JPMorgan Chase CEO Jamie Dimon",
+      "url": "https://seekingalpha.com/news/4614283-mythos-ai-access-is-a-real-issue-says-jpmorgan-chase-ceo-jamie-dimon",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T20:34:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Stock Is Starting To Look Frothy | $GS",
+      "url": "https://seekingalpha.com/article/4922410-goldman-sachs-stock-is-starting-to-look-frothy",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T20:27:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034877/0001839882-26-034877-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T20:22:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526304803/0001193125-26-304803-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T20:20:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078331/0001213900-26-078331-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T20:16:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY: AI bet is paying off, client impact is 'measurable'",
+      "url": "https://www.americanbanker.com/news/bny-ai-bet-is-paying-off-client-impact-is-measurable",
+      "source": "americanbanker.com",
+      "published": "2026-07-15T20:09:47+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "US stocks today: US stocks end higher on cool inflation data, strong earnings",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-cool-inflation-data-strong-earnings/articleshow/132424759.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-15T20:03:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PNC forecasts 2026 loan growth of ~12.5% and net interest income up 15%-15.5% as it targets >3% net interest margin by year-end",
+      "url": "https://seekingalpha.com/news/4614242-pnc-forecasts-2026-loan-growth-of-12_5-percent-and-net-interest-income-up-15-percentminus",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T19:58:48+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc. (PNC) Q2 2026 Earnings Call Transcript | $PNC",
+      "url": "https://seekingalpha.com/article/4922350-the-pnc-financial-services-group-inc-pnc-q2-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T19:57:58+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Ring Energy started Buy at BofA as Waha recovery more than offsets oil declines",
+      "url": "https://seekingalpha.com/news/4614235-ring-energy-started-buy-at-bofa-as-waha-recovery-more-than-offsets-oil-declines",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T19:57:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078302/0001213900-26-078302-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T19:34:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Veteran Bank Resets Microsoft Stock Price Target for 2027",
+      "url": "https://www.gurufocus.com/news/8960432/veteran-bank-resets-microsoft-stock-price-target-for-2027",
+      "source": "gurufocus.com",
+      "published": "2026-07-15T19:31:53+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Trims Microsoft Target - The bank still expects strong quarterly results, helped by Azure ...",
+      "url": "https://www.gurufocus.com/news/8960417/citi-trims-microsoft-target",
+      "source": "gurufocus.com",
+      "published": "2026-07-15T19:31:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tenaris upgraded at Morgan Stanley on improving OCTG industry fundamentals",
+      "url": "https://seekingalpha.com/news/4614229-tenaris-upgraded-at-morgan-stanley-on-improving-octg-industry-fundamentals",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T19:31:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon warns of risks from Anthropic’s Mythos AI model",
+      "url": "https://cryptobriefing.com/dimon-warns-anthropic-mythos-ai-risks/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-15T19:27:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020194/0001918704-26-020194-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T19:25:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America's Moynihan touts 'good economics' of AI",
+      "url": "https://www.americanbanker.com/news/bank-of-americas-moynihan-touts-good-economics-of-ai",
+      "source": "americanbanker.com",
+      "published": "2026-07-15T19:21:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Posts Record $21.2 Billion Quarterly Profit As Stock Trading Revenue Hits $6 Billion",
+      "url": "https://pulse2.com/jpmorgan-chase-posts-record-21-2-billion-quarterly-profit-as-stock-trading-revenue-hits-6-billion/",
+      "source": "pulse2.com",
+      "published": "2026-07-15T19:18:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034869/0001839882-26-034869-index.htm",
@@ -11,209 +179,12 @@
       ]
     },
     {
-      "title": "BNY expects 2026 revenue ex-notables up 10%-11% while targeting ~400 bp of positive operating leverage",
-      "url": "https://seekingalpha.com/news/4614220-bny-expects-2026-revenue-ex-notables-up-10-percentminus-11-percent-while-targeting-400-bp-of",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T18:49:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "The Bank of New York Mellon Corporation 2026 Q2 - Results - Earnings Call Presentation | $BNY",
-      "url": "https://seekingalpha.com/article/4922403-the-bank-of-new-york-mellon-corporation-2026-q2-results-earnings-call-presentation",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T18:48:17+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Flush with capital, Morgan Stanley eyes potential purchases",
-      "url": "https://www.americanbanker.com/news/flush-with-capital-morgan-stanley-eyes-potential-purchases",
-      "source": "americanbanker.com",
-      "published": "2026-07-15T18:44:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CAE (TSE:CAE) Downgraded to Underweight Rating by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/cae-tsecae-downgraded-to-underweight-rating-by-morgan-stanley-2026-07-15/",
-      "source": "marketbeat.com",
-      "published": "2026-07-15T18:42:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley stays bullish on aerospace, defense ahead of Q2 earnings",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-stays-bullish-on-aerospace-defense-ahead-of-q2-earnings-4794083",
+      "title": "Debbie Dingell acquires Honeywell Aerospace stock in Morgan Stanley brokerage account",
+      "url": "https://www.investing.com/news/company-news/debbie-dingell-acquires-honeywell-aerospace-stock-in-morgan-stanley-brokerage-account-93CH-4794111",
       "source": "investing.com",
-      "published": "2026-07-15T18:38:18+00:00",
+      "published": "2026-07-15T19:11:15+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034855/0001839882-26-034855-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T18:37:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078280/0001213900-26-078280-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T18:36:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020191/0001918704-26-020191-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T18:35:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Warren grills Warsh over Bowman dinner, personal investments",
-      "url": "https://www.americanbanker.com/news/warren-grills-warsh-over-bowman-dinner-personal-investments",
-      "source": "americanbanker.com",
-      "published": "2026-07-15T18:32:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020190/0001918704-26-020190-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T18:27:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Weekly Ratings Changes for BlackRock (BLK)",
-      "url": "https://www.tickerreport.com/banking-finance/13504892/research-analysts-weekly-ratings-changes-for-blackrock-blk.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-15T18:26:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot",
-      "url": "https://www.cnbc.com/2026/07/15/why-jim-cramer-is-shocked-by-citis-against-the-grain-praise-of-microsofts-copilot.html",
-      "source": "cnbc.com",
-      "published": "2026-07-15T18:23:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JP Morgan raises Apple stock price target by $20 to $345",
-      "url": "https://asymco.com/2026/07/15/jp-morgan-raises-apple-stock-price-target-by-20-to-345/",
-      "source": "asymco.com",
-      "published": "2026-07-15T18:23:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020189/0001918704-26-020189-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T18:22:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Nigeria Loses ₦3.5trn Yearly To Post-Harvest Losses, 40m Tones Of Food — BoA",
-      "url": "https://leadership.ng/nigeria-loses-%e2%82%a63-5trn-yearly-to-post-harvest-losses-40m-tones-of-food-boa/",
-      "source": "leadership.ng",
-      "published": "2026-07-15T18:21:19+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Overpaid on a credit account that got charged off to a collector, not getting my money refunded",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uxdyie/overpaid_on_a_credit_account_that_got_charged_off/",
-      "source": "reddit.com",
-      "published": "2026-07-15T18:16:10+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Apple, Goldman Sachs, and Chevron are powering the Dow — for wildly different reasons: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/apple-goldman-sachs-and-chevron-are-powering-the-dow--for-wildly-different-reasons-alphacheck-181535203.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-15T18:15:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "San Francisco bank slashes headcount by 79,000 as CEO touts efficiency gains",
-      "url": "https://www.bizjournals.com/sanjose/news/2026/07/15/wells-fargo-bank-earnings-layoffs-job-cuts-ai.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-15T18:14:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020187/0001918704-26-020187-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T18:14:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America adds senior investment banker in Charlotte as middle-market competition heats up",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/07/15/bank-of-america-expands-regional-investment-bank.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-15T18:13:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
-      "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
-      "source": "decrypt.co",
-      "published": "2026-07-15T18:02:06+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon is pumping $24 million into U.S. shipbuilding at Philadelphia Navy Yard",
-      "url": "https://qz.com/jpmorgan-philadelphia-shipbuilding-investment-071526",
-      "source": "qz.com",
-      "published": "2026-07-15T18:00:47+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
