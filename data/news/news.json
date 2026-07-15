@@ -1,240 +1,219 @@
 {
-  "last_updated": "2026-07-15T18:13:34.909130+00:00",
+  "last_updated": "2026-07-15T19:46:47.553766+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley (MS) Q2 2026 Earnings Call Transcript | $MS",
-      "url": "https://seekingalpha.com/article/4922302-morgan-stanley-ms-q2-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T17:37:57+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034869/0001839882-26-034869-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T19:16:16+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526304497/0001193125-26-304497-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T17:32:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010646/0000950103-26-010646-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T17:26:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010643/0000950103-26-010643-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T17:24:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Forecasts Q3 Challenges Amid Seasonal Slowdown",
-      "url": "https://www.gurufocus.com/news/8960649/bny-forecasts-q3-challenges-amid-seasonal-slowdown",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:22:21+00:00",
+      "title": "BNY expects 2026 revenue ex-notables up 10%-11% while targeting ~400 bp of positive operating leverage",
+      "url": "https://seekingalpha.com/news/4614220-bny-expects-2026-revenue-ex-notables-up-10-percentminus-11-percent-while-targeting-400-bp-of",
+      "source": "seekingalpha.com",
+      "published": "2026-07-15T18:49:00+00:00",
       "tickers": [
         "BK"
       ]
     },
     {
-      "title": "State Street Q2 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4614145-state-street-q2-2026-earnings-preview",
+      "title": "The Bank of New York Mellon Corporation 2026 Q2 - Results - Earnings Call Presentation | $BNY",
+      "url": "https://seekingalpha.com/article/4922403-the-bank-of-new-york-mellon-corporation-2026-q2-results-earnings-call-presentation",
       "source": "seekingalpha.com",
-      "published": "2026-07-15T17:15:00+00:00",
+      "published": "2026-07-15T18:48:17+00:00",
       "tickers": [
-        "STT"
+        "BK"
       ]
     },
     {
-      "title": "U.S. Bancorp Q2 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4614141-u-s-bancorp-q2-2026-earnings-preview",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T17:12:12+00:00",
+      "title": "Flush with capital, Morgan Stanley eyes potential purchases",
+      "url": "https://www.americanbanker.com/news/flush-with-capital-morgan-stanley-eyes-potential-purchases",
+      "source": "americanbanker.com",
+      "published": "2026-07-15T18:44:45+00:00",
       "tickers": [
-        "USB"
+        "MS"
       ]
     },
     {
-      "title": "Citigroup estimates revised after bank flags higher expenses, stock tanks",
-      "url": "https://www.investing.com/news/stock-market-news/citigroup-estimates-revised-after-bank-flags-higher-expenses-stock-tanks-4793981",
-      "source": "investing.com",
-      "published": "2026-07-15T17:07:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AU Maintained by Citigroup -- Price Target Lowered to $125",
-      "url": "https://www.gurufocus.com/news/8960636/au-maintained-by-citigroup-price-target-lowered-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:07:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TREX Maintained by Citigroup -- Price Target Raised to $52.00",
-      "url": "https://www.gurufocus.com/news/8960634/trex-maintained-by-citigroup-price-target-raised-to-5200",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:06:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LEN Maintained by Citigroup -- Price Target Lowered to $88.00",
-      "url": "https://www.gurufocus.com/news/8960629/len-maintained-by-citigroup-price-target-lowered-to-8800",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:04:10+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NOW Maintained by Citigroup -- Price Target Lowered to $156",
-      "url": "https://www.gurufocus.com/news/8960628/now-maintained-by-citigroup-price-target-lowered-to-156",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:03:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MSFT Maintained by Citigroup -- Price Target Lowered to $570",
-      "url": "https://www.gurufocus.com/news/8960626/msft-maintained-by-citigroup-price-target-lowered-to-570",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:02:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Q2 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-q2-earnings-call-highlights-2026-07-15/",
+      "title": "CAE (TSE:CAE) Downgraded to Underweight Rating by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/cae-tsecae-downgraded-to-underweight-rating-by-morgan-stanley-2026-07-15/",
       "source": "marketbeat.com",
-      "published": "2026-07-15T17:02:36+00:00",
+      "published": "2026-07-15T18:42:33+00:00",
       "tickers": [
-        "BK"
+        "MS"
       ]
     },
     {
-      "title": "MELI Maintained by Citigroup -- Price Target Raised to $2000",
-      "url": "https://www.gurufocus.com/news/8960623/meli-maintained-by-citigroup-price-target-raised-to-2000",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:02:15+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MCD Maintained by Citigroup -- Price Target Lowered to $335",
-      "url": "https://www.gurufocus.com/news/8960621/mcd-maintained-by-citigroup-price-target-lowered-to-335",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:01:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BAX Maintained by Goldman Sachs -- Price Target Raised to $21.00",
-      "url": "https://www.gurufocus.com/news/8960618/bax-maintained-by-goldman-sachs-price-target-raised-to-2100",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:01:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "LLY Maintained by Citigroup -- Price Target Raised to $1600",
-      "url": "https://www.gurufocus.com/news/8960615/lly-maintained-by-citigroup-price-target-raised-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T17:00:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
-      "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-15T16:55:12+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman counsel Ruemmler says she would have reported Epstein if she knew he abused women",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-lawyer-ruemmler-to-face-house-panel-on-epstein-4792665",
+      "title": "Morgan Stanley stays bullish on aerospace, defense ahead of Q2 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-stays-bullish-on-aerospace-defense-ahead-of-q2-earnings-4794083",
       "source": "investing.com",
-      "published": "2026-07-15T16:54:58+00:00",
+      "published": "2026-07-15T18:38:18+00:00",
       "tickers": [
-        "GS"
+        "MS"
       ]
     },
     {
       "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034831/0001839882-26-034831-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034855/0001839882-26-034855-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-15T16:51:35+00:00",
+      "published": "2026-07-15T18:37:49+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BlackRock joins DTCC’s $114T tokenization push for stocks and Treasurys",
-      "url": "https://crypto.news/blackrock-joins-dtccs-114t-tokenization-push/",
-      "source": "crypto.news",
-      "published": "2026-07-15T16:51:33+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078280/0001213900-26-078280-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T18:36:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020191/0001918704-26-020191-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T18:35:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Warren grills Warsh over Bowman dinner, personal investments",
+      "url": "https://www.americanbanker.com/news/warren-grills-warsh-over-bowman-dinner-personal-investments",
+      "source": "americanbanker.com",
+      "published": "2026-07-15T18:32:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020190/0001918704-26-020190-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T18:27:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Weekly Ratings Changes for BlackRock (BLK)",
+      "url": "https://www.tickerreport.com/banking-finance/13504892/research-analysts-weekly-ratings-changes-for-blackrock-blk.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-15T18:26:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot",
+      "url": "https://www.cnbc.com/2026/07/15/why-jim-cramer-is-shocked-by-citis-against-the-grain-praise-of-microsofts-copilot.html",
+      "source": "cnbc.com",
+      "published": "2026-07-15T18:23:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JP Morgan raises Apple stock price target by $20 to $345",
+      "url": "https://asymco.com/2026/07/15/jp-morgan-raises-apple-stock-price-target-by-20-to-345/",
+      "source": "asymco.com",
+      "published": "2026-07-15T18:23:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020189/0001918704-26-020189-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T18:22:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Nigeria Loses ₦3.5trn Yearly To Post-Harvest Losses, 40m Tones Of Food — BoA",
+      "url": "https://leadership.ng/nigeria-loses-%e2%82%a63-5trn-yearly-to-post-harvest-losses-40m-tones-of-food-boa/",
+      "source": "leadership.ng",
+      "published": "2026-07-15T18:21:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Overpaid on a credit account that got charged off to a collector, not getting my money refunded",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uxdyie/overpaid_on_a_credit_account_that_got_charged_off/",
+      "source": "reddit.com",
+      "published": "2026-07-15T18:16:10+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Apple, Goldman Sachs, and Chevron are powering the Dow — for wildly different reasons: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/apple-goldman-sachs-and-chevron-are-powering-the-dow--for-wildly-different-reasons-alphacheck-181535203.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-15T18:15:35+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank of America Reports Strong Q2 Earnings Amid Consumer Spending Resilience",
-      "url": "https://www.gurufocus.com/news/8960579/bank-of-america-reports-strong-q2-earnings-amid-consumer-spending-resilience",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T16:50:31+00:00",
+      "title": "San Francisco bank slashes headcount by 79,000 as CEO touts efficiency gains",
+      "url": "https://www.bizjournals.com/sanjose/news/2026/07/15/wells-fargo-bank-earnings-layoffs-job-cuts-ai.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-15T18:14:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020187/0001918704-26-020187-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T18:14:26+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Stock Traders Buy High Volume of Put Options on Bank of New York Mellon (NYSE:BNY)",
-      "url": "https://www.marketbeat.com/instant-alerts/stock-traders-buy-high-volume-of-put-options-on-bank-of-new-york-mellon-nysebny-2026-07-15/",
-      "source": "marketbeat.com",
-      "published": "2026-07-15T16:40:37+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "ABBV Maintained by Citigroup -- Price Target Raised to $260",
-      "url": "https://www.gurufocus.com/news/8960571/abbv-maintained-by-citigroup-price-target-raised-to-260",
-      "source": "gurufocus.com",
-      "published": "2026-07-15T16:39:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Real Bank Earnings Story Was the AI Spending Boom",
-      "url": "https://www.pymnts.com/news/banking/2026/real-bank-earnings-story-was-ai-spending-boom/",
-      "source": "pymnts.com",
-      "published": "2026-07-15T16:30:59+00:00",
+      "title": "Bank of America adds senior investment banker in Charlotte as middle-market competition heats up",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/07/15/bank-of-america-expands-regional-investment-bank.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-15T18:13:37+00:00",
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+      "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+      "source": "decrypt.co",
+      "published": "2026-07-15T18:02:06+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
+      "title": "Jamie Dimon is pumping $24 million into U.S. shipbuilding at Philadelphia Navy Yard",
+      "url": "https://qz.com/jpmorgan-philadelphia-shipbuilding-investment-071526",
+      "source": "qz.com",
+      "published": "2026-07-15T18:00:47+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
