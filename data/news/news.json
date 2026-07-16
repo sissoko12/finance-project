@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-07-16T00:04:18.220174+00:00",
+  "last_updated": "2026-07-16T03:48:16.633998+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan CEO Jamie Dimon says Anthropic's Mythos AI risks are a 'real issue'",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jpmorgan-ceo-dimon-says-anthropics-mythos-ai-risks-are-a-real-issue/articleshow/132428178.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-16T02:40:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Adds Record $148 Billion In Wealth Management Net New Assets, With More Than Half Tied To IPOs",
+      "url": "https://pulse2.com/morgan-stanley-adds-record-148-billion-in-wealth-management-net-new-assets-with-more-than-half-tied-to-ipos/",
+      "source": "pulse2.com",
+      "published": "2026-07-16T02:08:23+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Crude oil prices rise for 4th session amid escalating US-Iran war; Brent likely to hit $110/bbl, says Goldman Sachs",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-for-4th-session-amid-escalating-us-iran-war-brent-likely-to-hit-110-bbl-says-goldman-sachs-11784163944139.html",
+      "source": "livemint.com",
+      "published": "2026-07-16T01:24:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Ultra Short Municipal Income ETF (NYSEARCA:GUMI) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13505083/goldman-sachs-ultra-short-municipal-income-etf-nysearcagumi-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-16T01:20:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (MS) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/15/morgan-stanley-ms-q2-2026-earnings-call-transcript/",
+      "source": "fool.com",
+      "published": "2026-07-16T00:32:19+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "HISTORIC SELL-OFF FOR MOMENTUM IN JULY",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1uxlj2e/historic_selloff_for_momentum_in_july/",
@@ -26,6 +71,25 @@
       "published": "2026-07-15T23:00:24+00:00",
       "tickers": [
         "BK"
+      ]
+    },
+    {
+      "title": "Why Tenet Healthcare (THC) Stock Is Trading Up Today",
+      "url": "https://stockstory.org/us/stocks/nyse/thc/news/why-up-down/why-tenet-healthcare-thc-stock-is-trading-up-today",
+      "source": "stockstory.org",
+      "published": "2026-07-15T22:55:42+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Former top lawyer at Goldman Sachs calls Epstein 'masterful liar' in House probe",
+      "url": "https://abcnews.com/US/kathy-ruemmler-former-top-lawyer-goldman-sachs-calls/story?id=134726450",
+      "source": "abcnews.com",
+      "published": "2026-07-15T22:41:52+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -210,70 +274,6 @@
       "published": "2026-07-15T21:04:55+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. 4.625 DEP PFD LL declares $0.289 dividend",
-      "url": "https://seekingalpha.com/news/4614304-jpmorgan-chase-and-co-4_625-dep-pfd-ll-declares-0_289-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T21:04:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. 4.55 DEP PFD JJpr declares $0.2843 dividend",
-      "url": "https://seekingalpha.com/news/4614303-jpmorgan-chase-and-co-4_55-dep-pfd-jjpr-declares-0_2843-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T21:04:09+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. 4.20% DP PFD MMp declares $0.2625 dividend",
-      "url": "https://seekingalpha.com/news/4614302-jpmorgan-chase-and-co-4_20-percent-dp-pfd-mmp-declares-0_2625-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T21:03:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. 4.75% DP SH GGp declares $0.2968 dividend",
-      "url": "https://seekingalpha.com/news/4614301-jpmorgan-chase-and-co-4_75-percent-dp-sh-ggp-declares-0_2968-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T21:03:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078378/0001213900-26-078378-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T21:02:13+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.1% on Analyst Upgrade",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-price-up-11-on-analyst-upgrade-2026-07-15/",
-      "source": "marketbeat.com",
-      "published": "2026-07-15T21:00:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Trading 1.7% Higher After Strong Earnings",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-17-higher-after-strong-earnings-2026-07-15/",
-      "source": "marketbeat.com",
-      "published": "2026-07-15T21:00:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
