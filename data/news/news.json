@@ -1,180 +1,271 @@
 {
-  "last_updated": "2026-07-16T19:42:46.703989+00:00",
+  "last_updated": "2026-07-16T21:10:09.991259+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley Stock: I Smell Greed (Rating Downgrade) | $MS",
-      "url": "https://seekingalpha.com/article/4922751-morgan-stanley-stock-i-smell-greed-rating-downgrade",
-      "source": "seekingalpha.com",
-      "published": "2026-07-16T19:04:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020294/0001918704-26-020294-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T19:03:13+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035042/0001839882-26-035042-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T18:39:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Excelerate Energy rated new Buy, NextDecade Neutral at Goldman Sachs",
-      "url": "https://seekingalpha.com/news/4614634-excelerate-energy-rated-new-buy-nextdecade-neutral-at-goldman-sachs",
-      "source": "seekingalpha.com",
-      "published": "2026-07-16T18:25:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010721/0000950103-26-010721-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010734/0000950103-26-010734-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-16T18:20:05+00:00",
+      "published": "2026-07-16T20:27:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Bank of America Raises The Goldman Sachs Group (NYSE:GS) Price Target to $1,300.00",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-raises-the-goldman-sachs-group-nysegs-price-target-to-130000-2026-07-16/",
-      "source": "marketbeat.com",
-      "published": "2026-07-16T18:12:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Cuts Hasbro (NASDAQ:HAS) Price Target to $105.00",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-cuts-hasbro-nasdaqhas-price-target-to-10500-2026-07-16/",
-      "source": "marketbeat.com",
-      "published": "2026-07-16T18:12:29+00:00",
+      "title": "Bank of America CEO Brian Moynihan Joins Wall Street Leaders in Warning of Mythos AI Risks",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-ceo-brian-moynihan-joins-wall-street-leaders-in-warning-of-mythos-ai-risks/",
+      "source": "pymnts.com",
+      "published": "2026-07-16T20:20:46+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Issues Pessimistic Forecast for Progressive (NYSE:PGR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-issues-pessimistic-forecast-for-progressive-nysepgr-stock-price-2026-07-16/",
-      "source": "marketbeat.com",
-      "published": "2026-07-16T18:12:27+00:00",
+      "title": "BNY Mellon prices 500,000 depositary shares offering",
+      "url": "https://seekingalpha.com/news/4614664-bny-mellon-prices-500000-depositary-shares-offering",
+      "source": "seekingalpha.com",
+      "published": "2026-07-16T20:16:36+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Citigroup Announces Full Redemption of Series T Preferred Stock",
+      "url": "http://www.businesswire.com/news/home/20260716469914/en/Citigroup-Announces-Full-Redemption-of-Series-T-Preferred-Stock/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-07-16T20:15:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ero Copper raised to Buy at BofA as stronger output seen across operations in H2",
+      "url": "https://seekingalpha.com/news/4614639-ero-copper-raised-to-buy-at-bofa-as-stronger-output-seen-across-operations-in-h2",
+      "source": "seekingalpha.com",
+      "published": "2026-07-16T20:14:33+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Atlassian (NASDAQ:TEAM) Price Target Lowered to $105.00 at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/atlassian-nasdaqteam-price-target-lowered-to-10500-at-bank-of-america-2026-07-16/",
-      "source": "marketbeat.com",
-      "published": "2026-07-16T18:12:26+00:00",
+      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+      "source": "decrypt.co",
+      "published": "2026-07-16T20:01:03+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Bank of America Boosts JPMorgan Chase & Co. (NYSE:JPM) Price Target to $420.00",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-boosts-jpmorgan-chase-co-nysejpm-price-target-to-42000-2026-07-16/",
-      "source": "marketbeat.com",
-      "published": "2026-07-16T18:12:25+00:00",
+      "title": "Goldman Sachs: Blowout Quarter, 11% Dividend Raise, But You Shouldn't Chase Here | $VZ $LMT $JPM $MS $GS",
+      "url": "https://seekingalpha.com/article/4922436-goldman-sachs-blowout-quarter-11-percent-dividend-raise-but-you-shouldnt-chase-here",
+      "source": "seekingalpha.com",
+      "published": "2026-07-16T20:00:00+00:00",
       "tickers": [
         "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "TSMC CEO Stresses Choosing Chipmaking Tech Isn’t Like Buying Milk From 7-Eleven & Admits He’s Jealous of Samsung’s Profits",
-      "url": "https://wccftech.com/tsmc-ceo-stresses-choosing-chipmaking-tech-isnt-like-buying-milk-from-7-eleven-admits-hes-jealous-of-samsungs-profits/",
-      "source": "wccftech.com",
-      "published": "2026-07-16T18:02:31+00:00",
-      "tickers": [
+        "GS",
         "MS"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035030/0001839882-26-035030-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T18:01:34+00:00",
+      "title": "BNY Announces Pricing of Public Offering of $500,000,000 of Depositary Shares Representing Interests in Preferred Stock",
+      "url": "https://www.prnewswire.com/news-releases/bny-announces-pricing-of-public-offering-of-500-000-000-of-depositary-shares-representing-interests-in-preferred-stock-302827972.html",
+      "source": "prnewswire.com",
+      "published": "2026-07-16T19:59:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Builder confidence falls in July as affordability pressures persist",
+      "url": "https://www.housingwire.com/articles/builder-confidence-dips-again-in-july/",
+      "source": "housingwire.com",
+      "published": "2026-07-16T19:57:23+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Sees Nvidia’s Next $20 Billion Business. Here’s Where NVDA Stock Could Go",
-      "url": "https://247wallst.com/investing/2026/07/16/bank-of-america-sees-nvidias-next-20-billion-business-heres-where-nvda-stock-could-go/",
-      "source": "247wallst.com",
-      "published": "2026-07-16T18:00:42+00:00",
+      "title": "JPMorgan Chase & Co. Lowers First Horizon (NYSE:FHN) Price Target to $27.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-first-horizon-nysefhn-price-target-to-2700-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:36:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Clorox (NYSE:CLX) Price Target Lowered to $92.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/clorox-nyseclx-price-target-lowered-to-9200-at-jpmorgan-chase-co-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:36:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Gold Fields (NYSE:GFI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-gold-fields-nysegfi-stock-price-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:36:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Melco Resorts & Entertainment (NASDAQ:MLCO) Price Target to $5.70",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-melco-resorts-entertainment-nasdaqmlco-price-target-to-570-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:36:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Estee Lauder Companies (NYSE:EL) Price Target to $94.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-estee-lauder-companies-nyseel-price-target-to-9400-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:36:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Procter & Gamble (NYSE:PG) Price Target to $162.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-procter-gamble-nysepg-price-target-to-16200-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:36:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Can the Real Kevin Warsh Please Stand Up? What His Recent Congressional Testimony Revealed",
+      "url": "https://thepeopleseconomist.substack.com/p/can-the-real-kevin-warsh-please-stand",
+      "source": "substack.com",
+      "published": "2026-07-16T19:33:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp projects 2026 net revenue growth of 7%-9% with BTIG adding about $200M per quarter in H2",
+      "url": "https://seekingalpha.com/news/4614652-u-s-bancorp-projects-2026-net-revenue-growth-of-7-percentminus-9-percent-with-btig-adding",
+      "source": "seekingalpha.com",
+      "published": "2026-07-16T19:27:10+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (USB) Q2 2026 Earnings Call Transcript | $USB",
+      "url": "https://seekingalpha.com/article/4922657-u-s-bancorp-usb-q2-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-07-16T19:26:16+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020302/0001918704-26-020302-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-16T19:26:01+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BNY Mellon Vs. State Street: Buy BNY Mellon for Elite Profit Margins and Avoid State Street’s Heavy ETF Pricing Pressure",
-      "url": "https://247wallst.com/investing/2026/07/16/bny-mellon-vs-state-street-buy-bny-mellon-for-elite-profit-margins-and-avoid-state-streets-heavy-etf-pricing-pressure/",
-      "source": "247wallst.com",
-      "published": "2026-07-16T17:54:15+00:00",
+      "title": "Aug 9, 2025; Minneapolis, Minnesota, USA; Minnesota Vikings quarterback J.J. McCarthy (9) warms up before the game against the Houston Texans at U.S. Bank Stadium. Mandatory Credit: Jeffrey Becker-Imagn Images",
+      "url": "https://fremonttribune.com/sports/professional/nfl/image_f26123a1-c503-5377-bd86-1aa79799e57f.html",
+      "source": "fremonttribune.com",
+      "published": "2026-07-16T19:22:00+00:00",
       "tickers": [
-        "STT",
-        "BK"
+        "USB"
       ]
     },
     {
-      "title": "Jamie Dimon's JPMorgan Chase Just Posted 86% Growth in Equities Trading Revenue and Raised Its Full-Year Net Interest Income Guidance to $105.5 Billion",
-      "url": "https://www.fool.com/investing/2026/07/16/jamie-dimon-jpmorgan-chase-growth-equities/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-16T17:36:00+00:00",
+      "title": "AngloGold Ashanti (NYSE:AU) Price Target Lowered to $134.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/anglogold-ashanti-nyseau-price-target-lowered-to-13400-at-jpmorgan-chase-co-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:18:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Bank of New York Mellon (NYSE:BNY) Price Target Raised to $178.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-nysebny-price-target-raised-to-17800-at-truist-financial-2026-07-16/",
+      "title": "Blackstone (NYSE:BX) Given New $132.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/blackstone-nysebx-given-new-13200-price-target-at-jpmorgan-chase-co-2026-07-16/",
       "source": "marketbeat.com",
-      "published": "2026-07-16T17:24:29+00:00",
+      "published": "2026-07-16T19:18:25+00:00",
       "tickers": [
-        "C",
-        "TFC",
-        "BK"
+        "JPM"
       ]
     },
     {
-      "title": "Public Service Enterprise Group (NYSE:PEG) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/public-service-enterprise-group-nysepeg-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-16/",
+      "title": "JPMorgan Chase & Co. Lowers Aura Minerals (NASDAQ:AUGO) Price Target to $91.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-aura-minerals-nasdaqaugo-price-target-to-9100-2026-07-16/",
       "source": "marketbeat.com",
-      "published": "2026-07-16T17:24:28+00:00",
+      "published": "2026-07-16T19:18:25+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
       ]
     },
     {
-      "title": "Truist Financial Issues Positive Forecast for WEC Energy Group (NYSE:WEC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-wec-energy-group-nysewec-stock-price-2026-07-16/",
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Xcel Energy (NASDAQ:XEL) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-xcel-energy-nasdaqxel-stock-price-2026-07-16/",
       "source": "marketbeat.com",
-      "published": "2026-07-16T17:24:26+00:00",
+      "published": "2026-07-16T19:18:24+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
+      ]
+    },
+    {
+      "title": "WEC Energy Group (NYSE:WEC) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/wec-energy-group-nysewec-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:18:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for SharkNinja (NYSE:SN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-sharkninja-nysesn-stock-price-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:18:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Southern (NYSE:SO) Price Target Raised to $104.00",
+      "url": "https://www.marketbeat.com/instant-alerts/southern-nyseso-price-target-raised-to-10400-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:18:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Primo Brands (NYSE:PRMB) Price Target Raised to $29.00",
+      "url": "https://www.marketbeat.com/instant-alerts/primo-brands-nyseprmb-price-target-raised-to-2900-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:18:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Reynolds Consumer Products (NASDAQ:REYN) Given New $27.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/reynolds-consumer-products-nasdaqreyn-given-new-2700-price-target-at-jpmorgan-chase-co-2026-07-16/",
+      "source": "marketbeat.com",
+      "published": "2026-07-16T19:18:22+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
