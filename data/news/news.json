@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-07-15T22:32:14.648947+00:00",
+  "last_updated": "2026-07-16T00:04:18.220174+00:00",
   "headlines": [
+    {
+      "title": "HISTORIC SELL-OFF FOR MOMENTUM IN JULY",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1uxlj2e/historic_selloff_for_momentum_in_july/",
+      "source": "reddit.com",
+      "published": "2026-07-15T23:06:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Access High Yield Corporate Bond ETF (NYSEARCA:GHYB) Short Interest Up 175.3% in June",
+      "url": "https://www.tickerreport.com/banking-finance/13505044/goldman-sachs-access-high-yield-corporate-bond-etf-nysearcaghyb-short-interest-up-175-3-in-june.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-15T23:01:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp (BNY) Q2 2026 Earnings Call Highlights: Record Revenue and Strong ...",
+      "url": "https://www.gurufocus.com/news/8961205/bank-of-new-york-mellon-corp-bny-q2-2026-earnings-call-highlights-record-revenue-and-strong-eps-growth",
+      "source": "gurufocus.com",
+      "published": "2026-07-15T23:00:24+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Market Today: PayPal Surges on $53B Stripe Takeover Bid",
+      "url": "https://www.gurufocus.com/news/8961145/market-today-paypal-surges-on-53b-stripe-takeover-bid",
+      "source": "gurufocus.com",
+      "published": "2026-07-15T22:33:13+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "PayPal is working with Goldman, Evercore as suitors circle",
+      "url": "https://thebrunswicknews.com/news/national_news/paypal-is-working-with-goldman-evercore-as-suitors-circle/article_438f1a15-582b-5937-992e-46c8606435b7.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-07-15T22:20:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "$2.4 Billion HighWater Wealth Team Joins LPL from U.S. Bank",
+      "url": "https://altswire.com/2-4-billion-highwater-wealth-team-joins-lpl-from-u-s-bank/",
+      "source": "altswire.com",
+      "published": "2026-07-15T22:13:19+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "'Dimon has a warning about Anthropic's most powerful AI model'",
+      "url": "https://awesomecapital.blogspot.com/2026/07/dimon-has-warning-about-anthropics-most.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-07-15T22:11:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "One top fed official had dinner with Wall Street bankers following interest rate vote. Now Elizabeth Warren is pressing Fed Chair for investigation",
+      "url": "https://attackofthefanboy.com/politics/one-top-fed-official-had-dinner-with-wall-street-bankers-following-interest-rate-vote-now-elizabeth-warren-is-pressing-fed-chair-for-investigation/",
+      "source": "attackofthefanboy.com",
+      "published": "2026-07-15T22:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ring Energy (REI) Soars 3.4% Following Buy Rating from Bank of America",
+      "url": "https://www.gurufocus.com/news/8960980/ring-energy-rei-soars-34-following-buy-rating-from-bank-of-america",
+      "source": "gurufocus.com",
+      "published": "2026-07-15T21:55:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Wells Fargo profit jumps 18% as asset-cap removal fuels growth",
       "url": "https://www.charlotteobserver.com/living/article316513654.html#new_tab",
@@ -12,12 +95,49 @@
       ]
     },
     {
+      "title": "Form 144 GOLDMAN SACHS GROUP INC For: 15 July",
+      "url": "https://www.investing.com/news/filings/form-144-goldman-sachs-group-inc-for-15-july-93CH-4794462",
+      "source": "investing.com",
+      "published": "2026-07-15T21:39:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000089183626000048/0000891836-26-000048-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T21:32:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group (PNC) Releases Second Quarter 2026 Business Results",
+      "url": "https://www.gurufocus.com/news/8960950/pnc-financial-services-group-pnc-releases-second-quarter-2026-business-results",
+      "source": "gurufocus.com",
+      "published": "2026-07-15T21:30:13+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
       "title": "Recent Analysts’ Ratings Changes for STMicroelectronics (STM)",
       "url": "https://www.tickerreport.com/banking-finance/13504998/recent-analysts-ratings-changes-for-stmicroelectronics-stm.html",
       "source": "tickerreport.com",
       "published": "2026-07-15T21:26:43+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526304969/0001193125-26-304969-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T21:26:11+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -129,6 +249,15 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078378/0001213900-26-078378-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-15T21:02:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.1% on Analyst Upgrade",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-price-up-11-on-analyst-upgrade-2026-07-15/",
       "source": "marketbeat.com",
@@ -145,116 +274,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (MS) Q2 2026 Earnings Call Highlights: Record Revenues and Strategic Growth ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-q2-2026-210033376.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-15T21:00:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526304887/0001193125-26-304887-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T20:48:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Predicting S&P 500 At 6,300 - 6,500 By Year End | $SPY $ANTHRO $OPENAI $SPCX $GS",
-      "url": "https://seekingalpha.com/article/4922429-predicting-s-and-p-500-at-6300-6500-by-year-end",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T20:47:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Investor: ‘By 2050, The Biggest Companies Operating in Space Won’t Be Space Companies’",
-      "url": "https://247wallst.com/investing/2026/07/15/investor-by-2050-the-biggest-companies-operating-in-space-wont-be-space-companies/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-07-15T20:42:11+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Micron, PayPal, IBM, SpaceX, BlackRock, and More Stocks That Explain Today’s Market",
-      "url": "https://finance.yahoo.com/m/7f6124a8-3d38-32d3-beb1-d4745f652359/micron%2C-paypal%2C-ibm%2C-spacex%2C.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-15T20:41:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon compared Anthropic's Mythos AI to giving ballistic missiles to the public",
-      "url": "https://qz.com/jamie-dimon-anthropic-mythos-ai-warning-jpmorgan-071526",
-      "source": "qz.com",
-      "published": "2026-07-15T20:36:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Mythos AI access is a ‘real issue,’ says JPMorgan Chase CEO Jamie Dimon",
-      "url": "https://seekingalpha.com/news/4614283-mythos-ai-access-is-a-real-issue-says-jpmorgan-chase-ceo-jamie-dimon",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T20:34:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PNC is latest bank to say costs will rise alongside revenue",
-      "url": "https://www.americanbanker.com/news/pnc-is-latest-bank-to-say-costs-will-rise-alongside-revenue",
-      "source": "americanbanker.com",
-      "published": "2026-07-15T20:29:11+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Stock Is Starting To Look Frothy | $GS",
-      "url": "https://seekingalpha.com/article/4922410-goldman-sachs-stock-is-starting-to-look-frothy",
-      "source": "seekingalpha.com",
-      "published": "2026-07-15T20:27:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226034877/0001839882-26-034877-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T20:22:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020202/0001918704-26-020202-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T20:22:13+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078331/0001213900-26-078331-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-15T20:16:40+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
