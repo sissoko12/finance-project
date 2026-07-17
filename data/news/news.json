@@ -1,285 +1,275 @@
 {
-  "last_updated": "2026-07-17T06:23:19.476215+00:00",
+  "last_updated": "2026-07-17T08:36:54.789509+00:00",
   "headlines": [
     {
-      "title": "2026-07-17 Daily Journal 60161773",
-      "url": "https://dailyjournal.net/2026/07/17/2026-07-17-daily-journal-60161773/",
-      "source": "dailyjournal.net",
-      "published": "2026-07-17T05:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Citi Hosts AI Day for Secondary School Students in Hong Kong",
-      "url": "https://www.newspressnow.com/news/national_news/business/citi-hosts-ai-day-for-secondary-school-students-in-hong-kong/article_12dee435-86fd-51ec-aa07-65562bd2ce80.html",
-      "source": "newspressnow.com",
-      "published": "2026-07-17T04:05:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Stocks to Buy: Morgan Stanley Picks 3 PSU Oil Stocks with Up to 52% Upside Potential",
-      "url": "https://tradebrains.in/stocks-to-buy-morgan-stanley-picks-3-psu-oil-stocks-with-up-to-52-upside-potential/",
-      "source": "tradebrains.in",
-      "published": "2026-07-17T03:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Analyzes August's Poor Performance in Emerging Market Spread Trading",
-      "url": "https://www.gurufocus.com/news/8964005/citigroup-analyzes-augusts-poor-performance-in-emerging-market-spread-trading",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T02:10:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HYSA Account Recommendation - What is a good HYSA? I have been looking at different options ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uylz6a/hysa_account_recommendation/",
-      "source": "reddit.com",
-      "published": "2026-07-17T01:42:18+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "COF"
-      ]
-    },
-    {
-      "title": "TRUIST FINANCIAL CORP Acquires Significant Stake in Lion Copper and Gold Corp",
-      "url": "https://www.gurufocus.com/news/8963954/truist-financial-corp-acquires-significant-stake-in-lion-copper-and-gold-corp",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T01:32:39+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan's Jamie Dimon Highlights Skilled Labor Shortage in U.S. Shipbuilding",
-      "url": "https://www.gurufocus.com/news/8963830/jpmorgans-jamie-dimon-highlights-skilled-labor-shortage-in-us-shipbuilding",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T00:22:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Upcoming Earnings to Watch: Truist Financial Corporation (TFC) and More",
-      "url": "https://www.gurufocus.com/news/8963776/upcoming-earnings-to-watch-truist-financial-corporation-tfc-and-more",
-      "source": "gurufocus.com",
-      "published": "2026-07-16T23:55:43+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "VB vs SPSM: Which Small-Cap ETF Is the Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/16/vb-vs-spsm-which-small-cap-etf-is-the-better-buy-in-2026/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-16T23:00:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Citi Prices Largest Single Bank-Contributed, Multi-Only CMBS Conduit Deal Since GFC",
-      "url": "https://commercialobserver.com/2026/07/citi-conduit-cmbs/",
-      "source": "commercialobserver.com",
-      "published": "2026-07-16T22:31:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Future Tech Leaders Equity ETF (NYSEARCA:GTEK) Shares Up 1.3% – Still a Buy?",
-      "url": "https://www.tickerreport.com/banking-finance/13506212/goldman-sachs-future-tech-leaders-equity-etf-nysearcagtek-shares-up-1-3-still-a-buy.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-16T22:20:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "VanEck J.P. Morgan EM Local Currency Bond ETF (NYSEARCA:EMLC) Short Interest Update",
-      "url": "https://www.tickerreport.com/banking-finance/13506214/vaneck-j-p-morgan-em-local-currency-bond-etf-nysearcaemlc-short-interest-update.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-16T22:20:59+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KBRA Assigns Preliminary Ratings to J.P. Morgan Mortgage Trust 2026-6 (JPMMT 2026-6)",
-      "url": "http://www.businesswire.com/news/home/20260716750510/en/KBRA-Assigns-Preliminary-Ratings-to-J.P.-Morgan-Mortgage-Trust-2026-6-JPMMT-2026-6/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-07-16T22:11:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street layoffs loom as bank targets $1 billion in benefits from AI, reorganization",
-      "url": "https://www.bizjournals.com/boston/news/2026/07/16/state-street-plans-large-transformation-headcount.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-16T21:58:05+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Wintrust Financial (WTFC) – Analysts’ Recent Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13506201/wintrust-financial-wtfc-analysts-recent-ratings-updates.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-16T21:56:44+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading Down 1.1% - Here's Why",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-down-11-heres-why-2026-07-16/",
+      "title": "Bank of New York Mellon Corp Trims Stock Position in The Travelers Companies, Inc. $TRV",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-stock-position-in-the-travelers-companies-inc-trv-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-16T21:40:35+00:00",
+      "published": "2026-07-17T07:21:24+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "Bank of America CEO on World Cup ticket sales, economic boost",
-      "url": "https://www.cbsnews.com/video/bank-of-america-ceo-on-world-cup-ticket-sales-economic-boost/",
-      "source": "cbsnews.com",
-      "published": "2026-07-16T21:38:51+00:00",
+      "title": "Bank of New York Mellon Corp Sells 20,497 Shares of General Dynamics Corporation $GD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-20497-shares-of-general-dynamics-corporation-gd-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:24+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "KBRA Releases Research – U.S. Bank Regulatory Proposed Changes to the Residential Loan Risk-Weight Scheme: Measuring the Impact on Capital",
-      "url": "http://www.businesswire.com/news/home/20260716055350/en/KBRA-Releases-Research-%E2%80%93-U.S.-Bank-Regulatory-Proposed-Changes-to-the-Residential-Loan-Risk-Weight-Scheme-Measuring-the-Impact-on-Capital/?feedref=JjAwJuNHiystnCoBq_hl-SQpWHDgbMTfUSvlUQQyXmEOaKcEoII_vqs8up4GPObWbSBuLMrPLuXE-6UOS4tp2o_0dKdFRTehrF3avD2KCHBRGBn317xVJ1ATTZsTZCXZ0Ki8eee70u2UcYhKJXK_obCRsdEUmwu1incqKjl0050=",
-      "source": "businesswire.com",
-      "published": "2026-07-16T21:34:00+00:00",
+      "title": "Bank of New York Mellon Corp Buys 2,555,687 Shares of Weyerhaeuser Company $WY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-2555687-shares-of-weyerhaeuser-company-wy-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:24+00:00",
       "tickers": [
-        "USB"
+        "BK"
       ]
     },
     {
-      "title": "Gold fails to hold support at $4,000 but BofA suggests buying the dip",
-      "url": "https://seekingalpha.com/news/4614706-gold-fails-to-hold-support-at-4000-but-bofa-suggests-buying-the-dip",
-      "source": "seekingalpha.com",
-      "published": "2026-07-16T21:30:54+00:00",
+      "title": "Bank of New York Mellon Corp Trims Holdings in HCA Healthcare, Inc. $HCA",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-holdings-in-hca-healthcare-inc-hca-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:23+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078800/0001213900-26-078800-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T21:30:46+00:00",
+      "title": "Bank of New York Mellon Corp Sells 99,337 Shares of PACCAR Inc. $PCAR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-99337-shares-of-paccar-inc-pcar-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:23+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "Weston Andress to retire after 42 years in banking; Bobby Chesney to lead PNC region",
-      "url": "https://greensboro.com/news/local/business/article_a49ede57-79e2-5c6b-abe0-d81bebb11464.html",
-      "source": "greensboro.com",
-      "published": "2026-07-16T21:30:00+00:00",
+      "title": "Cigna Group $CI Shares Bought by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cigna-group-ci-shares-bought-by-bank-of-new-york-mellon-corp-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:22+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "BK"
       ]
     },
     {
-      "title": "State Street outlines 35% pretax margin and mid-20s ROTCE targets, projecting 2026 fee revenue growth of 12%-13%",
-      "url": "https://seekingalpha.com/news/4614725-state-street-outlines-35-percent-pretax-margin-and-midminus-20s-rotce-targets-projecting-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-07-16T21:27:04+00:00",
+      "title": "Bank of New York Mellon Corp Trims Stake in Cadence Design Systems, Inc. $CDNS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-stake-in-cadence-design-systems-inc-cdns-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:22+00:00",
       "tickers": [
-        "STT"
+        "BK"
       ]
     },
     {
-      "title": "State Street Corporation (STT) Q2 2026 Earnings Call Transcript | $STT",
-      "url": "https://seekingalpha.com/article/4922731-state-street-corporation-stt-q2-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-07-16T21:26:18+00:00",
+      "title": "Bank of New York Mellon Corp Has $456.42 Million Holdings in United Parcel Service, Inc. $UPS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-45642-million-holdings-in-united-parcel-service-inc-ups-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:22+00:00",
       "tickers": [
-        "STT"
+        "BK"
       ]
     },
     {
-      "title": "U.S. Bancorp Rides Payments Boom to Record Revenue",
-      "url": "https://www.pymnts.com/earnings/2026/u-s-bancorp-rides-payments-boom-to-record-revenue/",
-      "source": "pymnts.com",
-      "published": "2026-07-16T21:24:40+00:00",
+      "title": "Bank of New York Mellon Corp Grows Stock Position in Sandisk Corporation $SNDK",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-grows-stock-position-in-sandisk-corporation-sndk-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:22+00:00",
       "tickers": [
-        "USB"
+        "BK"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526306256/0001193125-26-306256-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T21:22:25+00:00",
+      "title": "Bank of New York Mellon Corp Sells 49,424 Shares of Marriott International, Inc. $MAR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-49424-shares-of-marriott-international-inc-mar-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:21+00:00",
       "tickers": [
-        "GS"
+        "BK"
       ]
     },
     {
-      "title": "NJ Justices Clarify FCA Amendment In Reviving Bank Suit",
-      "url": "https://www.law360.com/governmentcontracts/articles/2502128?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-07-16T21:18:44+00:00",
+      "title": "Bank of New York Mellon Corp Reduces Stake in Zoetis Inc. $ZTS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-reduces-stake-in-zoetis-inc-zts-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:21+00:00",
       "tickers": [
-        "BAC",
-        "WFC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010745/0000950103-26-010745-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T21:17:52+00:00",
+      "title": "Bank of New York Mellon Corp Reduces Position in Cognizant Technology Solutions Corporation $CTSH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-reduces-position-in-cognizant-technology-solutions-corporation-ctsh-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:21+00:00",
       "tickers": [
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "BMRN Maintained by Citigroup -- Price Target Raised to $76.00",
-      "url": "https://www.gurufocus.com/news/8963466/bmrn-maintained-by-citigroup-price-target-raised-to-7600",
-      "source": "gurufocus.com",
-      "published": "2026-07-16T21:13:37+00:00",
+      "title": "Packaging Corporation of America $PKG Stake Increased by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-packaging-corporation-of-america-pkg-stake-increased-by-bank-of-new-york-mellon-corp-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:20+00:00",
       "tickers": [
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "JBHT Maintained by Citigroup -- Price Target Raised to $309",
-      "url": "https://www.gurufocus.com/news/8963464/jbht-maintained-by-citigroup-price-target-raised-to-309",
-      "source": "gurufocus.com",
-      "published": "2026-07-16T21:13:37+00:00",
+      "title": "Bank of New York Mellon Corp Cuts Stock Holdings in American Electric Power Company, Inc. $AEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-cuts-stock-holdings-in-american-electric-power-company-inc-aep-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:20+00:00",
       "tickers": [
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Goldman Sachs (GS) and Morgan Stanley (MS) Thrive Amid Capital Markets Surge",
-      "url": "https://www.gurufocus.com/news/8963477/goldman-sachs-gs-and-morgan-stanley-ms-thrive-amid-capital-markets-surge",
-      "source": "gurufocus.com",
-      "published": "2026-07-16T21:13:37+00:00",
+      "title": "Bank of New York Mellon Corp Sells 72,888 Shares of U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-72888-shares-of-us-bancorp-usb-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:19+00:00",
       "tickers": [
-        "GS",
-        "MS"
+        "USB",
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Has $475.95 Million Stock Holdings in Ford Motor Company $F",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-47595-million-stock-holdings-in-ford-motor-company-f-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:19+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "American Tower Corporation $AMT Shares Acquired by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-american-tower-corporation-amt-shares-acquired-by-bank-of-new-york-mellon-corp-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:19+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Trims Stake in Waste Management, Inc. $WM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-stake-in-waste-management-inc-wm-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:18+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Lowers Stock Position in Southern Company (The) $SO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-lowers-stock-position-in-southern-company-the-so-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:18+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Has $484.91 Million Stake in Johnson Controls International plc $JCI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-48491-million-stake-in-johnson-controls-international-plc-jci-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:18+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Trims Holdings in Starbucks Corporation $SBUX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-holdings-in-starbucks-corporation-sbux-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Has $679.84 Million Stake in Copart, Inc. $CPRT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-67984-million-stake-in-copart-inc-cprt-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Lowers Holdings in First Horizon Corporation $FHN",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-lowers-holdings-in-first-horizon-corporation-fhn-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 143,311 Shares of Arista Networks, Inc. $ANET",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-143311-shares-of-arista-networks-inc-anet-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:16+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 15,360 Shares of Parker-Hannifin Corporation $PH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-15360-shares-of-parker-hannifin-corporation-ph-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:16+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Cuts Stake in Automatic Data Processing, Inc. $ADP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-cuts-stake-in-automatic-data-processing-inc-adp-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:15+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 80,415 Shares of CVS Health Corporation $CVS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-80415-shares-of-cvs-health-corporation-cvs-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:15+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Duke Energy Corporation $DUK Stock Holdings Cut by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-duke-energy-corporation-duk-stock-holdings-cut-by-bank-of-new-york-mellon-corp-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:15+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Reduces Stake in Exelon Corporation $EXC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-reduces-stake-in-exelon-corporation-exc-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:14+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Acquires 150,319 Shares of Dover Corporation $DOV",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-150319-shares-of-dover-corporation-dov-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T07:21:14+00:00",
+      "tickers": [
+        "BK"
       ]
     }
   ]
