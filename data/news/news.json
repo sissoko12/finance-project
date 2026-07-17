@@ -1,285 +1,105 @@
 {
-  "last_updated": "2026-07-17T20:11:11.182411+00:00",
+  "last_updated": "2026-07-17T21:23:16.551279+00:00",
   "headlines": [
     {
-      "title": "3M upgraded to Overweight at J.P. Morgan as growth seen taking hold",
-      "url": "https://seekingalpha.com/news/4615026-3m-upgraded-to-overweight-at-jp-morgan-as-growth-seen-taking-hold",
+      "title": "Canadian wildfires and air advisories will dampen park attendance — Citi Research",
+      "url": "https://seekingalpha.com/news/4615043-canadian-wildfires-and-air-advisories-will-dampen-park-attendance-citi-research",
       "source": "seekingalpha.com",
-      "published": "2026-07-17T19:27:57+00:00",
+      "published": "2026-07-17T20:35:57+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Fintech Disruptor StockFan Wins Bronze Globee® Award After Exploding Into 62 Countries in Year One",
-      "url": "https://www.prnewswire.com/news-releases/fintech-disruptor-stockfan-wins-bronze-globee-award-after-exploding-into-62-countries-in-year-one-302828779.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-17T19:05:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Fervo Energy (FRVO) Gains 6.3% Following Bank of America Upgrade",
-      "url": "https://www.gurufocus.com/news/8965138/fervo-energy-frvo-gains-63-following-bank-of-america-upgrade",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:59:49+00:00",
-      "tickers": [
-        "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Corporation (TFC) Reports Strong Q2 2026 Earnings and Leadership Transition",
-      "url": "https://www.gurufocus.com/news/8965135/truist-financial-corporation-tfc-reports-strong-q2-2026-earnings-and-leadership-transition",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:59:09+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "WSE Maintained by JP Morgan -- Price Target Lowered to $17.30",
-      "url": "https://www.gurufocus.com/news/8965132/wse-maintained-by-jp-morgan-price-target-lowered-to-1730",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:58:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "IBM Maintained by JP Morgan -- Price Target Lowered to $250",
-      "url": "https://www.gurufocus.com/news/8965128/ibm-maintained-by-jp-morgan-price-target-lowered-to-250",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:57:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BIDU Maintained by JP Morgan -- Price Target Lowered to $205",
-      "url": "https://www.gurufocus.com/news/8965124/bidu-maintained-by-jp-morgan-price-target-lowered-to-205",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:57:07+00:00",
-      "tickers": [
-        "JPM"
       ]
     },
     {
       "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035261/0001839882-26-035261-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035292/0001839882-26-035292-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-17T18:56:55+00:00",
+      "published": "2026-07-17T20:32:39+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "AA Maintained by JP Morgan -- Price Target Lowered to $52.00",
-      "url": "https://www.gurufocus.com/news/8965120/aa-maintained-by-jp-morgan-price-target-lowered-to-5200",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:56:15+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307871/0001193125-26-307871-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:23:25+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035259/0001839882-26-035259-index.htm",
+      "title": "MORGAN STANLEY: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000195004726007182/0001950047-26-007182-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-17T18:55:22+00:00",
+      "published": "2026-07-17T20:17:01+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "UAL Maintained by JP Morgan -- Price Target Raised to $203",
-      "url": "https://www.gurufocus.com/news/8965115/ual-maintained-by-jp-morgan-price-target-raised-to-203",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:54:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "F Maintained by JP Morgan -- Price Target Raised to $16.00",
-      "url": "https://www.gurufocus.com/news/8965112/f-maintained-by-jp-morgan-price-target-raised-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:54:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020451/0001918704-26-020451-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T18:54:04+00:00",
+      "title": "Bank of America Declares Preferred Stock Dividends Payable in August and September 2026",
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-august-and-september-2026-302828793.html",
+      "source": "prnewswire.com",
+      "published": "2026-07-17T20:15:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "DUOL Maintains by JP Morgan -- Price Target Raised to $125",
-      "url": "https://www.gurufocus.com/news/8965110/duol-maintains-by-jp-morgan-price-target-raised-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:53:13+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010796/0000950103-26-010796-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:14:06+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000162828026048656/0001628280-26-048656-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:07:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079170/0001213900-26-079170-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:05:38+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "ABT Maintains by JP Morgan -- Price Target Raised to $120",
-      "url": "https://www.gurufocus.com/news/8965105/abt-maintains-by-jp-morgan-price-target-raised-to-120",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:51:34+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000152070026000007/0001520700-26-000007-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:04:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079157/0001213900-26-079157-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:03:02+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "ARCO Upgraded by JP Morgan -- Price Target Raised to $10.50",
-      "url": "https://www.gurufocus.com/news/8965102/arco-upgraded-by-jp-morgan-price-target-raised-to-1050",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:50:45+00:00",
+      "title": "Chip stocks enter bear-market territory. A BofA analyst says not to panic.",
+      "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-17T20:01:00+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MGNI Maintained by Wells Fargo -- Price Target Raised to $21.00",
-      "url": "https://www.gurufocus.com/news/8965098/mgni-maintained-by-wells-fargo-price-target-raised-to-2100",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:48:48+00:00",
-      "tickers": [
-        "WFC",
+        "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "AA Maintained by Wells Fargo -- Price Target Lowered to $71.00",
-      "url": "https://www.gurufocus.com/news/8965095/aa-maintained-by-wells-fargo-price-target-lowered-to-7100",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:47:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ABT Maintained by Wells Fargo -- Price Target Raised to $112",
-      "url": "https://www.gurufocus.com/news/8965087/abt-maintained-by-wells-fargo-price-target-raised-to-112",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:44:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan In Talks With More Than 100 Multinationals About GIFT City Treasury Operations",
-      "url": "https://pulse2.com/jpmorgan-in-talks-with-more-than-100-multinationals-about-gift-city-treasury-operations/",
-      "source": "pulse2.com",
-      "published": "2026-07-17T18:44:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AMWL Maintained by Wells Fargo -- Price Target Raised to $16.00",
-      "url": "https://www.gurufocus.com/news/8965086/amwl-maintained-by-wells-fargo-price-target-raised-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:44:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "NBIX Maintained by Wells Fargo -- Price Target Raised to $200",
-      "url": "https://www.gurufocus.com/news/8965085/nbix-maintained-by-wells-fargo-price-target-raised-to-200",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:43:39+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "USB Maintained by Wells Fargo -- Price Target Raised to $69",
-      "url": "https://www.gurufocus.com/news/8965083/usb-maintained-by-wells-fargo-price-target-raised-to-69",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:43:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Western Union (NYSE:WU) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13507287/citigroup-has-lowered-expectations-for-western-union-nysewu-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T18:42:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "STT Maintained by Wells Fargo -- Price Target Raised to $215",
-      "url": "https://www.gurufocus.com/news/8965082/stt-maintained-by-wells-fargo-price-target-raised-to-215",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:42:39+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Abbott Laboratories (NYSE:ABT) Given New $112.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/abbott-laboratories-nyseabt-given-new-11200-price-target-at-citigroup-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T18:42:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ovintiv (NYSE:OVV) Price Target Cut to $66.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/ovintiv-nyseovv-price-target-cut-to-6600-by-analysts-at-citigroup-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T18:42:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Occidental Petroleum (NYSE:OXY) Given New $60.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/occidental-petroleum-nyseoxy-given-new-6000-price-target-at-citigroup-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T18:42:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Western Union (NYSE:WU) Price Target to $8.50",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-western-union-nysewu-price-target-to-850-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T18:42:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Maintained by Evercore ISI Group -- Price Target Raised to $285",
-      "url": "https://www.gurufocus.com/news/8965074/pnc-maintained-by-evercore-isi-group-price-target-raised-to-285",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T18:38:58+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
