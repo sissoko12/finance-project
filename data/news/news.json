@@ -1,287 +1,264 @@
 {
-  "last_updated": "2026-07-17T12:16:00.096255+00:00",
+  "last_updated": "2026-07-17T14:13:38.018364+00:00",
   "headlines": [
     {
-      "title": "Goldman sees central bank demand providing a floor for gold prices",
-      "url": "https://www.investing.com/news/commodities-news/goldman-sees-central-bank-demand-providing-a-floor-for-gold-prices-4798118",
-      "source": "investing.com",
-      "published": "2026-07-17T11:26:37+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078947/0001213900-26-078947-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T13:40:09+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley Emerging Markets Debt Fund (NYSE:MSD) Short Interest Update",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-emerging-markets-debt-fund-nysemsd-short-interest-update-2026-07-17/",
+      "title": "Dividend Roundup: JPMorgan Chase, Coca-Cola, Johnson & Johnson, Pfizer, and more | $DVY $KO $JPM $JNJ $PFE",
+      "url": "https://seekingalpha.com/news/4614907-dividend-roundup-jpmorgan-chase-coca-cola-johnson-johnson-pfizer-and-more",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T13:07:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KKR Real Estate Finance Trust (NYSE:KREF) Downgraded to Underweight Rating by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/kkr-real-estate-finance-trust-nysekref-downgraded-to-underweight-rating-by-jpmorgan-chase-co-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-17T11:00:38+00:00",
+      "published": "2026-07-17T13:06:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wyndham Hotels, Hyatt, Travel + Leisure Seen Offering Upside Beyond World Cup, Morgan Stanley Says",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wyndham-hotels-hyatt-travel-leisure-125003255.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-17T12:50:03+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Truist Financial Q2 earnings beat, helped by strong Y/Y fee growth",
-      "url": "https://seekingalpha.com/news/4614833-truist-financial-q2-earnings-beat-helped-by-strong-yy-fee-growth",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T11:00:29+00:00",
+      "title": "2 Nuclear Stocks Poised to Benefit From Rising AI Adoption",
+      "url": "https://www.fool.com/investing/2026/07/17/2-nuclear-stocks-poised-to-benefit-from-rising-ai/?.tsrc=rss",
+      "source": "fool.com",
+      "published": "2026-07-17T12:50:00+00:00",
       "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bloomberg Talks: Citi's Beata Manthey (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-talks-citi-s-beata-manthey-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-07-17T10:42:59+00:00",
-      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Netflix (NFLX) Shares Plunge 9% on Weak Revenue and Guidance Concerns",
-      "url": "https://blockonomi.com/netflix-nflx-shares-plunge-9-on-weak-revenue-and-guidance-concerns/",
-      "source": "blockonomi.com",
-      "published": "2026-07-17T10:40:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman says Europe's data center electricity demand boom could light up these stocks",
-      "url": "https://www.cnbc.com/2026/07/17/goldman-europe-data-center-electricity-boom-stocks.html",
-      "source": "cnbc.com",
-      "published": "2026-07-17T10:35:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist Financial GAAP EPS of $1.23 beats by $0.15, revenue of $5.27B beats by $30M",
-      "url": "https://seekingalpha.com/news/4614832-truist-financial-gaap-eps-of-123-beats-by-015-revenue-of-527b-beats-by-30m",
+      "title": "Truist Financial Corporation 2026 Q2 - Results - Earnings Call Presentation | $TFC",
+      "url": "https://seekingalpha.com/article/4922978-truist-financial-corporation-2026-q2-results-earnings-call-presentation",
       "source": "seekingalpha.com",
-      "published": "2026-07-17T10:33:50+00:00",
+      "published": "2026-07-17T12:30:44+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Truist Financial Corporation $TFC Shares Purchased by Wealthfront Advisers LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-truist-financial-corporation-tfc-shares-purchased-by-wealthfront-advisers-llc-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:33:20+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Wealthfront Advisers LLC Acquires 46,501 Shares of U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthfront-advisers-llc-acquires-46501-shares-of-us-bancorp-usb-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:33:08+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Wealthfront Advisers LLC Has $17.17 Million Holdings in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthfront-advisers-llc-has-1717-million-holdings-in-the-charles-schwab-corporation-schw-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:33:07+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Wealthfront Advisers LLC Trims Stock Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthfront-advisers-llc-trims-stock-holdings-in-capital-one-financial-corporation-cof-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:33:06+00:00",
+      "title": "Palo Alto Networks (NASDAQ:PANW) Upgraded by Capital One Financial to Strong-Buy Rating",
+      "url": "https://www.tickerreport.com/banking-finance/13507047/palo-alto-networks-nasdaqpanw-upgraded-by-capital-one-financial-to-strong-buy-rating.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T12:24:44+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Valmark Advisers Inc. Sells 4,494 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-valmark-advisers-inc-sells-4494-shares-of-jpmorgan-chase-co-jpm-2026-07-17/",
+      "title": "What’s behind Citi’s Sell call on Svenska Handelsbanken?",
+      "url": "https://www.investing.com/news/analyst-ratings/whats-behind-citis-sell-call-on-svenska-handelsbanken-4798381",
+      "source": "investing.com",
+      "published": "2026-07-17T12:23:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Intuitive Surgical (NASDAQ:ISRG) Price Target Cut to $500.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/intuitive-surgical-nasdaqisrg-price-target-cut-to-50000-by-analysts-at-citigroup-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-17T10:32:35+00:00",
+      "published": "2026-07-17T12:18:23+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Welch & Forbes LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-welch-forbes-llc-2026-07-17/",
+      "title": "FY2027 EPS Estimate for Morgan Stanley Boosted by Analyst",
+      "url": "https://www.marketbeat.com/instant-alerts/fy2027-eps-estimate-for-morgan-stanley-boosted-by-analyst-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-17T10:32:34+00:00",
+      "published": "2026-07-17T12:12:59+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "10 Friday AM Reads - My end-of-week morning reads: • Wall Street Traders Are Having ...",
-      "url": "https://ritholtz.com/2026/07/10-friday-am-reads-507/",
-      "source": "ritholtz.com",
-      "published": "2026-07-17T10:30:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "TRUIST FINANCIAL CORP: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000096/0000092230-26-000096-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T10:30:36+00:00",
+      "title": "Truist Financial (NYSE:TFC) Releases Quarterly Earnings Results, Beats Estimates By $0.15 EPS",
+      "url": "https://www.tickerreport.com/banking-finance/13507020/truist-financial-nysetfc-releases-quarterly-earnings-results-beats-estimates-by-0-15-eps.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T12:11:27+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Truist reports second quarter 2026 results",
-      "url": "https://www.prnewswire.com/news-releases/truist-reports-second-quarter-2026-results-302827862.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-17T10:30:00+00:00",
+      "title": "Global Assets Advisory LLC Buys 11,182 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.tickerreport.com/banking-finance/13507014/global-assets-advisory-llc-buys-11182-shares-of-jpmorgan-chase-co-jpm.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T12:11:05+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
       ]
     },
     {
-      "title": "Goldman Sachs (GS) Tops M&A Advisory Rankings in H1 2026",
-      "url": "https://www.gurufocus.com/news/8964390/goldman-sachs-gs-tops-ma-advisory-rankings-in-h1-2026",
+      "title": "Bank of America Upgrades ERock (NYSE:EROC) to Buy",
+      "url": "https://www.tickerreport.com/banking-finance/13507009/bank-of-america-upgrades-erock-nyseeroc-to-buy.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T12:07:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "TPG RE Finance Trust (NYSE:TRTX) Given New $10.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13507011/tpg-re-finance-trust-nysetrtx-given-new-10-00-price-target-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T12:07:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AGNC Investment’s (AGNC) “Neutral” Rating Reaffirmed at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13507012/agnc-investments-agnc-neutral-rating-reaffirmed-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T12:07:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Reiterates \"Neutral\" Rating for AGNC Investment (NASDAQ:AGNC)",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-reiterates-neutral-rating-for-agnc-investment-nasdaqagnc-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Arbor Realty Trust (NYSE:ABR) Upgraded by JPMorgan Chase & Co. to Neutral Rating",
+      "url": "https://www.marketbeat.com/instant-alerts/arbor-realty-trust-nyseabr-upgraded-by-jpmorgan-chase-co-to-neutral-rating-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Ares Commercial Real Estate (NYSE:ACRE) Price Target to $5.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-ares-commercial-real-estate-nyseacre-price-target-to-500-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Blackstone Mortgage Trust (NYSE:BXMT) Price Target to $19.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-blackstone-mortgage-trust-nysebxmt-price-target-to-1900-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Emerson Electric (NYSE:EMR) Raised to \"Overweight\" at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/emerson-electric-nyseemr-raised-to-overweight-at-jpmorgan-chase-co-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "3M (NYSE:MMM) Upgraded by JPMorgan Chase & Co. to \"Overweight\" Rating",
+      "url": "https://www.marketbeat.com/instant-alerts/3m-nysemmm-upgraded-by-jpmorgan-chase-co-to-overweight-rating-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PPG Industries (NYSE:PPG) Upgraded by Bank of America to \"Buy\" Rating",
+      "url": "https://www.marketbeat.com/instant-alerts/ppg-industries-nyseppg-upgraded-by-bank-of-america-to-buy-rating-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Annaly Capital Management (NYSE:NLY) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-annaly-capital-management-nysenly-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Redwood Trust (NYSE:RWT) Price Target to $6.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-redwood-trust-nyserwt-price-target-to-600-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Two Harbors Investments (NYSE:TWO) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-two-harbors-investments-nysetwo-stock-price-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Robert W. Baird Issues Positive Forecast for U.S. Bancorp (NYSE:USB) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/robert-w-baird-issues-positive-forecast-for-us-bancorp-nyseusb-stock-price-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T12:06:27+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "PNC Financial: Likely Fairly Valued | $PNC",
+      "url": "https://seekingalpha.com/article/4922948-pnc-financial-likely-fairly-valued",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T12:03:08+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Truist Financial (TFC) Reports Strong Q2 Earnings, Beats Expectations",
+      "url": "https://www.gurufocus.com/news/8964429/truist-financial-tfc-reports-strong-q2-earnings-beats-expectations",
       "source": "gurufocus.com",
-      "published": "2026-07-17T10:20:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "HughesLittle Investment Management Ltd. Trims Stock Holdings in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hugheslittle-investment-management-ltd-trims-stock-holdings-in-the-charles-schwab-corporation-schw-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:16:47+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Citi sees Indonesia rupiah as cheap after recent dollar strength",
-      "url": "https://www.investing.com/news/forex-news/citi-sees-indonesia-rupiah-as-cheap-after-recent-dollar-strength-93CH-4797862",
-      "source": "investing.com",
-      "published": "2026-07-17T10:12:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goodman Financial Corp Sells 30,085 Shares of The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-goodman-financial-corp-sells-30085-shares-of-the-charles-schwab-corporation-schw-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:09:28+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "BofA Technicals: Gold's Unfinished Correction",
-      "url": "https://vblgoldfix.substack.com/p/bofa-technicals-golds-unfinished",
-      "source": "substack.com",
-      "published": "2026-07-17T10:09:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Purchased by Jag Capital Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-purchased-by-jag-capital-management-llc-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T10:09:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist Financial Corporation $TFC Shares Sold by Principal Financial Group Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13506744/truist-financial-corporation-tfc-shares-sold-by-principal-financial-group-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T10:04:59+00:00",
+      "published": "2026-07-17T11:57:19+00:00",
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Corp earnings matched, revenue fell short of estimates",
-      "url": "https://www.investing.com/news/earnings/truist-financial-corp-earnings-matched-revenue-fell-short-of-estimates-4797843",
-      "source": "investing.com",
-      "published": "2026-07-17T10:03:12+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 13,885 Shares of BlackRock $BLK",
-      "url": "https://www.tickerreport.com/banking-finance/13506710/bank-of-new-york-mellon-corp-sells-13885-shares-of-blackrock-blk.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T09:59:11+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Automatic Data Processing, Inc. $ADP Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.tickerreport.com/banking-finance/13506708/automatic-data-processing-inc-adp-shares-sold-by-bank-of-new-york-mellon-corp.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T09:59:10+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Decreases Stock Holdings in Intercontinental Exchange Inc. $ICE",
-      "url": "https://www.tickerreport.com/banking-finance/13506699/bank-of-new-york-mellon-corp-decreases-stock-holdings-in-intercontinental-exchange-inc-ice.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T09:57:24+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "SpaceX (NASDAQ:SPCX) Raised to Hold at Piper Sandler",
-      "url": "https://www.tickerreport.com/banking-finance/13506697/spacex-nasdaqspcx-raised-to-hold-at-piper-sandler.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T09:55:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "RS Group (LON:RS1) Price Target Raised to GBX 720 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/rs-group-lonrs1-price-target-raised-to-gbx-720-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T09:54:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Future (LON:FUTR) Price Target Lowered to GBX 740 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/future-lonfutr-price-target-lowered-to-gbx-740-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T09:54:21+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
