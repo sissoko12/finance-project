@@ -1,261 +1,223 @@
 {
-  "last_updated": "2026-07-17T14:13:38.018364+00:00",
+  "last_updated": "2026-07-17T15:58:47.764956+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026078947/0001213900-26-078947-index.htm",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020386/0001918704-26-020386-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-17T13:40:09+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Dividend Roundup: JPMorgan Chase, Coca-Cola, Johnson & Johnson, Pfizer, and more | $DVY $KO $JPM $JNJ $PFE",
-      "url": "https://seekingalpha.com/news/4614907-dividend-roundup-jpmorgan-chase-coca-cola-johnson-johnson-pfizer-and-more",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T13:07:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KKR Real Estate Finance Trust (NYSE:KREF) Downgraded to Underweight Rating by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/kkr-real-estate-finance-trust-nysekref-downgraded-to-underweight-rating-by-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:06:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wyndham Hotels, Hyatt, Travel + Leisure Seen Offering Upside Beyond World Cup, Morgan Stanley Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wyndham-hotels-hyatt-travel-leisure-125003255.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-17T12:50:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "2 Nuclear Stocks Poised to Benefit From Rising AI Adoption",
-      "url": "https://www.fool.com/investing/2026/07/17/2-nuclear-stocks-poised-to-benefit-from-rising-ai/?.tsrc=rss",
-      "source": "fool.com",
-      "published": "2026-07-17T12:50:00+00:00",
+      "published": "2026-07-17T15:06:43+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Truist Financial Corporation 2026 Q2 - Results - Earnings Call Presentation | $TFC",
-      "url": "https://seekingalpha.com/article/4922978-truist-financial-corporation-2026-q2-results-earnings-call-presentation",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T12:30:44+00:00",
+      "title": "Arcos Dorados (NYSE:ARCO) Upgraded at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/arcos-dorados-nysearco-upgraded-at-jpmorgan-chase-co-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:00:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Keefe, Bruyette & Woods Forecasts Strong Price Appreciation for State Street (NYSE:STT) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/keefe-bruyette-woods-forecasts-strong-price-appreciation-for-state-street-nysestt-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:00:22+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Stock Price Expected to Rise, Keefe, Bruyette & Woods Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-stock-price-expected-to-rise-keefe-bruyette-woods-analyst-says-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:00:21+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan (JPM) and Wells Fargo (WFC) Announce Dividend Increases",
+      "url": "https://www.gurufocus.com/news/8964709/jpmorgan-jpm-and-wells-fargo-wfc-announce-dividend-increases",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T15:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-stock-price-expected-to-rise-wells-fargo-company-analyst-says-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T14:36:29+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Wells Fargo & Company Increases State Street (NYSE:STT) Price Target to $215.00",
+      "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-increases-state-street-nysestt-price-target-to-21500-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T14:36:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "First Citizens BancShares (FCNCA) – Analysts’ Recent Ratings Changes",
+      "url": "https://www.tickerreport.com/banking-finance/13507120/first-citizens-bancshares-fcnca-analysts-recent-ratings-changes.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T14:26:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020370/0001918704-26-020370-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T14:22:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist Financial Reports Strong Q2 Earnings with $1.23 EPS",
+      "url": "https://www.gurufocus.com/news/8964667/truist-financial-reports-strong-q2-earnings-with-123-eps",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T14:11:25+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Palo Alto Networks (NASDAQ:PANW) Upgraded by Capital One Financial to Strong-Buy Rating",
-      "url": "https://www.tickerreport.com/banking-finance/13507047/palo-alto-networks-nasdaqpanw-upgraded-by-capital-one-financial-to-strong-buy-rating.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T12:24:44+00:00",
+      "title": "Truist Financial posted an earnings beat as profit surged from a year ago",
+      "url": "https://qz.com/truist-financial-earnings-beat-second-quarter-2026-071726",
+      "source": "qz.com",
+      "published": "2026-07-17T14:10:35+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Q2 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-q2-earnings-call-highlights-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T14:05:16+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial (TFC) Stock Climbs on Strong Q2 Earnings as CEO Transition Looms",
+      "url": "https://blockonomi.com/truist-financial-tfc-stock-climbs-on-strong-q2-earnings-as-ceo-transition-looms/",
+      "source": "blockonomi.com",
+      "published": "2026-07-17T13:51:31+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "State Street (NYSE:STT) Receives Hold Rating from Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-receives-hold-rating-from-truist-financial-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T13:48:23+00:00",
+      "tickers": [
+        "C",
+        "TFC",
+        "STT"
+      ]
+    },
+    {
+      "title": "ManpowerGroup (NYSE:MAN) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/manpowergroup-nyseman-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T13:48:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Royal Bank Of Canada Forecasts Strong Price Appreciation for U.S. Bancorp (NYSE:USB) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/royal-bank-of-canada-forecasts-strong-price-appreciation-for-us-bancorp-nyseusb-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T13:48:21+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Given New $69.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-given-new-6900-price-target-at-truist-financial-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T13:48:21+00:00",
+      "tickers": [
+        "C",
+        "USB",
+        "TFC"
+      ]
+    },
+    {
+      "title": "This Bull Market Is Crushing History — Here’s Why Investors Shouldn’t Think It’s Over",
+      "url": "https://247wallst.com/investing/2026/07/17/this-bull-market-is-crushing-history-heres-why-investors-shouldnt-think-its-over/",
+      "source": "247wallst.com",
+      "published": "2026-07-17T13:43:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Is Capital One Financial Corp (COF) Positioned to Benefit from AI?",
+      "url": "https://www.insidermonkey.com/blog/is-capital-one-financial-corp-cof-positioned-to-benefit-from-ai-1802561/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-17T13:31:29+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "What’s behind Citi’s Sell call on Svenska Handelsbanken?",
-      "url": "https://www.investing.com/news/analyst-ratings/whats-behind-citis-sell-call-on-svenska-handelsbanken-4798381",
-      "source": "investing.com",
-      "published": "2026-07-17T12:23:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Intuitive Surgical (NASDAQ:ISRG) Price Target Cut to $500.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/intuitive-surgical-nasdaqisrg-price-target-cut-to-50000-by-analysts-at-citigroup-2026-07-17/",
+      "title": "Truist Financial Forecasts Strong Price Appreciation for American Electric Power (NASDAQ:AEP) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-american-electric-power-nasdaqaep-stock-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-17T12:18:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FY2027 EPS Estimate for Morgan Stanley Boosted by Analyst",
-      "url": "https://www.marketbeat.com/instant-alerts/fy2027-eps-estimate-for-morgan-stanley-boosted-by-analyst-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:12:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Truist Financial (NYSE:TFC) Releases Quarterly Earnings Results, Beats Estimates By $0.15 EPS",
-      "url": "https://www.tickerreport.com/banking-finance/13507020/truist-financial-nysetfc-releases-quarterly-earnings-results-beats-estimates-by-0-15-eps.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T12:11:27+00:00",
+      "published": "2026-07-17T13:24:26+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Global Assets Advisory LLC Buys 11,182 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13507014/global-assets-advisory-llc-buys-11182-shares-of-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T12:11:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Upgrades ERock (NYSE:EROC) to Buy",
-      "url": "https://www.tickerreport.com/banking-finance/13507009/bank-of-america-upgrades-erock-nyseeroc-to-buy.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T12:07:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "TPG RE Finance Trust (NYSE:TRTX) Given New $10.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13507011/tpg-re-finance-trust-nysetrtx-given-new-10-00-price-target-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T12:07:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AGNC Investment’s (AGNC) “Neutral” Rating Reaffirmed at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13507012/agnc-investments-agnc-neutral-rating-reaffirmed-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T12:07:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Reiterates \"Neutral\" Rating for AGNC Investment (NASDAQ:AGNC)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-reiterates-neutral-rating-for-agnc-investment-nasdaqagnc-2026-07-17/",
+      "title": "State Street (NYSE:STT) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-stock-price-expected-to-rise-royal-bank-of-canada-analyst-says-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:45+00:00",
+      "published": "2026-07-17T13:24:26+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "Arbor Realty Trust (NYSE:ABR) Upgraded by JPMorgan Chase & Co. to Neutral Rating",
-      "url": "https://www.marketbeat.com/instant-alerts/arbor-realty-trust-nyseabr-upgraded-by-jpmorgan-chase-co-to-neutral-rating-2026-07-17/",
+      "title": "Duke Energy (NYSE:DUK) Price Target Raised to $138.00 at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/duke-energy-nyseduk-price-target-raised-to-13800-at-truist-financial-2026-07-17/",
       "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Ares Commercial Real Estate (NYSE:ACRE) Price Target to $5.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-ares-commercial-real-estate-nyseacre-price-target-to-500-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Blackstone Mortgage Trust (NYSE:BXMT) Price Target to $19.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-blackstone-mortgage-trust-nysebxmt-price-target-to-1900-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Emerson Electric (NYSE:EMR) Raised to \"Overweight\" at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/emerson-electric-nyseemr-raised-to-overweight-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "3M (NYSE:MMM) Upgraded by JPMorgan Chase & Co. to \"Overweight\" Rating",
-      "url": "https://www.marketbeat.com/instant-alerts/3m-nysemmm-upgraded-by-jpmorgan-chase-co-to-overweight-rating-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PPG Industries (NYSE:PPG) Upgraded by Bank of America to \"Buy\" Rating",
-      "url": "https://www.marketbeat.com/instant-alerts/ppg-industries-nyseppg-upgraded-by-bank-of-america-to-buy-rating-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Annaly Capital Management (NYSE:NLY) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-annaly-capital-management-nysenly-stock-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts Redwood Trust (NYSE:RWT) Price Target to $6.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-redwood-trust-nyserwt-price-target-to-600-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Two Harbors Investments (NYSE:TWO) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-two-harbors-investments-nysetwo-stock-price-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Robert W. Baird Issues Positive Forecast for U.S. Bancorp (NYSE:USB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/robert-w-baird-issues-positive-forecast-for-us-bancorp-nyseusb-stock-price-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T12:06:27+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "PNC Financial: Likely Fairly Valued | $PNC",
-      "url": "https://seekingalpha.com/article/4922948-pnc-financial-likely-fairly-valued",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T12:03:08+00:00",
+      "published": "2026-07-17T13:24:24+00:00",
       "tickers": [
         "C",
-        "PNC"
+        "TFC"
       ]
     },
     {
-      "title": "Truist Financial (TFC) Reports Strong Q2 Earnings, Beats Expectations",
-      "url": "https://www.gurufocus.com/news/8964429/truist-financial-tfc-reports-strong-q2-earnings-beats-expectations",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T11:57:19+00:00",
+      "title": "Truist Financial Boosts Atmos Energy (NYSE:ATO) Price Target to $188.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-atmos-energy-nyseato-price-target-to-18800-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T13:24:22+00:00",
       "tickers": [
         "C",
         "TFC"
