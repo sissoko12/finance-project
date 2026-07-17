@@ -1,256 +1,171 @@
 {
-  "last_updated": "2026-07-17T17:20:15.871907+00:00",
+  "last_updated": "2026-07-17T18:36:18.854640+00:00",
   "headlines": [
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020395/0001918704-26-020395-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T16:24:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Watch Today - July 17th",
-      "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-to-watch-today-july-17th-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T16:03:25+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079020/0001213900-26-079020-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T15:54:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079018/0001213900-26-079018-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T15:51:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp Series A Preferred: A High-Quality Floating-Rate Security At A Discount To Par | $USB",
-      "url": "https://seekingalpha.com/article/4923041-us-bancorp-series-a-preferred-a-high-quality-floating-rate-security-at-a-discount-to-par",
+      "title": "State Street Q2: Macro Conditions Continue To Drive Healthy Operating Leverage | $STT",
+      "url": "https://seekingalpha.com/article/4923094-state-street-q2-macro-conditions-continue-to-drive-healthy-operating-leverage",
       "source": "seekingalpha.com",
-      "published": "2026-07-17T15:44:30+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Price Target Raised to $77.00 at Oppenheimer",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-price-target-raised-to-7700-at-oppenheimer-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:42:23+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Arbor upgraded, AGNC and KREF downgraded at J.P. Morgan ahead of Q2 earnings",
-      "url": "https://seekingalpha.com/news/4614979-arbor-upgraded-agnc-and-kref-downgraded-at-jp-morgan-ahead-of-q2-earnings",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T15:36:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One Just Upgraded Palo Alto Networks Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/3337938/capital-one-just-upgraded-palo-alto-networks-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-07-17T15:31:39+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America Says Alphabet’s Q2 Will Deliver. Here’s The Price Target",
-      "url": "https://247wallst.com/investing/2026/07/17/bank-of-america-says-alphabets-q2-will-deliver-heres-the-price-target/",
-      "source": "247wallst.com",
-      "published": "2026-07-17T15:30:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AST SpaceMobile Is Down 32% in a Month and SpaceX Is Down 34%. Are Space Stocks Doomed?",
-      "url": "https://247wallst.com/investing/2026/07/17/ast-spacemobile-is-down-32-in-a-month-and-spacex-is-down-34-are-space-stocks-doomed/",
-      "source": "247wallst.com",
-      "published": "2026-07-17T15:29:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035170/0001839882-26-035170-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T15:27:55+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Abbott Laboratories (NYSE:ABT) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-abbott-laboratories-nyseabt-stock-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Duolingo (NASDAQ:DUOL) Price Target Raised to $125.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/duolingo-nasdaqduol-price-target-raised-to-12500-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Ford Motor (NYSE:F) Price Target Raised to $16.00",
-      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-price-target-raised-to-1600-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for United Airlines (NASDAQ:UAL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-united-airlines-nasdaqual-stock-price-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts Alcoa (NYSE:AA) Price Target to $52.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-alcoa-nyseaa-price-target-to-5200-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Baidu (NASDAQ:BIDU) Price Target Cut to $205.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/baidu-nasdaqbidu-price-target-cut-to-20500-by-analysts-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Intuitive Surgical (NASDAQ:ISRG) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-intuitive-surgical-nasdaqisrg-stock-price-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "International Business Machines (NYSE:IBM) Price Target Lowered to $250.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/international-business-machines-nyseibm-price-target-lowered-to-25000-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:24:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307140/0001193125-26-307140-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T15:22:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Too Big to Succeed - What it takes to run JPMorgan, and to hand it over “You have ...",
-      "url": "https://www.netinterest.co/p/too-big-to-succeed",
-      "source": "netinterest.co",
-      "published": "2026-07-17T15:22:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks (NASDAQ:PANW) Reaches New 52-Week High on Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13507153/palo-alto-networks-nasdaqpanw-reaches-new-52-week-high-on-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T15:20:46+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley unlocks Bitcoin, Ethereum and Solana on E*TRADE",
-      "url": "https://crypto.news/morgan-stanley-unlocks-btc-eth-and-sol-on-etrade/",
-      "source": "crypto.news",
-      "published": "2026-07-17T15:16:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo rolls out AI Teammate for financial advisors managing $2.4 trillion in client assets",
-      "url": "https://cryptobriefing.com/wells-fargo-ai-teammate-financial-advisors/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-17T15:14:30+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Arcos Dorados (NYSE:ARCO) Upgraded at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/arcos-dorados-nysearco-upgraded-at-jpmorgan-chase-co-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:00:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Keefe, Bruyette & Woods Forecasts Strong Price Appreciation for State Street (NYSE:STT) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/keefe-bruyette-woods-forecasts-strong-price-appreciation-for-state-street-nysestt-stock-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:00:22+00:00",
+      "published": "2026-07-17T17:57:19+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "U.S. Bancorp (NYSE:USB) Stock Price Expected to Rise, Keefe, Bruyette & Woods Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-stock-price-expected-to-rise-keefe-bruyette-woods-analyst-says-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T15:00:21+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020440/0001918704-26-020440-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T17:39:52+00:00",
       "tickers": [
-        "USB"
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Corporation (TFC) Q2 2026 Earnings Call Transcript | $TFC",
+      "url": "https://seekingalpha.com/article/4923017-truist-financial-corporation-tfc-q2-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T17:26:19+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Fervo Energy upgraded to Buy at BofA on attractive valuation",
+      "url": "https://seekingalpha.com/news/4615000-fervo-energy-upgraded-to-buy-at-bofa-on-attractive-valuation",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T17:24:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307392/0001193125-26-307392-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T17:21:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "AGCO (NYSE:AGCO) Price Target Raised to $110.00 at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/agco-nyseagco-price-target-raised-to-11000-at-morgan-stanley-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Allison Transmission (NYSE:ALSN) Given New $130.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/allison-transmission-nysealsn-given-new-13000-price-target-at-morgan-stanley-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Cummins (NYSE:CMI) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-cummins-nysecmi-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DiamondRock Hospitality (NYSE:DRH) Given New $10.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/diamondrock-hospitality-nysedrh-given-new-1000-price-target-at-morgan-stanley-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Hilton Grand Vacations (NYSE:HGV) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-hilton-grand-vacations-nysehgv-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:23+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Cloudflare (NYSE:NET) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/cloudflare-nysenet-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Hilton Worldwide (NYSE:HLT) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-hilton-worldwide-nysehlt-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T17:18:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MMM Upgraded by JP Morgan -- Price Target Raised to $180",
+      "url": "https://www.gurufocus.com/news/8964900/mmm-upgraded-by-jp-morgan-price-target-raised-to-180",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T17:09:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Did Truist Financial Corp (TFC) Exceed Expectations with Q2 Earnings? EPS at $1. ...",
+      "url": "https://www.gurufocus.com/news/8964878/did-truist-financial-corp-tfc-exceed-expectations-with-q2-earnings-eps-at-123-and-revenue-at-527b-gf-score-60100",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T17:01:01+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035230/0001839882-26-035230-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T16:58:44+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Adjusts Ratings for Arbor Realty Trust (ABR) and AGNC Investment (AGNC)",
+      "url": "https://www.gurufocus.com/news/8964851/jp-morgan-adjusts-ratings-for-arbor-realty-trust-abr-and-agnc-investment-agnc",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T16:56:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020425/0001918704-26-020425-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T16:54:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020421/0001918704-26-020421-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T16:53:02+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
