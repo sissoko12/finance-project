@@ -1,13 +1,228 @@
 {
-  "last_updated": "2026-07-17T15:58:47.764956+00:00",
+  "last_updated": "2026-07-17T17:20:15.871907+00:00",
   "headlines": [
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020386/0001918704-26-020386-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020395/0001918704-26-020395-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-17T15:06:43+00:00",
+      "published": "2026-07-17T16:24:43+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Top Financial Stocks To Watch Today - July 17th",
+      "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-to-watch-today-july-17th-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T16:03:25+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079020/0001213900-26-079020-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T15:54:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079018/0001213900-26-079018-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T15:51:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp Series A Preferred: A High-Quality Floating-Rate Security At A Discount To Par | $USB",
+      "url": "https://seekingalpha.com/article/4923041-us-bancorp-series-a-preferred-a-high-quality-floating-rate-security-at-a-discount-to-par",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T15:44:30+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Price Target Raised to $77.00 at Oppenheimer",
+      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-price-target-raised-to-7700-at-oppenheimer-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:42:23+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Arbor upgraded, AGNC and KREF downgraded at J.P. Morgan ahead of Q2 earnings",
+      "url": "https://seekingalpha.com/news/4614979-arbor-upgraded-agnc-and-kref-downgraded-at-jp-morgan-ahead-of-q2-earnings",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T15:36:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One Just Upgraded Palo Alto Networks Stock. Here's Why.",
+      "url": "https://www.barchart.com/story/news/3337938/capital-one-just-upgraded-palo-alto-networks-stock-here-s-why",
+      "source": "barchart.com",
+      "published": "2026-07-17T15:31:39+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank of America Says Alphabet’s Q2 Will Deliver. Here’s The Price Target",
+      "url": "https://247wallst.com/investing/2026/07/17/bank-of-america-says-alphabets-q2-will-deliver-heres-the-price-target/",
+      "source": "247wallst.com",
+      "published": "2026-07-17T15:30:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Is Down 32% in a Month and SpaceX Is Down 34%. Are Space Stocks Doomed?",
+      "url": "https://247wallst.com/investing/2026/07/17/ast-spacemobile-is-down-32-in-a-month-and-spacex-is-down-34-are-space-stocks-doomed/",
+      "source": "247wallst.com",
+      "published": "2026-07-17T15:29:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035170/0001839882-26-035170-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T15:27:55+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Abbott Laboratories (NYSE:ABT) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-abbott-laboratories-nyseabt-stock-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Duolingo (NASDAQ:DUOL) Price Target Raised to $125.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/duolingo-nasdaqduol-price-target-raised-to-12500-at-jpmorgan-chase-co-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Ford Motor (NYSE:F) Price Target Raised to $16.00",
+      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-price-target-raised-to-1600-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for United Airlines (NASDAQ:UAL) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-united-airlines-nasdaqual-stock-price-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Alcoa (NYSE:AA) Price Target to $52.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-alcoa-nyseaa-price-target-to-5200-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Baidu (NASDAQ:BIDU) Price Target Cut to $205.00 by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/baidu-nasdaqbidu-price-target-cut-to-20500-by-analysts-at-jpmorgan-chase-co-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Intuitive Surgical (NASDAQ:ISRG) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-intuitive-surgical-nasdaqisrg-stock-price-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Price Target Lowered to $250.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/international-business-machines-nyseibm-price-target-lowered-to-25000-at-jpmorgan-chase-co-2026-07-17/",
+      "source": "marketbeat.com",
+      "published": "2026-07-17T15:24:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307140/0001193125-26-307140-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T15:22:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Too Big to Succeed - What it takes to run JPMorgan, and to hand it over “You have ...",
+      "url": "https://www.netinterest.co/p/too-big-to-succeed",
+      "source": "netinterest.co",
+      "published": "2026-07-17T15:22:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks (NASDAQ:PANW) Reaches New 52-Week High on Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13507153/palo-alto-networks-nasdaqpanw-reaches-new-52-week-high-on-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T15:20:46+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Morgan Stanley unlocks Bitcoin, Ethereum and Solana on E*TRADE",
+      "url": "https://crypto.news/morgan-stanley-unlocks-btc-eth-and-sol-on-etrade/",
+      "source": "crypto.news",
+      "published": "2026-07-17T15:16:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo rolls out AI Teammate for financial advisors managing $2.4 trillion in client assets",
+      "url": "https://cryptobriefing.com/wells-fargo-ai-teammate-financial-advisors/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-17T15:14:30+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -36,191 +251,6 @@
       "published": "2026-07-17T15:00:21+00:00",
       "tickers": [
         "USB"
-      ]
-    },
-    {
-      "title": "JPMorgan (JPM) and Wells Fargo (WFC) Announce Dividend Increases",
-      "url": "https://www.gurufocus.com/news/8964709/jpmorgan-jpm-and-wells-fargo-wfc-announce-dividend-increases",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T15:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-stock-price-expected-to-rise-wells-fargo-company-analyst-says-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T14:36:29+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Wells Fargo & Company Increases State Street (NYSE:STT) Price Target to $215.00",
-      "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-increases-state-street-nysestt-price-target-to-21500-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T14:36:28+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "First Citizens BancShares (FCNCA) – Analysts’ Recent Ratings Changes",
-      "url": "https://www.tickerreport.com/banking-finance/13507120/first-citizens-bancshares-fcnca-analysts-recent-ratings-changes.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T14:26:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020370/0001918704-26-020370-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T14:22:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Truist Financial Reports Strong Q2 Earnings with $1.23 EPS",
-      "url": "https://www.gurufocus.com/news/8964667/truist-financial-reports-strong-q2-earnings-with-123-eps",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T14:11:25+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial posted an earnings beat as profit surged from a year ago",
-      "url": "https://qz.com/truist-financial-earnings-beat-second-quarter-2026-071726",
-      "source": "qz.com",
-      "published": "2026-07-17T14:10:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Q2 Earnings Call Highlights",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-q2-earnings-call-highlights-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T14:05:16+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial (TFC) Stock Climbs on Strong Q2 Earnings as CEO Transition Looms",
-      "url": "https://blockonomi.com/truist-financial-tfc-stock-climbs-on-strong-q2-earnings-as-ceo-transition-looms/",
-      "source": "blockonomi.com",
-      "published": "2026-07-17T13:51:31+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Receives Hold Rating from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-receives-hold-rating-from-truist-financial-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:48:23+00:00",
-      "tickers": [
-        "C",
-        "TFC",
-        "STT"
-      ]
-    },
-    {
-      "title": "ManpowerGroup (NYSE:MAN) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/manpowergroup-nyseman-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:48:23+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Royal Bank Of Canada Forecasts Strong Price Appreciation for U.S. Bancorp (NYSE:USB) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/royal-bank-of-canada-forecasts-strong-price-appreciation-for-us-bancorp-nyseusb-stock-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:48:21+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Given New $69.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-given-new-6900-price-target-at-truist-financial-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:48:21+00:00",
-      "tickers": [
-        "C",
-        "USB",
-        "TFC"
-      ]
-    },
-    {
-      "title": "This Bull Market Is Crushing History — Here’s Why Investors Shouldn’t Think It’s Over",
-      "url": "https://247wallst.com/investing/2026/07/17/this-bull-market-is-crushing-history-heres-why-investors-shouldnt-think-its-over/",
-      "source": "247wallst.com",
-      "published": "2026-07-17T13:43:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Is Capital One Financial Corp (COF) Positioned to Benefit from AI?",
-      "url": "https://www.insidermonkey.com/blog/is-capital-one-financial-corp-cof-positioned-to-benefit-from-ai-1802561/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-17T13:31:29+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for American Electric Power (NASDAQ:AEP) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-american-electric-power-nasdaqaep-stock-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:24:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-stock-price-expected-to-rise-royal-bank-of-canada-analyst-says-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:24:26+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Duke Energy (NYSE:DUK) Price Target Raised to $138.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/duke-energy-nyseduk-price-target-raised-to-13800-at-truist-financial-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:24:24+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Boosts Atmos Energy (NYSE:ATO) Price Target to $188.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-atmos-energy-nyseato-price-target-to-18800-2026-07-17/",
-      "source": "marketbeat.com",
-      "published": "2026-07-17T13:24:22+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
