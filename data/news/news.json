@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-07-17T22:24:55.516812+00:00",
+  "last_updated": "2026-07-17T23:27:26.615398+00:00",
   "headlines": [
+    {
+      "title": "US Treasury Money Market option available through Citibank PWM?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uze5f8/us_treasury_money_market_option_available_through/",
+      "source": "reddit.com",
+      "published": "2026-07-17T22:24:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Why Kennametal (KMT) Stock Is Trading Lower Today",
+      "url": "https://stockstory.org/us/stocks/nyse/kmt/news/why-up-down/why-kennametal-kmt-stock-is-trading-lower-today-2",
+      "source": "stockstory.org",
+      "published": "2026-07-17T21:30:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035319/0001839882-26-035319-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:30:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035318/0001839882-26-035318-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:26:58+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley Direct Lending: The Good And The Bad (Rating Downgrade) | $MSDL",
       "url": "https://seekingalpha.com/article/4923143-morgan-stanley-direct-lending-good-and-bad-rating-downgrade",
@@ -17,6 +54,15 @@
       "published": "2026-07-17T21:22:29+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526308009/0001193125-26-308009-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:21:34+00:00",
+      "tickers": [
+        "BK"
       ]
     },
     {
@@ -98,21 +144,21 @@
       ]
     },
     {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035314/0001839882-26-035314-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:10:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "'You're giving ballistic ⁠missiles to individuals with Mythos': JPMorgan CEO Jamie Dimon says Anthropic's AI model poses some serious risks",
       "url": "https://www.techradar.com/pro/youre-giving-ballistic-missiles-to-individuals-with-mythos-jpmorgan-ceo-jamie-dimon-says-anthropics-ai-model-poses-some-serious-risks",
       "source": "techradar.com",
       "published": "2026-07-17T21:05:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010804/0000950103-26-010804-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:04:58+00:00",
-      "tickers": [
-        "C"
       ]
     },
     {
@@ -140,37 +186,6 @@
       "published": "2026-07-17T20:56:48+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035308/0001839882-26-035308-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:54:09+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
-      "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
-      "source": "venturebeat.com",
-      "published": "2026-07-17T20:51:30+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Watch Our Earnings Recap: Top Insights from JPMorgan Chase, Bank of America, Taiwan Semiconductor, Netflix, and More",
-      "url": "https://www.newconstructs.com/watch-our-earnings-recap-top-insights-from-jpmorgan-chase-bank-of-america-taiwan-semiconductor-netflix-and-more/",
-      "source": "newconstructs.com",
-      "published": "2026-07-17T20:49:51+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
       ]
     }
   ]
