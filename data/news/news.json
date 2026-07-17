@@ -1,103 +1,174 @@
 {
-  "last_updated": "2026-07-17T21:23:16.551279+00:00",
+  "last_updated": "2026-07-17T22:24:55.516812+00:00",
   "headlines": [
     {
-      "title": "Canadian wildfires and air advisories will dampen park attendance — Citi Research",
-      "url": "https://seekingalpha.com/news/4615043-canadian-wildfires-and-air-advisories-will-dampen-park-attendance-citi-research",
+      "title": "Morgan Stanley Direct Lending: The Good And The Bad (Rating Downgrade) | $MSDL",
+      "url": "https://seekingalpha.com/article/4923143-morgan-stanley-direct-lending-good-and-bad-rating-downgrade",
       "source": "seekingalpha.com",
-      "published": "2026-07-17T20:35:57+00:00",
+      "published": "2026-07-17T21:24:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010809/0000950103-26-010809-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:22:29+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035292/0001839882-26-035292-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:32:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307871/0001193125-26-307871-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:23:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000195004726007182/0001950047-26-007182-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:17:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Declares Preferred Stock Dividends Payable in August and September 2026",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-august-and-september-2026-302828793.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-17T20:15:00+00:00",
+      "title": "Bank of America Corporation 4.250% DP PFD QQ declares $0.2656 dividend",
+      "url": "https://seekingalpha.com/news/4615086-bank-of-america-corporation-4_250-percent-dp-pfd-qq-declares-0_2656-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T21:16:39+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010796/0000950103-26-010796-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307999/0001193125-26-307999-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-17T20:14:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000162828026048656/0001628280-26-048656-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:07:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079170/0001213900-26-079170-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:05:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000152070026000007/0001520700-26-000007-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:04:34+00:00",
+      "published": "2026-07-17T21:16:31+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079157/0001213900-26-079157-index.htm",
+      "title": "Bank of America Corporation 5% NCUM PFD LL declares $0.3125 dividend",
+      "url": "https://seekingalpha.com/news/4615085-bank-of-america-corporation-5-percent-ncum-pfd-ll-declares-0_3125-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T21:16:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation 5.375 DEP PFD KK declares $0.3359 dividend",
+      "url": "https://seekingalpha.com/news/4615084-bank-of-america-corporation-5_375-dep-pfd-kk-declares-0_3359-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T21:15:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Strengthens AI Focus with Key Appointments",
+      "url": "https://www.gurufocus.com/news/8965348/bank-of-america-bac-strengthens-ai-focus-with-key-appointments",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T21:15:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation 6 NCUM PFD SR GG declares $0.375 dividend",
+      "url": "https://seekingalpha.com/news/4615083-bank-of-america-corporation-6-ncum-pfd-sr-gg-declares-0_375-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-17T21:15:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley - Form 144 - Last reply by markado on Fri, 17 Jul 2026 21:15:01 +0000",
+      "url": "http://mnkd.proboards.com/thread/14646/morgan-stanley-form-144",
+      "source": "proboards.com",
+      "published": "2026-07-17T21:15:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020485/0001918704-26-020485-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-17T20:03:02+00:00",
+      "published": "2026-07-17T21:14:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "'You're giving ballistic ⁠missiles to individuals with Mythos': JPMorgan CEO Jamie Dimon says Anthropic's AI model poses some serious risks",
+      "url": "https://www.techradar.com/pro/youre-giving-ballistic-missiles-to-individuals-with-mythos-jpmorgan-ceo-jamie-dimon-says-anthropics-ai-model-poses-some-serious-risks",
+      "source": "techradar.com",
+      "published": "2026-07-17T21:05:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Chip stocks enter bear-market territory. A BofA analyst says not to panic.",
-      "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-17T20:01:00+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010804/0000950103-26-010804-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:04:58+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Trading Down 3% After Analyst Downgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13507344/international-business-machines-nyseibm-trading-down-3-after-analyst-downgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-17T21:00:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan slashes Coinbase price target",
+      "url": "https://www.thestreet.com/crypto/markets/jpmorgan-slashes-coinbase-price-target?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-17T21:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079226/0001213900-26-079226-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:56:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035308/0001839882-26-035308-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T20:54:09+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+      "source": "venturebeat.com",
+      "published": "2026-07-17T20:51:30+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Watch Our Earnings Recap: Top Insights from JPMorgan Chase, Bank of America, Taiwan Semiconductor, Netflix, and More",
+      "url": "https://www.newconstructs.com/watch-our-earnings-recap-top-insights-from-jpmorgan-chase-bank-of-america-taiwan-semiconductor-netflix-and-more/",
+      "source": "newconstructs.com",
+      "published": "2026-07-17T20:49:51+00:00",
+      "tickers": [
+        "JPM",
         "BAC",
         "C"
       ]
