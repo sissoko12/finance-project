@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-17T03:48:29.108441+00:00",
+  "last_updated": "2026-07-17T06:23:19.476215+00:00",
   "headlines": [
+    {
+      "title": "2026-07-17 Daily Journal 60161773",
+      "url": "https://dailyjournal.net/2026/07/17/2026-07-17-daily-journal-60161773/",
+      "source": "dailyjournal.net",
+      "published": "2026-07-17T05:00:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Citi Hosts AI Day for Secondary School Students in Hong Kong",
+      "url": "https://www.newspressnow.com/news/national_news/business/citi-hosts-ai-day-for-secondary-school-students-in-hong-kong/article_12dee435-86fd-51ec-aa07-65562bd2ce80.html",
+      "source": "newspressnow.com",
+      "published": "2026-07-17T04:05:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Stocks to Buy: Morgan Stanley Picks 3 PSU Oil Stocks with Up to 52% Upside Potential",
       "url": "https://tradebrains.in/stocks-to-buy-morgan-stanley-picks-3-psu-oil-stocks-with-up-to-52-upside-potential/",
@@ -17,6 +35,17 @@
       "published": "2026-07-17T02:10:41+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "HYSA Account Recommendation - What is a good HYSA? I have been looking at different options ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uylz6a/hysa_account_recommendation/",
+      "source": "reddit.com",
+      "published": "2026-07-17T01:42:18+00:00",
+      "tickers": [
+        "C",
+        "GS",
+        "COF"
       ]
     },
     {
@@ -251,25 +280,6 @@
       "tickers": [
         "GS",
         "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020338/0001918704-26-020338-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T21:13:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020337/0001918704-26-020337-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-16T21:12:00+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
