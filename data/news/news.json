@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-07-18T01:00:47.582701+00:00",
+  "last_updated": "2026-07-18T04:28:35.265804+00:00",
   "headlines": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of July 19 | $BNY $CMI $CNP $DUK $GS",
+      "url": "https://seekingalpha.com/article/4923174-dividend-champion-contender-and-challenger-highlights-week-of-july-19",
+      "source": "seekingalpha.com",
+      "published": "2026-07-18T03:12:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Launches AI Teammate Across $2.4 Trillion Wealth Management Business",
+      "url": "https://pulse2.com/wells-fargo-launches-ai-teammate/",
+      "source": "pulse2.com",
+      "published": "2026-07-18T02:01:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Emerson Electric (EMR) Upgraded to Overweight by J.P. Morgan with $157 Target",
+      "url": "https://www.gurufocus.com/news/8965691/emerson-electric-emr-upgraded-to-overweight-by-jp-morgan-with-157-target",
+      "source": "gurufocus.com",
+      "published": "2026-07-18T01:55:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Am I able to close my debit account now that I'm 18? (BofA)",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzi6hb/am_i_able_to_close_my_debit_account_now_that_im/",
+      "source": "reddit.com",
+      "published": "2026-07-18T01:22:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Declares Quarterly Dividend of $0.2968",
+      "url": "https://www.gurufocus.com/news/8965561/bank-of-america-bac-declares-quarterly-dividend-of-02968",
+      "source": "gurufocus.com",
+      "published": "2026-07-17T23:55:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SPY’s 0.0945% Fee Could Cost You Thousands Over Two Decades Against Its Own Sister Fund",
+      "url": "https://247wallst.com/investing/etf/2026/07/17/spys-0-0945-fee-could-cost-you-thousands-over-two-decades-against-its-own-sister-fund/",
+      "source": "247wallst.com",
+      "published": "2026-07-17T23:30:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Bank of America names senior executives to drive AI adoption in global markets",
       "url": "https://cryptobriefing.com/bofa-ai-executives-global-markets/",
@@ -36,6 +93,15 @@
       "published": "2026-07-17T21:30:41+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079280/0001213900-26-079280-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:28:43+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -154,48 +220,21 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079251/0001213900-26-079251-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-17T21:10:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035314/0001839882-26-035314-index.htm",
       "source": "sec.gov",
       "published": "2026-07-17T21:10:29+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "'You're giving ballistic ⁠missiles to individuals with Mythos': JPMorgan CEO Jamie Dimon says Anthropic's AI model poses some serious risks",
-      "url": "https://www.techradar.com/pro/youre-giving-ballistic-missiles-to-individuals-with-mythos-jpmorgan-ceo-jamie-dimon-says-anthropics-ai-model-poses-some-serious-risks",
-      "source": "techradar.com",
-      "published": "2026-07-17T21:05:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "International Business Machines (NYSE:IBM) Trading Down 3% After Analyst Downgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13507344/international-business-machines-nyseibm-trading-down-3-after-analyst-downgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-17T21:00:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan slashes Coinbase price target",
-      "url": "https://www.thestreet.com/crypto/markets/jpmorgan-slashes-coinbase-price-target?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-17T21:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079226/0001213900-26-079226-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T20:56:48+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
