@@ -1,11 +1,20 @@
 {
-  "last_updated": "2026-07-18T19:14:10.379573+00:00",
+  "last_updated": "2026-07-18T20:22:26.613403+00:00",
   "headlines": [
     {
+      "title": "Jamie Dimon predicts AI spending will hit $1 trillion next year",
+      "url": "https://cryptobriefing.com/dimon-ai-spending-trillion-crypto-impact/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-18T19:08:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Which Energy ETF Is the Better Buy: State Street's XLE or First Trust's EMLP?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/18/which-energy-etf-is-the-better-buy-state-street-s-xle-or-first-trust-s-emlp/",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/18/which-energy-etf-is-the-better-buy-state-street-s-xle-or-first-trust-s-emlp/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-07-18T17:39:27+00:00",
+      "published": "2026-07-18T17:19:27+00:00",
       "tickers": [
         "STT"
       ]
@@ -271,15 +280,6 @@
       "published": "2026-07-18T10:36:37+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup (NYSE:C) Upgraded by Zacks Research to \"Strong-Buy\" Rating",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-nysec-upgraded-by-zacks-research-to-strong-buy-rating-2026-07-18/",
-      "source": "marketbeat.com",
-      "published": "2026-07-18T10:36:30+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
