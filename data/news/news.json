@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-07-18T20:22:26.613403+00:00",
+  "last_updated": "2026-07-18T21:26:38.119546+00:00",
   "headlines": [
+    {
+      "title": "MLB Pittsburgh Pirates Vs New York Mets",
+      "url": "https://tulsaworld.com/image_d5300835-f3b6-53b9-a325-3fc64c8ebadc.html",
+      "source": "tulsaworld.com",
+      "published": "2026-07-18T19:57:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "My HYSA was transferred to another institution.",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v04uxv/my_hysa_was_transferred_to_another_institution/",
+      "source": "reddit.com",
+      "published": "2026-07-18T19:23:33+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-ceo-jamie-dimon-192300766.html",
+      "source": "yahoo.com",
+      "published": "2026-07-18T19:23:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America sends strong verdict on Microsoft stock",
+      "url": "https://www.thestreet.com/investing/stocks/msft-microsoft-stock-bank-of-america-earnings-forecast?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-18T19:13:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Jamie Dimon predicts AI spending will hit $1 trillion next year",
       "url": "https://cryptobriefing.com/dimon-ai-spending-trillion-crypto-impact/",
@@ -244,42 +282,6 @@
       "published": "2026-07-18T11:10:25+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "China's Large OTC Buying Scoops 48 Tonnes in May",
-      "url": "https://vblgoldfix.substack.com/p/goldman-says-remain-calm",
-      "source": "substack.com",
-      "published": "2026-07-18T11:09:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Founders Special: Commentary on the Goldman Note",
-      "url": "https://vblgoldfix.substack.com/p/founders-special-commentary-on-the",
-      "source": "substack.com",
-      "published": "2026-07-18T11:07:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Freedom Capital Upgrades Morgan Stanley (NYSE:MS) to \"Strong-Buy\"",
-      "url": "https://www.marketbeat.com/instant-alerts/freedom-capital-upgrades-morgan-stanley-nysems-to-strong-buy-2026-07-18/",
-      "source": "marketbeat.com",
-      "published": "2026-07-18T10:42:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Upgraded by Zacks Research to Strong-Buy Rating",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-upgraded-by-zacks-research-to-strong-buy-rating-2026-07-18/",
-      "source": "marketbeat.com",
-      "published": "2026-07-18T10:36:37+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
