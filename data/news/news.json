@@ -1,6 +1,143 @@
 {
-  "last_updated": "2026-07-18T06:30:33.728844+00:00",
+  "last_updated": "2026-07-18T08:53:18.766863+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley $MS Shares Sold by Copeland Capital Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-copeland-capital-management-llc-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T08:08:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Catalyst Capital Advisors LLC Acquires New Shares in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-catalyst-capital-advisors-llc-acquires-new-shares-in-state-street-corporation-stt-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T08:01:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Buys 5,815,189 Shares of Healthpeak Properties, Inc. $DOC",
+      "url": "https://www.tickerreport.com/banking-finance/13507516/bank-of-new-york-mellon-corp-buys-5815189-shares-of-healthpeak-properties-inc-doc.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T07:57:19+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Lowers Stock Holdings in Yum! Brands, Inc. $YUM",
+      "url": "https://www.tickerreport.com/banking-finance/13507513/bank-of-new-york-mellon-corp-lowers-stock-holdings-in-yum-brands-inc-yum.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T07:55:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 9,493 Shares of Comfort Systems USA, Inc. $FIX",
+      "url": "https://www.tickerreport.com/banking-finance/13507510/bank-of-new-york-mellon-corp-sells-9493-shares-of-comfort-systems-usa-inc-fix.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T07:55:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Acquires 1,156,078 Shares of PPG Industries, Inc. $PPG",
+      "url": "https://www.tickerreport.com/banking-finance/13507509/bank-of-new-york-mellon-corp-acquires-1156078-shares-of-ppg-industries-inc-ppg.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T07:55:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Audent Global Asset Management LLC Cuts Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-audent-global-asset-management-llc-cuts-position-in-the-goldman-sachs-group-inc-gs-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:22:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Assetmark Inc. Has $35.98 Million Stock Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-assetmark-inc-has-3598-million-stock-holdings-in-bank-of-america-corporation-bac-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:14:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Assetmark Inc. Purchases 12,439 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-assetmark-inc-purchases-12439-shares-of-citigroup-inc-c-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:14:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Cut by Applied Finance Capital Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-cut-by-applied-finance-capital-management-llc-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:13:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Arbejdsmarkedets Tillaegspension Increases Stock Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-arbejdsmarkedets-tillaegspension-increases-stock-position-in-jpmorgan-chase-co-jpm-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:13:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AMF Tjanstepension AB Acquires 12,219 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amf-tjanstepension-ab-acquires-12219-shares-of-jpmorgan-chase-co-jpm-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:08:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Allspring Global Investments Holdings LLC Acquires 33,619 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-acquires-33619-shares-of-the-goldman-sachs-group-inc-gs-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T07:08:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Atlanta Braves (NASDAQ:BATRK) Cut to “Equal Weight” at Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13507452/atlanta-braves-nasdaqbatrk-cut-to-equal-weight-at-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T06:30:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Truist Financial Cuts Sonoco Products (NYSE:SON) Price Target to $64.00",
+      "url": "https://www.tickerreport.com/banking-finance/13507451/truist-financial-cuts-sonoco-products-nyseson-price-target-to-64-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T06:24:45+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "CAE (TSE:CAE) Cut to Underweight at Morgan Stanley",
       "url": "https://www.tickerreport.com/banking-finance/13507446/cae-tsecae-cut-to-underweight-at-morgan-stanley.html",
@@ -139,129 +276,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Direct Lending: The Good And The Bad (Rating Downgrade) | $MSDL",
-      "url": "https://seekingalpha.com/article/4923143-morgan-stanley-direct-lending-good-and-bad-rating-downgrade",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T21:24:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010809/0000950103-26-010809-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:22:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526308009/0001193125-26-308009-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:21:34+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation 4.250% DP PFD QQ declares $0.2656 dividend",
-      "url": "https://seekingalpha.com/news/4615086-bank-of-america-corporation-4_250-percent-dp-pfd-qq-declares-0_2656-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T21:16:39+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526307999/0001193125-26-307999-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:16:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation 5% NCUM PFD LL declares $0.3125 dividend",
-      "url": "https://seekingalpha.com/news/4615085-bank-of-america-corporation-5-percent-ncum-pfd-ll-declares-0_3125-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T21:16:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation 5.375 DEP PFD KK declares $0.3359 dividend",
-      "url": "https://seekingalpha.com/news/4615084-bank-of-america-corporation-5_375-dep-pfd-kk-declares-0_3359-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T21:15:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (BAC) Strengthens AI Focus with Key Appointments",
-      "url": "https://www.gurufocus.com/news/8965348/bank-of-america-bac-strengthens-ai-focus-with-key-appointments",
-      "source": "gurufocus.com",
-      "published": "2026-07-17T21:15:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation 6 NCUM PFD SR GG declares $0.375 dividend",
-      "url": "https://seekingalpha.com/news/4615083-bank-of-america-corporation-6-ncum-pfd-sr-gg-declares-0_375-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-17T21:15:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley - Form 144 - Last reply by markado on Fri, 17 Jul 2026 21:15:01 +0000",
-      "url": "http://mnkd.proboards.com/thread/14646/morgan-stanley-form-144",
-      "source": "proboards.com",
-      "published": "2026-07-17T21:15:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020485/0001918704-26-020485-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:14:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079251/0001213900-26-079251-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:10:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035314/0001839882-26-035314-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:10:29+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
