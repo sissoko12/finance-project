@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-07-18T08:53:18.766863+00:00",
+  "last_updated": "2026-07-18T10:24:02.136092+00:00",
   "headlines": [
+    {
+      "title": "Independent Financial Group LLC Acquires New Stake in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-independent-financial-group-llc-acquires-new-stake-in-bank-of-america-corporation-bac-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T09:20:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Independent Financial Group LLC Purchases Shares of 4,161 The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-independent-financial-group-llc-purchases-shares-of-4161-the-goldman-sachs-group-inc-gs-2026-07-18/",
+      "source": "marketbeat.com",
+      "published": "2026-07-18T09:20:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Whale's Insight: Bitcoin's CPI Rally Is Fake, Built On Borrowed Money | $PYPL $STRIP $CRCL $JPM $COIN",
+      "url": "https://seekingalpha.com/article/4923209-bitcoin-cpi-rally-fake-built-on-borrowed-money",
+      "source": "seekingalpha.com",
+      "published": "2026-07-18T09:10:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase: In Hyper-CapEx Supercycle | $JPM",
+      "url": "https://seekingalpha.com/article/4923200-jpmorgan-chase-in-hyper-capex-supercycle",
+      "source": "seekingalpha.com",
+      "published": "2026-07-18T08:37:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Morgan Stanley $MS Shares Sold by Copeland Capital Management LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-copeland-capital-management-llc-2026-07-18/",
@@ -17,6 +54,15 @@
       "published": "2026-07-18T08:01:28+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Decreases Holdings in iShares S&P 500 Value ETF $IVE",
+      "url": "https://www.tickerreport.com/banking-finance/13507524/bank-of-new-york-mellon-corp-decreases-holdings-in-ishares-sp-500-value-etf-ive.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T08:01:19+00:00",
+      "tickers": [
+        "BK"
       ]
     },
     {
@@ -229,52 +275,6 @@
       "published": "2026-07-17T23:14:27+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "US Treasury Money Market option available through Citibank PWM?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uze5f8/us_treasury_money_market_option_available_through/",
-      "source": "reddit.com",
-      "published": "2026-07-17T22:24:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Why Kennametal (KMT) Stock Is Trading Lower Today",
-      "url": "https://stockstory.org/us/stocks/nyse/kmt/news/why-up-down/why-kennametal-kmt-stock-is-trading-lower-today-2",
-      "source": "stockstory.org",
-      "published": "2026-07-17T21:30:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035319/0001839882-26-035319-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:30:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079280/0001213900-26-079280-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:28:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035318/0001839882-26-035318-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-17T21:26:58+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
