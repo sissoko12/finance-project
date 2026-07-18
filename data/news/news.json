@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-07-18T15:01:58.182135+00:00",
+  "last_updated": "2026-07-18T16:28:28.815224+00:00",
   "headlines": [
+    {
+      "title": "Insider trades: Morgan Stanley, Goldman Sachs, Broadcom among notable names",
+      "url": "https://seekingalpha.com/news/4615064-insider-trades-morgan-stanley-goldman-sachs-broadcom-among-notable-names",
+      "source": "seekingalpha.com",
+      "published": "2026-07-18T15:03:10+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "State Street's XLF or ProShares' UYG: Which Financial ETF Is Right for Long-Term Investors?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/18/state-street-s-xlf-or-proshares-uyg-which-financial-etf-is-right-for-long-term-investors/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-18T14:36:44+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "New York Business Owner Accused of Executing $1,000,000 Bank Fraud Scheme Impacting Bank of America and Other Financial Institutions",
+      "url": "https://dailyhodl.com/2026/07/18/new-york-business-owner-accused-of-executing-1000000-bank-fraud-scheme-impacting-bank-of-america-and-other-financial-institutions",
+      "source": "dailyhodl.com",
+      "published": "2026-07-18T14:30:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State Street Blackstone High Income ETF (BATS:HYBL) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13508162/state-street-blackstone-high-income-etf-batshybl-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-18T14:20:45+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "BNY Mellon Global Infrastructure Income ETF (BATS:BKGI) Short Interest Up 88.1% in June",
       "url": "https://www.tickerreport.com/banking-finance/13508152/bny-mellon-global-infrastructure-income-etf-batsbkgi-short-interest-up-88-1-in-june.html",
@@ -241,44 +279,6 @@
       "published": "2026-07-18T10:00:39+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Shares Sold by Simon Quick Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-sold-by-simon-quick-advisors-llc-2026-07-18/",
-      "source": "marketbeat.com",
-      "published": "2026-07-18T10:00:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "World Cup helped drive strongest consumer spending growth in four years during June, Bank of America says",
-      "url": "https://www.foxbusiness.com/economy/world-cup-helped-drive-strongest-consumer-spending-growth-four-years-during-june-bank-america-says",
-      "source": "foxbusiness.com",
-      "published": "2026-07-18T10:00:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Best CD rates today, Saturday, July 18, 2026: Best account provides 4.10% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-18-2026-best-account-provides-410-apy-100000054.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-18T10:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SK Wealth Management LLC Increases Stock Position in State Street SPDR Portfolio S&P 500 ETF $SPYM",
-      "url": "https://www.tickerreport.com/banking-finance/13507839/sk-wealth-management-llc-increases-stock-position-in-state-street-spdr-portfolio-sp-500-etf-spym.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-18T09:45:37+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
