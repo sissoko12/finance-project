@@ -1,11 +1,21 @@
 {
-  "last_updated": "2026-07-18T22:26:36.229111+00:00",
+  "last_updated": "2026-07-18T23:31:33.962736+00:00",
   "headlines": [
     {
       "title": "Opening a 2nd Bank Account: Bank of America or American Express",
       "url": "https://www.reddit.com/r/personalfinance/comments/1v08h7a/opening_a_2nd_bank_account_bank_of_america_or/",
       "source": "reddit.com",
       "published": "2026-07-18T21:52:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America revamps Tesla forecast before earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
+      "source": "yahoo.com",
+      "published": "2026-07-18T21:06:00+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -272,15 +282,6 @@
       "url": "https://www.kiplinger.com/retirement/retirement-planning/how-advisers-balance-ai-use-with-human-judgment?.tsrc=rss",
       "source": "kiplinger.com",
       "published": "2026-07-18T12:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Rating Upgraded by Zacks Research",
-      "url": "https://www.tickerreport.com/banking-finance/13508093/jpmorgan-chase-co-nysejpm-stock-rating-upgraded-by-zacks-research.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-18T11:56:48+00:00",
       "tickers": [
         "JPM"
       ]
