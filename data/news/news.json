@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-07-18T21:26:38.119546+00:00",
+  "last_updated": "2026-07-18T22:26:36.229111+00:00",
   "headlines": [
+    {
+      "title": "Opening a 2nd Bank Account: Bank of America or American Express",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v08h7a/opening_a_2nd_bank_account_bank_of_america_or/",
+      "source": "reddit.com",
+      "published": "2026-07-18T21:52:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "MLB Pittsburgh Pirates Vs New York Mets",
       "url": "https://tulsaworld.com/image_d5300835-f3b6-53b9-a325-3fc64c8ebadc.html",
@@ -21,15 +31,6 @@
       ]
     },
     {
-      "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-ceo-jamie-dimon-192300766.html",
-      "source": "yahoo.com",
-      "published": "2026-07-18T19:23:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
       "title": "Bank of America sends strong verdict on Microsoft stock",
       "url": "https://www.thestreet.com/investing/stocks/msft-microsoft-stock-bank-of-america-earnings-forecast?.tsrc=rss",
       "source": "thestreet.com",
@@ -46,6 +47,34 @@
       "published": "2026-07-18T19:08:47+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
+      "url": "https://www.fool.com/investing/2026/07/18/jpm-ceo-jamie-dimon-ai-spending-reach-trillion/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-18T19:03:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wall Street Raises Expectations for Goldman, Other Banks After Strong Earnings",
+      "url": "https://finance.yahoo.com/m/509808c6-668d-3a30-9769-5046f34c4ea0/wall-street-raises.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-18T18:18:00+00:00",
+      "tickers": [
+        "GS",
+        "USB"
+      ]
+    },
+    {
+      "title": "Wyndham Hotels & Resorts (WH) In Focus As World Cup Boosted Lodging Outlook Meets Valuation Debate",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wyndham-hotels-resorts-wh-focus-180808350.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-18T18:08:08+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -106,6 +135,15 @@
       ]
     },
     {
+      "title": "Jamie Dimon Backs Philadelphia Navy Yard With $24 Million as US Defense Spending Surges, Says 'The Arsenal of Democracy Has Been Reignited'",
+      "url": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-backs-philadelphia-navy-153123098.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-18T15:31:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Insider trades: Morgan Stanley, Goldman Sachs, Broadcom among notable names",
       "url": "https://seekingalpha.com/news/4615064-insider-trades-morgan-stanley-goldman-sachs-broadcom-among-notable-names",
       "source": "seekingalpha.com",
@@ -113,6 +151,16 @@
       "tickers": [
         "GS",
         "MS"
+      ]
+    },
+    {
+      "title": "BofA sees lost year taking shape for gold",
+      "url": "https://www.thestreet.com/investing/gold-prices-bank-of-america-correction-forecast?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-18T14:37:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -220,68 +268,21 @@
       ]
     },
     {
+      "title": "If AI Is Doing More of the Work, Why Are You Paying a Financial Adviser?",
+      "url": "https://www.kiplinger.com/retirement/retirement-planning/how-advisers-balance-ai-use-with-human-judgment?.tsrc=rss",
+      "source": "kiplinger.com",
+      "published": "2026-07-18T12:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Rating Upgraded by Zacks Research",
       "url": "https://www.tickerreport.com/banking-finance/13508093/jpmorgan-chase-co-nysejpm-stock-rating-upgraded-by-zacks-research.html",
       "source": "tickerreport.com",
       "published": "2026-07-18T11:56:48+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "BMO Capital Markets Upgrades Amcor (NYSE:AMCR) to Hold",
-      "url": "https://www.tickerreport.com/banking-finance/13508091/bmo-capital-markets-upgrades-amcor-nyseamcr-to-hold.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-18T11:56:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Prediction: The Most Important Stock in the Dow Jones Will Issue a 4-for-1 Stock Split Before the End of 2026",
-      "url": "https://www.fool.com/investing/2026/07/18/predict-most-important-dow-jones-stock-split/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-18T11:45:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Dorsey Wright & Associates Purchases 4,208 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13508084/dorsey-wright-associates-purchases-4208-shares-of-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-18T11:42:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc (PNC) To Go Ex-Dividend on July 20th",
-      "url": "https://www.tickerreport.com/banking-finance/13508070/the-pnc-financial-services-group-inc-pnc-to-go-ex-dividend-on-july-20th.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-18T11:30:50+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Salzgitter (OTCMKTS:SZGPY) Rating Increased to Hold at Zacks Research",
-      "url": "https://www.tickerreport.com/banking-finance/13508044/salzgitter-otcmktsszgpy-rating-increased-to-hold-at-zacks-research.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-18T11:21:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
-      "source": "cnbc.com",
-      "published": "2026-07-18T11:10:25+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
