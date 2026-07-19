@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-07-19T14:04:09.319669+00:00",
+  "last_updated": "2026-07-19T15:32:24.232795+00:00",
   "headlines": [
+    {
+      "title": "Full interview: Bank of America CEO Brian Moynihan",
+      "url": "https://www.cbsnews.com/video/full-interview-bank-of-america-ceo-brian-moynihan-071926/",
+      "source": "cbsnews.com",
+      "published": "2026-07-19T14:30:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Transcript: Bank of America CEO Brian Moynihan on \"Face the Nation with Margaret Brennan,\" July 19, 2026",
+      "url": "https://www.cbsnews.com/news/brian-moynihan-bank-of-america-ceo-face-the-nation-transcript-07-19-2026/",
+      "source": "cbsnews.com",
+      "published": "2026-07-19T14:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Encourages Focus on Consumer Experience Stocks Amid AI Volatility",
+      "url": "https://www.gurufocus.com/news/8966062/goldman-sachs-encourages-focus-on-consumer-experience-stocks-amid-ai-volatility",
+      "source": "gurufocus.com",
+      "published": "2026-07-19T14:19:50+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "BofA's top 10 covered call trades",
       "url": "https://seekingalpha.com/news/4615114-bofas-top-10-covered-call-trades",
@@ -254,34 +283,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-extra-space-storage-inc-exr-stock-holdings-lessened-by-bank-of-new-york-mellon-corp-2026-07-19/",
       "source": "marketbeat.com",
       "published": "2026-07-19T08:08:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bunzl (LSE:BNZL) Stock Sees Modest Fair Value Lift As Analysts Raise Targets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bunzl-lse-bnzl-stock-sees-080636422.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-19T08:06:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Why BofA remains negative on European equities",
-      "url": "https://www.investing.com/news/stock-market-news/why-bofa-remains-negative-on-european-equities-4799707",
-      "source": "investing.com",
-      "published": "2026-07-19T07:58:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 25,849 Shares of NXP Semiconductors N.V. $NXPI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-25849-shares-of-nxp-semiconductors-nv-nxpi-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:30+00:00",
       "tickers": [
         "BK"
       ]
