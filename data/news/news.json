@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-07-19T21:27:22.265559+00:00",
+  "last_updated": "2026-07-19T22:28:45.263732+00:00",
   "headlines": [
+    {
+      "title": "BofA sees AI winners emerging beyond crowded semis and mega-cap names",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-ai-winners-emerging-beyond-crowded-semis-and-megacap-names-4799740",
+      "source": "investing.com",
+      "published": "2026-07-19T21:09:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "How can I use my first credit card?",
       "url": "https://www.reddit.com/r/personalfinance/comments/1v11qcq/how_can_i_use_my_first_credit_card/",
@@ -60,6 +70,15 @@
       ]
     },
     {
+      "title": "Why the $2,000 Social Security Check Hits Harder for Bottom-Half Earners in 2026",
+      "url": "https://247wallst.com/personal-finance/social-security/2026/07/19/why-the-2000-social-security-check-hits-harder-for-bottom-half-earners-in-2026/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-07-19T18:04:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes in a few years as ships reject a U.S.-backed alternate route",
       "url": "https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/",
       "source": "fortune.com",
@@ -79,8 +98,8 @@
     },
     {
       "title": "Bank of America doubles down on Google stock ahead of earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-google-174015534.html",
-      "source": "yahoo.com",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-google-stock-ahead-of-earnings?.tsrc=rss",
+      "source": "thestreet.com",
       "published": "2026-07-19T17:40:15+00:00",
       "tickers": [
         "BAC",
@@ -157,7 +176,7 @@
     },
     {
       "title": "Goldman Sachs Warns on AI’s Debt Tsunami — Is the AI Boom?",
-      "url": "https://247wallst.com/investing/2026/07/19/goldman-sachs-warns-on-ais-debt-tsunami-is-the-ai-boom/",
+      "url": "https://247wallst.com/investing/2026/07/19/goldman-sachs-warns-on-ais-debt-tsunami-is-the-ai-boom/?.tsrc=rss",
       "source": "247wallst.com",
       "published": "2026-07-19T15:07:48+00:00",
       "tickers": [
@@ -191,6 +210,15 @@
       "published": "2026-07-19T14:19:50+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Trump Accounts Bring Windfall for Babies — and Also This One Fund",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-accounts-bring-windfall-babies-125603925.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-19T12:56:03+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -257,36 +285,6 @@
       "published": "2026-07-19T11:59:15+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Mediolanum International Funds Ltd Sells 773,754 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13508834/mediolanum-international-funds-ltd-sells-773754-shares-of-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-19T11:56:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Hartnett: The Consensus Stock-Trade Is Now Risk",
-      "url": "https://vblgoldfix.substack.com/p/hartnett-the-consensus-stock-trade",
-      "source": "substack.com",
-      "published": "2026-07-19T11:15:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mediolanum International Funds Ltd Acquires 8,634 Shares of The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13508742/mediolanum-international-funds-ltd-acquires-8634-shares-of-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-19T10:54:44+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
