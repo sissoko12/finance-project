@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-19T20:09:26.009183+00:00",
+  "last_updated": "2026-07-19T21:27:22.265559+00:00",
   "headlines": [
+    {
+      "title": "How can I use my first credit card?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v11qcq/how_can_i_use_my_first_credit_card/",
+      "source": "reddit.com",
+      "published": "2026-07-19T21:02:01+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Promising Value Stocks To Research - July 19th",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-value-stocks-to-research-july-19th-2026-07-19/",
+      "source": "marketbeat.com",
+      "published": "2026-07-19T20:01:43+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "The Great Housing Debate of 2026–2031: Will Buying or Renting Build More Wealth?",
       "url": "https://thepeopleseconomist.substack.com/p/the-great-housing-debate-of-20262031",
@@ -45,6 +66,25 @@
       "published": "2026-07-19T17:57:31+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-says-2-175700366.html",
+      "source": "yahoo.com",
+      "published": "2026-07-19T17:57:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America doubles down on Google stock ahead of earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-google-174015534.html",
+      "source": "yahoo.com",
+      "published": "2026-07-19T17:40:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -247,45 +287,6 @@
       "tickers": [
         "C",
         "PNC"
-      ]
-    },
-    {
-      "title": "Zhang Financial LLC Acquires 17,239 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-zhang-financial-llc-acquires-17239-shares-of-bank-of-america-corporation-bac-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T10:40:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mediolanum International Funds Ltd Has $36.11 Million Stock Position in Wells Fargo & Company $WFC",
-      "url": "https://www.tickerreport.com/banking-finance/13508687/mediolanum-international-funds-ltd-has-36-11-million-stock-position-in-wells-fargo-company-wfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-19T10:26:46+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street says it isn’t systemic, but 28 of 53 credit funds are now losing money",
-      "url": "https://cryptoslate.com/wall-street-says-it-isnt-systemic-but-28-of-53-credit-funds-are-now-losing-money/",
-      "source": "cryptoslate.com",
-      "published": "2026-07-19T10:21:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA on GBP - Investing.com -- Sterling’s break higher supports the case for ...",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/bofa-gbp-102027968.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-19T10:20:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
