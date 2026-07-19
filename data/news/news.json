@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-07-19T17:06:19.313189+00:00",
+  "last_updated": "2026-07-19T18:31:48.725202+00:00",
   "headlines": [
+    {
+      "title": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
+      "url": "https://www.investing.com/news/stock-market-news/us-companies-pouring-swelling-cash-balances-into-growth-plans--morgan-stanley-4799733",
+      "source": "investing.com",
+      "published": "2026-07-19T17:10:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank Stocks To Follow Now - July 19th",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-follow-now-july-19th-2026-07-19/",
+      "source": "marketbeat.com",
+      "published": "2026-07-19T17:01:41+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Face the Nation: Hochul, Homan, Moynihan",
+      "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/",
+      "source": "cbsnews.com",
+      "published": "2026-07-19T16:14:07+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Bank of America CEO Brian Moynihan says \"affordability is a challenge\" for customers",
       "url": "https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/",
@@ -257,35 +287,6 @@
       "published": "2026-07-19T10:09:17+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Swiss National Bank Grows Stake in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-grows-stake-in-capital-one-financial-corporation-cof-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T10:08:57+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Hsbc Holdings PLC Trims Stock Position in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13508541/hsbc-holdings-plc-trims-stock-position-in-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-19T09:45:17+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Markets have grown numb to Trump's social media exploits. Here's what matters more as midterms approach.",
-      "url": "https://www.businessinsider.com/donald-trump-social-media-stock-market-reaction-morgan-stanley-midterms-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-19T09:15:01+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
