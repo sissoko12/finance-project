@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-07-19T15:32:24.232795+00:00",
+  "last_updated": "2026-07-19T17:06:19.313189+00:00",
   "headlines": [
+    {
+      "title": "Bank of America CEO Brian Moynihan says \"affordability is a challenge\" for customers",
+      "url": "https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/",
+      "source": "cbsnews.com",
+      "published": "2026-07-19T15:57:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "1 dead after crash on State Street in Schenectady",
+      "url": "https://www.news10.com/news/schenectady-county/1-dead-after-crash-on-state-street-in-schenectady/",
+      "source": "news10.com",
+      "published": "2026-07-19T15:50:25+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Microsoft (MSFT) Stock: BofA Maintains $500 Target as Q4 Earnings Approach",
+      "url": "https://blockonomi.com/microsoft-msft-stock-bofa-maintains-500-target-as-q4-earnings-approach/",
+      "source": "blockonomi.com",
+      "published": "2026-07-19T15:43:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Warns on AI’s Debt Tsunami — Is the AI Boom?",
+      "url": "https://247wallst.com/investing/2026/07/19/goldman-sachs-warns-on-ais-debt-tsunami-is-the-ai-boom/",
+      "source": "247wallst.com",
+      "published": "2026-07-19T15:07:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Full interview: Bank of America CEO Brian Moynihan",
       "url": "https://www.cbsnews.com/video/full-interview-bank-of-america-ceo-brian-moynihan-071926/",
@@ -248,43 +286,6 @@
       "published": "2026-07-19T09:15:01+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Illinois Municipal Retirement Fund Sells 7,670 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-illinois-municipal-retirement-fund-sells-7670-shares-of-capital-one-financial-corporation-cof-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T09:04:45+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp $USB Shares Bought by Illinois Municipal Retirement Fund",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-us-bancorp-usb-shares-bought-by-illinois-municipal-retirement-fund-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T09:04:38+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Hanseatic Management Services Inc. Buys New Holdings in Goldman Sachs Equal Weight U.S. Large Cap Equity ETF $GSEW",
-      "url": "https://www.tickerreport.com/banking-finance/13508359/hanseatic-management-services-inc-buys-new-holdings-in-goldman-sachs-equal-weight-u-s-large-cap-equity-etf-gsew.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-19T08:27:16+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Extra Space Storage Inc $EXR Stock Holdings Lessened by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-extra-space-storage-inc-exr-stock-holdings-lessened-by-bank-of-new-york-mellon-corp-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T08:08:25+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
