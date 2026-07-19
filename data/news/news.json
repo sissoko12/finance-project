@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T03:34:18.314726+00:00",
+  "last_updated": "2026-07-19T06:37:21.154618+00:00",
   "headlines": [
     {
       "title": "BofA lists the strongest luxury brands in 2026",
@@ -25,6 +25,15 @@
       "url": "https://www.thewrap.com/creative-content/music/noah-kahan-cancels-concert-citi-field-nyc-weather-great-divid-tour/",
       "source": "thewrap.com",
       "published": "2026-07-19T00:23:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Noah Kahan Concert Among Shows Canceled in New York Due to Inclement Weather on Saturday - Billboard",
+      "url": "https://news.google.com/atom/articles/CBMimgFBVV95cUxPSTZ2RXhUR0tUaFc1eGFGenU5SGpVRk1yXzgxTzhZWXZPOU03X2F1aWQyR1B4NWRmRDZPSHJYY2hiM3NId29aZktJYS1UdHJhbDJFbDc5U3dJVkZoUHh3dlZHdUdVTzdiMGU2Szd6amhiWVNDcWNqeVZvMjJFNW1FQnRaeFFfNzFzVEhWcTdnNlpmc2x2SW1iMmxB?oc=5",
+      "source": "google.com",
+      "published": "2026-07-19T00:11:13+00:00",
       "tickers": [
         "C"
       ]
@@ -273,16 +282,6 @@
       "published": "2026-07-18T14:01:02+00:00",
       "tickers": [
         "BK"
-      ]
-    },
-    {
-      "title": "Financial stocks overbought amid tech selloff; BofA, PayPal among gainers, Citi, crypto in losers",
-      "url": "https://seekingalpha.com/news/4614988-financial-stocks-overbought-amid-tech-selloff-bofa-paypal-among-gainers-citi-crypto-in-losers",
-      "source": "seekingalpha.com",
-      "published": "2026-07-18T14:00:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
