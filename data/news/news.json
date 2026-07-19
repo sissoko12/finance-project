@@ -1,6 +1,92 @@
 {
-  "last_updated": "2026-07-19T12:02:45.662108+00:00",
+  "last_updated": "2026-07-19T14:04:09.319669+00:00",
   "headlines": [
+    {
+      "title": "BofA's top 10 covered call trades",
+      "url": "https://seekingalpha.com/news/4615114-bofas-top-10-covered-call-trades",
+      "source": "seekingalpha.com",
+      "published": "2026-07-19T12:37:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi ThankYou To Air France-KLM Flying Blue 20% Conversion Bonus July 19 – August 22, 2026",
+      "url": "https://loyaltylobby.com/2026/07/19/citi-thankyou-to-air-france-klm-flying-blue-20-conversion-bonus-july-19-august-22-2026/?omhide=true",
+      "source": "loyaltylobby.com",
+      "published": "2026-07-19T12:36:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Launches Open-Source VulnHunter Agentic AI Code Security Tool",
+      "url": "https://pulse2.com/capital-one-launches-open-source-vulnhunter-agentic-ai-code-security-tool/",
+      "source": "pulse2.com",
+      "published": "2026-07-19T12:25:09+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "SEB Asset Management AB Takes $64.41 Million Position in Wells Fargo & Company $WFC",
+      "url": "https://www.tickerreport.com/banking-finance/13508875/seb-asset-management-ab-takes-64-41-million-position-in-wells-fargo-company-wfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-19T12:24:50+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Our Top 10 High Growth Dividend Stocks - July 2026 | $MRVL $CRS $FIX $STT $SNX",
+      "url": "https://seekingalpha.com/article/4922617-our-top-10-high-growth-dividend-stocks-july-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-07-19T12:15:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Pension Funds Try to Come to Grips With the Scariest Global Warming Scenario",
+      "url": "https://financialpost.com/pmn/business-pmn/pension-funds-try-to-come-to-grips-with-the-scariest-global-warming-scenario",
+      "source": "financialpost.com",
+      "published": "2026-07-19T12:05:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "E*TRADE Launches Crypto Spot Trading For Bitcoin, Ethereum And Solana",
+      "url": "https://pulse2.com/etrade-launches-crypto-spot-trading-for-bitcoin-ethereum-and-solana/",
+      "source": "pulse2.com",
+      "published": "2026-07-19T11:59:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Mediolanum International Funds Ltd Sells 773,754 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13508834/mediolanum-international-funds-ltd-sells-773754-shares-of-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-19T11:56:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Hartnett: The Consensus Stock-Trade Is Now Risk",
+      "url": "https://vblgoldfix.substack.com/p/hartnett-the-consensus-stock-trade",
+      "source": "substack.com",
+      "published": "2026-07-19T11:15:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Mediolanum International Funds Ltd Acquires 8,634 Shares of The PNC Financial Services Group, Inc $PNC",
       "url": "https://www.tickerreport.com/banking-finance/13508742/mediolanum-international-funds-ltd-acquires-8634-shares-of-the-pnc-financial-services-group-inc-pnc.html",
@@ -38,6 +124,16 @@
       "published": "2026-07-19T10:21:52+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "BofA on GBP - Investing.com -- Sterling’s break higher supports the case for ...",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/bofa-gbp-102027968.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-19T10:20:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -163,6 +259,15 @@
       ]
     },
     {
+      "title": "Bunzl (LSE:BNZL) Stock Sees Modest Fair Value Lift As Analysts Raise Targets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bunzl-lse-bnzl-stock-sees-080636422.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-19T08:06:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Why BofA remains negative on European equities",
       "url": "https://www.investing.com/news/stock-market-news/why-bofa-remains-negative-on-european-equities-4799707",
       "source": "investing.com",
@@ -177,105 +282,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-25849-shares-of-nxp-semiconductors-nv-nxpi-2026-07-19/",
       "source": "marketbeat.com",
       "published": "2026-07-19T07:21:30+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys 16,692 Shares of Carvana Co. $CVNA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-16692-shares-of-carvana-co-cvna-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:30+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Increases Stock Holdings in Otis Worldwide Corporation $OTIS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-increases-stock-holdings-in-otis-worldwide-corporation-otis-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "MasTec, Inc. $MTZ Shares Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mastec-inc-mtz-shares-acquired-by-bank-of-new-york-mellon-corp-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:24+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Huntington Bancshares Incorporated $HBAN Shares Bought by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-huntington-bancshares-incorporated-hban-shares-bought-by-bank-of-new-york-mellon-corp-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:23+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys 920,948 Shares of Antero Midstream Corporation $AM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-920948-shares-of-antero-midstream-corporation-am-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:23+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 12,752 Shares of EMCOR Group, Inc. $EME",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-12752-shares-of-emcor-group-inc-eme-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:22+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Decreases Holdings in Pacific Gas & Electric Co. $PCG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-decreases-holdings-in-pacific-gas-electric-co-pcg-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:22+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Lowers Stock Holdings in Garmin Ltd. $GRMN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-lowers-stock-holdings-in-garmin-ltd-grmn-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:21+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 85,299 Shares of Prudential Financial, Inc. $PRU",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-85299-shares-of-prudential-financial-inc-pru-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:21+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Decreases Stake in Nasdaq, Inc. $NDAQ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-decreases-stake-in-nasdaq-inc-ndaq-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:20+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 645,115 Shares of FirstEnergy Corporation $FE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-645115-shares-of-firstenergy-corporation-fe-2026-07-19/",
-      "source": "marketbeat.com",
-      "published": "2026-07-19T07:21:20+00:00",
       "tickers": [
         "BK"
       ]
