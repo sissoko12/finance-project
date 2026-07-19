@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-19T22:28:45.263732+00:00",
+  "last_updated": "2026-07-19T23:33:59.261645+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs flags broken CTA threshold levels in Nasdaq, SPX nearing critical zone",
+      "url": "https://cryptobriefing.com/goldman-sachs-cta-threshold-nasdaq-spx/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-19T23:03:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "BofA sees AI winners emerging beyond crowded semis and mega-cap names",
       "url": "https://www.investing.com/news/stock-market-news/bofa-sees-ai-winners-emerging-beyond-crowded-semis-and-megacap-names-4799740",
@@ -19,6 +28,15 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Ex-Goldman Credit Veteran Says Markets May Be Mispricing MicroStrategy’s STRC by 13%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ex-goldman-credit-veteran-says-205255255.html",
+      "source": "yahoo.com",
+      "published": "2026-07-19T20:52:55+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -146,6 +164,16 @@
       ]
     },
     {
+      "title": "Bank of America Names Sonali Theisen To Lead Global Digital Assets Platform",
+      "url": "https://www.crowdfundinsider.com/2026/07/292621-bank-of-america-names-sonali-theisen-to-lead-global-digital-assets-platform/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-07-19T15:58:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Bank of America CEO Brian Moynihan says \"affordability is a challenge\" for customers",
       "url": "https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/",
       "source": "cbsnews.com",
@@ -258,33 +286,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Our Top 10 High Growth Dividend Stocks - July 2026 | $MRVL $CRS $FIX $STT $SNX",
-      "url": "https://seekingalpha.com/article/4922617-our-top-10-high-growth-dividend-stocks-july-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-07-19T12:15:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Pension Funds Try to Come to Grips With the Scariest Global Warming Scenario",
-      "url": "https://financialpost.com/pmn/business-pmn/pension-funds-try-to-come-to-grips-with-the-scariest-global-warming-scenario",
-      "source": "financialpost.com",
-      "published": "2026-07-19T12:05:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "E*TRADE Launches Crypto Spot Trading For Bitcoin, Ethereum And Solana",
-      "url": "https://pulse2.com/etrade-launches-crypto-spot-trading-for-bitcoin-ethereum-and-solana/",
-      "source": "pulse2.com",
-      "published": "2026-07-19T11:59:15+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
