@@ -1,98 +1,282 @@
 {
-  "last_updated": "2026-07-20T15:16:34.101860+00:00",
+  "last_updated": "2026-07-20T16:59:36.939671+00:00",
   "headlines": [
     {
-      "title": "Hedge funds dump U.S. tech stocks at record clip - Goldman",
-      "url": "https://seekingalpha.com/news/4615359-hedge-funds-dump-us-tech-stocks-at-record-clip---goldman",
-      "source": "seekingalpha.com",
-      "published": "2026-07-20T14:31:40+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020570/0001918704-26-020570-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-20T16:28:55+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020524/0001918704-26-020524-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T14:31:40+00:00",
+      "title": "Global macro cycle far from peaking - Morgan Stanley",
+      "url": "https://seekingalpha.com/news/4615452-global-macro-cycle-far-from-peaking-morgan-stanley",
+      "source": "seekingalpha.com",
+      "published": "2026-07-20T16:22:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for SS&C Technologies (NASDAQ:SSNC) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-ssc-technologies-nasdaqssnc-stock-price-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T16:18:26+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman Sees Turkey Likely Tolerating Faster Lira Slide",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/goldman-sees-turkey-likely-tolerating-faster-lira-slide",
-      "source": "bloomberg.com",
-      "published": "2026-07-20T14:27:03+00:00",
+      "title": "Discover card customers should prepare for big changes soon",
+      "url": "https://www.oregonlive.com/nation/2026/07/discover-card-customers-should-prepare-for-big-changes-soon.html",
+      "source": "oregonlive.com",
+      "published": "2026-07-20T16:14:11+00:00",
       "tickers": [
-        "GS"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "U.S. Bancorp upgraded at J.P. Morgan on growth in fee revenue",
-      "url": "https://seekingalpha.com/news/4615346-us-bancorp-upgraded-at-jp-morgan-on-growth-in-fee-revenue",
-      "source": "seekingalpha.com",
-      "published": "2026-07-20T14:24:32+00:00",
+      "title": "ATEX Maintained by JP Morgan -- Price Target Raised to $133",
+      "url": "https://www.gurufocus.com/news/8967122/atex-maintained-by-jp-morgan-price-target-raised-to-133",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T16:03:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ASIC Maintained by JP Morgan -- Price Target Raised to $29.00",
+      "url": "https://www.gurufocus.com/news/8967130/asic-maintained-by-jp-morgan-price-target-raised-to-2900",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T16:03:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ACGL Maintained by JP Morgan -- Price Target Raised to $116",
+      "url": "https://www.gurufocus.com/news/8967126/acgl-maintained-by-jp-morgan-price-target-raised-to-116",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T16:03:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AIG Maintained by JP Morgan -- Price Target Raised to $90.00",
+      "url": "https://www.gurufocus.com/news/8967115/aig-maintained-by-jp-morgan-price-target-raised-to-9000",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T16:02:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank Stocks To Add to Your Watchlist - July 20th",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-add-to-your-watchlist-july-20th-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T16:02:14+00:00",
       "tickers": [
         "JPM",
+        "BAC",
+        "C",
         "USB"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020512/0001918704-26-020512-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T14:22:15+00:00",
+      "title": "Bank of America (BAC) Reports Strong Q2 Earnings, Surpassing Estimates",
+      "url": "https://www.gurufocus.com/news/8967108/bank-of-america-bac-reports-strong-q2-earnings-surpassing-estimates",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T16:01:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Charter Communications (NASDAQ:CHTR) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13509647/jpmorgan-chase-co-issues-pessimistic-forecast-for-charter-communications-nasdaqchtr-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-20T16:01:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Lags Behind Peers with 8.1% Decline Over Five Days",
+      "url": "https://www.gurufocus.com/news/8967105/citigroup-c-lags-behind-peers-with-81-decline-over-five-days",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T16:00:54+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "U.S. Bancorp (NYSE:USB) Rating Increased to Outperform at Evercore",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-rating-increased-to-outperform-at-evercore-2026-07-20/",
+      "title": "Fidelis Insurance (NYSE:PLGO) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/fidelis-insurance-nyseplgo-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-20/",
       "source": "marketbeat.com",
-      "published": "2026-07-20T14:07:02+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Truist Financial Lowers Brightstar Lottery (NYSE:BRSL) Price Target to $13.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-brightstar-lottery-nysebrsl-price-target-to-1300-2026-07-20/",
-      "source": "marketbeat.com",
-      "published": "2026-07-20T14:06:59+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bally's (NYSE:BALY) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/ballys-nysebaly-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-20/",
-      "source": "marketbeat.com",
-      "published": "2026-07-20T14:06:58+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for Albemarle (NYSE:ALB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-albemarle-nysealb-stock-price-2026-07-20/",
-      "source": "marketbeat.com",
-      "published": "2026-07-20T14:06:57+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist trades lower after J.P. Morgan cuts to Underweight on NII pressure",
-      "url": "https://seekingalpha.com/news/4615310-truist-trades-lower-after-jp-morgan-cuts-to-underweight-on-nii-pressure",
-      "source": "seekingalpha.com",
-      "published": "2026-07-20T13:59:05+00:00",
+      "published": "2026-07-20T16:00:24+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "RenaissanceRe (NYSE:RNR) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/renaissancere-nysernr-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T16:00:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "S&P Global (NYSE:SPGI) Given New $555.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/sp-global-nysespgi-given-new-55500-price-target-at-jpmorgan-chase-co-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T16:00:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Post (NYSE:POST) Price Target Lowered to $116.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/post-nysepost-price-target-lowered-to-11600-at-jpmorgan-chase-co-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T16:00:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Charter Communications (NASDAQ:CHTR) Price Target to $200.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-charter-communications-nasdaqchtr-price-target-to-20000-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T16:00:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Reports Unprecedented Hedge Fund Retreat from Tech Stocks",
+      "url": "https://www.gurufocus.com/news/8967090/goldman-sachs-reports-unprecedented-hedge-fund-retreat-from-tech-stocks",
+      "source": "gurufocus.com",
+      "published": "2026-07-20T15:57:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020557/0001918704-26-020557-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-20T15:37:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Palomar (NASDAQ:PLMR) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-palomar-nasdaqplmr-stock-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T15:30:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for MSCI (NYSE:MSCI) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-msci-nysemsci-stock-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T15:30:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Moody's (NYSE:MCO) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-moodys-nysemco-stock-price-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T15:30:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Apple in focus as BofA reiterates Buy rating ahead of Q3 results",
+      "url": "https://seekingalpha.com/news/4615406-apple-in-focus-as-bofa-reiterates-buy-rating-ahead-of-q3-results",
+      "source": "seekingalpha.com",
+      "published": "2026-07-20T15:23:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Broadcom stock gains 2% today: here's why",
+      "url": "https://invezz.com/news/2026/07/20/broadcom-stock-gains-2-today-heres-why/",
+      "source": "invezz.com",
+      "published": "2026-07-20T15:11:57+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Reports Historic Tech Stock Exodus by Hedge Funds",
+      "url": "https://blockonomi.com/goldman-sachs-reports-historic-tech-stock-exodus-by-hedge-funds/",
+      "source": "blockonomi.com",
+      "published": "2026-07-20T15:04:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Hartford Insurance Group (NYSE:HIG) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.tickerreport.com/banking-finance/13509625/the-hartford-insurance-group-nysehig-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-20T15:01:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Kinsale Capital Group (NYSE:KNSL) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-kinsale-capital-group-nyseknsl-stock-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T15:00:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Hartford Insurance Group (NYSE:HIG) Price Target Raised to $152.00",
+      "url": "https://www.marketbeat.com/instant-alerts/the-hartford-insurance-group-nysehig-price-target-raised-to-15200-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T15:00:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA downgrades FNB rating, shares slide",
+      "url": "https://www.marketscreener.com/news/bofa-downgrades-fnb-rating-shares-slide-ce7f51dbda88f224",
+      "source": "marketscreener.com",
+      "published": "2026-07-20T14:56:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Banking giant names 7 stocks to buy after memory equities sell-off",
+      "url": "https://finbold.com/banking-giant-names-7-stocks-to-buy-after-memory-equities-sell-off/",
+      "source": "finbold.com",
+      "published": "2026-07-20T14:53:47+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
