@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-07-19T23:33:59.261645+00:00",
+  "last_updated": "2026-07-20T03:49:01.936378+00:00",
   "headlines": [
+    {
+      "title": "Stay Bullish Despite The Rough Week: Aerospace, Finance, Biotech, And AI | $MU $NVDA $GOOGL $BAC $RKLB",
+      "url": "https://seekingalpha.com/article/4923350-stay-bullish-despite-the-rough-week-aerospace-finance-biotech-and-ai",
+      "source": "seekingalpha.com",
+      "published": "2026-07-20T02:51:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Set a $300 Price Target on Elon Musk's SpaceX Stock",
+      "url": "https://www.fool.com/investing/2026/07/19/morgan-stanley-set-a-300-price-target-on-elon-musk/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-20T02:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Diesel Squeeze in Europe Is Set to Deepen, Morgan Stanley Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/diesel-squeeze-in-europe-is-set-to-deepen-morgan-stanley-says",
+      "source": "bloomberg.com",
+      "published": "2026-07-20T02:28:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "France, Merrill leads Padres in rout of Royals",
+      "url": "https://www.newspressnow.com/ap/france-merrill-leads-padres-in-rout-of-royals/article_9ae395e0-a11a-4e25-af61-e8b8642d8c90.html",
+      "source": "newspressnow.com",
+      "published": "2026-07-20T00:28:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Promotes Execs to Champion AI and Crypto",
+      "url": "https://www.pymnts.com/personnel/2026/bank-of-america-promotes-execs-to-champion-ai-and-crypto/",
+      "source": "pymnts.com",
+      "published": "2026-07-19T23:26:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon warns Anthropic’s Mythos access debate signals AI risks for finance and crypto",
+      "url": "https://cryptobriefing.com/dimon-anthropic-mythos-ai-risks-crypto/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-19T23:25:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Goldman Sachs flags broken CTA threshold levels in Nasdaq, SPX nearing critical zone",
       "url": "https://cryptobriefing.com/goldman-sachs-cta-threshold-nasdaq-spx/",
@@ -8,6 +65,16 @@
       "published": "2026-07-19T23:03:57+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Is it a mistake to only use my wife’s credit card instead of getting one in my own name?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v13zw4/is_it_a_mistake_to_only_use_my_wifes_credit_card/",
+      "source": "reddit.com",
+      "published": "2026-07-19T22:41:39+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -61,7 +128,7 @@
     },
     {
       "title": "Long-term investment case for India remains very strong: Kevin Foley, co-head of global investment banking at J.P. Morgan",
-      "url": "https://economictimes.indiatimes.com/news/india/long-term-investment-case-for-india-remains-very-strong-kevin-foley-co-head-of-global-investment-banking-at-j-p-morgan/articleshow/132500736.cms",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/long-term-investment-case-for-india-remains-very-strong-kevin-foley-co-head-of-global-investment-banking-at-j-p-morgan/articleshow/132503626.cms",
       "source": "indiatimes.com",
       "published": "2026-07-19T19:03:50+00:00",
       "tickers": [
@@ -218,73 +285,6 @@
       "published": "2026-07-19T14:30:03+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Transcript: Bank of America CEO Brian Moynihan on \"Face the Nation with Margaret Brennan,\" July 19, 2026",
-      "url": "https://www.cbsnews.com/news/brian-moynihan-bank-of-america-ceo-face-the-nation-transcript-07-19-2026/",
-      "source": "cbsnews.com",
-      "published": "2026-07-19T14:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Encourages Focus on Consumer Experience Stocks Amid AI Volatility",
-      "url": "https://www.gurufocus.com/news/8966062/goldman-sachs-encourages-focus-on-consumer-experience-stocks-amid-ai-volatility",
-      "source": "gurufocus.com",
-      "published": "2026-07-19T14:19:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Trump Accounts Bring Windfall for Babies — and Also This One Fund",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-accounts-bring-windfall-babies-125603925.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-19T12:56:03+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BofA's top 10 covered call trades",
-      "url": "https://seekingalpha.com/news/4615114-bofas-top-10-covered-call-trades",
-      "source": "seekingalpha.com",
-      "published": "2026-07-19T12:37:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi ThankYou To Air France-KLM Flying Blue 20% Conversion Bonus July 19 – August 22, 2026",
-      "url": "https://loyaltylobby.com/2026/07/19/citi-thankyou-to-air-france-klm-flying-blue-20-conversion-bonus-july-19-august-22-2026/?omhide=true",
-      "source": "loyaltylobby.com",
-      "published": "2026-07-19T12:36:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Launches Open-Source VulnHunter Agentic AI Code Security Tool",
-      "url": "https://pulse2.com/capital-one-launches-open-source-vulnhunter-agentic-ai-code-security-tool/",
-      "source": "pulse2.com",
-      "published": "2026-07-19T12:25:09+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "SEB Asset Management AB Takes $64.41 Million Position in Wells Fargo & Company $WFC",
-      "url": "https://www.tickerreport.com/banking-finance/13508875/seb-asset-management-ab-takes-64-41-million-position-in-wells-fargo-company-wfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-19T12:24:50+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
