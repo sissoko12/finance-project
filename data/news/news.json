@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-07-20T22:06:54.404067+00:00",
+  "last_updated": "2026-07-20T23:33:02.677440+00:00",
   "headlines": [
+    {
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+      "source": "cnbc.com",
+      "published": "2026-07-20T23:01:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Here are the major earnings before the open Tuesday | $SCHW $GM $NVS $DHR $HAL",
+      "url": "https://seekingalpha.com/news/4615419-here-are-the-major-earnings-before-the-open-tuesday",
+      "source": "seekingalpha.com",
+      "published": "2026-07-20T22:00:42+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Capital One defeats lawsuit alleging excessive credit-card rates",
+      "url": "https://www.investing.com/news/stock-market-news/capital-one-defeats-lawsuit-alleging-excessive-credit-card-rates-4801756",
+      "source": "investing.com",
+      "published": "2026-07-20T21:49:25+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Capital One Financial Q2 2026 Earnings Preview",
       "url": "https://seekingalpha.com/news/4615378-capital-one-financial-q2-2026-earnings-preview",
@@ -9,6 +38,34 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Bank of America doubles down on Microsoft stock ahead of earnings",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-microsoft-stock-ahead-of-earnings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-20T21:33:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035579/0001839882-26-035579-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-20T21:28:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020625/0001918704-26-020625-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-20T21:26:30+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -21,11 +78,21 @@
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010851/0000950103-26-010851-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079707/0001213900-26-079707-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-20T21:11:23+00:00",
+      "published": "2026-07-20T21:22:04+00:00",
       "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Stock Price Down 1.4% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-stock-price-down-14-whats-next-2026-07-20/",
+      "source": "marketbeat.com",
+      "published": "2026-07-20T21:21:17+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -84,124 +151,6 @@
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Steel Dynamics Reports Second Quarter 2026 Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-reports-second-quarter-203000278.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-20T20:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035561/0001839882-26-035561-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T20:26:50+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Credit considered valid during fraud",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v1wqjj/credit_considered_valid_during_fraud/",
-      "source": "reddit.com",
-      "published": "2026-07-20T20:17:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bull Market for Stocks Puts Wind in Charles Schwab’s Sails. How That Will Impact Earnings.",
-      "url": "https://finance.yahoo.com/m/ec06c849-b84b-3b24-9a37-60704534d6dd/bull-market-for-stocks-puts.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-20T20:15:00+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Apple Faces Margin Test Before Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-margin-test-earnings-200756844.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-20T20:07:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group (PNC) Completes $2 Billion Bond Offering Due 2030 And 2037",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pnc-financial-services-group-pnc-200723217.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-20T20:07:23+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "MS",
-        "PNC"
-      ]
-    },
-    {
-      "title": "TNB Tech Minute: BlackRock Leads Financing for Meta Data Center in Texas",
-      "url": "https://pdst.fm/e/traffic.megaphone.fm/WSJ4261958570.mp3",
-      "source": "pdst.fm",
-      "published": "2026-07-20T20:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Which Is the Better Energy ETF, State Street's XLE or Global X's MLPX?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/20/which-is-the-better-energy-etf-state-street-s-xle-or-global-x-s-mlpx/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-20T19:58:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195324069.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-20T19:53:24+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bank of America sends strong Netflix stock verdict after earnings",
-      "url": "https://www.thestreet.com/investing/stocks/bofa-netflix-nflx-price-target-earnings-bank-of-america-analyst?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-20T19:47:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CoreWeave faces execution test as data center activation ramps up",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095728/coreweave-faces-execution-test-as-data-center-activation-ramps-up-1095728.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-07-20T19:40:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079578/0001213900-26-079578-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T19:38:01+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
