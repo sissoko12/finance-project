@@ -1,13 +1,50 @@
 {
-  "last_updated": "2026-07-20T23:33:02.677440+00:00",
+  "last_updated": "2026-07-21T03:28:20.851321+00:00",
   "headlines": [
     {
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-      "source": "cnbc.com",
+      "title": "J.P. Morgan Tokenizes QQQ ETF at DTCC",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1v25jpz/jp_morgan_tokenizes_qqq_etf_at_dtcc/",
+      "source": "reddit.com",
+      "published": "2026-07-21T02:26:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPM: Jamie Dimon Warns Investors of Underestimated Economic Risks",
+      "url": "https://www.gurufocus.com/news/8967997/jpm-jamie-dimon-warns-investors-of-underestimated-economic-risks",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T01:10:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase boss warns Andy Burnham of ‘consequences’ if he taxes banks",
+      "url": "https://www.ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-07-20T23:01:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW1RTzM1TlBIamVkQ2ZOakRUMWh1dU5BdjRyNFNRRURZdFlpd0Rzakx5SXZZOWF5Z1RVX0g0QU1DWnNyNUlyWnVIVzBKaU1CWGtQMnFpcjhtQVRwbC1MeE9DdFBTa0pMMFNjNTBQQk9mVERGdUI3WmtuWjV2b3l5N1owa2c0Z9IBiwFBVV95cUxPeV9ndXc0dXdGQ2ExV2hZUUxOc2UzYmNpblVGbEx0WDRmWmxkY3FqRHhvUTJkWGdzNjN5Z1JuaS1TbG5rdjZ2YVFMMndqNTRFYUk3bnNoWHF2SnV5SUo2QjE0eVlUMkFiMUtYa0o5dWMwOTEtLTlrQndTa09nZ1RkX3VpaXVOV25KTVQ0?oc=5",
+      "source": "google.com",
       "published": "2026-07-20T23:01:01+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "BofA Agrees To Pay $4.3M To Settle Unused Vacation Pay Suit",
+      "url": "https://www.law360.com/compliance/articles/2503591?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-07-20T22:48:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -28,6 +65,16 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "PNC names Bobby Chesney to lead western Carolinas region",
+      "url": "https://www.charlotteobserver.com/living/article316551353.html#new_tab",
+      "source": "charlotteobserver.com",
+      "published": "2026-07-20T21:47:25+00:00",
+      "tickers": [
+        "C",
+        "PNC"
       ]
     },
     {
@@ -97,6 +144,16 @@
       ]
     },
     {
+      "title": "World Cup hands US economy $20B boost — with host cities like Kansas City, Philly cashing in big, BofA says",
+      "url": "https://nypost.com/2026/07/20/business/world-cup-hands-us-economy-20b-boost-with-host-cities-like-kansas-city-philly-cashing-in-big-bofa-says/",
+      "source": "nypost.com",
+      "published": "2026-07-20T21:11:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Airport Passenger Tries To Fly With $53,000 In Cash—U.S. Government Takes It All [Roundup]",
       "url": "https://viewfromthewing.com/airport-passenger-tries-to-fly-with-53000-in-cash-u-s-government-takes-it-all-roundup/",
       "source": "viewfromthewing.com",
@@ -131,26 +188,6 @@
       "published": "2026-07-20T21:01:34+00:00",
       "tickers": [
         "USB"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020617/0001918704-26-020617-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T20:57:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "TRUIST FINANCIAL CORP: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/92230/000119312526309020/0001193125-26-309020-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T20:54:14+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
