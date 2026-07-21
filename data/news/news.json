@@ -1,6 +1,192 @@
 {
-  "last_updated": "2026-07-21T09:12:17.799549+00:00",
+  "last_updated": "2026-07-21T11:25:00.540105+00:00",
   "headlines": [
+    {
+      "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
+      "url": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-21T10:58:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees security spending boost from AI by 2027",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-security-spending-boost-from-ai-by-2027-93CH-4802702",
+      "source": "investing.com",
+      "published": "2026-07-21T10:57:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA turns neutral on GBP after rally toward target",
+      "url": "https://www.investing.com/news/forex-news/bofa-turns-neutral-on-gbp-after-rally-toward-target-93CH-4802608",
+      "source": "investing.com",
+      "published": "2026-07-21T10:39:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon won’t put more of his own money into the long end of the bond market right now—thanks to the $39 trillion national debt",
+      "url": "https://fortune.com/2026/07/21/jamie-dimon-bond-market-personal-investing-national-debt/",
+      "source": "fortune.com",
+      "published": "2026-07-21T10:23:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Summit Global Investments Grows Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-summit-global-investments-grows-holdings-in-bank-of-america-corporation-bac-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T10:16:39+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "8,848 Shares in The Goldman Sachs Group, Inc. $GS Acquired by Rice Partnership LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-8848-shares-in-the-goldman-sachs-group-inc-gs-acquired-by-rice-partnership-llc-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T10:16:31+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Insanely Bullish on Micron. Sees Shares Rising 83% From Here.",
+      "url": "https://247wallst.com/investing/2026/07/21/bank-of-america-insanely-bullish-on-micron-sees-shares-rising-83-from-here/",
+      "source": "247wallst.com",
+      "published": "2026-07-21T10:09:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial: Deep Value Based On Fee Growth (Rating Upgrade) | $TFC",
+      "url": "https://seekingalpha.com/article/4923668-truist-financial-stock-deep-value-based-fee-growth-rating-upgrade",
+      "source": "seekingalpha.com",
+      "published": "2026-07-21T09:43:49+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Projects Gold to Surge to $4,900 Amid Unprecedented Central Bank Demand",
+      "url": "https://blockonomi.com/goldman-sachs-projects-gold-to-surge-to-4900-amid-unprecedented-central-bank-demand/",
+      "source": "blockonomi.com",
+      "published": "2026-07-21T09:34:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Analyst recommendations: Gilead, Salesforce, Goldman Sachs, Carvana, Crowdstrike…",
+      "url": "https://www.marketscreener.com/news/analyst-recommendations-gilead-salesforce-goldman-sachs-carvana-crowdstrikea--ce7f51dbd08bf22d",
+      "source": "marketscreener.com",
+      "published": "2026-07-21T09:30:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "KBC Group NV Lowers Stock Position in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-lowers-stock-position-in-the-charles-schwab-corporation-schw-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T09:29:33+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "KBC Group NV Sells 737,720 Shares of Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-sells-737720-shares-of-wells-fargo-company-wfc-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T09:29:30+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Mediolanum International Funds Ltd Sells 33,861 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mediolanum-international-funds-ltd-sells-33861-shares-of-the-goldman-sachs-group-inc-gs-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T09:20:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Shares Purchased by Commerzbank Aktiengesellschaft FI",
+      "url": "https://www.tickerreport.com/banking-finance/13510109/the-goldman-sachs-group-inc-gs-shares-purchased-by-commerzbank-aktiengesellschaft-fi.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-21T09:17:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Oil prices could surpass $120 if Hormuz disruptions persist, says Goldman",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=034f5eb1-b2ff-494f-b7d8-8ba0a3e28cfd&mod=mw_rss_bulletins",
+      "source": "marketwatch.com",
+      "published": "2026-07-21T09:04:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Oil prices could surpass $120 per barrel if disruptions in Strait of Hormuz don’t ease, says Goldman Sachs",
+      "url": "https://www.marketwatch.com/story/oil-prices-could-surpass-120-per-barrel-if-disruptions-in-strait-of-hormuz-dont-ease-says-goldman-sachs-047f8f88?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-21T09:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "State Street Corporation $STT Shares Acquired by Sanctuary Advisors LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13510051/state-street-corporation-stt-shares-acquired-by-sanctuary-advisors-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-21T08:59:14+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "India’s RSWM wins CITI sustainability award at Bharat Tex 2026",
+      "url": "https://www.fibre2fashion.com/news/textile-news/india-s-rswm-wins-citi-sustainability-award-at-bharat-tex-2026-311907-newsdetails.htm",
+      "source": "fibre2fashion.com",
+      "published": "2026-07-21T08:50:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "All eyes are on John Healey, the UK's new finance minister. Here’s what’s at stake",
+      "url": "https://www.cnbc.com/2026/07/21/andy-burnham-john-healey-chancellor-gilts-jamie-dimon.html",
+      "source": "cnbc.com",
+      "published": "2026-07-21T08:50:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Textbook Precision: XLV Delivers Risk‑Free Setup",
+      "url": "https://elliottwave-forecast.com/bluebox-wins/textbook-precision-xlv-delivers-risk-free-setup/",
+      "source": "elliottwave-forecast.com",
+      "published": "2026-07-21T08:35:24+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Morgan Stanley $MS Shares Sold by DJE Kapital AG",
       "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-dje-kapital-ag-2026-07-21/",
@@ -8,6 +194,24 @@
       "published": "2026-07-21T08:32:48+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Bigger crash ahead? JPMorgan CEO Dimon says he won't buy stocks at current prices, says markets underestimating risks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bigger-crash-ahead-jpmorgan-ceo-dimon-says-he-wont-buy-stocks-at-current-prices-says-markets-underestimating-risks/articleshow/132531782.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-21T08:29:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman raises Dutch TTF gas price view on slow Hormuz export recovery",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-raises-dutch-ttf-gas-price-view-on-slow-hormuz-export-recovery/articleshow/132531752.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-21T08:27:46+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -78,208 +282,6 @@
         "JPM",
         "BAC",
         "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says he wouldn’t buy Treasurys. ‘I don’t understand the upside.’",
-      "url": "https://www.marketwatch.com/story/jamie-dimon-says-he-wouldnt-buy-treasurys-i-dont-understand-the-upside-dfcdf012?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-21T07:51:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Warns of Market Risks Amid Geopolitical Tensions",
-      "url": "https://www.gurufocus.com/news/8968328/jpm-jamie-dimon-warns-of-market-risks-amid-geopolitical-tensions",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T07:20:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Warns UK Prime Minister Against Banking Tax Increases",
-      "url": "https://www.gurufocus.com/news/8968324/jpm-jamie-dimon-warns-uk-prime-minister-against-banking-tax-increases",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T07:20:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Andra AP fonden Grows Stake in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-grows-stake-in-the-charles-schwab-corporation-schw-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T07:14:42+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Shares Sold by Andra AP fonden",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-andra-ap-fonden-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T07:14:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Andra AP fonden Has $28.51 Million Stake in Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-has-2851-million-stake-in-morgan-stanley-ms-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T07:14:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Andra AP fonden Sells 1,840 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-sells-1840-shares-of-the-goldman-sachs-group-inc-gs-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T07:14:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Andra AP fonden Has $35.01 Million Stock Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-has-3501-million-stock-position-in-wells-fargo-company-wfc-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T07:14:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Andra AP fonden Purchases 490,801 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-purchases-490801-shares-of-bank-of-america-corporation-bac-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T07:14:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Oil prices to hit $120 soon? Goldman Sachs makes big prediction as Hormuz concerns loom",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-21T06:59:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase (JPM) CEO Warns of Underestimated Global Economic Risks",
-      "url": "https://www.gurufocus.com/news/8968310/jpmorgan-chase-jpm-ceo-warns-of-underestimated-global-economic-risks",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T06:56:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
-      "url": "https://www.investing.com/analysis/goldman-warns-oil-could-hit-120-as-middle-east-war-drags-on-200684267",
-      "source": "investing.com",
-      "published": "2026-07-21T06:44:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "IREN Stock Extends Rally After $2.8B AI Contracts Disclosure: Goldman Sachs Lauds Customer Diversification, Keeps ‘Neutral’ Rating",
-      "url": "https://stocktwits.com/news-articles/markets/equity/iren-stock-extends-rally-after-2-8-b-ai-contracts-disclosure-goldman-sachs-lauds-customer-diversification-keeps-neutral-rating/cZZSGjTR7HV?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-07-21T06:25:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Metagenomi (NASDAQ:MGX) Upgraded to Sell at Wall Street Zen",
-      "url": "https://www.tickerreport.com/banking-finance/13509869/metagenomi-nasdaqmgx-upgraded-to-sell-at-wall-street-zen.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-21T06:06:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Rep. Dan Newhouse Buys Shares of Morgan Stanley (NYSE:MS)",
-      "url": "https://www.marketbeat.com/instant-alerts/rep-dan-newhouse-buys-shares-of-morgan-stanley-nysems-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T06:02:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Need help with my credit score and if I can apply",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v29c7i/need_help_with_my_credit_score_and_if_i_can_apply/",
-      "source": "reddit.com",
-      "published": "2026-07-21T05:34:21+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts Brent Oil Could Exceed $120 Amid Ongoing Tensions",
-      "url": "https://www.gurufocus.com/news/8968080/goldman-sachs-predicts-brent-oil-could-exceed-120-amid-ongoing-tensions",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T05:30:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "KOSPI rebounds as chipmakers recover; Morgan Stanley says correction nears bottom",
-      "url": "https://www.investing.com/news/stock-market-news/kospi-rebounds-as-chipmakers-recover-morgan-stanley-says-correction-nears-bottom-4801869",
-      "source": "investing.com",
-      "published": "2026-07-21T05:29:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Global threats underestimated by investors, warns JPMorgan CEO Jamie Dimon",
-      "url": "https://seekingalpha.com/news/4615652-global-threats-underestimated-by-investors-warns-jpmorgan-ceo-jamie-dimon",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T05:09:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Emirates NBD Goes Live on Partior for Real-Time Blockchain USD Payments",
-      "url": "https://thefintechtimes.com/emirates-nbd-goes-live-on-partior-for-real-time-blockchain-usd-payments/",
-      "source": "thefintechtimes.com",
-      "published": "2026-07-21T05:00:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz bottleneck could push Brent oil past $120, Goldman Sachs warns",
-      "url": "https://seekingalpha.com/news/4615654-strait-of-hormuz-bottleneck-could-push-brent-oil-past-120-goldman-sachs-warns",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T04:31:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Defence Stock to Buy Now for an Upside of 43%, Recommended by Goldman Sachs",
-      "url": "https://tradebrains.in/defence-stock-to-buy-now-for-an-upside-of-43-recommended-by-goldman-sachs/",
-      "source": "tradebrains.in",
-      "published": "2026-07-21T04:25:00+00:00",
-      "tickers": [
         "GS"
       ]
     }
