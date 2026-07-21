@@ -1,6 +1,252 @@
 {
-  "last_updated": "2026-07-21T06:13:47.009299+00:00",
+  "last_updated": "2026-07-21T09:12:17.799549+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley $MS Shares Sold by DJE Kapital AG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-dje-kapital-ag-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T08:32:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Voya Large Cap Core-Value SMA (Merrill) Q2 2026 Commentary | $IEDAX $IEDIX $IWEDX $IEDCX $IEDRX",
+      "url": "https://seekingalpha.com/article/4923660-voya-large-cap-core-value-sma-merrill-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-07-21T08:25:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Element Pointe Advisors LLC Takes Position in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-element-pointe-advisors-llc-takes-position-in-the-charles-schwab-corporation-schw-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T08:16:40+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Convergence Investment Partners LLC Grows Stake in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-convergence-investment-partners-llc-grows-stake-in-the-charles-schwab-corporation-schw-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T08:16:24+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Convergence Investment Partners LLC Purchases 11,593 Shares of The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-convergence-investment-partners-llc-purchases-11593-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T08:09:32+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Convergence Investment Partners LLC Raises Stock Holdings in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-convergence-investment-partners-llc-raises-stock-holdings-in-state-street-corporation-stt-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T08:09:25+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Convergence Investment Partners LLC Purchases 22,846 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-convergence-investment-partners-llc-purchases-22846-shares-of-bank-of-america-corporation-bac-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T08:09:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "A Stellar Start: Big Banks Defy Credit Fears To Kick Off Q2 Earnings | $GS $BAC $JPM $C $SPCX",
+      "url": "https://seekingalpha.com/article/4923634-a-stellar-start-big-banks-defy-credit-fears-to-kick-off-q2-earnings",
+      "source": "seekingalpha.com",
+      "published": "2026-07-21T08:06:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says he wouldn’t buy Treasurys. ‘I don’t understand the upside.’",
+      "url": "https://www.marketwatch.com/story/jamie-dimon-says-he-wouldnt-buy-treasurys-i-dont-understand-the-upside-dfcdf012?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-21T07:51:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPM, Jamie Dimon Warns of Market Risks Amid Geopolitical Tensions",
+      "url": "https://www.gurufocus.com/news/8968328/jpm-jamie-dimon-warns-of-market-risks-amid-geopolitical-tensions",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T07:20:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPM, Jamie Dimon Warns UK Prime Minister Against Banking Tax Increases",
+      "url": "https://www.gurufocus.com/news/8968324/jpm-jamie-dimon-warns-uk-prime-minister-against-banking-tax-increases",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T07:20:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Andra AP fonden Grows Stake in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-grows-stake-in-the-charles-schwab-corporation-schw-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T07:14:42+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Shares Sold by Andra AP fonden",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-andra-ap-fonden-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T07:14:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Andra AP fonden Has $28.51 Million Stake in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-has-2851-million-stake-in-morgan-stanley-ms-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T07:14:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Andra AP fonden Sells 1,840 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-sells-1840-shares-of-the-goldman-sachs-group-inc-gs-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T07:14:31+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Andra AP fonden Has $35.01 Million Stock Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-has-3501-million-stock-position-in-wells-fargo-company-wfc-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T07:14:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Andra AP fonden Purchases 490,801 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-purchases-490801-shares-of-bank-of-america-corporation-bac-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T07:14:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Oil prices to hit $120 soon? Goldman Sachs makes big prediction as Hormuz concerns loom",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-21T06:59:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase (JPM) CEO Warns of Underestimated Global Economic Risks",
+      "url": "https://www.gurufocus.com/news/8968310/jpmorgan-chase-jpm-ceo-warns-of-underestimated-global-economic-risks",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T06:56:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
+      "url": "https://www.investing.com/analysis/goldman-warns-oil-could-hit-120-as-middle-east-war-drags-on-200684267",
+      "source": "investing.com",
+      "published": "2026-07-21T06:44:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "IREN Stock Extends Rally After $2.8B AI Contracts Disclosure: Goldman Sachs Lauds Customer Diversification, Keeps ‘Neutral’ Rating",
+      "url": "https://stocktwits.com/news-articles/markets/equity/iren-stock-extends-rally-after-2-8-b-ai-contracts-disclosure-goldman-sachs-lauds-customer-diversification-keeps-neutral-rating/cZZSGjTR7HV?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-07-21T06:25:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Metagenomi (NASDAQ:MGX) Upgraded to Sell at Wall Street Zen",
+      "url": "https://www.tickerreport.com/banking-finance/13509869/metagenomi-nasdaqmgx-upgraded-to-sell-at-wall-street-zen.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-21T06:06:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rep. Dan Newhouse Buys Shares of Morgan Stanley (NYSE:MS)",
+      "url": "https://www.marketbeat.com/instant-alerts/rep-dan-newhouse-buys-shares-of-morgan-stanley-nysems-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T06:02:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Need help with my credit score and if I can apply",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v29c7i/need_help_with_my_credit_score_and_if_i_can_apply/",
+      "source": "reddit.com",
+      "published": "2026-07-21T05:34:21+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts Brent Oil Could Exceed $120 Amid Ongoing Tensions",
+      "url": "https://www.gurufocus.com/news/8968080/goldman-sachs-predicts-brent-oil-could-exceed-120-amid-ongoing-tensions",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T05:30:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "KOSPI rebounds as chipmakers recover; Morgan Stanley says correction nears bottom",
+      "url": "https://www.investing.com/news/stock-market-news/kospi-rebounds-as-chipmakers-recover-morgan-stanley-says-correction-nears-bottom-4801869",
+      "source": "investing.com",
+      "published": "2026-07-21T05:29:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Global threats underestimated by investors, warns JPMorgan CEO Jamie Dimon",
       "url": "https://seekingalpha.com/news/4615652-global-threats-underestimated-by-investors-warns-jpmorgan-ceo-jamie-dimon",
@@ -35,232 +281,6 @@
       "published": "2026-07-21T04:25:00+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Outgoing International Bank Wire Question?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v27taf/outgoing_international_bank_wire_question/",
-      "source": "reddit.com",
-      "published": "2026-07-21T04:14:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "got a ssn alert from my bank - I was notified by capital one that a new name was associated ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v27rn7/got_a_ssn_alert_from_my_bank/",
-      "source": "reddit.com",
-      "published": "2026-07-21T04:12:40+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPM CEO Jamie Dimon Warns of Underestimated Global Economic Risks",
-      "url": "https://www.gurufocus.com/news/8968059/jpm-ceo-jamie-dimon-warns-of-underestimated-global-economic-risks",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T04:10:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Gary Stevenson may have been Citi’s most profitable trader… in developed market foreign exchange",
-      "url": "https://www.ft.com/content/5c48b680-daf6-40d2-9522-ad997eb07b63",
-      "source": "ft.com",
-      "published": "2026-07-21T04:00:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts Potential Surge in Oil Prices Amid Middle East Tensions",
-      "url": "https://www.gurufocus.com/news/8968056/goldman-sachs-predicts-potential-surge-in-oil-prices-amid-middle-east-tensions",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T03:52:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman warns Brent oil may exceed $120 if Hormuz disruptions continue",
-      "url": "https://cryptobriefing.com/goldman-warns-brent-oil-may-exceed-120-if-hormuz-disruptions-continue/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-21T03:45:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Says Brent Could Top $120 If Hormuz Disruptions Persist",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
-      "source": "bloomberg.com",
-      "published": "2026-07-21T03:22:23+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Tokenizes QQQ ETF at DTCC",
-      "url": "https://www.reddit.com/r/wallstreetbets/comments/1v25jpz/jp_morgan_tokenizes_qqq_etf_at_dtcc/",
-      "source": "reddit.com",
-      "published": "2026-07-21T02:26:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPM: Jamie Dimon Warns Investors of Underestimated Economic Risks",
-      "url": "https://www.gurufocus.com/news/8967997/jpm-jamie-dimon-warns-investors-of-underestimated-economic-risks",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T01:10:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "$120 crude oil scare is back & India has plenty at stake",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/brent-crude-oil-price-outlook-goldman-sach-predicts-oil-at-120-due-to-us-iran-conflict-hormuz-crisis-and-what-this-means-for-indian-economy/articleshow/132528051.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-20T23:16:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase boss warns Andy Burnham of ‘consequences’ if he taxes banks",
-      "url": "https://www.ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-07-20T23:01:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW1RTzM1TlBIamVkQ2ZOakRUMWh1dU5BdjRyNFNRRURZdFlpd0Rzakx5SXZZOWF5Z1RVX0g0QU1DWnNyNUlyWnVIVzBKaU1CWGtQMnFpcjhtQVRwbC1MeE9DdFBTa0pMMFNjNTBQQk9mVERGdUI3WmtuWjV2b3l5N1owa2c0Z9IBiwFBVV95cUxPeV9ndXc0dXdGQ2ExV2hZUUxOc2UzYmNpblVGbEx0WDRmWmxkY3FqRHhvUTJkWGdzNjN5Z1JuaS1TbG5rdjZ2YVFMMndqNTRFYUk3bnNoWHF2SnV5SUo2QjE0eVlUMkFiMUtYa0o5dWMwOTEtLTlrQndTa09nZ1RkX3VpaXVOV25KTVQ0?oc=5",
-      "source": "google.com",
-      "published": "2026-07-20T23:01:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA Agrees To Pay $4.3M To Settle Unused Vacation Pay Suit",
-      "url": "https://www.law360.com/classaction/articles/2503591?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-07-20T22:48:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Paytm shares gain 3% after Q1 results. What are Goldman Sachs, Citi and CLSA saying?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-gain-3-after-q1-results-what-are-goldman-sachs-citi-and-clsa-saying/articleshow/132527646.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-20T22:41:24+00:00",
-      "tickers": [
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Here are the major earnings before the open Tuesday | $SCHW $GM $NVS $DHR $HAL",
-      "url": "https://seekingalpha.com/news/4615419-here-are-the-major-earnings-before-the-open-tuesday",
-      "source": "seekingalpha.com",
-      "published": "2026-07-20T22:00:42+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Capital One defeats lawsuit alleging excessive credit-card rates",
-      "url": "https://www.investing.com/news/stock-market-news/capital-one-defeats-lawsuit-alleging-excessive-credit-card-rates-4801756",
-      "source": "investing.com",
-      "published": "2026-07-20T21:49:25+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "PNC names Bobby Chesney to lead western Carolinas region",
-      "url": "https://www.charlotteobserver.com/living/article316551353.html#new_tab",
-      "source": "charlotteobserver.com",
-      "published": "2026-07-20T21:47:25+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Capital One Financial Q2 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4615378-capital-one-financial-q2-2026-earnings-preview",
-      "source": "seekingalpha.com",
-      "published": "2026-07-20T21:35:59+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America doubles down on Microsoft stock ahead of earnings",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-microsoft-stock-ahead-of-earnings?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-20T21:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035579/0001839882-26-035579-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T21:28:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020625/0001918704-26-020625-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T21:26:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526309099/0001193125-26-309099-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T21:26:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026079707/0001213900-26-079707-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T21:22:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Price Down 1.4% - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-stock-price-down-14-whats-next-2026-07-20/",
-      "source": "marketbeat.com",
-      "published": "2026-07-20T21:21:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
