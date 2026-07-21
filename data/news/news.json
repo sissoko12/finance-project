@@ -1,282 +1,125 @@
 {
-  "last_updated": "2026-07-21T12:57:17.727654+00:00",
+  "last_updated": "2026-07-21T15:12:26.564736+00:00",
   "headlines": [
     {
-      "title": "Lumen Technologies To Attend Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20260721968670/en/Lumen-Technologies-To-Attend-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-07-21T12:30:00+00:00",
+      "title": "IRS Chief Denies Report He Spied on Colleagues While at JPMorgan",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/irs-chief-denies-report-he-spied-on-colleagues-while-at-jpmorgan",
+      "source": "bloomberg.com",
+      "published": "2026-07-21T14:47:40+00:00",
       "tickers": [
-        "C",
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "BofA Report: Financial Wellbeing of Employees at U.S. Companies Hits Four-Year High, Even as Cost-of-Living Pressures Persist",
-      "url": "https://www.prnewswire.com/news-releases/bofa-report-financial-wellbeing-of-employees-at-us-companies-hits-four-year-high-even-as-cost-of-living-pressures-persist-302829819.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-21T12:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for WEX (NYSE:WEX) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-wex-nysewex-stock-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T12:18:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Which Is the Better Healthcare ETF, First Trust's Biotech-Focused FBT or State Street's Broader XLV?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/21/which-is-the-better-healthcare-etf-first-trust-s-biotech-focused-fbt-or-state-street-s-broader-xlv/",
-      "source": "fool.com",
-      "published": "2026-07-21T12:17:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020633/0001918704-26-020633-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526309766/0001193125-26-309766-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-21T12:15:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs hikes European gas price forecast on Hormuz disruption",
-      "url": "https://www.investing.com/news/commodities-news/goldman-sachs-hikes-european-gas-price-forecast-on-hormuz-disruption-4803129",
-      "source": "investing.com",
-      "published": "2026-07-21T12:14:30+00:00",
+      "published": "2026-07-21T14:32:48+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Salesforce's (CRM) Equal Weight Rating Reiterated at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/salesforces-crm-equal-weight-rating-reiterated-at-morgan-stanley-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T12:06:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (NYSE:MS) Shares Acquired Rep. Dan Newhouse",
-      "url": "https://www.tickerreport.com/banking-finance/13510466/morgan-stanley-nysems-shares-acquired-rep-dan-newhouse.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-21T12:02:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon Said He Wouldn't Buy U.S. Equities Or Long-Term Treasuries Now. Wars And High Spending Are To Blame",
-      "url": "https://www.ibtimes.com/jpmorgan-ceo-jamie-dimon-said-he-wouldnt-buy-us-equities-long-term-treasuries-now-wars-high-3805532",
-      "source": "ibtimes.com",
-      "published": "2026-07-21T12:02:04+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020688/0001918704-26-020688-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-21T14:27:59+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Small Business Digital Banking Advances with Payment Innovations and Upgraded Invoicing and Receivables Capabilities",
-      "url": "https://www.prnewswire.com/news-releases/small-business-digital-banking-advances-with-payment-innovations-and-upgraded-invoicing-and-receivables-capabilities-302829998.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-21T12:01:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi’s Chew says U.S. stock positioning unwind may not be over",
-      "url": "https://www.investing.com/news/stock-market-news/citis-chew-says-us-stock-positioning-unwind-may-not-be-over-4802988",
-      "source": "investing.com",
-      "published": "2026-07-21T11:55:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Fortinet gets rating upgrade, while Rapid7 cut at Morgan Stanley",
-      "url": "https://seekingalpha.com/news/4615798-fortinet-gets-rating-upgrade-while-rapid7-cut-at-morgan-stanley",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T11:48:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Micron, Keurig Dr. Pepper added to BofA's US 1 List",
-      "url": "https://seekingalpha.com/news/4615829-micron-keurig-dr-pepper-added-to-bofas-us-1-list",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T11:42:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Adobe, Datadog, Five Below, Fortinet, Gilead Sciences, Goldman Sachs, Microsoft, Salesforce, and More",
-      "url": "https://247wallst.com/investing/2026/07/21/here-are-tuesdays-top-wall-street-analyst-research-calls-adobe-datadog-five-below-fortinet-gilead-sciences-goldman-sachs-microsoft-salesforce-and-more/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-07-21T11:41:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "HSBC (LON:HSBA) Hits New 1-Year High Following Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13510450/hsbc-lonhsba-hits-new-1-year-high-following-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-21T11:40:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "**Founders AM: Trading Desk Insight",
-      "url": "https://vblgoldfix.substack.com/p/founders-am-trading-desk-insight",
-      "source": "substack.com",
-      "published": "2026-07-21T11:36:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon shared the one characteristic he says sinks CEOs",
-      "url": "https://www.businessinsider.com/jpmorgan-jamie-dimon-insecurity-sinks-ceo-podcast-2026-7",
+      "title": "JPMorgan chief Jamie Dimon says risks of a shock are building for stocks and bonds",
+      "url": "https://www.businessinsider.com/jamie-dimon-stock-market-shock-bond-vigilantes-investing-jpmorgan-ceo-2026-7",
       "source": "businessinsider.com",
-      "published": "2026-07-21T11:36:15+00:00",
+      "published": "2026-07-21T14:24:04+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Salesforce slides on back of Morgan Stanley downgrade",
-      "url": "https://seekingalpha.com/news/4615812-salesforce-slides-on-back-of-morgan-stanley-downgrade",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T11:34:59+00:00",
+      "title": "SanDisk Rises 8%, Western Digital Jumps 9%, Micron Adds 7% as Memory Rebound Accelerates",
+      "url": "https://247wallst.com/investing/2026/07/21/sandisk-rises-8-western-digital-jumps-9-micron-adds-7-as-memory-rebound-accelerates/",
+      "source": "247wallst.com",
+      "published": "2026-07-21T14:20:32+00:00",
       "tickers": [
-        "MS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Two Metropoint buildings head to foreclosure auction after Wells Fargo departure",
-      "url": "https://www.bizjournals.com/twincities/news/2026/07/21/st-louis-park-office-building-foreclosures.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-07-21T11:34:05+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226035632/0001839882-26-035632-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-21T14:13:46+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Jamie Dimon warned investors are missing market risks — and won't buy stocks or bonds",
-      "url": "https://qz.com/jamie-dimon-market-risks-stocks-bonds-072126",
-      "source": "qz.com",
-      "published": "2026-07-21T11:25:21+00:00",
+      "title": "There are Recent Customer Complaints with Broker James Barrett in Firm J.P. Morgan Securities LLC",
+      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-james-barrett-in-firm-j-p-morgan-securities-llc/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-21T14:13:36+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Apollo Global Management (NYSE:APO) Upgraded by HSBC to “Strong-Buy” Rating",
-      "url": "https://www.tickerreport.com/banking-finance/13510405/apollo-global-management-nyseapo-upgraded-by-hsbc-to-strong-buy-rating.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-21T11:06:58+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020676/0001918704-26-020676-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-21T14:12:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "There are Recent Customer Complaints with Broker Jeff Kramer in Firm Morgan Stanley",
+      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-jeff-kramer-in-firm-morgan-stanley-2/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-21T14:12:25+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Citizens Financial Group (NYSE:CFG) Upgraded at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/citizens-financial-group-nysecfg-upgraded-at-citigroup-2026-07-21/",
+      "title": "Ligand Pharmaceuticals (NASDAQ:LGND) Now Covered by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/ligand-pharmaceuticals-nasdaqlgnd-now-covered-by-citigroup-2026-07-21/",
       "source": "marketbeat.com",
-      "published": "2026-07-21T11:06:35+00:00",
+      "published": "2026-07-21T14:06:25+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Aercap (NYSE:AER) Upgraded to Strong-Buy at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/aercap-nyseaer-upgraded-to-strong-buy-at-citigroup-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T11:06:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America leads Oppenheimer's latest buy additions with near-perfect Quant rating",
-      "url": "https://seekingalpha.com/news/4615794-bank-of-america-leads-oppenheimers-latest-buy-additions-with-near-perfect-quant-rating",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T10:58:35+00:00",
+      "title": "There are Recent Customer Complaints with Broker Carrie Lawlor in Firm Merrill Lynch, Pierce, Fenner & Smith Incorporated",
+      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-carrie-lawlor-in-firm-merrill-lynch-pierce-fenner-smith-incorporated/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-21T14:06:05+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
-      "url": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-21T10:58:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees security spending boost from AI by 2027",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-security-spending-boost-from-ai-by-2027-93CH-4802702",
-      "source": "investing.com",
-      "published": "2026-07-21T10:57:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America adds Micron to US 1 List, betting big on AI-driven memory chip demand",
-      "url": "https://cryptobriefing.com/bank-of-america-micron-us-1-list/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-21T10:56:07+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020666/0001918704-26-020666-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-21T13:56:13+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Adobe, Salesforce and Intuit fall as Morgan Stanley begins cautious coverage",
-      "url": "https://www.investing.com/news/stock-market-news/adobe-salesforce-and-intuit-fall-as-morgan-stanley-begins-cautious-coverage-4802671",
-      "source": "investing.com",
-      "published": "2026-07-21T10:50:23+00:00",
+      "title": "Why are Adobe and Workday stocks falling today?",
+      "url": "https://invezz.com/news/2026/07/21/why-are-adobe-and-workday-stocks-falling-today/",
+      "source": "invezz.com",
+      "published": "2026-07-21T13:56:05+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "HORAN Wealth LLC Acquires 36,904 Shares of U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-horan-wealth-llc-acquires-36904-shares-of-us-bancorp-usb-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T10:40:57+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "BofA turns neutral on GBP after rally toward target",
-      "url": "https://www.investing.com/news/forex-news/bofa-turns-neutral-on-gbp-after-rally-toward-target-93CH-4802608",
-      "source": "investing.com",
-      "published": "2026-07-21T10:39:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
