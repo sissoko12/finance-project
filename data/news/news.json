@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-07-21T03:28:20.851321+00:00",
+  "last_updated": "2026-07-21T06:13:47.009299+00:00",
   "headlines": [
+    {
+      "title": "Global threats underestimated by investors, warns JPMorgan CEO Jamie Dimon",
+      "url": "https://seekingalpha.com/news/4615652-global-threats-underestimated-by-investors-warns-jpmorgan-ceo-jamie-dimon",
+      "source": "seekingalpha.com",
+      "published": "2026-07-21T05:09:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Emirates NBD Goes Live on Partior for Real-Time Blockchain USD Payments",
+      "url": "https://thefintechtimes.com/emirates-nbd-goes-live-on-partior-for-real-time-blockchain-usd-payments/",
+      "source": "thefintechtimes.com",
+      "published": "2026-07-21T05:00:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz bottleneck could push Brent oil past $120, Goldman Sachs warns",
+      "url": "https://seekingalpha.com/news/4615654-strait-of-hormuz-bottleneck-could-push-brent-oil-past-120-goldman-sachs-warns",
+      "source": "seekingalpha.com",
+      "published": "2026-07-21T04:31:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Defence Stock to Buy Now for an Upside of 43%, Recommended by Goldman Sachs",
+      "url": "https://tradebrains.in/defence-stock-to-buy-now-for-an-upside-of-43-recommended-by-goldman-sachs/",
+      "source": "tradebrains.in",
+      "published": "2026-07-21T04:25:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Outgoing International Bank Wire Question?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v27taf/outgoing_international_bank_wire_question/",
+      "source": "reddit.com",
+      "published": "2026-07-21T04:14:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "got a ssn alert from my bank - I was notified by capital one that a new name was associated ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v27rn7/got_a_ssn_alert_from_my_bank/",
+      "source": "reddit.com",
+      "published": "2026-07-21T04:12:40+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JPM CEO Jamie Dimon Warns of Underestimated Global Economic Risks",
+      "url": "https://www.gurufocus.com/news/8968059/jpm-ceo-jamie-dimon-warns-of-underestimated-global-economic-risks",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T04:10:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Gary Stevenson may have been Citi’s most profitable trader… in developed market foreign exchange",
+      "url": "https://www.ft.com/content/5c48b680-daf6-40d2-9522-ad997eb07b63",
+      "source": "ft.com",
+      "published": "2026-07-21T04:00:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts Potential Surge in Oil Prices Amid Middle East Tensions",
+      "url": "https://www.gurufocus.com/news/8968056/goldman-sachs-predicts-potential-surge-in-oil-prices-amid-middle-east-tensions",
+      "source": "gurufocus.com",
+      "published": "2026-07-21T03:52:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman warns Brent oil may exceed $120 if Hormuz disruptions continue",
+      "url": "https://cryptobriefing.com/goldman-warns-brent-oil-may-exceed-120-if-hormuz-disruptions-continue/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-21T03:45:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Says Brent Could Top $120 If Hormuz Disruptions Persist",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
+      "source": "bloomberg.com",
+      "published": "2026-07-21T03:22:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "J.P. Morgan Tokenizes QQQ ETF at DTCC",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1v25jpz/jp_morgan_tokenizes_qqq_etf_at_dtcc/",
@@ -17,6 +118,15 @@
       "published": "2026-07-21T01:10:41+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "$120 crude oil scare is back & India has plenty at stake",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/brent-crude-oil-price-outlook-goldman-sach-predicts-oil-at-120-due-to-us-iran-conflict-hormuz-crisis-and-what-this-means-for-indian-economy/articleshow/132528051.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-20T23:16:49+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -39,12 +149,22 @@
     },
     {
       "title": "BofA Agrees To Pay $4.3M To Settle Unused Vacation Pay Suit",
-      "url": "https://www.law360.com/compliance/articles/2503591?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "url": "https://www.law360.com/classaction/articles/2503591?utm_source=rss&utm_medium=rss&utm_campaign=section",
       "source": "law360.com",
       "published": "2026-07-20T22:48:28+00:00",
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Paytm shares gain 3% after Q1 results. What are Goldman Sachs, Citi and CLSA saying?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-gain-3-after-q1-results-what-are-goldman-sachs-citi-and-clsa-saying/articleshow/132527646.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-20T22:41:24+00:00",
+      "tickers": [
+        "C",
+        "GS"
       ]
     },
     {
@@ -141,53 +261,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "World Cup hands US economy $20B boost — with host cities like Kansas City, Philly cashing in big, BofA says",
-      "url": "https://nypost.com/2026/07/20/business/world-cup-hands-us-economy-20b-boost-with-host-cities-like-kansas-city-philly-cashing-in-big-bofa-says/",
-      "source": "nypost.com",
-      "published": "2026-07-20T21:11:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Airport Passenger Tries To Fly With $53,000 In Cash—U.S. Government Takes It All [Roundup]",
-      "url": "https://viewfromthewing.com/airport-passenger-tries-to-fly-with-53000-in-cash-u-s-government-takes-it-all-roundup/",
-      "source": "viewfromthewing.com",
-      "published": "2026-07-20T21:04:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000357/0000070858-26-000357-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T21:03:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley files for low-fee Solana ETF as SBI launches tokenized fund in Japan",
-      "url": "https://cryptobriefing.com/morgan-stanley-files-for-low-fee-solana-etf-as-sbi-launches-tokenized-fund-in/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-20T21:03:06+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "US BANCORP DE: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/36104/000119312526309036/0001193125-26-309036-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-20T21:01:34+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
