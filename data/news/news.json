@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-07-22T21:26:15.623143+00:00",
+  "last_updated": "2026-07-22T22:35:32.066779+00:00",
   "headlines": [
+    {
+      "title": "BOA readies Neds Creek copper drilling",
+      "url": "https://mining.com.au/boa-readies-neds-creek-copper-drilling/",
+      "source": "mining.com.au",
+      "published": "2026-07-22T21:26:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "US BANCORP DE: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006706/0001225208-26-006706-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T21:23:11+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1% Higher - Still a Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-1-higher-still-a-buy-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T21:20:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SoftBank's $5.4 Billion Robotics Bet Secures $1.75 Billion Loan",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbanks-5-4-billion-robotics-210713807.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-22T21:07:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011018/0000950103-26-011018-index.htm",
@@ -57,8 +94,8 @@
     },
     {
       "title": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
-      "url": "https://www.gurufocus.com/news/8972055/nvidia-stock-rises-as-bofa-sees-170-billion-ai-cpu-market-by-2030",
-      "source": "gurufocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-bofa-sees-195532209.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-07-22T19:55:32+00:00",
       "tickers": [
         "BAC",
@@ -72,6 +109,15 @@
       "published": "2026-07-22T19:39:21+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-193510224.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-22T19:35:10+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -113,30 +159,13 @@
       ]
     },
     {
-      "title": "Jamie Dimon's JPMorgan Posted a Record $21.2 Billion Quarterly Profit, Up 41%",
-      "url": "https://www.fool.com/investing/2026/07/22/jamie-dimon-jpmorgan-record-billion-profit/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-22T19:10:00+00:00",
+      "title": "Bank of America doubles down on Micron stock after AI bombshell",
+      "url": "https://www.thestreet.com/investing/bank-of-america-micron-stock-ai-outlook?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-22T19:13:00+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "VLO Maintained by Goldman Sachs -- Price Target Raised to $357",
-      "url": "https://www.gurufocus.com/news/8972347/vlo-maintained-by-goldman-sachs-price-target-raised-to-357",
-      "source": "gurufocus.com",
-      "published": "2026-07-22T19:04:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "PSX Maintained by Goldman Sachs -- Price Target Raised to $235",
-      "url": "https://www.gurufocus.com/news/8972345/psx-maintained-by-goldman-sachs-price-target-raised-to-235",
-      "source": "gurufocus.com",
-      "published": "2026-07-22T19:03:35+00:00",
-      "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     }
   ]
