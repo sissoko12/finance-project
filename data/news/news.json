@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-07-21T23:03:29.751468+00:00",
+  "last_updated": "2026-07-22T00:57:37.745093+00:00",
   "headlines": [
+    {
+      "title": "Goldman warns Brent crude could hit $120 if Hormuz disruptions persist",
+      "url": "https://cryptobriefing.com/goldman-warns-brent-crude-could-hit-120-if-hormuz-disruptions-persist/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-22T00:11:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Globe Life (GL) – Investment Analysts’ Recent Ratings Updates",
+      "url": "https://www.tickerreport.com/banking-finance/13510698/globe-life-gl-investment-analysts-recent-ratings-updates.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-21T23:56:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One earnings were good enough but didn't answer the big question hanging over the stock",
+      "url": "https://www.cnbc.com/2026/07/21/capital-one-earnings-were-good-enough-but-didnt-answer-our-biggest-question.html",
+      "source": "cnbc.com",
+      "published": "2026-07-21T23:31:47+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial Q2 Earnings Call Highlights",
+      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-q2-earnings-call-highlights-2026-07-21/",
+      "source": "marketbeat.com",
+      "published": "2026-07-21T23:02:08+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Credit card and HYSA recommendations",
       "url": "https://www.reddit.com/r/personalfinance/comments/1v2xar1/credit_card_and_hysa_recommendations/",
@@ -19,6 +57,15 @@
       "tickers": [
         "C",
         "SCHW"
+      ]
+    },
+    {
+      "title": "Jamie Dimon's Latest Warning Sends Shockwaves Through Wall Street. History Is Very Clear About What Happens Next.",
+      "url": "https://www.fool.com/investing/2026/07/21/jamie-dimons-latest-warning-sends-shockwaves-throu/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-21T22:15:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -97,19 +144,37 @@
       ]
     },
     {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035813/0001839882-26-035813-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-21T21:21:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "OpenAI appoints two new members to board of directors - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWdnOTVCTzNyZWFlNXhNNlozX0JjcVhQVmFMekdxNlgtbnV1c0hDRWo4QXBKMFhTclAwNFM5YUgwVFZLRndFNVZCdDdVVzRqUmtsX1FxanR3MFdtS2NnRGNWS0I5bzJudjduU25ZXzFBcE1MTHkzTjZ1STNTcEh2MW40ZE9NYmdKVjJmLW5JMWZfNHYw0gGaAUFVX3lxTFAwZ0EwWFhSNnBLUm8zZ2FFazdpM21UdnRQV0k2WFgxb3ZIZDVmQkFlNnZBRzFldVprXzlDSWdLcXhMSklqU3kwcmxrZkR2aEdKQmpRZ1ZXX1dUUVI0OXdRZ0NWYV9vVmRVejNPLWVNQUlqamVXOGU4ZlJLUGY3WEZLWWRzdk11S1pDMk9vQ0JsVjQ5MnY0TEk0bUE?oc=5",
+      "source": "google.com",
+      "published": "2026-07-21T21:17:40+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035812/0001839882-26-035812-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-21T21:14:19+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010948/0000950103-26-010948-index.htm",
       "source": "sec.gov",
       "published": "2026-07-21T21:13:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010945/0000950103-26-010945-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:10:42+00:00",
       "tickers": [
         "C"
       ]
