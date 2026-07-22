@@ -1,6 +1,240 @@
 {
-  "last_updated": "2026-07-22T00:57:37.745093+00:00",
+  "last_updated": "2026-07-22T04:25:47.464453+00:00",
   "headlines": [
+    {
+      "title": "Capital One expects full $2.5B Discover synergies by 2H 2027 while targeting full front-book migration by end of Q3",
+      "url": "https://seekingalpha.com/news/4616279-capital-one-expects-full-2_5b-discover-synergies-by-2h-2027-while-targeting-full-front-book",
+      "source": "seekingalpha.com",
+      "published": "2026-07-22T03:44:41+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation (COF) Q2 2026 Earnings Call Transcript | $COF",
+      "url": "https://seekingalpha.com/article/4923982-capital-one-financial-corporation-cof-q2-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-07-22T03:43:56+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "South Korean stocks: KOSPI seen hitting 10,000 by year-end",
+      "url": "https://invezz.com/news/2026/07/22/south-korean-stocks-kospi-seen-hitting-10000-by-year-end/",
+      "source": "invezz.com",
+      "published": "2026-07-22T03:13:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Q2 2026 Capital One Financial Corp Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/8970610/q2-2026-capital-one-financial-corp-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T02:30:03+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "NIO: Morgan Stanley Sees Strong Q2 Results Ahead for CATL",
+      "url": "https://www.gurufocus.com/news/8970603/nio-morgan-stanley-sees-strong-q2-results-ahead-for-catl",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T02:30:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AMD stock gets a new reason to watch from Bank of America",
+      "url": "https://www.thestreet.com/investing/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-22T02:17:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Equips Customer Service Reps With Gen AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-equips-customer-service-reps-with-gen-ai/",
+      "source": "pymnts.com",
+      "published": "2026-07-22T02:15:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Advice finding a Checkings/HYSA bank",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v32oxz/advice_finding_a_checkingshysa_bank/",
+      "source": "reddit.com",
+      "published": "2026-07-22T02:11:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Stake in Chipotle Mexican Grill Inc.",
+      "url": "https://www.gurufocus.com/news/8970592/jpmorgan-chase-co-increases-stake-in-chipotle-mexican-grill-inc",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:57:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Acquires Additional Shares in Kulicke & Soffa Industries Inc.",
+      "url": "https://www.gurufocus.com/news/8970591/jpmorgan-chase-co-acquires-additional-shares-in-kulicke-soffa-industries-inc",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:57:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Stake in MKS Inc. with Significant Stock Acquisition",
+      "url": "https://www.gurufocus.com/news/8970588/jpmorgan-chase-co-increases-stake-in-mks-inc-with-significant-stock-acquisition",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:56:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Expands Stake in Ecolab Inc.",
+      "url": "https://www.gurufocus.com/news/8970583/jpmorgan-chase-co-expands-stake-in-ecolab-inc",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:54:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Stake in LB Pharmaceuticals Inc.",
+      "url": "https://www.gurufocus.com/news/8970582/jpmorgan-chase-co-increases-stake-in-lb-pharmaceuticals-inc",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:54:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Expands Holdings in COPT Defense Properties",
+      "url": "https://www.gurufocus.com/news/8970581/jpmorgan-chase-co-expands-holdings-in-copt-defense-properties",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:53:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Stake in Aon PLC with Significant Stock Acquisition",
+      "url": "https://www.gurufocus.com/news/8970580/jpmorgan-chase-co-increases-stake-in-aon-plc-with-significant-stock-acquisition",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:53:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Are You An Investor Who Suffered Portfolio Losses While Working With Morgan Stanley Broker Daniel Becraft?",
+      "url": "https://www.investorlawyers.com/blog/options-trading-strategy-lawyers/",
+      "source": "investorlawyers.com",
+      "published": "2026-07-22T01:52:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Acquires Significant Stake in Allegro Microsystems Inc.",
+      "url": "https://www.gurufocus.com/news/8970574/jpmorgan-chase-co-acquires-significant-stake-in-allegro-microsystems-inc",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:50:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Increases Stake in uniQure NV",
+      "url": "https://www.gurufocus.com/news/8970573/jpmorgan-chase-co-increases-stake-in-uniqure-nv",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:50:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Acquires Significant Stake in Vicor Corp",
+      "url": "https://www.gurufocus.com/news/8970565/jpmorgan-chase-co-acquires-significant-stake-in-vicor-corp",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:48:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Expands Holdings in Affirm Holdings Inc.",
+      "url": "https://www.gurufocus.com/news/8970564/jpmorgan-chase-co-expands-holdings-in-affirm-holdings-inc",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:47:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Are You An Investor Who Suffered Losses in a Leveraged or Concentrated Trading Strategy?",
+      "url": "https://www.investorlawyers.com/blog/finra-lawyers-7-2026/",
+      "source": "investorlawyers.com",
+      "published": "2026-07-22T01:47:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Mitsubishi UFJ Financial Group Inc. Expands Stake in Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/8970527/mitsubishi-ufj-financial-group-inc-expands-stake-in-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T01:31:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation 2026 Q2 - Results - Earnings Call Presentation | $COF",
+      "url": "https://seekingalpha.com/article/4923995-capital-one-financial-corporation-2026-q2-results-earnings-call-presentation",
+      "source": "seekingalpha.com",
+      "published": "2026-07-22T01:30:44+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Tests Moving Credit Cards to Discover Network",
+      "url": "https://www.pymnts.com/earnings/2026/capital-one-tests-moving-credit-cards-to-discover-network/",
+      "source": "pymnts.com",
+      "published": "2026-07-22T01:22:27+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One highlights Discover, Brex integration",
+      "url": "https://www.americanbanker.com/news/capital-one-highlights-discover-brex-integration",
+      "source": "americanbanker.com",
+      "published": "2026-07-22T00:34:26+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Goldman warns Brent crude could hit $120 if Hormuz disruptions persist",
       "url": "https://cryptobriefing.com/goldman-warns-brent-crude-could-hit-120-if-hormuz-disruptions-persist/",
@@ -17,6 +251,16 @@
       "published": "2026-07-21T23:56:44+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Gold Reclaims $4,000 as Wells Fargo and Schroders Map Out the Path Ahead",
+      "url": "https://nai500.com/blog/2026/07/gold-reclaims-4000-as-wells-fargo-and-schroders-map-out-the-path-ahead/",
+      "source": "nai500.com",
+      "published": "2026-07-21T23:53:31+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -37,146 +281,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Credit card and HYSA recommendations",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v2xar1/credit_card_and_hysa_recommendations/",
-      "source": "reddit.com",
-      "published": "2026-07-21T22:22:49+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Charles Schwab's Dip Doesn't Offer A Buying Opportunity | $SCHW",
-      "url": "https://seekingalpha.com/article/4923952-charles-schwabs-dip-doesnt-offer-a-buying-opportunity",
-      "source": "seekingalpha.com",
-      "published": "2026-07-21T22:22:10+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Jamie Dimon's Latest Warning Sends Shockwaves Through Wall Street. History Is Very Clear About What Happens Next.",
-      "url": "https://www.fool.com/investing/2026/07/21/jamie-dimons-latest-warning-sends-shockwaves-throu/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-21T22:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "A Look at Citigroup Inc (C) After 3.2% Gain -- GF Value $81.41 vs Price $132.84",
-      "url": "https://www.gurufocus.com/news/8970149/a-look-at-citigroup-inc-c-after-32-gain-gf-value-8141-vs-price-13284",
-      "source": "gurufocus.com",
-      "published": "2026-07-21T22:10:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Declares Common Stock Dividend",
-      "url": "http://www.businesswire.com/news/home/20260721420122/en/Citigroup-Declares-Common-Stock-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-07-21T21:32:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One topped earnings estimates as credit losses fell and Discover integration progressed",
-      "url": "https://qz.com/-capital-one-q2-2026-earnings-beat-credit-losses-072126",
-      "source": "qz.com",
-      "published": "2026-07-21T21:30:27+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080123/0001213900-26-080123-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:27:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526310582/0001193125-26-310582-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:27:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020845/0001918704-26-020845-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:26:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Trading Up 1.2% - Time to Buy?",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-up-12-time-to-buy-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T21:21:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.7% - Still a Buy?",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-up-17-still-a-buy-2026-07-21/",
-      "source": "marketbeat.com",
-      "published": "2026-07-21T21:21:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035813/0001839882-26-035813-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:21:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "OpenAI appoints two new members to board of directors - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWdnOTVCTzNyZWFlNXhNNlozX0JjcVhQVmFMekdxNlgtbnV1c0hDRWo4QXBKMFhTclAwNFM5YUgwVFZLRndFNVZCdDdVVzRqUmtsX1FxanR3MFdtS2NnRGNWS0I5bzJudjduU25ZXzFBcE1MTHkzTjZ1STNTcEh2MW40ZE9NYmdKVjJmLW5JMWZfNHYw0gGaAUFVX3lxTFAwZ0EwWFhSNnBLUm8zZ2FFazdpM21UdnRQV0k2WFgxb3ZIZDVmQkFlNnZBRzFldVprXzlDSWdLcXhMSklqU3kwcmxrZkR2aEdKQmpRZ1ZXX1dUUVI0OXdRZ0NWYV9vVmRVejNPLWVNQUlqamVXOGU4ZlJLUGY3WEZLWWRzdk11S1pDMk9vQ0JsVjQ5MnY0TEk0bUE?oc=5",
-      "source": "google.com",
-      "published": "2026-07-21T21:17:40+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035812/0001839882-26-035812-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:14:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326010948/0000950103-26-010948-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-21T21:13:09+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
