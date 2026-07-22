@@ -1,6 +1,223 @@
 {
-  "last_updated": "2026-07-22T16:25:45.438079+00:00",
+  "last_updated": "2026-07-22T17:50:29.989394+00:00",
   "headlines": [
+    {
+      "title": "3 Ways Card Issuers Are Looking Beyond Credit Scores",
+      "url": "https://www.pymnts.com/credit-cards/2026/3-ways-card-issuers-are-looking-beyond-credit-scores/",
+      "source": "pymnts.com",
+      "published": "2026-07-22T17:24:57+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial Target of Unusually High Options Trading (NYSE:COF)",
+      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-target-of-unusually-high-options-trading-nysecof-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T17:20:30+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank of America to expand Pittsburgh footprint with new Greensburg location",
+      "url": "https://www.bizjournals.com/pittsburgh/news/2026/07/22/bofa-new-branch-greensburg.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-22T17:14:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080306/0001213900-26-080306-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T17:02:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Hasbro (NASDAQ:HAS) Price Target to $111.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-hasbro-nasdaqhas-price-target-to-11100-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T17:00:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080302/0001213900-26-080302-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T16:55:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One settlement payout to customers ‘substantially delayed’",
+      "url": "https://www.oregonlive.com/nation/2026/07/capital-one-settlement-payout-to-customers-substantially-delayed.html",
+      "source": "oregonlive.com",
+      "published": "2026-07-22T16:45:10+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Access Investment Grade Corporate Bond ETF (NYSEARCA:GIGB) Hits New 52-Week Low – Here’s What Happened",
+      "url": "https://www.tickerreport.com/banking-finance/13511700/goldman-sachs-access-investment-grade-corporate-bond-etf-nysearcagigb-hits-new-52-week-low-heres-what-happened.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-22T16:41:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "OFG Bancorp (NYSE:OFG) Price Target Raised to $58.00 at Truist Financial",
+      "url": "https://www.tickerreport.com/banking-finance/13511693/ofg-bancorp-nyseofg-price-target-raised-to-58-00-at-truist-financial.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-22T16:36:55+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for TriNet Group (NYSE:TNET) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13511690/truist-financial-issues-positive-forecast-for-trinet-group-nysetnet-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-22T16:36:54+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Reiterates Buy Rating for Microsoft (NASDAQ:MSFT)",
+      "url": "https://www.tickerreport.com/banking-finance/13511692/truist-financial-reiterates-buy-rating-for-microsoft-nasdaqmsft.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-22T16:36:54+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Microsoft's (MSFT) \"Buy\" Rating Reiterated at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/microsofts-msft-buy-rating-reiterated-at-truist-financial-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T16:36:29+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Kforce (NASDAQ:KFRC) Price Target Raised to $60.00 at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/kforce-nasdaqkfrc-price-target-raised-to-6000-at-truist-financial-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T16:36:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "BofA Equities Traders Say Buy Momentum Stocks, Eyeing 5% Gain",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/bofa-equities-traders-say-buy-momentum-stocks-eyeing-5-gain",
+      "source": "bloomberg.com",
+      "published": "2026-07-22T16:20:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Crown’s (CCK) “Buy” Rating Reaffirmed at Truist Financial",
+      "url": "https://www.tickerreport.com/banking-finance/13511687/crowns-cck-buy-rating-reaffirmed-at-truist-financial.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-22T16:18:44+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Crown (NYSE:CCK) Receives \"Buy\" Rating from Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/crown-nysecck-receives-buy-rating-from-truist-financial-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T16:18:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for Genuine Parts (NYSE:GPC) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-genuine-parts-nysegpc-stock-price-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T16:18:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Promising Financial Stocks To Watch Now - July 22nd",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-financial-stocks-to-watch-now-july-22nd-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T16:06:27+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank Stocks To Consider - July 22nd",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-consider-july-22nd-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T16:06:25+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "UBS Sees This Metal Stock as a Top Midcap Pick; Can Capacity Expansion Fuel the Next Rally?",
+      "url": "https://tradebrains.in/ubs-sees-this-metal-stock-as-a-top-midcap-pick-can-capacity-expansion-fuel-the-next-rally/",
+      "source": "tradebrains.in",
+      "published": "2026-07-22T16:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "TRUIST FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/92230/000118200226000006/0001182002-26-000006-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T15:57:10+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for DiamondRock Hospitality (NYSE:DRH) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-diamondrock-hospitality-nysedrh-stock-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T15:54:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley's wealth unit pulls in new assets from SpaceX IPO - report",
       "url": "https://seekingalpha.com/news/4616689-morgan-stanleys-wealth-unit-pulls-in-new-assets-from-spacex-ipo-report",
@@ -8,6 +225,15 @@
       "published": "2026-07-22T15:49:29+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526311820/0001193125-26-311820-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T15:47:26+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -67,177 +293,6 @@
       "published": "2026-07-22T15:01:13+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Price Target Lowered to $400.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/alnylam-pharmaceuticals-nasdaqalny-price-target-lowered-to-40000-at-jpmorgan-chase-co-2026-07-22/",
-      "source": "marketbeat.com",
-      "published": "2026-07-22T15:00:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Truist hires BofA exec to lead wealth unit",
-      "url": "https://businessnc.com/truist-hires-bofa-exec-to-lead-wealth-unit/",
-      "source": "businessnc.com",
-      "published": "2026-07-22T14:59:18+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020890/0001918704-26-020890-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T14:56:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "These Times Are Really Good for Banks, Says Wells Fargo CEO Scharf",
-      "url": "https://www.youtube.com/watch?v=1In4jNRdbdU",
-      "source": "youtube.com",
-      "published": "2026-07-22T14:53:57+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sprouts Farmers Market (NASDAQ:SFM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/sprouts-farmers-market-nasdaqsfm-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-22/",
-      "source": "marketbeat.com",
-      "published": "2026-07-22T14:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "General Motors (NYSE:GM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/general-motors-nysegm-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-22/",
-      "source": "marketbeat.com",
-      "published": "2026-07-22T14:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Steel Dynamics (NASDAQ:STLD) Price Target Raised to $260.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/steel-dynamics-nasdaqstld-price-target-raised-to-26000-at-jpmorgan-chase-co-2026-07-22/",
-      "source": "marketbeat.com",
-      "published": "2026-07-22T14:42:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Valmont Industries (NYSE:VMI) Given New $620.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/valmont-industries-nysevmi-given-new-62000-price-target-at-jpmorgan-chase-co-2026-07-22/",
-      "source": "marketbeat.com",
-      "published": "2026-07-22T14:42:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000270/0000019617-26-000270-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T14:41:10+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA sees server CPU TAM hitting $170bn by 2030 as NVIDIA takes on AMD",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-server-cpu-tam-hitting-170bn-by-2030-as-nvidia-takes-on-amd-4806402",
-      "source": "investing.com",
-      "published": "2026-07-22T14:36:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs (GS) to Acquire AEGIS Hedging Solutions",
-      "url": "https://www.gurufocus.com/news/8971751/goldman-sachs-gs-to-acquire-aegis-hedging-solutions",
-      "source": "gurufocus.com",
-      "published": "2026-07-22T14:35:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo's Scharf on Economy, US Consumer, Earnings",
-      "url": "https://www.youtube.com/watch?v=vfvyX1tkaew",
-      "source": "youtube.com",
-      "published": "2026-07-22T14:32:32+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Florida Man Allegedly Drains $9,200 From Elderly Victim After Masquerading as Bank of America Fraud Investigator",
-      "url": "https://dailyhodl.com/2026/07/22/florida-man-allegedly-drains-9200-from-elderly-victim-after-masquerading-as-bank-of-america-fraud-investigator/",
-      "source": "dailyhodl.com",
-      "published": "2026-07-22T14:30:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "I went inside the hidden Cadillac Club at Citi Field. It's the most exclusive place to watch the Mets play.",
-      "url": "https://www.businessinsider.com/citi-field-cadillac-club-photos-food-perks-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-22T14:28:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bloomberg Talks: Charlie Scharf (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-talks-charlie-scharf-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-07-22T14:28:43+00:00",
-      "tickers": [
-        "WFC",
-        "C",
-        "BK"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035870/0001839882-26-035870-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T14:27:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020881/0001918704-26-020881-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T14:17:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Zambia’s World-Beating 36% Local Bond Rally to Extend After Polls, Citi Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/zambia-s-world-beating-36-local-bond-rally-to-extend-after-polls-citi-says",
-      "source": "bloomberg.com",
-      "published": "2026-07-22T14:11:09+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
