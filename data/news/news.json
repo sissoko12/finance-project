@@ -1,208 +1,241 @@
 {
-  "last_updated": "2026-07-22T14:36:01.943342+00:00",
+  "last_updated": "2026-07-22T16:25:45.438079+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020870/0001918704-26-020870-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T13:53:53+00:00",
+      "title": "Morgan Stanley's wealth unit pulls in new assets from SpaceX IPO - report",
+      "url": "https://seekingalpha.com/news/4616689-morgan-stanleys-wealth-unit-pulls-in-new-assets-from-spacex-ipo-report",
+      "source": "seekingalpha.com",
+      "published": "2026-07-22T15:49:29+00:00",
       "tickers": [
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080238/0001213900-26-080238-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T13:48:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020863/0001918704-26-020863-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T13:37:59+00:00",
+      "title": "Bank of America Says Data Quality Fuels AI Success",
+      "url": "https://www.pymnts.com/back-office/cfo/2026/bank-of-america-says-data-quality-fuels-ai-success/",
+      "source": "pymnts.com",
+      "published": "2026-07-22T15:43:42+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "PNC Financial Services Group Inc. Lowers Holdings in Procter & Gamble Company (The) $PG",
-      "url": "https://www.tickerreport.com/banking-finance/13511613/pnc-financial-services-group-inc-lowers-holdings-in-procter-gamble-company-the-pg.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-22T13:34:48+00:00",
+      "title": "Wells Fargo's Scharf says bank's revival was not a turnaround but a regulatory fix - BBG",
+      "url": "https://seekingalpha.com/news/4616677-wells-fargos-scharf-says-banks-revival-was-not-a-turnaround-but-a-regulatory-fix---bbg",
+      "source": "seekingalpha.com",
+      "published": "2026-07-22T15:18:19+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "PNC (PNC) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/22/pnc-pnc-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-22T13:10:48+00:00",
+      "title": "PEG Maintained by Wells Fargo -- Price Target Lowered to $91.00",
+      "url": "https://www.gurufocus.com/news/8971853/peg-maintained-by-wells-fargo-price-target-lowered-to-9100",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T15:04:31+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. (JPM) Stock lags the market Despite Earnings Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-stock-130640062.html",
-      "source": "yahoo.com",
-      "published": "2026-07-22T13:06:40+00:00",
+      "title": "NWE Upgraded by Wells Fargo -- Price Target Raised to $62",
+      "url": "https://www.gurufocus.com/news/8971851/nwe-upgraded-by-wells-fargo-price-target-raised-to-62",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T15:04:07+00:00",
       "tickers": [
-        "JPM"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035842/0001839882-26-035842-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T13:03:56+00:00",
+      "title": "IDA Upgraded by Wells Fargo -- Price Target Raised to $154",
+      "url": "https://www.gurufocus.com/news/8971849/ida-upgraded-by-wells-fargo-price-target-raised-to-154",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T15:03:41+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Micron (MU) Stock Retreats Ahead of Major Tech Earnings Reports",
+      "url": "https://blockonomi.com/micron-mu-stock-retreats-ahead-of-major-tech-earnings-reports/",
+      "source": "blockonomi.com",
+      "published": "2026-07-22T15:01:13+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "XLK ETF Is A Sharper Bet Than Its Name Suggests",
-      "url": "https://www.trefis.com/articles/608378/xlk-etf-is-a-sharper-bet-than-its-name-suggests/2026-07-22?.tsrc=rss",
-      "source": "trefis.com",
-      "published": "2026-07-22T12:55:58+00:00",
+      "title": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Price Target Lowered to $400.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/alnylam-pharmaceuticals-nasdaqalny-price-target-lowered-to-40000-at-jpmorgan-chase-co-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T15:00:23+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Citigroup hires five US tech investment banking executives from rivals",
-      "url": "https://www.investing.com/news/stock-market-news/citigroup-hires-five-us-tech-investment-banking-executives-from-rivals-4805956",
-      "source": "investing.com",
-      "published": "2026-07-22T12:55:22+00:00",
+      "title": "Truist hires BofA exec to lead wealth unit",
+      "url": "https://businessnc.com/truist-hires-bofa-exec-to-lead-wealth-unit/",
+      "source": "businessnc.com",
+      "published": "2026-07-22T14:59:18+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs is building a platform to give wealthy clients direct stakes in private companies",
-      "url": "https://qz.com/goldman-sachs-private-markets-platform-wealthy-clients-072226",
-      "source": "qz.com",
-      "published": "2026-07-22T12:50:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One Beats Estimates as Q2 Profit Reaches $3.02 Billion",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-beats-estimates-q2-124950414.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-22T12:49:50+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "OpenAI adds Nubank, BNY CEOs to board ahead of IPO",
-      "url": "https://cryptobriefing.com/openai-adds-nubank-bny-ceos-to-board-ahead-of-ipo/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-22T12:49:48+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Truist hires Shimna Sameer as head of Truist Wealth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-hires-shimna-sameer-head-124500777.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-22T12:45:00+00:00",
-      "tickers": [
+        "BAC",
         "C",
         "TFC"
       ]
     },
     {
-      "title": "JPMorgan Chase (JPM) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/22/jpmorgan-chase-jpm-q2-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "fool.com",
-      "published": "2026-07-22T12:44:58+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020890/0001918704-26-020890-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T14:56:54+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "3 energy storage-focused stocks upgraded at Citi",
-      "url": "https://www.investing.com/news/stock-market-news/3-energy-storagefocused-stocks-upgraded-at-citi-4805910",
+      "title": "These Times Are Really Good for Banks, Says Wells Fargo CEO Scharf",
+      "url": "https://www.youtube.com/watch?v=1In4jNRdbdU",
+      "source": "youtube.com",
+      "published": "2026-07-22T14:53:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sprouts Farmers Market (NASDAQ:SFM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/sprouts-farmers-market-nasdaqsfm-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T14:42:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "General Motors (NYSE:GM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/general-motors-nysegm-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T14:42:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Steel Dynamics (NASDAQ:STLD) Price Target Raised to $260.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/steel-dynamics-nasdaqstld-price-target-raised-to-26000-at-jpmorgan-chase-co-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T14:42:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Valmont Industries (NYSE:VMI) Given New $620.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/valmont-industries-nysevmi-given-new-62000-price-target-at-jpmorgan-chase-co-2026-07-22/",
+      "source": "marketbeat.com",
+      "published": "2026-07-22T14:42:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000270/0000019617-26-000270-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T14:41:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA sees server CPU TAM hitting $170bn by 2030 as NVIDIA takes on AMD",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-server-cpu-tam-hitting-170bn-by-2030-as-nvidia-takes-on-amd-4806402",
       "source": "investing.com",
-      "published": "2026-07-22T12:42:56+00:00",
+      "published": "2026-07-22T14:36:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) to Acquire AEGIS Hedging Solutions",
+      "url": "https://www.gurufocus.com/news/8971751/goldman-sachs-gs-to-acquire-aegis-hedging-solutions",
+      "source": "gurufocus.com",
+      "published": "2026-07-22T14:35:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo's Scharf on Economy, US Consumer, Earnings",
+      "url": "https://www.youtube.com/watch?v=vfvyX1tkaew",
+      "source": "youtube.com",
+      "published": "2026-07-22T14:32:32+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Florida Man Allegedly Drains $9,200 From Elderly Victim After Masquerading as Bank of America Fraud Investigator",
+      "url": "https://dailyhodl.com/2026/07/22/florida-man-allegedly-drains-9200-from-elderly-victim-after-masquerading-as-bank-of-america-fraud-investigator/",
+      "source": "dailyhodl.com",
+      "published": "2026-07-22T14:30:10+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "I went inside the hidden Cadillac Club at Citi Field. It's the most exclusive place to watch the Mets play.",
+      "url": "https://www.businessinsider.com/citi-field-cadillac-club-photos-food-perks-2026-7",
+      "source": "businessinsider.com",
+      "published": "2026-07-22T14:28:50+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "OUTFRONT Media's (OUT) Overweight Rating Reiterated at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/outfront-medias-out-overweight-rating-reiterated-at-jpmorgan-chase-co-2026-07-22/",
-      "source": "marketbeat.com",
-      "published": "2026-07-22T12:42:21+00:00",
+      "title": "Bloomberg Talks: Charlie Scharf (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-talks-charlie-scharf-podcast",
+      "source": "bloomberg.com",
+      "published": "2026-07-22T14:28:43+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "OpenAI is adding two banking CEOs to its board as it readies for an IPO",
-      "url": "https://qz.com/openai-board-david-velez-robin-vince-ipo-072226",
-      "source": "qz.com",
-      "published": "2026-07-22T12:40:37+00:00",
-      "tickers": [
+        "WFC",
+        "C",
         "BK"
       ]
     },
     {
-      "title": "Bank of America Says the Fed Should Raise Rates Now: 4 Dividend Inflation-Resistant Stocks",
-      "url": "https://247wallst.com/investing/2026/07/22/bank-of-america-says-the-fed-should-raise-rates-now-4-dividend-inflation-resistant-stocks/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-07-22T12:40:26+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035870/0001839882-26-035870-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T14:27:19+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Voya Balanced Large Cap Core Value SMA (Merrill) Q2 2026 Commentary",
-      "url": "https://seekingalpha.com/article/4924139-voya-balanced-large-cap-core-value-sma-merrill-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-07-22T12:40:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "HSBC upgrades Goldman Sachs, raises price target on Morgan Stanley",
-      "url": "https://seekingalpha.com/news/4616518-hsbc-upgrades-goldman-sachs-raises-price-target-on-morgan-stanley",
-      "source": "seekingalpha.com",
-      "published": "2026-07-22T12:34:55+00:00",
-      "tickers": [
-        "GS",
         "MS"
       ]
     },
     {
-      "title": "Research Analysts’ Recent Ratings Updates for Principal Financial Group (PFG)",
-      "url": "https://www.tickerreport.com/banking-finance/13511567/research-analysts-recent-ratings-updates-for-principal-financial-group-pfg.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-22T12:26:54+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020881/0001918704-26-020881-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T14:17:56+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Here’s why Citi cut Its rating on Wienerberger stock",
-      "url": "https://www.investing.com/news/analyst-ratings/heres-why-citi-cut-its-rating-on-wienerberger-stock-4805796",
-      "source": "investing.com",
-      "published": "2026-07-22T12:26:12+00:00",
+      "title": "Zambia’s World-Beating 36% Local Bond Rally to Extend After Polls, Citi Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/zambia-s-world-beating-36-local-bond-rally-to-extend-after-polls-citi-says",
+      "source": "bloomberg.com",
+      "published": "2026-07-22T14:11:09+00:00",
       "tickers": [
         "C"
       ]
