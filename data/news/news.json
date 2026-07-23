@@ -1,284 +1,114 @@
 {
-  "last_updated": "2026-07-23T19:36:30.429749+00:00",
+  "last_updated": "2026-07-23T21:12:59.356801+00:00",
   "headlines": [
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021079/0001918704-26-021079-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T19:11:48+00:00",
+      "title": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/goldman-offers-way-to-trade-ai-junk-bonds-250-million-at-a-time",
+      "source": "bloomberg.com",
+      "published": "2026-07-23T20:41:12+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011070/0000950103-26-011070-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T18:53:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GE Vernova (NYSE:GEV) Given New $1,330.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/ge-vernova-nysegev-given-new-133000-price-target-at-jpmorgan-chase-co-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Raises RPM International (NYSE:RPM) Price Target to $130.00",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-raises-rpm-international-nyserpm-price-target-to-13000-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases ServiceNow (NYSE:NOW) Price Target to $150.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-servicenow-nysenow-price-target-to-15000-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "United Rentals (NYSE:URI) Price Target Raised to $1,300.00",
-      "url": "https://www.marketbeat.com/instant-alerts/united-rentals-nyseuri-price-target-raised-to-130000-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Union Pacific (NYSE:UNP) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/union-pacific-nyseunp-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for CME Group (NASDAQ:CME) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-cme-group-nasdaqcme-stock-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CME Group (NASDAQ:CME) Given New $230.00 Price Target at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/cme-group-nasdaqcme-given-new-23000-price-target-at-bank-of-america-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CSX (NASDAQ:CSX) Price Target Raised to $58.00",
-      "url": "https://www.marketbeat.com/instant-alerts/csx-nasdaqcsx-price-target-raised-to-5800-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Incyte (NASDAQ:INCY) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-incyte-nasdaqincy-stock-price-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Alphabet (NASDAQ:GOOG) Price Target Lowered to $420.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/alphabet-nasdaqgoog-price-target-lowered-to-42000-at-jpmorgan-chase-co-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Keurig Dr Pepper (NASDAQ:KDP) Given New $38.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/keurig-dr-pepper-nasdaqkdp-given-new-3800-price-target-at-jpmorgan-chase-co-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Texas Instruments (NASDAQ:TXN) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-texas-instruments-nasdaqtxn-stock-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Raises BeOne Medicines (NASDAQ:ONC) Price Target to $425.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-raises-beone-medicines-nasdaqonc-price-target-to-42500-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:48:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One Debuts Open-Source Agentic Security Tool VulnHunter",
-      "url": "https://www.pymnts.com/cybersecurity/2026/capital-one-debuts-open-source-agentic-security-tool-vulnhunter/",
-      "source": "pymnts.com",
-      "published": "2026-07-23T18:39:26+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "New Orleans Will Pay Tourists $100 To Visit This Summer On 2 Night Stays [Roundup]",
-      "url": "https://viewfromthewing.com/new-orleans-will-pay-tourists-100-to-visit-this-summer-on-2-night-stays-roundup/",
-      "source": "viewfromthewing.com",
-      "published": "2026-07-23T18:34:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526313876/0001193125-26-313876-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T18:27:11+00:00",
-      "tickers": [
+        "JPM",
         "GS"
       ]
     },
     {
-      "title": "Evolent Health drops 16% after Citi downgrade on rising FY2027 Medicaid risk",
-      "url": "https://seekingalpha.com/news/4617611-evolent-health-drops-16-after-citi-downgrade-on-rising-fy2027-medicaid-risk",
-      "source": "seekingalpha.com",
-      "published": "2026-07-23T18:25:30+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011097/0000950103-26-011097-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:40:22+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Bank of America Forecasts Strong Price Appreciation for CSX (NASDAQ:CSX) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-forecasts-strong-price-appreciation-for-csx-nasdaqcsx-stock-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "RenaissanceRe (NYSE:RNR) Price Target Raised to $438.00",
-      "url": "https://www.marketbeat.com/instant-alerts/renaissancere-nysernr-price-target-raised-to-43800-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Werner Enterprises (NASDAQ:WERN) Given New $36.00 Price Target at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/werner-enterprises-nasdaqwern-given-new-3600-price-target-at-bank-of-america-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Crocs (NASDAQ:CROX) Price Target Raised to $160.00 at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/crocs-nasdaqcrox-price-target-raised-to-16000-at-bank-of-america-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:29+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Knight-Swift Transportation (NYSE:KNX) Price Target Raised to $98.00 at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/knight-swift-transportation-nyseknx-price-target-raised-to-9800-at-bank-of-america-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Arrowhead Pharmaceuticals (NASDAQ:ARWR) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-arrowhead-pharmaceuticals-nasdaqarwr-stock-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:26+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036130/0001839882-26-036130-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:33:11+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for GE Vernova (NYSE:GEV) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-ge-vernova-nysegev-stock-2026-07-23/",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080913/0001213900-26-080913-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:32:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Volkswagen, Wells Fargo, and OpenAI All Made the Same Mistake",
+      "url": "https://www.inc.com/soren-kaplan/volkswagen-wells-fargo-and-openai-all-made-the-same-mistake/91379272",
+      "source": "inc.com",
+      "published": "2026-07-23T20:23:01+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021085/0001918704-26-021085-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:17:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000288/0000019617-26-000288-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:15:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "STATE STREET CORP: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/93751/000119312526314120/0001193125-26-314120-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:14:56+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "STATE STREET CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000391/0000093751-26-000391-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:12:21+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011083/0000950103-26-011083-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T19:51:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Program offers kids chance to golf for $5 a round",
+      "url": "https://www.audacy.com/podcasts/2bf80c69d113972cd013b1751f2bca52/episodes/program_offers_kids_chance_to_-8536357",
+      "source": "audacy.com",
+      "published": "2026-07-23T19:36:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Coinbase Global (NASDAQ:COIN) Price Target Lowered to $235.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/coinbase-global-nasdaqcoin-price-target-lowered-to-23500-at-citigroup-2026-07-23/",
       "source": "marketbeat.com",
-      "published": "2026-07-23T18:24:24+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Lowers RPM International (NYSE:RPM) Price Target to $117.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-rpm-international-nyserpm-price-target-to-11700-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:00:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SEI Investments (NASDAQ:SEIC) Given New $125.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/sei-investments-nasdaqseic-given-new-12500-price-target-at-morgan-stanley-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T18:00:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Senators question CFPB nominee Brian Johnson on Bureau’s future",
-      "url": "https://www.housingwire.com/articles/brian-johnson-cfpb-hearing/",
-      "source": "housingwire.com",
-      "published": "2026-07-23T17:49:42+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Kospi to 10,000: South Korean equities poised to rebound after brutal sell-off, says Citi",
-      "url": "https://www.reddit.com/r/stocks/comments/1v4l5l5/kospi_to_10000_south_korean_equities_poised_to/",
-      "source": "reddit.com",
-      "published": "2026-07-23T17:48:34+00:00",
+      "published": "2026-07-23T19:30:23+00:00",
       "tickers": [
         "C"
       ]
