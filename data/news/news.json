@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-07-23T21:12:59.356801+00:00",
+  "last_updated": "2026-07-23T22:32:21.552358+00:00",
   "headlines": [
+    {
+      "title": "Advent to Hire Morgan Stanley to Sell Its Tigre Stake",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/advent-is-said-to-hire-morgan-stanley-to-sell-its-tigre-stake",
+      "source": "bloomberg.com",
+      "published": "2026-07-23T21:38:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011107/0000950103-26-011107-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T21:27:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081016/0001213900-26-081016-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T21:26:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081003/0001213900-26-081003-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T21:19:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Strategies Fund declares $0.0175 dividend",
+      "url": "https://seekingalpha.com/news/4617821-bny-mellon-high-yield-strategies-fund-declares-0_0175-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-23T21:15:29+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080984/0001213900-26-080984-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T21:10:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GE Vernova (NYSE:GEV) Trading Up 4.8% Following Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13513264/ge-vernova-nysegev-trading-up-4-8-following-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T21:00:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
+      "url": "https://finance.yahoo.com/m/c4b42236-fa2a-3578-97c3-1dc2623d0c44/industrial-stocks-and-this.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-23T20:53:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO Supports Crypto Clarity Act",
+      "url": "https://www.cryptoprowl.com/releases/goldman-sachs-ceo-supports-crypto-clarity-act-6239?.tsrc=rss",
+      "source": "cryptoprowl.com",
+      "published": "2026-07-23T20:52:00+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
+      "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act?.tsrc=rss",
+      "source": "decrypt.co",
+      "published": "2026-07-23T20:44:09+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/goldman-offers-way-to-trade-ai-junk-bonds-250-million-at-a-time",
@@ -12,11 +104,12 @@
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011097/0000950103-26-011097-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:40:22+00:00",
+      "title": "Top sporting events around Charlotte | July 23rd – July 29th",
+      "url": "https://www.wccbcharlotte.com/2026/07/23/top-sporting-events-around-charlotte-july-23rd-july-29th/",
+      "source": "wccbcharlotte.com",
+      "published": "2026-07-23T20:38:14+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -30,15 +123,6 @@
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080913/0001213900-26-080913-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:32:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
       "title": "Volkswagen, Wells Fargo, and OpenAI All Made the Same Mistake",
       "url": "https://www.inc.com/soren-kaplan/volkswagen-wells-fargo-and-openai-all-made-the-same-mistake/91379272",
       "source": "inc.com",
@@ -49,68 +133,13 @@
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021085/0001918704-26-021085-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:17:49+00:00",
+      "title": "MoonPay Now Accepts Discover Cards For Crypto Purchases",
+      "url": "https://www.cryptoprowl.com/releases/moonpay-now-accepts-discover-cards-for-crypto-purchases-6240?.tsrc=rss",
+      "source": "cryptoprowl.com",
+      "published": "2026-07-23T20:22:00+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000288/0000019617-26-000288-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:15:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "STATE STREET CORP: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/93751/000119312526314120/0001193125-26-314120-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:14:56+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "STATE STREET CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000391/0000093751-26-000391-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:12:21+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011083/0000950103-26-011083-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T19:51:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Program offers kids chance to golf for $5 a round",
-      "url": "https://www.audacy.com/podcasts/2bf80c69d113972cd013b1751f2bca52/episodes/program_offers_kids_chance_to_-8536357",
-      "source": "audacy.com",
-      "published": "2026-07-23T19:36:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Coinbase Global (NASDAQ:COIN) Price Target Lowered to $235.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/coinbase-global-nasdaqcoin-price-target-lowered-to-23500-at-citigroup-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T19:30:23+00:00",
-      "tickers": [
-        "C"
+        "C",
+        "COF"
       ]
     }
   ]
