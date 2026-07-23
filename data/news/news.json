@@ -1,254 +1,211 @@
 {
-  "last_updated": "2026-07-23T15:33:31.604555+00:00",
+  "last_updated": "2026-07-23T17:38:34.105650+00:00",
   "headlines": [
     {
-      "title": "Tesla (NASDAQ:TSLA) Given New $400.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-given-new-40000-price-target-at-morgan-stanley-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T15:06:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Tesla (NASDAQ:TSLA) Price Target Cut to $445.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-price-target-cut-to-44500-by-analysts-at-jpmorgan-chase-co-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T15:06:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Truist Financial Cuts Alphabet (NASDAQ:GOOG) Price Target to $420.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-cuts-alphabet-nasdaqgoog-price-target-to-42000-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T15:06:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts Alphabet (NASDAQ:GOOG) Price Target to $400.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-cuts-alphabet-nasdaqgoog-price-target-to-40000-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T15:06:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Palantir (PLTR) Stock Gets Bullish Citi Upgrade Despite 20% Decline in 2025",
-      "url": "https://blockonomi.com/palantir-pltr-stock-gets-bullish-citi-upgrade-despite-20-decline-in-2025/",
-      "source": "blockonomi.com",
-      "published": "2026-07-23T14:52:03+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One turns bullish on PENN as new properties provide a growth runway",
-      "url": "https://seekingalpha.com/news/4617443-capital-one-turns-bullish-on-penn-as-new-properties-provide-a-growth-runway",
-      "source": "seekingalpha.com",
-      "published": "2026-07-23T14:47:12+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs says equities have surpassed real estate as top US wealth driver for first time since WWII",
-      "url": "https://cryptobriefing.com/goldman-sachs-equities-surpass-real-estate-wealth/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-23T14:28:03+00:00",
+      "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
+      "url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-07-23T16:57:51+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "State Street (STT) Q2 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/23/state-street-stt-q2-2026-earnings-call-transcript/",
-      "source": "fool.com",
-      "published": "2026-07-23T14:13:37+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "GPIX’s 8.2% Yield Keeps Pace With S&P 500 While Paying Monthly Income",
-      "url": "https://247wallst.com/investing/2026/07/23/gpixs-8-2-yield-keeps-pace-with-sp-500-while-paying-monthly-income/",
-      "source": "247wallst.com",
-      "published": "2026-07-23T14:09:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Says the Economy Is “Resilient.” David Solomon Says It’s “Well Positioned.” A 72-Year-Old on Social Security Is Looking Through a Different Lens.",
-      "url": "https://247wallst.com/personal-finance/social-security/2026/07/23/jamie-dimon-says-the-economy-is-resilient-david-solomon-says-its-well-positioned-a-72-year-old-on-social-security-is-looking-at-a-different-economy/",
-      "source": "247wallst.com",
-      "published": "2026-07-23T14:03:34+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley initiates Applied Digital at equal weight with $36.50 price target",
-      "url": "https://cryptobriefing.com/morgan-stanley-initiates-applied-digital-coverage/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-23T14:00:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "U.S. Bank and GENYOUth Team Up to Expand Access to Flag Football in Schools and Communities",
-      "url": "http://www.businesswire.com/news/home/20260723922189/en/U.S.-Bank-and-GENYOUth-Team-Up-to-Expand-Access-to-Flag-Football-in-Schools-and-Communities/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-07-23T14:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman Sachs CEO backs Clarity Act amid stablecoin rule concerns",
-      "url": "https://cryptobriefing.com/goldman-sachs-ceo-backs-clarity-act-amid-stablecoin-rule-concerns/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-23T13:56:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Palantir in focus as Citi ups estimates on expected commercial boost",
-      "url": "https://seekingalpha.com/news/4617442-palantir-in-focus-as-citi-ups-estimates-on-expected-commercial-boost",
-      "source": "seekingalpha.com",
-      "published": "2026-07-23T13:54:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "XLF vs. KBE: Which Financial ETF Is the Better Buy?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/23/xlf-vs-kbe-which-financial-etf-is-the-better-buy/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-23T13:50:31+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020998/0001918704-26-020998-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036083/0001839882-26-036083-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-23T13:41:05+00:00",
+      "published": "2026-07-23T16:52:07+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
-      "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-      "source": "cnbc.com",
-      "published": "2026-07-23T13:36:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Gives AMD Investors a New Reason to Watch",
-      "url": "https://247wallst.com/investing/2026/07/23/bank-of-america-gives-amd-investors-a-new-reason-to-watch/",
-      "source": "247wallst.com",
-      "published": "2026-07-23T13:30:29+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021048/0001918704-26-021048-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T16:47:33+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020994/0001918704-26-020994-index.htm",
+      "title": "Bank of America targets Nvidia's next $170 billion growth engine",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-targets-nvidias-next-164700487.html",
+      "source": "yahoo.com",
+      "published": "2026-07-23T16:47:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Vanguard Small-Cap Value ETF Outshines State Street on Fees But is It the Better Buy?",
+      "url": "https://www.fool.com/investing/2026/07/23/vanguard-small-cap-value-etf-outshines-state-st/",
+      "source": "fool.com",
+      "published": "2026-07-23T16:43:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Court Denies Merrill’s Attempt to Restart OpenArc/Dynasty Lawsuit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/court-denies-merrill-attempt-restart-163620225.html",
+      "source": "yahoo.com",
+      "published": "2026-07-23T16:36:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley doubles down on Schwab after earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-schwab-163300684.html",
+      "source": "yahoo.com",
+      "published": "2026-07-23T16:33:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "As Wall Street Cuts Tesla, Morgan Stanley Raises Its Apple Target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cuts-tesla-morgan-163030608.html",
+      "source": "yahoo.com",
+      "published": "2026-07-23T16:30:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526313724/0001193125-26-313724-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-23T13:27:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "T.D. Jakes Foundation Opens Access to Up to $1.5 Million in Grant Funding Through the T7 Summit Presented by Wells Fargo",
-      "url": "https://www.prnewswire.com/news-releases/td-jakes-foundation-opens-access-to-up-to-1-5-million-in-grant-funding-through-the-t7-summit-presented-by-wells-fargo-302833358.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-23T13:21:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "US Crypto Industry Backs 232K Jobs as Coinbase, Goldman Sachs Push CLARITY Act",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v4dqqp/us_crypto_industry_backs_232k_jobs_as_coinbase/",
-      "source": "reddit.com",
-      "published": "2026-07-23T13:20:01+00:00",
+      "published": "2026-07-23T16:26:34+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Wall Street sets AMD stock price target for next 12 months",
-      "url": "https://finbold.com/wall-street-sets-amd-stock-price-target-for-next-12-months-5/",
-      "source": "finbold.com",
-      "published": "2026-07-23T13:12:11+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021044/0001918704-26-021044-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T16:25:26+00:00",
       "tickers": [
-        "WFC",
         "C"
       ]
     },
     {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Rating Lowered to \"Hold\" at Deutsche Bank Aktiengesellschaft",
-      "url": "https://www.marketbeat.com/instant-alerts/the-pnc-financial-services-group-nysepnc-rating-lowered-to-hold-at-deutsche-bank-aktiengesellschaft-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T13:06:23+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021043/0001918704-26-021043-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T16:25:15+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "C"
       ]
     },
     {
-      "title": "Truist Financial Downgrades Norwegian Cruise Line (NYSE:NCLH) to Hold",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-downgrades-norwegian-cruise-line-nysenclh-to-hold-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T13:06:22+00:00",
+      "title": "Why Wealthfront Looks Like A Steal At 10x Free Cash Flow | $HOOD $SCHW $MS $SOFI $WLTH",
+      "url": "https://seekingalpha.com/article/4924807-why-wealthfront-looks-like-steal-at-10x-free-cash-flow",
+      "source": "seekingalpha.com",
+      "published": "2026-07-23T16:19:17+00:00",
       "tickers": [
         "C",
-        "TFC"
+        "MS",
+        "SCHW"
       ]
     },
     {
-      "title": "PENN Entertainment (NASDAQ:PENN) Upgraded at Capital One Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/penn-entertainment-nasdaqpenn-upgraded-at-capital-one-financial-2026-07-23/",
-      "source": "marketbeat.com",
-      "published": "2026-07-23T13:06:21+00:00",
+      "title": "PENN Entertainment (PENN) Upgraded to Overweight by Capital One Securities",
+      "url": "https://www.gurufocus.com/news/8975164/penn-entertainment-penn-upgraded-to-overweight-by-capital-one-securities",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T16:17:21+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Morgan Stanley initiates Applied Digital stock at Equalweight on yield concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-applied-digital-stock-at-equalweight-on-yield-concerns-93CH-4809026",
-      "source": "investing.com",
-      "published": "2026-07-23T13:05:23+00:00",
+      "title": "BNY Mellon Dynamic Value Fund Q2 2026 Commentary | $DAGVX $DCGVX $DRGVX $DRGYX",
+      "url": "https://seekingalpha.com/article/4924806-bny-mellon-dynamic-value-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-07-23T16:12:00+00:00",
       "tickers": [
-        "MS"
+        "BK"
       ]
     },
     {
-      "title": "Bank of America and Carolina Panthers Extend Naming Rights for Bank of America Stadium, Reinforcing Long-Term Commitment to Charlotte and the Carolinas",
-      "url": "https://finance.yahoo.com/media-advertising/articles/bank-america-carolina-panthers-extend-130500831.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-23T13:05:00+00:00",
+      "title": "The Trade Desk (TTD) Stock Plunges 79% — Is This a Value Play or Value Trap?",
+      "url": "https://blockonomi.com/the-trade-desk-ttd-stock-plunges-79-is-this-a-value-play-or-value-trap/",
+      "source": "blockonomi.com",
+      "published": "2026-07-23T16:09:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Financial Stocks To Keep An Eye On – July 23rd",
+      "url": "https://www.tickerreport.com/banking-finance/13513097/financial-stocks-to-keep-an-eye-on-july-23rd.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T16:06:57+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Las Vegas Sands (NYSE:LVS) Given New $60.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/las-vegas-sands-nyselvs-given-new-6000-price-target-at-jpmorgan-chase-co-2026-07-23/",
+      "source": "marketbeat.com",
+      "published": "2026-07-23T16:06:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY Mellon Core Bond ETF (NYSEARCA:BKAG) Hits New 1-Year Low – What’s Next?",
+      "url": "https://www.tickerreport.com/uncategorized/13513092/bny-mellon-core-bond-etf-nysearcabkag-hits-new-1-year-low-whats-next.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T16:02:46+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Palantir Technologies (PLTR) Sees Earnings Estimates Raised by Citi Amid Growth Prospects",
+      "url": "https://www.gurufocus.com/news/8974972/palantir-technologies-pltr-sees-earnings-estimates-raised-by-citi-amid-growth-prospects",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T15:55:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TXN Maintained by Wells Fargo -- Price Target Raised to $310",
+      "url": "https://www.gurufocus.com/news/8974956/txn-maintained-by-wells-fargo-price-target-raised-to-310",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T15:44:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "REG Maintained by Wells Fargo -- Price Target Raised to $90",
+      "url": "https://www.gurufocus.com/news/8974955/reg-maintained-by-wells-fargo-price-target-raised-to-90",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T15:43:46+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021036/0001918704-26-021036-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T15:40:56+00:00",
       "tickers": [
         "BAC",
         "C"
