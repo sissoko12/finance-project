@@ -1,6 +1,155 @@
 {
-  "last_updated": "2026-07-23T11:27:42.284054+00:00",
+  "last_updated": "2026-07-23T13:07:25.612322+00:00",
   "headlines": [
+    {
+      "title": "Rollins downgraded at Bank of America after earnings miss clouds demand outlook",
+      "url": "https://seekingalpha.com/news/4617367-rollins-downgraded-at-bank-of-america-after-earnings-miss-clouds-demand-outlook",
+      "source": "seekingalpha.com",
+      "published": "2026-07-23T12:34:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rollins (NYSE:ROL) Given \"Underperform\" Rating at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/rollins-nyserol-given-underperform-rating-at-bank-of-america-2026-07-23/",
+      "source": "marketbeat.com",
+      "published": "2026-07-23T12:12:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Evolent Health (NYSE:EVH) Receives \"Neutral\" Rating from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/evolent-health-nyseevh-receives-neutral-rating-from-citigroup-2026-07-23/",
+      "source": "marketbeat.com",
+      "published": "2026-07-23T12:12:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Penske Automotive Group (NYSE:PAG) Rating Lowered to \"Neutral\" at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/penske-automotive-group-nysepag-rating-lowered-to-neutral-at-citigroup-2026-07-23/",
+      "source": "marketbeat.com",
+      "published": "2026-07-23T12:06:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley stock in focus as Goldman Sachs predicts an M&A boom",
+      "url": "https://invezz.com/news/2026/07/23/morgan-stanley-stock-in-focus-as-goldman-sachs-predicts-an-ma-boom/",
+      "source": "invezz.com",
+      "published": "2026-07-23T12:05:00+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Sands China (OTCMKTS:SCHYY) Stock Rating Lowered by Zacks Research",
+      "url": "https://www.tickerreport.com/banking-finance/13512820/sands-china-otcmktsschyy-stock-rating-lowered-by-zacks-research.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T12:02:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "HUT Initiates Coverage On Morgan Stanley -- Price Target Announced at $263",
+      "url": "https://www.gurufocus.com/news/8974210/hut-initiates-coverage-on-morgan-stanley-price-target-announced-at-263",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T12:01:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "APLD Initiated Coverage by Morgan Stanley -- Price Target Announced at $36.50",
+      "url": "https://www.gurufocus.com/news/8974208/apld-initiated-coverage-by-morgan-stanley-price-target-announced-at-3650",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T12:00:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DigitalOcean (NYSE:DOCN) Upgraded to “Strong-Buy” at Robert W. Baird",
+      "url": "https://www.tickerreport.com/banking-finance/13512796/digitalocean-nysedocn-upgraded-to-strong-buy-at-robert-w-baird.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T11:56:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Jacobs (J) Receives Positive Outlook from Citi Analyst",
+      "url": "https://www.gurufocus.com/news/8974117/jacobs-j-receives-positive-outlook-from-citi-analyst",
+      "source": "gurufocus.com",
+      "published": "2026-07-23T11:54:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Dividend Announcements: July 11-17, 2026 | $BNY $CMI $CNP $DUK $GS",
+      "url": "https://seekingalpha.com/article/4924508-dividend-announcements-july-11-17-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-07-23T11:45:58+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (USB) Q2 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/23/us-bancorp-usb-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-23T11:40:36+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Acquires 34,823 Shares of Paychex, Inc. $PAYX",
+      "url": "https://www.tickerreport.com/banking-finance/13512767/pnc-financial-services-group-inc-acquires-34823-shares-of-paychex-inc-payx.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T11:36:56+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Amentum (NYSE:AMTM) Rating Increased to Strong-Buy at Zacks Research",
+      "url": "https://www.tickerreport.com/banking-finance/13512740/amentum-nyseamtm-rating-increased-to-strong-buy-at-zacks-research.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T11:25:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America Provides Nebius Stock Price Target",
+      "url": "https://watcher.guru/news/bank-of-america-provides-nebius-stock-price-target",
+      "source": "watcher.guru",
+      "published": "2026-07-23T11:05:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Does Your ETF Portfolio Reflect Your Goals? A Look at the SPDR Global Stock Market ETF vs. the Climate Paris Aligned ETF.",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/23/does-your-etf-portfolio-reflect-your-goals-a-look-at-the-spdr-global-stock-market-etf-vs-the-climate-paris-aligned-etf/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-23T10:56:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "State Street (NYSE:STT) Raised to \"Strong-Buy\" at Zacks Research",
       "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-raised-to-strong-buy-at-zacks-research-2026-07-23/",
@@ -8,6 +157,16 @@
       "published": "2026-07-23T10:48:31+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "BofA ups Tesco to Buy on structural advantages, rising cash returns",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-ups-tesco-to-buy-on-structural-advantages-rising-cash-returns-4808105",
+      "source": "investing.com",
+      "published": "2026-07-23T10:29:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -78,6 +237,15 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020982/0001918704-26-020982-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T10:07:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020981/0001918704-26-020981-index.htm",
       "source": "sec.gov",
@@ -111,183 +279,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/goldman-sachs-absa-see-ghana-rate-cuts-delayed-by-iran-war-oil-prices",
       "source": "bloomberg.com",
       "published": "2026-07-23T09:52:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SPDR Nuveen ICE Short Term Municipal Bond ETF $SHM Stock Holdings Increased by PNC Financial Services Group Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13512441/spdr-nuveen-ice-short-term-municipal-bond-etf-shm-stock-holdings-increased-by-pnc-financial-services-group-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:49:21+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Purchases Shares of 2,365,791 T. Rowe Price Blue Chip Growth ETF $TCHP",
-      "url": "https://www.tickerreport.com/banking-finance/13512437/pnc-financial-services-group-inc-purchases-shares-of-2365791-t-rowe-price-blue-chip-growth-etf-tchp.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:49:10+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $167.59 Million Holdings in SPDR MSCI ACWI ex-US ETF $CWI",
-      "url": "https://www.tickerreport.com/banking-finance/13512435/pnc-financial-services-group-inc-has-167-59-million-holdings-in-spdr-msci-acwi-ex-us-etf-cwi.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:48:53+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Levin Capital Strategies L.P. Invests $14.53 Million in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13512414/levin-capital-strategies-l-p-invests-14-53-million-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:45:18+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan: Jamie Dimon's Buyback Warning Makes The 5.75% Preferred The Better Buy | $JPM",
-      "url": "https://seekingalpha.com/article/4924575-jpmorgan-jamie-dimon-buyback-warning-makes-the-5-75-percent-preferred-the-better-buy",
-      "source": "seekingalpha.com",
-      "published": "2026-07-23T09:39:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NewEdge Wealth LLC Raises Stake in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13512388/newedge-wealth-llc-raises-stake-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:39:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Cuts Stock Position in Vanguard Information Technology ETF $VGT",
-      "url": "https://www.tickerreport.com/banking-finance/13512365/pnc-financial-services-group-inc-cuts-stock-position-in-vanguard-information-technology-etf-vgt.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:30:57+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Acquires 2,581 Shares of Teledyne Technologies Incorporated $TDY",
-      "url": "https://www.tickerreport.com/banking-finance/13512362/pnc-financial-services-group-inc-acquires-2581-shares-of-teledyne-technologies-incorporated-tdy.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:28+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Boosts Stock Position in Colgate-Palmolive Company $CL",
-      "url": "https://www.tickerreport.com/banking-finance/13512361/pnc-financial-services-group-inc-boosts-stock-position-in-colgate-palmolive-company-cl.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:26+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $182.42 Million Holdings in iShares Russell Mid-Cap Value ETF $IWS",
-      "url": "https://www.tickerreport.com/banking-finance/13512359/pnc-financial-services-group-inc-has-182-42-million-holdings-in-ishares-russell-mid-cap-value-etf-iws.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:24+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Grows Stake in Vanguard Mega Cap Growth ETF $MGK",
-      "url": "https://www.tickerreport.com/banking-finance/13512360/pnc-financial-services-group-inc-grows-stake-in-vanguard-mega-cap-growth-etf-mgk.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:24+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "ServiceNow, Inc. $NOW Shares Bought by PNC Financial Services Group Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13512356/servicenow-inc-now-shares-bought-by-pnc-financial-services-group-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:20+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 5,536 Shares of Marriott International, Inc. $MAR",
-      "url": "https://www.tickerreport.com/banking-finance/13512355/pnc-financial-services-group-inc-sells-5536-shares-of-marriott-international-inc-mar.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:19+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Increases Stock Position in Mondelez International, Inc. $MDLZ",
-      "url": "https://www.tickerreport.com/banking-finance/13512354/pnc-financial-services-group-inc-increases-stock-position-in-mondelez-international-inc-mdlz.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:18+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Raises Holdings in Micron Technology, Inc. $MU",
-      "url": "https://www.tickerreport.com/banking-finance/13512353/pnc-financial-services-group-inc-raises-holdings-in-micron-technology-inc-mu.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:17+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $83.14 Million Stock Position in Corning Incorporated $GLW",
-      "url": "https://www.tickerreport.com/banking-finance/13512351/pnc-financial-services-group-inc-has-83-14-million-stock-position-in-corning-incorporated-glw.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:13+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 24,258 Shares of Accenture PLC $ACN",
-      "url": "https://www.tickerreport.com/banking-finance/13512350/pnc-financial-services-group-inc-sells-24258-shares-of-accenture-plc-acn.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-23T09:29:04+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Goldman Warns the World Is Running Out of Safe Routes for Oil",
-      "url": "https://www.investing.com/analysis/goldman-warns-the-world-is-running-out-of-safe-routes-for-oil-200684429",
-      "source": "investing.com",
-      "published": "2026-07-23T09:24:00+00:00",
       "tickers": [
         "GS"
       ]
