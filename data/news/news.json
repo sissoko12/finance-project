@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-22T22:35:32.066779+00:00",
+  "last_updated": "2026-07-23T00:07:41.142465+00:00",
   "headlines": [
+    {
+      "title": "Locals discuss new housing, store coming to Schenectady",
+      "url": "https://www.news10.com/news/local-news/locals-discuss-new-housing-store-coming-to-schenectady/",
+      "source": "news10.com",
+      "published": "2026-07-22T21:49:59+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426020969/0001918704-26-020969-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T21:30:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011022/0000950103-26-011022-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T21:26:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "BOA readies Neds Creek copper drilling",
       "url": "https://mining.com.au/boa-readies-neds-creek-copper-drilling/",
@@ -30,6 +58,24 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426020960/0001918704-26-020960-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T21:11:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526312547/0001193125-26-312547-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-22T21:07:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "SoftBank's $5.4 Billion Robotics Bet Secures $1.75 Billion Loan",
       "url": "https://finance.yahoo.com/technology/ai/articles/softbanks-5-4-billion-robotics-210713807.html?.tsrc=rss",
       "source": "yahoo.com",
@@ -44,127 +90,6 @@
       "source": "sec.gov",
       "published": "2026-07-22T21:01:57+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426020954/0001918704-26-020954-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T20:59:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026080412/0001213900-26-080412-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T20:26:10+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226035974/0001839882-26-035974-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-22T20:21:04+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Acquires AEGIS - Goldman Sachs (NYSE:GS) has acquired AEGIS Hedging via its Goldman ...",
-      "url": "https://www.crowdfundinsider.com/2026/07/293189-goldman-sachs-acquires-aegis/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-07-22T20:07:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds",
-      "url": "https://www.marketwatch.com/story/owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pet-population-survey-finds-dca5ad2b?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-22T19:56:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-bofa-sees-195532209.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-22T19:55:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Solana ETF moves closer to launch on NYSE Arca",
-      "url": "https://cryptobriefing.com/morgan-stanley-solana-ethereum-staking-etfs/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-22T19:39:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-193510224.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-22T19:35:10+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "\"These times are really good for banks,\" says Wells Fargo CEO #shorts #wellsfargo #banks #investing",
-      "url": "https://www.youtube.com/shorts/kktMn-mEIU8",
-      "source": "youtube.com",
-      "published": "2026-07-22T19:34:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Illinois Tool Works (ITW) – Analysts’ Weekly Ratings Changes",
-      "url": "https://www.tickerreport.com/banking-finance/13511782/illinois-tool-works-itw-analysts-weekly-ratings-changes.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-22T19:26:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "‘Out-of-favor’ utilities could be the next beneficiaries of the AI trade – and they pay dividends, Wells Fargo says",
-      "url": "https://www.cnbc.com/2026/07/22/utilities-that-could-be-the-next-beneficiaries-of-ai-trade.html",
-      "source": "cnbc.com",
-      "published": "2026-07-22T19:23:30+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JP Morgan Recaps Industrial Portfolio With $209M Loan",
-      "url": "https://commercialobserver.com/2026/07/jp-morgan-industrial-portfolio-florida-pennsylvania/",
-      "source": "commercialobserver.com",
-      "published": "2026-07-22T19:14:58+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America doubles down on Micron stock after AI bombshell",
-      "url": "https://www.thestreet.com/investing/bank-of-america-micron-stock-ai-outlook?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-22T19:13:00+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
