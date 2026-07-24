@@ -1,276 +1,301 @@
 {
-  "last_updated": "2026-07-24T09:26:25.008226+00:00",
+  "last_updated": "2026-07-24T11:19:27.199932+00:00",
   "headlines": [
     {
-      "title": "Sentinel Trust Co. LBA Decreases Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sentinel-trust-co-lba-decreases-position-in-jpmorgan-chase-co-jpm-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:07:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Greenwood Gearhart LLC Has $20.79 Million Stock Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-greenwood-gearhart-llc-has-2079-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:07:20+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KBC Group NV Cuts Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-cuts-holdings-in-jpmorgan-chase-co-jpm-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:05:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Mayer Brown advises initial purchasers on Barranquilla’s US$350 million sustainable notes offering",
-      "url": "https://legaldesire.com/mayer-brown-advises-initial-purchasers-on-barranquillas-us350-million-sustainable-notes-offering/",
-      "source": "legaldesire.com",
-      "published": "2026-07-24T08:23:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Position Boosted by Gibbs Wealth Management",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-position-boosted-by-gibbs-wealth-management-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T08:05:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Gibbs Wealth Management Increases Stake in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gibbs-wealth-management-increases-stake-in-bank-of-america-corporation-bac-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T08:04:43+00:00",
+      "title": "Bank of America raises dividend by 14% to $0.32/shares",
+      "url": "https://seekingalpha.com/news/4618009-bank-of-america-raises-dividend-by-14-to-032shares",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T10:46:41+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Gibbs Wealth Management Acquires 13,514 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gibbs-wealth-management-acquires-13514-shares-of-wells-fargo-company-wfc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T08:04:39+00:00",
+      "title": "BofA Sticks With Buy on EssilorLuxottica, Downplays Arrival of New AI Glasses",
+      "url": "https://www.marketscreener.com/news/bofa-sticks-with-buy-on-essilorluxottica-downplays-arrival-of-new-ai-glasses-ce7f51dfda80fe27",
+      "source": "marketscreener.com",
+      "published": "2026-07-24T10:29:19+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley Real Estate Investing Announces Acquisition of French Logistics Portfolio of Five Assets",
-      "url": "http://www.businesswire.com/news/home/20260724302300/en/Morgan-Stanley-Real-Estate-Investing-Announces-Acquisition-of-French-Logistics-Portfolio-of-Five-Assets/?feedref=JjAwJuNHiystnCoBq_hl-SQpWHDgbMTfUSvlUQQyXmEOaKcEoII_vqs8up4GPObWbSBuLMrPLuXE-6UOS4tp2o_0dKdFRTehrF3avD2KCHBRGBn317xVJ1ATTZsTZCXZ0Ki8eee70u2UcYhKJXK_obCRsdEUmwu1incqKjl0050=",
-      "source": "businesswire.com",
-      "published": "2026-07-24T08:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PwC and Morgan Stanley Predict $15 Billion Humanoid Robot Market by 2030",
-      "url": "https://robottoday.com/industry-briefing/pwc-and-morgan-stanley-predict-15-billion-humanoid-robot-market-by-2030/9377",
-      "source": "robottoday.com",
-      "published": "2026-07-24T07:59:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Cal-Maine Foods, Inc. $CALM Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-cal-maine-foods-inc-calm-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-24/",
+      "title": "Liberty One Investment Management LLC Acquires 1,749 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-liberty-one-investment-management-llc-acquires-1749-shares-of-the-goldman-sachs-group-inc-gs-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:45+00:00",
+      "published": "2026-07-24T10:25:05+00:00",
       "tickers": [
-        "BK"
+        "GS"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Sells 19,769 Shares of Pool Corporation $POOL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-19769-shares-of-pool-corporation-pool-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:44+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011126/0000950103-26-011126-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T10:10:29+00:00",
       "tickers": [
-        "BK"
+        "C"
       ]
     },
     {
-      "title": "Allison Transmission Holdings, Inc. $ALSN Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-allison-transmission-holdings-inc-alsn-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:39+00:00",
+      "title": "BofA’s Raedler Says Investors Are Ignoring Stock-Market Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/bofa-s-raedler-says-investors-are-ignoring-stock-market-risks",
+      "source": "bloomberg.com",
+      "published": "2026-07-24T09:51:09+00:00",
       "tickers": [
-        "BK"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Has $55.90 Million Stock Position in EPR Properties $EPR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-5590-million-stock-position-in-epr-properties-epr-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:38+00:00",
+      "title": "BofA sees Hong Kong dollar rates spike risk on Fed hikes",
+      "url": "https://www.investing.com/news/forex-news/bofa-sees-hong-kong-dollar-rates-spike-risk-on-fed-hikes-93CH-4810869",
+      "source": "investing.com",
+      "published": "2026-07-24T09:41:20+00:00",
       "tickers": [
-        "BK"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Sells 41,747 Shares of PBF Energy Inc. $PBF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-41747-shares-of-pbf-energy-inc-pbf-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:38+00:00",
+      "title": "GSK Receives Neutral Rating from Citi with 2,100 GBp Price Target",
+      "url": "https://www.gurufocus.com/news/8977329/gsk-receives-neutral-rating-from-citi-with-2100-gbp-price-target",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T09:29:54+00:00",
       "tickers": [
-        "BK"
+        "C"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Sells 12,466 Shares of Zebra Technologies Corporation $ZBRA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-12466-shares-of-zebra-technologies-corporation-zbra-2026-07-24/",
+      "title": "NewEdge Wealth LLC Purchases 4,506 Shares of The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-purchases-4506-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:35+00:00",
+      "published": "2026-07-24T09:29:15+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Lowers Stock Holdings in Belden Inc $BDC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-lowers-stock-holdings-in-belden-inc-bdc-2026-07-24/",
+      "title": "NewEdge Wealth LLC Sells 22,039 Shares of The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-sells-22039-shares-of-the-charles-schwab-corporation-schw-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:32+00:00",
+      "published": "2026-07-24T09:28:59+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "SCHW"
       ]
     },
     {
-      "title": "ArcelorMittal $MT Stock Holdings Lowered by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-arcelormittal-mt-stock-holdings-lowered-by-bank-of-new-york-mellon-corp-2026-07-24/",
+      "title": "NewEdge Wealth LLC Decreases Stake in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-decreases-stake-in-bank-of-america-corporation-bac-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:28+00:00",
+      "published": "2026-07-24T09:28:47+00:00",
       "tickers": [
-        "BK"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Sells 127,705 Shares of Rexford Industrial Realty, Inc. $REXR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-127705-shares-of-rexford-industrial-realty-inc-rexr-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Sells 76,752 Shares of General Mills, Inc. $GIS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-76752-shares-of-general-mills-inc-gis-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:28+00:00",
+      "published": "2026-07-24T09:23:30+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Reduces Stock Holdings in Crescent Energy Company $CRGY",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-reduces-stock-holdings-in-crescent-energy-company-crgy-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Grows Stock Holdings in Novartis AG $NVS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-grows-stock-holdings-in-novartis-ag-nvs-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:27+00:00",
+      "published": "2026-07-24T09:23:30+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Increases Stock Holdings in MGM Resorts International $MGM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-increases-stock-holdings-in-mgm-resorts-international-mgm-2026-07-24/",
+      "title": "L3Harris Technologies Inc $LHX Stock Position Boosted by PNC Financial Services Group Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-l3harris-technologies-inc-lhx-stock-position-boosted-by-pnc-financial-services-group-inc-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:27+00:00",
+      "published": "2026-07-24T09:23:30+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Has $57.48 Million Position in Viper Energy Inc. $VNOM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-5748-million-position-in-viper-energy-inc-vnom-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Sells 11,136 Shares of Fortinet, Inc. $FTNT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-11136-shares-of-fortinet-inc-ftnt-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:27+00:00",
+      "published": "2026-07-24T09:23:21+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Jefferies Financial Group Inc. $JEF Stake Cut by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jefferies-financial-group-inc-jef-stake-cut-by-bank-of-new-york-mellon-corp-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Cuts Position in Qnity Electronics, Inc. $Q",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-cuts-position-in-qnity-electronics-inc-q-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:23+00:00",
+      "published": "2026-07-24T09:23:17+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Has $58.23 Million Position in Cirrus Logic, Inc. $CRUS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-5823-million-position-in-cirrus-logic-inc-crus-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Acquires 29,587 Shares of Uber Technologies, Inc. $UBER",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-acquires-29587-shares-of-uber-technologies-inc-uber-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:22+00:00",
+      "published": "2026-07-24T09:23:17+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Raises Stock Holdings in Penske Automotive Group, Inc. $PAG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-raises-stock-holdings-in-penske-automotive-group-inc-pag-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Increases Stake in Ecolab Inc. $ECL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-increases-stake-in-ecolab-inc-ecl-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:22+00:00",
+      "published": "2026-07-24T09:23:13+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Buys 2,316,777 Shares of Alignment Healthcare, Inc. $ALHC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-2316777-shares-of-alignment-healthcare-inc-alhc-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Purchases 20,292 Shares of Arista Networks, Inc. $ANET",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-purchases-20292-shares-of-arista-networks-inc-anet-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:21+00:00",
+      "published": "2026-07-24T09:23:07+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "NewJersey Resources Corporation $NJR Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-newjersey-resources-corporation-njr-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Has $41.26 Million Holdings in Kimberly-Clark Corporation $KMB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-has-4126-million-holdings-in-kimberly-clark-corporation-kmb-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:19+00:00",
+      "published": "2026-07-24T09:23:04+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Has $58.74 Million Stake in The Hanover Insurance Group, Inc. $THG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-5874-million-stake-in-the-hanover-insurance-group-inc-thg-2026-07-24/",
+      "title": "PNC Financial Services Group Inc. Sells 34,389 Shares of T. Rowe Price Group, Inc. $TROW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-34389-shares-of-t-rowe-price-group-inc-trow-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:18+00:00",
+      "published": "2026-07-24T09:22:58+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Ryman Hospitality Properties, Inc. $RHP Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ryman-hospitality-properties-inc-rhp-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-24/",
+      "title": "Salesforce Inc. $CRM Shares Sold by PNC Financial Services Group Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-salesforce-inc-crm-shares-sold-by-pnc-financial-services-group-inc-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:15+00:00",
+      "published": "2026-07-24T09:22:54+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Coca-Cola Europacific Partners $CCEP Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-coca-cola-europacific-partners-ccep-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-24/",
+      "title": "Palo Alto Networks, Inc. $PANW Shares Purchased by PNC Financial Services Group Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-palo-alto-networks-inc-panw-shares-purchased-by-pnc-financial-services-group-inc-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:12+00:00",
+      "published": "2026-07-24T09:22:54+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Has $59.48 Million Stock Position in Autoliv, Inc. $ALV",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-5948-million-stock-position-in-autoliv-inc-alv-2026-07-24/",
+      "title": "Target Corporation $TGT Shares Sold by PNC Financial Services Group Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-target-corporation-tgt-shares-sold-by-pnc-financial-services-group-inc-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T07:17:12+00:00",
+      "published": "2026-07-24T09:22:48+00:00",
       "tickers": [
-        "BK"
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Has $51.02 Million Stock Holdings in Analog Devices, Inc. $ADI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-has-5102-million-stock-holdings-in-analog-devices-inc-adi-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:47+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Shares Acquired by PNC Financial Services Group Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-acquired-by-pnc-financial-services-group-inc-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:47+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Sells 115,352 Shares of NIKE, Inc. $NKE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-115352-shares-of-nike-inc-nke-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:46+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Grows Holdings in CME Group Inc. $CME",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-grows-holdings-in-cme-group-inc-cme-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:46+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Has $52.82 Million Stock Holdings in Southern Company (The) $SO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-has-5282-million-stock-holdings-in-southern-company-the-so-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:43+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Trims Holdings in ASML Holding N.V. $ASML",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-trims-holdings-in-asml-holding-nv-asml-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:43+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Buys 5,461 Shares of Carpenter Technology Corporation $CRS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-buys-5461-shares-of-carpenter-technology-corporation-crs-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T09:22:42+00:00",
+      "tickers": [
+        "C",
+        "PNC"
       ]
     }
   ]
