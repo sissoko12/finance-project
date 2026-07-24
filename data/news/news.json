@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-07-23T22:32:21.552358+00:00",
+  "last_updated": "2026-07-24T00:05:39.969969+00:00",
   "headlines": [
+    {
+      "title": "IRS boss Frank Bisignano has been accused of corporate spying — here’s what his old employer JPMorgan thinks",
+      "url": "https://nypost.com/2026/07/23/business/irs-boss-frank-bisignano-has-been-accused-of-corporate-spying-heres-what-his-old-employer-jpmorgan-thinks/",
+      "source": "nypost.com",
+      "published": "2026-07-23T22:47:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Weekly Ratings Changes for Red Rock Resorts (RRR)",
+      "url": "https://www.tickerreport.com/banking-finance/13513311/research-analysts-weekly-ratings-changes-for-red-rock-resorts-rrr.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T22:26:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000089183626000053/0000891836-26-000053-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T22:14:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Incyte (INCY) – Analysts’ Recent Ratings Updates",
+      "url": "https://www.tickerreport.com/banking-finance/13513292/incyte-incy-analysts-recent-ratings-updates.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-23T21:56:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs and JPMorgan launch AI debt trading products",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-and-jpmorgan-launch-ai-debt-trading-products-93CH-4810169",
+      "source": "investing.com",
+      "published": "2026-07-23T21:49:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Advent to Hire Morgan Stanley to Sell Its Tigre Stake",
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/advent-is-said-to-hire-morgan-stanley-to-sell-its-tigre-stake",
@@ -56,6 +101,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526314579/0001193125-26-314579-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T21:06:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "GE Vernova (NYSE:GEV) Trading Up 4.8% Following Analyst Upgrade",
       "url": "https://www.tickerreport.com/banking-finance/13513264/ge-vernova-nysegev-trading-up-4-8-following-analyst-upgrade.html",
       "source": "tickerreport.com",
@@ -94,9 +148,18 @@
       ]
     },
     {
+      "title": "Bank of New York Mellon Corp: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526314242/0001193125-26-314242-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T20:42:16+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
       "title": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/goldman-offers-way-to-trade-ai-junk-bonds-250-million-at-a-time",
-      "source": "bloomberg.com",
+      "url": "https://finance.yahoo.com/markets/options/articles/goldman-offers-way-trade-ai-204112017.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-07-23T20:41:12+00:00",
       "tickers": [
         "JPM",
@@ -120,26 +183,6 @@
       "published": "2026-07-23T20:33:11+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Volkswagen, Wells Fargo, and OpenAI All Made the Same Mistake",
-      "url": "https://www.inc.com/soren-kaplan/volkswagen-wells-fargo-and-openai-all-made-the-same-mistake/91379272",
-      "source": "inc.com",
-      "published": "2026-07-23T20:23:01+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MoonPay Now Accepts Discover Cards For Crypto Purchases",
-      "url": "https://www.cryptoprowl.com/releases/moonpay-now-accepts-discover-cards-for-crypto-purchases-6240?.tsrc=rss",
-      "source": "cryptoprowl.com",
-      "published": "2026-07-23T20:22:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
