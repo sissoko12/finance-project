@@ -1,223 +1,221 @@
 {
-  "last_updated": "2026-07-24T20:47:44.179114+00:00",
+  "last_updated": "2026-07-24T22:11:23.900504+00:00",
   "headlines": [
     {
-      "title": "Businesses Are Borrowing Again and Regional Banks Are Cashing In",
-      "url": "https://www.pymnts.com/news/banking/2026/businesses-are-borrowing-again-and-regional-banks-are-cashing-in/",
-      "source": "pymnts.com",
-      "published": "2026-07-24T20:26:43+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011158/0000950103-26-011158-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081481/0001213900-26-081481-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-24T20:25:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "How Goldman Sachs’ Quant Approach Looks to Unlock Active ETFs",
-      "url": "https://www.etftrends.com/future-etfs-content-hub/how-goldman-sachs-quant-approach-looks-to-unlock-active-etfs/",
-      "source": "etftrends.com",
-      "published": "2026-07-24T20:20:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Five lucky winners take home Knicks-themed trash bins like one that cost JP Morgan exec her job",
-      "url": "https://nypost.com/2026/07/24/us-news/five-lucky-winners-take-home-coveted-knicks-themed-trash-bins/",
-      "source": "nypost.com",
-      "published": "2026-07-24T20:10:10+00:00",
+      "published": "2026-07-24T21:19:59+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316077/0001193125-26-316077-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T20:06:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Shopify (NASDAQ:SHOP) Given New $150.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/shopify-nasdaqshop-given-new-15000-price-target-at-citigroup-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T20:00:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "US BANCORP DE: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426021202/0001918704-26-021202-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T19:44:24+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Boston Beer (NYSE:SAM) Price Target to $185.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-boston-beer-nysesam-price-target-to-18500-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:42:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Restaurant Brands International (NYSE:QSR) Price Target to $78.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-restaurant-brands-international-nyseqsr-price-target-to-7800-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:42:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Figma (NYSE:FIG) Given New $35.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/figma-nysefig-given-new-3500-price-target-at-citigroup-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:42:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HubSpot (NYSE:HUBS) Price Target Lowered to $217.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/hubspot-nysehubs-price-target-lowered-to-21700-at-citigroup-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:42:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX in focus as Morgan Stanley ponders 'zero' AI value; Musk previews new models",
-      "url": "https://seekingalpha.com/news/4618353-spacex-in-focus-as-morgan-stanley-ponders-zero-ai-value-musk-previews-new-models",
-      "source": "seekingalpha.com",
-      "published": "2026-07-24T19:34:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Charles Schwab: Dual Beats And Attractive Preferreds | $SCHW",
-      "url": "https://seekingalpha.com/article/4925443-charles-schwab-dual-beats-and-attractive-preferreds",
-      "source": "seekingalpha.com",
-      "published": "2026-07-24T19:26:29+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Ryder System (NYSE:R) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.tickerreport.com/banking-finance/13514475/ryder-system-nyser-stock-price-expected-to-rise-citigroup-analyst-says.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-24T19:24:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Accendra Health (NYSE:ACH) Given New $4.50 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/accendra-health-nyseach-given-new-450-price-target-at-citigroup-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:24:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ryder System (NYSE:R) Given New $283.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/ryder-system-nyser-given-new-28300-price-target-at-citigroup-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:24:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for Union Pacific (NYSE:UNP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-union-pacific-nyseunp-stock-price-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:24:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Boosts CSX (NASDAQ:CSX) Price Target to $54.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-boosts-csx-nasdaqcsx-price-target-to-5400-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:24:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Norfolk Southern (NYSE:NSC) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-norfolk-southern-nysensc-stock-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:24:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Increases Honeywell International (NASDAQ:HON) Price Target to $279.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-increases-honeywell-international-nasdaqhon-price-target-to-27900-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T19:24:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021200/0001918704-26-021200-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021218/0001918704-26-021218-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-24T19:22:22+00:00",
+      "published": "2026-07-24T21:18:22+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CQP Maintained by JP Morgan -- Price Target Raised to $64.00",
-      "url": "https://www.gurufocus.com/news/8978356/cqp-maintained-by-jp-morgan-price-target-raised-to-6400",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T19:03:52+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021214/0001918704-26-021214-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T21:02:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley says SpaceX at $100 would price AI business at zero",
+      "url": "https://cryptobriefing.com/spacex-shares-zero-ai-value-morgan-stanley/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-24T21:01:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081467/0001213900-26-081467-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T21:00:44+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "AAL Maintained by JP Morgan -- Price Target Raised to $24.00",
-      "url": "https://www.gurufocus.com/news/8978355/aal-maintained-by-jp-morgan-price-target-raised-to-2400",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T19:03:16+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316211/0001193125-26-316211-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T20:55:40+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "ALLE Maintained by JP Morgan -- Price Target Raised to $170",
-      "url": "https://www.gurufocus.com/news/8978354/alle-maintained-by-jp-morgan-price-target-raised-to-170",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T19:02:47+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316205/0001193125-26-316205-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T20:52:47+00:00",
       "tickers": [
-        "JPM"
+        "GS"
+      ]
+    },
+    {
+      "title": "CAH Maintained by Citigroup -- Price Target Raised to $265",
+      "url": "https://www.gurufocus.com/news/8978498/cah-maintained-by-citigroup-price-target-raised-to-265",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:42:13+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ACH Maintained by Citigroup -- Price Target Lowered to $4.50",
+      "url": "https://www.gurufocus.com/news/8978497/ach-maintained-by-citigroup-price-target-lowered-to-450",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:41:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TCBI Maintained by Citigroup -- Price Target Raised to $107",
+      "url": "https://www.gurufocus.com/news/8978496/tcbi-maintained-by-citigroup-price-target-raised-to-107",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:41:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ONB Maintained by Citigroup -- Price Target Raised to $31.00",
+      "url": "https://www.gurufocus.com/news/8978495/onb-maintained-by-citigroup-price-target-raised-to-3100",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:41:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "FITB Maintained by Citigroup -- Price Target Raised to $59.00",
+      "url": "https://www.gurufocus.com/news/8978494/fitb-maintained-by-citigroup-price-target-raised-to-5900",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:40:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BKU Maintained by Citigroup -- Price Target Lowered to $42",
+      "url": "https://www.gurufocus.com/news/8978493/bku-maintained-by-citigroup-price-target-lowered-to-42",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:40:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "R Maintained by Citigroup -- Price Target Raised to $283",
+      "url": "https://www.gurufocus.com/news/8978492/r-maintained-by-citigroup-price-target-raised-to-283",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:39:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "UNP Maintained by Citigroup -- Price Target Raised to $349",
+      "url": "https://www.gurufocus.com/news/8978491/unp-maintained-by-citigroup-price-target-raised-to-349",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:39:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NSC Maintained by Citigroup -- Price Target Raised to $376",
+      "url": "https://www.gurufocus.com/news/8978490/nsc-maintained-by-citigroup-price-target-raised-to-376",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:39:13+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CSX Maintained by Citigroup -- Price Target Raised to $54",
+      "url": "https://www.gurufocus.com/news/8978489/csx-maintained-by-citigroup-price-target-raised-to-54",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:38:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PHM Maintained by Citigroup -- Price Target Lowered to $134",
+      "url": "https://www.gurufocus.com/news/8978488/phm-maintained-by-citigroup-price-target-lowered-to-134",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:38:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HON Maintains Buy Rating -- Price Target Raised to $279 by Citigroup",
+      "url": "https://www.gurufocus.com/news/8978487/hon-maintains-buy-rating-price-target-raised-to-279-by-citigroup",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:38:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "EVRG Maintained by Citigroup -- Price Target Raised to $97.00",
+      "url": "https://www.gurufocus.com/news/8978486/evrg-maintained-by-citigroup-price-target-raised-to-9700",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:37:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MKSI Maintained by Citigroup -- Price Target Raised to $425",
+      "url": "https://www.gurufocus.com/news/8978485/mksi-maintained-by-citigroup-price-target-raised-to-425",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:37:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CCI Maintained by Citigroup -- Price Target Lowered to $98.00",
+      "url": "https://www.gurufocus.com/news/8978482/cci-maintained-by-citigroup-price-target-lowered-to-9800",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:36:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "IBM Maintained by Citigroup -- Price Target Lowered to $245",
+      "url": "https://www.gurufocus.com/news/8978480/ibm-maintained-by-citigroup-price-target-lowered-to-245",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T20:35:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "US BANCORP DE: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006739/0001225208-26-006739-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T20:34:56+00:00",
+      "tickers": [
+        "USB"
       ]
     }
   ]
