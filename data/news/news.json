@@ -1,184 +1,171 @@
 {
-  "last_updated": "2026-07-24T15:14:20.737687+00:00",
+  "last_updated": "2026-07-24T17:07:32.813490+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021141/0001918704-26-021141-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T14:51:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wise Prepares Second US Bank Charter Bid After OCC Rejection",
-      "url": "https://www.pymnts.com/legal/2026/wise-prepares-second-us-bank-charter-bid-after-occ-rejection/",
-      "source": "pymnts.com",
-      "published": "2026-07-24T14:32:53+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Norfolk man gets prison sentence in ATM burglary, assault case",
-      "url": "https://norfolkdailynews.com/select/news/norfolk-man-gets-prison-sentence-in-atm-burglary-assault-case/article_614e3312-d8b6-4027-9e7d-a692e8cc1002.html",
-      "source": "norfolkdailynews.com",
-      "published": "2026-07-24T14:31:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA calls 30-year lows in Hong Kong property a secular buy",
-      "url": "https://seekingalpha.com/news/4618150-bofa-calls-30-year-lows-in-hong-kong-property-a-secular-buy",
+      "title": "Progressive raised to Equalweight at Morgan Stanley on steady quarterly trends",
+      "url": "https://seekingalpha.com/news/4618277-progressive-raised-to-equalweight-at-morgan-stanley-on-steady-quarterly-trends",
       "source": "seekingalpha.com",
-      "published": "2026-07-24T13:54:31+00:00",
+      "published": "2026-07-24T16:30:25+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226036173/0001839882-26-036173-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T13:52:32+00:00",
+      "title": "Capital One Financial: Q2 Earnings Confirms The Trajectory | $COF",
+      "url": "https://seekingalpha.com/article/4925363-capital-one-financial-q2-earnings-confirms-the-trajectory",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T16:21:01+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021122/0001918704-26-021122-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036240/0001839882-26-036240-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-24T13:47:51+00:00",
+      "published": "2026-07-24T16:17:45+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021120/0001918704-26-021120-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T13:37:18+00:00",
+      "title": "JPMorgan Chase Preferreds: Why It Might Be Better To Avoid High-Coupon Fixed-Rate Preferreds At Present | $JPM",
+      "url": "https://seekingalpha.com/article/4925362-jpmorgan-chase-preferreds-why-it-might-be-better-to-avoid-high-coupon-fixed-rate-preferreds-at-present",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T16:13:02+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "CUBE Maintained by Wells Fargo -- Price Target Raised to $42",
-      "url": "https://www.gurufocus.com/news/8977628/cube-maintained-by-wells-fargo-price-target-raised-to-42",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T13:35:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "RTX Maintained by Wells Fargo -- Price Target Raised to $230",
-      "url": "https://www.gurufocus.com/news/8977620/rtx-maintained-by-wells-fargo-price-target-raised-to-230",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T13:32:58+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "UNP Maintained by Wells Fargo -- Price Target Raised to $335",
-      "url": "https://www.gurufocus.com/news/8977619/unp-maintained-by-wells-fargo-price-target-raised-to-335",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T13:32:35+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CLF Maintained by Wells Fargo -- Price Target Raised to $11.00",
-      "url": "https://www.gurufocus.com/news/8977607/clf-maintained-by-wells-fargo-price-target-raised-to-1100",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T13:30:51+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Broker Joseph Duffy in Merrill Lynch, Pierce, Fenner & Smith Incorporated Firm Has Customer Complaint",
-      "url": "https://www.securitieslawyersblog.com/broker-joseph-duffy-in-merrill-lynch-pierce-fenner-smith-incorporated-firm-has-customer-complaint/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-07-24T13:23:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman lifts data center capacity outlook, flags utility stocks set to benefit",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-lifts-data-center-capacity-outlook-flags-utility-stocks-set-to-benefit-4811892",
-      "source": "investing.com",
-      "published": "2026-07-24T13:22:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021112/0001918704-26-021112-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T13:21:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The XRP ETF buyers stopped. What remains is the anatomy",
-      "url": "https://crypto.news/xrp-etf-buyers-stopped/",
-      "source": "crypto.news",
-      "published": "2026-07-24T13:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America strategist urges Fed rate hike to stabilize Treasury market",
-      "url": "https://cryptobriefing.com/bank-of-america-strategist-urges-fed-rate-hike-to-stabilize-treasury-market/",
+      "title": "LMAX taps Morgan Stanley and KBW for potential $5 billion IPO",
+      "url": "https://cryptobriefing.com/lmax-explores-sale-ipo-5-billion-valuation/",
       "source": "cryptobriefing.com",
-      "published": "2026-07-24T12:56:27+00:00",
+      "published": "2026-07-24T16:05:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "US banks raise regulatory capital at tightest valuations since the 2008 financial crisis",
+      "url": "https://cryptobriefing.com/us-banks-regulatory-capital-tightest-valuations/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-24T16:05:26+00:00",
+      "tickers": [
+        "GS",
+        "BK"
+      ]
+    },
+    {
+      "title": "What's next for Goldman Sachs after its blowout Q2 earnings?",
+      "url": "https://seekingalpha.com/news/4616587-whats-next-for-goldman-sachs-after-its-blowout-q2-earnings",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T15:52:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA's famed sell signal for stocks is at its highest level since 2021",
+      "url": "https://www.businessinsider.com/stock-market-sell-signal-bofa-bull-bear-indicator-2026-7",
+      "source": "businessinsider.com",
+      "published": "2026-07-24T15:52:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "NYSE Content Update: State Street + NYSE to Celebrate 'Fearless Girl'",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nyse-content-state-street-nyse-125500610.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-24T12:55:00+00:00",
+      "title": "SCHWAB CHARLES CORP: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000194984626000438/0001949846-26-000438-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T15:50:19+00:00",
       "tickers": [
-        "STT"
+        "C",
+        "SCHW"
       ]
     },
     {
-      "title": "A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist",
-      "url": "https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-07-24T12:53:00+00:00",
+      "title": "Ed Sheeran performs during iHeartRadio KISS108's Jingle Ball 2025 Presented By Capital One at TD Garden on Dec. 14, 2025, in Boston.",
+      "url": "https://thebrunswicknews.com/news/national_news/ed-sheeran-performs-during-iheartradio-kiss108s-jingle-ball-2025-presented-by-capital-one-at-td/image_65c698f0-cdb7-520b-9f15-467245fc3713.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-07-24T15:50:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526315487/0001193125-26-315487-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T15:47:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Mets Host Dodgers In Queens As Deadline Pressure Builds",
+      "url": "https://wabcradio.com/2026/07/24/mets-host-dodgers-queens-deadline-pressure-builds/",
+      "source": "wabcradio.com",
+      "published": "2026-07-24T15:46:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Financial funds record biggest four-week inflow since January 2022, BofA data shows",
+      "url": "https://seekingalpha.com/news/4618246-financials-funds-record-biggest-four-week-inflow-since-january-2022-bofa-data-shows",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T15:37:50+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Palantir Estimates Rise as Citi Sees Commercial Growth Rebound",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-estimates-rise-citi-sees-124505554.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-24T12:45:05+00:00",
+      "title": "CLARITY Act splits Wall Street and crypto as Goldman Sachs breaks with banks and Charles Hoskinson backs Warren",
+      "url": "https://cryptoslate.com/clarity-act-splits-wall-street-and-crypto-as-goldman-sachs-breaks-with-banks-and-charles-hoskinson-backs-warren/",
+      "source": "cryptoslate.com",
+      "published": "2026-07-24T15:35:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Kevin Warsh Said the Fed Has \"No Tolerance\" for Inflation and Is Charting a \"New Course\" on Monetary Policy. J.P. Morgan Analysts Expect Rates to Hold Steady Through 2026.",
+      "url": "https://www.fool.com/investing/2026/07/24/kevin-warsh-fed-tolerance-inflation-rates-2026/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-24T15:30:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021147/0001918704-26-021147-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T15:06:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Announces 14% Increase in Quarterly Dividend",
+      "url": "https://www.gurufocus.com/news/8977866/bank-of-america-bac-announces-14-increase-in-quarterly-dividend",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T15:00:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Announces Dividend Increase of 11.7%",
+      "url": "https://www.gurufocus.com/news/8977839/citigroup-c-announces-dividend-increase-of-117",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T14:56:48+00:00",
       "tickers": [
         "C"
       ]
