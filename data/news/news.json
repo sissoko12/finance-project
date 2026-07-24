@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-07-24T00:05:39.969969+00:00",
+  "last_updated": "2026-07-24T03:55:14.989877+00:00",
   "headlines": [
+    {
+      "title": "Johnson Noncommital on CFPB Funding in Confirmation Hearing",
+      "url": "https://www.pymnts.com/legal/cfpb/2026/johnson-noncommital-on-cfpb-funding-in-confirmation-hearing/",
+      "source": "pymnts.com",
+      "published": "2026-07-24T01:51:15+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Panthers Stadium Announcement - Panthers owner David Tepper, Bank of America CEO Brian Moynihan, ...",
+      "url": "https://www.idahopress.com/sports/national/panthers-stadium-announcement/image_70bc729e-58e3-5ec4-a2e4-d324b75e927c.html",
+      "source": "idahopress.com",
+      "published": "2026-07-24T01:30:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Bank of New York Mellon Corporation (BNY) Announces Issuance of Series N Preferred Stock",
+      "url": "https://www.gurufocus.com/news/8976412/the-bank-of-new-york-mellon-corporation-bny-announces-issuance-of-series-n-preferred-stock",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T00:17:28+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "State Street Corporation (STT) Announces Issuance of Senior Notes Totaling $1.25 Billion",
+      "url": "https://www.gurufocus.com/news/8976417/state-street-corporation-stt-announces-issuance-of-senior-notes-totaling-125-billion",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T00:17:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Little confused how credit cards/interest fees work.",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4uw4s/little_confused_how_credit_cardsinterest_fees_work/",
+      "source": "reddit.com",
+      "published": "2026-07-23T23:50:44+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000164959926000009/0001649599-26-000009-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T23:39:19+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Agilon cut to Sell from Neutral by Citi",
+      "url": "https://awesomecapital.blogspot.com/2026/07/agilon-cut-to-sell-from-neutral-by-citi.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-07-23T23:35:02+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "IRS boss Frank Bisignano has been accused of corporate spying — here’s what his old employer JPMorgan thinks",
       "url": "https://nypost.com/2026/07/23/business/irs-boss-frank-bisignano-has-been-accused-of-corporate-spying-heres-what-his-old-employer-jpmorgan-thinks/",
@@ -101,6 +168,16 @@
       ]
     },
     {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021095/0001918704-26-021095-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-23T21:09:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526314579/0001193125-26-314579-index.htm",
       "source": "sec.gov",
@@ -135,54 +212,6 @@
       "tickers": [
         "JPM",
         "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
-      "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act?.tsrc=rss",
-      "source": "decrypt.co",
-      "published": "2026-07-23T20:44:09+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526314242/0001193125-26-314242-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:42:16+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
-      "url": "https://finance.yahoo.com/markets/options/articles/goldman-offers-way-trade-ai-204112017.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-23T20:41:12+00:00",
-      "tickers": [
-        "JPM",
-        "GS"
-      ]
-    },
-    {
-      "title": "Top sporting events around Charlotte | July 23rd – July 29th",
-      "url": "https://www.wccbcharlotte.com/2026/07/23/top-sporting-events-around-charlotte-july-23rd-july-29th/",
-      "source": "wccbcharlotte.com",
-      "published": "2026-07-23T20:38:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036130/0001839882-26-036130-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-23T20:33:11+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
