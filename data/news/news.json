@@ -1,286 +1,185 @@
 {
-  "last_updated": "2026-07-24T13:02:53.711030+00:00",
+  "last_updated": "2026-07-24T15:14:20.737687+00:00",
   "headlines": [
     {
-      "title": "Wall Street Bank Just Declared the Magnificent 7 as “Dead” — What Happens Next?",
-      "url": "https://247wallst.com/investing/2026/07/24/wall-street-bank-just-declared-the-magnificent-7-as-dead-what-happens-next/",
-      "source": "247wallst.com",
-      "published": "2026-07-24T12:26:10+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021141/0001918704-26-021141-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T14:51:17+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Form 4 State Street Corp For: 24 July",
-      "url": "https://www.investing.com/news/filings/form-4-state-street-corp-for-24-july-93CH-4811658",
-      "source": "investing.com",
-      "published": "2026-07-24T12:19:01+00:00",
+      "title": "Wise Prepares Second US Bank Charter Bid After OCC Rejection",
+      "url": "https://www.pymnts.com/legal/2026/wise-prepares-second-us-bank-charter-bid-after-occ-rejection/",
+      "source": "pymnts.com",
+      "published": "2026-07-24T14:32:53+00:00",
       "tickers": [
-        "STT"
+        "USB"
       ]
     },
     {
-      "title": "Truist Financial Has Lowered Expectations for Fiserv (NASDAQ:FISV) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-fiserv-nasdaqfisv-stock-price-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:12:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Reiterates Equal Weight Rating for Huntington Bancshares (NASDAQ:HBAN)",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-reiterates-equal-weight-rating-for-huntington-bancshares-nasdaqhban-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:12:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for Gemini Space Station (NASDAQ:GEMI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-gemini-space-station-nasdaqgemi-stock-price-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:12:25+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for Shift4 Payments (NYSE:FOUR) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-shift4-payments-nysefour-stock-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:12:22+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Flywire's (FLYW) \"Hold\" Rating Reiterated at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/flywires-flyw-hold-rating-reiterated-at-truist-financial-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:42+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Infosys' (INFY) Neutral Rating Reaffirmed at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/infosys-infy-neutral-rating-reaffirmed-at-jpmorgan-chase-co-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PayPal (NASDAQ:PYPL) Upgraded at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/paypal-nasdaqpypl-upgraded-at-truist-financial-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:40+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Rollins (NYSE:ROL) Given \"Neutral\" Rating at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/rollins-nyserol-given-neutral-rating-at-jpmorgan-chase-co-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Shattuck Labs (NASDAQ:STTK) Coverage Initiated by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/shattuck-labs-nasdaqsttk-coverage-initiated-by-analysts-at-jpmorgan-chase-co-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Reiterates \"Neutral\" Rating for GSK (NYSE:GSK)",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-reiterates-neutral-rating-for-gsk-nysegsk-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/hewlett-packard-enterprise-nysehpe-stock-price-expected-to-rise-citigroup-analyst-says-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Alaska Air Group (NYSE:ALK) Price Target to $37.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-alaska-air-group-nysealk-price-target-to-3700-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Southwest Airlines (NYSE:LUV) Price Target to $50.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-southwest-airlines-nyseluv-price-target-to-5000-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Boosts United Rentals (NYSE:URI) Price Target to $1,330.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-boosts-united-rentals-nyseuri-price-target-to-133000-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Boosts Affirm (NASDAQ:AFRM) Price Target to $83.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-affirm-nasdaqafrm-price-target-to-8300-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for BILL (NYSE:BILL) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-bill-nysebill-stock-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "DLocal (NASDAQ:DLO) Price Target Raised to $17.00",
-      "url": "https://www.marketbeat.com/instant-alerts/dlocal-nasdaqdlo-price-target-raised-to-1700-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Fidelity National Information Services (NYSE:FIS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-fidelity-national-information-services-nysefis-stock-price-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T12:06:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Immutep Announces Abstract Accepted for Presentation at the European Society for Medical Oncology (ESMO) Congress 2026",
-      "url": "https://www.globenewswire.com/en/news-release/2026/07/24/3332815/0/en/Immutep-Announces-Abstract-Accepted-for-Presentation-at-the-European-Society-for-Medical-Oncology-ESMO-Congress-2026.html",
-      "source": "globenewswire.com",
-      "published": "2026-07-24T12:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Dell in focus as Citi adds 90-day catalyst watch",
-      "url": "https://seekingalpha.com/news/4618046-dell-in-focus-as-citi-adds-90-day-catalyst-watch",
-      "source": "seekingalpha.com",
-      "published": "2026-07-24T11:52:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Pennsylvania Man Loses $44,000 After Bank Imposter Directs Irreversible Wire Transfer to Wells Fargo: Report",
-      "url": "https://dailyhodl.com/2026/07/24/pennsylvania-man-loses-44000-after-bank-imposter-triggers-irreversible-wire-transfer-to-wells-fargo-report",
-      "source": "dailyhodl.com",
-      "published": "2026-07-24T11:45:34+00:00",
+      "title": "Norfolk man gets prison sentence in ATM burglary, assault case",
+      "url": "https://norfolkdailynews.com/select/news/norfolk-man-gets-prison-sentence-in-atm-burglary-assault-case/article_614e3312-d8b6-4027-9e7d-a692e8cc1002.html",
+      "source": "norfolkdailynews.com",
+      "published": "2026-07-24T14:31:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Caesars Entertainment (NASDAQ:CZR) Downgraded to Hold Rating by Capital One Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/caesars-entertainment-nasdaqczr-downgraded-to-hold-rating-by-capital-one-financial-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T11:42:31+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon (NYSE:BNY) Upgraded at Zacks Research",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-nysebny-upgraded-at-zacks-research-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T11:42:29+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "DeFi’s next institutional hurdle is deciding who can be trusted to price real-world assets",
-      "url": "https://cryptoslate.com/defis-next-institutional-hurdle-is-deciding-who-can-be-trusted-to-price-the-collateral/",
-      "source": "cryptoslate.com",
-      "published": "2026-07-24T11:30:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley raises Apple price target $4 to $364",
-      "url": "https://www.ped30.com/2026/07/24/morgan-stanley-raises-apple-price-target-4-364/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morgan-stanley-raises-apple-price-target-4-364",
-      "source": "ped30.com",
-      "published": "2026-07-24T11:21:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000364/0000070858-26-000364-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T11:07:02+00:00",
+      "title": "BofA calls 30-year lows in Hong Kong property a secular buy",
+      "url": "https://seekingalpha.com/news/4618150-bofa-calls-30-year-lows-in-hong-kong-property-a-secular-buy",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T13:54:31+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Keebeck Wealth Management Has $1.44 Million Holdings in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13514065/keebeck-wealth-management-has-1-44-million-holdings-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-24T10:59:15+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226036173/0001839882-26-036173-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T13:52:32+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021122/0001918704-26-021122-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T13:47:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021120/0001918704-26-021120-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T13:37:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CUBE Maintained by Wells Fargo -- Price Target Raised to $42",
+      "url": "https://www.gurufocus.com/news/8977628/cube-maintained-by-wells-fargo-price-target-raised-to-42",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T13:35:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "RTX Maintained by Wells Fargo -- Price Target Raised to $230",
+      "url": "https://www.gurufocus.com/news/8977620/rtx-maintained-by-wells-fargo-price-target-raised-to-230",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T13:32:58+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "UNP Maintained by Wells Fargo -- Price Target Raised to $335",
+      "url": "https://www.gurufocus.com/news/8977619/unp-maintained-by-wells-fargo-price-target-raised-to-335",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T13:32:35+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "CLF Maintained by Wells Fargo -- Price Target Raised to $11.00",
+      "url": "https://www.gurufocus.com/news/8977607/clf-maintained-by-wells-fargo-price-target-raised-to-1100",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T13:30:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Broker Joseph Duffy in Merrill Lynch, Pierce, Fenner & Smith Incorporated Firm Has Customer Complaint",
+      "url": "https://www.securitieslawyersblog.com/broker-joseph-duffy-in-merrill-lynch-pierce-fenner-smith-incorporated-firm-has-customer-complaint/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-24T13:23:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman lifts data center capacity outlook, flags utility stocks set to benefit",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-lifts-data-center-capacity-outlook-flags-utility-stocks-set-to-benefit-4811892",
+      "source": "investing.com",
+      "published": "2026-07-24T13:22:13+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "BofA upgrades EU luxury sector, sees China stimulus driving recovery",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-upgrades-eu-luxury-sector-sees-china-stimulus-driving-recovery-4811139",
-      "source": "investing.com",
-      "published": "2026-07-24T10:56:11+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021112/0001918704-26-021112-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T13:21:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The XRP ETF buyers stopped. What remains is the anatomy",
+      "url": "https://crypto.news/xrp-etf-buyers-stopped/",
+      "source": "crypto.news",
+      "published": "2026-07-24T13:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America strategist urges Fed rate hike to stabilize Treasury market",
+      "url": "https://cryptobriefing.com/bank-of-america-strategist-urges-fed-rate-hike-to-stabilize-treasury-market/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-24T12:56:27+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "NYSE Content Update: State Street + NYSE to Celebrate 'Fearless Girl'",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nyse-content-state-street-nyse-125500610.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-24T12:55:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist",
+      "url": "https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-07-24T12:53:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Palantir Estimates Rise as Citi Sees Commercial Growth Rebound",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-estimates-rise-citi-sees-124505554.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-24T12:45:05+00:00",
+      "tickers": [
         "C"
       ]
     }
