@@ -1,301 +1,287 @@
 {
-  "last_updated": "2026-07-24T11:19:27.199932+00:00",
+  "last_updated": "2026-07-24T13:02:53.711030+00:00",
   "headlines": [
     {
-      "title": "Bank of America raises dividend by 14% to $0.32/shares",
-      "url": "https://seekingalpha.com/news/4618009-bank-of-america-raises-dividend-by-14-to-032shares",
-      "source": "seekingalpha.com",
-      "published": "2026-07-24T10:46:41+00:00",
+      "title": "Wall Street Bank Just Declared the Magnificent 7 as “Dead” — What Happens Next?",
+      "url": "https://247wallst.com/investing/2026/07/24/wall-street-bank-just-declared-the-magnificent-7-as-dead-what-happens-next/",
+      "source": "247wallst.com",
+      "published": "2026-07-24T12:26:10+00:00",
       "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "BofA Sticks With Buy on EssilorLuxottica, Downplays Arrival of New AI Glasses",
-      "url": "https://www.marketscreener.com/news/bofa-sticks-with-buy-on-essilorluxottica-downplays-arrival-of-new-ai-glasses-ce7f51dfda80fe27",
-      "source": "marketscreener.com",
-      "published": "2026-07-24T10:29:19+00:00",
+      "title": "Form 4 State Street Corp For: 24 July",
+      "url": "https://www.investing.com/news/filings/form-4-state-street-corp-for-24-july-93CH-4811658",
+      "source": "investing.com",
+      "published": "2026-07-24T12:19:01+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Liberty One Investment Management LLC Acquires 1,749 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-liberty-one-investment-management-llc-acquires-1749-shares-of-the-goldman-sachs-group-inc-gs-2026-07-24/",
+      "title": "Truist Financial Has Lowered Expectations for Fiserv (NASDAQ:FISV) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-fiserv-nasdaqfisv-stock-price-2026-07-24/",
       "source": "marketbeat.com",
-      "published": "2026-07-24T10:25:05+00:00",
+      "published": "2026-07-24T12:12:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Reiterates Equal Weight Rating for Huntington Bancshares (NASDAQ:HBAN)",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-reiterates-equal-weight-rating-for-huntington-bancshares-nasdaqhban-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:12:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Gemini Space Station (NASDAQ:GEMI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-gemini-space-station-nasdaqgemi-stock-price-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:12:25+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Forecasts Strong Price Appreciation for Shift4 Payments (NYSE:FOUR) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-shift4-payments-nysefour-stock-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:12:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Flywire's (FLYW) \"Hold\" Rating Reiterated at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/flywires-flyw-hold-rating-reiterated-at-truist-financial-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:42+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Infosys' (INFY) Neutral Rating Reaffirmed at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/infosys-infy-neutral-rating-reaffirmed-at-jpmorgan-chase-co-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PayPal (NASDAQ:PYPL) Upgraded at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/paypal-nasdaqpypl-upgraded-at-truist-financial-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:40+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Rollins (NYSE:ROL) Given \"Neutral\" Rating at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/rollins-nyserol-given-neutral-rating-at-jpmorgan-chase-co-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Shattuck Labs (NASDAQ:STTK) Coverage Initiated by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/shattuck-labs-nasdaqsttk-coverage-initiated-by-analysts-at-jpmorgan-chase-co-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Reiterates \"Neutral\" Rating for GSK (NYSE:GSK)",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-reiterates-neutral-rating-for-gsk-nysegsk-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/hewlett-packard-enterprise-nysehpe-stock-price-expected-to-rise-citigroup-analyst-says-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Alaska Air Group (NYSE:ALK) Price Target to $37.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-alaska-air-group-nysealk-price-target-to-3700-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Southwest Airlines (NYSE:LUV) Price Target to $50.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-southwest-airlines-nyseluv-price-target-to-5000-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Boosts United Rentals (NYSE:URI) Price Target to $1,330.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-boosts-united-rentals-nyseuri-price-target-to-133000-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Boosts Affirm (NASDAQ:AFRM) Price Target to $83.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-affirm-nasdaqafrm-price-target-to-8300-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Forecasts Strong Price Appreciation for BILL (NYSE:BILL) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-bill-nysebill-stock-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "DLocal (NASDAQ:DLO) Price Target Raised to $17.00",
+      "url": "https://www.marketbeat.com/instant-alerts/dlocal-nasdaqdlo-price-target-raised-to-1700-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Has Lowered Expectations for Fidelity National Information Services (NYSE:FIS) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-fidelity-national-information-services-nysefis-stock-price-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T12:06:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Immutep Announces Abstract Accepted for Presentation at the European Society for Medical Oncology (ESMO) Congress 2026",
+      "url": "https://www.globenewswire.com/en/news-release/2026/07/24/3332815/0/en/Immutep-Announces-Abstract-Accepted-for-Presentation-at-the-European-Society-for-Medical-Oncology-ESMO-Congress-2026.html",
+      "source": "globenewswire.com",
+      "published": "2026-07-24T12:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Dell in focus as Citi adds 90-day catalyst watch",
+      "url": "https://seekingalpha.com/news/4618046-dell-in-focus-as-citi-adds-90-day-catalyst-watch",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T11:52:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Pennsylvania Man Loses $44,000 After Bank Imposter Directs Irreversible Wire Transfer to Wells Fargo: Report",
+      "url": "https://dailyhodl.com/2026/07/24/pennsylvania-man-loses-44000-after-bank-imposter-triggers-irreversible-wire-transfer-to-wells-fargo-report",
+      "source": "dailyhodl.com",
+      "published": "2026-07-24T11:45:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Caesars Entertainment (NASDAQ:CZR) Downgraded to Hold Rating by Capital One Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/caesars-entertainment-nasdaqczr-downgraded-to-hold-rating-by-capital-one-financial-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T11:42:31+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon (NYSE:BNY) Upgraded at Zacks Research",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-nysebny-upgraded-at-zacks-research-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T11:42:29+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "DeFi’s next institutional hurdle is deciding who can be trusted to price real-world assets",
+      "url": "https://cryptoslate.com/defis-next-institutional-hurdle-is-deciding-who-can-be-trusted-to-price-the-collateral/",
+      "source": "cryptoslate.com",
+      "published": "2026-07-24T11:30:49+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011126/0000950103-26-011126-index.htm",
+      "title": "Morgan Stanley raises Apple price target $4 to $364",
+      "url": "https://www.ped30.com/2026/07/24/morgan-stanley-raises-apple-price-target-4-364/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morgan-stanley-raises-apple-price-target-4-364",
+      "source": "ped30.com",
+      "published": "2026-07-24T11:21:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000364/0000070858-26-000364-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-24T10:10:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA’s Raedler Says Investors Are Ignoring Stock-Market Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/bofa-s-raedler-says-investors-are-ignoring-stock-market-risks",
-      "source": "bloomberg.com",
-      "published": "2026-07-24T09:51:09+00:00",
+      "published": "2026-07-24T11:07:02+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BofA sees Hong Kong dollar rates spike risk on Fed hikes",
-      "url": "https://www.investing.com/news/forex-news/bofa-sees-hong-kong-dollar-rates-spike-risk-on-fed-hikes-93CH-4810869",
+      "title": "Keebeck Wealth Management Has $1.44 Million Holdings in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13514065/keebeck-wealth-management-has-1-44-million-holdings-in-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-24T10:59:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA upgrades EU luxury sector, sees China stimulus driving recovery",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-upgrades-eu-luxury-sector-sees-china-stimulus-driving-recovery-4811139",
       "source": "investing.com",
-      "published": "2026-07-24T09:41:20+00:00",
+      "published": "2026-07-24T10:56:11+00:00",
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "GSK Receives Neutral Rating from Citi with 2,100 GBp Price Target",
-      "url": "https://www.gurufocus.com/news/8977329/gsk-receives-neutral-rating-from-citi-with-2100-gbp-price-target",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T09:29:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NewEdge Wealth LLC Purchases 4,506 Shares of The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-purchases-4506-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:29:15+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "NewEdge Wealth LLC Sells 22,039 Shares of The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-sells-22039-shares-of-the-charles-schwab-corporation-schw-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:28:59+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "NewEdge Wealth LLC Decreases Stake in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-decreases-stake-in-bank-of-america-corporation-bac-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:28:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 76,752 Shares of General Mills, Inc. $GIS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-76752-shares-of-general-mills-inc-gis-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:30+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Grows Stock Holdings in Novartis AG $NVS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-grows-stock-holdings-in-novartis-ag-nvs-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:30+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "L3Harris Technologies Inc $LHX Stock Position Boosted by PNC Financial Services Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-l3harris-technologies-inc-lhx-stock-position-boosted-by-pnc-financial-services-group-inc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:30+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 11,136 Shares of Fortinet, Inc. $FTNT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-11136-shares-of-fortinet-inc-ftnt-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:21+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Cuts Position in Qnity Electronics, Inc. $Q",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-cuts-position-in-qnity-electronics-inc-q-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:17+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Acquires 29,587 Shares of Uber Technologies, Inc. $UBER",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-acquires-29587-shares-of-uber-technologies-inc-uber-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:17+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Increases Stake in Ecolab Inc. $ECL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-increases-stake-in-ecolab-inc-ecl-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:13+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Purchases 20,292 Shares of Arista Networks, Inc. $ANET",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-purchases-20292-shares-of-arista-networks-inc-anet-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:07+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $41.26 Million Holdings in Kimberly-Clark Corporation $KMB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-has-4126-million-holdings-in-kimberly-clark-corporation-kmb-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:23:04+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 34,389 Shares of T. Rowe Price Group, Inc. $TROW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-34389-shares-of-t-rowe-price-group-inc-trow-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:58+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Salesforce Inc. $CRM Shares Sold by PNC Financial Services Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-salesforce-inc-crm-shares-sold-by-pnc-financial-services-group-inc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:54+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks, Inc. $PANW Shares Purchased by PNC Financial Services Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-palo-alto-networks-inc-panw-shares-purchased-by-pnc-financial-services-group-inc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:54+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Target Corporation $TGT Shares Sold by PNC Financial Services Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-target-corporation-tgt-shares-sold-by-pnc-financial-services-group-inc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:48+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $51.02 Million Stock Holdings in Analog Devices, Inc. $ADI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-has-5102-million-stock-holdings-in-analog-devices-inc-adi-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:47+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Shares Acquired by PNC Financial Services Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-acquired-by-pnc-financial-services-group-inc-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:47+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 115,352 Shares of NIKE, Inc. $NKE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-sells-115352-shares-of-nike-inc-nke-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:46+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Grows Holdings in CME Group Inc. $CME",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-grows-holdings-in-cme-group-inc-cme-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:46+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $52.82 Million Stock Holdings in Southern Company (The) $SO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-has-5282-million-stock-holdings-in-southern-company-the-so-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:43+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Trims Holdings in ASML Holding N.V. $ASML",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-trims-holdings-in-asml-holding-nv-asml-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:43+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Buys 5,461 Shares of Carpenter Technology Corporation $CRS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-buys-5461-shares-of-carpenter-technology-corporation-crs-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T09:22:42+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
