@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-07-24T22:11:23.900504+00:00",
+  "last_updated": "2026-07-24T23:35:18.215255+00:00",
   "headlines": [
+    {
+      "title": "DraftKings Price Target, Q2 Estimates Pared by Morgan Stanley on Prediction Market Spending",
+      "url": "https://www.casino.org/news/draftkings-price-target-q2-estimates-pared-by-morgan-stanley-on-prediction-market-spending/",
+      "source": "casino.org",
+      "published": "2026-07-24T23:12:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation (NYSE:BAC) Plans Dividend Increase - $0.32 Per Share",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-corporation-nysebac-plans-dividend-increase-032-per-share-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T22:30:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of July 26 | $ALB $BAC $CBU $EFSC $FCBC",
+      "url": "https://seekingalpha.com/article/4925482-dividend-champion-contender-and-challenger-highlights-week-of-july-26",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T22:06:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Why Progressive (PGR) Stock Is Up Today",
+      "url": "https://stockstory.org/us/stocks/nyse/pgr/news/why-up-down/why-progressive-pgr-stock-is-up-today",
+      "source": "stockstory.org",
+      "published": "2026-07-24T22:00:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Shares Up 1.2% - Here's What Happened",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-shares-up-12-heres-what-happened-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T21:40:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021223/0001918704-26-021223-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T21:27:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316269/0001193125-26-316269-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T21:20:50+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026081481/0001213900-26-081481-index.htm",
@@ -17,15 +83,6 @@
       "published": "2026-07-24T21:18:22+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021214/0001918704-26-021214-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T21:02:44+00:00",
-      "tickers": [
         "C"
       ]
     },
@@ -48,19 +105,20 @@
       ]
     },
     {
+      "title": "Bank of America raises dividend 14%, its largest hike since 2021",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/07/24/bank-of-america-raise-dividend-payout-shareholders.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-07-24T20:58:59+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316211/0001193125-26-316211-index.htm",
       "source": "sec.gov",
       "published": "2026-07-24T20:55:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316205/0001193125-26-316205-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T20:52:47+00:00",
       "tickers": [
         "GS"
       ]
@@ -90,132 +148,6 @@
       "published": "2026-07-24T20:41:27+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "ONB Maintained by Citigroup -- Price Target Raised to $31.00",
-      "url": "https://www.gurufocus.com/news/8978495/onb-maintained-by-citigroup-price-target-raised-to-3100",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:41:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FITB Maintained by Citigroup -- Price Target Raised to $59.00",
-      "url": "https://www.gurufocus.com/news/8978494/fitb-maintained-by-citigroup-price-target-raised-to-5900",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:40:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BKU Maintained by Citigroup -- Price Target Lowered to $42",
-      "url": "https://www.gurufocus.com/news/8978493/bku-maintained-by-citigroup-price-target-lowered-to-42",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:40:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "R Maintained by Citigroup -- Price Target Raised to $283",
-      "url": "https://www.gurufocus.com/news/8978492/r-maintained-by-citigroup-price-target-raised-to-283",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:39:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "UNP Maintained by Citigroup -- Price Target Raised to $349",
-      "url": "https://www.gurufocus.com/news/8978491/unp-maintained-by-citigroup-price-target-raised-to-349",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:39:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NSC Maintained by Citigroup -- Price Target Raised to $376",
-      "url": "https://www.gurufocus.com/news/8978490/nsc-maintained-by-citigroup-price-target-raised-to-376",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:39:13+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CSX Maintained by Citigroup -- Price Target Raised to $54",
-      "url": "https://www.gurufocus.com/news/8978489/csx-maintained-by-citigroup-price-target-raised-to-54",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:38:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PHM Maintained by Citigroup -- Price Target Lowered to $134",
-      "url": "https://www.gurufocus.com/news/8978488/phm-maintained-by-citigroup-price-target-lowered-to-134",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:38:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HON Maintains Buy Rating -- Price Target Raised to $279 by Citigroup",
-      "url": "https://www.gurufocus.com/news/8978487/hon-maintains-buy-rating-price-target-raised-to-279-by-citigroup",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:38:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EVRG Maintained by Citigroup -- Price Target Raised to $97.00",
-      "url": "https://www.gurufocus.com/news/8978486/evrg-maintained-by-citigroup-price-target-raised-to-9700",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:37:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MKSI Maintained by Citigroup -- Price Target Raised to $425",
-      "url": "https://www.gurufocus.com/news/8978485/mksi-maintained-by-citigroup-price-target-raised-to-425",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:37:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CCI Maintained by Citigroup -- Price Target Lowered to $98.00",
-      "url": "https://www.gurufocus.com/news/8978482/cci-maintained-by-citigroup-price-target-lowered-to-9800",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:36:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "IBM Maintained by Citigroup -- Price Target Lowered to $245",
-      "url": "https://www.gurufocus.com/news/8978480/ibm-maintained-by-citigroup-price-target-lowered-to-245",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:35:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "US BANCORP DE: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826006739/0001225208-26-006739-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-24T20:34:56+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
