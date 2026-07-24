@@ -1,236 +1,223 @@
 {
-  "last_updated": "2026-07-24T19:01:06.427181+00:00",
+  "last_updated": "2026-07-24T20:47:44.179114+00:00",
   "headlines": [
     {
-      "title": "Microsoft Draws $600 Price Target Ahead of Fiscal Fourth-Quarter Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-draws-600-price-target-181834000.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-24T18:18:34+00:00",
+      "title": "Businesses Are Borrowing Again and Regional Banks Are Cashing In",
+      "url": "https://www.pymnts.com/news/banking/2026/businesses-are-borrowing-again-and-regional-banks-are-cashing-in/",
+      "source": "pymnts.com",
+      "published": "2026-07-24T20:26:43+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036272/0001839882-26-036272-index.htm",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011158/0000950103-26-011158-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-24T18:01:09+00:00",
+      "published": "2026-07-24T20:25:59+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Sets New 1-Year High - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-sets-new-1-year-high-whats-next-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T18:00:47+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Hits New 52-Week High - Should You Buy?",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-hits-new-52-week-high-should-you-buy-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T18:00:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "LMAX taps Morgan Stanley to weigh $5B sale or Nasdaq listing",
-      "url": "https://crypto.news/lmax-taps-morgan-stanley-to-weigh-5b-nasdaq-listing/",
-      "source": "crypto.news",
-      "published": "2026-07-24T17:58:07+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for American Airlines Group (NASDAQ:AAL) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-american-airlines-group-nasdaqaal-stock-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cheniere Energy (NYSE:LNG) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/cheniere-energy-nyselng-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases Cheniere Energy Partners (NYSE:CQP) Price Target to $64.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-cheniere-energy-partners-nysecqp-price-target-to-6400-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Digital Realty Trust (NYSE:DLR) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/digital-realty-trust-nysedlr-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Edwards Lifesciences (NYSE:EW) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-edwards-lifesciences-nyseew-stock-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for EastGroup Properties (NYSE:EGP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-eastgroup-properties-nyseegp-stock-price-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases First Citizens BancShares (NASDAQ:FCNCA) Price Target to $2,450.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-first-citizens-bancshares-nasdaqfcnca-price-target-to-245000-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Gentherm (NASDAQ:THRM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/gentherm-nasdaqthrm-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "IMAX (NYSE:IMAX) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/imax-nyseimax-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Intel (NASDAQ:INTC) Price Target Raised to $85.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/intel-nasdaqintc-price-target-raised-to-8500-at-jpmorgan-chase-co-2026-07-24/",
-      "source": "marketbeat.com",
-      "published": "2026-07-24T17:54:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Why BofA Thinks Micron Stock Could Be One of AI’s Biggest Long-Term Winners",
-      "url": "https://www.barchart.com/story/news/3452447/why-bofa-thinks-micron-stock-could-be-one-of-ais-biggest-long-term-winners",
-      "source": "barchart.com",
-      "published": "2026-07-24T17:52:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-      "source": "bloomberg.com",
-      "published": "2026-07-24T17:48:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BNP Paribas: 5.7% Yield And Positive Operating Momentum Support 'Buy' Rating | $GS $MS $AGESY $BNPQF $BNPQY",
-      "url": "https://seekingalpha.com/article/4925411-bnp-paribas-5-7-percent-yield-and-positive-operating-momentum-support-buy-rating",
-      "source": "seekingalpha.com",
-      "published": "2026-07-24T17:46:10+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "KALU Maintained by Wells Fargo -- Price Target Raised to $169",
-      "url": "https://www.gurufocus.com/news/8978157/kalu-maintained-by-wells-fargo-price-target-raised-to-169",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T17:27:17+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "TMUS Maintains Equal-Weight by Wells Fargo -- Price Target Lowered to $169",
-      "url": "https://www.gurufocus.com/news/8978160/tmus-maintains-equalweight-by-wells-fargo-price-target-lowered-to-169",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T17:27:17+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs (GS) Reports Record Q2 Earnings with $20.34B Revenue",
-      "url": "https://www.gurufocus.com/news/8978175/goldman-sachs-gs-reports-record-q2-earnings-with-2034b-revenue",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T17:27:17+00:00",
+      "title": "How Goldman Sachs’ Quant Approach Looks to Unlock Active ETFs",
+      "url": "https://www.etftrends.com/future-etfs-content-hub/how-goldman-sachs-quant-approach-looks-to-unlock-active-etfs/",
+      "source": "etftrends.com",
+      "published": "2026-07-24T20:20:53+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "FCX Maintained by Wells Fargo -- Price Target Raised to $70.00",
-      "url": "https://www.gurufocus.com/news/8978155/fcx-maintained-by-wells-fargo-price-target-raised-to-7000",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T17:27:17+00:00",
+      "title": "Five lucky winners take home Knicks-themed trash bins like one that cost JP Morgan exec her job",
+      "url": "https://nypost.com/2026/07/24/us-news/five-lucky-winners-take-home-coveted-knicks-themed-trash-bins/",
+      "source": "nypost.com",
+      "published": "2026-07-24T20:10:10+00:00",
       "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CMCSA Maintains Underweight Rating by Wells Fargo -- Price Target Lowered to $23",
-      "url": "https://www.gurufocus.com/news/8978159/cmcsa-maintains-underweight-rating-by-wells-fargo-price-target-lowered-to-23",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T17:27:17+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Progressive (PGR) Stock Rises 3% Following Upgrade from Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/8978187/progressive-pgr-stock-rises-3-following-upgrade-from-morgan-stanley",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T17:27:16+00:00",
-      "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526315654/0001193125-26-315654-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526316077/0001193125-26-316077-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-24T17:21:58+00:00",
+      "published": "2026-07-24T20:06:57+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Shopify (NASDAQ:SHOP) Given New $150.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/shopify-nasdaqshop-given-new-15000-price-target-at-citigroup-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T20:00:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "US BANCORP DE: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426021202/0001918704-26-021202-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T19:44:24+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Boston Beer (NYSE:SAM) Price Target to $185.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-boston-beer-nysesam-price-target-to-18500-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:42:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Restaurant Brands International (NYSE:QSR) Price Target to $78.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-restaurant-brands-international-nyseqsr-price-target-to-7800-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:42:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Figma (NYSE:FIG) Given New $35.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/figma-nysefig-given-new-3500-price-target-at-citigroup-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:42:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HubSpot (NYSE:HUBS) Price Target Lowered to $217.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/hubspot-nysehubs-price-target-lowered-to-21700-at-citigroup-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:42:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX in focus as Morgan Stanley ponders 'zero' AI value; Musk previews new models",
+      "url": "https://seekingalpha.com/news/4618353-spacex-in-focus-as-morgan-stanley-ponders-zero-ai-value-musk-previews-new-models",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T19:34:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Charles Schwab: Dual Beats And Attractive Preferreds | $SCHW",
+      "url": "https://seekingalpha.com/article/4925443-charles-schwab-dual-beats-and-attractive-preferreds",
+      "source": "seekingalpha.com",
+      "published": "2026-07-24T19:26:29+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Ryder System (NYSE:R) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.tickerreport.com/banking-finance/13514475/ryder-system-nyser-stock-price-expected-to-rise-citigroup-analyst-says.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-24T19:24:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Accendra Health (NYSE:ACH) Given New $4.50 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/accendra-health-nyseach-given-new-450-price-target-at-citigroup-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:24:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ryder System (NYSE:R) Given New $283.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/ryder-system-nyser-given-new-28300-price-target-at-citigroup-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:24:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Union Pacific (NYSE:UNP) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-union-pacific-nyseunp-stock-price-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:24:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Boosts CSX (NASDAQ:CSX) Price Target to $54.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-boosts-csx-nasdaqcsx-price-target-to-5400-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:24:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for Norfolk Southern (NYSE:NSC) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-norfolk-southern-nysensc-stock-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:24:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Increases Honeywell International (NASDAQ:HON) Price Target to $279.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-increases-honeywell-international-nasdaqhon-price-target-to-27900-2026-07-24/",
+      "source": "marketbeat.com",
+      "published": "2026-07-24T19:24:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021200/0001918704-26-021200-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-24T19:22:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CQP Maintained by JP Morgan -- Price Target Raised to $64.00",
+      "url": "https://www.gurufocus.com/news/8978356/cqp-maintained-by-jp-morgan-price-target-raised-to-6400",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T19:03:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AAL Maintained by JP Morgan -- Price Target Raised to $24.00",
+      "url": "https://www.gurufocus.com/news/8978355/aal-maintained-by-jp-morgan-price-target-raised-to-2400",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T19:03:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ALLE Maintained by JP Morgan -- Price Target Raised to $170",
+      "url": "https://www.gurufocus.com/news/8978354/alle-maintained-by-jp-morgan-price-target-raised-to-170",
+      "source": "gurufocus.com",
+      "published": "2026-07-24T19:02:47+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
