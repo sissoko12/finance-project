@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T22:28:39.006585+00:00",
+  "last_updated": "2026-07-25T23:35:52.701469+00:00",
   "headlines": [
     {
       "title": "Anthropic Opus 5 and the $965B IPO Thesis: Why Capability Alone No Longer Sets the Valuation Floor",
@@ -266,21 +266,22 @@
       ]
     },
     {
+      "title": "Broker Elizabeth Knier in Merrill Lynch, Pierce, Fenner & Smith Incorporated Firm Has Customer Complaint",
+      "url": "https://www.securitieslawyersblog.com/broker-elizabeth-knier-in-merrill-lynch-pierce-fenner-smith-incorporated-firm-has-customer-complaint/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-25T13:21:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs MarketBeta International Equity ETF (BATS:GSID) Short Interest Update",
       "url": "https://www.tickerreport.com/banking-finance/13515644/goldman-sachs-marketbeta-international-equity-etf-batsgsid-short-interest-update.html",
       "source": "tickerreport.com",
       "published": "2026-07-25T13:21:19+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "As millions of Gen Zers face unemployment, CEOs of Amazon, Citi, and McDonald’s say opportunity is still there—if you have the right mindset",
-      "url": "https://fortune.com/article/career-advice-from-amazon-nvidia-mcdonalds-ceos-for-current-job-market-crisis-gen-z-unemployment-fortune-500-leaders-optimistic-success-still-possible/",
-      "source": "fortune.com",
-      "published": "2026-07-25T13:17:59+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
