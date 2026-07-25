@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T14:11:34.121242+00:00",
+  "last_updated": "2026-07-25T15:42:46.816999+00:00",
   "headlines": [
     {
       "title": "SoFi Technologies: Great Execution At A Discount | $JPM $NU $HOOD $SOFI",
@@ -8,6 +8,24 @@
       "published": "2026-07-25T13:28:16+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs MarketBeta International Equity ETF (BATS:GSID) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13515644/goldman-sachs-marketbeta-international-equity-etf-batsgsid-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-25T13:21:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "As millions of Gen Zers face unemployment, CEOs of Amazon, Citi, and McDonald’s say opportunity is still there—if you have the right mindset",
+      "url": "https://fortune.com/article/career-advice-from-amazon-nvidia-mcdonalds-ceos-for-current-job-market-crisis-gen-z-unemployment-fortune-500-leaders-optimistic-success-still-possible/",
+      "source": "fortune.com",
+      "published": "2026-07-25T13:17:59+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -264,26 +282,6 @@
       "url": "https://www.tickerreport.com/banking-finance/13515059/pnc-financial-services-group-inc-cuts-stock-position-in-kkr-co-inc-kkr.html",
       "source": "tickerreport.com",
       "published": "2026-07-25T09:05:42+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Sells 4,971 Shares of Vanguard FTSE All-World ex-US Small-Cap ETF $VSS",
-      "url": "https://www.tickerreport.com/banking-finance/13515055/pnc-financial-services-group-inc-sells-4971-shares-of-vanguard-ftse-all-world-ex-us-small-cap-etf-vss.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T09:05:28+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Purchases 31,307 Shares of Vanguard Total International Stock ETF $VXUS",
-      "url": "https://www.tickerreport.com/banking-finance/13515052/pnc-financial-services-group-inc-purchases-31307-shares-of-vanguard-total-international-stock-etf-vxus.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T09:05:13+00:00",
       "tickers": [
         "C",
         "PNC"
