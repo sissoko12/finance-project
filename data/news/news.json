@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-25T19:48:55.964180+00:00",
+  "last_updated": "2026-07-25T21:01:06.444705+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley reports Trump’s posts no longer move markets",
+      "url": "https://cryptobriefing.com/morgan-stanley-trump-posts-no-longer-move-markets/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-25T20:06:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman delivers a candid response after Intel's stunning quarter",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-delivers-candid-response-intels-193700306.html",
+      "source": "yahoo.com",
+      "published": "2026-07-25T19:37:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Wells Fargo Sees Rates Higher for Longer as AI Data Centers Anchor Commercial Construction",
       "url": "https://news.theregistrysf.com/wells-fargo-sees-rates-higher-for-longer-as-ai-data-centers-anchor-commercial-construction/",
@@ -122,6 +140,16 @@
       "published": "2026-07-25T13:28:16+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Broker Elizabeth Knier in Merrill Lynch, Pierce, Fenner & Smith Incorporated Firm Has Customer Complaint",
+      "url": "https://www.securitieslawyersblog.com/broker-elizabeth-knier-in-merrill-lynch-pierce-fenner-smith-incorporated-firm-has-customer-complaint/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-25T13:21:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -256,34 +284,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Gabelli Funds LLC Sells 5,160 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gabelli-funds-llc-sells-5160-shares-of-the-goldman-sachs-group-inc-gs-2026-07-25/",
-      "source": "marketbeat.com",
-      "published": "2026-07-25T10:00:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Gabelli Funds LLC Cuts Stock Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gabelli-funds-llc-cuts-stock-position-in-wells-fargo-company-wfc-2026-07-25/",
-      "source": "marketbeat.com",
-      "published": "2026-07-25T10:00:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CI Investments Inc. Has $2.31 Million Stake in Morgan Stanley $MS",
-      "url": "https://www.tickerreport.com/banking-finance/13515223/ci-investments-inc-has-2-31-million-stake-in-morgan-stanley-ms.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T09:59:05+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
