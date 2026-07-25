@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-07-24T23:35:18.215255+00:00",
+  "last_updated": "2026-07-25T03:25:59.031221+00:00",
   "headlines": [
+    {
+      "title": "Bank of America Just Raised Its Dividend 14%. The Buyback Is the Bigger Story.",
+      "url": "https://www.fool.com/investing/2026/07/24/bank-of-america-just-raised-its-dividend-14-the-buyback-is-the-bigger-story/",
+      "source": "fool.com",
+      "published": "2026-07-25T01:51:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF (BATS:GSEE) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13514619/goldman-sachs-marketbeta-emerging-markets-equity-etf-batsgsee-short-interest-update-2.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-25T00:41:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ohtani could throw another bullpen Saturday, but Roberts says Dodgers won't rush return to rotation",
+      "url": "https://www.sfexaminer.com/ap/sports/ohtani-could-throw-another-bullpen-saturday-but-roberts-says-dodgers-wont-rush-return-to-rotation/article_64b5ad88-ded8-5b8c-b11b-7b96a155abca.html",
+      "source": "sfexaminer.com",
+      "published": "2026-07-25T00:14:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes",
+      "url": "https://www.pymnts.com/cryptocurrency/2026/this-week-in-stablecoins-visa-goldman-and-samsung-raise-the-stakes/",
+      "source": "pymnts.com",
+      "published": "2026-07-24T23:51:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA Names Top Infrastructure Software Stocks Led by Datadog",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-names-top-infrastructure-software-stocks-led-by-datadog-93CH-4812643",
+      "source": "investing.com",
+      "published": "2026-07-24T23:50:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "DraftKings Price Target, Q2 Estimates Pared by Morgan Stanley on Prediction Market Spending",
       "url": "https://www.casino.org/news/draftkings-price-target-q2-estimates-pared-by-morgan-stanley-on-prediction-market-spending/",
@@ -11,6 +58,16 @@
       ]
     },
     {
+      "title": "Bank of America Pops To New High, Leads 17 Newcomers To IBD 50, Other Top Stock lists",
+      "url": "https://www.investors.com/news/bank-of-america-pops-to-new-high-leads-17-newcomers-to-ibd-50-other-top-stock-lists/",
+      "source": "investors.com",
+      "published": "2026-07-24T22:55:39+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Bank of America Corporation (NYSE:BAC) Plans Dividend Increase - $0.32 Per Share",
       "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-corporation-nysebac-plans-dividend-increase-032-per-share-2026-07-24/",
       "source": "marketbeat.com",
@@ -18,6 +75,24 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "NewEdge Wealth Opens Nashville Office With UBS, Morgan Stanley Veteran",
+      "url": "https://altswire.com/newedge-wealth-opens-nashville-office-with-ubs-morgan-stanley-veteran/",
+      "source": "altswire.com",
+      "published": "2026-07-24T22:20:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
+      "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
+      "source": "bitcoinmagazine.com",
+      "published": "2026-07-24T22:16:22+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -35,6 +110,15 @@
       "url": "https://stockstory.org/us/stocks/nyse/pgr/news/why-up-down/why-progressive-pgr-stock-is-up-today",
       "source": "stockstory.org",
       "published": "2026-07-24T22:00:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LPL Adds $485 Million in Adviser Teams From Cetera, Morgan Stanley",
+      "url": "https://altswire.com/lpl-adds-485-million-in-adviser-teams-from-cetera-morgan-stanley/",
+      "source": "altswire.com",
+      "published": "2026-07-24T21:42:02+00:00",
       "tickers": [
         "MS"
       ]
@@ -121,33 +205,6 @@
       "published": "2026-07-24T20:55:40+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "CAH Maintained by Citigroup -- Price Target Raised to $265",
-      "url": "https://www.gurufocus.com/news/8978498/cah-maintained-by-citigroup-price-target-raised-to-265",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:42:13+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ACH Maintained by Citigroup -- Price Target Lowered to $4.50",
-      "url": "https://www.gurufocus.com/news/8978497/ach-maintained-by-citigroup-price-target-lowered-to-450",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:41:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TCBI Maintained by Citigroup -- Price Target Raised to $107",
-      "url": "https://www.gurufocus.com/news/8978496/tcbi-maintained-by-citigroup-price-target-raised-to-107",
-      "source": "gurufocus.com",
-      "published": "2026-07-24T20:41:27+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
