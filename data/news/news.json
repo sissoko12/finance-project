@@ -1,6 +1,45 @@
 {
-  "last_updated": "2026-07-25T21:01:06.444705+00:00",
+  "last_updated": "2026-07-25T22:28:39.006585+00:00",
   "headlines": [
+    {
+      "title": "Anthropic Opus 5 and the $965B IPO Thesis: Why Capability Alone No Longer Sets the Valuation Floor",
+      "url": "https://fourweekmba.com/ai-anthropic-opus-5-ipo-valuation-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=ai-anthropic-opus-5-ipo-valuation-analysis",
+      "source": "fourweekmba.com",
+      "published": "2026-07-25T22:03:22+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Approved for Amex, denied by Discover, and only offered secured cards by Capital One. Why?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v6ju39/approved_for_amex_denied_by_discover_and_only/",
+      "source": "reddit.com",
+      "published": "2026-07-25T21:00:58+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Dodgers on Deck: Sunday, July 26 at Mets",
+      "url": "https://www.truebluela.com/los-angeles-dodgers-schedule/120358/mets-july-26",
+      "source": "truebluela.com",
+      "published": "2026-07-25T20:41:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Travelers (TRV) Stock Gets Fair Value Boost After Strong Q2 And Split Analyst Views",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/travelers-trv-stock-gets-fair-200719677.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-25T20:07:19+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "Morgan Stanley reports Trump’s posts no longer move markets",
       "url": "https://cryptobriefing.com/morgan-stanley-trump-posts-no-longer-move-markets/",
@@ -8,6 +47,35 @@
       "published": "2026-07-25T20:06:10+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "RxSight (RXST) Stock Fair Value Falls After Soft Q2 Trends And Guidance Cut",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rxsight-rxst-stock-fair-value-200609145.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-25T20:06:09+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Beta Bionics (BBNX) Stock Fair Value Falls As Medtech Reset Tempers iLet And Mint Optimism",
+      "url": "https://finance.yahoo.com/healthcare/articles/beta-bionics-bbnx-stock-fair-200608572.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-25T20:06:08+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs raises TOPIX 12-month target to 4,500 on weaker yen outlook",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-raises-topix-12month-target-to-4500-on-weaker-yen-outlook-4812814",
+      "source": "investing.com",
+      "published": "2026-07-25T20:01:17+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -68,12 +136,30 @@
       ]
     },
     {
+      "title": "Morgan Stanley strongly resets GE Vernova stock target",
+      "url": "https://www.thestreet.com/investing/stocks/gev-ge-vernova-stock-morgan-stanley-price-target?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-25T18:03:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Dodgers offense hard to come by in July",
       "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/120458/dodgers-offense-july",
       "source": "truebluela.com",
       "published": "2026-07-25T17:16:09+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Faces Fresh Questions Over Jes Staley And Jeffrey Epstein Ties",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-faces-fresh-170937865.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-25T17:09:37+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -94,6 +180,25 @@
       "published": "2026-07-25T16:30:01+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Bank of America revamps AMD stock price target for 2026",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-raises-amd-stock-price-target-for-2026?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-25T16:17:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) Launches Private Markets Platform And Buys AEGIS Hedging Solutions",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-launches-private-160856683.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-25T16:08:56+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -125,10 +230,28 @@
       ]
     },
     {
+      "title": "Citi Warns U.S. Equity Positioning May Face Further Pressure",
+      "url": "https://investorshub.advfn.com/market-news/article/32644/citi-warns-u-s-equity-positioning-may-face-further-pressure?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-07-25T15:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Scammers Drain $50,327 From Florida Woman After Posing As JPMorgan Chase Representatives",
       "url": "https://dailyhodl.com/2026/07/25/scammers-drain-50327-from-florida-woman-after-posing-as-jpmorgan-chase-representatives/",
       "source": "dailyhodl.com",
       "published": "2026-07-25T14:30:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan warns cheap money's over as most Americans missed 22,700% rally",
+      "url": "https://www.thestreet.com/crypto/economy/fewer-americans-are-broke-this-year-and-most-still-avoid-bitcoin?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-07-25T14:00:00+00:00",
       "tickers": [
         "JPM"
       ]
@@ -140,16 +263,6 @@
       "published": "2026-07-25T13:28:16+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Broker Elizabeth Knier in Merrill Lynch, Pierce, Fenner & Smith Incorporated Firm Has Customer Complaint",
-      "url": "https://www.securitieslawyersblog.com/broker-elizabeth-knier-in-merrill-lynch-pierce-fenner-smith-incorporated-firm-has-customer-complaint/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-07-25T13:21:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     },
     {
@@ -168,122 +281,6 @@
       "published": "2026-07-25T13:17:59+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "CoreWeave (CRWV) Stock Plunges 11% Following Dual Analyst Downgrades",
-      "url": "https://blockonomi.com/coreweave-crwv-stock-plunges-11-following-dual-analyst-downgrades/",
-      "source": "blockonomi.com",
-      "published": "2026-07-25T12:05:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "8,358 Shares in The Charles Schwab Corporation $SCHW Acquired by Inceptionr LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13515574/8358-shares-in-the-charles-schwab-corporation-schw-acquired-by-inceptionr-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T11:55:09+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Capital One 360 savings - I recently had my savings with Marcus and wasn’t thrilled with ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v669cl/capital_one_360_savings/",
-      "source": "reddit.com",
-      "published": "2026-07-25T11:48:55+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America Sets $1,550 Price Target on Micron (MU) Stock — 65% Upside Potential",
-      "url": "https://blockonomi.com/bank-of-america-sets-1550-price-target-on-micron-mu-stock-65-upside-potential/",
-      "source": "blockonomi.com",
-      "published": "2026-07-25T11:45:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi brush off memory \"peak-out\" fears, reiterates Buy on Samsung and SK Hynix",
-      "url": "https://www.investing.com/news/stock-market-news/citi-brush-off-memory-peakout-fears-reiterates-buy-on-samsung-and-sk-hynix-4812769",
-      "source": "investing.com",
-      "published": "2026-07-25T10:54:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Buys 4,641 Shares of Entergy Corporation $ETR",
-      "url": "https://www.tickerreport.com/banking-finance/13515448/pnc-financial-services-group-inc-buys-4641-shares-of-entergy-corporation-etr.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T10:49:01+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Galaxy Digital Capital Management GP LLC Buys 7,401 Shares of Morgan Stanley $MS",
-      "url": "https://www.tickerreport.com/banking-finance/13515443/galaxy-digital-capital-management-gp-llc-buys-7401-shares-of-morgan-stanley-ms.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T10:47:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Shares Acquired by Helix Partners Management LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-acquired-by-helix-partners-management-lp-2026-07-25/",
-      "source": "marketbeat.com",
-      "published": "2026-07-25T10:17:12+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Latest Apple Stock Price Prediction (AAPL)",
-      "url": "https://watcher.guru/news/morgan-stanleys-latest-apple-stock-price-prediction-aapl",
-      "source": "watcher.guru",
-      "published": "2026-07-25T10:05:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Gamco Investors INC. ET AL Sells 23,135 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.tickerreport.com/banking-finance/13515248/gamco-investors-inc-et-al-sells-23135-shares-of-wells-fargo-company-wfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T10:03:31+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Gamco Investors INC. ET AL Sells 12,483 Shares of The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13515247/gamco-investors-inc-et-al-sells-12483-shares-of-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T10:03:22+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Stock Holdings Raised by Renaissance Technologies LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-holdings-raised-by-renaissance-technologies-llc-2026-07-25/",
-      "source": "marketbeat.com",
-      "published": "2026-07-25T10:01:32+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
