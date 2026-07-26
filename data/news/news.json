@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-26T19:21:33.242031+00:00",
+  "last_updated": "2026-07-26T20:31:32.487525+00:00",
   "headlines": [
+    {
+      "title": "BlackRock, Goldman Sachs, Fidelity, and others back the Clarity Act with $30 trillion in combined firepower",
+      "url": "https://cryptobriefing.com/blackrock-goldman-fidelity-back-clarity-act/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-26T19:03:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2026 Update | $ROST $UBS $V $SCHW $DIS",
+      "url": "https://seekingalpha.com/article/4925698-tracking-ole-andreas-halvorsens-viking-global-portfolio-q1-2026-update",
+      "source": "seekingalpha.com",
+      "published": "2026-07-26T18:59:31+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
     {
       "title": "Goldman Sachs (GS) CEO Backs Clarity Act for Digital Asset Regulation",
       "url": "https://www.gurufocus.com/news/8979562/goldman-sachs-gs-ceo-backs-clarity-act-for-digital-asset-regulation",
       "source": "gurufocus.com",
       "published": "2026-07-26T17:55:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Backs Clarity Act as Democrats Says It 'Falls Short' and Warren Says 'Dead on Arrival'",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-backs-clarity-act-democrats-173021894.html",
+      "source": "yahoo.com",
+      "published": "2026-07-26T17:30:21+00:00",
       "tickers": [
         "GS"
       ]
@@ -252,35 +280,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' July DiviDogs | $VZ $KMI $RF $KEY $TFC",
-      "url": "https://seekingalpha.com/article/4925667-buy-4-barrons-better-bets-than-t-bills-out-of-11-safer-july-dividogs",
-      "source": "seekingalpha.com",
-      "published": "2026-07-26T10:27:24+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Lombard Odier Asset Management Switzerland SA Acquires 69,562 Shares of U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lombard-odier-asset-management-switzerland-sa-acquires-69562-shares-of-us-bancorp-usb-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:09:34+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Lombard Odier Asset Management Switzerland SA Buys 13,812 Shares of The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lombard-odier-asset-management-switzerland-sa-buys-13812-shares-of-the-pnc-financial-services-group-inc-pnc-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:09:33+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
