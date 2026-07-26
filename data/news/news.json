@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-07-26T11:04:44.679767+00:00",
+  "last_updated": "2026-07-26T12:40:38.506683+00:00",
   "headlines": [
+    {
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-07-26/which-is-the-better-investment-crypto-or-the-moon",
+      "source": "bloomberg.com",
+      "published": "2026-07-26T12:00:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman previews Warsh’s Task Forces for Advancing Monetary Policy",
+      "url": "https://www.investing.com/news/economy-news/goldman-previews-warshs-task-forces-for-advancing-monetary-policy-4812856",
+      "source": "investing.com",
+      "published": "2026-07-26T11:13:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "OMERS ADMINISTRATION Corp Has $19.60 Million Stock Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13516486/omers-administration-corp-has-19-60-million-stock-position-in-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-26T11:01:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Evidence Employers Ignore - In May 2024, Wells Fargo fired more than a dozen employees in ...",
+      "url": "https://dev.to/rawveg/the-evidence-employers-ignore-2ppe",
+      "source": "dev.to",
+      "published": "2026-07-26T11:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Weiss Asset Management LP Takes Position in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-takes-position-in-us-bancorp-usb-2026-07-26/",
+      "source": "marketbeat.com",
+      "published": "2026-07-26T10:33:08+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Weiss Asset Management LP Sells 31,059 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-sells-31059-shares-of-citigroup-inc-c-2026-07-26/",
+      "source": "marketbeat.com",
+      "published": "2026-07-26T10:33:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Weiss Asset Management LP Reduces Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-reduces-position-in-wells-fargo-company-wfc-2026-07-26/",
+      "source": "marketbeat.com",
+      "published": "2026-07-26T10:33:04+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' July DiviDogs | $VZ $KMI $RF $KEY $TFC",
       "url": "https://seekingalpha.com/article/4925667-buy-4-barrons-better-bets-than-t-bills-out-of-11-safer-july-dividogs",
@@ -215,69 +280,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-49384-shares-of-rh-rh-2026-07-26/",
       "source": "marketbeat.com",
       "published": "2026-07-26T07:21:16+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Cuts Stock Position in Arcosa, Inc. $ACA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-cuts-stock-position-in-arcosa-inc-aca-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:15+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Reduces Position in Texas Capital Bancshares, Inc. $TCBI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-reduces-position-in-texas-capital-bancshares-inc-tcbi-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:14+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Has $36.62 Million Position in AAON, Inc. $AAON",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3662-million-position-in-aaon-inc-aaon-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:11+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Has $36.78 Million Position in Roku, Inc. $ROKU",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3678-million-position-in-roku-inc-roku-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:07+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Has $36.81 Million Stock Position in Axalta Coating Systems Ltd. $AXTA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3681-million-stock-position-in-axalta-coating-systems-ltd-axta-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:05+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Trims Stock Position in Viking Holdings Ltd. $VIK",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-stock-position-in-viking-holdings-ltd-vik-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:01+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 12,667 Shares of Glaukos Corporation $GKOS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-12667-shares-of-glaukos-corporation-gkos-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:01+00:00",
       "tickers": [
         "BK"
       ]
