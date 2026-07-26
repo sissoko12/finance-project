@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-07-26T20:31:32.487525+00:00",
+  "last_updated": "2026-07-26T22:05:12.900041+00:00",
   "headlines": [
+    {
+      "title": "BofA sees August setting up as tough for stocks; dollar, gold favored",
+      "url": "https://seekingalpha.com/news/4618504-bofa-sees-august-setting-up-as-tough-for-stocks-dollar-gold-favored",
+      "source": "seekingalpha.com",
+      "published": "2026-07-26T20:46:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "BlackRock, Goldman Sachs, Fidelity, and others back the Clarity Act with $30 trillion in combined firepower",
       "url": "https://cryptobriefing.com/blackrock-goldman-fidelity-back-clarity-act/",
@@ -18,6 +28,15 @@
       "tickers": [
         "C",
         "SCHW"
+      ]
+    },
+    {
+      "title": "South Korea’s Biggest Bank Taps JPMorgan Blockchain for Trade Payments",
+      "url": "https://beincrypto.com/kb-kookmin-jpmorgan-kinexys-trade-payments/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-07-26T18:00:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -122,6 +141,15 @@
       "published": "2026-07-26T15:00:45+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Cuts Its Alibaba Stock Price Target",
+      "url": "https://beincrypto.com/morgan-stanley-alibaba-price-target-earnings/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-07-26T14:56:34+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -252,34 +280,6 @@
       "published": "2026-07-26T10:49:28+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Weiss Asset Management LP Takes Position in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-takes-position-in-us-bancorp-usb-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:33:08+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Weiss Asset Management LP Sells 31,059 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-sells-31059-shares-of-citigroup-inc-c-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:33:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Weiss Asset Management LP Reduces Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-reduces-position-in-wells-fargo-company-wfc-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:33:04+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
