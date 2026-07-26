@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-07-26T12:40:38.506683+00:00",
+  "last_updated": "2026-07-26T14:41:46.759646+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Predicts Increased Volatility Ahead of 2026 Midterms",
+      "url": "https://www.gurufocus.com/news/8979549/goldman-sachs-predicts-increased-volatility-ahead-of-2026-midterms",
+      "source": "gurufocus.com",
+      "published": "2026-07-26T14:11:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "There are Recent Customer Complaints with Broker Robert Lattig in Firm Wells Fargo Advisors Financial Network, LLC",
+      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-robert-lattig-in-firm-wells-fargo-advisors-financial-network-llc/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-26T13:16:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "There are Recent Customer Complaints with Broker Frank Hemmen in Firm Morgan Stanley",
+      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-frank-hemmen-in-firm-morgan-stanley/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-07-26T13:03:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees midterm volatility rising; election outcome may matter less to investors",
+      "url": "https://seekingalpha.com/news/4618435-goldman-sachs-sees-midterm-volatility-rising-election-outcome-may-matter-less-to-investors",
+      "source": "seekingalpha.com",
+      "published": "2026-07-26T12:53:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo & Company $WFC Shares Sold by Weiss Asset Management LP",
+      "url": "https://www.tickerreport.com/banking-finance/13516605/wells-fargo-company-wfc-shares-sold-by-weiss-asset-management-lp.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-26T12:08:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Which Is the Better Investment: Crypto or the Moon?",
       "url": "https://www.bloomberg.com/opinion/newsletters/2026-07-26/which-is-the-better-investment-crypto-or-the-moon",
@@ -8,6 +55,16 @@
       "published": "2026-07-26T12:00:20+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "OMERS ADMINISTRATION Corp Raises Stake in Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13516565/omers-administration-corp-raises-stake-in-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-26T11:32:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -36,6 +93,15 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Wall Street's Cheapest Bitcoin ETF Made $400 Million Without Lifting A Finger — Executive Sees More Assets Ahead",
+      "url": "https://stocktwits.com/news-articles/markets/equity/wall-street-s-cheapest-bitcoin-etf-more-assets-ahead/cZZHEBxR7zs?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-07-26T10:49:28+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -217,71 +283,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank of Nova Scotia Raises Holdings in Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-nova-scotia-raises-holdings-in-truist-financial-corporation-tfc-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bank of Nova Scotia Sells 1,308,843 Shares of U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-nova-scotia-sells-1308843-shares-of-us-bancorp-usb-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:30+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Sold by Bank of Nova Scotia",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-sold-by-bank-of-nova-scotia-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:22+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Protagonist Therapeutics, Inc. $PTGX Stock Position Decreased by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-protagonist-therapeutics-inc-ptgx-stock-position-decreased-by-bank-of-new-york-mellon-corp-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:18+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 13,704 Shares of Rush Enterprises, Inc. $RUSHA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-13704-shares-of-rush-enterprises-inc-rusha-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:17+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "First BanCorp. $FBP Holdings Decreased by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-first-bancorp-fbp-holdings-decreased-by-bank-of-new-york-mellon-corp-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:17+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases 49,384 Shares of RH $RH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-49384-shares-of-rh-rh-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:21:16+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
