@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-07-26T14:41:46.759646+00:00",
+  "last_updated": "2026-07-26T16:08:36.757995+00:00",
   "headlines": [
+    {
+      "title": "These 4 Earnings Reports Expose the Market’s Growing Economic Divide",
+      "url": "https://www.marketbeat.com/articles/these-4-earnings-reports-expose-the-markets-growing-economic-divide/",
+      "source": "marketbeat.com",
+      "published": "2026-07-26T15:05:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Success lessons for Gen Z from JPMorgan CEO Jamie Dimon - His 3 word mantra can unlock life's biggest opportunities",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/success-lessons-for-gen-z-from-jpmorgan-ceo-jamie-dimon-his-3-word-mantra-can-unlock-lifes-biggest-opportunities/articleshow/132643072.cms",
+      "source": "indiatimes.com",
+      "published": "2026-07-26T15:00:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Says Stock Valuations Are Too High. But That Shouldn't Change How You Invest. Consider These 3 ETFs.",
+      "url": "https://www.fool.com/investing/2026/07/26/jamie-dimon-says-stock-valuations-are-too-high-but/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-26T14:45:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Head of Trading: \"Gold. I think it’s time to start nibbling.\"",
+      "url": "https://vblgoldfix.substack.com/p/head-of-trading-gold-i-think-its",
+      "source": "substack.com",
+      "published": "2026-07-26T14:29:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs Predicts Increased Volatility Ahead of 2026 Midterms",
       "url": "https://www.gurufocus.com/news/8979549/goldman-sachs-predicts-increased-volatility-ahead-of-2026-midterms",
       "source": "gurufocus.com",
       "published": "2026-07-26T14:11:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Future Health Care Equity ETF (NYSEARCA:GDOC) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13516654/goldman-sachs-future-health-care-equity-etf-nysearcagdoc-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-26T13:41:00+00:00",
       "tickers": [
         "GS"
       ]
@@ -235,53 +281,6 @@
       "published": "2026-07-26T08:24:43+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Callodine Capital Management LP Buys 36,651 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-callodine-capital-management-lp-buys-36651-shares-of-capital-one-financial-corporation-cof-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T08:24:41+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "LMAX eyes $5B Nasdaq IPO as sale talks gather pace",
-      "url": "https://crypto.news/lmax-eyes-5b-nasdaq-ipo-as-sale-talks-gather-pace/",
-      "source": "crypto.news",
-      "published": "2026-07-26T08:16:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Sold by Gabelli Funds LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-gabelli-funds-llc-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T08:00:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Gabelli Funds LLC Sells 9,395 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gabelli-funds-llc-sells-9395-shares-of-citigroup-inc-c-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:53:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "25,712 Shares in Bank of America Corporation $BAC Purchased by Caxton Associates LLP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-25712-shares-in-bank-of-america-corporation-bac-purchased-by-caxton-associates-llp-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T07:52:53+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
