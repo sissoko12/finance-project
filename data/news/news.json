@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-26T17:35:22.542582+00:00",
+  "last_updated": "2026-07-26T19:21:33.242031+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs (GS) CEO Backs Clarity Act for Digital Asset Regulation",
+      "url": "https://www.gurufocus.com/news/8979562/goldman-sachs-gs-ceo-backs-clarity-act-for-digital-asset-regulation",
+      "source": "gurufocus.com",
+      "published": "2026-07-26T17:55:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome",
+      "url": "https://www.investing.com/news/stock-market-news/fomc-preview-fed-likely-to-hold-rates-despite-oil-spike-citi-sees-dovish-outcome-4812904",
+      "source": "investing.com",
+      "published": "2026-07-26T17:06:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Top Financial Stocks To Keep An Eye On - July 26th",
       "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-to-keep-an-eye-on-july-26th-2026-07-26/",
@@ -13,12 +31,39 @@
       ]
     },
     {
+      "title": "Is the VanEck Pharmaceutical ETF or State Street Health Care ETF the Better Buy for Your Portfolio?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/26/is-the-vaneck-pharmaceutical-etf-or-state-street-health-care-etf-the-better-buy-for-your-portfolio/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-26T17:01:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Did Citigroup's Latest Earnings Change the Investment Case?",
+      "url": "https://www.fool.com/investing/2026/07/26/did-citigroup-latest-earnings-change-investment/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-26T16:45:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs CEO backs U.S. crypto market structure bill",
       "url": "https://seekingalpha.com/news/4618448-goldman-sachs-ceo-backs-u-s-crypto-market-structure-bill",
       "source": "seekingalpha.com",
       "published": "2026-07-26T16:36:22+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees shift coming for Big Tech investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-shift-coming-163300500.html",
+      "source": "yahoo.com",
+      "published": "2026-07-26T16:33:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -236,54 +281,6 @@
       "tickers": [
         "C",
         "PNC"
-      ]
-    },
-    {
-      "title": "Lombard Odier Asset Management Switzerland SA Raises Stock Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lombard-odier-asset-management-switzerland-sa-raises-stock-position-in-wells-fargo-company-wfc-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:09:25+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Lombard Odier Asset Management Switzerland SA Raises Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lombard-odier-asset-management-switzerland-sa-raises-holdings-in-bank-of-america-corporation-bac-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:09:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "40-Year-Old Varvara Lepchenko Stuns 20-Year-Old American Teen in Citi Open Qualifiers",
-      "url": "https://www.essentiallysports.com/tennis-news-forty-year-old-varvara-lepchenko-stuns-twenty-year-old-american-teen-in-citi-open-qualifiers/",
-      "source": "essentiallysports.com",
-      "published": "2026-07-26T10:05:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Position Lowered by Unio Capital LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-position-lowered-by-unio-capital-llc-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:00:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Waverly Advisors LLC Buys 17,046 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-waverly-advisors-llc-buys-17046-shares-of-bank-of-america-corporation-bac-2026-07-26/",
-      "source": "marketbeat.com",
-      "published": "2026-07-26T10:00:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
