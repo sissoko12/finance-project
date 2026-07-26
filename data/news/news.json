@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-07-25T23:35:52.701469+00:00",
+  "last_updated": "2026-07-26T03:39:05.203295+00:00",
   "headlines": [
+    {
+      "title": "WATCH YOUR BIDS (s2026 e20) - Goldman's \"The Breaks of the Game\" is back. Dutta thinks the ...",
+      "url": "https://posts.themacrotourist.com/p/watch-your-bids-s2026-e20",
+      "source": "themacrotourist.com",
+      "published": "2026-07-26T01:14:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Kyle Tucker has homered in back-to-back games at Citi Field for the Dodgers",
+      "url": "https://www.youtube.com/watch?v=UQvz7wOHejY",
+      "source": "youtube.com",
+      "published": "2026-07-25T23:59:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon Avoids Long-Dated Treasuries Amid Rising Debt Concerns",
+      "url": "https://blockonomi.com/jpmorgan-ceo-jamie-dimon-avoids-long-dated-treasuries-amid-rising-debt-concerns/",
+      "source": "blockonomi.com",
+      "published": "2026-07-25T23:19:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-lifts-cybersecurity-stock-targets-to-reflect-longterm-growth-outlook-4812821",
+      "source": "investing.com",
+      "published": "2026-07-25T22:57:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/25/how-do-the-vanguard-s-and-p-500-growth-etf-and-the-state-street-small-cap-growth-etf-compare/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-25T22:50:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Crypto Advocates Contact Congress 1 Million Times as CLARITY Act Pressure Builds",
+      "url": "https://news.bitcoin.com/crypto-advocates-contact-congress-1-million-times-as-clarity-act-pressure-builds/",
+      "source": "bitcoin.com",
+      "published": "2026-07-25T22:30:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SCHH vs RWR: Which REIT ETF Fits Your Portfolio",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/25/schh-vs-rwr-which-reit-etf-fits-your-portfolio/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-25T22:30:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Anthropic Opus 5 and the $965B IPO Thesis: Why Capability Alone No Longer Sets the Valuation Floor",
       "url": "https://fourweekmba.com/ai-anthropic-opus-5-ipo-valuation-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=ai-anthropic-opus-5-ipo-valuation-analysis",
@@ -218,70 +282,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Human Rights Meet the Constitution: Will the Section 301 Tariffs Survive the Courts?",
-      "url": "https://thepeopleseconomist.substack.com/p/human-rights-meet-the-constitution",
-      "source": "substack.com",
-      "published": "2026-07-25T15:37:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi Warns U.S. Equity Positioning May Face Further Pressure",
-      "url": "https://investorshub.advfn.com/market-news/article/32644/citi-warns-u-s-equity-positioning-may-face-further-pressure?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-07-25T15:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Scammers Drain $50,327 From Florida Woman After Posing As JPMorgan Chase Representatives",
-      "url": "https://dailyhodl.com/2026/07/25/scammers-drain-50327-from-florida-woman-after-posing-as-jpmorgan-chase-representatives/",
-      "source": "dailyhodl.com",
-      "published": "2026-07-25T14:30:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan warns cheap money's over as most Americans missed 22,700% rally",
-      "url": "https://www.thestreet.com/crypto/economy/fewer-americans-are-broke-this-year-and-most-still-avoid-bitcoin?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-25T14:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SoFi Technologies: Great Execution At A Discount | $JPM $NU $HOOD $SOFI",
-      "url": "https://seekingalpha.com/article/4925606-sofi-technologies-great-execution-at-a-discount",
-      "source": "seekingalpha.com",
-      "published": "2026-07-25T13:28:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Broker Elizabeth Knier in Merrill Lynch, Pierce, Fenner & Smith Incorporated Firm Has Customer Complaint",
-      "url": "https://www.securitieslawyersblog.com/broker-elizabeth-knier-in-merrill-lynch-pierce-fenner-smith-incorporated-firm-has-customer-complaint/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-07-25T13:21:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs MarketBeta International Equity ETF (BATS:GSID) Short Interest Update",
-      "url": "https://www.tickerreport.com/banking-finance/13515644/goldman-sachs-marketbeta-international-equity-etf-batsgsid-short-interest-update.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-25T13:21:19+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
