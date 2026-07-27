@@ -1,285 +1,274 @@
 {
-  "last_updated": "2026-07-27T03:48:57.608870+00:00",
+  "last_updated": "2026-07-27T07:39:58.283592+00:00",
   "headlines": [
     {
-      "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
-      "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-07-27T00:05:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America boosts dividend with largest increase since 2021",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/07/24/bank-of-america-raise-dividend-payout-shareholders.html?cx_testId=107&cx_testVariant=cx_1&cx_artPos=3#cxrecs_s#new_tab",
-      "source": "bizjournals.com",
-      "published": "2026-07-26T23:35:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Said Markets Are Underestimating Risks Shifting \"Like Tectonic Plates.\" He Made the Warning Right After JPMorgan Posted Its Best Quarter Ever.",
-      "url": "https://www.fool.com/investing/2026/07/26/jamie-dimon-said-markets-are-underestimating-risks/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-26T22:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PINK vs. XLV: How Do These Two Health Care ETFs Match Up?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/26/pink-vs-xlv-how-do-these-two-health-care-etfs-match-up/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-26T21:40:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Will Klein of the Los Angeles Dodgers looks on after giving up a three-run home run during the seventh inning of the game against the New York Mets at Citi Field on Sunday, July 26, 2026, in New York City.",
-      "url": "https://thebrunswicknews.com/will-klein-of-the-los-angeles-dodgers-looks-on-after-giving-up-a-three-run/image_c6154de8-3232-52b0-a1ea-60af702f2f92.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-07-26T21:31:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "VWO vs SPGM: What Are the Key Differences Between These Two Popular ETFs?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/26/vwo-vs-spgm-what-are-the-key-differences-between-these-two-popular-etfs/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-26T21:20:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Institutional Digital Assets and FX Trading Platform LMAX Evaluates Potential IPO",
-      "url": "https://www.crowdfundinsider.com/2026/07/293766-institutional-digital-assets-and-fx-trading-platform-lmax-evaluates-potential-ipo/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-07-26T21:12:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA sees August setting up as tough for stocks; dollar, gold favored",
-      "url": "https://seekingalpha.com/news/4618504-bofa-sees-august-setting-up-as-tough-for-stocks-dollar-gold-favored",
-      "source": "seekingalpha.com",
-      "published": "2026-07-26T20:46:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Recession Watch: Private Credit Bubble Threatens the Mega Banks",
-      "url": "https://rubino.substack.com/p/recession-watch-private-credit-bubble",
-      "source": "substack.com",
-      "published": "2026-07-26T20:27:39+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BlackRock, Goldman Sachs, Fidelity, and others back the Clarity Act with $30 trillion in combined firepower",
-      "url": "https://cryptobriefing.com/blackrock-goldman-fidelity-back-clarity-act/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-26T19:03:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2026 Update | $ROST $UBS $V $SCHW $DIS",
-      "url": "https://seekingalpha.com/article/4925698-tracking-ole-andreas-halvorsens-viking-global-portfolio-q1-2026-update",
-      "source": "seekingalpha.com",
-      "published": "2026-07-26T18:59:31+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "South Korea’s Biggest Bank Taps JPMorgan Blockchain for Trade Payments",
-      "url": "https://beincrypto.com/kb-kookmin-jpmorgan-kinexys-trade-payments/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-07-26T18:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs (GS) CEO Backs Clarity Act for Digital Asset Regulation",
-      "url": "https://www.gurufocus.com/news/8979562/goldman-sachs-gs-ceo-backs-clarity-act-for-digital-asset-regulation",
-      "source": "gurufocus.com",
-      "published": "2026-07-26T17:55:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Backs Clarity Act as Democrats Says It 'Falls Short' and Warren Says 'Dead on Arrival'",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-backs-clarity-act-democrats-173021894.html",
-      "source": "yahoo.com",
-      "published": "2026-07-26T17:30:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome",
-      "url": "https://www.investing.com/news/stock-market-news/fomc-preview-fed-likely-to-hold-rates-despite-oil-spike-citi-sees-dovish-outcome-4812904",
-      "source": "investing.com",
-      "published": "2026-07-26T17:06:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Keep An Eye On - July 26th",
-      "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-to-keep-an-eye-on-july-26th-2026-07-26/",
+      "title": "Bank of New York Mellon Corp Sells 8,430 Shares of AAR Corp. $AIR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-8430-shares-of-aar-corp-air-2026-07-27/",
       "source": "marketbeat.com",
-      "published": "2026-07-26T17:01:49+00:00",
+      "published": "2026-07-27T07:13:42+00:00",
       "tickers": [
-        "JPM",
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Is the VanEck Pharmaceutical ETF or State Street Health Care ETF the Better Buy for Your Portfolio?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/26/is-the-vaneck-pharmaceutical-etf-or-state-street-health-care-etf-the-better-buy-for-your-portfolio/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-26T17:01:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Did Citigroup's Latest Earnings Change the Investment Case?",
-      "url": "https://www.fool.com/investing/2026/07/26/did-citigroup-latest-earnings-change-investment/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-26T16:45:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs CEO backs U.S. crypto market structure bill",
-      "url": "https://seekingalpha.com/news/4618448-goldman-sachs-ceo-backs-u-s-crypto-market-structure-bill",
-      "source": "seekingalpha.com",
-      "published": "2026-07-26T16:36:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley sees shift coming for Big Tech investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-shift-coming-163300500.html",
-      "source": "yahoo.com",
-      "published": "2026-07-26T16:33:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Research - July 26th",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-research-july-26th-2026-07-26/",
+      "title": "Simmons First National Corporation $SFNC Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-simmons-first-national-corporation-sfnc-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-27/",
       "source": "marketbeat.com",
-      "published": "2026-07-26T16:01:42+00:00",
+      "published": "2026-07-27T07:13:41+00:00",
       "tickers": [
-        "JPM",
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "These 4 Earnings Reports Expose the Market’s Growing Economic Divide",
-      "url": "https://www.marketbeat.com/articles/these-4-earnings-reports-expose-the-markets-growing-economic-divide/",
+      "title": "Bank of New York Mellon Corp Has $29.75 Million Stock Position in Imperial Oil Limited $IMO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-2975-million-stock-position-in-imperial-oil-limited-imo-2026-07-27/",
       "source": "marketbeat.com",
-      "published": "2026-07-26T15:05:00+00:00",
+      "published": "2026-07-27T07:13:41+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "BK"
       ]
     },
     {
-      "title": "Success lessons for Gen Z from JPMorgan CEO Jamie Dimon - His 3 word mantra can unlock life's biggest opportunities",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/success-lessons-for-gen-z-from-jpmorgan-ceo-jamie-dimon-his-3-word-mantra-can-unlock-lifes-biggest-opportunities/articleshow/132643072.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-26T15:00:45+00:00",
+      "title": "Bank of New York Mellon Corp Has $30.01 Million Stock Position in Knife River Corporation $KNF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3001-million-stock-position-in-knife-river-corporation-knf-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:40+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "Morgan Stanley Cuts Its Alibaba Stock Price Target",
-      "url": "https://beincrypto.com/morgan-stanley-alibaba-price-target-earnings/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-07-26T14:56:34+00:00",
+      "title": "Bank of New York Mellon Corp Trims Stock Holdings in Visteon Corporation $VC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-stock-holdings-in-visteon-corporation-vc-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:40+00:00",
       "tickers": [
-        "MS"
+        "BK"
       ]
     },
     {
-      "title": "Jamie Dimon Says Stock Valuations Are Too High. But That Shouldn't Change How You Invest. Consider These 3 ETFs.",
-      "url": "https://www.fool.com/investing/2026/07/26/jamie-dimon-says-stock-valuations-are-too-high-but/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-26T14:45:00+00:00",
+      "title": "Bank of New York Mellon Corp Sells 5,686 Shares of PriceSmart, Inc. $PSMT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-5686-shares-of-pricesmart-inc-psmt-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:39+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "Head of Trading: \"Gold. I think it’s time to start nibbling.\"",
-      "url": "https://vblgoldfix.substack.com/p/head-of-trading-gold-i-think-its",
-      "source": "substack.com",
-      "published": "2026-07-26T14:29:01+00:00",
+      "title": "Group 1 Automotive, Inc. $GPI Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-group-1-automotive-inc-gpi-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:39+00:00",
       "tickers": [
-        "GS"
+        "BK"
       ]
     },
     {
-      "title": "Goldman Sachs Predicts Increased Volatility Ahead of 2026 Midterms",
-      "url": "https://www.gurufocus.com/news/8979549/goldman-sachs-predicts-increased-volatility-ahead-of-2026-midterms",
-      "source": "gurufocus.com",
-      "published": "2026-07-26T14:11:46+00:00",
+      "title": "Lyft, Inc. $LYFT Shares Acquired by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lyft-inc-lyft-shares-acquired-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:38+00:00",
       "tickers": [
-        "GS"
+        "BK"
       ]
     },
     {
-      "title": "Goldman Sachs Future Health Care Equity ETF (NYSEARCA:GDOC) Short Interest Update",
-      "url": "https://www.tickerreport.com/banking-finance/13516654/goldman-sachs-future-health-care-equity-etf-nysearcagdoc-short-interest-update.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-26T13:41:00+00:00",
+      "title": "Bank of New York Mellon Corp Sells 31,613 Shares of John Wiley & Sons, Inc. $WLY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-31613-shares-of-john-wiley-sons-inc-wly-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:38+00:00",
       "tickers": [
-        "GS"
+        "BK"
       ]
     },
     {
-      "title": "There are Recent Customer Complaints with Broker Robert Lattig in Firm Wells Fargo Advisors Financial Network, LLC",
-      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-robert-lattig-in-firm-wells-fargo-advisors-financial-network-llc/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-07-26T13:16:51+00:00",
+      "title": "Bank of New York Mellon Corp Acquires 543,439 Shares of Lineage, Inc. $LINE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-543439-shares-of-lineage-inc-line-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:37+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "There are Recent Customer Complaints with Broker Frank Hemmen in Firm Morgan Stanley",
-      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-frank-hemmen-in-firm-morgan-stanley/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-07-26T13:03:48+00:00",
+      "title": "Bank of New York Mellon Corp Has $30.94 Million Stock Position in KB Home $KBH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3094-million-stock-position-in-kb-home-kbh-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:36+00:00",
       "tickers": [
-        "MS"
+        "BK"
+      ]
+    },
+    {
+      "title": "Grand Canyon Education, Inc. $LOPE Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-grand-canyon-education-inc-lope-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:35+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Trims Stake in Graham Holdings Company $GHC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-stake-in-graham-holdings-company-ghc-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:35+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Iridium Communications Inc $IRDM Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-iridium-communications-inc-irdm-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:34+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Boosts Stake in ADT Inc. $ADT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-boosts-stake-in-adt-inc-adt-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:33+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 28,021 Shares of Cathay General Bancorp $CATY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-28021-shares-of-cathay-general-bancorp-caty-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:33+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Has $32.09 Million Stake in Warby Parker Inc. $WRBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3209-million-stake-in-warby-parker-inc-wrby-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:32+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Dropbox, Inc. $DBX Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-dropbox-inc-dbx-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:32+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Hormel Foods Corporation $HRL Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hormel-foods-corporation-hrl-shares-sold-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:32+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Boosts Stock Holdings in Rithm Capital Corp. $RITM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-boosts-stock-holdings-in-rithm-capital-corp-ritm-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:31+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 47,121 Shares of Provident Financial Services, Inc $PFS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-47121-shares-of-provident-financial-services-inc-pfs-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:31+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 63,878 Shares of Pegasystems Inc. $PEGA",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-63878-shares-of-pegasystems-inc-pega-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:30+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "First Interstate BancSystem, Inc. $FIBK Holdings Cut by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-first-interstate-bancsystem-inc-fibk-holdings-cut-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:30+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Cuts Position in Cactus, Inc. $WHD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-cuts-position-in-cactus-inc-whd-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:29+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Has $33.47 Million Stock Holdings in Methanex Corporation $MEOH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-3347-million-stock-holdings-in-methanex-corporation-meoh-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:28+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Reduces Stock Position in QXO, Inc. $QXO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-reduces-stock-position-in-qxo-inc-qxo-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Qiagen N.V. $QGEN Holdings Cut by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-qiagen-nv-qgen-holdings-cut-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 23,235 Shares of Fox Corporation $FOX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-23235-shares-of-fox-corporation-fox-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:26+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 31,577 Shares of Telephone and Data Systems, Inc. $TDS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-31577-shares-of-telephone-and-data-systems-inc-tds-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:25+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Brink's Company (The) $BCO Stake Lowered by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-brinks-company-the-bco-stake-lowered-by-bank-of-new-york-mellon-corp-2026-07-27/",
+      "source": "marketbeat.com",
+      "published": "2026-07-27T07:13:25+00:00",
+      "tickers": [
+        "BK"
       ]
     }
   ]
