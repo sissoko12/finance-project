@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-27T22:12:38.861102+00:00",
+  "last_updated": "2026-07-27T23:36:48.698697+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF (NASDAQ:GPRF) Sees Large Increase in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13518059/goldman-sachs-access-u-s-preferred-stock-and-hybrid-securities-etf-nasdaqgprf-sees-large-increase-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-27T23:20:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Franklin Templeton Joins Blackrock, Fidelity, Goldman Sachs in Backing CLARITY Act",
+      "url": "https://news.bitcoin.com/franklin-templeton-joins-blackrock-fidelity-goldman-sachs-in-backing-clarity-act/",
+      "source": "bitcoin.com",
+      "published": "2026-07-27T21:45:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526318307/0001193125-26-318307-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T21:29:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021345/0001918704-26-021345-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T21:28:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011214/0000950103-26-011214-index.htm",
@@ -11,12 +47,40 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526318294/0001193125-26-318294-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T21:23:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021344/0001918704-26-021344-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T21:21:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Morgan Stanley Says Investors Assign 'Zero or Even Negative' Value to SpaceX's AI Business",
       "url": "https://www.ibtimes.co.uk/investors-question-spacex-ai-value-1810918",
       "source": "ibtimes.co.uk",
       "published": "2026-07-27T21:15:03+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526318273/0001193125-26-318273-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T21:15:00+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -36,15 +100,6 @@
       "published": "2026-07-27T20:56:46+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021331/0001918704-26-021331-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-27T20:50:49+00:00",
-      "tickers": [
         "C"
       ]
     },
@@ -71,188 +126,6 @@
       "url": "https://www.gurufocus.com/news/8981143/prks-maintained-by-goldman-sachs-price-target-raised-to-4100",
       "source": "gurufocus.com",
       "published": "2026-07-27T20:34:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021327/0001918704-26-021327-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-27T20:20:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "'Go Back Brownie': Ex-JPMorgan Banker Behind 'Sex Slave' Lawsuit Files New Racism Case",
-      "url": "https://www.ibtimes.co.uk/ex-jpmorgan-banker-lawsuit-racism-sexual-coercion-1810909",
-      "source": "ibtimes.co.uk",
-      "published": "2026-07-27T20:18:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America, Chipotle, Dell, and Uber are chipping in on Trump Accounts for their workers’ kids—but most companies are sitting it out",
-      "url": "https://fortune.com/2026/07/27/what-employers-will-contribute-to-trump-accounts-chipotle-bank-of-america-dell-uber/",
-      "source": "fortune.com",
-      "published": "2026-07-27T20:06:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Humana (HUM) – Analysts’ Weekly Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13517970/humana-hum-analysts-weekly-ratings-updates.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-27T19:56:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-195033477.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-27T19:50:33+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Why J.P. Morgan Says the ASML Stock Selloff Is ‘Disproportionate’",
-      "url": "https://finance.yahoo.com/m/8b8789df-f4a7-3496-a3b8-adfb4246399a/why-j.p.-morgan-says-the-asml.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-27T19:44:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA Downplays China's DUV Tool Production Report, Sees Only \"Modest Threat\" To ASML",
-      "url": "https://awesomecapital.blogspot.com/2026/07/bofa-downplays-chinas-duv-tool.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-07-27T19:37:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan, South Korea's KB Kookmin are moving payments onchain",
-      "url": "https://finance.yahoo.com/video/jpmorgan-south-koreas-kb-kookmin-193000819.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-27T19:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BWX Technologies initiated Overweight at J.P. Morgan, poised to profit from 'multiple megatrends'",
-      "url": "https://seekingalpha.com/news/4618981-bwx-technologies-initiated-overweight-at-jp-morgan-poised-to-profit-from-multiple-megatrends",
-      "source": "seekingalpha.com",
-      "published": "2026-07-27T19:21:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Huntington Earnings Seen Pressured Amid Net Interest Income Uncertainty, BofA Says in Downgrade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-earnings-seen-pressured-amid-191547208.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-27T19:15:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America sends sharp August stock market warning",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-august-stock-market-warning?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-07-27T19:13:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "APi Group's Strong Project Demand Can Drive H2 Estimates Higher, Truist Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/api-group-apos-strong-project-190854970.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-27T19:08:54+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Citigroup expects Fed to maintain rates amid 33% hike probability",
-      "url": "https://cryptobriefing.com/citigroup-expects-fed-to-maintain-rates-amid-33-hike-probability/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-27T19:05:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Mellon Core Bond ETF (NYSEARCA:BKAG) Short Interest Update",
-      "url": "https://www.tickerreport.com/banking-finance/13517955/bny-mellon-core-bond-etf-nysearcabkag-short-interest-update.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-27T19:00:52+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "ITG draws bullish initiations from Bank of America and UBS",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096097/itg-draws-bullish-initiations-from-bank-of-america-and-ubs-1096097.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-07-27T18:59:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "RTX, SIRI Hit Fresh 52-Week Highs Today – What’s Got Investors Buzzing?",
-      "url": "https://stocktwits.com/news-articles/markets/equity/rtx-siri-hit-fresh-52-week-highs-today-what-s-got-investors-buzzing/cZZxYXcR76Y?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-07-27T18:54:12+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226036440/0001839882-26-036440-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-27T18:53:23+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Huntington Bancshares downgraded at BofA after Q2 earnings announcement",
-      "url": "https://seekingalpha.com/news/4618967-huntington-bancshares-downgraded-at-bofa-after-q2-earnings-announcement",
-      "source": "seekingalpha.com",
-      "published": "2026-07-27T18:46:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Vale cut at Goldman with limited upside expected amid weakness in metals",
-      "url": "https://seekingalpha.com/news/4618969-vale-cut-at-goldman-with-limited-upside-expected-amid-weakness-in-metals",
-      "source": "seekingalpha.com",
-      "published": "2026-07-27T18:44:35+00:00",
       "tickers": [
         "GS"
       ]
