@@ -1,158 +1,122 @@
 {
-  "last_updated": "2026-07-28T19:46:00.890453+00:00",
+  "last_updated": "2026-07-28T21:14:24.031929+00:00",
   "headlines": [
     {
-      "title": "Exxon cut to Neutral at BofA, which favors Buy-rated Chevron",
-      "url": "https://seekingalpha.com/news/4619714-exxon-cut-to-neutral-at-bofa-which-favors-buy-rated-chevron",
-      "source": "seekingalpha.com",
-      "published": "2026-07-28T18:59:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021462/0001918704-26-021462-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526321101/0001193125-26-321101-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-28T18:59:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA raises UPS stock price target to $115 on 2026 outlook",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-ups-stock-price-target-to-115-on-2026-outlook-93CH-4817890",
-      "source": "investing.com",
-      "published": "2026-07-28T18:56:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082198/0001213900-26-082198-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T18:46:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011269/0000950103-26-011269-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T18:36:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021460/0001918704-26-021460-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T18:35:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AMKR Maintains by Morgan Stanley -- Price Target Raised to $70",
-      "url": "https://www.gurufocus.com/news/8983700/amkr-maintains-by-morgan-stanley-price-target-raised-to-70",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "HOG Maintained by Morgan Stanley -- Price Target Raised to $17.00",
-      "url": "https://www.gurufocus.com/news/8983701/hog-maintained-by-morgan-stanley-price-target-raised-to-1700",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "FFIV Maintained by Morgan Stanley -- Price Target Raised to $415",
-      "url": "https://www.gurufocus.com/news/8983702/ffiv-maintained-by-morgan-stanley-price-target-raised-to-415",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "NRIX Maintained by Morgan Stanley -- Price Target Raised to $38",
-      "url": "https://www.gurufocus.com/news/8983698/nrix-maintained-by-morgan-stanley-price-target-raised-to-38",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "COCO Maintained by Morgan Stanley -- Price Target Raised to $68",
-      "url": "https://www.gurufocus.com/news/8983699/coco-maintained-by-morgan-stanley-price-target-raised-to-68",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "DDOG Maintained by Morgan Stanley -- Price Target Raised to $230",
-      "url": "https://www.gurufocus.com/news/8983704/ddog-maintained-by-morgan-stanley-price-target-raised-to-230",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VST Maintained by Morgan Stanley -- Price Target Raised to $212",
-      "url": "https://www.gurufocus.com/news/8983706/vst-maintained-by-morgan-stanley-price-target-raised-to-212",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T18:30:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Bumps Apple Stock Target Up To $370 Ahead Of Q3 Call",
-      "url": "https://www.macobserver.com/news/goldman-sachs-bumps-apple-stock-target-up-to-370-ahead-of-q3-call/?utm_source=macobserver&utm_medium=rss&utm_campaign=rss_everything",
-      "source": "macobserver.com",
-      "published": "2026-07-28T18:26:23+00:00",
+      "published": "2026-07-28T20:35:52+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036630/0001839882-26-036630-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T18:17:44+00:00",
+      "title": "Truist declares common and preferred stock dividends",
+      "url": "https://www.prnewswire.com/news-releases/truist-declares-common-and-preferred-stock-dividends-302836830.html",
+      "source": "prnewswire.com",
+      "published": "2026-07-28T20:15:00+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-07-28T20:10:54+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "9 Words From Jamie Dimon That Should Worry Investors After JPMorgan's Record $21.2 Billion Quarter",
-      "url": "https://www.fool.com/investing/2026/07/28/9-words-from-jamie-dimon-that-should-worry-investo/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-28T18:15:00+00:00",
+      "title": "Morgan Stanley Launches Cheapest Ether and Solana ETFs at 14 Basis Points",
+      "url": "https://www.youtube.com/watch?v=hSwk9yQbehY",
+      "source": "youtube.com",
+      "published": "2026-07-28T20:05:30+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036622/0001839882-26-036622-index.htm",
+      "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Bank of America 2026 SMID Cap Conference",
+      "url": "http://www.businesswire.com/news/home/20260728168213/en/Upstart-Co-founder-and-CEO-to-Participate-in-Fireside-Chat-at-the-Bank-of-America-2026-SMID-Cap-Conference/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-07-28T20:05:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021469/0001918704-26-021469-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-28T18:11:02+00:00",
+      "published": "2026-07-28T19:49:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Sees Paylocity as Top Pick in HR Software Sector",
+      "url": "https://www.investing.com/news/stock-market-news/citi-sees-paylocity-as-top-pick-in-hr-software-sector-93CH-4817925",
+      "source": "investing.com",
+      "published": "2026-07-28T19:48:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Teams With Infor to Debut Invoice Processing Tool",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/citi-teams-with-infor-to-debut-invoice-processing-tool/",
+      "source": "pymnts.com",
+      "published": "2026-07-28T19:48:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Mellon Global Stock Fund Q2 2026 Commentary | $DGLAX $DGLCX $DGLRX $DGLYX",
+      "url": "https://seekingalpha.com/article/4926507-bny-mellon-global-stock-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-07-28T19:37:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "AMZN, GOOGL, MSFT AI Capex Plans — Why Morgan Stanley Says The Spending Will Pay Off",
+      "url": "https://stocktwits.com/news-articles/markets/equity/amzn-googl-msft-ai-capex-plans/cZZCULgRJbn?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-07-28T19:28:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Who Is Edward Gene Smith? Married Ex-Citibank Executive Who Drugged and Raped Young Women in His Lavish Manhattan Apartment Sentenced",
+      "url": "https://www.ibtimes.sg/who-edward-gene-smith-married-ex-citibank-executive-who-drugged-raped-young-women-his-lavish-90961",
+      "source": "ibtimes.sg",
+      "published": "2026-07-28T19:23:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+      "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
+      "source": "decrypt.co",
+      "published": "2026-07-28T19:14:14+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley says buy these quality stocks. They also pay dividends",
+      "url": "https://www.cnbc.com/2026/07/28/morgan-stanley-says-buy-these-quality-stocks-they-also-pay-dividends.html",
+      "source": "cnbc.com",
+      "published": "2026-07-28T19:08:03+00:00",
       "tickers": [
         "MS"
       ]
