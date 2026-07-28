@@ -1,277 +1,195 @@
 {
-  "last_updated": "2026-07-28T16:19:30.267165+00:00",
+  "last_updated": "2026-07-28T17:57:44.207361+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley (MS) Stock: Introduces Market’s Cheapest Ethereum and Solana ETFs with Staking",
-      "url": "https://blockonomi.com/morgan-stanley-ms-stock-introduces-markets-cheapest-ethereum-and-solana-etfs-with-staking/",
-      "source": "blockonomi.com",
-      "published": "2026-07-28T16:02:34+00:00",
+      "title": "Wells Fargo raises quarterly dividend by 11.1% to $0.50/share",
+      "url": "https://seekingalpha.com/news/4619631-wells-fargo-raises-quarterly-dividend-by-111-to-050share",
+      "source": "seekingalpha.com",
+      "published": "2026-07-28T17:26:06+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Positive Forecast for F5 (NASDAQ:FFIV) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-f5-nasdaqffiv-stock-price-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T17:18:22+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Mike Wilson Predicts S&P 500 Could Tumble to 7,000 Before Climbing to 8,000 Target",
-      "url": "https://blockonomi.com/mike-wilson-predicts-sp-500-could-tumble-to-7000-before-climbing-to-8000-target/",
-      "source": "blockonomi.com",
-      "published": "2026-07-28T15:20:26+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082139/0001213900-26-082139-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T16:58:29+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "ChainIT Added to U.S. Bank Connected Partnership Network",
-      "url": "https://www.prnewswire.com/news-releases/chainit-added-to-us-bank-connected-partnership-network-302836681.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-28T15:17:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021423/0001918704-26-021423-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T16:53:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial (NYSE:TFC) Director Sells 3,986 Shares of Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13519324/truist-financial-nysetfc-director-sells-3986-shares-of-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-28T16:52:58+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Ex-Citigroup managing director gets 30 years for sex crimes",
+      "url": "https://www.investing.com/news/economy-news/excitigroup-managing-director-gets-30-years-for-sex-crimes-93CH-4817740",
+      "source": "investing.com",
+      "published": "2026-07-28T16:45:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "EQT (NYSE:EQT) Price Target Cut to $67.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/eqt-nyseeqt-price-target-cut-to-6700-by-analysts-at-citigroup-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:42:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Perplexity Computer integrates Model Council for multi-model analysis, and Wall Street should pay attention",
+      "url": "https://cryptobriefing.com/perplexity-model-council-multi-model-analysis/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-28T16:42:07+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "Goldman's high beta momentum basket on track for worst monthly performance in history, worse than 2000 and 2009",
-      "url": "https://www.reddit.com/r/wallstreetbets/comments/1v918dt/goldmans_high_beta_momentum_basket_on_track_for/",
-      "source": "reddit.com",
-      "published": "2026-07-28T15:09:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "DGX Maintained by JP Morgan -- Price Target Raised to $250",
-      "url": "https://www.gurufocus.com/news/8983260/dgx-maintained-by-jp-morgan-price-target-raised-to-250",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T15:05:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PKG Upgraded by JP Morgan -- Price Target Raised to $312",
-      "url": "https://www.gurufocus.com/news/8983258/pkg-upgraded-by-jp-morgan-price-target-raised-to-312",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T15:05:17+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley expands ETP line with Ethereum, Solana products",
-      "url": "https://seekingalpha.com/news/4619451-morgan-stanley-expands-etp-line-with-ethereum-solana-products",
-      "source": "seekingalpha.com",
-      "published": "2026-07-28T15:05:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "FRPT Maintained by JP Morgan -- Price Target Raised to $72.00",
-      "url": "https://www.gurufocus.com/news/8983249/frpt-maintained-by-jp-morgan-price-target-raised-to-7200",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T15:02:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FFIV Maintained by JP Morgan -- Price Target Raised to $515",
-      "url": "https://www.gurufocus.com/news/8983243/ffiv-maintained-by-jp-morgan-price-target-raised-to-515",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T15:01:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CBOE Maintained by JP Morgan -- Price Target Raised to $288",
-      "url": "https://www.gurufocus.com/news/8983239/cboe-maintained-by-jp-morgan-price-target-raised-to-288",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T15:01:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BRBR Maintains Overweight Rating by JP Morgan -- Price Target Raised to $17.00",
-      "url": "https://www.gurufocus.com/news/8983232/brbr-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-1700",
-      "source": "gurufocus.com",
-      "published": "2026-07-28T15:01:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Trip.com Group (NASDAQ:TCOM) Price Target to $72.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-tripcom-group-nasdaqtcom-price-target-to-7200-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T15:00:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "How the Maradona theory is moving the markets – Wells Fargo Investment Institute",
-      "url": "https://seekingalpha.com/news/4619455-how-the-maradona-theory-is-moving-the-markets-wells-fargo-investment-institute",
-      "source": "seekingalpha.com",
-      "published": "2026-07-28T14:54:20+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Big Tech will fund more than a third of its AI investments with debt in 2027, Goldman Sachs predicts",
-      "url": "https://finance.yahoo.com/markets/article/big-tech-will-fund-more-than-a-third-of-its-ai-investments-with-debt-in-2027-goldman-sachs-predicts-145136150.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-28T14:51:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi launches digitization solution to streamline trade invoice processing",
-      "url": "https://seekingalpha.com/news/4619432-citi-launches-digitization-solution-to-streamline-trade-invoice-processing",
-      "source": "seekingalpha.com",
-      "published": "2026-07-28T14:39:55+00:00",
+      "title": "Mets broadcaster admits being 'sick to my stomach' over Braves pitcher’s brutal outing",
+      "url": "https://www.foxnews.com/outkick-sports/mets-broadcaster-sick-stomach-braves-pitcher-brutal-outing",
+      "source": "foxnews.com",
+      "published": "2026-07-28T16:40:31+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for TFI International (NYSE:TFII) Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13519179/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-tfi-international-nysetfii-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T14:36:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley unveils Ethereum, Solana ETFs with lowest fees, staking rewards",
-      "url": "https://cryptobriefing.com/morgan-stanley-unveils-ethereum-solana-etfs-with-lowest-fees-staking-rewards/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-28T14:35:23+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America sees ASML as resilient amid China concerns",
-      "url": "https://cryptobriefing.com/bofa-asml-resilient-china-concerns/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-28T14:32:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
-      "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
-      "source": "coindesk.com",
-      "published": "2026-07-28T14:30:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Teck Resources (NYSE:TECK) Given New $47.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13519161/teck-resources-nyseteck-given-new-47-00-price-target-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T14:18:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Quest Diagnostics (NYSE:DGX) Given New $250.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/quest-diagnostics-nysedgx-given-new-25000-price-target-at-jpmorgan-chase-co-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T14:18:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Smurfit Westrock (NYSE:SW) Given New $71.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/smurfit-westrock-nysesw-given-new-7100-price-target-at-jpmorgan-chase-co-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T14:18:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Teck Resources (NYSE:TECK) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-teck-resources-nyseteck-stock-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T14:18:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226036501/0001839882-26-036501-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T14:07:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Futures Slide As Tech Rout Continues, Kospi Halted As It Crashes 10%",
-      "url": "https://awesomecapital.blogspot.com/2026/07/futures-slide-as-tech-rout-continues.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-07-28T14:04:11+00:00",
-      "tickers": [
-        "GS"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021380/0001918704-26-021380-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021416/0001918704-26-021416-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-28T13:58:33+00:00",
+      "published": "2026-07-28T16:39:28+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011230/0000950103-26-011230-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T13:54:33+00:00",
+      "title": "Wall Street’s Trading Boom Just Got a New Leader: Can Morgan Stanley (MS) Keep It?",
+      "url": "https://www.insidermonkey.com/blog/wall-streets-trading-boom-just-got-a-new-leader-can-morgan-stanley-ms-keep-it-1802785/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-28T16:33:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Ahead of earnings, Goldman Sachs hikes AAPL target to $370",
+      "url": "https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss",
+      "source": "appleinsider.com",
+      "published": "2026-07-28T16:25:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Wendy's (NASDAQ:WEN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-wendys-nasdaqwen-stock-price-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:18:24+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "State Street to acquire Santander CACEIS Latam joint venture, expanding Latam presence",
-      "url": "https://seekingalpha.com/news/4619318-state-street-to-acquire-santander-caceis-latam-joint-venture-expanding-latam-presence",
-      "source": "seekingalpha.com",
-      "published": "2026-07-28T13:51:31+00:00",
+      "title": "Citigroup Has Lowered Expectations for Charter Communications (NASDAQ:CHTR) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-charter-communications-nasdaqchtr-stock-price-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:18:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Packaging Corporation of America (NYSE:PKG) Price Target Raised to $254.00",
+      "url": "https://www.marketbeat.com/instant-alerts/packaging-corporation-of-america-nysepkg-price-target-raised-to-25400-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:18:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-capital-one-financial-nysecof-stock-price-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:18:23+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers TFI International (NYSE:TFII) Price Target to $180.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-tfi-international-nysetfii-price-target-to-18000-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:18:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Victoria's Secret & Co. (NYSE:VSXY) Price Target Raised to $110.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/victorias-secret-co-nysevsxy-price-target-raised-to-11000-at-jpmorgan-chase-co-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:18:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street (NYSE:STT) CEO Sells 14,553 Shares",
+      "url": "https://www.tickerreport.com/banking-finance/13519296/state-street-nysestt-ceo-sells-14553-shares.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-28T16:11:43+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Wells Fargo cuts Levi Strauss to Equal Weight after rally, flags limited upside",
-      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-cuts-levi-strauss-to-equal-weight-after-rally-flags-limited-upside-4817122",
-      "source": "investing.com",
-      "published": "2026-07-28T13:50:48+00:00",
+      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
+      "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
+      "source": "coindesk.com",
+      "published": "2026-07-28T16:08:19+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "SouthState Bank (NYSE:SSB) Price Target Raised to $118.00",
-      "url": "https://www.tickerreport.com/banking-finance/13519131/southstate-bank-nysessb-price-target-raised-to-118-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T13:48:45+00:00",
+      "title": "Truist Financial (NYSE:TFC) CEO Sells $693,770.00 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-nysetfc-ceo-sells-69377000-in-stock-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T16:07:52+00:00",
       "tickers": [
         "C",
         "TFC"
