@@ -1,198 +1,160 @@
 {
-  "last_updated": "2026-07-28T17:57:44.207361+00:00",
+  "last_updated": "2026-07-28T19:46:00.890453+00:00",
   "headlines": [
     {
-      "title": "Wells Fargo raises quarterly dividend by 11.1% to $0.50/share",
-      "url": "https://seekingalpha.com/news/4619631-wells-fargo-raises-quarterly-dividend-by-111-to-050share",
+      "title": "Exxon cut to Neutral at BofA, which favors Buy-rated Chevron",
+      "url": "https://seekingalpha.com/news/4619714-exxon-cut-to-neutral-at-bofa-which-favors-buy-rated-chevron",
       "source": "seekingalpha.com",
-      "published": "2026-07-28T17:26:06+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for F5 (NASDAQ:FFIV) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-f5-nasdaqffiv-stock-price-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T17:18:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082139/0001213900-26-082139-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T16:58:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021423/0001918704-26-021423-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T16:53:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial (NYSE:TFC) Director Sells 3,986 Shares of Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13519324/truist-financial-nysetfc-director-sells-3986-shares-of-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T16:52:58+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Ex-Citigroup managing director gets 30 years for sex crimes",
-      "url": "https://www.investing.com/news/economy-news/excitigroup-managing-director-gets-30-years-for-sex-crimes-93CH-4817740",
-      "source": "investing.com",
-      "published": "2026-07-28T16:45:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EQT (NYSE:EQT) Price Target Cut to $67.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/eqt-nyseeqt-price-target-cut-to-6700-by-analysts-at-citigroup-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:42:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Perplexity Computer integrates Model Council for multi-model analysis, and Wall Street should pay attention",
-      "url": "https://cryptobriefing.com/perplexity-model-council-multi-model-analysis/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-28T16:42:07+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Mets broadcaster admits being 'sick to my stomach' over Braves pitcher’s brutal outing",
-      "url": "https://www.foxnews.com/outkick-sports/mets-broadcaster-sick-stomach-braves-pitcher-brutal-outing",
-      "source": "foxnews.com",
-      "published": "2026-07-28T16:40:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021416/0001918704-26-021416-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-28T16:39:28+00:00",
+      "published": "2026-07-28T18:59:33+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Wall Street’s Trading Boom Just Got a New Leader: Can Morgan Stanley (MS) Keep It?",
-      "url": "https://www.insidermonkey.com/blog/wall-streets-trading-boom-just-got-a-new-leader-can-morgan-stanley-ms-keep-it-1802785/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-28T16:33:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Ahead of earnings, Goldman Sachs hikes AAPL target to $370",
-      "url": "https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss",
-      "source": "appleinsider.com",
-      "published": "2026-07-28T16:25:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Wendy's (NASDAQ:WEN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-wendys-nasdaqwen-stock-price-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:18:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Charter Communications (NASDAQ:CHTR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-charter-communications-nasdaqchtr-stock-price-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:18:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Packaging Corporation of America (NYSE:PKG) Price Target Raised to $254.00",
-      "url": "https://www.marketbeat.com/instant-alerts/packaging-corporation-of-america-nysepkg-price-target-raised-to-25400-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:18:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-capital-one-financial-nysecof-stock-price-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:18:23+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citigroup Lowers TFI International (NYSE:TFII) Price Target to $180.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-tfi-international-nysetfii-price-target-to-18000-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:18:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Victoria's Secret & Co. (NYSE:VSXY) Price Target Raised to $110.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/victorias-secret-co-nysevsxy-price-target-raised-to-11000-at-jpmorgan-chase-co-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:18:21+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021462/0001918704-26-021462-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T18:59:04+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "State Street (NYSE:STT) CEO Sells 14,553 Shares",
-      "url": "https://www.tickerreport.com/banking-finance/13519296/state-street-nysestt-ceo-sells-14553-shares.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T16:11:43+00:00",
+      "title": "BofA raises UPS stock price target to $115 on 2026 outlook",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-ups-stock-price-target-to-115-on-2026-outlook-93CH-4817890",
+      "source": "investing.com",
+      "published": "2026-07-28T18:56:51+00:00",
       "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "source": "coindesk.com",
-      "published": "2026-07-28T16:08:19+00:00",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082198/0001213900-26-082198-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T18:46:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011269/0000950103-26-011269-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T18:36:02+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021460/0001918704-26-021460-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T18:35:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AMKR Maintains by Morgan Stanley -- Price Target Raised to $70",
+      "url": "https://www.gurufocus.com/news/8983700/amkr-maintains-by-morgan-stanley-price-target-raised-to-70",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "HOG Maintained by Morgan Stanley -- Price Target Raised to $17.00",
+      "url": "https://www.gurufocus.com/news/8983701/hog-maintained-by-morgan-stanley-price-target-raised-to-1700",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "FFIV Maintained by Morgan Stanley -- Price Target Raised to $415",
+      "url": "https://www.gurufocus.com/news/8983702/ffiv-maintained-by-morgan-stanley-price-target-raised-to-415",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "NRIX Maintained by Morgan Stanley -- Price Target Raised to $38",
+      "url": "https://www.gurufocus.com/news/8983698/nrix-maintained-by-morgan-stanley-price-target-raised-to-38",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "COCO Maintained by Morgan Stanley -- Price Target Raised to $68",
+      "url": "https://www.gurufocus.com/news/8983699/coco-maintained-by-morgan-stanley-price-target-raised-to-68",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DDOG Maintained by Morgan Stanley -- Price Target Raised to $230",
+      "url": "https://www.gurufocus.com/news/8983704/ddog-maintained-by-morgan-stanley-price-target-raised-to-230",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "VST Maintained by Morgan Stanley -- Price Target Raised to $212",
+      "url": "https://www.gurufocus.com/news/8983706/vst-maintained-by-morgan-stanley-price-target-raised-to-212",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T18:30:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Bumps Apple Stock Target Up To $370 Ahead Of Q3 Call",
+      "url": "https://www.macobserver.com/news/goldman-sachs-bumps-apple-stock-target-up-to-370-ahead-of-q3-call/?utm_source=macobserver&utm_medium=rss&utm_campaign=rss_everything",
+      "source": "macobserver.com",
+      "published": "2026-07-28T18:26:23+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Truist Financial (NYSE:TFC) CEO Sells $693,770.00 in Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-nysetfc-ceo-sells-69377000-in-stock-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T16:07:52+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036630/0001839882-26-036630-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T18:17:44+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
+      ]
+    },
+    {
+      "title": "9 Words From Jamie Dimon That Should Worry Investors After JPMorgan's Record $21.2 Billion Quarter",
+      "url": "https://www.fool.com/investing/2026/07/28/9-words-from-jamie-dimon-that-should-worry-investo/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-28T18:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036622/0001839882-26-036622-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T18:11:02+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
