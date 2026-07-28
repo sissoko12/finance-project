@@ -1,281 +1,290 @@
 {
-  "last_updated": "2026-07-28T11:36:27.534177+00:00",
+  "last_updated": "2026-07-28T14:26:27.023076+00:00",
   "headlines": [
     {
-      "title": "State Street to Expand Latin America Footprint with Santander CACEIS Latam Securities Services",
-      "url": "http://www.businesswire.com/news/home/20260728894679/en/State-Street-to-Expand-Latin-America-Footprint-with-Santander-CACEIS-Latam-Securities-Services/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-07-28T11:00:00+00:00",
+      "title": "State Street to acquire Santander CACEIS Latam joint venture, expanding Latam presence",
+      "url": "https://seekingalpha.com/news/4619318-state-street-to-acquire-santander-caceis-latam-joint-venture-expanding-latam-presence",
+      "source": "seekingalpha.com",
+      "published": "2026-07-28T13:51:31+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Socorro Asset Management LP Cuts Stock Position in Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-socorro-asset-management-lp-cuts-stock-position-in-morgan-stanley-ms-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T10:24:39+00:00",
+      "title": "Wells Fargo cuts Levi Strauss to Equal Weight after rally, flags limited upside",
+      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-cuts-levi-strauss-to-equal-weight-after-rally-flags-limited-upside-4817122",
+      "source": "investing.com",
+      "published": "2026-07-28T13:50:48+00:00",
       "tickers": [
-        "MS"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Sold by Socorro Asset Management LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-sold-by-socorro-asset-management-lp-2026-07-28/",
+      "title": "Truist Financial Issues Positive Forecast for SouthState Bank (NYSE:SSB) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-southstate-bank-nysessb-stock-price-2026-07-28/",
       "source": "marketbeat.com",
-      "published": "2026-07-28T10:24:38+00:00",
+      "published": "2026-07-28T13:48:26+00:00",
       "tickers": [
         "C",
-        "PNC"
+        "TFC"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Increases Smiths Group (LON:SMIN) Price Target to GBX 3,100",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-smiths-group-lonsmin-price-target-to-gbx-3100-2026-07-28/",
+      "title": "Tenet Healthcare (NYSE:THC) Price Target Raised to $290.00 at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/tenet-healthcare-nysethc-price-target-raised-to-29000-at-truist-financial-2026-07-28/",
       "source": "marketbeat.com",
-      "published": "2026-07-28T10:24:23+00:00",
+      "published": "2026-07-28T13:48:25+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "F5 (NASDAQ:FFIV) Price Target Raised to $515.00",
+      "url": "https://www.marketbeat.com/instant-alerts/f5-nasdaqffiv-price-target-raised-to-51500-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:48:24+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Lowers Rio Tinto Group (LON:RIO) Price Target to GBX 8,200",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-rio-tinto-group-lonrio-price-target-to-gbx-8200-2026-07-28/",
+      "title": "BellRing Brands (NYSE:BRBR) Price Target Raised to $17.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/bellring-brands-nysebrbr-price-target-raised-to-1700-at-jpmorgan-chase-co-2026-07-28/",
       "source": "marketbeat.com",
-      "published": "2026-07-28T10:24:23+00:00",
+      "published": "2026-07-28T13:48:24+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Freshpet (NASDAQ:FRPT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-freshpet-nasdaqfrpt-stock-price-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:48:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ACRES Commercial Realty Fixed-Rate Preferred: Avoiding The Allocation, But Not Because Of Duration | $C $ACR",
+      "url": "https://seekingalpha.com/article/4926238-acres-commercial-realty-fixed-rate-preferred-avoiding-the-allocation-but-not-because-of-duration",
+      "source": "seekingalpha.com",
+      "published": "2026-07-28T13:28:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Old National Bancorp (NASDAQ:ONB) Given New $29.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/old-national-bancorp-nasdaqonb-given-new-2900-price-target-at-truist-financial-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:24:24+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Increases Huntington Bancshares (NASDAQ:HBAN) Price Target to $20.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-increases-huntington-bancshares-nasdaqhban-price-target-to-2000-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:24:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Forecasts Strong Price Appreciation for Pinnacle Financial Partners (NYSE:PNFP) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-pinnacle-financial-partners-nysepnfp-stock-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:24:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reiterates Sherwin-Williams stock rating on pricing power",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-sherwinwilliams-stock-rating-on-pricing-power-93CH-4816972",
+      "source": "investing.com",
+      "published": "2026-07-28T13:22:53+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021346/0001918704-26-021346-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021348/0001918704-26-021348-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-28T10:22:08+00:00",
+      "published": "2026-07-28T13:13:30+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Infrastructure Capital Advisors LLC Buys 7,742 Shares of Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-infrastructure-capital-advisors-llc-buys-7742-shares-of-morgan-stanley-ms-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T10:16:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Holdings Raised by Quantinno Capital Management LP",
-      "url": "https://www.tickerreport.com/banking-finance/13518666/citigroup-inc-c-holdings-raised-by-quantinno-capital-management-lp.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T10:09:11+00:00",
+      "title": "Citi upgrades Admiral Group on UK motor rate increases",
+      "url": "https://www.investing.com/news/analyst-ratings/citi-upgrades-admiral-group-on-uk-motor-rate-increases-4816910",
+      "source": "investing.com",
+      "published": "2026-07-28T13:09:15+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "PNC Financial Services Group Inc. Acquires 2,679 Shares of Tyler Technologies, Inc. $TYL",
-      "url": "https://www.tickerreport.com/banking-finance/13518663/pnc-financial-services-group-inc-acquires-2679-shares-of-tyler-technologies-inc-tyl.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T10:09:07+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Maverick Capital Ltd. Cuts Stock Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.tickerreport.com/banking-finance/13518659/maverick-capital-ltd-cuts-stock-holdings-in-capital-one-financial-corporation-cof.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-28T10:07:25+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "BofA keeps Elan as top pick in animal health sector ahead of 2Q26",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-keeps-elan-as-top-pick-in-animal-health-sector-ahead-of-2q26-93CH-4815916",
-      "source": "investing.com",
-      "published": "2026-07-28T09:58:11+00:00",
+      "title": "Bank of America Downgrades ExxonMobil (NYSE:XOM) to Neutral",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-downgrades-exxonmobil-nysexom-to-neutral-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:06:22+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "J.P. Morgan puts Kingfisher on Negative Watch over H1 earnings risks",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-kingfisher-on-negative-watch-over-h1-earnings-risks-4815915",
-      "source": "investing.com",
-      "published": "2026-07-28T09:58:06+00:00",
+      "title": "Truist names John Stucker as Middle Market Sales Leader",
+      "url": "https://www.prnewswire.com/news-releases/truist-names-john-stucker-as-middle-market-sales-leader-302836072.html",
+      "source": "prnewswire.com",
+      "published": "2026-07-28T13:03:00+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "BofA says K-shaped consumer spending gap has closed",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-says-kshaped-consumer-spending-gap-has-closed-93CH-4815899",
-      "source": "investing.com",
-      "published": "2026-07-28T09:45:45+00:00",
+      "title": "Morgan Stanley Expands Crypto ETF Suite With New Ethereum & Solana Trusts",
+      "url": "https://www.etftrends.com/crypto-content-hub/morgan-stanley-expands-crypto-etf-suite-ethereum-solana-trusts/",
+      "source": "etftrends.com",
+      "published": "2026-07-28T13:00:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Crown Castle (NYSE:CCI) Given New $87.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/crown-castle-nysecci-given-new-8700-price-target-at-truist-financial-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:00:25+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "EastGroup Properties (NYSE:EGP) Price Target Raised to $230.00",
+      "url": "https://www.marketbeat.com/instant-alerts/eastgroup-properties-nyseegp-price-target-raised-to-23000-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:00:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "First Citizens BancShares (NASDAQ:FCNCA) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/first-citizens-bancshares-nasdaqfcnca-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T13:00:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Citi Is Now Live With a Trade Digitization Solution Integrating Supply Chain Solutions",
+      "url": "http://www.businesswire.com/news/home/20260728941176/en/Citi-Is-Now-Live-With-a-Trade-Digitization-Solution-Integrating-Supply-Chain-Solutions/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-07-28T13:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Book Your Next Getaway: New Bank of America Travel Center Makes it Easier to Plan and Book Memorable Travel Experiences",
+      "url": "https://finance.yahoo.com/small-business/articles/book-next-getaway-bank-america-130000346.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-28T13:00:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley says load up on these 13 AI power infrastructure stocks — including 2 'standout' energy storage plays",
-      "url": "https://www.businessinsider.com/ai-stocks-to-buy-power-infrastructure-energy-storage-bottlenecks-spcx-2026-7",
-      "source": "businessinsider.com",
-      "published": "2026-07-28T09:40:01+00:00",
+      "title": "Goldman Sachs initiates Talanx stock with buy on M&A upside",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-talanx-stock-with-buy-on-ma-upside-4816820",
+      "source": "investing.com",
+      "published": "2026-07-28T12:56:06+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Shares Bought by Waverly Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-bought-by-waverly-advisors-llc-2026-07-28/",
+      "title": "Jefferies Global Best Ideas List Has 5 US Dividend Stocks With Huge Total Return Potential",
+      "url": "https://247wallst.com/investing/2026/07/28/jefferies-global-best-ideas-list-has-5-u-s-dividend-stocks-with-huge-total-return-potential/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-07-28T12:50:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ameris Bancorp (NASDAQ:ABCB) Given New $90.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/ameris-bancorp-nasdaqabcb-given-new-9000-price-target-at-truist-financial-2026-07-28/",
       "source": "marketbeat.com",
-      "published": "2026-07-28T09:20:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Epoch Investment Partners Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-epoch-investment-partners-inc-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:20:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "XLI Blue Box Delivers Buying Opportunity, Targets New Highs",
-      "url": "https://elliottwave-forecast.com/bluebox-wins/xli-blue-box-delivers-buying-opportunity-targets-new-highs/",
-      "source": "elliottwave-forecast.com",
-      "published": "2026-07-28T09:20:39+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Sustainable Insight Capital Management LLC Acquires 4,160 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sustainable-insight-capital-management-llc-acquires-4160-shares-of-jpmorgan-chase-co-jpm-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:20:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Renaissance Technologies LLC Buys 686,249 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-buys-686249-shares-of-jpmorgan-chase-co-jpm-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:12:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Gabelli Funds LLC Grows Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gabelli-funds-llc-grows-holdings-in-capital-one-financial-corporation-cof-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:12:26+00:00",
+      "published": "2026-07-28T12:42:23+00:00",
       "tickers": [
         "C",
-        "COF"
+        "TFC"
       ]
     },
     {
-      "title": "Gabelli Funds LLC Trims Stock Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gabelli-funds-llc-trims-stock-position-in-jpmorgan-chase-co-jpm-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:12:25+00:00",
+      "title": "Honeywell Technologies upgraded at Bank of America on order growth",
+      "url": "https://seekingalpha.com/news/4619331-honeywell-technologies-upgraded-at-bank-of-america-on-order-growth",
+      "source": "seekingalpha.com",
+      "published": "2026-07-28T12:36:04+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Planning to not make any payments on my 0% apr credit card for the next 11 months- will it affect my credit score?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v8swer/planning_to_not_make_any_payments_on_my_0_apr/",
-      "source": "reddit.com",
-      "published": "2026-07-28T09:09:35+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011224/0000950103-26-011224-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T12:32:30+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citi initiates catalyst watch on RWE stock ahead of results",
-      "url": "https://www.investing.com/news/stock-market-news/citi-initiates-catalyst-watch-on-rwe-stock-ahead-of-results-93CH-4815769",
-      "source": "investing.com",
-      "published": "2026-07-28T09:08:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gamco Investors INC. ET AL Sells 7,122 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gamco-investors-inc-et-al-sells-7122-shares-of-jpmorgan-chase-co-jpm-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:04:51+00:00",
+      "title": "JBS Upgraded by JP Morgan -- Maintains Price Target at $18.00",
+      "url": "https://www.gurufocus.com/news/8982615/jbs-upgraded-by-jp-morgan-maintains-price-target-at-1800",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T12:31:21+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Stock Position Reduced by Hilltop Holdings Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-reduced-by-hilltop-holdings-inc-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T09:04:39+00:00",
+      "title": "IP Upgraded by JP Morgan -- Price Target Raised to $61.00",
+      "url": "https://www.gurufocus.com/news/8982609/ip-upgraded-by-jp-morgan-price-target-raised-to-6100",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T12:30:53+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley acquires Australian gas pipeline operator Epic Energy",
-      "url": "https://newsnreleases.com/2026/07/28/morgan-stanley-acquires-australian-gas-pipeline-operator-epic-energy/",
-      "source": "newsnreleases.com",
-      "published": "2026-07-28T07:09:50+00:00",
+      "title": "Goldman Sachs (GS) Announces New Series AA Preferred Stock Issuance",
+      "url": "https://www.gurufocus.com/news/8982601/goldman-sachs-gs-announces-new-series-aa-preferred-stock-issuance",
+      "source": "gurufocus.com",
+      "published": "2026-07-28T12:30:11+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bread Financial Holdings, Inc. $BFH Stock Position Reduced by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bread-financial-holdings-inc-bfh-stock-position-reduced-by-bank-of-new-york-mellon-corp-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T07:05:02+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires 604,987 Shares of StandardAero, Inc. $SARO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-604987-shares-of-standardaero-inc-saro-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T07:05:01+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases 153,498 Shares of Tower Semiconductor Ltd. $TSEM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-153498-shares-of-tower-semiconductor-ltd-tsem-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T07:04:57+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "National Storage Affiliates Trust $NSA Shares Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-national-storage-affiliates-trust-nsa-shares-acquired-by-bank-of-new-york-mellon-corp-2026-07-28/",
-      "source": "marketbeat.com",
-      "published": "2026-07-28T07:04:57+00:00",
-      "tickers": [
-        "BK"
+        "GS"
       ]
     }
   ]
