@@ -1,124 +1,152 @@
 {
-  "last_updated": "2026-07-28T21:14:24.031929+00:00",
+  "last_updated": "2026-07-28T22:35:29.355364+00:00",
   "headlines": [
     {
+      "title": "VNQI vs RWR: Which of These Real Estate ETFs Is the Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/28/vnqi-vs-rwr-which-of-these-real-estate-etfs-is-the-better-buy-in-2026/",
+      "source": "fool.com",
+      "published": "2026-07-28T22:02:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley passes 100% of staking rewards to investors on new Ethereum and Solana ETFs",
+      "url": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-staking-rewards/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-28T21:58:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526321101/0001193125-26-321101-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526321292/0001193125-26-321292-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-28T20:35:52+00:00",
+      "published": "2026-07-28T21:29:56+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Truist declares common and preferred stock dividends",
-      "url": "https://www.prnewswire.com/news-releases/truist-declares-common-and-preferred-stock-dividends-302836830.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-28T20:15:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021486/0001918704-26-021486-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T21:28:23+00:00",
       "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
-      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-07-28T20:10:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Launches Cheapest Ether and Solana ETFs at 14 Basis Points",
-      "url": "https://www.youtube.com/watch?v=hSwk9yQbehY",
-      "source": "youtube.com",
-      "published": "2026-07-28T20:05:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Upstart Co-founder and CEO to Participate in Fireside Chat at the Bank of America 2026 SMID Cap Conference",
-      "url": "http://www.businesswire.com/news/home/20260728168213/en/Upstart-Co-founder-and-CEO-to-Participate-in-Fireside-Chat-at-the-Bank-of-America-2026-SMID-Cap-Conference/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-07-28T20:05:00+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021469/0001918704-26-021469-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021476/0001918704-26-021476-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-28T19:49:54+00:00",
+      "published": "2026-07-28T21:10:03+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Citi Sees Paylocity as Top Pick in HR Software Sector",
-      "url": "https://www.investing.com/news/stock-market-news/citi-sees-paylocity-as-top-pick-in-hr-software-sector-93CH-4817925",
-      "source": "investing.com",
-      "published": "2026-07-28T19:48:32+00:00",
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000092762826000089/0000927628-26-000089-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T21:08:09+00:00",
       "tickers": [
-        "C"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "Citi Teams With Infor to Debut Invoice Processing Tool",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/citi-teams-with-infor-to-debut-invoice-processing-tool/",
+      "title": "State Street (NYSE:STT) EVP Sells 9,758 Shares of Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-evp-sells-9758-shares-of-stock-2026-07-28/",
+      "source": "marketbeat.com",
+      "published": "2026-07-28T21:07:52+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "The Middle Market CFO’s Guide to Big Tech’s Open-Weight AI Debate",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-middle-market-cfos-guide-to-big-techs-open-weight-ai-debate/",
       "source": "pymnts.com",
-      "published": "2026-07-28T19:48:10+00:00",
+      "published": "2026-07-28T21:02:12+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Is Vanguard Financials or State Street Bank the Superior ETF for Your Evolving Portfolio?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/",
+      "source": "fool.com",
+      "published": "2026-07-28T21:00:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout",
+      "source": "bloomberg.com",
+      "published": "2026-07-28T21:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs downgrades Gemini Space Station stock rating to sell on profitability concerns",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-gemini-space-station-stock-rating-to-sell-on-profitability-concerns-93CH-4818154",
+      "source": "investing.com",
+      "published": "2026-07-28T20:56:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi/YouGov survey shows UK inflation expectations dropping near pre-Iran war levels",
+      "url": "https://cryptobriefing.com/uk-inflation-expectations-drop-pre-iran-war-levels/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-28T20:46:49+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "BNY Mellon Global Stock Fund Q2 2026 Commentary | $DGLAX $DGLCX $DGLRX $DGLYX",
-      "url": "https://seekingalpha.com/article/4926507-bny-mellon-global-stock-fund-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-07-28T19:37:00+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000302/0000072971-26-000302-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T20:46:31+00:00",
       "tickers": [
-        "BK"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "AMZN, GOOGL, MSFT AI Capex Plans — Why Morgan Stanley Says The Spending Will Pay Off",
-      "url": "https://stocktwits.com/news-articles/markets/equity/amzn-googl-msft-ai-capex-plans/cZZCULgRJbn?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-07-28T19:28:07+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Who Is Edward Gene Smith? Married Ex-Citibank Executive Who Drugged and Raped Young Women in His Lavish Manhattan Apartment Sentenced",
-      "url": "https://www.ibtimes.sg/who-edward-gene-smith-married-ex-citibank-executive-who-drugged-raped-young-women-his-lavish-90961",
-      "source": "ibtimes.sg",
-      "published": "2026-07-28T19:23:08+00:00",
+      "title": "The Memo - 29/Jul/2026 - Genesis-Science-1, Opus 5, Google Frozen v2 chip, and much more! ...",
+      "url": "https://lifearchitect.substack.com/p/the-memo-29jul2026",
+      "source": "substack.com",
+      "published": "2026-07-28T20:45:23+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-      "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-      "source": "decrypt.co",
-      "published": "2026-07-28T19:14:14+00:00",
+      "title": "BASEBALL-MLB-NYM-LAD/ - Los Angeles Dodgers designated hitter Shohei Ohtani follows ...",
+      "url": "https://www.stltoday.com/image_d8db11c2-c42f-5d8d-aeda-c4db86fb1cdf.html",
+      "source": "stltoday.com",
+      "published": "2026-07-28T20:39:00+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Morgan Stanley says buy these quality stocks. They also pay dividends",
-      "url": "https://www.cnbc.com/2026/07/28/morgan-stanley-says-buy-these-quality-stocks-they-also-pay-dividends.html",
-      "source": "cnbc.com",
-      "published": "2026-07-28T19:08:03+00:00",
+      "title": "Traders Make Record Rush to Fed Futures as Doubts Shadow Market",
+      "url": "https://finance.yahoo.com/economy/policy/articles/traders-record-rush-fed-futures-203000498.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-28T20:30:00+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     }
   ]
