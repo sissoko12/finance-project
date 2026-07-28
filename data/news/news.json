@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-07-27T23:36:48.698697+00:00",
+  "last_updated": "2026-07-28T03:19:24.512777+00:00",
   "headlines": [
+    {
+      "title": "Discover cards begin migrating to Capital One. What it means for your card",
+      "url": "https://thepointsguy.com/news/discover-capital-one-migration-2026/",
+      "source": "thepointsguy.com",
+      "published": "2026-07-27T23:45:53+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF (NASDAQ:GPRF) Sees Large Increase in Short Interest",
       "url": "https://www.tickerreport.com/banking-finance/13518059/goldman-sachs-access-u-s-preferred-stock-and-hybrid-securities-etf-nasdaqgprf-sees-large-increase-in-short-interest.html",
@@ -8,6 +18,26 @@
       "published": "2026-07-27T23:20:49+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "How is bank account interest calculated",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8fces/how_is_bank_account_interest_calculated/",
+      "source": "reddit.com",
+      "published": "2026-07-27T22:24:56+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000179291026000006/0001792910-26-000006-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T22:05:38+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
       ]
     },
     {
@@ -84,10 +114,29 @@
       ]
     },
     {
+      "title": "Former JPMorgan Banker Levels Race Bias, Harassment Suit",
+      "url": "https://www.law360.com/banking/articles/2506323?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-07-27T21:05:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Intel's Server Pricing Power Shows Sharp Improvement",
       "url": "https://www.gurufocus.com/news/8980891/intels-server-pricing-power-shows-sharp-improvement",
       "source": "gurufocus.com",
       "published": "2026-07-27T20:58:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226036455/0001839882-26-036455-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-27T20:56:52+00:00",
       "tickers": [
         "WFC",
         "C"
@@ -101,33 +150,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "VALE Downgraded by Goldman Sachs -- Price Target Lowered to $16.00",
-      "url": "https://www.gurufocus.com/news/8981145/vale-downgraded-by-goldman-sachs-price-target-lowered-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-07-27T20:35:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "STM Maintained by Goldman Sachs -- Price Target Lowered to $60.50",
-      "url": "https://www.gurufocus.com/news/8981144/stm-maintained-by-goldman-sachs-price-target-lowered-to-6050",
-      "source": "gurufocus.com",
-      "published": "2026-07-27T20:34:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "PRKS Maintained by Goldman Sachs -- Price Target Raised to $41.00",
-      "url": "https://www.gurufocus.com/news/8981143/prks-maintained-by-goldman-sachs-price-target-raised-to-4100",
-      "source": "gurufocus.com",
-      "published": "2026-07-27T20:34:34+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
