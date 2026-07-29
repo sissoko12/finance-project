@@ -1,6 +1,127 @@
 {
-  "last_updated": "2026-07-29T19:34:13.490041+00:00",
+  "last_updated": "2026-07-29T21:03:53.310288+00:00",
   "headlines": [
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021602/0001918704-26-021602-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T20:31:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Aptiv to Present at J.P. Morgan 2026 Auto Conference",
+      "url": "http://www.businesswire.com/news/home/20260729749049/en/Aptiv-to-Present-at-J.P.-Morgan-2026-Auto-Conference/?feedref=JjAwJuNHiystnCoBq_hl-WBizzhfcMOlryfOUze8m4xROtuKz3r9zEYYOpRY7zgN7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSIh4qq8429IqTQiZYFKJEfg==",
+      "source": "businesswire.com",
+      "published": "2026-07-29T20:30:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WEX to Participate in the Bank of America 2026 SMID Cap Executive Insights Event",
+      "url": "http://www.businesswire.com/news/home/20260729068174/en/WEX-to-Participate-in-the-Bank-of-America-2026-SMID-Cap-Executive-Insights-Event/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-07-29T20:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011325/0000950103-26-011325-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T20:09:02+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021591/0001918704-26-021591-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T20:02:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AI-Fueled Demand Signals a Bigger Opportunity for Bloom Energy (BE) Investors",
+      "url": "https://www.insidermonkey.com/blog/ai-fueled-demand-signals-a-bigger-opportunity-for-bloom-energy-be-investors-1805579/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-29T19:58:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Picks Top Vertical Software Stocks Ahead of 2Q26 Earnings",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-picks-top-vertical-software-stocks-ahead-of-2q26-earnings-93CH-4821552",
+      "source": "investing.com",
+      "published": "2026-07-29T19:55:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Rio Tinto raised to Buy at Goldman as simplification strategy accelerates",
+      "url": "https://seekingalpha.com/news/4620768-rio-tinto-raised-to-buy-at-goldman-as-simplification-strategy-accelerates",
+      "source": "seekingalpha.com",
+      "published": "2026-07-29T19:54:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526323570/0001193125-26-323570-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T19:45:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Analyst Says Apple Plans to Launch Foldable iPhone in 2020",
+      "url": "https://forums.macrumors.com/threads/bank-of-america-analyst-says-apple-plans-to-launch-foldable-iphone-in-2020.2111544/",
+      "source": "macrumors.com",
+      "published": "2026-07-29T19:28:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Steel Dynamics reinstated Buy at Goldman Sachs as aluminum business ramp-up undervalued",
+      "url": "https://seekingalpha.com/news/4620742-steel-dynamics-reinstated-buy-at-goldman-sachs-as-aluminum-business-ramp-undervalued",
+      "source": "seekingalpha.com",
+      "published": "2026-07-29T19:24:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Where Every Quantum Architecture Decision Collides: Lessons from the First Movers",
+      "url": "https://levelup.gitconnected.com/where-every-quantum-architecture-decision-collides-lessons-from-the-first-movers-834703af3a7d?source=rss----5517fd7b58a6---4",
+      "source": "gitconnected.com",
+      "published": "2026-07-29T19:17:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Second personal checking with my local CU or new checking with Capital One?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va5wya/second_personal_checking_with_my_local_cu_or_new/",
+      "source": "reddit.com",
+      "published": "2026-07-29T19:12:54+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Top oil & gas stock pick from BofA Securities",
       "url": "https://www.investing.com/news/stock-market-news/top-oil--gas-stock-pick-from-bofa-securities-93CH-4821521",
@@ -79,199 +200,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/repligen-nasdaqrgen-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/",
       "source": "marketbeat.com",
       "published": "2026-07-29T19:12:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Boosts PayPal (NASDAQ:PYPL) Price Target to $65.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-boosts-paypal-nasdaqpypl-price-target-to-6500-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Roper Technologies (NASDAQ:ROP) Price Target Raised to $415.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/roper-technologies-nasdaqrop-price-target-raised-to-41500-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts Skyworks Solutions (NASDAQ:SWKS) Price Target to $65.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-skyworks-solutions-nasdaqswks-price-target-to-6500-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases Seagate Technology (NASDAQ:STX) Price Target to $1,240.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-seagate-technology-nasdaqstx-price-target-to-124000-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Lowers Skyworks Solutions (NASDAQ:SWKS) Price Target to $72.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-skyworks-solutions-nasdaqswks-price-target-to-7200-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:23+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Werner Enterprises (NASDAQ:WERN) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/werner-enterprises-nasdaqwern-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021565/0001918704-26-021565-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-29T18:46:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo & Company (NYSE:WFC) Given New $95.50 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13521096/wells-fargo-company-nysewfc-given-new-95-50-price-target-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-29T18:36:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "IQVIA (NYSE:IQV) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.tickerreport.com/banking-finance/13521095/iqvia-nyseiqv-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-29T18:36:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:44+00:00",
-      "tickers": [
-        "JPM",
-        "USB"
-      ]
-    },
-    {
-      "title": "Truist Financial (NYSE:TFC) Price Target Raised to $54.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-nysetfc-price-target-raised-to-5400-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:43+00:00",
-      "tickers": [
-        "JPM",
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Regions Financial (NYSE:RF) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/regions-financial-nyserf-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Oshkosh (NYSE:OSK) Price Target Raised to $150.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/oshkosh-nyseosk-price-target-raised-to-15000-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Invesco (NYSE:IVZ) Given New $29.50 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/invesco-nyseivz-given-new-2950-price-target-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Illinois Tool Works (NYSE:ITW) Price Target Raised to $350.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/illinois-tool-works-nyseitw-price-target-raised-to-35000-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "IQVIA (NYSE:IQV) Price Target Raised to $285.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/iqvia-nyseiqv-price-target-raised-to-28500-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Ford Motor (NYSE:F) Price Target Raised to $17.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/ford-motor-nysef-price-target-raised-to-1700-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Celestica (NYSE:CLS) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/celestica-nysecls-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Boeing (NYSE:BA) Given New $290.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/boeing-nyseba-given-new-29000-price-target-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases Mondelez International (NASDAQ:MDLZ) Price Target to $72.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-mondelez-international-nasdaqmdlz-price-target-to-7200-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Landstar System (NASDAQ:LSTR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-landstar-system-nasdaqlstr-stock-price-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T18:36:31+00:00",
       "tickers": [
         "JPM"
       ]
