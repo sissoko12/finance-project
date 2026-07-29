@@ -1,18 +1,137 @@
 {
-  "last_updated": "2026-07-29T21:03:53.310288+00:00",
+  "last_updated": "2026-07-29T22:30:49.724225+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021602/0001918704-26-021602-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526324270/0001193125-26-324270-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-29T20:31:57+00:00",
+      "published": "2026-07-29T21:31:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011339/0000950103-26-011339-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:31:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082920/0001213900-26-082920-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:30:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082919/0001213900-26-082919-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:30:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Trading Down 2.4% – What’s Next?",
+      "url": "https://www.tickerreport.com/banking-finance/13521212/bank-of-america-nysebac-trading-down-2-4-whats-next.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-29T21:20:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MLB: Game One-Atlanta Braves at New York Mets",
+      "url": "https://thebrunswicknews.com/mlb-game-one-atlanta-braves-at-new-york-mets/image_dcc40d62-57ce-52e4-929b-8a8b6113413b.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-07-29T21:20:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Sets Stunning Seagate Stock Target After Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-sets-stunning-seagate-stock-211942845.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-29T21:19:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021618/0001918704-26-021618-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:16:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011334/0000950103-26-011334-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:13:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs cuts Q2 GDP growth forecast to 1.8%, and crypto markets are watching closely",
+      "url": "https://cryptobriefing.com/goldman-sachs-cuts-q2-gdp-forecast/",
+      "source": "cryptobriefing.com",
+      "published": "2026-07-29T21:07:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Expanded JPMorgan Federal Lawsuit Says Witness Saw Executive Emerge Naked Before Allegedly Demanding Threesome",
+      "url": "https://www.ibtimes.co.uk/jpmorgan-executive-federal-lawsuit-sexual-coercion-discrimination-1811387",
+      "source": "ibtimes.co.uk",
+      "published": "2026-07-29T21:05:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Why JPMorgan CEO Jamie Dimon Says Investors Should Skip 4.6% Yields — ‘I Would Not Be A Buyer’",
+      "url": "https://www.barchart.com/story/news/3535285/why-jpmorgan-ceo-jamie-dimon-says-investors-should-skip-4-6-yields-i-would-not-be-a-buyer",
+      "source": "barchart.com",
+      "published": "2026-07-29T20:41:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Pitches $5.4 Billion Debt for Microsoft-Tied Data Center",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/goldman-pitches-5-4-billion-debt-for-microsoft-tied-data-center",
+      "source": "bloomberg.com",
+      "published": "2026-07-29T20:41:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082843/0001213900-26-082843-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T20:34:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Aptiv to Present at J.P. Morgan 2026 Auto Conference",
-      "url": "http://www.businesswire.com/news/home/20260729749049/en/Aptiv-to-Present-at-J.P.-Morgan-2026-Auto-Conference/?feedref=JjAwJuNHiystnCoBq_hl-WBizzhfcMOlryfOUze8m4xROtuKz3r9zEYYOpRY7zgN7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSIh4qq8429IqTQiZYFKJEfg==",
+      "url": "http://www.businesswire.com/news/home/20260729749049/en/Aptiv-to-Present-at-J.P.-Morgan-2026-Auto-Conference/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA==",
       "source": "businesswire.com",
       "published": "2026-07-29T20:30:00+00:00",
       "tickers": [
@@ -21,187 +140,12 @@
     },
     {
       "title": "WEX to Participate in the Bank of America 2026 SMID Cap Executive Insights Event",
-      "url": "http://www.businesswire.com/news/home/20260729068174/en/WEX-to-Participate-in-the-Bank-of-America-2026-SMID-Cap-Executive-Insights-Event/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "url": "http://www.businesswire.com/news/home/20260729068174/en/WEX-to-Participate-in-the-Bank-of-America-2026-SMID-Cap-Executive-Insights-Event/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
       "source": "businesswire.com",
       "published": "2026-07-29T20:30:00+00:00",
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011325/0000950103-26-011325-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-29T20:09:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021591/0001918704-26-021591-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-29T20:02:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AI-Fueled Demand Signals a Bigger Opportunity for Bloom Energy (BE) Investors",
-      "url": "https://www.insidermonkey.com/blog/ai-fueled-demand-signals-a-bigger-opportunity-for-bloom-energy-be-investors-1805579/",
-      "source": "insidermonkey.com",
-      "published": "2026-07-29T19:58:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Picks Top Vertical Software Stocks Ahead of 2Q26 Earnings",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-picks-top-vertical-software-stocks-ahead-of-2q26-earnings-93CH-4821552",
-      "source": "investing.com",
-      "published": "2026-07-29T19:55:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Rio Tinto raised to Buy at Goldman as simplification strategy accelerates",
-      "url": "https://seekingalpha.com/news/4620768-rio-tinto-raised-to-buy-at-goldman-as-simplification-strategy-accelerates",
-      "source": "seekingalpha.com",
-      "published": "2026-07-29T19:54:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526323570/0001193125-26-323570-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-29T19:45:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Analyst Says Apple Plans to Launch Foldable iPhone in 2020",
-      "url": "https://forums.macrumors.com/threads/bank-of-america-analyst-says-apple-plans-to-launch-foldable-iphone-in-2020.2111544/",
-      "source": "macrumors.com",
-      "published": "2026-07-29T19:28:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Steel Dynamics reinstated Buy at Goldman Sachs as aluminum business ramp-up undervalued",
-      "url": "https://seekingalpha.com/news/4620742-steel-dynamics-reinstated-buy-at-goldman-sachs-as-aluminum-business-ramp-undervalued",
-      "source": "seekingalpha.com",
-      "published": "2026-07-29T19:24:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Where Every Quantum Architecture Decision Collides: Lessons from the First Movers",
-      "url": "https://levelup.gitconnected.com/where-every-quantum-architecture-decision-collides-lessons-from-the-first-movers-834703af3a7d?source=rss----5517fd7b58a6---4",
-      "source": "gitconnected.com",
-      "published": "2026-07-29T19:17:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Second personal checking with my local CU or new checking with Capital One?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1va5wya/second_personal_checking_with_my_local_cu_or_new/",
-      "source": "reddit.com",
-      "published": "2026-07-29T19:12:54+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Top oil & gas stock pick from BofA Securities",
-      "url": "https://www.investing.com/news/stock-market-news/top-oil--gas-stock-pick-from-bofa-securities-93CH-4821521",
-      "source": "investing.com",
-      "published": "2026-07-29T19:12:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Bloom Energy (NYSE:BE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-bloom-energy-nysebe-stock-price-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Centrus Energy (NYSE:LEU) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-pessimistic-forecast-for-centrus-energy-nyseleu-stock-price-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers S&P Global (NYSE:SPGI) Price Target to $530.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-sp-global-nysespgi-price-target-to-53000-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Raises Sherwin-Williams (NYSE:SHW) Price Target to $380.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-raises-sherwin-williams-nyseshw-price-target-to-38000-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MP Materials (NYSE:MP) Price Target Cut to $60.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/mp-materials-nysemp-price-target-cut-to-6000-by-analysts-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Charter Communications (NASDAQ:CHTR) Price Target Cut to $150.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/charter-communications-nasdaqchtr-price-target-cut-to-15000-by-analysts-at-jpmorgan-chase-co-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts CoStar Group (NASDAQ:CSGP) Price Target to $52.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-costar-group-nasdaqcsgp-price-target-to-5200-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Repligen (NASDAQ:RGEN) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/repligen-nasdaqrgen-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T19:12:26+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
