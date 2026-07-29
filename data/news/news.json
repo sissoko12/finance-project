@@ -1,284 +1,245 @@
 {
-  "last_updated": "2026-07-29T12:07:15.191944+00:00",
+  "last_updated": "2026-07-29T14:58:17.110915+00:00",
   "headlines": [
     {
-      "title": "Erste Group Bank Has Bullish Outlook for BNY FY2026 Earnings",
-      "url": "https://www.marketbeat.com/instant-alerts/erste-group-bank-has-bullish-outlook-for-bny-fy2026-earnings-2026-07-29/",
+      "title": "Skyworks Solutions (NASDAQ:SWKS) Given New $64.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/skyworks-solutions-nasdaqswks-given-new-6400-price-target-at-citigroup-2026-07-29/",
       "source": "marketbeat.com",
-      "published": "2026-07-29T11:27:51+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Erste Group Bank Comments on Bank of America FY2026 Earnings",
-      "url": "https://www.marketbeat.com/instant-alerts/erste-group-bank-comments-on-bank-of-america-fy2026-earnings-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T11:27:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Erste Group Bank Raises Earnings Estimates for Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/erste-group-bank-raises-earnings-estimates-for-citigroup-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T11:27:50+00:00",
+      "published": "2026-07-29T14:18:30+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Erste Group Bank Lifts Earnings Estimates for Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/erste-group-bank-lifts-earnings-estimates-for-morgan-stanley-2026-07-29/",
+      "title": "Citigroup Has Lowered Expectations for Qorvo (NASDAQ:QRVO) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-qorvo-nasdaqqrvo-stock-price-2026-07-29/",
       "source": "marketbeat.com",
-      "published": "2026-07-29T11:27:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BNY launches digital transfer agent for tokenized funds: FT",
-      "url": "https://cryptobriefing.com/bny-blockchain-digital-transfer-agency/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-29T11:15:56+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BNY, the world's top bank for safeguarding assets, plans to use blockchain tech for its transfer agency record-keeping systems, which service $8.6T in assets (Financial Times)",
-      "url": "https://www.techmeme.com/260729/p13#a260729p13",
-      "source": "techmeme.com",
-      "published": "2026-07-29T10:50:01+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp $USB Shares Sold by The Manufacturers Life Insurance Company",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-us-bancorp-usb-shares-sold-by-the-manufacturers-life-insurance-company-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T10:48:48+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Ex-Citigroup Exec Jailed for 30 Years for Drugging Women, Filming Assaults, and Possessing Child Abuse Images",
-      "url": "https://www.ibtimes.co.uk/ex-citigroup-executive-sentenced-30-years-sexual-assault-crimes-1811249",
-      "source": "ibtimes.co.uk",
-      "published": "2026-07-29T10:41:27+00:00",
+      "published": "2026-07-29T14:18:30+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021491/0001918704-26-021491-index.htm",
+      "title": "S&P Global (NYSE:SPGI) Price Target Raised to $500.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/sp-global-nysespgi-price-target-raised-to-50000-at-citigroup-2026-07-29/",
+      "source": "marketbeat.com",
+      "published": "2026-07-29T14:18:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Opal Capital LLC Has $960,000 Stock Position in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.tickerreport.com/banking-finance/13520843/opal-capital-llc-has-960000-stock-position-in-the-charles-schwab-corporation-schw.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-29T14:16:44+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "LemonEdge announces $21M Series A funding round led by Blackstone Innovations Investments and joined by BNY, to modernize private markets infrastructure",
+      "url": "https://www.prnewswire.com/news-releases/lemonedge-announces-21m-series-a-funding-round-led-by-blackstone-innovations-investments-and-joined-by-bny-to-modernize-private-markets-infrastructure-302837890.html",
+      "source": "prnewswire.com",
+      "published": "2026-07-29T14:12:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011300/0000950103-26-011300-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-29T10:39:07+00:00",
+      "published": "2026-07-29T14:08:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Humana (NYSE:HUM) Upgraded to Buy at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/humana-nysehum-upgraded-to-buy-at-bank-of-america-2026-07-29/",
+      "source": "marketbeat.com",
+      "published": "2026-07-29T14:06:24+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Reweighting The Dow Jones Industrial Average | $DJI $DIA $SPX $GS $CAT",
-      "url": "https://seekingalpha.com/article/4926814-reweighting-dow-jones-industrial-average",
-      "source": "seekingalpha.com",
-      "published": "2026-07-29T10:35:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "RWR vs. XLRE: Which Real Estate ETF Is the Better Buy?",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/29/rwr-vs-xlre-which-real-estate-etf-is-the-better-buy/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-29T10:30:14+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BofA sees AUD/NZD weakness on central bank policy divergence",
-      "url": "https://www.investing.com/news/forex-news/bofa-sees-audnzd-weakness-on-central-bank-policy-divergence-93CH-4819314",
-      "source": "investing.com",
-      "published": "2026-07-29T10:28:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "'PR problem' is standing in the way of China's humanoid robot boom, says Morgan Stanley",
-      "url": "https://www.cnbc.com/2026/07/29/morgan-stanley-humanoid-robots-pr-problem.html",
-      "source": "cnbc.com",
-      "published": "2026-07-29T10:21:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "51,254 Shares in Bank of America Corporation $BAC Purchased by Talon Private Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-51254-shares-in-bank-of-america-corporation-bac-purchased-by-talon-private-wealth-llc-2026-07-29/",
+      "title": "Citigroup Has Lowered Expectations for Walt Disney (NYSE:DIS) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-walt-disney-nysedis-stock-price-2026-07-29/",
       "source": "marketbeat.com",
-      "published": "2026-07-29T10:09:39+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Talon Private Wealth LLC Invests $2.51 Million in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-talon-private-wealth-llc-invests-251-million-in-wells-fargo-company-wfc-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T10:09:39+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Talon Private Wealth LLC Acquires Shares of 16,081 Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-talon-private-wealth-llc-acquires-shares-of-16081-morgan-stanley-ms-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T10:09:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Talon Private Wealth LLC Acquires New Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-talon-private-wealth-llc-acquires-new-position-in-the-goldman-sachs-group-inc-gs-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T10:09:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "29,944 Shares in Citigroup Inc. $C Purchased by Talon Private Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-29944-shares-in-citigroup-inc-c-purchased-by-talon-private-wealth-llc-2026-07-29/",
-      "source": "marketbeat.com",
-      "published": "2026-07-29T10:09:30+00:00",
+      "published": "2026-07-29T13:48:32+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Quantinno Capital Management LP Has $73.69 Million Position in State Street Corporation $STT",
-      "url": "https://www.tickerreport.com/banking-finance/13520257/quantinno-capital-management-lp-has-73-69-million-position-in-state-street-corporation-stt.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-29T10:09:23+00:00",
+      "title": "Citigroup Lowers Corning (NYSE:GLW) Price Target to $220.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-corning-nyseglw-price-target-to-22000-2026-07-29/",
+      "source": "marketbeat.com",
+      "published": "2026-07-29T13:48:29+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "Quantinno Capital Management LP Buys 55,885 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.tickerreport.com/banking-finance/13520254/quantinno-capital-management-lp-buys-55885-shares-of-capital-one-financial-corporation-cof.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-29T10:09:23+00:00",
+      "title": "Kiniksa Pharmaceuticals International (NASDAQ:KNSA) Price Target Raised to $100.00",
+      "url": "https://www.marketbeat.com/instant-alerts/kiniksa-pharmaceuticals-international-nasdaqknsa-price-target-raised-to-10000-2026-07-29/",
+      "source": "marketbeat.com",
+      "published": "2026-07-29T13:48:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426021500/0001918704-26-021500-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T13:38:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY to bring transfer agency records onchain in blockchain push",
+      "url": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-07-29T13:37:06+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Truist Financial Corporation (NYSE:TFC) Announces Quarterly Dividend of $0.52",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-corporation-nysetfc-announces-quarterly-dividend-of-052-2026-07-29/",
+      "source": "marketbeat.com",
+      "published": "2026-07-29T13:30:30+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Evinced Harnesses Agentic Coding to Automatically and Reliably Fix Accessibility Problems",
+      "url": "https://finance.yahoo.com/technology/ai/articles/evinced-harnesses-agentic-coding-automatically-133000536.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-29T13:30:00+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Rivernorth Capital Management LLC Buys 824,765 Shares of BNY Mellon Strategic Municipal Bond Fund, Inc. $DSM",
-      "url": "https://www.tickerreport.com/banking-finance/13520241/rivernorth-capital-management-llc-buys-824765-shares-of-bny-mellon-strategic-municipal-bond-fund-inc-dsm.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-29T10:07:28+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BNY to adopt blockchain technology for records in new era for Wall Street",
-      "url": "https://www.ft.com/content/7b1197a5-e59a-4beb-ab83-e800e6ebc527?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-07-29T10:00:11+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Should a bank ever be liable when a customer gets scammed?",
-      "url": "https://www.americanbanker.com/news/should-a-bank-ever-be-liable-when-a-customer-gets-scammed",
-      "source": "americanbanker.com",
-      "published": "2026-07-29T10:00:00+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "BofA cuts NXP Semiconductors stock price target on growth concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-nxp-semiconductors-stock-price-target-on-growth-concerns-93CH-4819152",
-      "source": "investing.com",
-      "published": "2026-07-29T09:57:14+00:00",
+      "title": "92% of wealthy Americans are changing their financial plans because of this trend—and it’s reshaping how founders exit",
+      "url": "https://www.fastcompany.com/91574115/92-percent-wealthy-americans-changing-financial-plans-because-trend-reshaping-founders-exit",
+      "source": "fastcompany.com",
+      "published": "2026-07-29T13:20:51+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley raises Sherwin-Williams stock price target on earnings beat",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-sherwinwilliams-stock-price-target-on-earnings-beat-93CH-4819151",
-      "source": "investing.com",
-      "published": "2026-07-29T09:57:11+00:00",
+      "title": "State Street vs. First Trust: Is a Broad Healthcare or Biotech Focus Better for Your Portfolio?",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/29/state-street-vs-first-trust-is-a-broad-healthcare-or-biotech-focus-better-for-your-portfolio/",
+      "source": "fool.com",
+      "published": "2026-07-29T13:20:01+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "BofA cuts Skyworks Solutions stock price target on merger execution concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-skyworks-solutions-stock-price-target-on-merger-execution-concerns-93CH-4819150",
-      "source": "investing.com",
-      "published": "2026-07-29T09:57:10+00:00",
+      "title": "Ford Jumps 6%, Outstrips GM and Tesla on Q2 Earnings Beat, Raised 2026 Guidance, Citi Upgrade",
+      "url": "https://247wallst.com/investing/2026/07/29/ford-jumps-6-outstrips-gm-and-tesla-on-q2-earnings-beat-raised-2026-guidance-citi-upgrade/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-07-29T13:19:22+00:00",
       "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley raises Seagate Technology stock price target on pricing strength",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-seagate-technology-stock-price-target-on-pricing-strength-93CH-4819146",
-      "source": "investing.com",
-      "published": "2026-07-29T09:57:01+00:00",
+      "title": "Citigroup Forecasts Strong Price Appreciation for PayPal (NASDAQ:PYPL) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-paypal-nasdaqpypl-stock-2026-07-29/",
+      "source": "marketbeat.com",
+      "published": "2026-07-29T13:18:21+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA cuts Ladder Capital stock price target on elevated repayments",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-ladder-capital-stock-price-target-on-elevated-repayments-93CH-4819145",
-      "source": "investing.com",
-      "published": "2026-07-29T09:56:59+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley raises Nucor stock price target on cash generation outlook",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-nucor-stock-price-target-on-cash-generation-outlook-93CH-4819144",
+      "title": "PCAR Maintained by JP Morgan -- Price Target Raised to $164",
+      "url": "https://www.gurufocus.com/news/8986201/pcar-maintained-by-jp-morgan-price-target-raised-to-164",
+      "source": "gurufocus.com",
+      "published": "2026-07-29T13:01:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Corgan Wins Sustainable Leadership Award from CoreNet Global",
+      "url": "http://www.businesswire.com/news/home/20260729586875/en/Corgan-Wins-Sustainable-Leadership-Award-from-CoreNet-Global/?feedref=JjAwJuNHiystnCoBq_hl-RJvuK9BiA9EX6a_2nm65Y2fdVmRUpCaGKGQHCCT2Nho2V79e0N_iHqq_9bcVaHmzjimV89m2UZhENQcJKaBuKLpeQta5BkP4eAZGeNC8LKDeIJ8QUholbv6i2n1XVdCIkVFmiaJgpILMDGDfeuucb4=",
+      "source": "businesswire.com",
+      "published": "2026-07-29T13:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082572/0001213900-26-082572-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T12:56:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Sees Treasury Avoiding Bond Sales Tweak Due to Midterms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/jpmorgan-sees-treasury-avoiding-bond-sales-tweak-due-to-midterms",
+      "source": "bloomberg.com",
+      "published": "2026-07-29T12:53:56+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "3 EU Insurance Stocks That Morgan Stanley Favors as Sector Reforms Near",
+      "url": "https://www.investing.com/news/stock-market-news/3-eu-insurance-stocks-that-morgan-stanley-favors-as-sector-reforms-near-93CH-4820162",
       "source": "investing.com",
-      "published": "2026-07-29T09:56:58+00:00",
+      "published": "2026-07-29T12:49:20+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Morgan Stanley cuts Universal Health Services stock price target on margin concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-universal-health-services-stock-price-target-on-margin-concerns-93CH-4819143",
-      "source": "investing.com",
-      "published": "2026-07-29T09:56:54+00:00",
+      "title": "Gold Wavers Ahead of Uncertain Fed Rate Decision",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/gold-wavers-ahead-of-uncertain-fed-rate-decision-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-29T12:44:22+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Stock Market Live July 29, 2026: S&P 500 (SPY) Slightly Higher as Markets Wait on the Fed",
+      "url": "https://247wallst.com/investing/2026/07/29/stock-market-live-july-29-2026-sp-500-spy-slightly-higher-as-markets-wait-on-the-fed/",
+      "source": "247wallst.com",
+      "published": "2026-07-29T12:38:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi upgrades Ford to Buy on improving F-Series momentum, lifts PT to $20",
+      "url": "https://www.investing.com/news/stock-market-news/citi-upgrades-ford-to-buy-on-improving-fseries-momentum-lifts-pt-to-20-4820074",
+      "source": "investing.com",
+      "published": "2026-07-29T12:31:12+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
