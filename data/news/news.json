@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-28T22:35:29.355364+00:00",
+  "last_updated": "2026-07-29T00:03:24.091281+00:00",
   "headlines": [
+    {
+      "title": "Ex-Citigroup managing director sentenced to 30 years in prison for sex crimes",
+      "url": "https://www.audacy.com/krld/news/national/smith-citigroup-banker-sex-trafficking-284b0b3071c65dcd9e4313627f00f5e6",
+      "source": "audacy.com",
+      "published": "2026-07-28T22:56:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "China’s free AI models may not stay free, Goldman says",
+      "url": "https://thenextweb.com/news/chinese-ai-paid-weights-open-model-licensing-goldman",
+      "source": "thenextweb.com",
+      "published": "2026-07-28T22:56:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "VNQI vs RWR: Which of These Real Estate ETFs Is the Better Buy in 2026?",
       "url": "https://www.fool.com/coverage/etfs/2026/07/28/vnqi-vs-rwr-which-of-these-real-estate-etfs-is-the-better-buy-in-2026/",
@@ -20,6 +38,15 @@
       ]
     },
     {
+      "title": "JPMorgan Banker Claims Naked, Drunk Boss Tried to Recruit Friend For Threesome",
+      "url": "https://www.tmz.com/2026/07/28/jpmorgan-banker-new-lawsuit/",
+      "source": "tmz.com",
+      "published": "2026-07-28T21:40:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526321292/0001193125-26-321292-index.htm",
       "source": "sec.gov",
@@ -34,6 +61,28 @@
       "source": "sec.gov",
       "published": "2026-07-28T21:28:23+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan, three US banks challenge stablecoins with shared deposit tokens",
+      "url": "https://crypto.news/jpmorgan-us-banks-stablecoins-shared-deposit-tokens/",
+      "source": "crypto.news",
+      "published": "2026-07-28T21:21:44+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Intel (NASDAQ:INTC) Receives Buy Rating from Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13519527/intel-nasdaqintc-receives-buy-rating-from-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-28T21:12:43+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -64,6 +113,24 @@
       "published": "2026-07-28T21:07:52+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Goldman Raises Price Target Ahead of Q3 Earnings",
+      "url": "https://asymco.com/2026/07/28/goldman-raises-price-target-ahead-of-q3-earnings/",
+      "source": "asymco.com",
+      "published": "2026-07-28T21:03:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082349/0001213900-26-082349-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-28T21:02:58+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -129,24 +196,6 @@
       "published": "2026-07-28T20:45:23+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "BASEBALL-MLB-NYM-LAD/ - Los Angeles Dodgers designated hitter Shohei Ohtani follows ...",
-      "url": "https://www.stltoday.com/image_d8db11c2-c42f-5d8d-aeda-c4db86fb1cdf.html",
-      "source": "stltoday.com",
-      "published": "2026-07-28T20:39:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Traders Make Record Rush to Fed Futures as Doubts Shadow Market",
-      "url": "https://finance.yahoo.com/economy/policy/articles/traders-record-rush-fed-futures-203000498.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-28T20:30:00+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
