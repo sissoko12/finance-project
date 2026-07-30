@@ -1,61 +1,108 @@
 {
-  "last_updated": "2026-07-30T21:17:56.311141+00:00",
+  "last_updated": "2026-07-30T22:38:39.502109+00:00",
   "headlines": [
     {
-      "title": "Bank of America to acquire information security consultancy MDSec Consulting Limited",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-to-acquire-information-security-consultancy-mdsec-consulting-limited-302839501.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-30T20:34:00+00:00",
+      "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
+      "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+      "source": "cnbc.com",
+      "published": "2026-07-30T21:50:17+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BoA Unveils Digital, Value-Chain Strategy to Expand Agricultural Financing",
+      "url": "https://leadership.ng/boa-unveils-digital-value-chain-strategy-to-expand-agricultural-financing/",
+      "source": "leadership.ng",
+      "published": "2026-07-30T21:44:14+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037337/0001839882-26-037337-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T20:32:40+00:00",
+      "title": "Morgan Stanley Highlights Top Beverage Stock on Strong Growth",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-highlights-top-beverage-stock-on-strong-growth-93CH-4826369",
+      "source": "investing.com",
+      "published": "2026-07-30T21:44:11+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Nearly Doubled Its Price Target for CRISPR Therapeutics. Is the Gene-Editing Stock a No-Brainer Buy?",
+      "url": "https://www.fool.com/investing/2026/07/30/morgan-stanley-nearly-doubled-its-price-target-for/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-30T21:38:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
       "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037332/0001839882-26-037332-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037349/0001839882-26-037349-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-30T20:29:00+00:00",
+      "published": "2026-07-30T21:28:52+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021875/0001918704-26-021875-index.htm",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011480/0000950103-26-011480-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-30T20:21:31+00:00",
+      "published": "2026-07-30T21:26:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.7% Higher - Should You Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-17-higher-should-you-buy-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T21:20:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Traders Purchase High Volume of Call Options on Morgan Stanley (NYSE:MS)",
+      "url": "https://www.marketbeat.com/instant-alerts/traders-purchase-high-volume-of-call-options-on-morgan-stanley-nysems-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T21:20:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America to acquire cybersecurity consulting firm MDSec",
+      "url": "https://seekingalpha.com/news/4622237-bank-of-america-to-acquire-cybersecurity-consulting-firm-mdsec",
+      "source": "seekingalpha.com",
+      "published": "2026-07-30T21:17:17+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BNY Mellon Municipal Bond Closed-End Funds Declare Distributions",
-      "url": "http://www.businesswire.com/news/home/20260730660105/en/BNY-Mellon-Municipal-Bond-Closed-End-Funds-Declare-Distributions/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-07-30T20:16:00+00:00",
+      "title": "Bank of America (NYSE:BAC) Trading Up 1.1% Following Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13523123/bank-of-america-nysebac-trading-up-1-1-following-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-30T21:01:49+00:00",
       "tickers": [
-        "BK"
+        "JPM",
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Beacon Financial Corporation (BBT) Q2 2026 Earnings Call Transcript | $BBT",
-      "url": "https://seekingalpha.com/article/4928158-beacon-financial-corporation-bbt-q2-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-07-30T20:03:35+00:00",
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000170686526000007/0001706865-26-000007-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-30T20:51:55+00:00",
       "tickers": [
         "C",
-        "TFC"
+        "COF"
       ]
     }
   ]
