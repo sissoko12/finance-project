@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-07-30T00:04:30.189439+00:00",
+  "last_updated": "2026-07-30T03:42:28.820316+00:00",
   "headlines": [
+    {
+      "title": "Capital One Financial declares $0.80 dividend",
+      "url": "https://seekingalpha.com/news/4621178-capital-one-financial-declares-0_80-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-07-30T03:07:42+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Christian Scott of the New York Mets pitches during the first inning against the Atlanta Braves in the second game of a doubleheader at Citi Field on Wednesday, July 29, 2026, in New York.",
+      "url": "https://thebrunswicknews.com/sports/national_sports/christian-scott-of-the-new-york-mets-pitches-during-the-first-inning-against-the-atlanta/image_37247511-18b3-5a46-8f91-2246eac30a7e.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-07-30T02:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "State Street Plans To Acquire Santander CACEIS Latin American Securities Services Business",
+      "url": "https://pulse2.com/state-street-plans-to-acquire-santander-caceis-latin-american-securities-services-business/",
+      "source": "pulse2.com",
+      "published": "2026-07-30T02:25:03+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Cloud observability startup Groundcover raises $100M in funding",
+      "url": "https://siliconangle.com/2026/07/29/cloud-observability-startup-groundcover-raises-100m-funding/",
+      "source": "siliconangle.com",
+      "published": "2026-07-30T01:14:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Former Obama counsel, Goldman Sachs lawyer admits to making ‘extraordinarily poor taste’ joke about Jeffrey Epstein’s massages",
+      "url": "https://nypost.com/2026/07/29/us-news/ex-obama-counsel-admits-to-joke-about-jeffrey-epsteins-massages/",
+      "source": "nypost.com",
+      "published": "2026-07-30T00:30:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Best HYSA for my situation? - I'm looking to open my first high-yield savings account and ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vae3b9/best_hysa_for_my_situation/",
+      "source": "reddit.com",
+      "published": "2026-07-30T00:26:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Why JPMorgan Chase Stock Tumbled Today",
+      "url": "https://www.fool.com/investing/2026/07/29/why-jpmorgan-chase-stock-tumbled-today/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-07-29T23:54:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "New Job, New HYSA? (Eligible Welcome Offers)",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vad1s4/new_job_new_hysa_eligible_welcome_offers/",
+      "source": "reddit.com",
+      "published": "2026-07-29T23:42:54+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Goldman Co-CIO: The Market's Punishing the Hyperscalers",
       "url": "https://www.bloomberg.com/news/videos/2026-07-29/goldman-co-cio-the-market-s-punishing-the-hyperscalers-video",
@@ -8,6 +83,16 @@
       "published": "2026-07-29T23:28:16+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "$1.76B Wells Fargo Advisors Team Joins Carson Group",
+      "url": "https://altswire.com/1-76b-wells-fargo-advisors-team-joins-carson-group/",
+      "source": "altswire.com",
+      "published": "2026-07-29T23:09:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -84,6 +169,16 @@
       ]
     },
     {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021623/0001918704-26-021623-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:27:12+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Bank of America (NYSE:BAC) Trading Down 2.4% – What’s Next?",
       "url": "https://www.tickerreport.com/banking-finance/13521212/bank-of-america-nysebac-trading-down-2-4-whats-next.html",
       "source": "tickerreport.com",
@@ -108,16 +203,6 @@
       "source": "yahoo.com",
       "published": "2026-07-29T21:19:42+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021618/0001918704-26-021618-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-29T21:16:33+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
@@ -155,34 +240,6 @@
       "published": "2026-07-29T21:05:01+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Oil Company Expands Again At Cash Register Building",
-      "url": "https://www.bisnow.com/denver/news/office/oil-company-adds-50k-sf-downtown-denver-office-135619",
-      "source": "bisnow.com",
-      "published": "2026-07-29T20:45:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why JPMorgan CEO Jamie Dimon Says Investors Should Skip 4.6% Yields — ‘I Would Not Be A Buyer’",
-      "url": "https://www.barchart.com/story/news/3535285/why-jpmorgan-ceo-jamie-dimon-says-investors-should-skip-4-6-yields-i-would-not-be-a-buyer",
-      "source": "barchart.com",
-      "published": "2026-07-29T20:41:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Pitches $5.4 Billion Debt for Microsoft-Tied Data Center",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/goldman-pitches-5-4-billion-debt-for-microsoft-tied-data-center",
-      "source": "bloomberg.com",
-      "published": "2026-07-29T20:41:17+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
