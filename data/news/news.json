@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-29T22:30:49.724225+00:00",
+  "last_updated": "2026-07-30T00:04:30.189439+00:00",
   "headlines": [
+    {
+      "title": "Goldman Co-CIO: The Market's Punishing the Hyperscalers",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/goldman-co-cio-the-market-s-punishing-the-hyperscalers-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-29T23:28:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Stocks Fall as 30-Year Bond Yields Surge After Fed | The Close 7/29/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/the-close-7-29-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-29T22:10:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Capital One Announces Quarterly Dividend",
+      "url": "http://www.businesswire.com/news/home/20260729013771/en/Capital-One-Announces-Quarterly-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
+      "source": "businesswire.com",
+      "published": "2026-07-29T22:05:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526324270/0001193125-26-324270-index.htm",
@@ -35,6 +63,24 @@
       "published": "2026-07-29T21:30:06+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226036965/0001839882-26-036965-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-29T21:29:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Leaving Estimates in the Dust: 28 Firms Beating Earnings Expectations",
+      "url": "https://www.insidermonkey.com/blog/leaving-estimates-in-the-dust-28-firms-beating-earnings-expectations-1805490/",
+      "source": "insidermonkey.com",
+      "published": "2026-07-29T21:28:54+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -94,12 +140,31 @@
       ]
     },
     {
+      "title": "Morgan Stanley Unveils Lowest-Cost Ethereum (ETH) and Solana (SOL) ETFs",
+      "url": "https://www.crowdfundinsider.com/2026/07/294293-morgan-stanley-unveils-lowest-cost-ethereum-eth-and-solana-sol-etfs/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-07-29T21:05:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Expanded JPMorgan Federal Lawsuit Says Witness Saw Executive Emerge Naked Before Allegedly Demanding Threesome",
       "url": "https://www.ibtimes.co.uk/jpmorgan-executive-federal-lawsuit-sexual-coercion-discrimination-1811387",
       "source": "ibtimes.co.uk",
       "published": "2026-07-29T21:05:01+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Oil Company Expands Again At Cash Register Building",
+      "url": "https://www.bisnow.com/denver/news/office/oil-company-adds-50k-sf-downtown-denver-office-135619",
+      "source": "bisnow.com",
+      "published": "2026-07-29T20:45:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -118,34 +183,6 @@
       "published": "2026-07-29T20:41:17+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026082843/0001213900-26-082843-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-29T20:34:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Aptiv to Present at J.P. Morgan 2026 Auto Conference",
-      "url": "http://www.businesswire.com/news/home/20260729749049/en/Aptiv-to-Present-at-J.P.-Morgan-2026-Auto-Conference/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA==",
-      "source": "businesswire.com",
-      "published": "2026-07-29T20:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WEX to Participate in the Bank of America 2026 SMID Cap Executive Insights Event",
-      "url": "http://www.businesswire.com/news/home/20260729068174/en/WEX-to-Participate-in-the-Bank-of-America-2026-SMID-Cap-Executive-Insights-Event/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "source": "businesswire.com",
-      "published": "2026-07-29T20:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
