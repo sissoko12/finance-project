@@ -1,254 +1,274 @@
 {
-  "last_updated": "2026-07-30T17:57:46.405206+00:00",
+  "last_updated": "2026-07-30T19:45:09.977965+00:00",
   "headlines": [
     {
-      "title": "WTA Mubadala Citi DC Open Results",
-      "url": "https://www.newspressnow.com/news/national_news/business/wta-mubadala-citi-dc-open-results/article_c8897d07-50d0-5624-9b46-7e83bb824158.html",
-      "source": "newspressnow.com",
-      "published": "2026-07-30T17:28:13+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226037209/0001839882-26-037209-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T17:22:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021768/0001918704-26-021768-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T17:22:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs launches AlphaAI investing platform across public and private markets",
-      "url": "https://cryptobriefing.com/goldman-sachs-alphaai-investing-platform/",
+      "title": "JPMorgan, Citi, UBS and central banks complete Project Agorá tokenized payment trials",
+      "url": "https://cryptobriefing.com/jpmorgan-citi-ubs-and-central-banks-complete-project-agora-tokenized-payment-trials/",
       "source": "cryptobriefing.com",
-      "published": "2026-07-30T17:10:47+00:00",
+      "published": "2026-07-30T19:10:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Vulcan Materials (NYSE:VMC) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-vulcan-materials-nysevmc-stock-price-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Meta Platforms (NASDAQ:META) Price Target Lowered to $800.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/meta-platforms-nasdaqmeta-price-target-lowered-to-80000-at-citigroup-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers Parsons (NYSE:PSN) Price Target to $53.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-parsons-nysepsn-price-target-to-5300-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Canadian Pacific Kansas City (NYSE:CP) Price Target Raised to $109.00",
+      "url": "https://www.tickerreport.com/banking-finance/13523014/canadian-pacific-kansas-city-nysecp-price-target-raised-to-109-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-30T18:54:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers Mirion Technologies (NYSE:MIR) Price Target to $24.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-mirion-technologies-nysemir-price-target-to-2400-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Veralto (NYSE:VLTO) Price Target Raised to $107.00",
+      "url": "https://www.marketbeat.com/instant-alerts/veralto-nysevlto-price-target-raised-to-10700-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Vertiv (NYSE:VRT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-vertiv-nysevrt-stock-price-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Canadian Pacific Kansas City (NYSE:CP) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/canadian-pacific-kansas-city-nysecp-stock-price-expected-to-rise-citigroup-analyst-says-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Clean Harbors (NYSE:CLH) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-clean-harbors-nyseclh-stock-price-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Automatic Data Processing (NASDAQ:ADP) Price Target Raised to $287.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/automatic-data-processing-nasdaqadp-price-target-raised-to-28700-at-citigroup-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:54:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Gibson Energy (TSE:GEI) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-gibson-energy-tsegei-stock-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:42:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cenovus Energy (TSE:CVE) Given New C$51.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/cenovus-energy-tsecve-given-new-c5100-price-target-at-jpmorgan-chase-co-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:42:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Canadian Pacific Kansas City (TSE:CP) Price Target Raised to C$153.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/canadian-pacific-kansas-city-tsecp-price-target-raised-to-c15300-at-jpmorgan-chase-co-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T18:42:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Trip.com Group (NASDAQ:TCOM) Price Target to $62.00",
+      "url": "https://www.tickerreport.com/banking-finance/13522986/citigroup-cuts-trip-com-group-nasdaqtcom-price-target-to-62-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-30T18:36:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ex-White House counsel says Epstein accuser’s testimony ‘lacked inherent credibility’",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/kathryn-ruemmler-epstein-files-virginia-giuffre",
+      "source": "theguardian.com",
+      "published": "2026-07-30T18:14:19+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Citi is giving cardholders access to Fashion Week, Formula 1, and award-winning chefs. Tickets start at $100",
-      "url": "https://www.fastcompany.com/91582144/citi-strata-elite-benefits-new-fashion-week-formula-1-chefs-access",
-      "source": "fastcompany.com",
-      "published": "2026-07-30T17:01:00+00:00",
+      "title": "Microsoft's AI Story Is Still Being Discovered, Says Goldman",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/goldman-sees-more-ai-upside-for-microsoft-video",
+      "source": "bloomberg.com",
+      "published": "2026-07-30T17:55:38+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Citi and Mastercard Expand The Curated Table Series for Fall 2026 with Premium Dining Experiences",
-      "url": "http://www.businesswire.com/news/home/20260730904279/en/Citi-and-Mastercard-Expand-The-Curated-Table-Series-for-Fall-2026-with-Premium-Dining-Experiences/?feedref=JjAwJuNHiystnCoBq_hl-Ug3tk8D7LAMHgLLtMRfgHkVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a_aI20RZW35DwVdtjvQZl-D",
-      "source": "businesswire.com",
-      "published": "2026-07-30T17:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021743/0001918704-26-021743-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T16:39:09+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426021740/0001918704-26-021740-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T16:38:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan stanley launches staked Ethereum and Solana ETPs powered by coinbase technology",
-      "url": "https://cryptobriefing.com/morgan-stanley-launches-staked-ethereum-and-solana-etps-powered-by-coinbase/",
-      "source": "cryptobriefing.com",
-      "published": "2026-07-30T16:30:03+00:00",
+      "title": "Wingstop (NASDAQ:WING) Given New $238.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/wingstop-nasdaqwing-given-new-23800-price-target-at-morgan-stanley-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T17:54:28+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Wall Street Vet Jeff Currie Bets on Oil Industry He Once Covered",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-30/wall-street-vet-jeff-currie-bets-on-oil-industry-he-once-covered",
-      "source": "bloomberg.com",
-      "published": "2026-07-30T16:30:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist Financial Lowers O-I Glass (NYSE:OI) Price Target to $10.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-o-i-glass-nyseoi-price-target-to-1000-2026-07-30/",
+      "title": "Morgan Stanley Raises Teradyne (NASDAQ:TER) Price Target to $397.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-raises-teradyne-nasdaqter-price-target-to-39700-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:44+00:00",
+      "published": "2026-07-30T17:54:28+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "OneMain (NYSE:OMF) Given New $71.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/onemain-nyseomf-given-new-7100-price-target-at-truist-financial-2026-07-30/",
+      "title": "O'Reilly Automotive (NASDAQ:ORLY) Price Target Lowered to $108.00 at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/oreilly-automotive-nasdaqorly-price-target-lowered-to-10800-at-morgan-stanley-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:42+00:00",
+      "published": "2026-07-30T17:54:27+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "OneSpaWorld (NASDAQ:OSW) Price Target Raised to $29.00",
-      "url": "https://www.marketbeat.com/instant-alerts/onespaworld-nasdaqosw-price-target-raised-to-2900-2026-07-30/",
+      "title": "Morgan Stanley Issues Pessimistic Forecast for SoFi Technologies (NASDAQ:SOFI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-sofi-technologies-nasdaqsofi-stock-price-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:41+00:00",
+      "published": "2026-07-30T17:54:27+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "Truist Financial Reiterates \"Buy\" Rating for Parsons (NYSE:PSN)",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-reiterates-buy-rating-for-parsons-nysepsn-2026-07-30/",
+      "title": "Morgan Stanley Raises Lyft (NASDAQ:LYFT) Price Target to $18.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-raises-lyft-nasdaqlyft-price-target-to-1800-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:39+00:00",
+      "published": "2026-07-30T17:54:26+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "SiteOne Landscape Supply (NYSE:SITE) Price Target Lowered to $120.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/siteone-landscape-supply-nysesite-price-target-lowered-to-12000-at-truist-financial-2026-07-30/",
+      "title": "Lam Research (NASDAQ:LRCX) Price Target Cut to $367.00 by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/lam-research-nasdaqlrcx-price-target-cut-to-36700-by-analysts-at-morgan-stanley-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:37+00:00",
+      "published": "2026-07-30T17:54:26+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "Truist Financial Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-smurfit-westrock-nysesw-stock-price-2026-07-30/",
+      "title": "Morgan Stanley Increases Chefs' Warehouse (NASDAQ:CHEF) Price Target to $104.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-increases-chefs-warehouse-nasdaqchef-price-target-to-10400-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:37+00:00",
+      "published": "2026-07-30T17:54:25+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "Strategic Education (NASDAQ:STRA) Given New $90.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/strategic-education-nasdaqstra-given-new-9000-price-target-at-truist-financial-2026-07-30/",
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Moelis & Company (NYSE:MC) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-moelis-company-nysemc-stock-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:36+00:00",
+      "published": "2026-07-30T17:54:25+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "Truist Financial Issues Pessimistic Forecast for Tenable (NASDAQ:TENB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-tenable-nasdaqtenb-stock-price-2026-07-30/",
+      "title": "Houlihan Lokey (NYSE:HLI) Price Target Cut to $177.00 by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/houlihan-lokey-nysehli-price-target-cut-to-17700-by-analysts-at-morgan-stanley-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:35+00:00",
+      "published": "2026-07-30T17:54:24+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "The Ensign Group (NASDAQ:ENSG) Price Target Raised to $207.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/the-ensign-group-nasdaqensg-price-target-raised-to-20700-at-truist-financial-2026-07-30/",
+      "title": "Morgan Stanley Issues Positive Forecast for Garmin (NYSE:GRMN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-garmin-nysegrmn-stock-price-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:33+00:00",
+      "published": "2026-07-30T17:54:23+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "Truist Financial Has Lowered Expectations for V.F. (NYSE:VFC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-vf-nysevfc-stock-price-2026-07-30/",
+      "title": "General Dynamics (NYSE:GD) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/general-dynamics-nysegd-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-07-30/",
       "source": "marketbeat.com",
-      "published": "2026-07-30T16:24:32+00:00",
+      "published": "2026-07-30T17:54:23+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026083201/0001213900-26-083201-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T16:20:51+00:00",
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Avantor (NYSE:AVTR) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-avantor-nyseavtr-stock-2026-07-30/",
+      "source": "marketbeat.com",
+      "published": "2026-07-30T17:36:49+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026083200/0001213900-26-083200-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T16:20:22+00:00",
+      "title": "Adaptive Biotechnologies (NASDAQ:ADPT) Price Target Raised to $22.00 at Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13522927/adaptive-biotechnologies-nasdaqadpt-price-target-raised-to-22-00-at-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-30T17:36:49+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Novel AI framework enables efficient collaboration between generalist and specialist models for disease diagnosis",
-      "url": "https://medicalxpress.com/news/2026-07-ai-framework-enables-efficient-collaboration.html",
-      "source": "medicalxpress.com",
-      "published": "2026-07-30T16:20:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation DEP SHS REP 1/40TH NCUM PFD SER N declares $0.2656 dividend",
-      "url": "https://seekingalpha.com/news/4621893-capital-one-financial-corporation-dep-shs-rep-1-40th-ncum-pfd-ser-n-declares-0_2656-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-30T16:17:07+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation DEP SHS REPSTG 1/40TH INT PERP PFD SER L declares $0.2734 dividend",
-      "url": "https://seekingalpha.com/news/4621892-capital-one-financial-corporation-dep-shs-repstg-1-40th-int-perp-pfd-ser-l-declares-0_2734",
-      "source": "seekingalpha.com",
-      "published": "2026-07-30T16:16:49+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One Financial DP SH K declares $0.289 dividend",
-      "url": "https://seekingalpha.com/news/4621891-capital-one-financial-dp-sh-k-declares-0_289-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-07-30T16:16:39+00:00",
-      "tickers": [
-        "C",
-        "COF"
+        "MS"
       ]
     }
   ]
