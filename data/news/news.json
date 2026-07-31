@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-07-31T21:40:57.253003+00:00",
+  "last_updated": "2026-07-31T23:09:20.508300+00:00",
   "headlines": [
+    {
+      "title": "NBIX Maintained by Citigroup -- Price Target Raised to $249",
+      "url": "https://www.gurufocus.com/news/8996223/nbix-maintained-by-citigroup-price-target-raised-to-249",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T22:32:13+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PBF Maintained by Citigroup -- Price Target Raised to $74.00",
+      "url": "https://www.gurufocus.com/news/8996221/pbf-maintained-by-citigroup-price-target-raised-to-7400",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T22:31:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PTC Maintained by Citigroup -- Price Target Raised to $141",
+      "url": "https://www.gurufocus.com/news/8996220/ptc-maintained-by-citigroup-price-target-raised-to-141",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T22:31:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WVE Maintains Buy Rating -- Price Target Lowered to $19.00 by Citigroup",
+      "url": "https://www.gurufocus.com/news/8996219/wve-maintains-buy-rating-price-target-lowered-to-1900-by-citigroup",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T22:30:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CVNA Maintains by Citigroup -- Price Target Lowered to $90",
+      "url": "https://www.gurufocus.com/news/8996217/cvna-maintains-by-citigroup-price-target-lowered-to-90",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T22:30:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "RAL Maintained by Citigroup -- Price Target Raised to $82.00",
+      "url": "https://www.gurufocus.com/news/8996186/ral-maintained-by-citigroup-price-target-raised-to-8200",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T22:06:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226037588/0001839882-26-037588-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T21:25:29+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022197/0001918704-26-022197-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T21:23:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Neurocrine Biosciences (NASDAQ:NBIX) Price Target Raised to $249.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/neurocrine-biosciences-nasdaqnbix-price-target-raised-to-24900-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T21:18:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022192/0001918704-26-022192-index.htm",
@@ -26,6 +109,15 @@
       "published": "2026-07-31T21:07:59+00:00",
       "tickers": [
         "BK"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037582/0001839882-26-037582-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T21:06:46+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -83,131 +175,12 @@
       ]
     },
     {
-      "title": "Citigroup Issues Positive Forecast for Stanley Black & Decker (NYSE:SWK) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-stanley-black-decker-nyseswk-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:36:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Norwegian Cruise Line (NYSE:NCLH) Given New $22.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/norwegian-cruise-line-nysenclh-given-new-2200-price-target-at-citigroup-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:36:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Huntington Ingalls Industries (NYSE:HII) Given New $379.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/huntington-ingalls-industries-nysehii-given-new-37900-price-target-at-citigroup-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:36:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for BJ's Restaurants (NASDAQ:BJRI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-bjs-restaurants-nasdaqbjri-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:36:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for O-I Glass (NYSE:OI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-o-i-glass-nyseoi-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:12:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for C.H. Robinson Worldwide (NASDAQ:CHRW) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-ch-robinson-worldwide-nasdaqchrw-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:12:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Schneider National (NYSE:SNDR) Price Target Lowered to $38.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/schneider-national-nysesndr-price-target-lowered-to-3800-at-citigroup-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:12:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Kirby (NYSE:KEX) Price Target Raised to $170.00",
-      "url": "https://www.marketbeat.com/instant-alerts/kirby-nysekex-price-target-raised-to-17000-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:12:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CAPITAL ONE FINANCIAL CORP: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/927628/000195004726007454/0001950047-26-007454-index.htm",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022176/0001918704-26-022176-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-31T20:04:52+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Week’s Best: Wells Fargo’s Recruiting Comeback",
-      "url": "https://finance.yahoo.com/m/37048806-ca7b-39e5-98b3-988d5bbd600b/week%E2%80%99s-best%3A-wells-fargo%E2%80%99s.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-07-31T20:03:00+00:00",
+      "published": "2026-07-31T20:51:35+00:00",
       "tickers": [
         "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Lowers Trane Technologies (NYSE:TT) Price Target to $566.00",
-      "url": "https://www.tickerreport.com/banking-finance/13525021/citigroup-lowers-trane-technologies-nysett-price-target-to-566-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-31T20:02:03+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Trane Technologies (NYSE:TT) Given New $566.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/trane-technologies-nysett-given-new-56600-price-target-at-citigroup-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:00:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "KBR (NYSE:KBR) Price Target Cut to $49.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/kbr-nysekbr-price-target-cut-to-4900-by-analysts-at-citigroup-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:00:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for International Paper (NYSE:IP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-international-paper-nyseip-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:00:23+00:00",
-      "tickers": [
         "C"
       ]
     }
