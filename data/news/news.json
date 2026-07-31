@@ -1,295 +1,209 @@
 {
-  "last_updated": "2026-07-31T15:05:15.155311+00:00",
+  "last_updated": "2026-07-31T17:07:08.215918+00:00",
   "headlines": [
     {
-      "title": "BNY Mellon International Stock Fund Q2 2026 Commentary | $DISRX $DISYX $DISCX $DISAX",
-      "url": "https://seekingalpha.com/article/4928678-bny-mellon-international-stock-fund-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-07-31T14:34:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022049/0001918704-26-022049-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-31T14:16:22+00:00",
+      "title": "JPMorgan, Citi, UBS Testing Tokenized Cross-Border Payments",
+      "url": "https://watcher.guru/news/jpmorgan-citi-ubs-testing-tokenized-cross-border-payments",
+      "source": "watcher.guru",
+      "published": "2026-07-31T16:32:06+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022048/0001918704-26-022048-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-31T14:11:38+00:00",
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Avery Dennison (NYSE:AVY) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-avery-dennison-nyseavy-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T16:24:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Bel Fuse (NASDAQ:BELFB) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-bel-fuse-nasdaqbelfb-stock-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T16:24:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America Moves to Buy MDSec in Global Cybersecurity Push",
+      "url": "https://www.pymnts.com/cybersecurity/2026/bank-of-america-buy-mdsec-global-cybersecurity-push/",
+      "source": "pymnts.com",
+      "published": "2026-07-31T16:14:59+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Chase Sapphire Lounges Are Cutting Off Priority Pass — And Giving Cardmembers More Time Inside",
-      "url": "https://viewfromthewing.com/chase-sapphire-lounges-are-cutting-off-priority-pass-and-giving-cardmembers-more-time-inside/",
-      "source": "viewfromthewing.com",
-      "published": "2026-07-31T14:04:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011536/0000950103-26-011536-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-31T14:02:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LemonEdge Raises $21 Million Series A Funding Round To Modernize Private Markets Infrastructure",
-      "url": "https://pulse2.com/lemonedge-raises-21-million-series-a-funding-round-to-modernize-private-markets-infrastructure/",
-      "source": "pulse2.com",
-      "published": "2026-07-31T13:50:30+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Monolithic Power Systems (NASDAQ:MPWR) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/monolithic-power-systems-nasdaqmpwr-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for NMI (NASDAQ:NMIH) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-nmi-nasdaqnmih-stock-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Boosts Nextpower (NASDAQ:NXT) Price Target to $145.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-nextpower-nasdaqnxt-price-target-to-14500-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Vericel's (VCEL) Buy Rating Reaffirmed at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/vericels-vcel-buy-rating-reaffirmed-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Regeneron Pharmaceuticals (NASDAQ:REGN) Price Target Raised to $772.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/regeneron-pharmaceuticals-nasdaqregn-price-target-raised-to-77200-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Willis Towers Watson Public (NASDAQ:WTW) Given New $400.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/willis-towers-watson-public-nasdaqwtw-given-new-40000-price-target-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Boosts Labcorp (NYSE:LH) Price Target to $350.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-labcorp-nyselh-price-target-to-35000-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Reiterates Buy Rating for Ralliant (NYSE:RAL)",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-reiterates-buy-rating-for-ralliant-nyseral-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:32+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Reddit (NYSE:RDDT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-reddit-nyserddt-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:31+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Stryker (NYSE:SYK) Price Target Raised to $340.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/stryker-nysesyk-price-target-raised-to-34000-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Terex (NYSE:TEX) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-terex-nysetex-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:42:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Asset Management Launches JPMorgan U.S. Large Cap Value Plus ETF (JLVP), Bringing Its Extension Strategy Expertise to an ETF",
-      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-launches-jpmorgan-us-large-cap-value-plus-etf-jlvp-bringing-its-extension-strategy-expertise-to-an-etf-302839608.html",
-      "source": "prnewswire.com",
-      "published": "2026-07-31T13:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Analysts’ Weekly Ratings Changes for Essex Property Trust (ESS)",
-      "url": "https://www.tickerreport.com/banking-finance/13524565/analysts-weekly-ratings-changes-for-essex-property-trust-ess.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-31T13:26:57+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bristol Myers Squibb (NYSE:BMY) Receives \"Buy\" Rating from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/bristol-myers-squibb-nysebmy-receives-buy-rating-from-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "CRH (NYSE:CRH) Price Target Cut to $130.00 by Analysts at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/crh-nysecrh-price-target-cut-to-13000-by-analysts-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Builders FirstSource (NYSE:BLDR) Price Target Cut to $90.00 by Analysts at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/builders-firstsource-nysebldr-price-target-cut-to-9000-by-analysts-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Cimpress (NASDAQ:CMPR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-cimpress-nasdaqcmpr-stock-price-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:25+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Employers (NYSE:EIG) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/employers-nyseeig-stock-price-expected-to-rise-truist-financial-analyst-says-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:25+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Raises Equinix (NASDAQ:EQIX) Price Target to $1,220.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-raises-equinix-nasdaqeqix-price-target-to-122000-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:25+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Floor & Decor (NYSE:FND) Given New $70.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/floor-decor-nysefnd-given-new-7000-price-target-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:24+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "First Solar (NASDAQ:FSLR) Given Hold Rating at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/first-solar-nasdaqfslr-given-hold-rating-at-truist-financial-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:24+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Reaffirms Buy Rating for Icon (NASDAQ:ICLR)",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-reaffirms-buy-rating-for-icon-nasdaqiclr-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T13:24:23+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "The Fed did exactly what Wall Street was expecting—so why are markets so vexed by Kevin Warsh?",
-      "url": "https://fortune.com/2026/07/31/the-fed-did-exactly-what-wall-street-was-expecting-so-why-are-markets-so-vexed-by-kevin-warsh/",
-      "source": "fortune.com",
-      "published": "2026-07-31T13:21:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022024/0001918704-26-022024-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022105/0001918704-26-022105-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-31T13:18:52+00:00",
+      "published": "2026-07-31T16:14:58+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Promising Financial Stocks To Watch Today - July 31st",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-financial-stocks-to-watch-today-july-31st-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T16:04:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "US Treasury anti-money laundering chief Gacki to join Citi as global head of sanctions",
+      "url": "https://www.investing.com/news/stock-market-news/us-treasury-antimoney-laundering-chief-gacki-to-join-citi-as-global-head-of-sanctions-4828962",
+      "source": "investing.com",
+      "published": "2026-07-31T15:54:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037484/0001839882-26-037484-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T15:45:14+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "T. Rowe Price expects 2026 adjusted operating expenses up 4% to 7% while advancing ETFs, SMAs and Goldman Sachs private markets funds",
+      "url": "https://seekingalpha.com/news/4622873-t-rowe-price-expects-2026-adjusted-operating-expenses-up-4-percent-to-7-percent-while",
+      "source": "seekingalpha.com",
+      "published": "2026-07-31T15:44:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA Sets Nifty Target at 26,200; Here Are the Sectors It Is Bullish and Cautious On",
+      "url": "https://tradebrains.in/bofa-sets-nifty-target-at-26200-here-are-the-sectors-it-is-bullish-and-cautious-on/",
+      "source": "tradebrains.in",
+      "published": "2026-07-31T15:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Mondi (LON:MNDI) Price Target to GBX 800",
+      "url": "https://www.tickerreport.com/banking-finance/13524745/jpmorgan-chase-co-cuts-mondi-lonmndi-price-target-to-gbx-800.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T15:24:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for BAE Systems (LON:BA) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-bae-systems-lonba-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T15:24:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Rentokil Initial (LON:RTO) Price Target Lowered to GBX 431 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/rentokil-initial-lonrto-price-target-lowered-to-gbx-431-at-jpmorgan-chase-co-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T15:24:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Mondi (LON:MNDI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-mondi-lonmndi-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T15:24:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "HSY Maintained by Wells Fargo -- Price Target Lowered to $190",
+      "url": "https://www.gurufocus.com/news/8995353/hsy-maintained-by-wells-fargo-price-target-lowered-to-190",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T15:23:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BUD Maintained by Wells Fargo -- Price Target Raised to $97.00",
+      "url": "https://www.gurufocus.com/news/8995351/bud-maintained-by-wells-fargo-price-target-raised-to-9700",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T15:23:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "NCLH Maintained by Wells Fargo -- Price Target Lowered to $22.00",
+      "url": "https://www.gurufocus.com/news/8995349/nclh-maintained-by-wells-fargo-price-target-lowered-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T15:23:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "LTH Maintained by Wells Fargo -- Price Target Raised to $51.00",
+      "url": "https://www.gurufocus.com/news/8995346/lth-maintained-by-wells-fargo-price-target-raised-to-5100",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T15:23:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "CHDN Maintained by Wells Fargo -- Price Target Lowered to $117",
+      "url": "https://www.gurufocus.com/news/8995348/chdn-maintained-by-wells-fargo-price-target-lowered-to-117",
+      "source": "gurufocus.com",
+      "published": "2026-07-31T15:23:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011542/0000950103-26-011542-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T15:18:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi hires away FinCEN chief for compliance role",
+      "url": "https://www.bankingdive.com/news/andrea-gacki-citi-sanctions-head-fincen-treasury/826718/",
+      "source": "bankingdive.com",
+      "published": "2026-07-31T15:16:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jane Street-Backed Exchange Sells Control to Canada’s TMX Group",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/jane-street-backed-exchange-sells-control-to-canada-s-tmx-group",
+      "source": "bloomberg.com",
+      "published": "2026-07-31T15:14:58+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
