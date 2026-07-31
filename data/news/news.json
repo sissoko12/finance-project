@@ -1,13 +1,187 @@
 {
-  "last_updated": "2026-07-31T20:24:03.272471+00:00",
+  "last_updated": "2026-07-31T21:40:57.253003+00:00",
   "headlines": [
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526328575/0001193125-26-328575-index.htm",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022192/0001918704-26-022192-index.htm",
       "source": "sec.gov",
-      "published": "2026-07-31T20:08:02+00:00",
+      "published": "2026-07-31T21:13:12+00:00",
       "tickers": [
-        "GS"
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011587/0000950103-26-011587-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T21:08:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Dermot Mcdonogh Sells 31,800 Shares of Bank of New York Mellon (NYSE:BNY) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/dermot-mcdonogh-sells-31800-shares-of-bank-of-new-york-mellon-nysebny-stock-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T21:07:59+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Analysts’ Weekly Ratings Changes for FOX (FOX)",
+      "url": "https://www.tickerreport.com/banking-finance/13525066/analysts-weekly-ratings-changes-for-fox-fox.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T20:56:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Carvana (NYSE:CVNA) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-carvana-nysecvna-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:54:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers FMC (NYSE:FMC) Price Target to $12.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-fmc-nysefmc-price-target-to-1200-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:54:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ralliant (NYSE:RAL) Given New $82.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/ralliant-nyseral-given-new-8200-price-target-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:54:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WAVE Life Sciences (NASDAQ:WVE) Given New $19.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/wave-life-sciences-nasdaqwve-given-new-1900-price-target-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:54:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PBF Energy (NYSE:PBF) Price Target Raised to $74.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/pbf-energy-nysepbf-price-target-raised-to-7400-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:54:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Stanley Black & Decker (NYSE:SWK) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-stanley-black-decker-nyseswk-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:36:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Norwegian Cruise Line (NYSE:NCLH) Given New $22.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/norwegian-cruise-line-nysenclh-given-new-2200-price-target-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:36:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Huntington Ingalls Industries (NYSE:HII) Given New $379.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/huntington-ingalls-industries-nysehii-given-new-37900-price-target-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:36:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for BJ's Restaurants (NASDAQ:BJRI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-bjs-restaurants-nasdaqbjri-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:36:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for O-I Glass (NYSE:OI) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-o-i-glass-nyseoi-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:12:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for C.H. Robinson Worldwide (NASDAQ:CHRW) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-ch-robinson-worldwide-nasdaqchrw-stock-price-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:12:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Schneider National (NYSE:SNDR) Price Target Lowered to $38.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/schneider-national-nysesndr-price-target-lowered-to-3800-at-citigroup-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:12:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Kirby (NYSE:KEX) Price Target Raised to $170.00",
+      "url": "https://www.marketbeat.com/instant-alerts/kirby-nysekex-price-target-raised-to-17000-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T20:12:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000195004726007454/0001950047-26-007454-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-31T20:04:52+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Week’s Best: Wells Fargo’s Recruiting Comeback",
+      "url": "https://finance.yahoo.com/m/37048806-ca7b-39e5-98b3-988d5bbd600b/week%E2%80%99s-best%3A-wells-fargo%E2%80%99s.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-07-31T20:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers Trane Technologies (NYSE:TT) Price Target to $566.00",
+      "url": "https://www.tickerreport.com/banking-finance/13525021/citigroup-lowers-trane-technologies-nysett-price-target-to-566-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T20:02:03+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -35,195 +209,6 @@
       "published": "2026-07-31T20:00:23+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "A. O. Smith (NYSE:AOS) Price Target Lowered to $64.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/a-o-smith-nyseaos-price-target-lowered-to-6400-at-citigroup-2026-07-31/",
-      "source": "marketbeat.com",
-      "published": "2026-07-31T20:00:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526328339/0001193125-26-328339-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-31T19:59:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SNDR Maintained by JP Morgan -- Price Target Raised to $35.00",
-      "url": "https://www.gurufocus.com/news/8995833/sndr-maintained-by-jp-morgan-price-target-raised-to-3500",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MMSI Maintained by JP Morgan -- Price Target Raised to $95.00",
-      "url": "https://www.gurufocus.com/news/8995820/mmsi-maintained-by-jp-morgan-price-target-raised-to-9500",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "DRS Maintains Rating by JP Morgan -- Price Target Raised to $53.00",
-      "url": "https://www.gurufocus.com/news/8995810/drs-maintains-rating-by-jp-morgan-price-target-raised-to-5300",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TNET Maintained by JP Morgan -- Price Target Raised to $50",
-      "url": "https://www.gurufocus.com/news/8995838/tnet-maintained-by-jp-morgan-price-target-raised-to-50",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "LPLA Maintained by JP Morgan -- Price Target Raised to $428",
-      "url": "https://www.gurufocus.com/news/8995819/lpla-maintained-by-jp-morgan-price-target-raised-to-428",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NMIH Maintained by JP Morgan -- Price Target Raised to $50.00",
-      "url": "https://www.gurufocus.com/news/8995824/nmih-maintained-by-jp-morgan-price-target-raised-to-5000",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SAIA Maintained by JP Morgan -- Price Target Raised to $498",
-      "url": "https://www.gurufocus.com/news/8995828/saia-maintained-by-jp-morgan-price-target-raised-to-498",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "LSPD Maintained by JP Morgan -- Price Target Raised to $12.00",
-      "url": "https://www.gurufocus.com/news/8995813/lspd-maintained-by-jp-morgan-price-target-raised-to-1200",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SIRI Maintained by JP Morgan -- Price Target Raised to $34.00",
-      "url": "https://www.gurufocus.com/news/8995835/siri-maintained-by-jp-morgan-price-target-raised-to-3400",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "VIRT Maintained by JP Morgan -- Price Target Raised to $61.00",
-      "url": "https://www.gurufocus.com/news/8995840/virt-maintained-by-jp-morgan-price-target-raised-to-6100",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FMC Maintained by JP Morgan -- Price Target Lowered to $12",
-      "url": "https://www.gurufocus.com/news/8995851/fmc-maintained-by-jp-morgan-price-target-lowered-to-12",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ALNY Maintains Overweight Rating by JP Morgan -- Price Target Lowered to $375",
-      "url": "https://www.gurufocus.com/news/8995842/alny-maintains-overweight-rating-by-jp-morgan-price-target-lowered-to-375",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CWH Maintained by JP Morgan -- Price Target Lowered to $11.00",
-      "url": "https://www.gurufocus.com/news/8995848/cwh-maintained-by-jp-morgan-price-target-lowered-to-1100",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CRS Maintained by JP Morgan -- Price Target Lowered to $700",
-      "url": "https://www.gurufocus.com/news/8995849/crs-maintained-by-jp-morgan-price-target-lowered-to-700",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "DQ Maintained by JP Morgan -- Price Target Lowered to $22.00",
-      "url": "https://www.gurufocus.com/news/8995850/dq-maintained-by-jp-morgan-price-target-lowered-to-2200",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BXMT Maintained by JP Morgan -- Price Target Lowered to $18.00",
-      "url": "https://www.gurufocus.com/news/8995847/bxmt-maintained-by-jp-morgan-price-target-lowered-to-1800",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ILMN Maintained by JP Morgan -- Price Target Raised to $230",
-      "url": "https://www.gurufocus.com/news/8995808/ilmn-maintained-by-jp-morgan-price-target-raised-to-230",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:11:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "HSY Maintained by JP Morgan -- Price Target Raised to $193",
-      "url": "https://www.gurufocus.com/news/8995805/hsy-maintained-by-jp-morgan-price-target-raised-to-193",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:10:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GH Maintained by JP Morgan -- Price Target Raised to $195",
-      "url": "https://www.gurufocus.com/news/8995802/gh-maintained-by-jp-morgan-price-target-raised-to-195",
-      "source": "gurufocus.com",
-      "published": "2026-07-31T19:09:03+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
