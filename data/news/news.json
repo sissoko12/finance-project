@@ -1,6 +1,120 @@
 {
-  "last_updated": "2026-07-31T07:24:50.217032+00:00",
+  "last_updated": "2026-07-31T10:07:58.808407+00:00",
   "headlines": [
+    {
+      "title": "Kentucky Retirement Systems Grows Position in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kentucky-retirement-systems-grows-position-in-state-street-corporation-stt-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T09:40:03+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Kentucky Retirement Systems Acquires 135,992 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kentucky-retirement-systems-acquires-135992-shares-of-jpmorgan-chase-co-jpm-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T09:39:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Janus Henderson Group PLC Sells 4,787,886 Shares of The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-janus-henderson-group-plc-sells-4787886-shares-of-the-charles-schwab-corporation-schw-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T09:39:19+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "South Dakota Investment Council Decreases Stock Holdings in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-south-dakota-investment-council-decreases-stock-holdings-in-the-pnc-financial-services-group-inc-pnc-2026-07-31/",
+      "source": "marketbeat.com",
+      "published": "2026-07-31T09:29:59+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Goldman Sees More South Africa Rating Upgrades on Strong Revenue",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/goldman-sees-more-south-africa-rating-upgrades-on-strong-revenue",
+      "source": "bloomberg.com",
+      "published": "2026-07-31T09:10:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Has $1.45 Million Stake in Equity Lifestyle Properties, Inc. $ELS",
+      "url": "https://www.tickerreport.com/banking-finance/13523798/pnc-financial-services-group-inc-has-1-45-million-stake-in-equity-lifestyle-properties-inc-els.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T09:09:33+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Investment Analysts’ Weekly Ratings Updates for Northern Trust (NTRS)",
+      "url": "https://www.tickerreport.com/banking-finance/13523748/investment-analysts-weekly-ratings-updates-for-northern-trust-ntrs.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T08:57:19+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Takes Position in AI Infrastructure Acquisition Corp. $AIIA",
+      "url": "https://www.tickerreport.com/banking-finance/13523729/pnc-financial-services-group-inc-takes-position-in-ai-infrastructure-acquisition-corp-aiia.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T08:49:17+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Buys 9,028 Shares of Paycom Software, Inc. $PAYC",
+      "url": "https://www.tickerreport.com/banking-finance/13523727/pnc-financial-services-group-inc-buys-9028-shares-of-paycom-software-inc-payc.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T08:49:16+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "State Street DoubleLine Emerging Markets Fixed Income ETF (BATS:EMTL) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13523701/state-street-doubleline-emerging-markets-fixed-income-etf-batsemtl-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-07-31T08:43:10+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Asset Allocation Consulting Market Global Report 2026 Published — 250-Page Study Profiling BlackRock, Morgan Stanley, UBS, and 17 Other Key Players",
+      "url": "https://www.globenewswire.com/en/news-release/2026/07/31/3336625/28124/en/Asset-Allocation-Consulting-Market-Global-Report-2026-Published-250-Page-Study-Profiling-BlackRock-Morgan-Stanley-UBS-and-17-Other-Key-Players.html",
+      "source": "globenewswire.com",
+      "published": "2026-07-31T08:04:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Clifford Chance advises on Zhongji Innolight’s US$7 billion IPO, Hong Kong’s largest listing in nearly seven years",
+      "url": "https://legaldesire.com/clifford-chance-advises-on-zhongji-innolights-us7-billion-ipo-hong-kongs-largest-listing-in-nearly-seven-years/",
+      "source": "legaldesire.com",
+      "published": "2026-07-31T07:06:15+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
     {
       "title": "Bank of New York Mellon Corporation (NYSE:BNY) Receives Average Rating of \"Moderate Buy\" from Analysts",
       "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-corporation-nysebny-receives-average-rating-of-moderate-buy-from-analysts-2026-07-31/",
@@ -8,6 +122,16 @@
       "published": "2026-07-31T06:29:26+00:00",
       "tickers": [
         "BK"
+      ]
+    },
+    {
+      "title": "Taylor Wimpey launches £41.9 million share buyback programme",
+      "url": "https://www.directorstalkinterviews.com/taylor-wimpey-launches-41-9-million-share-buyback-programme/4121258577",
+      "source": "directorstalkinterviews.com",
+      "published": "2026-07-31T06:26:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -154,126 +278,6 @@
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-share-price-target-why-citi-clsa-nuvama-see-up-to-20-upside-after-q1-earnings/articleshow/132756392.cms",
       "source": "indiatimes.com",
       "published": "2026-07-30T23:22:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Is there a rough, general percentage number for the savings from tax-loss harvesting? Assume my money is in a Schwab Intelligent Portfolio that automatically rebalances. 1%? More?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vb9oap/is_there_a_rough_general_percentage_number_for/",
-      "source": "reddit.com",
-      "published": "2026-07-30T23:21:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Personally Joined a Closed-Door Morgan Stanley Roadshow to Address 3 Investor Concerns. Nvidia Stock Is Down 4% Since He Spoke.",
-      "url": "https://www.fool.com/investing/2026/07/30/nvidia-ceo-jensen-huang-personally-joined-a-closed/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-30T23:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "M&M shares climb 3% after strong Q1 results. Morgan Stanley sees up to 29% upside scope",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-climb-3-after-strong-q1-results-morgan-stanley-sees-up-to-29-upside-scope/articleshow/132755545.cms",
-      "source": "indiatimes.com",
-      "published": "2026-07-30T22:32:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Group Deploys $116M for Syracuse Affordable Housing Overhaul",
-      "url": "https://commercialobserver.com/2026/07/goldman-sachs-syracuse-affordable-housing/",
-      "source": "commercialobserver.com",
-      "published": "2026-07-30T22:10:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
-      "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
-      "source": "cnbc.com",
-      "published": "2026-07-30T21:50:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BoA Unveils Digital, Value-Chain Strategy to Expand Agricultural Financing",
-      "url": "https://leadership.ng/boa-unveils-digital-value-chain-strategy-to-expand-agricultural-financing/",
-      "source": "leadership.ng",
-      "published": "2026-07-30T21:44:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Highlights Top Beverage Stock on Strong Growth",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-highlights-top-beverage-stock-on-strong-growth-93CH-4826369",
-      "source": "investing.com",
-      "published": "2026-07-30T21:44:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Nearly Doubled Its Price Target for CRISPR Therapeutics. Is the Gene-Editing Stock a No-Brainer Buy?",
-      "url": "https://www.fool.com/investing/2026/07/30/morgan-stanley-nearly-doubled-its-price-target-for/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-07-30T21:38:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo Can't Collect $4M 'Stranger' Policy, 8th Circ. Says",
-      "url": "https://www.law360.com/insurance/articles/2507910?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-07-30T21:34:41+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526326373/0001193125-26-326373-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T21:29:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026083436/0001213900-26-083436-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T21:29:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037349/0001839882-26-037349-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T21:28:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011480/0000950103-26-011480-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T21:26:17+00:00",
       "tickers": [
         "C"
       ]
