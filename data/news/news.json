@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-30T22:38:39.502109+00:00",
+  "last_updated": "2026-07-31T00:09:55.189955+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Group Deploys $116M for Syracuse Affordable Housing Overhaul",
+      "url": "https://commercialobserver.com/2026/07/goldman-sachs-syracuse-affordable-housing/",
+      "source": "commercialobserver.com",
+      "published": "2026-07-30T22:10:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
       "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
@@ -39,6 +48,24 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526326373/0001193125-26-326373-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-30T21:29:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026083436/0001213900-26-083436-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-30T21:29:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226037349/0001839882-26-037349-index.htm",
       "source": "sec.gov",
@@ -54,6 +81,35 @@
       "published": "2026-07-30T21:26:17+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426021948/0001918704-26-021948-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-30T21:24:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BOA Technology Collabs With Adidas To Release The CODECHAOS 27 BOA",
+      "url": "https://www.forbes.com/sites/break80/2026/07/30/boa-technology-collabs-with-adidas-to-release-the-codechaos-27-boa/",
+      "source": "forbes.com",
+      "published": "2026-07-30T21:21:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526326360/0001193125-26-326360-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-30T21:21:00+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -75,6 +131,16 @@
       ]
     },
     {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226037342/0001839882-26-037342-index.htm",
+      "source": "sec.gov",
+      "published": "2026-07-30T21:19:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "Bank of America to acquire cybersecurity consulting firm MDSec",
       "url": "https://seekingalpha.com/news/4622237-bank-of-america-to-acquire-cybersecurity-consulting-firm-mdsec",
       "source": "seekingalpha.com",
@@ -82,27 +148,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Trading Up 1.1% Following Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13523123/bank-of-america-nysebac-trading-up-1-1-following-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-07-30T21:01:49+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/927628/000170686526000007/0001706865-26-000007-index.htm",
-      "source": "sec.gov",
-      "published": "2026-07-30T20:51:55+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
