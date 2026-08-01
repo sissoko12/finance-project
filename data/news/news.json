@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-01T19:45:02.947039+00:00",
+  "last_updated": "2026-08-01T21:01:40.842049+00:00",
   "headlines": [
+    {
+      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+      "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+      "source": "cnbc.com",
+      "published": "2026-08-01T20:22:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs says the most capital-hungry investment cycle in history has arrived",
       "url": "https://cryptobriefing.com/goldman-sachs-capital-hungry-investment-cycle/",
@@ -271,15 +280,6 @@
       "published": "2026-08-01T10:08:31+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Taylor Fritz Speaks Out on Another Knee Injury Scare After Citi DC Open Win",
-      "url": "https://www.essentiallysports.com/tennis-news-taylor-fritz-speaks-out-on-another-knee-injury-scare-after-citi-dc-open-win/",
-      "source": "essentiallysports.com",
-      "published": "2026-08-01T10:02:12+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
