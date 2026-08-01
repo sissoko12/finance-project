@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-01T22:28:43.722585+00:00",
+  "last_updated": "2026-08-01T23:32:50.479504+00:00",
   "headlines": [
+    {
+      "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-ibbq-is-broad-healthcare-exposure-or-biotech-growth-the-better-etf-buy/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-01T21:11:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
@@ -270,15 +279,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "WNY Asset Management LLC Invests $1.34 Million in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wny-asset-management-llc-invests-134-million-in-jpmorgan-chase-co-jpm-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:49:03+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
