@@ -1,6 +1,140 @@
 {
-  "last_updated": "2026-08-01T10:05:38.304807+00:00",
+  "last_updated": "2026-08-01T11:44:03.415462+00:00",
   "headlines": [
+    {
+      "title": "Summitry LLC Purchases 80,617 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-summitry-llc-purchases-80617-shares-of-jpmorgan-chase-co-jpm-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:56:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Groupama Asset Managment Decreases Stake in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-groupama-asset-managment-decreases-stake-in-bank-of-america-corporation-bac-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:49:10+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Groupama Asset Managment Has $13.02 Million Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-groupama-asset-managment-has-1302-million-position-in-wells-fargo-company-wfc-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:49:08+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "WNY Asset Management LLC Buys Shares of 18,217 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wny-asset-management-llc-buys-shares-of-18217-bank-of-america-corporation-bac-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:49:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WNY Asset Management LLC Invests $1.34 Million in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wny-asset-management-llc-invests-134-million-in-jpmorgan-chase-co-jpm-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:49:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Kensington Asset Management LLC Has $41.41 Million Stock Holdings in Goldman Sachs Ultra Short Bond ETF $GSST",
+      "url": "https://www.tickerreport.com/banking-finance/13526043/kensington-asset-management-llc-has-41-41-million-stock-holdings-in-goldman-sachs-ultra-short-bond-etf-gsst.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-01T10:43:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Raab & Moskowitz Asset Management LLC Trims Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13526014/raab-moskowitz-asset-management-llc-trims-holdings-in-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-01T10:35:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Quantinno Capital Management LP Acquires 196,777 Shares of Truist Financial Corporation $TFC",
+      "url": "https://www.tickerreport.com/banking-finance/13525987/quantinno-capital-management-lp-acquires-196777-shares-of-truist-financial-corporation-tfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-01T10:29:00+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Janus Henderson Group PLC Buys 590,951 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-janus-henderson-group-plc-buys-590951-shares-of-bank-of-america-corporation-bac-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:09:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Royal Bank of Canada Increases Stock Position in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-royal-bank-of-canada-increases-stock-position-in-state-street-corporation-stt-2026-08-01/",
+      "source": "marketbeat.com",
+      "published": "2026-08-01T10:08:31+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Taylor Fritz Speaks Out on Another Knee Injury Scare After Citi DC Open Win",
+      "url": "https://www.essentiallysports.com/tennis-news-taylor-fritz-speaks-out-on-another-knee-injury-scare-after-citi-dc-open-win/",
+      "source": "essentiallysports.com",
+      "published": "2026-08-01T10:02:12+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Stryker (NYSE:SYK) Price Target Lowered to $350.00 at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13525860/stryker-nysesyk-price-target-lowered-to-350-00-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-01T09:59:19+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Has $1.31 Million Position in ARM Holdings PLC Sponsored ADR $ARM",
+      "url": "https://www.tickerreport.com/banking-finance/13525842/pnc-financial-services-group-inc-has-1-31-million-position-in-arm-holdings-plc-sponsored-adr-arm.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-01T09:55:35+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "BofA’s Hartnett calls Fed ’nakedly dovish,’ urges retreat from risk assets",
+      "url": "https://www.investing.com/news/stock-market-news/bofas-hartnett-calls-fed-nakedly-dovish-urges-retreat-from-risk-assets-4829583",
+      "source": "investing.com",
+      "published": "2026-08-01T09:45:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Glenmede Trust Co. NA Has $81.22 Million Stock Position in The Charles Schwab Corporation $SCHW",
       "url": "https://www.tickerreport.com/banking-finance/13525755/glenmede-trust-co-na-has-81-22-million-stock-position-in-the-charles-schwab-corporation-schw.html",
@@ -151,132 +285,6 @@
       "url": "https://www.tickerreport.com/banking-finance/13525401/bank-of-new-york-mellon-corp-sells-15779-shares-of-people-incorporated-common-stock-ppli.html",
       "source": "tickerreport.com",
       "published": "2026-08-01T07:59:22+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases 634 Shares of argenex SE $ARGX",
-      "url": "https://www.tickerreport.com/banking-finance/13525396/bank-of-new-york-mellon-corp-purchases-634-shares-of-argenex-se-argx.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T07:59:17+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Axiom Investment Management LLC Makes New Investment in Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-axiom-investment-management-llc-makes-new-investment-in-citigroup-inc-c-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:59:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Axiom Investment Management LLC Takes $1.64 Million Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-axiom-investment-management-llc-takes-164-million-position-in-jpmorgan-chase-co-jpm-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:59:02+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 305,367 Shares of Workiva Inc. $WK",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-305367-shares-of-workiva-inc-wk-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:58:27+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Ziff Davis, Inc. $ZD Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ziff-davis-inc-zd-shares-sold-by-bank-of-new-york-mellon-corp-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:58:26+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Geo Group Inc (The) $GEO Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-geo-group-inc-the-geo-shares-sold-by-bank-of-new-york-mellon-corp-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:46+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 46,291 Shares of Crinetics Pharmaceuticals, Inc. $CRNX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-46291-shares-of-crinetics-pharmaceuticals-inc-crnx-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:45+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Trims Holdings in Douglas Emmett, Inc. $DEI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-trims-holdings-in-douglas-emmett-inc-dei-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:45+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys 23,872 Shares of Nicolet Bankshares Inc. $NIC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-23872-shares-of-nicolet-bankshares-inc-nic-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:44+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Braze, Inc. $BRZE Shares Bought by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-braze-inc-brze-shares-bought-by-bank-of-new-york-mellon-corp-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:43+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys 178,040 Shares of Life360, Inc. $LIF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-178040-shares-of-life360-inc-lif-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:41+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Raises Stock Position in Vita Coco Company, Inc. $COCO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-raises-stock-position-in-vita-coco-company-inc-coco-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:32+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Increases Stock Position in Diageo plc $DEO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-increases-stock-position-in-diageo-plc-deo-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:31+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires 87,007 Shares of NAPCO Security Technologies, Inc. $NSSC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-87007-shares-of-napco-security-technologies-inc-nssc-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T07:57:30+00:00",
       "tickers": [
         "BK"
       ]
