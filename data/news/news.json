@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-01T21:01:40.842049+00:00",
+  "last_updated": "2026-08-01T22:28:43.722585+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
+      "source": "yahoo.com",
+      "published": "2026-08-01T20:46:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
       "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
@@ -20,6 +29,15 @@
       ]
     },
     {
+      "title": "XLV vs PBE: Is a Low-Cost Healthcare ETF the Better Buy Than a Focused Biotech Specialist?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-pbe-is-a-low-cost-healthcare-etf-the-better-buy-than-a-focused-biotech-specialist/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-01T17:57:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
       "title": "Bank Stocks To Watch Today - August 1st",
       "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-watch-today-august-1st-2026-08-01/",
       "source": "marketbeat.com",
@@ -32,10 +50,39 @@
       ]
     },
     {
+      "title": "Capital One Cites Money Laundering Review in Trump-Related Suit",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/capital-one-cites-money-laundering-165238809.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-01T16:52:38+00:00",
+      "tickers": [
+        "JPM",
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "KGHM Polska Miedz (WSE:KGH) Stock Sees Modest Fair Value Cut As Analysts Turn Neutral",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kghm-polska-miedz-wse-kgh-161000122.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-01T16:10:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
       "url": "https://www.fool.com/investing/2026/08/01/what-morgan-stanley-buy-ai-infrastructure/?source=iedfolrf0000001",
       "source": "fool.com",
       "published": "2026-08-01T15:58:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Vallourec (ENXTPA:VK) Stock Sees Modest Fair Value Cut As Analysts Split On Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vallourec-enxtpa-vk-stock-sees-151017625.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-01T15:10:17+00:00",
       "tickers": [
         "MS"
       ]
@@ -66,6 +113,15 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "How Investors Are Reacting To JPMorgan Chase (JPM) Record Q2 Profit And Fresh Bond Offerings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-jpmorgan-chase-jpm-140856255.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-01T14:08:56+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -223,63 +279,6 @@
       "published": "2026-08-01T10:49:03+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Kensington Asset Management LLC Has $41.41 Million Stock Holdings in Goldman Sachs Ultra Short Bond ETF $GSST",
-      "url": "https://www.tickerreport.com/banking-finance/13526043/kensington-asset-management-llc-has-41-41-million-stock-holdings-in-goldman-sachs-ultra-short-bond-etf-gsst.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T10:43:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Verus Capital Partners LLC Boosts Holdings in State Street SPDR Portfolio S&P 500 ETF $SPYM",
-      "url": "https://www.tickerreport.com/banking-finance/13526037/verus-capital-partners-llc-boosts-holdings-in-state-street-spdr-portfolio-sp-500-etf-spym.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T10:41:17+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Raab & Moskowitz Asset Management LLC Trims Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13526014/raab-moskowitz-asset-management-llc-trims-holdings-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T10:35:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Quantinno Capital Management LP Acquires 196,777 Shares of Truist Financial Corporation $TFC",
-      "url": "https://www.tickerreport.com/banking-finance/13525987/quantinno-capital-management-lp-acquires-196777-shares-of-truist-financial-corporation-tfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T10:29:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Janus Henderson Group PLC Buys 590,951 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-janus-henderson-group-plc-buys-590951-shares-of-bank-of-america-corporation-bac-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:09:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Royal Bank of Canada Increases Stock Position in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-royal-bank-of-canada-increases-stock-position-in-state-street-corporation-stt-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:08:31+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
