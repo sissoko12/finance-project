@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-02T11:02:37.663299+00:00",
+  "last_updated": "2026-08-02T12:36:01.470077+00:00",
   "headlines": [
+    {
+      "title": "Capital One says anti-money laundering review—not politics—led to closure of Trump Organization accounts",
+      "url": "https://www.livemint.com/news/us-news/capital-one-says-anti-money-laundering-review-not-politics-led-to-closure-of-trump-organization-accounts-11785668435610.html",
+      "source": "livemint.com",
+      "published": "2026-08-02T11:21:47+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "WNY Asset Management LLC Acquires Shares of 710 The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13527200/wny-asset-management-llc-acquires-shares-of-710-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-02T10:29:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Stillwater Private Wealth LLC Buys Shares of 64,433 State Street SPDR Portfolio S&P 500 ETF $SPYM",
+      "url": "https://www.tickerreport.com/banking-finance/13527195/stillwater-private-wealth-llc-buys-shares-of-64433-state-street-spdr-portfolio-sp-500-etf-spym.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-02T10:27:20+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Will Gas Demand Boost Prices? - By 2035 the demand for US natural gas will reach 163 Billion ...",
       "url": "https://sl-advisors.com/will-gas-demand-boost-prices",
@@ -251,33 +279,6 @@
       "published": "2026-08-01T21:11:01+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
-      "source": "yahoo.com",
-      "published": "2026-08-01T20:46:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-      "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-      "source": "cnbc.com",
-      "published": "2026-08-01T20:22:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs says the most capital-hungry investment cycle in history has arrived",
-      "url": "https://cryptobriefing.com/goldman-sachs-capital-hungry-investment-cycle/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-01T18:05:43+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
