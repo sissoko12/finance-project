@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-02T17:34:40.986865+00:00",
+  "last_updated": "2026-08-02T19:20:38.352440+00:00",
   "headlines": [
+    {
+      "title": "Asymco Bulletin 024 – August 2, 2026",
+      "url": "https://asymco.com/2026/08/02/asymco-bulletin-024/",
+      "source": "asymco.com",
+      "published": "2026-08-02T17:49:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America doubles down on Apple stock for rest of 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-apple-170700925.html",
+      "source": "yahoo.com",
+      "published": "2026-08-02T17:07:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.",
+      "url": "https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-02T17:04:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Promising Bank Stocks To Add to Your Watchlist - August 2nd",
       "url": "https://www.marketbeat.com/instant-alerts/promising-bank-stocks-to-add-to-your-watchlist-august-2nd-2026-08-02/",
@@ -256,33 +284,6 @@
       "published": "2026-08-02T06:30:48+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Automatic Data Processing (NASDAQ:ADP) Price Target Raised to $287.00",
-      "url": "https://www.tickerreport.com/banking-finance/13526608/automatic-data-processing-nasdaqadp-price-target-raised-to-287-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-02T06:30:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Wingstop (NASDAQ:WING) Price Target to $208.00",
-      "url": "https://www.tickerreport.com/banking-finance/13526602/citigroup-cuts-wingstop-nasdaqwing-price-target-to-208-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-02T06:12:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts O’Reilly Automotive (NASDAQ:ORLY) Price Target to $108.00",
-      "url": "https://www.tickerreport.com/banking-finance/13526592/morgan-stanley-cuts-oreilly-automotive-nasdaqorly-price-target-to-108-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-02T05:54:49+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
