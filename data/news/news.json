@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-08-01T23:32:50.479504+00:00",
+  "last_updated": "2026-08-02T03:36:43.989896+00:00",
   "headlines": [
+    {
+      "title": "The Bellas' alliance with Paige crumbles after stunning SummerSlam loss to Fatal Influence",
+      "url": "https://www.foxnews.com/sports/bellas-alliance-paige-crumbles-stunning-summerslam-loss-fatal-influence",
+      "source": "foxnews.com",
+      "published": "2026-08-02T02:44:04+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "'Sopranos' star sings national anthem at Mets game on same day that fellow castmember dies",
+      "url": "https://www.foxnews.com/outkick-sports/sopranos-star-sings-national-anthem-mets-game-castmember-dies",
+      "source": "foxnews.com",
+      "published": "2026-08-02T02:10:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WWE SummerSlam 2026 Night 1 Returns, Swerves And Highlights",
+      "url": "https://www.forbes.com/sites/brianmazique/2026/08/01/wwe-summerslam-2026-night-1-returns-swerves-and-highlights/",
+      "source": "forbes.com",
+      "published": "2026-08-02T01:56:13+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Capital One says it closed Trump Organization accounts after AML probe - report",
+      "url": "https://seekingalpha.com/news/4623121-capital-one-says-it-closed-trump-organization-accounts-after-aml-probe-report",
+      "source": "seekingalpha.com",
+      "published": "2026-08-02T01:05:31+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One says Trump Organization accounts closed after AML review",
+      "url": "https://www.investing.com/news/economy-news/capital-one-says-trump-organization-accounts-closed-after-aml-review-4829659",
+      "source": "investing.com",
+      "published": "2026-08-02T00:41:23+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Carson Benge #3 of the New York Mets runs out his double in the fourth inning against the Miami Marlins at Citi Field on July 31, 2026, in New York City.",
+      "url": "https://thebrunswicknews.com/sports/national_sports/carson-benge-3-of-the-new-york-mets-runs-out-his-double-in-the-fourth/image_ec7897ad-2080-5abc-82e9-d05191a4f848.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-08-02T00:15:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One says it closed Trump Organization’s accounts after anti-money laundering probe",
+      "url": "https://www.investing.com/news/stock-market-news/capital-one-says-it-closed-trump-organizations-accounts-after-antimoney-laundering-probe-4829656",
+      "source": "investing.com",
+      "published": "2026-08-01T23:24:34+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
       "url": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-ibbq-is-broad-healthcare-exposure-or-biotech-growth-the-better-etf-buy/?source=iedfolrf0000001",
@@ -17,6 +83,16 @@
       "published": "2026-08-01T20:46:10+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Capital One shuts Trump Organization's accounts after anti-money laundering probe",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/capital-one-shuts-trump-organizations-accounts-after-anti-money-laundering-probe/articleshow/132799106.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-01T20:34:34+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -202,82 +278,6 @@
       "source": "marketbeat.com",
       "published": "2026-08-01T12:00:28+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Alexandra Eala Reveals True Feelings Ahead of Naomi Osaka Showdown at Citi Open",
-      "url": "https://www.essentiallysports.com/tennis-news-alexandra-eala-reveals-true-feelings-ahead-of-naomi-osaka-showdown-at-citi-open/",
-      "source": "essentiallysports.com",
-      "published": "2026-08-01T11:53:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Shares Sold by Groupama Asset Managment",
-      "url": "https://www.tickerreport.com/banking-finance/13526214/bank-of-america-corporation-bac-shares-sold-by-groupama-asset-managment.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T11:52:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stock Traders Buy High Volume of Morgan Stanley Call Options (NYSE:MS)",
-      "url": "https://www.tickerreport.com/banking-finance/13526191/stock-traders-buy-high-volume-of-morgan-stanley-call-options-nysems.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-01T11:32:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Summitry LLC Purchases 80,617 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-summitry-llc-purchases-80617-shares-of-jpmorgan-chase-co-jpm-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:56:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Special Report: Pay-Cuts Today, Fired Tomorrow",
-      "url": "https://vblgoldfix.substack.com/p/special-report-pay-cuts-now-fired",
-      "source": "substack.com",
-      "published": "2026-08-01T10:53:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Groupama Asset Managment Decreases Stake in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-groupama-asset-managment-decreases-stake-in-bank-of-america-corporation-bac-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:49:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Groupama Asset Managment Has $13.02 Million Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-groupama-asset-managment-has-1302-million-position-in-wells-fargo-company-wfc-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:49:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "WNY Asset Management LLC Buys Shares of 18,217 Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wny-asset-management-llc-buys-shares-of-18217-bank-of-america-corporation-bac-2026-08-01/",
-      "source": "marketbeat.com",
-      "published": "2026-08-01T10:49:06+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
