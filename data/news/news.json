@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-02T06:39:29.983439+00:00",
+  "last_updated": "2026-08-02T09:14:35.803131+00:00",
   "headlines": [
+    {
+      "title": "Citigroup Cuts Meta Platforms (NASDAQ:META) Price Target to $800.00",
+      "url": "https://www.tickerreport.com/banking-finance/13526610/citigroup-cuts-meta-platforms-nasdaqmeta-price-target-to-800-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-02T06:30:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Enphase Energy (NASDAQ:ENPH) Price Target to $40.00",
+      "url": "https://www.tickerreport.com/banking-finance/13526609/citigroup-cuts-enphase-energy-nasdaqenph-price-target-to-40-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-02T06:30:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Automatic Data Processing (NASDAQ:ADP) Price Target Raised to $287.00",
+      "url": "https://www.tickerreport.com/banking-finance/13526608/automatic-data-processing-nasdaqadp-price-target-raised-to-287-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-02T06:30:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Citigroup Cuts Wingstop (NASDAQ:WING) Price Target to $208.00",
       "url": "https://www.tickerreport.com/banking-finance/13526602/citigroup-cuts-wingstop-nasdaqwing-price-target-to-208-00.html",
@@ -15,15 +42,6 @@
       "url": "https://www.tickerreport.com/banking-finance/13526592/morgan-stanley-cuts-oreilly-automotive-nasdaqorly-price-target-to-108-00.html",
       "source": "tickerreport.com",
       "published": "2026-08-02T05:54:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Automatic Data Processing (NASDAQ:ADP) Price Target Raised to $286.00",
-      "url": "https://www.tickerreport.com/banking-finance/13526591/automatic-data-processing-nasdaqadp-price-target-raised-to-286-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-02T05:54:48+00:00",
       "tickers": [
         "MS"
       ]
@@ -263,24 +281,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "How Investors Are Reacting To JPMorgan Chase (JPM) Record Q2 Profit And Fresh Bond Offerings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-jpmorgan-chase-jpm-140856255.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-01T14:08:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street’s $5.7 Trillion Portfolio Chief Missed Bitcoin at $500. But She Saw Gold’s $3,000 Run Coming Years Earlier",
-      "url": "https://247wallst.com/investing/2026/08/01/state-streets-5-7-trillion-portfolio-chief-missed-bitcoin-at-500-but-she-saw-golds-3000-run-coming-years-earlier/",
-      "source": "247wallst.com",
-      "published": "2026-08-01T13:30:41+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
