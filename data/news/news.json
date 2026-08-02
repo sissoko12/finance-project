@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T21:29:42.249063+00:00",
+  "last_updated": "2026-08-02T22:32:15.646058+00:00",
   "headlines": [
     {
       "title": "BASEBALL-MLB-NYM-BOS/ - New York Mets pitcher Freddy Peralta delivers during the third ...",
@@ -21,8 +21,8 @@
     },
     {
       "title": "Bank of America doubles down on Apple stock for rest of 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-apple-170700925.html",
-      "source": "yahoo.com",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-apple-stock-for-rest-of-2026?.tsrc=rss",
+      "source": "thestreet.com",
       "published": "2026-08-02T17:07:00+00:00",
       "tickers": [
         "BAC",
@@ -87,6 +87,15 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "JPMorgan resets Amazon stock target after AI payoff",
+      "url": "https://www.thestreet.com/investing/amazon-stock-jpmorgan-price-target?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-02T14:07:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -273,15 +282,6 @@
       "url": "https://www.essentiallysports.com/tennis-news-jessica-pegula-slams-tennis-organizers-over-ongoing-tennis-ball-controversy-really-chewed-up/",
       "source": "essentiallysports.com",
       "published": "2026-08-02T08:10:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Meta Platforms (NASDAQ:META) Price Target to $800.00",
-      "url": "https://www.tickerreport.com/banking-finance/13526610/citigroup-cuts-meta-platforms-nasdaqmeta-price-target-to-800-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-02T06:30:52+00:00",
       "tickers": [
         "C"
       ]
