@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-08-03T22:12:52.613607+00:00",
+  "last_updated": "2026-08-03T23:39:25.392992+00:00",
   "headlines": [
+    {
+      "title": "Citi Recruits Bank of America Vet Rohan Sen Amid Investment Banking Hiring Spree",
+      "url": "https://www.pymnts.com/personnel/2026/citi-recruits-bank-of-america-vet-rohan-sen-amid-investment-banking-hiring-spree/",
+      "source": "pymnts.com",
+      "published": "2026-08-03T22:00:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022446/0001918704-26-022446-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:29:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "‘We’ve lost our way’: Jamie Dimon hails SF turnaround, rails against wealth tax",
+      "url": "https://sfstandard.com/2026/08/03/jamie-dimon-san-francisco-wealth-tax-ai-boom/",
+      "source": "sfstandard.com",
+      "published": "2026-08-03T21:29:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022442/0001918704-26-022442-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:27:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526330879/0001193125-26-330879-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:27:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000297/0000886982-26-000297-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:24:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "JPMorgan to invest $750B to help 500K Americans buy homes",
       "url": "https://nypost.com/2026/08/03/business/jpmorgan-to-invest-750b-to-help-500k-americans-buy-homes/",
@@ -8,143 +64,6 @@
       "published": "2026-08-03T21:21:27+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038216/0001839882-26-038216-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T21:04:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AMLX Maintained by Citigroup -- Price Target Raised to $26.00",
-      "url": "https://www.gurufocus.com/news/8999267/amlx-maintained-by-citigroup-price-target-raised-to-2600",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:04:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NXT Maintained by Citigroup -- Price Target Lowered to $132",
-      "url": "https://www.gurufocus.com/news/8999266/nxt-maintained-by-citigroup-price-target-lowered-to-132",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:03:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FSLR Maintained by Citigroup -- Price Target Raised to $297",
-      "url": "https://www.gurufocus.com/news/8999265/fslr-maintained-by-citigroup-price-target-raised-to-297",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:03:03+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CCC Maintained by Citigroup -- Price Target Raised to $6.50",
-      "url": "https://www.gurufocus.com/news/8999264/ccc-maintained-by-citigroup-price-target-raised-to-650",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:02:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ORLY Maintained by Citigroup -- Price Target Raised to $106.00",
-      "url": "https://www.gurufocus.com/news/8999263/orly-maintained-by-citigroup-price-target-raised-to-10600",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:02:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PUMP Maintained by Citigroup -- Price Target Lowered to $16.00",
-      "url": "https://www.gurufocus.com/news/8999262/pump-maintained-by-citigroup-price-target-lowered-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:01:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BIP Maintained by Citigroup -- Price Target Raised to $41.00",
-      "url": "https://www.gurufocus.com/news/8999259/bip-maintained-by-citigroup-price-target-raised-to-4100",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:01:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AR Maintains by Citigroup -- Price Target Lowered to $45.00",
-      "url": "https://www.gurufocus.com/news/8999253/ar-maintains-by-citigroup-price-target-lowered-to-4500",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T21:00:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038213/0001839882-26-038213-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T21:00:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Trump Organization's 'Debanking' Lawsuit Faces New Challenge From Capital One",
-      "url": "https://www.ibtimes.sg/trump-organizations-debanking-lawsuit-faces-new-challenge-capital-one-91416",
-      "source": "ibtimes.sg",
-      "published": "2026-08-03T20:57:55+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Top Wall Street Veteran: The Stock Market Is “Shrugging Off” Every Major Headwind. Here’s Why",
-      "url": "https://247wallst.com/investing/2026/08/03/top-wall-street-veteran-the-stock-market-is-shrugging-off-every-major-headwind-heres-why/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-08-03T20:52:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today’s Market",
-      "url": "https://finance.yahoo.com/m/43e3b66a-fc8c-3bba-9d54-03a4046409ea/amazon%2C-apple%2C-boeing%2C.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-03T20:47:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "LIN Maintained by Citigroup -- Price Target Lowered to $580",
-      "url": "https://www.gurufocus.com/news/8999207/lin-maintained-by-citigroup-price-target-lowered-to-580",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T20:42:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EMN Maintained by Citigroup -- Price Target Lowered to $81.00",
-      "url": "https://www.gurufocus.com/news/8999206/emn-maintained-by-citigroup-price-target-lowered-to-8100",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T20:41:50+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
