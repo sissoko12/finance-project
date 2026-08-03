@@ -1,279 +1,285 @@
 {
-  "last_updated": "2026-08-03T07:58:42.208908+00:00",
+  "last_updated": "2026-08-03T11:38:23.858779+00:00",
   "headlines": [
     {
-      "title": "Yen Surge Will Drive Up Other Asian Currencies, Strategists Say",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/yen-surge-will-drive-up-other-asian-currencies-strategists-say",
-      "source": "bloomberg.com",
-      "published": "2026-08-03T07:26:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BSN CAPITAL PARTNERS Ltd Makes New $136.58 Million Investment in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bsn-capital-partners-ltd-makes-new-13658-million-investment-in-the-goldman-sachs-group-inc-gs-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:21:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Decreases Holdings in Astronics Corporation $ATRO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-decreases-holdings-in-astronics-corporation-atro-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:36+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Smithfield Foods, Inc. $SFD Shares Bought by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-smithfield-foods-inc-sfd-shares-bought-by-bank-of-new-york-mellon-corp-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:34+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 162,693 Shares of Walker & Dunlop, Inc. $WD",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-162693-shares-of-walker-dunlop-inc-wd-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:28+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Universal Health Realty Income Trust $UHT Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-universal-health-realty-income-trust-uht-shares-sold-by-bank-of-new-york-mellon-corp-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:26+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires 222,596 Shares of IREN Limited $IREN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-222596-shares-of-iren-limited-iren-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:26+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Increases Position in GlobalFoundries Inc. $GFS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-increases-position-in-globalfoundries-inc-gfs-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires 139,083 Shares of Dynex Capital, Inc. $DX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-139083-shares-of-dynex-capital-inc-dx-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:24+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Decreases Stock Position in SailPoint, Inc. $SAIL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-decreases-stock-position-in-sailpoint-inc-sail-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:23+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 384,684 Shares of Archer Aviation Inc. $ACHR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-384684-shares-of-archer-aviation-inc-achr-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:22+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Boosts Stake in Freshworks Inc. $FRSH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-boosts-stake-in-freshworks-inc-frsh-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T07:13:22+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Lowered to Hold Rating by Wall Street Zen",
-      "url": "https://www.tickerreport.com/banking-finance/13527529/capital-one-financial-nysecof-lowered-to-hold-rating-by-wall-street-zen.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T07:12:52+00:00",
-      "tickers": [
-        "C",
-        "TFC",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Warns on Russia-Driven Diesel Squeeze",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/goldman-sachs-warns-on-russia-driven-diesel-squeeze-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-03T07:09:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corporation (NYSE:BNY) Receives $156.47 Average PT from Brokerages",
-      "url": "https://www.tickerreport.com/banking-finance/13527522/bank-of-new-york-mellon-corporation-nysebny-receives-156-47-average-pt-from-brokerages.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T06:44:48+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Explained: What Are AI Neoclouds And How Nvidia's Revenue-Sharing Model Has Fueled Its Ris",
-      "url": "https://www.ndtvprofit.com/technology/explained-what-are-ai-neoclouds-nvidia-revenue-sharing-model-and-india-chapter-11858151",
-      "source": "ndtvprofit.com",
-      "published": "2026-08-03T06:28:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Micron, SanDisk, SK Hynix stocks: is Morgan Stanley’s Korea call a buy signal?",
-      "url": "https://invezz.com/news/2026/08/03/micron-sandisk-sk-hynix-stocks-is-morgan-stanleys-korea-call-a-buy-signal/",
-      "source": "invezz.com",
-      "published": "2026-08-03T06:10:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "TWFG (NASDAQ:TWFG) Stock Rating Upgraded by Wall Street Zen",
-      "url": "https://www.tickerreport.com/banking-finance/13527488/twfg-nasdaqtwfg-stock-rating-upgraded-by-wall-street-zen.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T05:36:50+00:00",
+      "title": "iShares JP Morgan EM Corporate Bond ETF declares $0.1889 dividend",
+      "url": "https://seekingalpha.com/news/4623277-ishares-jp-morgan-em-corporate-bond-etf-declares-0_1889-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-08-03T11:00:44+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Urban Company Jumps 18% As Morgan Stanley Bets On Core Business Growth",
-      "url": "https://inc42.com/buzz/urban-company-jumps-18-as-morgan-stanley-bets-on-core-business-growth/",
-      "source": "inc42.com",
-      "published": "2026-08-03T05:27:11+00:00",
+      "title": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF declares $0.2687 dividend",
+      "url": "https://seekingalpha.com/news/4623266-ishares-j-p-morgan-broad-usd-emerging-markets-bond-etf-declares-0_2687-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-08-03T10:43:40+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Maruti Suzuki shares decline over 2% after Q1. Morgan Stanley, Motilal Oswal decode the road ahead",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-decline-over-2-after-q1-morgan-stanley-motilal-oswal-decode-the-road-ahead/articleshow/132818801.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-03T04:27:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Urban Company May Hit Profit Targets Early, Morgan Stanley Says, Hikes Target Price",
-      "url": "https://www.ndtvprofit.com/markets/urban-company-may-hit-profit-targets-early-morgan-stanley-says-hikes-target-price-11857510",
-      "source": "ndtvprofit.com",
-      "published": "2026-08-03T04:09:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Where Does Oil Go Next After the Hormuz Crisis?",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/where-does-oil-go-next-after-the-hormuz-crisis-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-03T04:03:08+00:00",
+      "title": "Goldman Sachs warns on Fed communication strategy risks",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-warns-on-fed-communication-strategy-risks-93CH-4830480",
+      "source": "investing.com",
+      "published": "2026-08-03T10:43:11+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Morgan Stanley Upgrades South Korea Stocks, Kospi (KOSPI) Outlook Improves",
-      "url": "https://www.gurufocus.com/news/8997593/morgan-stanley-upgrades-south-korea-stocks-kospi-kospi-outlook-improves",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T03:30:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Exploratory Work to Begin in Partnership Between FEED Media Art Center, Shearer and Son Contracting Services, and Erie Art Company Beginning August",
-      "url": "https://www.prweb.com/releases/exploratory-work-to-begin-in-partnership-between-feed-media-art-center-shearer-and-son-contracting-services-and-erie-art-company-beginning-august-302840466.html",
-      "source": "prweb.com",
-      "published": "2026-08-03T03:22:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ITC Share Price Live Updates: Buy, Sell or Hold: Morgan Stanley maintains buy on Maruti Suzuki; Citi retains buy on Sun Pharma",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-03-aug-2026/liveblog/132817486.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-03T03:10:03+00:00",
-      "tickers": [
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Adani Group Stock: JPMorgan, Goldman Sachs, and Macquarie Remain Bullish; See Up to 20% Upside",
-      "url": "https://tradebrains.in/adani-group-stock-jpmorgan-goldman-sachs-and-macquarie-remain-bullish-see-up-to-20-upside/",
-      "source": "tradebrains.in",
-      "published": "2026-08-03T03:00:00+00:00",
+      "title": "Goldman: The real AI risk is an earnings bubble, not valuations",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-the-real-ai-risk-is-an-earnings-bubble-not-valuations-4830442",
+      "source": "investing.com",
+      "published": "2026-08-03T10:40:09+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Morgan Stanley Surpasses Goldman Sachs in Asian Equity Underwriting",
-      "url": "https://www.gurufocus.com/news/8997588/morgan-stanley-surpasses-goldman-sachs-in-asian-equity-underwriting",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T02:30:30+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022214/0001918704-26-022214-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T10:32:46+00:00",
       "tickers": [
-        "GS",
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Economist Seeks BOI, BOA Recapitalisation As High Interest Rates Deepen N50trn Funding Gap",
-      "url": "https://leadership.ng/economist-seeks-boi-boa-recapitalisation-as-high-interest-rates-deepen-n50trn-funding-gap/",
-      "source": "leadership.ng",
-      "published": "2026-08-03T01:58:27+00:00",
+      "title": "Microsoft joins, Broadcom exits Goldman’s top-stocks list",
+      "url": "https://www.investing.com/news/stock-market-news/microsoft-joins-broadcom-exits-goldmans-topstocks-list-4830378",
+      "source": "investing.com",
+      "published": "2026-08-03T10:30:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "VectorGlobal IAG Inc. Purchases New Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vectorglobal-iag-inc-purchases-new-position-in-bank-of-america-corporation-bac-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:25:04+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley Upgrades South Korea Stocks to Overweight",
-      "url": "https://www.gurufocus.com/news/8997571/morgan-stanley-upgrades-south-korea-stocks-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-03T01:11:15+00:00",
+      "title": "VectorGlobal IAG Inc. Makes New Investment in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vectorglobal-iag-inc-makes-new-investment-in-jpmorgan-chase-co-jpm-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:25:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "VectorGlobal IAG Inc. Acquires Shares of 90,990 The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vectorglobal-iag-inc-acquires-shares-of-90990-the-charles-schwab-corporation-schw-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:25:03+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Winning Points Advisors LLC Has $7.83 Million Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-winning-points-advisors-llc-has-783-million-position-in-bank-of-america-corporation-bac-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:24:59+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Redwood Investment Management LLC Buys New Holdings in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-redwood-investment-management-llc-buys-new-holdings-in-the-charles-schwab-corporation-schw-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:24:40+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "PVG Asset Management Corp Buys 12,835 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pvg-asset-management-corp-buys-12835-shares-of-citigroup-inc-c-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:24:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Redwood Investment Management LLC Invests $1.07 Million in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-redwood-investment-management-llc-invests-107-million-in-capital-one-financial-corporation-cof-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T10:17:17+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022204/0001918704-26-022204-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T10:09:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026084219/0001213900-26-084219-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T10:09:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA sees USD/JPY 155 as critical inflection point for market",
+      "url": "https://www.investing.com/news/forex-news/bofa-sees-usdjpy-155-as-critical-inflection-point-for-market-93CH-4830272",
+      "source": "investing.com",
+      "published": "2026-08-03T10:07:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "FMG Suite Strengthens Leadership Team as AI and Enterprise Demand Reshape Advisor Growth",
+      "url": "https://www.prnewswire.com/news-releases/fmg-suite-strengthens-leadership-team-as-ai-and-enterprise-demand-reshape-advisor-growth-302840478.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-03T10:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Micron stock dips as Citi removes catalyst watch",
+      "url": "https://www.investing.com/news/stock-market-news/micron-stock-dips-as-citi-removes-catalyst-watch-93CH-4830240",
+      "source": "investing.com",
+      "published": "2026-08-03T09:58:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America sees improving India growth indicators in July",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-sees-improving-india-growth-indicators-in-july-93CH-4830239",
+      "source": "investing.com",
+      "published": "2026-08-03T09:56:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America reaffirms utilities sector growth outlook",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-reaffirms-utilities-sector-growth-outlook-93CH-4830234",
+      "source": "investing.com",
+      "published": "2026-08-03T09:55:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s Wilson Tips Earnings to Revive Momentum Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/morgan-stanley-s-wilson-tips-earnings-to-revive-momentum-trade",
+      "source": "bloomberg.com",
+      "published": "2026-08-03T09:54:42+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan/articleshow/132821922.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-03T01:05:56+00:00",
+      "title": "PNC Financial Services Group Inc. Decreases Stock Position in The Magnum Ice Cream Company N.V. $MICC",
+      "url": "https://www.tickerreport.com/banking-finance/13527759/pnc-financial-services-group-inc-decreases-stock-position-in-the-magnum-ice-cream-company-n-v-micc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-03T09:29:18+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Janus Henderson Group PLC Has $32.49 Million Position in U.S. Bancorp $USB",
+      "url": "https://www.tickerreport.com/banking-finance/13527727/janus-henderson-group-plc-has-32-49-million-position-in-u-s-bancorp-usb.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-03T09:21:25+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Alexandra Eala and Jessica Pegula’s Citi Open Showdown Suspended Amid Extreme Conditions",
+      "url": "https://www.essentiallysports.com/tennis-news-alexandra-eala-and-jessica-pegulas-citi-open-showdown-suspended-amid-extreme-conditions/",
+      "source": "essentiallysports.com",
+      "published": "2026-08-03T08:47:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Has $718,000 Stake in Fidelity Small-Mid Multifactor ETF $FSMD",
+      "url": "https://www.tickerreport.com/banking-finance/13527604/pnc-financial-services-group-inc-has-718000-stake-in-fidelity-small-mid-multifactor-etf-fsmd.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-03T08:42:46+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "FAS Wealth Partners Inc. Has $5.54 Million Stock Holdings in BNY Mellon Dynamic Value ETF $BKDV",
+      "url": "https://www.tickerreport.com/banking-finance/13527589/fas-wealth-partners-inc-has-5-54-million-stock-holdings-in-bny-mellon-dynamic-value-etf-bkdv.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-03T08:33:16+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Why Apple stock may thrive even if the next iPhone costs much more",
+      "url": "https://invezz.com/news/2026/08/03/why-apple-stock-may-thrive-even-if-the-next-iphone-costs-much-more/",
+      "source": "invezz.com",
+      "published": "2026-08-03T08:18:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi Says African Sovereign Bond Sales Defied Mideast Conflict",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/citi-says-african-sovereign-bond-sales-defied-mideast-conflict",
+      "source": "bloomberg.com",
+      "published": "2026-08-03T08:16:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Trump Debanking Lawsuit Backfires After Capital One Court Filing Reveals Anti-Money-Laundering Concerns",
+      "url": "https://www.ibtimes.co.uk/capital-one-compliance-review-trump-accounts-1812049",
+      "source": "ibtimes.co.uk",
+      "published": "2026-08-03T08:06:40+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs just added these 3 stocks to its European Conviction List",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-just-added-these-3-stocks-to-its-european-conviction-list-4829955",
+      "source": "investing.com",
+      "published": "2026-08-03T08:03:28+00:00",
+      "tickers": [
+        "GS"
       ]
     }
   ]
