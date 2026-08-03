@@ -1,131 +1,148 @@
 {
-  "last_updated": "2026-08-03T20:44:49.220139+00:00",
+  "last_updated": "2026-08-03T22:12:52.613607+00:00",
   "headlines": [
     {
-      "title": "Why I'm Selling JPMorgan After Its Record Quarter | $JPM $BAC $WFC $C",
-      "url": "https://seekingalpha.com/article/4929620-why-im-selling-jpmorgan-after-its-record-quarter",
-      "source": "seekingalpha.com",
-      "published": "2026-08-03T20:01:14+00:00",
+      "title": "JPMorgan to invest $750B to help 500K Americans buy homes",
+      "url": "https://nypost.com/2026/08/03/business/jpmorgan-to-invest-750b-to-help-500k-americans-buy-homes/",
+      "source": "nypost.com",
+      "published": "2026-08-03T21:21:27+00:00",
       "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "NY-E*TRADE - E*TRADE from Morgan Stanley Releases Monthly Sector Rotation ...",
-      "url": "https://www.newspressnow.com/news/national_news/business/ny-e-trade/image_59ba870d-04dc-5122-a98a-d0aa92c73b13.html",
-      "source": "newspressnow.com",
-      "published": "2026-08-03T20:00:45+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038216/0001839882-26-038216-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:04:20+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Microsoft CEO Touts His Own DIY AI Project To Wall Street and His 20 Million Followers",
-      "url": "https://slashdot.org/story/26/08/03/1934211/microsoft-ceo-touts-his-own-diy-ai-project-to-wall-street-and-his-20-million-followers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "source": "slashdot.org",
-      "published": "2026-08-03T20:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Amylyx Pharmaceuticals (NASDAQ:AMLX) Given New $26.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/amylyx-pharmaceuticals-nasdaqamlx-given-new-2600-price-target-at-citigroup-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T19:54:22+00:00",
+      "title": "AMLX Maintained by Citigroup -- Price Target Raised to $26.00",
+      "url": "https://www.gurufocus.com/news/8999267/amlx-maintained-by-citigroup-price-target-raised-to-2600",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:04:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citigroup Cuts Nextpower (NASDAQ:NXT) Price Target to $132.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-nextpower-nasdaqnxt-price-target-to-13200-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T19:54:21+00:00",
+      "title": "NXT Maintained by Citigroup -- Price Target Lowered to $132",
+      "url": "https://www.gurufocus.com/news/8999266/nxt-maintained-by-citigroup-price-target-lowered-to-132",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:03:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "FSLR Maintained by Citigroup -- Price Target Raised to $297",
+      "url": "https://www.gurufocus.com/news/8999265/fslr-maintained-by-citigroup-price-target-raised-to-297",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:03:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CCC Maintained by Citigroup -- Price Target Raised to $6.50",
+      "url": "https://www.gurufocus.com/news/8999264/ccc-maintained-by-citigroup-price-target-raised-to-650",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:02:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ORLY Maintained by Citigroup -- Price Target Raised to $106.00",
+      "url": "https://www.gurufocus.com/news/8999263/orly-maintained-by-citigroup-price-target-raised-to-10600",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:02:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PUMP Maintained by Citigroup -- Price Target Lowered to $16.00",
+      "url": "https://www.gurufocus.com/news/8999262/pump-maintained-by-citigroup-price-target-lowered-to-1600",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:01:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BIP Maintained by Citigroup -- Price Target Raised to $41.00",
+      "url": "https://www.gurufocus.com/news/8999259/bip-maintained-by-citigroup-price-target-raised-to-4100",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:01:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "AR Maintains by Citigroup -- Price Target Lowered to $45.00",
+      "url": "https://www.gurufocus.com/news/8999253/ar-maintains-by-citigroup-price-target-lowered-to-4500",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T21:00:38+00:00",
       "tickers": [
         "C"
       ]
     },
     {
       "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038020/0001839882-26-038020-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038213/0001839882-26-038213-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-03T19:52:35+00:00",
+      "published": "2026-08-03T21:00:11+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Parliament watch: Centre says no STT rethink as F&O activity remains strong",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/parliament-watch-centre-says-no-stt-rethink-as-fo-activity-remains-strong/articleshow/132840958.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-03T19:51:57+00:00",
+      "title": "Trump Organization's 'Debanking' Lawsuit Faces New Challenge From Capital One",
+      "url": "https://www.ibtimes.sg/trump-organizations-debanking-lawsuit-faces-new-challenge-capital-one-91416",
+      "source": "ibtimes.sg",
+      "published": "2026-08-03T20:57:55+00:00",
       "tickers": [
-        "STT"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038014/0001839882-26-038014-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T19:49:59+00:00",
+      "title": "Top Wall Street Veteran: The Stock Market Is “Shrugging Off” Every Major Headwind. Here’s Why",
+      "url": "https://247wallst.com/investing/2026/08/03/top-wall-street-veteran-the-stock-market-is-shrugging-off-every-major-headwind-heres-why/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-08-03T20:52:03+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Circle shares fall nearly 4% after Morgan Stanley downgrade",
-      "url": "https://cryptobriefing.com/circle-shares-fall-morgan-stanley-downgrade/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-03T19:47:51+00:00",
+      "title": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today’s Market",
+      "url": "https://finance.yahoo.com/m/43e3b66a-fc8c-3bba-9d54-03a4046409ea/amazon%2C-apple%2C-boeing%2C.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-03T20:47:00+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Citigroup Has Lowered Expectations for Linde (NASDAQ:LIN) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13528428/citigroup-has-lowered-expectations-for-linde-nasdaqlin-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T19:36:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ProPetro (NYSE:PUMP) Given New $16.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/propetro-nysepump-given-new-1600-price-target-at-citigroup-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T19:36:37+00:00",
+      "title": "LIN Maintained by Citigroup -- Price Target Lowered to $580",
+      "url": "https://www.gurufocus.com/news/8999207/lin-maintained-by-citigroup-price-target-lowered-to-580",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T20:42:16+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citigroup Cuts Eastman Chemical (NYSE:EMN) Price Target to $81.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-eastman-chemical-nyseemn-price-target-to-8100-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T19:36:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Linde (NASDAQ:LIN) Given New $580.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/linde-nasdaqlin-given-new-58000-price-target-at-citigroup-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T19:36:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "First Solar (NASDAQ:FSLR) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/first-solar-nasdaqfslr-stock-price-expected-to-rise-citigroup-analyst-says-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T19:36:33+00:00",
+      "title": "EMN Maintained by Citigroup -- Price Target Lowered to $81.00",
+      "url": "https://www.gurufocus.com/news/8999206/emn-maintained-by-citigroup-price-target-lowered-to-8100",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T20:41:50+00:00",
       "tickers": [
         "C"
       ]
