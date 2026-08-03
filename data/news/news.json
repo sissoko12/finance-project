@@ -1,285 +1,283 @@
 {
-  "last_updated": "2026-08-03T11:38:23.858779+00:00",
+  "last_updated": "2026-08-03T14:56:15.464026+00:00",
   "headlines": [
     {
-      "title": "iShares JP Morgan EM Corporate Bond ETF declares $0.1889 dividend",
-      "url": "https://seekingalpha.com/news/4623277-ishares-jp-morgan-em-corporate-bond-etf-declares-0_1889-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-08-03T11:00:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF declares $0.2687 dividend",
-      "url": "https://seekingalpha.com/news/4623266-ishares-j-p-morgan-broad-usd-emerging-markets-bond-etf-declares-0_2687-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-08-03T10:43:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs warns on Fed communication strategy risks",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-warns-on-fed-communication-strategy-risks-93CH-4830480",
-      "source": "investing.com",
-      "published": "2026-08-03T10:43:11+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman: The real AI risk is an earnings bubble, not valuations",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-the-real-ai-risk-is-an-earnings-bubble-not-valuations-4830442",
-      "source": "investing.com",
-      "published": "2026-08-03T10:40:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022214/0001918704-26-022214-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T10:32:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Microsoft joins, Broadcom exits Goldman’s top-stocks list",
-      "url": "https://www.investing.com/news/stock-market-news/microsoft-joins-broadcom-exits-goldmans-topstocks-list-4830378",
-      "source": "investing.com",
-      "published": "2026-08-03T10:30:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "VectorGlobal IAG Inc. Purchases New Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vectorglobal-iag-inc-purchases-new-position-in-bank-of-america-corporation-bac-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:25:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "VectorGlobal IAG Inc. Makes New Investment in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vectorglobal-iag-inc-makes-new-investment-in-jpmorgan-chase-co-jpm-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:25:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "VectorGlobal IAG Inc. Acquires Shares of 90,990 The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vectorglobal-iag-inc-acquires-shares-of-90990-the-charles-schwab-corporation-schw-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:25:03+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Winning Points Advisors LLC Has $7.83 Million Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-winning-points-advisors-llc-has-783-million-position-in-bank-of-america-corporation-bac-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:24:59+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Redwood Investment Management LLC Buys New Holdings in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-redwood-investment-management-llc-buys-new-holdings-in-the-charles-schwab-corporation-schw-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:24:40+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "PVG Asset Management Corp Buys 12,835 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pvg-asset-management-corp-buys-12835-shares-of-citigroup-inc-c-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:24:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Redwood Investment Management LLC Invests $1.07 Million in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-redwood-investment-management-llc-invests-107-million-in-capital-one-financial-corporation-cof-2026-08-03/",
-      "source": "marketbeat.com",
-      "published": "2026-08-03T10:17:17+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022204/0001918704-26-022204-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T10:09:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026084219/0001213900-26-084219-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T10:09:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA sees USD/JPY 155 as critical inflection point for market",
-      "url": "https://www.investing.com/news/forex-news/bofa-sees-usdjpy-155-as-critical-inflection-point-for-market-93CH-4830272",
-      "source": "investing.com",
-      "published": "2026-08-03T10:07:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "FMG Suite Strengthens Leadership Team as AI and Enterprise Demand Reshape Advisor Growth",
-      "url": "https://www.prnewswire.com/news-releases/fmg-suite-strengthens-leadership-team-as-ai-and-enterprise-demand-reshape-advisor-growth-302840478.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-03T10:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Micron stock dips as Citi removes catalyst watch",
-      "url": "https://www.investing.com/news/stock-market-news/micron-stock-dips-as-citi-removes-catalyst-watch-93CH-4830240",
-      "source": "investing.com",
-      "published": "2026-08-03T09:58:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America sees improving India growth indicators in July",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-sees-improving-india-growth-indicators-in-july-93CH-4830239",
-      "source": "investing.com",
-      "published": "2026-08-03T09:56:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America reaffirms utilities sector growth outlook",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-reaffirms-utilities-sector-growth-outlook-93CH-4830234",
-      "source": "investing.com",
-      "published": "2026-08-03T09:55:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Wilson Tips Earnings to Revive Momentum Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/morgan-stanley-s-wilson-tips-earnings-to-revive-momentum-trade",
-      "source": "bloomberg.com",
-      "published": "2026-08-03T09:54:42+00:00",
+      "title": "Circle shares slide after Morgan Stanley slashes price target to $38",
+      "url": "https://crypto.news/circle-shares-slide-after-morgan-stanley-slashes-price-target-to-38/",
+      "source": "crypto.news",
+      "published": "2026-08-03T14:06:49+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "PNC Financial Services Group Inc. Decreases Stock Position in The Magnum Ice Cream Company N.V. $MICC",
-      "url": "https://www.tickerreport.com/banking-finance/13527759/pnc-financial-services-group-inc-decreases-stock-position-in-the-magnum-ice-cream-company-n-v-micc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T09:29:18+00:00",
+      "title": "Citi Executive Card Adds $500 AA Vacations Credit — You Don’t Need To Book A Vacation To Use It",
+      "url": "https://viewfromthewing.com/citi-executive-card-adds-500-aa-vacations-credit-you-dont-need-to-book-a-vacation-to-use-it/",
+      "source": "viewfromthewing.com",
+      "published": "2026-08-03T14:04:07+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "C"
       ]
     },
     {
-      "title": "Janus Henderson Group PLC Has $32.49 Million Position in U.S. Bancorp $USB",
-      "url": "https://www.tickerreport.com/banking-finance/13527727/janus-henderson-group-plc-has-32-49-million-position-in-u-s-bancorp-usb.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T09:21:25+00:00",
+      "title": "BofA Commits Over $1 Million to Support Texas Flood Recovery",
+      "url": "https://www.prnewswire.com/news-releases/bofa-commits-over-1-million-to-support-texas-flood-recovery-302841181.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-03T14:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Circle Internet slides after Morgan Stanley downgrade, cut in price target",
+      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+      "source": "coindesk.com",
+      "published": "2026-08-03T13:59:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022241/0001918704-26-022241-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T13:56:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JP Morgan to Deploy $750B to Increase Housing Supply Via American Dream Initiative",
+      "url": "https://commercialobserver.com/2026/08/jp-morgan-to-deploy-750b-to-increase-housing-supply-via-american-dream-initiative/",
+      "source": "commercialobserver.com",
+      "published": "2026-08-03T13:29:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo cuts eBay on Depop ad spending outlook",
+      "url": "https://seekingalpha.com/news/4623406-wells-fargo-cuts-ebay-on-depop-ad-spending-outlook",
+      "source": "seekingalpha.com",
+      "published": "2026-08-03T13:23:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Treasuries to Resume Fall Without Clear Fed Plan: BofA’s Cabana",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-to-resume-fall-without-clear-fed-plan-bofa-s-cabana",
+      "source": "bloomberg.com",
+      "published": "2026-08-03T13:18:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022224/0001918704-26-022224-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T13:15:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Snowflake to Present at Upcoming Investor Conferences",
+      "url": "http://www.businesswire.com/news/home/20260803158063/en/Snowflake-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-08-03T13:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426022222/0001918704-26-022222-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T13:11:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Circle stock declines 6% in trading: here's why",
+      "url": "https://invezz.com/news/2026/08/03/circle-stock-declines-6-in-trading-heres-why/",
+      "source": "invezz.com",
+      "published": "2026-08-03T13:04:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "American Airlines, Citi update executive credit card benefits",
+      "url": "https://www.investing.com/news/company-news/american-airlines-citi-update-executive-credit-card-benefits-93CH-4831310",
+      "source": "investing.com",
+      "published": "2026-08-03T13:04:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi / AAdvantage Executive Mastercard is getting a major refresh — here's what's changing",
+      "url": "https://thepointsguy.com/news/citi-aadvantage-executive-mastercard-refresh-2026/",
+      "source": "thepointsguy.com",
+      "published": "2026-08-03T13:04:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA crowns monitoring platform top software pick before earnings",
+      "url": "https://www.thestreet.com/investing/stocks/bofa-crowns-datadog-top-software-pick-ahead-of-earnings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-03T13:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "American Airlines Raises Admirals Club Membership As High As $1,400 — Pushing Flyers Toward Citi Card",
+      "url": "https://viewfromthewing.com/american-airlines-raises-admirals-club-membership-as-high-as-1400-pushing-flyers-toward-citi-card/",
+      "source": "viewfromthewing.com",
+      "published": "2026-08-03T13:01:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "American Raises Citi Executive Card Fee To $695 — New Credits, More Loyalty Points, And Pricier Lounges",
+      "url": "https://viewfromthewing.com/american-raises-citi-executive-card-fee-to-695-new-credits-more-loyalty-points-and-pricier-lounges/",
+      "source": "viewfromthewing.com",
+      "published": "2026-08-03T13:00:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "American Airlines and Citi Elevate Premium Travel With Enhanced Citi / AAdvantage Executive World Legend Mastercard",
+      "url": "https://finance.yahoo.com/media-advertising/articles/american-airlines-citi-elevate-premium-130000959.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-03T13:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Circle split as Morgan Stanley cuts to Underweight, TD Cowen starts at Buy",
+      "url": "https://www.investing.com/news/stock-market-news/circle-split-as-morgan-stanley-cuts-to-underweight-td-cowen-starts-at-buy-4831251",
+      "source": "investing.com",
+      "published": "2026-08-03T12:57:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Willis Towers Watson Public (NASDAQ:WTW) Earns Neutral Rating from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/willis-towers-watson-public-nasdaqwtw-earns-neutral-rating-from-citigroup-2026-08-03/",
+      "source": "marketbeat.com",
+      "published": "2026-08-03T12:48:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley signage, Texas Stock Exchange ticker head to votes",
+      "url": "https://www.bizjournals.com/dallas/news/2026/08/03/morgan-stanley-txse-ticker-craig-cavileer-returns.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-03T12:47:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo shrinks in Cary as JPMorgan grows",
+      "url": "https://www.bizjournals.com/triangle/news/2026/08/03/wells-fargo-closing-cary-branch-chase-bank.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-03T12:46:36+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Circle Internet stock tumbles after downgrade at Morgan Stanley, but TD Cowen initiates at Buy",
+      "url": "https://seekingalpha.com/news/4623385-circle-internet-stock-tumbles-after-downgrade-at-morgan-stanley-but-td-cowen-initiates-at-buy",
+      "source": "seekingalpha.com",
+      "published": "2026-08-03T12:43:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Adds Financial Giant to the August Conviction List of Top Stock Picks",
+      "url": "https://247wallst.com/investing/2026/08/03/goldman-sachs-adds-top-financial-to-a-august-conviction-list-stacked-with-dividend-giants/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-08-03T12:43:18+00:00",
+      "tickers": [
+        "C",
+        "GS",
+        "COF"
+      ]
+    },
+    {
+      "title": "Which Aerospace and Defense ETF Is the Better Buy: State Street's XAR or First Trust's MISL?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/03/which-aerospace-and-defense-etf-is-the-better-buy-state-street-s-xar-or-first-trust-s-misl/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-03T12:37:44+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Beacon Financial Corporation Appoints John B. Eagan General Counsel & Corporate Secretary",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/03/3337489/0/en/Beacon-Financial-Corporation-Appoints-John-B-Eagan-General-Counsel-Corporate-Secretary.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-03T12:30:00+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "AMD, Texas Instruments in focus as Citi reiterates Buy ratings",
+      "url": "https://seekingalpha.com/news/4623357-amd-texas-instruments-in-focus-as-citi-reiterates-buy-ratings",
+      "source": "seekingalpha.com",
+      "published": "2026-08-03T12:19:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank Investment Services enhances investor and client onboarding experience for alternative investments",
+      "url": "http://www.businesswire.com/news/home/20260803735470/en/U.S.-Bank-Investment-Services-enhances-investor-and-client-onboarding-experience-for-alternative-investments/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-08-03T12:16:00+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "Alexandra Eala and Jessica Pegula’s Citi Open Showdown Suspended Amid Extreme Conditions",
-      "url": "https://www.essentiallysports.com/tennis-news-alexandra-eala-and-jessica-pegulas-citi-open-showdown-suspended-amid-extreme-conditions/",
-      "source": "essentiallysports.com",
-      "published": "2026-08-03T08:47:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group Inc. Has $718,000 Stake in Fidelity Small-Mid Multifactor ETF $FSMD",
-      "url": "https://www.tickerreport.com/banking-finance/13527604/pnc-financial-services-group-inc-has-718000-stake-in-fidelity-small-mid-multifactor-etf-fsmd.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T08:42:46+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "FAS Wealth Partners Inc. Has $5.54 Million Stock Holdings in BNY Mellon Dynamic Value ETF $BKDV",
-      "url": "https://www.tickerreport.com/banking-finance/13527589/fas-wealth-partners-inc-has-5-54-million-stock-holdings-in-bny-mellon-dynamic-value-etf-bkdv.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-03T08:33:16+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Why Apple stock may thrive even if the next iPhone costs much more",
-      "url": "https://invezz.com/news/2026/08/03/why-apple-stock-may-thrive-even-if-the-next-iphone-costs-much-more/",
-      "source": "invezz.com",
-      "published": "2026-08-03T08:18:41+00:00",
+      "title": "Morgan Stanley forecasts cloud spending to reach $1.2T by 2027, and crypto miners are paying attention",
+      "url": "https://cryptobriefing.com/morgan-stanley-cloud-spending-1-2t-2027/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-03T12:14:20+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Citi Says African Sovereign Bond Sales Defied Mideast Conflict",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/citi-says-african-sovereign-bond-sales-defied-mideast-conflict",
-      "source": "bloomberg.com",
-      "published": "2026-08-03T08:16:50+00:00",
+      "title": "Willis Towers Watson cut to Neutral at Citi as AI payback is 'a bit too far in the future'",
+      "url": "https://seekingalpha.com/news/4623351-willis-towers-watson-cut-to-neutral-at-citi-as-ai-payback-is-a-bit-too-far-in-the-future",
+      "source": "seekingalpha.com",
+      "published": "2026-08-03T12:13:23+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Trump Debanking Lawsuit Backfires After Capital One Court Filing Reveals Anti-Money-Laundering Concerns",
-      "url": "https://www.ibtimes.co.uk/capital-one-compliance-review-trump-accounts-1812049",
-      "source": "ibtimes.co.uk",
-      "published": "2026-08-03T08:06:40+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs just added these 3 stocks to its European Conviction List",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-just-added-these-3-stocks-to-its-european-conviction-list-4829955",
-      "source": "investing.com",
-      "published": "2026-08-03T08:03:28+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
