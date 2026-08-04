@@ -1,281 +1,292 @@
 {
-  "last_updated": "2026-08-04T14:31:58.788698+00:00",
+  "last_updated": "2026-08-04T16:57:34.191222+00:00",
   "headlines": [
     {
-      "title": "Jeff Bezos is filing to sell $4 billion in Amazon stock after record post-earnings rally",
-      "url": "https://qz.com/jeff-bezos-amazon-stock-sale-4-billion-080426",
-      "source": "qz.com",
-      "published": "2026-08-04T13:41:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Immix Biopharma to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/04/3338423/0/en/Immix-Biopharma-to-Participate-in-the-Morgan-Stanley-24th-Annual-Global-Healthcare-Conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-04T13:15:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for V2X (NYSE:VVX) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-v2x-nysevvx-stock-2026-08-04/",
+      "title": "CNH Industrial (NYSE:CNH) Earns \"Buy\" Rating from Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/cnh-industrial-nysecnh-earns-buy-rating-from-truist-financial-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T13:12:23+00:00",
+      "published": "2026-08-04T16:12:22+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Veracyte (NASDAQ:VCYT) Price Target Cut to $44.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/veracyte-nasdaqvcyt-price-target-cut-to-4400-by-analysts-at-morgan-stanley-2026-08-04/",
+      "title": "Snap (NYSE:SNAP) Price Target Raised to $6.75 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/snap-nysesnap-price-target-raised-to-675-at-citigroup-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T13:12:22+00:00",
+      "published": "2026-08-04T16:12:22+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA sees an \"enhanced buying opportunity\" in this memory stock",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-an-enhanced-buying-opportunity-in-this-memory-stock-4834507",
-      "source": "investing.com",
-      "published": "2026-08-04T13:12:00+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Important Notice of Dividend Announcement to shareholder of Xtrackers II",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/important-notice-dividend-announcement-shareholder-130600867.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-04T13:06:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA’s $1.18T cloud forecast puts 3 chip stocks in focus",
-      "url": "https://www.thestreet.com/investing/stocks/bofa-cloud-spending-forecast-amat-lrcx-klac?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-08-04T13:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase vs. Bank of America: which stock is better for upcoming rate cycle?",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-chase-vs-bank-of-america-which-stock-is-better-for-upcoming-rate-cycle-93CH-4834452",
-      "source": "investing.com",
-      "published": "2026-08-04T13:02:20+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Apiiro Joins Chainguard's Athena Coalition, Makes AutoFix Free for Open Source Maintainers",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/04/3338371/0/en/Apiiro-Joins-Chainguard-s-Athena-Coalition-Makes-AutoFix-Free-for-Open-Source-Maintainers.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-04T13:00:00+00:00",
-      "tickers": [
-        "JPM",
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs upgrades Sainsbury’s as Argos sale removes key overhang",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-upgrades-sainsburys-as-argos-sale-removes-key-overhang-4834419",
-      "source": "investing.com",
-      "published": "2026-08-04T12:58:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Chase Bank is closing another wave of branches this summer: See a list of shuttered locations in several states",
-      "url": "https://www.fastcompany.com/91584343/chase-bank-closing-branches-2026-full-list-shuttered-locations",
-      "source": "fastcompany.com",
-      "published": "2026-08-04T12:48:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AGCO (NYSE:AGCO) Given New $99.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/agco-nyseagco-given-new-9900-price-target-at-morgan-stanley-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for Advanced Energy Industries (NASDAQ:AEIS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-advanced-energy-industries-nasdaqaeis-stock-price-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for EPAM Systems (NYSE:EPAM) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-epam-systems-nyseepam-stock-price-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Jazz Pharmaceuticals (NASDAQ:JAZZ) Price Target Raised to $280.00 at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/jazz-pharmaceuticals-nasdaqjazz-price-target-raised-to-28000-at-morgan-stanley-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Guardant Health (NASDAQ:GH) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-guardant-health-nasdaqgh-stock-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SBA Communications (NASDAQ:SBAC) Price Target Cut to $215.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/sba-communications-nasdaqsbac-price-target-cut-to-21500-by-analysts-at-morgan-stanley-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Mettler-Toledo International (NYSE:MTD) Given New $1,450.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/mettler-toledo-international-nysemtd-given-new-145000-price-target-at-morgan-stanley-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:42:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BNY taps Galaxy for institutional staking infrastructure",
-      "url": "https://cryptobriefing.com/bny-mellon-crypto-staking-custody/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-04T12:37:24+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase, Accenture and others are teaming up on a new venture to standardize how AI token use is measured",
-      "url": "https://fortune.com/2026/08/04/jpmorgan-chase-accenture-others-are-teaming-up-venture-standardize-ai-token-use-measured-cfo/",
-      "source": "fortune.com",
-      "published": "2026-08-04T12:36:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo to Launch Tokenized Deposits for Corporate and Commercial Clients",
-      "url": "http://www.businesswire.com/news/home/20260804905763/en/Wells-Fargo-to-Launch-Tokenized-Deposits-for-Corporate-and-Commercial-Clients/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "source": "businesswire.com",
-      "published": "2026-08-04T12:30:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY to add crypto staking to digital asset custody platform",
-      "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-      "source": "coindesk.com",
-      "published": "2026-08-04T12:30:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Capital One had 300 Trump accounts — then its money-laundering team stepped in",
-      "url": "https://fortune.com/2026/08/04/capital-one-trump-accounts-money-laundering-review/",
-      "source": "fortune.com",
-      "published": "2026-08-04T12:21:07+00:00",
+      "title": "Building a good financial foundation",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vferd9/building_a_good_financial_foundation/",
+      "source": "reddit.com",
+      "published": "2026-08-04T16:10:18+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Amer Sports (NYSE:AS) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/amer-sports-nyseas-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-04/",
+      "title": "Best Financial Stocks To Research - August 4th",
+      "url": "https://www.marketbeat.com/instant-alerts/best-financial-stocks-to-research-august-4th-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:38+00:00",
+      "published": "2026-08-04T16:04:24+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Promising Bank Stocks To Follow Now - August 4th",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-bank-stocks-to-follow-now-august-4th-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T16:04:23+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "USB"
+      ]
+    },
+    {
+      "title": "BitGo partners with BNY Mellon to launch BLIQUID money market fund",
+      "url": "https://cryptobriefing.com/bitgo-bny-mellon-bliquid-money-market-fund/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-04T15:53:53+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Trump’s Capital One accounts closed after AML review, bank says",
+      "url": "https://www.bankingdive.com/news/capital-one-trump-organization-account-closing-lawsuit-aml-review-anti-money-laundering/826956/",
+      "source": "bankingdive.com",
+      "published": "2026-08-04T15:47:18+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citigroup Increases Ethos Technologies Inc. Class A Common Stock (NASDAQ:LIFE) Price Target to $33.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-increases-ethos-technologies-inc-class-a-common-stock-nasdaqlife-price-target-to-3300-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T15:42:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Alnylam Pharmaceuticals (NASDAQ:ALNY) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-pessimistic-forecast-for-alnylam-pharmaceuticals-nasdaqalny-stock-price-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T15:42:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Cuts American Water Works (NYSE:AWK) Price Target to $138.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-cuts-american-water-works-nyseawk-price-target-to-13800-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T15:42:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Just Added Microsoft to Its Closely Watched ‘Conviction List.’ Broadcom and ServiceNow Were Removed.",
+      "url": "https://247wallst.com/investing/2026/08/04/goldman-sachs-just-added-microsoft-to-its-closely-watched-conviction-list-broadcom-and-servicenow-were-removed/",
+      "source": "247wallst.com",
+      "published": "2026-08-04T15:34:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Sportradar Group (NASDAQ:SRAD) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13529579/citigroup-issues-pessimistic-forecast-for-sportradar-group-nasdaqsrad-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-04T15:24:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Lowers Sportradar Group (NASDAQ:SRAD) Price Target to $20.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-sportradar-group-nasdaqsrad-price-target-to-2000-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T15:24:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Has Lowered Expectations for Ally Financial (NYSE:ALLY) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-ally-financial-nyseally-stock-price-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T15:24:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "SNAP Maintains by Wells Fargo -- Price Target Raised to $6.00",
+      "url": "https://www.gurufocus.com/news/9002192/snap-maintains-by-wells-fargo-price-target-raised-to-600",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T15:23:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "ON Maintained by Wells Fargo -- Price Target Lowered to $110",
+      "url": "https://www.gurufocus.com/news/9002198/on-maintained-by-wells-fargo-price-target-lowered-to-110",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T15:23:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "IBTA Maintains Rating by Wells Fargo -- Price Target Raised to $40",
+      "url": "https://www.gurufocus.com/news/9002195/ibta-maintains-rating-by-wells-fargo-price-target-raised-to-40",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T15:23:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Galaxy Digital (GLXY) Partners with BNY Mellon to Enhance Institutional Staking Infrastructure",
+      "url": "https://www.gurufocus.com/news/9002248/galaxy-digital-glxy-partners-with-bny-mellon-to-enhance-institutional-staking-infrastructure",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T15:23:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "JPMorgan believes San Francisco has turned a new leaf, announces fresh investments",
+      "url": "https://www.audacy.com/podcasts/f4f878a208a24fbb7b74c703e58fb7db/episodes/jpmorgan_believes_san_francisc-8559745",
+      "source": "audacy.com",
+      "published": "2026-08-04T15:23:05+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Birkenstock (NYSE:BIRK) Price Target Raised to $58.00",
-      "url": "https://www.marketbeat.com/instant-alerts/birkenstock-nysebirk-price-target-raised-to-5800-2026-08-04/",
+      "title": "Corning Dropped 25% Over a Month: A Major U.S. Bank Expects 66% Gains Over The Near Term",
+      "url": "https://247wallst.com/investing/2026/08/04/corning-dropped-25-over-a-month-a-major-u-s-bank-expects-66-gains-over-the-near-term/",
+      "source": "247wallst.com",
+      "published": "2026-08-04T15:14:16+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Amylyx Pharmaceuticals (NASDAQ:AMLX) Hits New 52-Week High After Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13529567/amylyx-pharmaceuticals-nasdaqamlx-hits-new-52-week-high-after-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-04T15:12:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HUN Maintained by Wells Fargo -- Price Target Lowered to $11.00",
+      "url": "https://www.gurufocus.com/news/9002172/hun-maintained-by-wells-fargo-price-target-lowered-to-1100",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T15:08:53+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial (NYSE:TFC) Insider Donta Wilson Sells 13,280 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-nysetfc-insider-donta-wilson-sells-13280-shares-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:38+00:00",
+      "published": "2026-08-04T15:07:52+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "BNY and Galaxy Launch Institutional Staking Partnership",
+      "url": "https://blockonomi.com/bny-and-galaxy-launch-institutional-staking-partnership/",
+      "source": "blockonomi.com",
+      "published": "2026-08-04T15:06:03+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Goldman Sachs and Talcott Financial Group raise $1B for Bermuda reinsurance vehicle",
+      "url": "https://cryptobriefing.com/goldman-sachs-talcott-reinsurance-vehicle/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-04T15:06:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Hits New 12-Month High - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-hits-new-12-month-high-whats-next-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T15:00:31+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Capri (NYSE:CPRI) Price Target Lowered to $22.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/capri-nysecpri-price-target-lowered-to-2200-at-jpmorgan-chase-co-2026-08-04/",
+      "title": "Citigroup Issues Pessimistic Forecast for Weyerhaeuser (NYSE:WY) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-weyerhaeuser-nysewy-stock-price-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:37+00:00",
+      "published": "2026-08-04T15:00:23+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Kontoor Brands (NYSE:KTB) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-kontoor-brands-nysektb-stock-2026-08-04/",
+      "title": "ArcBest (NASDAQ:ARCB) Given New $171.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/arcbest-nasdaqarcb-given-new-17100-price-target-at-citigroup-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:36+00:00",
+      "published": "2026-08-04T15:00:22+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Tapestry (NYSE:TPR) Price Target Raised to $211.00",
-      "url": "https://www.marketbeat.com/instant-alerts/tapestry-nysetpr-price-target-raised-to-21100-2026-08-04/",
+      "title": "Advanced Energy Industries (NASDAQ:AEIS) Price Target Raised to $460.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/advanced-energy-industries-nasdaqaeis-price-target-raised-to-46000-at-citigroup-2026-08-04/",
       "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:36+00:00",
+      "published": "2026-08-04T15:00:21+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Levi Strauss & Co. (NYSE:LEVI) Price Target Raised to $34.00",
-      "url": "https://www.marketbeat.com/instant-alerts/levi-strauss-co-nyselevi-price-target-raised-to-3400-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:36+00:00",
+      "title": "Mobility Global to Participate in Upcoming Investor Conferences",
+      "url": "http://www.businesswire.com/news/home/20260804363574/en/Mobility-Global-to-Participate-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-08-04T15:00:00+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "lululemon athletica (NASDAQ:LULU) Given New $154.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/lululemon-athletica-nasdaqlulu-given-new-15400-price-target-at-jpmorgan-chase-co-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T12:12:35+00:00",
-      "tickers": [
-        "JPM"
+        "WFC",
+        "C"
       ]
     }
   ]
