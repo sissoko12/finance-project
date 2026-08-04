@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-08-04T22:18:14.719784+00:00",
+  "last_updated": "2026-08-04T23:34:37.406274+00:00",
   "headlines": [
+    {
+      "title": "The race to tokenize Wall Street: how JPMorgan, Citi, and Wells Fargo are rebuilding settlement rails",
+      "url": "https://crypto.news/tokenize-wall-street-jpmorgan-citi-wells-fargo-settlement/",
+      "source": "crypto.news",
+      "published": "2026-08-04T22:28:46+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Micron Technology (MU) Surges as Bank of America Reaffirms Buy Rating",
+      "url": "https://www.gurufocus.com/news/9003530/micron-technology-mu-surges-as-bank-of-america-reaffirms-buy-rating",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T22:06:41+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Reaches New 52-Week High - Still a Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/us-bancorp-nyseusb-reaches-new-52-week-high-still-a-buy-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T22:00:32+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Capital One closed hundreds of Trump bank accounts for 'anti-money laundering reasons,' lawsuit says",
+      "url": "https://www.snopes.com/fact-check/capital-one-close-trump-accounts/",
+      "source": "snopes.com",
+      "published": "2026-08-04T21:54:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038629/0001839882-26-038629-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:26:44+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011902/0000950103-26-011902-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:26:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022851/0001918704-26-022851-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:26:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038625/0001839882-26-038625-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:05:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022824/0001918704-26-022824-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T20:57:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038617/0001839882-26-038617-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T20:54:44+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Does anyone know a true bank with over 4% flat rate APY HYSA with no subscriptions",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vfmm1v/does_anyone_know_a_true_bank_with_over_4_flat/",
@@ -9,273 +106,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/927628/000198260426000011/0001982604-26-000011-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-04T20:46:30+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "BNY taps Galaxy for institutional crypto staking",
-      "url": "https://crypto.news/bny-taps-galaxy-for-institutional-crypto-staking/",
-      "source": "crypto.news",
-      "published": "2026-08-04T20:35:23+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Garrett Motion Announces Participation at J.P. Morgan 2026 Automotive Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/04/3338873/0/en/Garrett-Motion-Announces-Participation-at-J-P-Morgan-2026-Automotive-Conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-04T20:35:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cooper Standard to Present at the 2026 J.P. Morgan Auto Conference",
-      "url": "https://www.prnewswire.com/news-releases/cooper-standard-to-present-at-the-2026-jp-morgan-auto-conference-302842897.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-04T20:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BNY Announces Conference Calls to Review Earnings in 2027",
-      "url": "https://www.prnewswire.com/news-releases/bny-announces-conference-calls-to-review-earnings-in-2027-302842681.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-04T20:15:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bny-mellon-municipal-bond-infrastructure-201300723.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-04T20:13:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "CAPITAL ONE FINANCIAL CORP: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/927628/000195004726007604/0001950047-26-007604-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-04T20:12:35+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "INSP Maintained by JP Morgan -- Price Target Raised to $60",
-      "url": "https://www.gurufocus.com/news/9002819/insp-maintained-by-jp-morgan-price-target-raised-to-60",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:06:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "LAD Maintained by JP Morgan -- Price Target Raised to $340",
-      "url": "https://www.gurufocus.com/news/9002818/lad-maintained-by-jp-morgan-price-target-raised-to-340",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:06:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PAG Maintained by JP Morgan -- Price Target Raised to $215",
-      "url": "https://www.gurufocus.com/news/9002817/pag-maintained-by-jp-morgan-price-target-raised-to-215",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:05:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PECO Maintains Neutral Rating by JP Morgan -- Price Target Raised to $46",
-      "url": "https://www.gurufocus.com/news/9002816/peco-maintains-neutral-rating-by-jp-morgan-price-target-raised-to-46",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:05:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "UDR Maintained by JP Morgan -- Price Target Raised to $41.00",
-      "url": "https://www.gurufocus.com/news/9002814/udr-maintained-by-jp-morgan-price-target-raised-to-4100",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:04:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "STATE STREET CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000399/0000093751-26-000399-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-04T20:03:58+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ALHC Maintained by JP Morgan -- Price Target Lowered to $22",
-      "url": "https://www.gurufocus.com/news/9002809/alhc-maintained-by-jp-morgan-price-target-lowered-to-22",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:03:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Micron pullback seen as buying opportunity amid solid end-demand, says BofA",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096535/micron-pullback-seen-as-buying-opportunity-amid-solid-end-demand-says-bofa-1096535.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-08-04T20:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ABG Maintained by JP Morgan -- Price Target Lowered to $190",
-      "url": "https://www.gurufocus.com/news/9002807/abg-maintained-by-jp-morgan-price-target-lowered-to-190",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:02:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AN Maintains by JP Morgan -- Price Target Lowered to $210",
-      "url": "https://www.gurufocus.com/news/9002805/an-maintains-by-jp-morgan-price-target-lowered-to-210",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:02:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GPI Maintained by JP Morgan -- Price Target Lowered to $275",
-      "url": "https://www.gurufocus.com/news/9002802/gpi-maintained-by-jp-morgan-price-target-lowered-to-275",
-      "source": "gurufocus.com",
-      "published": "2026-08-04T20:01:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Former FHA Chief Frank Cassidy on JPMorgan Chase housing pledge",
-      "url": "https://www.housingwire.com/articles/former-fha-chief-frank-cassidy-on-jpmorgan-chase-housing-pledge/",
-      "source": "housingwire.com",
-      "published": "2026-08-04T20:01:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo joins the fast-growing tokenized-deposit club",
-      "url": "https://www.americanbanker.com/news/wells-fargo-joins-the-fast-growing-tokenized-deposit-club?.tsrc=rss",
-      "source": "americanbanker.com",
-      "published": "2026-08-04T19:59:34+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Person found dead on East St. Louis road",
-      "url": "https://www.stltoday.com/news/local/crime-courts/article_3c78d777-db98-4d00-8f66-edffcba0cb55.html",
-      "source": "stltoday.com",
-      "published": "2026-08-04T19:56:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Wells Fargo to launch tokenized deposits this fall",
-      "url": "https://crypto.news/wells-fargo-to-launch-tokenized-deposits-this-fall/",
-      "source": "crypto.news",
-      "published": "2026-08-04T19:49:27+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Paladin Financial buys former Wells Fargo branch for new headquarters",
-      "url": "https://www.bizjournals.com/twincities/news/2026/08/04/paladin-financial-buys-wells-fargo-shoreview-site.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-08-04T19:21:41+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Clorox (NYSE:CLX) Price Target Raised to $95.00",
-      "url": "https://www.tickerreport.com/banking-finance/13529766/clorox-nyseclx-price-target-raised-to-95-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-04T19:06:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Lithia Motors (NYSE:LAD) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/lithia-motors-nyselad-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T19:06:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases Inspire Medical Systems (NYSE:INSP) Price Target to $60.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-inspire-medical-systems-nyseinsp-price-target-to-6000-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T19:06:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Immunovant (NASDAQ:IMVT) Price Target Raised to $50.00",
-      "url": "https://www.marketbeat.com/instant-alerts/immunovant-nasdaqimvt-price-target-raised-to-5000-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T19:06:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Centene (NYSE:CNC) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-centene-nysecnc-stock-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T19:06:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Clorox (NYSE:CLX) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-clorox-nyseclx-stock-price-2026-08-04/",
-      "source": "marketbeat.com",
-      "published": "2026-08-04T19:06:27+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
