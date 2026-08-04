@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-08-03T23:39:25.392992+00:00",
+  "last_updated": "2026-08-04T03:22:49.443844+00:00",
   "headlines": [
+    {
+      "title": "Removing a co-signer off my loan. Is this a good deal?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vewfif/removing_a_cosigner_off_my_loan_is_this_a_good/",
+      "source": "reddit.com",
+      "published": "2026-08-04T01:33:23+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank: We Shut Trump Org Accounts Over Money Laundering Concerns",
+      "url": "https://www.newser.com/story/394004/bank-we-shut-trump-org-accounts-over-money-laundering-concerns.html",
+      "source": "newser.com",
+      "published": "2026-08-03T23:05:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Jefferies, Citi and Roth cut BioAge Labs price targets but keep Buy ratings after Novo trial fail",
+      "url": "https://awesomecapital.blogspot.com/2026/08/jefferies-citi-and-roth-cut-bioage-labs.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-08-03T23:01:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs: Market Strength Amid AI Stock Volatility (GS)",
+      "url": "https://www.gurufocus.com/news/8999745/goldman-sachs-market-strength-amid-ai-stock-volatility-gs",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T22:50:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000408/0000070858-26-000408-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T22:47:42+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MS Maintained by Morgan Stanley -- Price Target Raised to $260",
+      "url": "https://www.gurufocus.com/news/8999681/ms-maintained-by-morgan-stanley-price-target-raised-to-260",
+      "source": "gurufocus.com",
+      "published": "2026-08-03T22:33:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Citi Recruits Bank of America Vet Rohan Sen Amid Investment Banking Hiring Spree",
       "url": "https://www.pymnts.com/personnel/2026/citi-recruits-bank-of-america-vet-rohan-sen-amid-investment-banking-hiring-spree/",
@@ -49,6 +106,15 @@
       ]
     },
     {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038234/0001839882-26-038234-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:24:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "GOLDMAN SACHS GROUP INC: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000297/0000886982-26-000297-index.htm",
       "source": "sec.gov",
@@ -64,6 +130,16 @@
       "published": "2026-08-03T21:21:27+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038231/0001839882-26-038231-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-03T21:21:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     }
   ]
