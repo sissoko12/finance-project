@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-08-04T03:22:49.443844+00:00",
+  "last_updated": "2026-08-04T06:12:11.497890+00:00",
   "headlines": [
+    {
+      "title": "Citigroup Insights on Japan's $1.1 Trillion US Treasury Holdings",
+      "url": "https://www.gurufocus.com/news/9000376/citigroup-insights-on-japans-11-trillion-us-treasury-holdings",
+      "source": "gurufocus.com",
+      "published": "2026-08-04T05:11:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "2026-08-04 Daily Journal 60162430",
+      "url": "https://dailyjournal.net/2026/08/04/2026-08-04-daily-journal-60162430/",
+      "source": "dailyjournal.net",
+      "published": "2026-08-04T05:00:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Trustworthiness Costs of Domain Adaptation in Small Language Models:A Cross-Architecture Empirical Study",
+      "url": "https://arxiv.org/abs/2608.00042",
+      "source": "arxiv.org",
+      "published": "2026-08-04T04:00:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Bank of America Taps New Africa, Benelux Investment Bank Leads",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/bank-of-america-taps-new-africa-benelux-investment-bank-leads",
+      "source": "bloomberg.com",
+      "published": "2026-08-04T04:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Spectral Algorithms for 3-Wave Kinetic and $C_{12}$ Quantum Boltzmann Equations with General Resonance Manifolds in $\\mathbb{R}^d$",
+      "url": "https://arxiv.org/abs/2608.00603",
+      "source": "arxiv.org",
+      "published": "2026-08-04T04:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Says Japan Has Yen Defense Tools Beyond Treasury Sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/citi-says-japan-has-yen-defense-tools-beyond-treasury-sales",
+      "source": "bloomberg.com",
+      "published": "2026-08-04T03:50:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Japan's Equities Risk Tactical Correction: Goldman's Moe",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-04/japan-s-equities-risk-tactical-correction-goldman-s-moe-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-04T03:49:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Block deal alert: Meesho shares in focus as Peak XV, Elevation Capital eye Rs 1,900 crore stake sale",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-meesho-shares-in-focus-as-peak-xv-elevation-capital-eye-rs-1900-crore-stake-sale/articleshow/132845243.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-04T03:09:30+00:00",
+      "tickers": [
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "BofA: Japan Determined to Break Yen at 155",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-04/bofa-japan-determined-to-break-yen-at-155-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-04T03:07:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo continues branch reductions in North Carolina",
+      "url": "https://www.bizjournals.com/triangle/news/2026/08/03/wells-fargo-closing-cary-branch-chase-bank.html?utm_source=newsletter&utm_medium=email&utm_campaign=BizFayetteville.com+Monday+Update#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-08-04T03:04:55+00:00",
+      "tickers": [
+        "JPM",
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Removing a co-signer off my loan. Is this a good deal?",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vewfif/removing_a_cosigner_off_my_loan_is_this_a_good/",
@@ -121,25 +216,6 @@
       "published": "2026-08-03T21:24:06+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan to invest $750B to help 500K Americans buy homes",
-      "url": "https://nypost.com/2026/08/03/business/jpmorgan-to-invest-750b-to-help-500k-americans-buy-homes/",
-      "source": "nypost.com",
-      "published": "2026-08-03T21:21:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038231/0001839882-26-038231-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-03T21:21:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
