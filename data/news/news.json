@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-08-05T09:20:01.801903+00:00",
+  "last_updated": "2026-08-05T11:37:44.262526+00:00",
   "headlines": [
+    {
+      "title": "ADM Upgraded by Morgan Stanley -- Price Target Raised to $79.00",
+      "url": "https://www.gurufocus.com/news/9005612/adm-upgraded-by-morgan-stanley-price-target-raised-to-7900",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T11:07:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PAC Upgraded by Morgan Stanley -- Price Target Raised to $225",
+      "url": "https://www.gurufocus.com/news/9005620/pac-upgraded-by-morgan-stanley-price-target-raised-to-225",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T11:07:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AI expected to deliver gradual benefits and new risks for the insurance sector: Moody’s",
+      "url": "https://www.reinsurancene.ws/ai-expected-to-deliver-gradual-benefits-and-new-risks-for-the-insurance-sector-moodys/",
+      "source": "reinsurancene.ws",
+      "published": "2026-08-05T11:00:27+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "ECARX to Present at the J.P. Morgan Auto Conference on August 12, 2026",
+      "url": "https://www.prnewswire.com/news-releases/ecarx-to-present-at-the-jp-morgan-auto-conference-on-august-12-2026-302843299.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-05T11:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PTC Will Participate in Upcoming Investor Conferences",
+      "url": "https://www.prnewswire.com/news-releases/ptc-will-participate-in-upcoming-investor-conferences-302843123.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-05T11:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon pushes new effort to tackle AI risks across industries",
+      "url": "https://cryptobriefing.com/jpmorgan-dimon-ai-risks-initiative/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-05T10:54:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "USAA and BofA swap patent rights in first two-way deal",
+      "url": "https://www.americanbanker.com/news/usaa-and-bofa-swap-patent-rights-in-first-two-way-deal",
+      "source": "americanbanker.com",
+      "published": "2026-08-05T10:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Pacific Excel Wealth Advisors Inc. Takes Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pacific-excel-wealth-advisors-inc-takes-position-in-wells-fargo-company-wfc-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T10:16:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "972 Shares in The Goldman Sachs Group, Inc. $GS Bought by Pacific Excel Wealth Advisors Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-972-shares-in-the-goldman-sachs-group-inc-gs-bought-by-pacific-excel-wealth-advisors-inc-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T10:08:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Pacific Excel Wealth Advisors Inc. Buys New Stake in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pacific-excel-wealth-advisors-inc-buys-new-stake-in-state-street-corporation-stt-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T10:08:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "JP Morgan CEO Jamie Dimon leads new cross-industry effort to tackle AI risks",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jp-morgan-ceo-jamie-dimon-leads-new-cross-industry-effort-to-tackle-ai-risks/articleshow/132914431.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-05T10:07:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for HSBC (LON:HSBA) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-hsbc-lonhsba-stock-price-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:42:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Hammerson (LON:HMSO) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-hammerson-lonhmso-stock-price-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:42:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ITM Power (LON:ITM) Price Target Raised to GBX 80",
+      "url": "https://www.marketbeat.com/instant-alerts/itm-power-lonitm-price-target-raised-to-gbx-80-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:42:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Rightmove (LON:RMV) Given New GBX 486 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/rightmove-lonrmv-given-new-gbx-486-price-target-at-citigroup-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:42:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Auto Trader Group (LON:AUTO) Price Target to GBX 440",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-auto-trader-group-lonauto-price-target-to-gbx-440-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:42:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Pacer Advisors Inc. Lowers Stock Position in Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pacer-advisors-inc-lowers-stock-position-in-citigroup-inc-c-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:28:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group Inc. Has $399,000 Stock Position in Cirrus Logic, Inc. $CRUS",
+      "url": "https://www.tickerreport.com/banking-finance/13530397/pnc-financial-services-group-inc-has-399000-stock-position-in-cirrus-logic-inc-crus.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-05T09:23:24+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees data centers and infrastructure driving construction",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-data-centers-and-infrastructure-driving-construction-93CH-4836788",
+      "source": "investing.com",
+      "published": "2026-08-05T09:23:06+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Segall Bryant & Hamill LLC Invests $1.80 Million in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-segall-bryant-hamill-llc-invests-180-million-in-the-goldman-sachs-group-inc-gs-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T09:12:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Insider Selling: Truist Financial (NYSE:TFC) Insider Sells $688,568.00 in Stock",
+      "url": "https://www.insidertrades.com/alerts/nyse-tfc-insider-buying-and-selling-2026-08-05/",
+      "source": "insidertrades.com",
+      "published": "2026-08-05T09:07:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley mapped 3 AI futures. One company wins them all.",
+      "url": "https://www.businessinsider.com/wall-street-3-ai-futures-same-winners-morgan-stanley-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-05T09:00:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "J.P. Morgan bullish on Nexans as transmission growth drives earnings; shares rise",
+      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-bullish-on-nexans-as-transmission-growth-drives-earnings-shares-rise-4836710",
+      "source": "investing.com",
+      "published": "2026-08-05T08:52:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Mukul Agrawal Portfolio Stock Jumps 8% after Goldman Sachs Buys ₹100 Cr Stake Following Q1 Results",
+      "url": "https://tradebrains.in/mukul-agrawal-portfolio-stock-jumps-8-after-goldman-sachs-buys-100-cr-stake-following-q1-results/",
+      "source": "tradebrains.in",
+      "published": "2026-08-05T08:46:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "GAMMA Investing LLC Acquires 1,051 Shares of The Goldman Sachs Group, Inc. $GS",
       "url": "https://www.marketbeat.com/instant-alerts/filing-gamma-investing-llc-acquires-1051-shares-of-the-goldman-sachs-group-inc-gs-2026-08-05/",
@@ -56,226 +276,6 @@
       "published": "2026-08-05T08:02:53+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Woman Loses $117K in Fake Wells Fargo Scam as Husband Enters Hospice: 'Everything I Had Is Gone'",
-      "url": "https://www.ibtimes.co.uk/fake-wells-fargo-scam-caregiver-finances-1812496",
-      "source": "ibtimes.co.uk",
-      "published": "2026-08-05T07:55:39+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "China's Optical Modules, PCBs, and Domestic AI Chips: A Day in the Market",
-      "url": "https://pandaily.com/china-optical-module-pcb-domestic-ai-chip-aug2026",
-      "source": "pandaily.com",
-      "published": "2026-08-05T07:53:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Has $6.12 Million Stake in The Descartes Systems Group Inc. $DSGX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-612-million-stake-in-the-descartes-systems-group-inc-dsgx-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:28:36+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BDF Gestion Sells 11,425 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bdf-gestion-sells-11425-shares-of-bank-of-america-corporation-bac-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:21:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BDF Gestion Cuts Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bdf-gestion-cuts-holdings-in-jpmorgan-chase-co-jpm-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:21:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "201,393 Shares in eToro Group Ltd. $ETOR Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-201393-shares-in-etoro-group-ltd-etor-acquired-by-bank-of-new-york-mellon-corp-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:21:19+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "So analysts from every bank lied about SPCX IPO?",
-      "url": "https://www.reddit.com/r/wallstreetbets/comments/1vg07vv/so_analysts_from_every_bank_lied_about_spcx_ipo/",
-      "source": "reddit.com",
-      "published": "2026-08-05T07:18:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Cuts Stock Holdings in Open Text Corporation $OTEX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-cuts-stock-holdings-in-open-text-corporation-otex-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:13:20+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Cuts Position in Liberty Global Ltd $LBTYA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-cuts-position-in-liberty-global-ltd-lbtya-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:13:20+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Has $5.48 Million Stake in Asana, Inc. $ASAN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-has-548-million-stake-in-asana-inc-asan-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:13:18+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "TELUS Corporation $TU Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-telus-corporation-tu-shares-sold-by-bank-of-new-york-mellon-corp-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:13:12+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "State Street Corporation $STT Shares Sold by Bank of America Corp DE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corporation-stt-shares-sold-by-bank-of-america-corp-de-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T07:12:59+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - August 05",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---august-05/article_c4f67220-7c7a-538a-ae0c-73d25cd16ca9.html",
-      "source": "newspressnow.com",
-      "published": "2026-08-05T06:01:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley-led banks to offload $15B debt tied to Google-backed Anthropic data center - report",
-      "url": "https://seekingalpha.com/news/4625608-morgan-stanley-led-banks-to-offload-15b-debt-tied-to-google-backed-anthropic-data-center---report",
-      "source": "seekingalpha.com",
-      "published": "2026-08-05T05:56:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman says Korea's AI-stock selloff has gone too far, doubles down on bull case",
-      "url": "https://www.businessinsider.com/kospi-stock-market-index-today-goldman-sachs-forecast-outlook-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-05T05:28:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Antin Infrastructure Partners enters exclusive talks to sell Idex to J.P. Morgan-backed fund",
-      "url": "https://newsnreleases.com/2026/08/05/antin-infrastructure-partners-enters-exclusive-talks-to-sell-idex-to-j-p-morgan-backed-fund/",
-      "source": "newsnreleases.com",
-      "published": "2026-08-05T05:26:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Creates $1 Billion Reinsurance Pool With Talcott",
-      "url": "https://www.claimsjournal.com/news/national/2026/08/05/339273.htm",
-      "source": "claimsjournal.com",
-      "published": "2026-08-05T05:00:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs' Keung on Chinese AI Models",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/goldman-sachs-keung-on-chinese-ai-models-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-05T04:26:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Mahindra & Mahindra Gets ‘Buy’ Ratings from Morgan Stanley, CLSA, and Nomura; Check the Upside Potential",
-      "url": "https://tradebrains.in/mahindra-mahindra-gets-buy-ratings-from-morgan-stanley-clsa-and-nomura-check-the-upside-potential/",
-      "source": "tradebrains.in",
-      "published": "2026-08-05T03:25:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Temasek, Morgan Stanley Are Said to Eye Adtek Pre-IPO Investment",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/temasek-morgan-stanley-are-said-to-eye-adtek-pre-ipo-investment",
-      "source": "bloomberg.com",
-      "published": "2026-08-05T02:27:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Better Robotics Stock: Tesla vs. Nvidia",
-      "url": "https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-05T02:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Why Bank of America Remains Bullish on Tesla Despite Weaker Q2 Profitability",
-      "url": "https://www.insidermonkey.com/blog/why-bank-of-america-remains-bullish-on-tesla-despite-weaker-q2-profitability-1806047/",
-      "source": "insidermonkey.com",
-      "published": "2026-08-05T01:17:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo to launch tokenized deposits for business clients",
-      "url": "https://www.wsj.com/finance/banking/wells-fargo-to-roll-out-tokenized-deposits-for-corporate-clients-75c5d2cc#new_tab",
-      "source": "wsj.com",
-      "published": "2026-08-05T00:09:30+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Jury Sees Undercover Video As Bribe Trial Nears End",
-      "url": "https://www.law360.com/compliance/articles/2509728?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-08-04T23:37:03+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
