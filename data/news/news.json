@@ -1,83 +1,41 @@
 {
-  "last_updated": "2026-08-05T20:10:27.961177+00:00",
+  "last_updated": "2026-08-05T21:49:30.147439+00:00",
   "headlines": [
     {
-      "title": "Citigroup Has Lowered Expectations for onsemi (NASDAQ:ON) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-onsemi-nasdaqon-stock-price-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:39+00:00",
+      "title": "Yen Seen Gaining 6% Against Dollar by End of 2026, Bank of America Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/bank-of-america-sees-yen-jumping-6-by-end-of-2026",
+      "source": "bloomberg.com",
+      "published": "2026-08-05T21:00:21+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Bruker (NASDAQ:BRKR) Price Target Cut to $53.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/bruker-nasdaqbrkr-price-target-cut-to-5300-by-analysts-at-citigroup-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:39+00:00",
+      "title": "BofA downgrades Vale stock rating on iron ore weakness, costs",
+      "url": "https://www.hellenicshippingnews.com/bofa-downgrades-vale-stock-rating-on-iron-ore-weakness-costs/",
+      "source": "hellenicshippingnews.com",
+      "published": "2026-08-05T21:00:00+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Fidelity National Information Services (NYSE:FIS) Given New $45.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/fidelity-national-information-services-nysefis-given-new-4500-price-target-at-citigroup-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:38+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038782/0001839882-26-038782-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T20:49:15+00:00",
       "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Citigroup Increases Bio-Rad Laboratories (NYSE:BIO) Price Target to $330.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-increases-bio-rad-laboratories-nysebio-price-target-to-33000-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts BioNTech (NASDAQ:BNTX) Price Target to $125.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-biontech-nasdaqbntx-price-target-to-12500-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Sysco (NYSE:SYY) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/sysco-nysesyy-stock-price-expected-to-rise-citigroup-analyst-says-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for Empire State Realty Trust (NYSE:ESRT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-empire-state-realty-trust-nyseesrt-stock-price-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Federal Realty Investment Trust (NYSE:FRT) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-federal-realty-investment-trust-nysefrt-stock-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T19:18:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan poaches M&A banker Amy Lissauer from Bank of America",
-      "url": "https://www.ft.com/content/62b70b3a-88c9-4d6c-bc0c-b840586af91a?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-08-05T19:10:09+00:00",
+      "title": "Bank of America tech executive Liu leaving for competitor, memo says",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-tech-executive-liu-leaving-for-competitor-memo-says-4838997",
+      "source": "investing.com",
+      "published": "2026-08-05T20:44:11+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -85,161 +43,230 @@
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085614/0001213900-26-085614-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085712/0001213900-26-085712-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-05T19:02:37+00:00",
+      "published": "2026-08-05T20:34:21+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Weekly Analysts’ Ratings Updates for CoStar Group (CSGP)",
+      "url": "https://www.tickerreport.com/banking-finance/13531279/weekly-analysts-ratings-updates-for-costar-group-csgp.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-05T20:26:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SoFi Q2: The One-Stop Shop Held Through A Funding Freeze | $JPM $NU $SOFI",
+      "url": "https://seekingalpha.com/article/4931140-sofi-q2-the-one-stop-shop-held-through-a-funding-freeze",
+      "source": "seekingalpha.com",
+      "published": "2026-08-05T20:22:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022990/0001918704-26-022990-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T20:15:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "LPL: $400 Million Firm WestKai Private Wealth Joins Strategic Wealth Team",
+      "url": "https://pulse2.com/lpl-400-million-firm-westkai-private-wealth-joins-strategic-wealth-team/",
+      "source": "pulse2.com",
+      "published": "2026-08-05T20:14:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038775/0001839882-26-038775-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T20:11:41+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One (COF) Stock Looks Below Fair Value Despite A 102% Run",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-cof-stock-looks-201112490.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-05T20:11:12+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "AME Maintained by Citigroup -- Price Target Raised to $261",
+      "url": "https://www.gurufocus.com/news/9007406/ame-maintained-by-citigroup-price-target-raised-to-261",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:04:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "AMD Maintained by Morgan Stanley -- Price Target Raised to $465",
+      "url": "https://www.gurufocus.com/news/9007404/amd-maintained-by-morgan-stanley-price-target-raised-to-465",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:04:06+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BKNG Maintained by Citigroup -- Price Target Raised to $236",
+      "url": "https://www.gurufocus.com/news/9007403/bkng-maintained-by-citigroup-price-target-raised-to-236",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:03:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TVTX Maintained by Citigroup -- Price Target Raised to $85",
+      "url": "https://www.gurufocus.com/news/9007401/tvtx-maintained-by-citigroup-price-target-raised-to-85",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:03:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ALAB Maintained by Morgan Stanley -- Price Target Raised to $382",
+      "url": "https://www.gurufocus.com/news/9007399/alab-maintained-by-morgan-stanley-price-target-raised-to-382",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:02:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TOST Maintains by Citigroup -- Price Target Raised to $39",
+      "url": "https://www.gurufocus.com/news/9007397/tost-maintains-by-citigroup-price-target-raised-to-39",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:02:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "QLYS Maintained by Morgan Stanley -- Price Target Raised to $130",
+      "url": "https://www.gurufocus.com/news/9007396/qlys-maintained-by-morgan-stanley-price-target-raised-to-130",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:01:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PINS Maintains Rating by Citigroup -- Price Target Raised to $27",
+      "url": "https://www.gurufocus.com/news/9007394/pins-maintains-rating-by-citigroup-price-target-raised-to-27",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T20:01:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Schwab Emerging Markets ETF vs State Street Climate Fund: Do Emerging Markets or Climate Stocks Offer Better Growth in 2026?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/05/schwab-emerging-markets-etf-vs-state-street-climate-fund-do-emerging-markets-or-climate-stocks-offer-better-growth-in-2026/",
+      "source": "fool.com",
+      "published": "2026-08-05T19:51:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "I don't know what I'm saving for",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vghlwy/i_dont_know_what_im_saving_for/",
+      "source": "reddit.com",
+      "published": "2026-08-05T19:38:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rhythm Pharmaceuticals (NASDAQ:RYTM) Price Target Raised to $143.00",
+      "url": "https://www.tickerreport.com/uncategorized/13531242/rhythm-pharmaceuticals-nasdaqrytm-price-target-raised-to-143-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-05T19:36:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Rhythm Pharmaceuticals (NASDAQ:RYTM) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-rhythm-pharmaceuticals-nasdaqrytm-stock-price-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T19:36:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Nebius Group (NASDAQ:NBIS) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-nebius-group-nasdaqnbis-stock-price-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T19:36:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for American Electric Power (NASDAQ:AEP) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-american-electric-power-nasdaqaep-stock-price-2026-08-05/",
+      "source": "marketbeat.com",
+      "published": "2026-08-05T19:36:31+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085609/0001213900-26-085609-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085635/0001213900-26-085635-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-05T18:58:04+00:00",
+      "published": "2026-08-05T19:34:55+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citigroup Issues Pessimistic Forecast for Rockwell Automation (NYSE:ROK) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-rockwell-automation-nyserok-stock-price-2026-08-05/",
+      "title": "LA28 Sponsors Join LABC Institute to Launch Campaign to Help Local Small Businesses Win Contracts for 2028 Olympics and Super Bowl LXI",
+      "url": "http://www.businesswire.com/news/home/20260805400714/en/LA28-Sponsors-Join-LABC-Institute-to-Launch-Campaign-to-Help-Local-Small-Businesses-Win-Contracts-for-2028-Olympics-and-Super-Bowl-LXI/?feedref=JjAwJuNHiystnCoBq_hl-Wwl2BflLvWOzWkyo9SexSnmI9n-lhtcGMMCeOqAshtzevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxZ7gAvnmh85-L77Jc_SK6w_zdbB7x4LhLvJt23KegdFuw==",
+      "source": "businesswire.com",
+      "published": "2026-08-05T19:24:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street XLV vs VanEck BBH: Which Healthcare ETF Is the Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/05/state-street-xlv-vs-vaneck-bbh-which-healthcare-etf-is-the-better-buy-in-2026/",
+      "source": "fool.com",
+      "published": "2026-08-05T19:22:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for onsemi (NASDAQ:ON) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-has-lowered-expectations-for-onsemi-nasdaqon-stock-price-2026-08-05/",
       "source": "marketbeat.com",
-      "published": "2026-08-05T18:48:23+00:00",
+      "published": "2026-08-05T19:18:39+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Raises Emerson Electric (NYSE:EMR) Price Target to $182.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-raises-emerson-electric-nyseemr-price-target-to-18200-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T18:48:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ADM upgraded at Morgan Stanley on stronger-than-expected execution",
-      "url": "https://seekingalpha.com/news/4626550-adm-upgraded-at-morgan-stanley-on-stronger-than-expected-execution",
-      "source": "seekingalpha.com",
-      "published": "2026-08-05T18:35:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo plans October closure of another Winston-Salem branch",
-      "url": "https://greensboro.com/news/local/business/article_c160978a-6e87-518c-a6b4-3df492535bcc.html",
-      "source": "greensboro.com",
-      "published": "2026-08-05T18:30:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038752/0001839882-26-038752-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T18:22:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America spends more than $250 million on GLP-1s",
-      "url": "https://www.businessinsider.com/bank-of-america-250-million-glp-1-ozempic-brian-moynihan-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-05T18:18:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Blue H icon on the Morgan Stanley site when selling shares?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vgfde7/blue_h_icon_on_the_morgan_stanley_site_when/",
-      "source": "reddit.com",
-      "published": "2026-08-05T18:18:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Vale cut to Neutral at BofA, seeing less room for optimism as costs bite",
-      "url": "https://seekingalpha.com/news/4626540-vale-cut-to-neutral-at-bofa-seeing-less-room-for-optimism-as-costs-bite",
-      "source": "seekingalpha.com",
-      "published": "2026-08-05T18:17:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038750/0001839882-26-038750-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T18:15:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Invests Over $250 Million in GLP-1 Weight Loss Drugs",
-      "url": "https://www.gurufocus.com/news/9007057/bank-of-america-invests-over-250-million-in-glp1-weight-loss-drugs",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T18:10:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for Caterpillar (NYSE:CAT) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-caterpillar-nysecat-stock-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T18:06:40+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Arista Networks (NYSE:ANET) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-arista-networks-nyseanet-stock-price-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T18:06:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526334590/0001193125-26-334590-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T18:06:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Reinvesting with rollover ira - Long story short I had a change in employment status so my 401k ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vgee1w/reinvesting_with_rollover_ira/",
-      "source": "reddit.com",
-      "published": "2026-08-05T17:43:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PROCEPT gains after Q2 beat; Wells Fargo downgrades | $PRCT",
-      "url": "https://seekingalpha.com/news/4626515-procept-stock-gains-q2-beat",
-      "source": "seekingalpha.com",
-      "published": "2026-08-05T17:38:56+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
