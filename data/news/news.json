@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-05T03:18:12.263301+00:00",
+  "last_updated": "2026-08-05T06:07:47.605258+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Creates $1 Billion Reinsurance Pool With Talcott",
+      "url": "https://www.claimsjournal.com/news/national/2026/08/05/339273.htm",
+      "source": "claimsjournal.com",
+      "published": "2026-08-05T05:00:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs' Keung on Chinese AI Models",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/goldman-sachs-keung-on-chinese-ai-models-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-05T04:26:33+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Mahindra & Mahindra Gets ‘Buy’ Ratings from Morgan Stanley, CLSA, and Nomura; Check the Upside Potential",
+      "url": "https://tradebrains.in/mahindra-mahindra-gets-buy-ratings-from-morgan-stanley-clsa-and-nomura-check-the-upside-potential/",
+      "source": "tradebrains.in",
+      "published": "2026-08-05T03:25:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Temasek, Morgan Stanley Are Said to Eye Adtek Pre-IPO Investment",
       "url": "https://www.bloomberg.com/news/articles/2026-08-05/temasek-morgan-stanley-are-said-to-eye-adtek-pre-ipo-investment",
@@ -8,6 +35,25 @@
       "published": "2026-08-05T02:27:13+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Better Robotics Stock: Tesla vs. Nvidia",
+      "url": "https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-05T02:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Bank of America Remains Bullish on Tesla Despite Weaker Q2 Profitability",
+      "url": "https://www.insidermonkey.com/blog/why-bank-of-america-remains-bullish-on-tesla-despite-weaker-q2-profitability-1806047/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-05T01:17:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -21,6 +67,15 @@
       ]
     },
     {
+      "title": "Goldman Jury Sees Undercover Video As Bribe Trial Nears End",
+      "url": "https://www.law360.com/compliance/articles/2509728?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-04T23:37:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
       "url": "https://www.sec.gov/Archives/edgar/data/316709/000182545426000026/0001825454-26-000026-index.htm",
       "source": "sec.gov",
@@ -28,6 +83,15 @@
       "tickers": [
         "C",
         "SCHW"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 3 - Initial statement of beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000301/0000886982-26-000301-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T23:03:17+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -88,6 +152,33 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085288/0001213900-26-085288-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:30:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526333155/0001193125-26-333155-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:29:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022853/0001918704-26-022853-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T21:27:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038629/0001839882-26-038629-index.htm",
       "source": "sec.gov",
@@ -111,25 +202,6 @@
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022851/0001918704-26-022851-index.htm",
       "source": "sec.gov",
       "published": "2026-08-04T21:26:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038625/0001839882-26-038625-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-04T21:05:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022824/0001918704-26-022824-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-04T20:57:43+00:00",
       "tickers": [
         "BAC",
         "C"
