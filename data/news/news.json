@@ -1,275 +1,226 @@
 {
-  "last_updated": "2026-08-05T14:25:17.569011+00:00",
+  "last_updated": "2026-08-05T16:16:24.487928+00:00",
   "headlines": [
     {
-      "title": "Bank of America Says Micron Rival Is Deeply Mispriced",
-      "url": "https://www.gurufocus.com/news/9002526/bank-of-america-says-micron-rival-is-deeply-mispriced",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T13:11:39+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Boosts Amgen (NASDAQ:AMGN) Price Target to $362.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-boosts-amgen-nasdaqamgn-price-target-to-36200-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T13:06:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for Amgen (NASDAQ:AMGN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-amgen-nasdaqamgn-stock-price-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T13:06:25+00:00",
+      "title": "Morgan Stanley Direct Lending Fund Q2 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4626176-morgan-stanley-direct-lending-fund-q2-2026-earnings-preview",
+      "source": "seekingalpha.com",
+      "published": "2026-08-05T15:26:51+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Bank of America Issues Positive Forecast for Amgen (NASDAQ:AMGN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-issues-positive-forecast-for-amgen-nasdaqamgn-stock-price-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T13:06:24+00:00",
+      "title": "Wells Fargo’s CEO Says AI Will Erase Tens of Thousands of Jobs. Here’s Why He’s Still Not Worried About Your Wallet",
+      "url": "https://247wallst.com/investing/2026/08/05/wells-fargos-ceo-says-ai-will-erase-tens-of-thousands-of-jobs-heres-why-hes-still-not-worried-about-your-wallet/",
+      "source": "247wallst.com",
+      "published": "2026-08-05T15:25:02+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "WFC",
+        "C",
+        "BK"
       ]
     },
     {
-      "title": "Wells Fargo Plans Launch of Tokenized Deposits for Corporate Clients",
-      "url": "https://www.crowdfundinsider.com/2026/08/295041-wells-fargo-plans-launch-of-tokenized-deposits-for-corporate-clients/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-08-05T13:06:22+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038705/0001839882-26-038705-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T15:12:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "W Maintained by Wells Fargo -- Price Target Raised to $130",
+      "url": "https://www.gurufocus.com/news/9006605/w-maintained-by-wells-fargo-price-target-raised-to-130",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:24+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
-      "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-      "source": "skift.com",
-      "published": "2026-08-05T13:00:00+00:00",
+      "title": "SUN Maintained by Wells Fargo -- Price Target Raised to $82.00",
+      "url": "https://www.gurufocus.com/news/9006610/sun-maintained-by-wells-fargo-price-target-raised-to-8200",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:24+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "DORM Maintained by Wells Fargo -- Price Target Raised to $160",
+      "url": "https://www.gurufocus.com/news/9006606/dorm-maintained-by-wells-fargo-price-target-raised-to-160",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "VIK Maintains Overweight Rating by Wells Fargo -- Price Target Raised to $128",
+      "url": "https://www.gurufocus.com/news/9006596/vik-maintains-overweight-rating-by-wells-fargo-price-target-raised-to-128",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "WYNN Maintains by Wells Fargo -- Price Target Lowered to $131",
+      "url": "https://www.gurufocus.com/news/9006592/wynn-maintains-by-wells-fargo-price-target-lowered-to-131",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BP Maintained by Wells Fargo -- Price Target Lowered to $48.00",
+      "url": "https://www.gurufocus.com/news/9006746/bp-maintained-by-wells-fargo-price-target-lowered-to-4800",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "FANG Maintained by Wells Fargo -- Price Target Raised to $263",
+      "url": "https://www.gurufocus.com/news/9006741/fang-maintained-by-wells-fargo-price-target-raised-to-263",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MPLX Maintained by Wells Fargo -- Price Target Raised to $63.00",
+      "url": "https://www.gurufocus.com/news/9006748/mplx-maintained-by-wells-fargo-price-target-raised-to-6300",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "WMB Maintained by Wells Fargo -- Price Target Raised to $90.00",
+      "url": "https://www.gurufocus.com/news/9006750/wmb-maintained-by-wells-fargo-price-target-raised-to-9000",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MPC Maintained by Wells Fargo -- Price Target Raised to $359",
+      "url": "https://www.gurufocus.com/news/9006743/mpc-maintained-by-wells-fargo-price-target-raised-to-359",
+      "source": "gurufocus.com",
+      "published": "2026-08-05T15:10:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon Is Seeking To Put Safeguards In Place For AI. He's Launching A Cross-Industry Coalition.",
+      "url": "https://www.ibtimes.com/jpmorgan-ceo-jamie-dimon-seeking-put-safeguards-place-ai-hes-launching-cross-industry-3806098",
+      "source": "ibtimes.com",
+      "published": "2026-08-05T15:03:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Dimon Recruits for AI Threat Prevention Alliance",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-ceo-jamie-dimon-recruits-ai-threat-prevention-alliance/",
+      "source": "pymnts.com",
+      "published": "2026-08-05T15:03:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011927/0000950103-26-011927-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T14:56:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America CEO backs three Fed rate hikes this year, signaling trouble for risk assets",
+      "url": "https://cryptobriefing.com/bofa-ceo-three-fed-rate-hikes-crypto/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-05T14:52:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022925/0001918704-26-022925-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T14:47:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
+      "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
+      "source": "techcrunch.com",
+      "published": "2026-08-05T14:40:13+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+      "url": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+      "source": "cnbc.com",
+      "published": "2026-08-05T14:34:07+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022883/0001918704-26-022883-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085464/0001213900-26-085464-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-05T12:49:13+00:00",
+      "published": "2026-08-05T14:25:03+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citi downgrades Burlington to Neutral with stock near all-time highs",
-      "url": "https://www.investing.com/news/stock-market-news/citi-downgrades-burlington-to-neutral-with-stock-near-alltime-highs-4837630",
-      "source": "investing.com",
-      "published": "2026-08-05T12:47:27+00:00",
+      "title": "CITIGROUP INC: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000083100126000042/0000831001-26-000042-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T14:19:47+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "U.S. Bancorp | BTIG Announces Brayden Mathews as Head of Franchise Sales",
-      "url": "http://www.businesswire.com/news/home/20260805093658/en/U.S.-Bancorp-BTIG-Announces-Brayden-Mathews-as-Head-of-Franchise-Sales/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-08-05T12:30:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (August 2026) | $JPM $NWG $ING $ARCC $CME",
-      "url": "https://seekingalpha.com/article/4930657-5-relatively-secure-and-cheap-dividend-stocks-yields-up-to-8-percent-august-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-08-05T12:24:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Vale's (VALE) Neutral Rating Reiterated at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/vales-vale-neutral-rating-reiterated-at-bank-of-america-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T12:12:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ball (NYSE:BALL) Given Neutral Rating at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/ball-nyseball-given-neutral-rating-at-jpmorgan-chase-co-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T12:06:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Expeditors International of Washington (NASDAQ:EXPD) Upgraded at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/expeditors-international-of-washington-nasdaqexpd-upgraded-at-jpmorgan-chase-co-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T12:06:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Progressive Michigan Win Makes General Election Challenging, Morgan Stanley’s Salvatore Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/progressive-michigan-win-a-midterms-challenge-salvatore-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-05T12:03:20+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038682/0001839882-26-038682-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T14:17:53+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Carvana to Present at Upcoming J.P. Morgan Automotive Conference",
-      "url": "http://www.businesswire.com/news/home/20260805617987/en/Carvana-to-Present-at-Upcoming-J.P.-Morgan-Automotive-Conference/?feedref=JjAwJuNHiystnCoBq_hl-X7qPGUG3_DVKaX5uCz7J4geEeYrSOG7eheB2Nu_OIb5rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3kC6rme1rHQj_hBFi9syH1uzZCGORvG0LE20YOvo49uqw==",
-      "source": "businesswire.com",
-      "published": "2026-08-05T12:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Swift Announces Step Forward in International Money Transfers for Consumers in the US with Bank of America and J.P. Morgan Among First to Go Live",
-      "url": "http://www.businesswire.com/news/home/20260805238192/en/Swift-Announces-Step-Forward-in-International-Money-Transfers-for-Consumers-in-the-US-with-Bank-of-America-and-J.P.-Morgan-Among-First-to-Go-Live/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-08-05T12:00:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011923/0000950103-26-011923-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T11:44:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ADM Upgraded by Morgan Stanley -- Price Target Raised to $79.00",
-      "url": "https://www.gurufocus.com/news/9005612/adm-upgraded-by-morgan-stanley-price-target-raised-to-7900",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T11:07:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PAC Upgraded by Morgan Stanley -- Price Target Raised to $225",
-      "url": "https://www.gurufocus.com/news/9005620/pac-upgraded-by-morgan-stanley-price-target-raised-to-225",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T11:07:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AI expected to deliver gradual benefits and new risks for the insurance sector: Moody’s",
-      "url": "https://www.reinsurancene.ws/ai-expected-to-deliver-gradual-benefits-and-new-risks-for-the-insurance-sector-moodys/",
-      "source": "reinsurancene.ws",
-      "published": "2026-08-05T11:00:27+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "PTC Will Participate in Upcoming Investor Conferences",
-      "url": "https://www.prnewswire.com/news-releases/ptc-will-participate-in-upcoming-investor-conferences-302843123.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-05T11:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon pushes new effort to tackle AI risks across industries",
-      "url": "https://cryptobriefing.com/jpmorgan-dimon-ai-risks-initiative/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-05T10:54:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "USAA and BofA swap patent rights in first two-way deal",
-      "url": "https://www.americanbanker.com/news/usaa-and-bofa-swap-patent-rights-in-first-two-way-deal",
-      "source": "americanbanker.com",
-      "published": "2026-08-05T10:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pacific Excel Wealth Advisors Inc. Takes Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pacific-excel-wealth-advisors-inc-takes-position-in-wells-fargo-company-wfc-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T10:16:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022880/0001918704-26-022880-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T10:13:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "972 Shares in The Goldman Sachs Group, Inc. $GS Bought by Pacific Excel Wealth Advisors Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-972-shares-in-the-goldman-sachs-group-inc-gs-bought-by-pacific-excel-wealth-advisors-inc-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T10:08:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Pacific Excel Wealth Advisors Inc. Buys New Stake in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pacific-excel-wealth-advisors-inc-buys-new-stake-in-state-street-corporation-stt-2026-08-05/",
-      "source": "marketbeat.com",
-      "published": "2026-08-05T10:08:42+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "JP Morgan CEO Jamie Dimon leads new cross-industry effort to tackle AI risks",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jp-morgan-ceo-jamie-dimon-leads-new-cross-industry-effort-to-tackle-ai-risks/articleshow/132914431.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-05T10:07:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022865/0001918704-26-022865-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T10:03:54+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
