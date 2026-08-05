@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-08-04T23:34:37.406274+00:00",
+  "last_updated": "2026-08-05T03:18:12.263301+00:00",
   "headlines": [
+    {
+      "title": "Temasek, Morgan Stanley Are Said to Eye Adtek Pre-IPO Investment",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/temasek-morgan-stanley-are-said-to-eye-adtek-pre-ipo-investment",
+      "source": "bloomberg.com",
+      "published": "2026-08-05T02:27:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo to launch tokenized deposits for business clients",
+      "url": "https://www.wsj.com/finance/banking/wells-fargo-to-roll-out-tokenized-deposits-for-corporate-clients-75c5d2cc#new_tab",
+      "source": "wsj.com",
+      "published": "2026-08-05T00:09:30+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000182545426000026/0001825454-26-000026-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-04T23:34:08+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.4% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-price-up-14-heres-why-2026-08-04/",
+      "source": "marketbeat.com",
+      "published": "2026-08-04T22:40:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "The race to tokenize Wall Street: how JPMorgan, Citi, and Wells Fargo are rebuilding settlement rails",
       "url": "https://crypto.news/tokenize-wall-street-jpmorgan-citi-wells-fargo-settlement/",
@@ -9,6 +47,15 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "$40 has become a robust floor for Nike",
+      "url": "https://www.reddit.com/r/stocks/comments/1vfoxz8/40_has_become_a_robust_floor_for_nike/",
+      "source": "reddit.com",
+      "published": "2026-08-04T22:20:47+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -86,26 +133,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038617/0001839882-26-038617-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-04T20:54:44+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Does anyone know a true bank with over 4% flat rate APY HYSA with no subscriptions",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vfmm1v/does_anyone_know_a_true_bank_with_over_4_flat/",
-      "source": "reddit.com",
-      "published": "2026-08-04T20:50:40+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
