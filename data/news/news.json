@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-08-05T23:08:11.820593+00:00",
+  "last_updated": "2026-08-06T00:53:27.026091+00:00",
   "headlines": [
+    {
+      "title": "divorced couple on same account",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vgokvl/divorced_couple_on_same_account/",
+      "source": "reddit.com",
+      "published": "2026-08-06T00:11:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Tracking down credit card debt",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vgnnh4/tracking_down_credit_card_debt/",
+      "source": "reddit.com",
+      "published": "2026-08-05T23:31:12+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank of America CEO Says The Company Spends $250 Million A Year on GLP-1 Drugs for Their Employees. He Calls It a Good Investment",
+      "url": "https://www.ibtimes.com/bank-america-ceo-says-company-spends-250-million-year-glp-1-drugs-their-employees-he-calls-3806111",
+      "source": "ibtimes.com",
+      "published": "2026-08-05T23:20:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Capital One + AMEX -> Chase - Thinking of getting rid of my American Express platinum and ...",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vglu99/capital_one_amex_chase/",
@@ -28,6 +58,15 @@
       "published": "2026-08-05T22:00:00+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Weekly Ratings Updates for CNH Industrial (CNH)",
+      "url": "https://www.tickerreport.com/banking-finance/13531340/research-analysts-weekly-ratings-updates-for-cnh-industrial-cnh.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-05T21:57:00+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -240,24 +279,6 @@
       "url": "https://www.gurufocus.com/news/9007397/tost-maintains-by-citigroup-price-target-raised-to-39",
       "source": "gurufocus.com",
       "published": "2026-08-05T20:02:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "QLYS Maintained by Morgan Stanley -- Price Target Raised to $130",
-      "url": "https://www.gurufocus.com/news/9007396/qlys-maintained-by-morgan-stanley-price-target-raised-to-130",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:01:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PINS Maintains Rating by Citigroup -- Price Target Raised to $27",
-      "url": "https://www.gurufocus.com/news/9007394/pins-maintains-rating-by-citigroup-price-target-raised-to-27",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:01:24+00:00",
       "tickers": [
         "C"
       ]
