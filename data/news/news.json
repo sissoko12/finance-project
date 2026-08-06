@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-08-06T04:19:28.035669+00:00",
+  "last_updated": "2026-08-06T07:18:49.570865+00:00",
   "headlines": [
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - August 06",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---august-06/image_a5ab37fe-9d0d-5ea3-84d2-50dd307b19c9.html",
+      "source": "newspressnow.com",
+      "published": "2026-08-06T06:02:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
+      "url": "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
+      "source": "cnbc.com",
+      "published": "2026-08-06T05:27:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PB Fintech shares gain 2% after Q1 results. Why Morgan Stanley, Nomura see up to 25% downside",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-gain-2-after-q1-results-why-morgan-stanley-nomura-see-up-to-25-downside/articleshow/132982565.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-06T05:03:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says one market risk could amplify market swings",
+      "url": "https://www.businessinsider.com/jp-morgan-jamie-dimon-leverage-market-risks-kospi-situational-awareness-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-06T05:00:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan’s Jamie Dimon warns high market leverage could trigger quick disruption",
+      "url": "https://seekingalpha.com/news/4627242-jpmorgans-jamie-dimon-warns-high-market-leverage-could-trigger-quick-disruption",
+      "source": "seekingalpha.com",
+      "published": "2026-08-06T04:44:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY Mellon Worldwide Growth Fund Q2 2026 Commentary | $DPWRX $PGROX $PGRCX $DPRIX",
+      "url": "https://seekingalpha.com/article/4931441-bny-mellon-worldwide-growth-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-08-06T04:40:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of America joins Charlotte Hornets for annual Day of Service",
+      "url": "https://www.wccbcharlotte.com/2026/08/06/bank-of-america-joins-charlotte-hornets-for-annual-day-of-service/",
+      "source": "wccbcharlotte.com",
+      "published": "2026-08-06T04:37:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon says the AI spending boom is likely to pay off",
+      "url": "https://www.businessinsider.com/jamie-dimon-data-center-spending-economy-impact-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-06T04:30:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Fired during paternity leave, ex-employee wins nearly Rs 19 crore from Goldman Sachs after tribunal finds he was unfairly treated for caring for his newborn",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fired-during-paternity-leave-ex-employee-wins-nearly-rs-19-crore-from-goldman-sachs-after-tribunal-finds-he-was-unfairly-treated-for-caring-for-his-newborn/articleshow/132981055.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-06T04:12:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "FinReportBench: Measuring and Improving Institution-Grade Financial Report Generation",
+      "url": "https://arxiv.org/abs/2608.04374",
+      "source": "arxiv.org",
+      "published": "2026-08-06T04:00:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
     {
       "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
       "url": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
@@ -18,6 +109,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Goldman Exec Was Linchpin To Ghana Bribery Ploy, Jury Told",
+      "url": "https://www.law360.com/construction/articles/2510220?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-05T23:52:09+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -178,82 +278,6 @@
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526335518/0001193125-26-335518-index.htm",
       "source": "sec.gov",
       "published": "2026-08-05T21:24:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326011961/0000950103-26-011961-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T21:22:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038784/0001839882-26-038784-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T21:09:20+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022995/0001918704-26-022995-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T21:08:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085779/0001213900-26-085779-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T21:08:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Nebius Group (NASDAQ:NBIS) Trading Down 3% After Analyst Downgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13531291/nebius-group-nasdaqnbis-trading-down-3-after-analyst-downgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-05T21:00:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Yen Seen Gaining 6% Against Dollar by End of 2026, Bank of America Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/bank-of-america-sees-yen-jumping-6-by-end-of-2026",
-      "source": "bloomberg.com",
-      "published": "2026-08-05T21:00:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA downgrades Vale stock rating on iron ore weakness, costs",
-      "url": "https://www.hellenicshippingnews.com/bofa-downgrades-vale-stock-rating-on-iron-ore-weakness-costs/",
-      "source": "hellenicshippingnews.com",
-      "published": "2026-08-05T21:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526335362/0001193125-26-335362-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T20:52:58+00:00",
       "tickers": [
         "GS"
       ]
