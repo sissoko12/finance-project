@@ -1,11 +1,40 @@
 {
-  "last_updated": "2026-08-06T00:53:27.026091+00:00",
+  "last_updated": "2026-08-06T04:19:28.035669+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+      "url": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
+      "source": "cnbc.com",
+      "published": "2026-08-06T02:02:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "divorced couple on same account",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vgokvl/divorced_couple_on_same_account/",
       "source": "reddit.com",
       "published": "2026-08-06T00:11:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000195078726000012/0001950787-26-000012-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T23:36:47+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "BofA: Apple is stocking up on chips, buying up its shares",
+      "url": "https://www.ped30.com/2026/08/05/bofa-apple-chips-buybacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bofa-apple-chips-buybacks",
+      "source": "ped30.com",
+      "published": "2026-08-05T23:32:44+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -26,6 +55,26 @@
       "url": "https://www.ibtimes.com/bank-america-ceo-says-company-spends-250-million-year-glp-1-drugs-their-employees-he-calls-3806111",
       "source": "ibtimes.com",
       "published": "2026-08-05T23:20:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Invests $250 Million Annually in GLP-1 Drugs to Boost Employee Health, CEO Reveals",
+      "url": "https://profitconfidential.com/bank-of-america-spends-250-million-a-year-on-glp-1-drugs-for-its-employees-ceo-says/",
+      "source": "profitconfidential.com",
+      "published": "2026-08-05T23:07:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Must Face Some Claims In Military Interest Cap Suit",
+      "url": "https://www.law360.com/banking/articles/2509983?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-05T23:01:08+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -106,6 +155,15 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426022997/0001918704-26-022997-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T21:25:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226038788/0001839882-26-038788-index.htm",
       "source": "sec.gov",
@@ -113,6 +171,15 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526335518/0001193125-26-335518-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T21:24:12+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -132,6 +199,25 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022995/0001918704-26-022995-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T21:08:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085779/0001213900-26-085779-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-05T21:08:38+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -164,123 +250,12 @@
       ]
     },
     {
-      "title": "Bank of America tech executive Liu leaving for competitor, memo says",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-tech-executive-liu-leaving-for-competitor-memo-says-4838997",
-      "source": "investing.com",
-      "published": "2026-08-05T20:44:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026085712/0001213900-26-085712-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526335362/0001193125-26-335362-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-05T20:34:21+00:00",
+      "published": "2026-08-05T20:52:58+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Weekly Analysts’ Ratings Updates for CoStar Group (CSGP)",
-      "url": "https://www.tickerreport.com/banking-finance/13531279/weekly-analysts-ratings-updates-for-costar-group-csgp.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-05T20:26:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SoFi Q2: The One-Stop Shop Held Through A Funding Freeze | $JPM $NU $SOFI",
-      "url": "https://seekingalpha.com/article/4931140-sofi-q2-the-one-stop-shop-held-through-a-funding-freeze",
-      "source": "seekingalpha.com",
-      "published": "2026-08-05T20:22:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426022990/0001918704-26-022990-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-05T20:15:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "LPL: $400 Million Firm WestKai Private Wealth Joins Strategic Wealth Team",
-      "url": "https://pulse2.com/lpl-400-million-firm-westkai-private-wealth-joins-strategic-wealth-team/",
-      "source": "pulse2.com",
-      "published": "2026-08-05T20:14:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One (COF) Stock Looks Below Fair Value Despite A 102% Run",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-cof-stock-looks-201112490.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-05T20:11:12+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "AME Maintained by Citigroup -- Price Target Raised to $261",
-      "url": "https://www.gurufocus.com/news/9007406/ame-maintained-by-citigroup-price-target-raised-to-261",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:04:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AMD Maintained by Morgan Stanley -- Price Target Raised to $465",
-      "url": "https://www.gurufocus.com/news/9007404/amd-maintained-by-morgan-stanley-price-target-raised-to-465",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:04:06+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BKNG Maintained by Citigroup -- Price Target Raised to $236",
-      "url": "https://www.gurufocus.com/news/9007403/bkng-maintained-by-citigroup-price-target-raised-to-236",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:03:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TVTX Maintained by Citigroup -- Price Target Raised to $85",
-      "url": "https://www.gurufocus.com/news/9007401/tvtx-maintained-by-citigroup-price-target-raised-to-85",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:03:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ALAB Maintained by Morgan Stanley -- Price Target Raised to $382",
-      "url": "https://www.gurufocus.com/news/9007399/alab-maintained-by-morgan-stanley-price-target-raised-to-382",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:02:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "TOST Maintains by Citigroup -- Price Target Raised to $39",
-      "url": "https://www.gurufocus.com/news/9007397/tost-maintains-by-citigroup-price-target-raised-to-39",
-      "source": "gurufocus.com",
-      "published": "2026-08-05T20:02:22+00:00",
-      "tickers": [
-        "C"
+        "GS"
       ]
     }
   ]
