@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-08-07T05:45:52.649894+00:00",
+  "last_updated": "2026-08-07T07:26:58.732600+00:00",
   "headlines": [
+    {
+      "title": "Citigroup Inc. (NYSE:C) Receives Consensus Rating of \"Moderate Buy\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-inc-nysec-receives-consensus-rating-of-moderate-buy-from-brokerages-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T06:44:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - August 07",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---august-07/article_9b448fc3-a79a-5e99-b5dc-22abf0cf4969.html",
+      "source": "newspressnow.com",
+      "published": "2026-08-07T06:01:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bajaj Finance Shares Tumble As RBI Draft Looks To Curb NBFC Revolving Credit",
+      "url": "https://www.ndtvprofit.com/markets/bajaj-finance-share-price-falls-rbi-draft-nbfc-revolving-credit-key-level-to-watch-11877631",
+      "source": "ndtvprofit.com",
+      "published": "2026-08-07T05:25:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Trent shares slide 3% after Q1. What Morgan Stanley, four other brokerages recommend",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-slide-3-after-q1-what-morgan-stanley-four-other-brokerages-recommend/articleshow/133021617.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-07T04:45:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BNPL big hitter Klarna announces go live with J.P. Morgan Payments opening its full suite to US merchants",
+      "url": "https://retailtechinnovationhub.com/home/2026/8/bnpl-big-hitter-klarna-goes-live-with-jp-morgan-payments-opening-its-full-suite-to-us-merchants",
+      "source": "retailtechinnovationhub.com",
+      "published": "2026-08-07T04:33:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Goldman Skeptical of Dollar-Dominance Threats After Yen Support",
       "url": "https://www.bloomberg.com/news/articles/2026-08-07/goldman-skeptical-of-dollar-dominance-threats-after-yen-support",
@@ -8,6 +53,15 @@
       "published": "2026-08-07T04:18:57+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "LIC gains 3% after Q1 earnings. Here's what Morgan Stanley and Motilal Oswal recommend",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-gains-3-after-q1-earnings-heres-what-morgan-stanley-and-motilal-oswal-recommend/articleshow/133020828.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-07T04:17:56+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -204,15 +258,6 @@
       "published": "2026-08-06T20:55:18+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Teradata (NYSE:TDC) Price Target Lowered to $36.00 at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13532859/teradata-nysetdc-price-target-lowered-to-36-00-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-06T20:48:47+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
