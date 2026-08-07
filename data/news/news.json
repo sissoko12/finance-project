@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-08-07T08:35:34.460944+00:00",
+  "last_updated": "2026-08-07T10:05:48.200199+00:00",
   "headlines": [
+    {
+      "title": "BNY Mellon Global Fixed Income Fund Q2 2026 Commentary | $DHGAX $SDGIX",
+      "url": "https://seekingalpha.com/article/4932846-bny-mellon-global-fixed-income-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-08-07T09:08:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "BofA Sentiment Gauge Hits Most Extreme Bullish Level Since 2021",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/bofa-sentiment-gauge-hits-most-extreme-bullish-level-since-2021",
+      "source": "bloomberg.com",
+      "published": "2026-08-07T08:19:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Czech National Bank Buys 51,224 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13533237/czech-national-bank-buys-51224-shares-of-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T08:03:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/rbis-draft-curbs-on-revolving-credit-may-impact-nbfc-flexi-loans-morgan-stanley/articleshow/133026154.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-07T07:44:09+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Citigroup Inc. $C Shares Sold by Avior Wealth Management LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-avior-wealth-management-llc-2026-08-07/",
@@ -238,43 +276,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.4% – Here’s What Happened",
-      "url": "https://www.tickerreport.com/banking-finance/13532911/jpmorgan-chase-co-nysejpm-shares-up-1-4-heres-what-happened.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-06T21:40:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo Names Anthony Giuliano Head of Beauty and Wellness",
-      "url": "https://wwd.com/beauty-industry-news/beauty-features/wells-fargo-taps-anthony-giuliano-head-of-beauty-wellness-1239097141/",
-      "source": "wwd.com",
-      "published": "2026-08-06T21:35:44+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086251/0001213900-26-086251-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-06T21:30:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CapV Launches Transactions and IPO Communications Division as IPO Market Accelerates",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/06/3340863/0/en/capv-launches-transactions-and-ipo-communications-division-as-ipo-market-accelerates.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-06T21:27:00+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
