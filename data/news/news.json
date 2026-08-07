@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-07T07:26:58.732600+00:00",
+  "last_updated": "2026-08-07T08:35:34.460944+00:00",
   "headlines": [
+    {
+      "title": "Citigroup Inc. $C Shares Sold by Avior Wealth Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-avior-wealth-management-llc-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T07:29:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CoreCap Advisors LLC Trims Stock Holdings in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-corecap-advisors-llc-trims-stock-holdings-in-the-goldman-sachs-group-inc-gs-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T07:21:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reinstates Smiths Group at Buy, sees 17% upside on portfolio revamp",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-reinstates-smiths-group-at-buy-sees-17-upside-on-portfolio-revamp-4845222",
+      "source": "investing.com",
+      "published": "2026-08-07T07:18:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Citigroup Inc. (NYSE:C) Receives Consensus Rating of \"Moderate Buy\" from Brokerages",
       "url": "https://www.marketbeat.com/instant-alerts/citigroup-inc-nysec-receives-consensus-rating-of-moderate-buy-from-brokerages-2026-08-07/",
@@ -8,6 +35,33 @@
       "published": "2026-08-07T06:44:21+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "lululemon athletica (NASDAQ:LULU) Price Target Raised to $154.00",
+      "url": "https://www.tickerreport.com/banking-finance/13533215/lululemon-athletica-nasdaqlulu-price-target-raised-to-154-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T06:30:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Advanced Energy Industries (NASDAQ:AEIS) Price Target Raised to $439.00",
+      "url": "https://www.tickerreport.com/banking-finance/13533211/advanced-energy-industries-nasdaqaeis-price-target-raised-to-439-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T06:24:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Lithia Motors (NYSE:LAD) Price Target Raised to $340.00",
+      "url": "https://www.tickerreport.com/banking-finance/13533206/lithia-motors-nyselad-price-target-raised-to-340-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T06:06:49+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -140,6 +194,15 @@
       ]
     },
     {
+      "title": "Global Market: China, Hong Kong stocks rise as strong trade data and AI demand lift sentiment",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-strong-trade-data-and-ai-demand-lift-sentiment/articleshow/133024693.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-07T00:57:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Kymera Therapeutics (KYMR) – Analysts’ Recent Ratings Changes",
       "url": "https://www.tickerreport.com/banking-finance/13532971/kymera-therapeutics-kymr-analysts-recent-ratings-changes.html",
       "source": "tickerreport.com",
@@ -212,52 +275,6 @@
       "published": "2026-08-06T21:27:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "PACCAR (PCAR) – Investment Analysts’ Recent Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13532903/paccar-pcar-investment-analysts-recent-ratings-updates.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-06T21:26:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012037/0000950103-26-012037-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-06T21:23:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dec 21, 2025; Charlotte, North Carolina, USA; Tampa Bay Buccaneers quarterback Baker Mayfield (6) warms up before a game against the Carolina Panthers at Bank of America Stadium. Mandatory Credit: Jim Dedmon-Imagn Images",
-      "url": "https://fremonttribune.com/image_72ac4c17-727d-5288-be65-50e76a96e4de.html",
-      "source": "fremonttribune.com",
-      "published": "2026-08-06T21:21:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000083100126000045/0000831001-26-000045-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-06T21:14:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526338362/0001193125-26-338362-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-06T20:55:18+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
