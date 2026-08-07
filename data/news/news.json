@@ -1,281 +1,251 @@
 {
-  "last_updated": "2026-08-06T14:57:22.968356+00:00",
+  "last_updated": "2026-08-07T00:43:23.273785+00:00",
   "headlines": [
     {
-      "title": "Goldman Sachs MarketBeta U.S. Equity ETF (BATS:GSUS) Reaches New 12-Month High – Time to Buy?",
-      "url": "https://www.tickerreport.com/banking-finance/13532522/goldman-sachs-marketbeta-u-s-equity-etf-batsgsus-reaches-new-12-month-high-time-to-buy.html",
+      "title": "Bank of America Investment Banking Co-Head Mike Joo to Exit",
+      "url": "https://financialpost.com/pmn/business-pmn/bank-of-america-investment-banking-co-head-mike-joo-to-exit",
+      "source": "financialpost.com",
+      "published": "2026-08-06T22:21:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America, USAA reach patent licensing agreement",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/08/05/bank-of-america-usaa-patent-cross-license-deal.html?utm_source=newsletter&utm_medium=email&utm_campaign=BizFayetteville.com+Thursday+Update#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-08-06T22:11:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.4% – Here’s What Happened",
+      "url": "https://www.tickerreport.com/banking-finance/13532911/jpmorgan-chase-co-nysejpm-shares-up-1-4-heres-what-happened.html",
       "source": "tickerreport.com",
-      "published": "2026-08-06T14:01:00+00:00",
+      "published": "2026-08-06T21:40:57+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "GSAM lining data center contractor Divcon up for sale, sources say; Broad Sky closes sale of professional services firm Smith + Howard to TPG",
-      "url": "https://www.pehub.com/gsam-lining-data-center-contractor-divcon-up-for-sale-sources-say-broad-sky-closes-sale-of-professional-services-firm-smith-howard-to-tpg/",
-      "source": "pehub.com",
-      "published": "2026-08-06T13:58:45+00:00",
+      "title": "Wells Fargo Names Anthony Giuliano Head of Beauty and Wellness",
+      "url": "https://wwd.com/beauty-industry-news/beauty-features/wells-fargo-taps-anthony-giuliano-head-of-beauty-wellness-1239097141/",
+      "source": "wwd.com",
+      "published": "2026-08-06T21:35:44+00:00",
       "tickers": [
-        "GS"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226038824/0001839882-26-038824-index.htm",
+      "title": "CapV Launches Transactions and IPO Communications Division as IPO Market Accelerates",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/06/3340863/0/en/CapV-Launches-Transactions-and-IPO-Communications-Division-as-IPO-Market-Accelerates.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-06T21:27:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PACCAR (PCAR) – Investment Analysts’ Recent Ratings Updates",
+      "url": "https://www.tickerreport.com/banking-finance/13532903/paccar-pcar-investment-analysts-recent-ratings-updates.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-06T21:26:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012037/0000950103-26-012037-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-06T13:41:30+00:00",
+      "published": "2026-08-06T21:23:06+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "JP Morgan’s Amazon Stock Price Target (AMZN)",
-      "url": "https://watcher.guru/news/jp-morgans-amazon-stock-price-target-amzn",
-      "source": "watcher.guru",
-      "published": "2026-08-06T13:36:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says AI build-out could help unleash 'skunk of the party' for the world economy",
-      "url": "https://finance.yahoo.com/markets/article/jamie-dimon-says-ai-build-out-could-help-unleash-skunk-of-the-party-for-the-world-economy-131707272.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-06T13:17:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Why a $1.5B wirehouse team considered independence but jumped to Merrill",
-      "url": "https://www.americanbanker.com/news/a-1-5b-wirehouse-team-considered-independence-but-jumped-to-merrill",
-      "source": "americanbanker.com",
-      "published": "2026-08-06T13:16:42+00:00",
+      "title": "Dec 21, 2025; Charlotte, North Carolina, USA; Tampa Bay Buccaneers quarterback Baker Mayfield (6) warms up before a game against the Carolina Panthers at Bank of America Stadium. Mandatory Credit: Jim Dedmon-Imagn Images",
+      "url": "https://fremonttribune.com/image_72ac4c17-727d-5288-be65-50e76a96e4de.html",
+      "source": "fremonttribune.com",
+      "published": "2026-08-06T21:21:42+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs raises EPS estimates for Figure amid record loan origination",
-      "url": "https://cryptobriefing.com/goldman-sachs-raises-figure-eps-estimates/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-06T13:11:32+00:00",
+      "title": "CITIGROUP INC: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000083100126000045/0000831001-26-000045-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-06T21:14:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526338362/0001193125-26-338362-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-06T20:55:18+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Montrose Environmental Group (NYSE:ONT) Downgraded to \"Underperform\" Rating by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/montrose-environmental-group-nyseont-downgraded-to-underperform-rating-by-bank-of-america-2026-08-06/",
-      "source": "marketbeat.com",
-      "published": "2026-08-06T13:06:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Private Markets Have Outgrown Their Plumbing — BNY Has A Solution",
-      "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/08/06/private-markets-have-outgrown-their-plumbing---bny-has-a-solution/",
-      "source": "forbes.com",
-      "published": "2026-08-06T13:00:57+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "J.P. Morgan cuts Technip Energies on delayed margin recovery outlook",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-cuts-technip-energies-on-delayed-margin-recovery-outlook-4842293",
-      "source": "investing.com",
-      "published": "2026-08-06T12:54:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan's Dimon Is Warning About Leverage In The Market After Collapse Of Situational Awareness",
-      "url": "https://www.ibtimes.com/jpmorgans-dimon-warning-about-leverage-market-after-collapse-situational-awareness-3806132",
-      "source": "ibtimes.com",
-      "published": "2026-08-06T12:53:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "HSBC (NYSE:HSBC) Stock Rating Lowered by Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13532405/hsbc-nysehsbc-stock-rating-lowered-by-citigroup.html",
+      "title": "Teradata (NYSE:TDC) Price Target Lowered to $36.00 at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13532859/teradata-nysetdc-price-target-lowered-to-36-00-at-citigroup.html",
       "source": "tickerreport.com",
-      "published": "2026-08-06T12:32:44+00:00",
+      "published": "2026-08-06T20:48:47+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "J.P. Morgan Payments Commerce Platform Embeds Klarna for Instant Merchant Access",
-      "url": "https://www.pymnts.com/bnpl/2026/j-p-morgan-payments-commerce-platform-embeds-klarna-for-instant-merchant-access/",
-      "source": "pymnts.com",
-      "published": "2026-08-06T12:30:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Klarna Goes Live With J.P. Morgan Payments, Opening Flexible Checkout to U.S. Merchants",
-      "url": "http://www.businesswire.com/news/home/20260806313665/en/Klarna-Goes-Live-With-J.P.-Morgan-Payments-Opening-Flexible-Checkout-to-U.S.-Merchants/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-08-06T12:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi says buy the pullback in memory stocks as upcycle is still in early innings",
-      "url": "https://www.investing.com/news/stock-market-news/citi-says-buy-the-pullback-in-memory-stocks-as-upcycle-is-still-in-early-innings-4841932",
-      "source": "investing.com",
-      "published": "2026-08-06T12:19:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AppLovin (NASDAQ:APP) Price Target Lowered to $430.00 at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/applovin-nasdaqapp-price-target-lowered-to-43000-at-bank-of-america-2026-08-06/",
-      "source": "marketbeat.com",
-      "published": "2026-08-06T12:18:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group (NYSE:GS) Rating Increased to Strong-Buy at HSBC",
-      "url": "https://www.marketbeat.com/instant-alerts/the-goldman-sachs-group-nysegs-rating-increased-to-strong-buy-at-hsbc-2026-08-06/",
-      "source": "marketbeat.com",
-      "published": "2026-08-06T12:12:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Louisiana-Pacific (NYSE:LPX) Stock Price Expected to Rise, The Goldman Sachs Group Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/louisiana-pacific-nyselpx-stock-price-expected-to-rise-the-goldman-sachs-group-analyst-says-2026-08-06/",
-      "source": "marketbeat.com",
-      "published": "2026-08-06T12:12:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Smith & Nephew SNATS's (SNN) \"Neutral\" Rating Reaffirmed at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/smith-nephew-snatss-snn-neutral-rating-reaffirmed-at-jpmorgan-chase-co-2026-08-06/",
-      "source": "marketbeat.com",
-      "published": "2026-08-06T12:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Freshpet’s (FRPT) “Equal Weight” Rating Reaffirmed at Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13532342/freshpets-frpt-equal-weight-rating-reaffirmed-at-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-06T12:08:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Tech Stocks Propel Markets to Record Highs",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-06/tech-stocks-propel-markets-to-record-highs-video",
+      "title": "Jamie Dimon Talks Leadership With Nike Bosses at Company Retreat",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/jamie-dimon-talks-leadership-with-nike-bosses-at-company-retreat",
       "source": "bloomberg.com",
-      "published": "2026-08-06T12:03:38+00:00",
+      "published": "2026-08-06T20:43:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426023091/0001918704-26-023091-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-06T20:40:19+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorganChase Files Form 10-Q for the Quarter Ended June 30, 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorganchase-files-form-10-q-202800463.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-06T20:28:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Recent Analysts’ Ratings Changes for Rolls-Royce Holdings plc (RR)",
+      "url": "https://www.tickerreport.com/banking-finance/13532844/recent-analysts-ratings-changes-for-rolls-royce-holdings-plc-rr.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-06T20:26:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/0001628280-26-054343-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-06T20:19:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "VanEck J.P. Morgan EM Local Currency Bond ETF (EMLC US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/emlc_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:15:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street Utilities Select Sector SPDR ETF (XLU US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xlu_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:58+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Goldman Sachs Backs SanDisk, While Mizuho Lowers Price Target After Earnings",
-      "url": "https://watcher.guru/news/goldman-sachs-backs-sandisk-while-mizuho-lowers-price-target-after-earnings",
-      "source": "watcher.guru",
-      "published": "2026-08-06T12:02:00+00:00",
+      "title": "State Street US Sector Rotation ETF (XLSR US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xlsr_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:55+00:00",
       "tickers": [
-        "GS"
+        "STT"
       ]
     },
     {
-      "title": "BofA: Apple App Store downloads fell 4% Y/Y in July",
-      "url": "https://www.ped30.com/2026/08/06/apple-bofa-apps-july/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-bofa-apps-july",
-      "source": "ped30.com",
-      "published": "2026-08-06T12:00:04+00:00",
+      "title": "State Street US Equity Premium Income ETF (SPIN US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/spin_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:52+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Omilia Secures $67 Million in Series B Funding to Accelerate Global Expansion of Its Agentic Self-Learning CX Platform for Large Enterprises",
-      "url": "https://finance.yahoo.com/technology/ai/articles/omilia-secures-67-million-series-120000490.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-06T12:00:00+00:00",
+      "title": "State Street Ultra Short Term Bond ETF (ULST US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/ulst_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:50+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "STT"
       ]
     },
     {
-      "title": "Schwab: I'm Buying Up The Common And Passing On The Preferreds | $SCHW",
-      "url": "https://seekingalpha.com/article/4930034-schwab-im-buying-up-the-common-and-passing-on-the-preferreds",
-      "source": "seekingalpha.com",
-      "published": "2026-08-06T12:00:00+00:00",
+      "title": "State Street Technology Select Sector SPDR ETF (XLK US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xlk_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:48+00:00",
       "tickers": [
-        "C",
-        "SCHW"
+        "STT"
       ]
     },
     {
-      "title": "Deutsche Bank, Bank of America delayed flagging $420M in Epstein-linked transactions, Senator’s report says",
-      "url": "https://www.complianceweek.com/banking/deutsche-bank-bank-of-america-delayed-flagging-420m-in-epstein-linked-transactions-senators-report-says/",
-      "source": "complianceweek.com",
-      "published": "2026-08-06T11:59:20+00:00",
+      "title": "State Street SPDR US Large Cap Low Volatility Index ETF (LGLV US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/lglv_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:44+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Emerging Currencies Hold Near Record High as Carry Trades Revive",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/emerging-currencies-hold-near-record-115515062.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-06T11:55:15+00:00",
+      "title": "State Street SPDR S&P Transportation ETF (XTN US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xtn_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:41+00:00",
       "tickers": [
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Where Will Rocket Lab Stock Be in 5 Years?",
-      "url": "https://www.fool.com/investing/2026/08/06/where-will-rocketlab-stock-be-in-5-years/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-06T11:30:00+00:00",
+      "title": "State Street SPDR S&P Telecom ETF (XTL US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xtl_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:38+00:00",
       "tickers": [
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Jamie Dimon warned that market leverage is at record highs and could trigger disruption",
-      "url": "https://qz.com/jamie-dimon-market-leverage-margin-debt-record-080626",
-      "source": "qz.com",
-      "published": "2026-08-06T11:20:42+00:00",
+      "title": "State Street SPDR S&P Software & Services ETF (XSW US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xsw_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:36+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "Jamie Dimon backs Fed Chairman Warsh’s new communication strategy, and crypto markets should pay attention",
-      "url": "https://cryptobriefing.com/dimon-backs-warsh-fed-communication-crypto/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-06T11:16:15+00:00",
+      "title": "State Street SPDR S&P Semiconductor ETF (XSD US) – Investment Proposition",
+      "url": "https://www.etfstrategy.com/xsd_us-investment-proposition/",
+      "source": "etfstrategy.com",
+      "published": "2026-08-06T20:13:34+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     }
   ]
