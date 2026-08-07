@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-08-07T18:25:14.564436+00:00",
+  "last_updated": "2026-08-07T19:32:32.968619+00:00",
   "headlines": [
+    {
+      "title": "First Solar (FSLR) Stock Soars 8% on Trump’s Chinese Polysilicon Tariff Announcement",
+      "url": "https://blockonomi.com/first-solar-fslr-stock-soars-8-on-trumps-chinese-polysilicon-tariff-announcement/",
+      "source": "blockonomi.com",
+      "published": "2026-08-07T18:03:44+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Micron (MU) Stock Drops Following Citi’s Price Target Reduction Amid Memory Market Concerns",
+      "url": "https://blockonomi.com/micron-mu-stock-drops-following-citis-price-target-reduction-amid-memory-market-concerns/",
+      "source": "blockonomi.com",
+      "published": "2026-08-07T18:02:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226039107/0001839882-26-039107-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T17:48:09+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226039106/0001839882-26-039106-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T17:46:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Analysts’ Updated EPS Estimates for August 7th (AAOI, ADIG, AIP, BOWL, BUR, CLSK, CMRC, COLL, DDOG, DFTX)",
+      "url": "https://www.tickerreport.com/banking-finance/13534275/analysts-updated-eps-estimates-for-august-7th-aaoi-adig-aip-bowl-bur-clsk-cmrc-coll-ddog-dftx.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T17:44:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "ESTA Maintained by JP Morgan -- Price Target Raised to $95",
       "url": "https://www.gurufocus.com/news/9017713/esta-maintained-by-jp-morgan-price-target-raised-to-95",
@@ -210,15 +256,6 @@
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226039102/0001839882-26-039102-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T17:16:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
       "title": "BNY Mellon boosts stake in Strategy, now holds roughly 1 million shares worth $187M",
       "url": "https://cryptobriefing.com/bny-mellon-strategy-mstr-shares-bitcoin/",
       "source": "cryptobriefing.com",
@@ -228,48 +265,13 @@
       ]
     },
     {
-      "title": "Victory Capital (NASDAQ:VCTR) Price Target Raised to $101.00",
-      "url": "https://www.marketbeat.com/instant-alerts/victory-capital-nasdaqvctr-price-target-raised-to-10100-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T17:00:36+00:00",
+      "title": "Need some advices for me and family financial plan",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vi6grq/need_some_advices_for_me_and_family_financial_plan/",
+      "source": "reddit.com",
+      "published": "2026-08-07T17:08:06+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for TG Therapeutics (NASDAQ:TGTX) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-tg-therapeutics-nasdaqtgtx-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T17:00:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Target (NYSE:TGT) Given New $157.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/target-nysetgt-given-new-15700-price-target-at-jpmorgan-chase-co-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T17:00:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Sotera Health (NASDAQ:SHC) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-sotera-health-nasdaqshc-stock-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T17:00:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Savers Value Village (NYSE:SVV) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/savers-value-village-nysesvv-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T17:00:28+00:00",
-      "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     }
   ]
