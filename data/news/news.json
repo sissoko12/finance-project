@@ -1,6 +1,190 @@
 {
-  "last_updated": "2026-08-07T15:00:46.439427+00:00",
+  "last_updated": "2026-08-07T16:25:48.091286+00:00",
   "headlines": [
+    {
+      "title": "Banco De Chile (NYSE:BCH) Price Target Raised to $45.00",
+      "url": "https://www.tickerreport.com/banking-finance/13534186/banco-de-chile-nysebch-price-target-raised-to-45-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T15:54:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cencora (NYSE:COR) Price Target Raised to $390.00 at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13534185/cencora-nysecor-price-target-raised-to-390-00-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T15:54:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley hires BofA’s Kweskin to cover diversified industries",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-hires-bofas-kweskin-to-cover-diversified-industries-4847107",
+      "source": "investing.com",
+      "published": "2026-08-07T15:30:34+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Roche upgraded at Morgan Stanley on growth, pipeline upside",
+      "url": "https://seekingalpha.com/news/4629273-roche-upgraded-morgan-stanley-growth-pipeline-upside",
+      "source": "seekingalpha.com",
+      "published": "2026-08-07T15:30:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "RKT Maintained by Wells Fargo -- Price Target Lowered to $15.00",
+      "url": "https://www.gurufocus.com/news/9017415/rkt-maintained-by-wells-fargo-price-target-lowered-to-1500",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:21:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "TRGP Maintained by Wells Fargo -- Price Target Raised to $282",
+      "url": "https://www.gurufocus.com/news/9017411/trgp-maintained-by-wells-fargo-price-target-raised-to-282",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:19:36+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "FSLR Maintains Overweight Rating by Wells Fargo -- Price Target Raised to $313",
+      "url": "https://www.gurufocus.com/news/9017409/fslr-maintains-overweight-rating-by-wells-fargo-price-target-raised-to-313",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:18:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "OXY Maintained by Wells Fargo -- Price Target Raised to $79.00",
+      "url": "https://www.gurufocus.com/news/9017407/oxy-maintained-by-wells-fargo-price-target-raised-to-7900",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:17:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "COP Maintained by Wells Fargo -- Price Target Raised to $189",
+      "url": "https://www.gurufocus.com/news/9017404/cop-maintained-by-wells-fargo-price-target-raised-to-189",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:16:04+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SG Maintains Rating by Wells Fargo -- Price Target Lowered to $6.00",
+      "url": "https://www.gurufocus.com/news/9017385/sg-maintains-rating-by-wells-fargo-price-target-lowered-to-600",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:08:05+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America is splashing out $250 million a year on weight loss drugs for its staff: ‘We see a great impact on employees,’ CEO says",
+      "url": "https://fortune.com/2026/08/07/bank-of-america-splashing-out-250-million-a-year-on-weight-loss-drugs-for-staff-great-impact-ceo-says/",
+      "source": "fortune.com",
+      "published": "2026-08-07T15:06:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America’s bull and bear indicator is screaming sell",
+      "url": "https://financialpost.com/investing/bofa-indicator-hits-most-bullish-since-2021",
+      "source": "financialpost.com",
+      "published": "2026-08-07T15:04:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "USFD Maintained by Wells Fargo -- Price Target Raised to $125",
+      "url": "https://www.gurufocus.com/news/9017377/usfd-maintained-by-wells-fargo-price-target-raised-to-125",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T15:04:13+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "TXRH Maintained by Wells Fargo -- Price Target Raised to $230",
+      "url": "https://www.gurufocus.com/news/9017333/txrh-maintained-by-wells-fargo-price-target-raised-to-230",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T14:56:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "VAC Maintained by Wells Fargo -- Price Target Raised to $101.00",
+      "url": "https://www.gurufocus.com/news/9017324/vac-maintained-by-wells-fargo-price-target-raised-to-10100",
+      "source": "gurufocus.com",
+      "published": "2026-08-07T14:53:31+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Datadog in the spotlight as Citi says buy the dip",
+      "url": "https://seekingalpha.com/news/4629260-datadog-in-the-spotlight-as-citi-says-buy-the-dip",
+      "source": "seekingalpha.com",
+      "published": "2026-08-07T14:49:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226039038/0001839882-26-039038-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T14:49:08+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Rep. Robert Garcia demands Goldman Sachs cut ties with Kathryn Ruemmler over Epstein testimony",
+      "url": "https://nypost.com/2026/08/07/business/top-house-democrat-demands-goldman-sachs-cut-ties-with-ex-legal-chief-kathryn-ruemmler-over-epstein-testimony/",
+      "source": "nypost.com",
+      "published": "2026-08-07T14:40:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "A Big Win in Few Words: What to Glean from the Climate United Fund Decision",
+      "url": "https://blogs.law.columbia.edu/climatechange/2026/08/07/a-big-win-in-few-words-what-to-glean-from-the-climate-united-fund-decision/",
+      "source": "columbia.edu",
+      "published": "2026-08-07T14:39:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086462/0001213900-26-086462-index.htm",
@@ -11,261 +195,12 @@
       ]
     },
     {
-      "title": "Citi turns bearish on JetBlue as leisure carriers face RASM headwinds",
-      "url": "https://seekingalpha.com/news/4629111-citi-turns-bearish-on-jetblue-as-leisure-carriers-face-rasm-headwinds",
-      "source": "seekingalpha.com",
-      "published": "2026-08-07T13:52:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for Cognex (NASDAQ:CGNX) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-cognex-nasdaqcgnx-stock-2026-08-07/",
+      "title": "JPMorgan Chase & Co. Initiates Coverage on Resideo Technologies (NYSE:REZI)",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-initiates-coverage-on-resideo-technologies-nyserezi-2026-08-07/",
       "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:47+00:00",
+      "published": "2026-08-07T14:06:30+00:00",
       "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Climb Bio (NASDAQ:CLYM) Price Target Raised to $25.00",
-      "url": "https://www.marketbeat.com/instant-alerts/climb-bio-nasdaqclym-price-target-raised-to-2500-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for CG Oncology (NASDAQ:CGON) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-cg-oncology-nasdaqcgon-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Five9 (NASDAQ:FIVN) Price Target Raised to $35.00",
-      "url": "https://www.marketbeat.com/instant-alerts/five9-nasdaqfivn-price-target-raised-to-3500-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:45+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Microchip Technology (NASDAQ:MCHP) Given New $90.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/microchip-technology-nasdaqmchp-given-new-9000-price-target-at-truist-financial-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:43+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Frontdoor (NASDAQ:FTDR) Price Target Raised to $105.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/frontdoor-nasdaqftdr-price-target-raised-to-10500-at-truist-financial-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:43+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Organogenesis (NASDAQ:ORGO) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-organogenesis-nasdaqorgo-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:41+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "MidCap Financial Investment (NASDAQ:MFIC) Price Target Lowered to $12.00 at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/midcap-financial-investment-nasdaqmfic-price-target-lowered-to-1200-at-truist-financial-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:41+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Viridian Therapeutics (NASDAQ:VRDN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-viridian-therapeutics-nasdaqvrdn-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:39+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Zymeworks (NASDAQ:ZYME) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/zymeworks-nasdaqzyme-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Avient (NYSE:AVNT) Given New $50.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/avient-nyseavnt-given-new-5000-price-target-at-truist-financial-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "DaVita (NYSE:DVA) Price Target Cut to $215.00 by Analysts at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/davita-nysedva-price-target-cut-to-21500-by-analysts-at-truist-financial-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Encompass Health (NYSE:EHC) Price Target Raised to $150.00",
-      "url": "https://www.marketbeat.com/instant-alerts/encompass-health-nyseehc-price-target-raised-to-15000-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Lowers EPAM Systems (NYSE:EPAM) Price Target to $110.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-epam-systems-nyseepam-price-target-to-11000-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "FS KKR Capital (NYSE:FSK) Price Target Raised to $12.00",
-      "url": "https://www.marketbeat.com/instant-alerts/fs-kkr-capital-nysefsk-price-target-raised-to-1200-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:34+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Hagerty (NYSE:HGTY) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/hagerty-nysehgty-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "James Hardie Industries (NYSE:JHX) Price Target Raised to $40.00",
-      "url": "https://www.marketbeat.com/instant-alerts/james-hardie-industries-nysejhx-price-target-raised-to-4000-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Raises Eli Lilly and Company (NYSE:LLY) Price Target to $1,376.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-raises-eli-lilly-and-company-nyselly-price-target-to-137600-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:32+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Motorola Solutions (NYSE:MSI) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/motorola-solutions-nysemsi-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Cloudflare (NYSE:NET) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-cloudflare-nysenet-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Cuts RXO (NYSE:RXO) Price Target to $28.00",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-cuts-rxo-nyserxo-price-target-to-2800-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Parker-Hannifin (NYSE:PH) Given New $1,358.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/parker-hannifin-nyseph-given-new-135800-price-target-at-truist-financial-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Somnigroup International (NYSE:SGI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-has-lowered-expectations-for-somnigroup-international-nysesgi-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T13:36:24+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Goldman Sachs BDC 2026 Q2 - Results - Earnings Call Presentation | $GSBD",
-      "url": "https://seekingalpha.com/article/4933080-goldman-sachs-bdc-2026-q2-results-earnings-call-presentation",
-      "source": "seekingalpha.com",
-      "published": "2026-08-07T13:32:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA says administration unlikely to let tighter financial conditions derail bull market",
-      "url": "https://seekingalpha.com/news/4629168-bofa-says-administration-unlikely-to-let-tighter-financial-conditions-derail-bull-market",
-      "source": "seekingalpha.com",
-      "published": "2026-08-07T13:32:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     }
   ]
