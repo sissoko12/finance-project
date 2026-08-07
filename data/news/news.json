@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-08-07T11:24:23.033104+00:00",
+  "last_updated": "2026-08-07T12:11:20.163722+00:00",
   "headlines": [
+    {
+      "title": "Wells Fargo downgrades Gap stock rating on Old Navy concerns",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-downgrades-gap-stock-rating-on-old-navy-concerns-93CH-4845941",
+      "source": "investing.com",
+      "published": "2026-08-07T11:14:53+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo downgrades Allstate stock rating on slowing growth",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-downgrades-allstate-stock-rating-on-slowing-growth-93CH-4845938",
+      "source": "investing.com",
+      "published": "2026-08-07T11:14:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wilsey Asset Management Inc. Boosts Stake in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wilsey-asset-management-inc-boosts-stake-in-jpmorgan-chase-co-jpm-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T11:04:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ALIRT research finds US life insurers continue expanding Bermuda reinsurance activity",
+      "url": "https://www.reinsurancene.ws/alirt-research-finds-us-life-insurers-continue-expanding-bermuda-reinsurance-activity/",
+      "source": "reinsurancene.ws",
+      "published": "2026-08-07T11:00:03+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Morgan Stanley turns positive on Roche as pipeline momentum builds",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-turns-positive-on-roche-as-pipeline-momentum-builds-4845794",
+      "source": "investing.com",
+      "published": "2026-08-07T10:42:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Bank of America Corporation $BAC Shares Sold by Matthew Goff Investment Advisor LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-sold-by-matthew-goff-investment-advisor-llc-2026-08-07/",
@@ -9,6 +56,34 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "OpenAI’s new device is reportedly a $300 portable donut that watches you",
+      "url": "https://fortune.com/2026/08/07/openai-device-300-dollar-donut/",
+      "source": "fortune.com",
+      "published": "2026-08-07T10:27:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PensionDanmark Pensionsforsikringsaktieselskab Increases Stock Position in Capital One Financial Corporation $COF",
+      "url": "https://www.tickerreport.com/banking-finance/13533670/pensiondanmark-pensionsforsikringsaktieselskab-increases-stock-position-in-capital-one-financial-corporation-cof.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T10:25:21+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp $USB Shares Acquired by PensionDanmark Pensionsforsikringsaktieselskab",
+      "url": "https://www.tickerreport.com/banking-finance/13533664/u-s-bancorp-usb-shares-acquired-by-pensiondanmark-pensionsforsikringsaktieselskab.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T10:25:14+00:00",
+      "tickers": [
+        "USB"
       ]
     },
     {
@@ -202,78 +277,6 @@
       "url": "https://www.tickerreport.com/banking-finance/13533211/advanced-energy-industries-nasdaqaeis-price-target-raised-to-439-00.html",
       "source": "tickerreport.com",
       "published": "2026-08-07T06:24:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Lithia Motors (NYSE:LAD) Price Target Raised to $340.00",
-      "url": "https://www.tickerreport.com/banking-finance/13533206/lithia-motors-nyselad-price-target-raised-to-340-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-07T06:06:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - August 07",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---august-07/article_9b448fc3-a79a-5e99-b5dc-22abf0cf4969.html",
-      "source": "newspressnow.com",
-      "published": "2026-08-07T06:01:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bajaj Finance Shares Tumble As RBI Draft Looks To Curb NBFC Revolving Credit",
-      "url": "https://www.ndtvprofit.com/markets/bajaj-finance-share-price-falls-rbi-draft-nbfc-revolving-credit-key-level-to-watch-11877631",
-      "source": "ndtvprofit.com",
-      "published": "2026-08-07T05:25:55+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Trent shares slide 3% after Q1. What Morgan Stanley, four other brokerages recommend",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-slide-3-after-q1-what-morgan-stanley-four-other-brokerages-recommend/articleshow/133021617.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-07T04:45:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Yen Surrenders Nearly Half Its Gains From US-Japan Intervention - Bloomberg.com",
-      "url": "https://news.google.com/atom/articles/CBMitAFBVV95cUxNYlJydERna0xiMTZxMXh2Ui1FcmNmQzVLX1A3ZlF4TVJFQXhpcm5JMkJ4Y2htX0hSM2NBVFg1aF91ZVZuUlY5T2lnb25PYTM0NDhza3V3ZXpDNDhiUmZha2U1dkVRTDVsekRiM3hYYVZ0RmM3MFB2N3I3V2JucUtGYWRJZVRMY0ttZThPZTRQLXdmZWpaalVRM005d0V1WjdEZjlCUXVieENWVFFCdFB5UlhQbmY?oc=5",
-      "source": "google.com",
-      "published": "2026-08-07T04:43:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BNPL big hitter Klarna announces go live with J.P. Morgan Payments opening its full suite to US merchants",
-      "url": "https://retailtechinnovationhub.com/home/2026/8/bnpl-big-hitter-klarna-goes-live-with-jp-morgan-payments-opening-its-full-suite-to-us-merchants",
-      "source": "retailtechinnovationhub.com",
-      "published": "2026-08-07T04:33:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Skeptical of Dollar-Dominance Threats After Yen Support",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/goldman-skeptical-of-dollar-dominance-threats-after-yen-support",
-      "source": "bloomberg.com",
-      "published": "2026-08-07T04:18:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "LIC gains 3% after Q1 earnings. Here's what Morgan Stanley and Motilal Oswal recommend",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-gains-3-after-q1-earnings-heres-what-morgan-stanley-and-motilal-oswal-recommend/articleshow/133020828.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-07T04:17:56+00:00",
       "tickers": [
         "MS"
       ]
