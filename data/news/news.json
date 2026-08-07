@@ -1,9 +1,120 @@
 {
-  "last_updated": "2026-08-07T20:49:44.210950+00:00",
+  "last_updated": "2026-08-07T21:46:49.911595+00:00",
   "headlines": [
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086808/0001213900-26-086808-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T21:20:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086795/0001213900-26-086795-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T21:13:19+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/07/stock-market-today-aug-7-palantir-surges-on-bank-of-america-upbeat-view-after-strong-earnings/?.tsrc=rss",
+      "source": "fool.com",
+      "published": "2026-08-07T21:05:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Dec 13, 2024; Philadelphia, Pennsylvania, USA; Indiana Pacers guard Tyrese Haliburton (0) controls the ball against Philadelphia 76ers guard Kelly Oubre Jr. (9) during the first quarter at Wells Fargo Center. Mandatory Credit: Bill Streicher-Imagn Images",
+      "url": "https://greensboro.com/sports/professional/nba/image_252c3fb5-8f9e-5280-acc0-7cab1850bce1.html",
+      "source": "greensboro.com",
+      "published": "2026-08-07T20:49:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Starbucks is ending GLP-1 coverage for weight loss as employer costs climb",
+      "url": "https://www.businessinsider.com/starbucks-cuts-glp-1-coverage-weight-loss-costs-climb-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-07T20:41:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Celsius (NASDAQ:CELH) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-celsius-nasdaqcelh-stock-price-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:30:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Structure Therapeutics (NASDAQ:GPCR) Price Target to $97.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-structure-therapeutics-nasdaqgpcr-price-target-to-9700-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:30:23+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Parker-Hannifin (NYSE:PH) Price Target Raised to $1,232.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/parker-hannifin-nyseph-price-target-raised-to-123200-at-citigroup-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:30:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Owens Corning (NYSE:OC) Given New $177.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/owens-corning-nyseoc-given-new-17700-price-target-at-citigroup-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:30:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Revamps Micron Target Target With A Twist",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-revamps-micron-target-target-201643714.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-07T20:16:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts RXO (NYSE:RXO) Price Target to $23.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-cuts-rxo-nyserxo-price-target-to-2300-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:12:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Microchip Technology (NASDAQ:MCHP) Price Target Lowered to $95.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/microchip-technology-nasdaqmchp-price-target-lowered-to-9500-at-citigroup-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:12:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "The Twelfth Annual iHeartMedia New York’s Z100 Summer Bash Presented by Wells Fargo Celebrated Summer with a Free Concert at Hudson Yards on August 6",
-      "url": "http://www.businesswire.com/news/home/20260807045232/en/The-Twelfth-Annual-iHeartMedia-New-York%E2%80%99s-Z100-Summer-Bash-Presented-by-Wells-Fargo-Celebrated-Summer-with-a-Free-Concert-at-Hudson-Yards-on-August-6/?feedref=JjAwJuNHiystnCoBq_hl-eOMSkG5BUJtt9PvMcxwMdoEGx6wrad0gZn0Xenp8D1K7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LP6oD-t3eB0qV-nJQ-WeFyCnYc9_0HvT-DtwbnFds6omQ==",
+      "url": "http://www.businesswire.com/news/home/20260807045232/en/The-Twelfth-Annual-iHeartMedia-New-York%E2%80%99s-Z100-Summer-Bash-Presented-by-Wells-Fargo-Celebrated-Summer-with-a-Free-Concert-at-Hudson-Yards-on-August-6/?feedref=JjAwJuNHiystnCoBq_hl-d2-_-DMJyMm3uYmtOy2XFwcvlLbwpKQTgkxGMXSeZO97dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSxJ0LM3ryl-yrNKrvMa0Wtg==",
       "source": "businesswire.com",
       "published": "2026-08-07T20:10:00+00:00",
       "tickers": [
@@ -41,6 +152,52 @@
       ]
     },
     {
+      "title": "Citigroup Lowers Micron Technology (NASDAQ:MU) Price Target to $1,150.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-lowers-micron-technology-nasdaqmu-price-target-to-115000-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T20:00:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Datadog (NASDAQ:DDOG) Price Target Raised to $305.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/datadog-nasdaqddog-price-target-raised-to-30500-at-citigroup-2026-08-07/",
+      "source": "marketbeat.com",
+      "published": "2026-08-07T19:54:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Micron Stock Falls After Citi Slashes Price Target on Memory Risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-falls-citi-slashes-195133579.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-07T19:51:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "‘Z100 Summer Bash’ Draws Record 10,000 Fans.",
+      "url": "https://www.insideradio.com/free/z100-summer-bash-draws-record-10-000-fans/article_52d1b865-991b-4414-b35f-73b2237f08eb.html",
+      "source": "insideradio.com",
+      "published": "2026-08-07T19:45:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086607/0001213900-26-086607-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T19:40:08+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Baker Hughes tapped as Top Pick in energy services and equipment at Morgan Stanley",
       "url": "https://seekingalpha.com/news/4629518-baker-hughes-tapped-as-top-pick-in-energy-services-and-equipment-at-morgan-stanley",
       "source": "seekingalpha.com",
@@ -59,220 +216,31 @@
       ]
     },
     {
-      "title": "Investment Analysts’ Price Target Changes for August 7th (ABG, AD.UN, ADEN, AEVA, AIF, AKAM, ATS, BCE, BMBL, BMRN)",
-      "url": "https://www.tickerreport.com/banking-finance/13534376/investment-analysts-price-target-changes-for-august-7th-abg-ad-un-aden-aeva-aif-akam-ats-bce-bmbl-bmrn.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-07T19:14:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Boosts Celldex Therapeutics (NASDAQ:CLDX) Price Target to $46.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-boosts-celldex-therapeutics-nasdaqcldx-price-target-to-4600-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T19:12:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for BioMarin Pharmaceutical (NASDAQ:BMRN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-biomarin-pharmaceutical-nasdaqbmrn-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T19:12:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-      "source": "bloomberg.com",
-      "published": "2026-08-07T19:03:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Asbury Automotive Group (NYSE:ABG) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/asbury-automotive-group-nyseabg-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Murphy USA (NYSE:MUSA) Given New $633.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/murphy-usa-nysemusa-given-new-63300-price-target-at-jpmorgan-chase-co-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Zoetis (NYSE:ZTS) Price Target to $115.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-zoetis-nysezts-price-target-to-11500-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Rocket Companies (NYSE:RKT) Given New $14.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/rocket-companies-nyserkt-given-new-1400-price-target-at-jpmorgan-chase-co-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Raises Aeva Technologies (NASDAQ:AEVA) Price Target to $27.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-raises-aeva-technologies-nasdaqaeva-price-target-to-2700-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Open Text (NASDAQ:OTEX) Given New $28.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/open-text-nasdaqotex-given-new-2800-price-target-at-citigroup-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:23+00:00",
+      "title": "Micron Stock Slips as Citi Cuts Target by $250",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-slips-citi-cuts-193230636.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-07T19:32:30+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Monte Rosa Therapeutics (NASDAQ:GLUE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-monte-rosa-therapeutics-nasdaqglue-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:23+00:00",
+      "title": "Roche Stock Jumps as Morgan Stanley Sees Drug Breakout",
+      "url": "https://finance.yahoo.com/healthcare/articles/roche-stock-jumps-morgan-stanley-193033041.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-07T19:30:33+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "TripAdvisor (NASDAQ:TRIP) Given New $10.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/tripadvisor-nasdaqtrip-given-new-1000-price-target-at-jpmorgan-chase-co-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:42:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts EPAM Systems (NYSE:EPAM) Price Target to $120.00",
-      "url": "https://www.tickerreport.com/banking-finance/13534321/jpmorgan-chase-co-cuts-epam-systems-nyseepam-price-target-to-120-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-07T18:24:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Fiserv (NASDAQ:FISV) Given New $60.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/fiserv-nasdaqfisv-given-new-6000-price-target-at-jpmorgan-chase-co-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:24:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Celsius (NASDAQ:CELH) Price Target Lowered to $52.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/celsius-nasdaqcelh-price-target-lowered-to-5200-at-jpmorgan-chase-co-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:24:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Cipher Mining (NASDAQ:CIFR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-cipher-mining-nasdaqcifr-stock-price-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T18:24:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012072/0000950103-26-012072-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T18:08:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "First Solar (FSLR) Stock Soars 8% on Trump’s Chinese Polysilicon Tariff Announcement",
-      "url": "https://blockonomi.com/first-solar-fslr-stock-soars-8-on-trumps-chinese-polysilicon-tariff-announcement/",
-      "source": "blockonomi.com",
-      "published": "2026-08-07T18:03:44+00:00",
+      "title": "Week’s Best: Think Twice About That Roth IRA Conversion",
+      "url": "https://finance.yahoo.com/m/680cde7b-8da5-327b-97e5-a6ae9f1370c8/week%E2%80%99s-best%3A-think-twice.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-07T19:21:00+00:00",
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Micron (MU) Stock Drops Following Citi’s Price Target Reduction Amid Memory Market Concerns",
-      "url": "https://blockonomi.com/micron-mu-stock-drops-following-citis-price-target-reduction-amid-memory-market-concerns/",
-      "source": "blockonomi.com",
-      "published": "2026-08-07T18:02:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226039107/0001839882-26-039107-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T17:48:09+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226039106/0001839882-26-039106-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T17:46:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Analysts’ Updated EPS Estimates for August 7th (AAOI, ADIG, AIP, BOWL, BUR, CLSK, CMRC, COLL, DDOG, DFTX)",
-      "url": "https://www.tickerreport.com/banking-finance/13534275/analysts-updated-eps-estimates-for-august-7th-aaoi-adig-aip-bowl-bur-clsk-cmrc-coll-ddog-dftx.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-07T17:44:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ESTA Maintained by JP Morgan -- Price Target Raised to $95",
-      "url": "https://www.gurufocus.com/news/9017713/esta-maintained-by-jp-morgan-price-target-raised-to-95",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T17:31:12+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FWONK Maintained by JP Morgan -- Price Target Raised to $125",
-      "url": "https://www.gurufocus.com/news/9017731/fwonk-maintained-by-jp-morgan-price-target-raised-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T17:31:12+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
