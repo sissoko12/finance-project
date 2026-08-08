@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-08-08T08:50:58.463925+00:00",
+  "last_updated": "2026-08-08T09:44:55.087701+00:00",
   "headlines": [
+    {
+      "title": "PNC Financial Services Group Inc. Trims Position in Microsoft Corporation $MSFT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pnc-financial-services-group-inc-trims-position-in-microsoft-corporation-msft-2026-08-08/",
+      "source": "marketbeat.com",
+      "published": "2026-08-08T08:32:33+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Beacon Investment Advisory Services Inc. Trims Stock Position in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-beacon-investment-advisory-services-inc-trims-stock-position-in-morgan-stanley-ms-2026-08-08/",
+      "source": "marketbeat.com",
+      "published": "2026-08-08T08:16:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Beacon Investment Advisory Services Inc. Sells 32,457 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-beacon-investment-advisory-services-inc-sells-32457-shares-of-jpmorgan-chase-co-jpm-2026-08-08/",
+      "source": "marketbeat.com",
+      "published": "2026-08-08T08:16:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan's $1.5 Trillion Initiative to Finance U.S. Shipbuilding and Defense Could Be a Tailwind for Industrial and Defense Stocks",
+      "url": "https://www.fool.com/investing/2026/08/08/jpmorgans-15-trillion-initiative-to-finance-us-shi/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-08T08:05:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA expects Gulf states to back Bahrain amid geopolitical uncertainty",
+      "url": "https://www.investing.com/news/economy-news/bofa-expects-gulf-states-to-back-bahrain-amid-geopolitical-uncertainty-4847623",
+      "source": "investing.com",
+      "published": "2026-08-08T07:59:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sysco (NYSE:SYY) Price Target Raised to $86.00",
+      "url": "https://www.tickerreport.com/banking-finance/13534764/sysco-nysesyy-price-target-raised-to-86-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-08T07:13:06+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Abner Herrman & Brock LLC Decreases Holdings in Wells Fargo & Company $WFC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-abner-herrman-brock-llc-decreases-holdings-in-wells-fargo-company-wfc-2026-08-08/",
@@ -220,60 +276,6 @@
       "published": "2026-08-07T21:53:16+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "SRRK Maintained at Buy by Citigroup -- Price Target Raised to $60",
-      "url": "https://www.gurufocus.com/news/9018409/srrk-maintained-at-buy-by-citigroup-price-target-raised-to-60",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T21:53:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TXG Maintained by Citigroup -- Price Target Raised to $50.00",
-      "url": "https://www.gurufocus.com/news/9018315/txg-maintained-by-citigroup-price-target-raised-to-5000",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T21:44:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "OC Maintained by Citigroup -- Price Target Raised to $177",
-      "url": "https://www.gurufocus.com/news/9018312/oc-maintained-by-citigroup-price-target-raised-to-177",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T21:43:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PH Maintained by Citigroup -- Price Target Raised to $1232",
-      "url": "https://www.gurufocus.com/news/9018311/ph-maintained-by-citigroup-price-target-raised-to-1232",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T21:43:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SUNC Maintained by Citigroup -- Price Target Raised to $81.00",
-      "url": "https://www.gurufocus.com/news/9018309/sunc-maintained-by-citigroup-price-target-raised-to-8100",
-      "source": "gurufocus.com",
-      "published": "2026-08-07T21:42:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000217/0000895421-26-000217-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T21:32:35+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
