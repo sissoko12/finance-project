@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-08-07T23:39:17.035062+00:00",
+  "last_updated": "2026-08-08T02:04:55.111816+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs reports 7.2% passive stake in Nebius Group, the AI infrastructure company that used to be Yandex",
+      "url": "https://cryptobriefing.com/goldman-sachs-passive-stake-nebius-group/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-08T01:19:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Weekly Analysts’ Ratings Updates for Coupang (CPNG)",
+      "url": "https://www.tickerreport.com/banking-finance/13534550/weekly-analysts-ratings-updates-for-coupang-cpng.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T23:26:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA CEO Warns: Situational Awareness Hedge Fund Collapse Signals Danger for Leveraged Markets",
+      "url": "https://profitconfidential.com/situational-awareness-hedge-fund-meltdown-was-a-warning-shot-for-leveraged-markets-bofa-ceo-says/",
+      "source": "profitconfidential.com",
+      "published": "2026-08-07T23:07:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Which Is the Better International ETF: State Street's Climate-Focused NZAC or iShares' Emerging Markets IEMG?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/07/which-is-the-better-international-etf-state-street-s-climate-focused-nzac-or-ishares-emerging-markets-iemg/",
+      "source": "fool.com",
+      "published": "2026-08-07T22:37:12+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Citigroup Issues Positive Forecast for Klaviyo (NYSE:KVYO) Stock Price",
       "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-positive-forecast-for-klaviyo-nysekvyo-stock-price-2026-08-07/",
@@ -164,12 +202,40 @@
       ]
     },
     {
+      "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000217/0000895421-26-000217-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T21:32:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Cogent (CCOI) Stock Is Falling Today",
+      "url": "https://stockstory.org/us/stocks/nasdaq/ccoi/news/why-up-down/why-cogent-ccoi-stock-is-falling-today",
+      "source": "stockstory.org",
+      "published": "2026-08-07T21:30:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086824/0001213900-26-086824-index.htm",
       "source": "sec.gov",
       "published": "2026-08-07T21:30:27+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426023219/0001918704-26-023219-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T21:25:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -191,58 +257,11 @@
       ]
     },
     {
-      "title": "Haemonetics (NYSE:HAE) Given New $92.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/haemonetics-nysehae-given-new-9200-price-target-at-citigroup-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T21:12:24+00:00",
+      "title": "Haemonetics (NYSE:HAE) Price Target Raised to $92.00",
+      "url": "https://www.tickerreport.com/banking-finance/13534447/haemonetics-nysehae-price-target-raised-to-92-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-07T21:12:46+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Becton, Dickinson and Company (NYSE:BDX) Given New $204.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/becton-dickinson-and-company-nysebdx-given-new-20400-price-target-at-citigroup-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T21:12:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "US Foods (NYSE:USFD) Given New $124.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/us-foods-nyseusfd-given-new-12400-price-target-at-citigroup-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T21:12:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Sweetgreen (NYSE:SG) Price Target Cut to $8.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/sweetgreen-nysesg-price-target-cut-to-800-by-analysts-at-citigroup-2026-08-07/",
-      "source": "marketbeat.com",
-      "published": "2026-08-07T21:12:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dec 13, 2024; Philadelphia, Pennsylvania, USA; Indiana Pacers guard Tyrese Haliburton (0) controls the ball against Philadelphia 76ers guard Kelly Oubre Jr. (9) during the first quarter at Wells Fargo Center. Mandatory Credit: Bill Streicher-Imagn Images",
-      "url": "https://columbustelegram.com/sports/professional/nba/image_12ff7b4f-544b-5472-b2af-510830ca517f.html",
-      "source": "columbustelegram.com",
-      "published": "2026-08-07T20:49:49+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/07/stock-market-today-aug-7-palantir-surges-on-bank-of-america-upbeat-view-after-strong-earnings/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-07T20:45:16+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
