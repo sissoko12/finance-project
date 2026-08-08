@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-08T05:04:29.434327+00:00",
+  "last_updated": "2026-08-08T06:08:33.947425+00:00",
   "headlines": [
+    {
+      "title": "Citigroup (NYSE:C) Downgraded to \"Hold\" Rating by Wall Street Zen",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-nysec-downgraded-to-hold-rating-by-wall-street-zen-2026-08-08/",
+      "source": "marketbeat.com",
+      "published": "2026-08-08T05:30:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Just turned 18 and got some cards",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vil66p/just_turned_18_and_got_some_cards/",
@@ -56,6 +65,16 @@
       "published": "2026-08-07T22:37:12+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000195078726000014/0001950787-26-000014-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T22:36:55+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
       ]
     },
     {
@@ -255,24 +274,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Financials or Tech: Is XLF or FTEC the Better Buy?",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/07/financials-or-tech-is-xlf-or-ftec-the-better-buy/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-07T21:20:52+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026086808/0001213900-26-086808-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T21:20:49+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
