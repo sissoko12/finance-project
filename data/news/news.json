@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T02:04:55.111816+00:00",
+  "last_updated": "2026-08-08T03:51:44.891527+00:00",
   "headlines": [
     {
       "title": "Goldman Sachs reports 7.2% passive stake in Nebius Group, the AI infrastructure company that used to be Yandex",
@@ -28,6 +28,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000308/0000886982-26-000308-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T22:49:14+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -257,12 +266,12 @@
       ]
     },
     {
-      "title": "Haemonetics (NYSE:HAE) Price Target Raised to $92.00",
-      "url": "https://www.tickerreport.com/banking-finance/13534447/haemonetics-nysehae-price-target-raised-to-92-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-07T21:12:46+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526340518/0001193125-26-340518-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-07T21:19:54+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     }
   ]
