@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-08-08T03:51:44.891527+00:00",
+  "last_updated": "2026-08-08T05:04:29.434327+00:00",
   "headlines": [
+    {
+      "title": "Just turned 18 and got some cards",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vil66p/just_turned_18_and_got_some_cards/",
+      "source": "reddit.com",
+      "published": "2026-08-08T03:28:57+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Goldman Sachs reports 7.2% passive stake in Nebius Group, the AI infrastructure company that used to be Yandex",
       "url": "https://cryptobriefing.com/goldman-sachs-passive-stake-nebius-group/",
@@ -263,15 +273,6 @@
       "published": "2026-08-07T21:20:49+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526340518/0001193125-26-340518-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-07T21:19:54+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
