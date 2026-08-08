@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-08T13:02:45.807331+00:00",
+  "last_updated": "2026-08-08T14:07:31.628130+00:00",
   "headlines": [
+    {
+      "title": "AI Buildout Keeps Quinlan Bullish on US Stocks",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-08T12:47:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jardine Matheson (OTCMKTS:JMHLY) Upgraded to “Hold” at Zacks Research",
+      "url": "https://www.tickerreport.com/banking-finance/13535594/jardine-matheson-otcmktsjmhly-upgraded-to-hold-at-zacks-research.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-08T12:08:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Compass (NYSE:COMP) Downgraded by Zacks Research to “Hold”",
+      "url": "https://www.tickerreport.com/banking-finance/13535595/compass-nysecomp-downgraded-by-zacks-research-to-hold.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-08T12:08:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "PNC Financial: Coast-To-Coast Banking Expansion Continues | $RF $MTB $PNC",
       "url": "https://seekingalpha.com/article/4932165-pnc-financial-coast-to-coast-banking-expansion-continues",
@@ -236,47 +264,20 @@
       ]
     },
     {
+      "title": "Do Compliance Risks and Rising Health Costs Signal a Strategic Turning Point for Bank of America (BAC)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/compliance-risks-rising-health-costs-071502298.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-08T07:15:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Sysco (NYSE:SYY) Price Target Raised to $86.00",
       "url": "https://www.tickerreport.com/banking-finance/13534764/sysco-nysesyy-price-target-raised-to-86-00.html",
       "source": "tickerreport.com",
       "published": "2026-08-08T07:13:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Abner Herrman & Brock LLC Decreases Holdings in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abner-herrman-brock-llc-decreases-holdings-in-wells-fargo-company-wfc-2026-08-08/",
-      "source": "marketbeat.com",
-      "published": "2026-08-08T07:06:25+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Abner Herrman & Brock LLC Has $30.31 Million Holdings in Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abner-herrman-brock-llc-has-3031-million-holdings-in-morgan-stanley-ms-2026-08-08/",
-      "source": "marketbeat.com",
-      "published": "2026-08-08T07:06:15+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Abner Herrman & Brock LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-abner-herrman-brock-llc-2026-08-08/",
-      "source": "marketbeat.com",
-      "published": "2026-08-08T07:06:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup (NYSE:C) Downgraded to \"Hold\" Rating by Wall Street Zen",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-nysec-downgraded-to-hold-rating-by-wall-street-zen-2026-08-08/",
-      "source": "marketbeat.com",
-      "published": "2026-08-08T05:30:33+00:00",
       "tickers": [
         "C"
       ]
