@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-08-09T13:05:13.666476+00:00",
+  "last_updated": "2026-08-09T14:08:44.652022+00:00",
   "headlines": [
+    {
+      "title": "You saved $1.5M in your 401(k) — now the IRS wants $56,603 a year, and that's just the start",
+      "url": "https://finance.yahoo.com/markets/options/articles/saved-1-5m-401-k-130000096.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-09T13:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Clearing House and the Tokenized Deposit Gambit",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clearing-house-tokenized-deposit-gambit-124745641.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-09T12:47:45+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Deckers Outdoor (DECK) Stock Fair Value Edges Lower As Analysts Weigh Mixed Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deckers-outdoor-deck-stock-fair-121122256.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-09T12:11:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "Bank of America Names Nvidia (NVDA) Stock Top Semiconductor Pick Ahead of Earnings",
       "url": "https://blockonomi.com/bank-of-america-names-nvidia-nvda-stock-top-semiconductor-pick-ahead-of-earnings/",
@@ -177,6 +206,15 @@
       ]
     },
     {
+      "title": "Paramount Skydance (PSKY) Stock Sees Fair Value Cut As Deal Risk Clouds Analyst Views",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-psky-stock-sees-061320991.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-09T06:13:20+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Q1 Results Tracker: Tata Motors, Vodafone Idea among 2,045 companies set to announce earnings this week",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-tracker-tata-motors-vodafone-idea-among-2045-companies-set-to-announce-earnings-this-week/articleshow/133062827.cms",
       "source": "indiatimes.com",
@@ -237,45 +275,6 @@
       "published": "2026-08-08T19:18:27+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Travel + Leisure (TNL) Stock Fair Value Edges Higher After Analyst Target Increases",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/travel-leisure-tnl-stock-fair-190858978.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-08T19:08:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America spends more than $250M on employee GLP-1 drugs",
-      "url": "https://www.newsnationnow.com/health/bank-of-america-employee-glp-1-drugs/?.tsrc=rss",
-      "source": "newsnationnow.com",
-      "published": "2026-08-08T18:39:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA points to the Eli Lilly market that could outsize the U.S.",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-eli-lilly-stock-international-obesity-glp1-lly?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-08-08T18:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Nvidia’s valuation is lowest in 10 years despite mind-blowing AI demand, BofA say",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-valuation-is-lowest-in-10-years-despite-mindblowing-ai-demand-bofa-say-4847675",
-      "source": "investing.com",
-      "published": "2026-08-08T17:22:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
