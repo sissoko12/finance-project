@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T19:39:11.586808+00:00",
+  "last_updated": "2026-08-09T20:40:57.610272+00:00",
   "headlines": [
     {
       "title": "From Executive Director to Convicted Felon: The Goldman Sachs Banker Who Bribed His Way to a Ghanaian Power Deal",
@@ -273,11 +273,12 @@
       ]
     },
     {
-      "title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
-      "url": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
-      "source": "rollingstone.com",
-      "published": "2026-08-09T00:51:22+00:00",
+      "title": "Bank of America spots new curveball for Magnificent Seven stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-curveball-magnificent-030700311.html",
+      "source": "yahoo.com",
+      "published": "2026-08-09T03:07:00+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     }
