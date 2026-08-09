@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-09T05:29:52.501682+00:00",
+  "last_updated": "2026-08-09T06:24:46.286850+00:00",
   "headlines": [
+    {
+      "title": "Sandwich shop opening on State Street in Bangor",
+      "url": "https://www.bangordailynews.com/2026/08/09/bangor/bangor-business/top-of-the-hill-sandwich-shop-opening-state-street-bangor-joam40zk0w/",
+      "source": "bangordailynews.com",
+      "published": "2026-08-09T05:00:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
       "url": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
@@ -271,15 +280,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Gradient Investments LLC Sells 8,856 Shares of Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gradient-investments-llc-sells-8856-shares-of-morgan-stanley-ms-2026-08-08/",
-      "source": "marketbeat.com",
-      "published": "2026-08-08T10:24:46+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
