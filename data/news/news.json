@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T15:02:24.376075+00:00",
+  "last_updated": "2026-08-09T15:59:29.011891+00:00",
   "headlines": [
     {
       "title": "You saved $1.5M in your 401(k) — now the IRS wants $56,603 a year, and that's just the start",
@@ -8,6 +8,16 @@
       "published": "2026-08-09T13:00:00+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Market euphoria has gone too far, banking giant warns it’s time to cut risks",
+      "url": "https://finbold.com/market-euphoria-has-gone-too-far-banking-giant-warns-its-time-to-cut-risks/",
+      "source": "finbold.com",
+      "published": "2026-08-09T12:58:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -266,15 +276,6 @@
       "published": "2026-08-08T20:33:28+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "The Eternal Life of Goldman | What Would I Draw?",
-      "url": "https://www.reddit.com/r/Games/comments/1vj4k2w/the_eternal_life_of_goldman_what_would_i_draw/",
-      "source": "reddit.com",
-      "published": "2026-08-08T19:18:27+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
