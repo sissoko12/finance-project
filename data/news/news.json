@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-08-09T08:52:55.361469+00:00",
+  "last_updated": "2026-08-09T09:48:24.029275+00:00",
   "headlines": [
+    {
+      "title": "The PNC Financial Services Group, Inc $PNC Shares Purchased by NewEdge Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-purchased-by-newedge-advisors-llc-2026-08-09/",
+      "source": "marketbeat.com",
+      "published": "2026-08-09T09:04:57+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Avity Investment Management Inc. Buys 12,590 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-avity-investment-management-inc-buys-12590-shares-of-citigroup-inc-c-2026-08-09/",
+      "source": "marketbeat.com",
+      "published": "2026-08-09T08:16:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Chesley Taft & Associates LLC Purchases New Position in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-chesley-taft-associates-llc-purchases-new-position-in-us-bancorp-usb-2026-08-09/",
+      "source": "marketbeat.com",
+      "published": "2026-08-09T08:08:34+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "CoreCap Advisors LLC Sells 29,380 Shares of Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-corecap-advisors-llc-sells-29380-shares-of-morgan-stanley-ms-2026-08-09/",
+      "source": "marketbeat.com",
+      "published": "2026-08-09T07:52:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "iShares S&P GSCI Commodity-Indexed Trust $GSG Shares Sold by Bank of New York Mellon Corp",
+      "url": "https://www.tickerreport.com/banking-finance/13536177/ishares-sp-gsci-commodity-indexed-trust-gsg-shares-sold-by-bank-of-new-york-mellon-corp.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-09T07:49:24+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
     {
       "title": "Jamie Dimon warns US dollar could lose reserve currency status in 25 years",
       "url": "https://cryptobriefing.com/jamie-dimon-warns-us-dollar-could-lose-reserve-currency-status-in-25-years/",
@@ -232,53 +278,6 @@
       "published": "2026-08-08T12:08:48+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Compass (NYSE:COMP) Downgraded by Zacks Research to “Hold”",
-      "url": "https://www.tickerreport.com/banking-finance/13535595/compass-nysecomp-downgraded-by-zacks-research-to-hold.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-08T12:08:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "PNC Financial: Coast-To-Coast Banking Expansion Continues | $RF $MTB $PNC",
-      "url": "https://seekingalpha.com/article/4932165-pnc-financial-coast-to-coast-banking-expansion-continues",
-      "source": "seekingalpha.com",
-      "published": "2026-08-08T12:00:00+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley ETF buys $15M Bitcoin during dip",
-      "url": "https://crypto.news/morgan-stanley-etf-buys-15m-dollars-bitcoin-during-dip/",
-      "source": "crypto.news",
-      "published": "2026-08-08T11:11:18+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Somnigroup International (NYSE:SGI) Price Target Cut to $100.00 by Analysts at Truist Financial",
-      "url": "https://www.tickerreport.com/banking-finance/13535480/somnigroup-international-nysesgi-price-target-cut-to-100-00-by-analysts-at-truist-financial.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-08T11:06:53+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Has Consistently Beaten Its Own 17% Return Target Under Jamie Dimon. Is the Stock Still a Buy?",
-      "url": "https://www.fool.com/investing/2026/08/08/jpmorgan-has-consistently-beaten-its-own-17-return/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-08T11:05:00+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
