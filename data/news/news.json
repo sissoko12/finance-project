@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-16T22:51:30.933424+00:00",
+  "last_updated": "2026-08-16T23:26:31.824882+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Says AI Spending Not Boosting Corporate Earnings",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-says-ai-spending-not-boosting-corporate-earnings/",
+      "source": "pymnts.com",
+      "published": "2026-08-16T22:56:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Dimon warns UK’s Healey against raising taxes on banks, FT says",
+      "url": "https://fortune.com/2026/08/16/jamie-dimon-jpmorgan-uk-chancellor-healey-bank-tax-hikes-andy-burnham/",
+      "source": "fortune.com",
+      "published": "2026-08-16T22:33:19+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Christian Scott of the New York Mets pitches during the second inning against the Washington Nationals at Citi Field on Sunday, Aug. 16, 2026, in New York City.",
       "url": "https://thebrunswicknews.com/sports/national_sports/christian-scott-of-the-new-york-mets-pitches-during-the-second-inning-against-the-washington/image_80175d58-47a3-5f60-bd3c-6f1747f06d99.html",
@@ -261,25 +279,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Janney Montgomery Scott LLC Trims Stock Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-janney-montgomery-scott-llc-trims-stock-holdings-in-capital-one-financial-corporation-cof-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T10:16:42+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
-      "url": "https://www.fool.com/investing/2026/08/16/rival-shows-the-drawback-in-teslas-driverless-tech/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-16T10:15:00+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
