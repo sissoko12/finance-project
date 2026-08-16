@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T14:29:30.453510+00:00",
+  "last_updated": "2026-08-16T14:54:24.413643+00:00",
   "headlines": [
+    {
+      "title": "Nvidia (NVDA) Partners with Goldman Sachs for $500 Billion AI Financing Plan",
+      "url": "https://www.gurufocus.com/news/9037399/nvidia-nvda-partners-with-goldman-sachs-for-500-billion-ai-financing-plan",
+      "source": "gurufocus.com",
+      "published": "2026-08-16T14:10:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says",
       "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says",
@@ -273,16 +282,6 @@
       "published": "2026-08-16T07:05:05+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "ABN AMRO Bank N.V. Purchases New Shares in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abn-amro-bank-nv-purchases-new-shares-in-the-pnc-financial-services-group-inc-pnc-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T07:04:57+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
