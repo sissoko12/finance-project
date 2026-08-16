@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-08-16T10:29:29.704756+00:00",
+  "last_updated": "2026-08-16T10:54:00.601252+00:00",
   "headlines": [
+    {
+      "title": "KBC Group NV Trims Stake in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-trims-stake-in-capital-one-financial-corporation-cof-2026-08-16/",
+      "source": "marketbeat.com",
+      "published": "2026-08-16T10:16:58+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Janney Montgomery Scott LLC Trims Stock Holdings in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-janney-montgomery-scott-llc-trims-stock-holdings-in-capital-one-financial-corporation-cof-2026-08-16/",
+      "source": "marketbeat.com",
+      "published": "2026-08-16T10:16:42+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Mirae Asset Global Investments Co. Ltd. Raises Stock Holdings in Bank of America Corporation $BAC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-mirae-asset-global-investments-co-ltd-raises-stock-holdings-in-bank-of-america-corporation-bac-2026-08-16/",
@@ -263,24 +283,6 @@
       "published": "2026-08-16T05:48:46+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Salesforce (NYSE:CRM) Earns Overweight Rating from Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13545090/salesforce-nysecrm-earns-overweight-rating-from-analysts-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T05:30:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-      "source": "cnbc.com",
-      "published": "2026-08-16T05:00:01+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
