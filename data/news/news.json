@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T05:02:10.357243+00:00",
+  "last_updated": "2026-08-16T05:55:17.912027+00:00",
   "headlines": [
+    {
+      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+      "source": "cnbc.com",
+      "published": "2026-08-16T05:00:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Advice on financial planning - Hey everyone. It's my first time posting here and I'm just looking ...",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vpmhrn/advice_on_financial_planning/",
@@ -269,15 +278,6 @@
       "published": "2026-08-14T20:03:47+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed",
-      "url": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
-      "source": "bitcoinmagazine.com",
-      "published": "2026-08-14T20:03:41+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
