@@ -1,6 +1,173 @@
 {
-  "last_updated": "2026-08-16T01:47:22.423405+00:00",
+  "last_updated": "2026-08-16T03:06:48.474001+00:00",
   "headlines": [
+    {
+      "title": "Which Gold ETF Is the Better Buy: iShares' IAU or State Street's GLD?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/15/which-gold-etf-is-the-better-buy-ishares-iau-or-state-street-s-gld/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-16T00:19:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Ripple Confirms 75+ Speakers for Swell 2026, Expects 1,500+ Attendees",
+      "url": "https://news.bitcoin.com/featured/ripple-confirms-75-speakers-for-swell-2026-expects-1500-attendees/",
+      "source": "bitcoin.com",
+      "published": "2026-08-15T23:30:30+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Which Is the Better Energy ETF: State Street's Fossil Fuel XOP or iShares' Clean Energy ICLN?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/15/which-is-the-better-energy-etf-state-street-s-fossil-fuel-xop-or-ishares-clean-energy-icln/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-15T23:23:14+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Asks: Where Will Central Banks Store Their Gold?",
+      "url": "https://vblgoldfix.substack.com/p/goldman-asks-where-will-central-banks",
+      "source": "substack.com",
+      "published": "2026-08-15T21:55:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wall Street’s AI Spending Spree: JPMorgan, Goldman and Citi Bet Billions on Productivity Gains",
+      "url": "https://www.webpronews.com/wall-streets-ai-spending-spree-jpmorgan-goldman-and-citi-bet-billions-on-productivity-gains/",
+      "source": "webpronews.com",
+      "published": "2026-08-15T21:22:06+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/15/which-is-the-better-etf-state-street-s-broad-market-exposure-through-spy-or-invesco-s-tech-focused-qqq/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-15T17:21:47+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citi Warns of Building Short-Squeeze Pressure Across U.S. and European Equities",
+      "url": "https://www.webpronews.com/citi-warns-of-building-short-squeeze-pressure-across-u-s-and-european-equities/",
+      "source": "webpronews.com",
+      "published": "2026-08-15T16:42:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Venezuela Wants its Gold Back from the BOE",
+      "url": "https://vblgoldfix.substack.com/p/venezuela-wants-its-gold-back-from",
+      "source": "substack.com",
+      "published": "2026-08-15T15:36:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Amazon Stock Price Target: Citi, Roth MKM and Wall Street Predict Next 12 Months",
+      "url": "https://watcher.guru/news/amazon-stock-price-target-citi-roth-mkm-and-wall-street-predict-next-12-months",
+      "source": "watcher.guru",
+      "published": "2026-08-15T15:02:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "source": "coindesk.com",
+      "published": "2026-08-15T14:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-15T13:48:44+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Bitcoin’s $16.3 billion Wall Street stress test splits into four positional patterns",
+      "url": "https://cryptoslate.com/bitcoin-etf-holdings-four-position-patterns/",
+      "source": "cryptoslate.com",
+      "published": "2026-08-15T13:20:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Finds a New Generation of Entrepreneurs Is Gaining Ground Fast",
+      "url": "https://www.inc.com/victoria-salves/bank-america-gen-z-entrepreneurs/91388925",
+      "source": "inc.com",
+      "published": "2026-08-15T13:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Spots Cracks in the AI Spending Boom as Returns Stay Elusive",
+      "url": "https://www.webpronews.com/goldman-sachs-spots-cracks-in-the-ai-spending-boom-as-returns-stay-elusive/",
+      "source": "webpronews.com",
+      "published": "2026-08-15T12:22:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley flags four catalysts for SpaceX stock through year-end",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-catalysts-for-spacex-stock-through-yearend-4861777",
+      "source": "investing.com",
+      "published": "2026-08-15T11:49:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Trend followers could keep buying Nasdaq, BofA says",
+      "url": "https://www.investing.com/news/stock-market-news/trend-followers-could-keep-buying-nasdaq-bofa-says-4861768",
+      "source": "investing.com",
+      "published": "2026-08-15T10:46:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Police catch man accused of robbing Chase Bank in Fairview Heights",
+      "url": "https://fox2now.com/news/illinois/police-catch-man-accused-of-robbing-chase-bank-in-fairview-heights/",
+      "source": "fox2now.com",
+      "published": "2026-08-15T04:17:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Applied Materials Beat and Raised on Every Metric and Fell 5% Anyway",
+      "url": "https://www.themarketbreakdown.com/p/applied-materials-beat-and-raised",
+      "source": "themarketbreakdown.com",
+      "published": "2026-08-15T00:57:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "TechStockFundamentals @TechFundies Good survey from Wells Fargo on AI usage. Anthropic seems totally screwed:) $DXYZ. Going to be an exciting IPO. Interesting that enterprise spending on AI seems totally fine from an IT budget perspective - and most cite deprioritizing SaaS spend to fund it fol",
       "url": "https://substack.com/redirect/79a7ef00-7d9d-4840-bff8-a054c16753d5",
@@ -12,278 +179,104 @@
       ]
     },
     {
-      "title": "Sources: JPMorgan Chase terminated its banking relationship with Polymarket in 2025 over regulatory concerns, though it still maintains some ties to the company",
-      "url": "https://us.list-manage.com/XyDlhwX3zOi",
-      "source": "list-manage.com",
-      "published": "2026-08-14T12:03:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Bets $2.25B on ‘Boomer Candy’ ETFs. Are They a Buy?",
-      "url": "https://trk.barrons.com/click/47054957.75009/aHR0cHM6Ly93d3cuYmFycm9ucy5jb20vYXJ0aWNsZXMvZ29sZG1hbi1zYWNocy1ldGZzLW5lb3MtMDZmNGFjYzI_bW9kPWRqZW1fYl9yZXZpZXdhbmRwcmV2aWV3/68ba1101c56311141bd6e8d7B347ca268",
-      "source": "barrons.com",
-      "published": "2026-08-14T12:01:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
-      "url": "https://trk.marketwatch.com/click/47053595.175503/aHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL3N0b3J5LzE2LWJlYXRlbi1kb3duLWFpLXN0b2Nrcy10aGF0LWFyZS1iZWxvdmVkLWJ5LWJvZmEtYW5hbHlzdHMtMzQyM2RhYjI_bW9kPWRqZW1fbXdudGVjaGRhaWx5/66ba3922358a7a2e7b4a8203C33bc825d",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=2f18fa6b-fe63-4fab-b1e1-55de90e3e659&mod=mw_rss_bulletins",
       "source": "marketwatch.com",
-      "published": "2026-08-14T08:30:39+00:00",
+      "published": "2026-08-15T00:10:57+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
-      "url": "https://newslink.reuters.com/click/47046834.304/aHR0cHM6Ly93d3cucmV1dGVycy5jb20vbGVnYWwvdHJhbnNhY3Rpb25hbC9nb2xkbWFuLXRhbGtzLXdpdGgtaW52ZXN0b3JzLW52aWRpYS1maW5hbmNpbmctZGVhbC1hZnRlci1sYW5kaW5nLXByaXplZC1yb2xlLTIwMjYtMDgtMTQvP3V0bV9zb3VyY2U9U2FpbHRocnUmdXRtX21lZGl1bT1OZXdzbGV0dGVyJnV0bV9jYW1wYWlnbj1SZXV0ZXJzLUJ1c2luZXNzJnV0bV90ZXJtPTA4MTQyNiZsY3RnPTYwY2FjOWVjZGQ1OGNmMDVkNjAzNzgzMiZ1c2VyX2VtYWlsPTk2N2RmYmI2MzViNmJlZTQ0M2JhZDk2NzM5OWI5MDgwYzQxZTNiNzkzYmZlMDg0M2Y1MjNkZDM1OWFjZDMyMzM/60cac9ecdd58cf05d6037832B98de1e0a",
-      "source": "reuters.com",
-      "published": "2026-08-14T00:02:14+00:00",
+      "title": "GPIQ: Collect High-Yield Income From Technology Stocks | $JEPQ $GS $QQQI $GPIQ",
+      "url": "https://seekingalpha.com/article/4936954-gpiq-collect-high-yield-income-from-technology-stocks",
+      "source": "seekingalpha.com",
+      "published": "2026-08-14T23:14:41+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "A Wells Fargo VP reveals the biggest retirement mistake investors make today",
-      "url": "https://trk.marketwatch.com/click/47046664.50327/aHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL3BpY2tzL3RoZS1iaWdnZXN0LXJldGlyZW1lbnQtbWlzdGFrZS10aGlzLXZwLWF0LXRoZS13ZWxscy1mYXJnby1pbnZlc3RtZW50LWluc3RpdHV0ZS1zZWVzLXBlb3BsZS1tYWtpbmctbm93LWJjMGRiNTBlP21vZD1kamVtX213bm5lZWR0b2tub3c/66ba3922358a7a2e7b4a8203Bf450609c",
-      "source": "marketwatch.com",
-      "published": "2026-08-13T23:35:32+00:00",
+      "title": "GPIX’s Upside Cap vs SPY: What Goldman’s Premium Income Trade Actually Costs",
+      "url": "https://247wallst.com/investing/etf/2026/08/14/gpixs-upside-cap-vs-spy-what-goldmans-premium-income-trade-actually-costs/",
+      "source": "247wallst.com",
+      "published": "2026-08-14T22:15:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "U.S. Bank Triple Cash Rewards Visa Business Card review: A solid option for everyday business costs",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-triple-cash-rewards-visa-business-card-220252786.html",
+      "source": "yahoo.com",
+      "published": "2026-08-14T22:02:52+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "\"You should avoid being shaken out at both the top and the bottom. Chasing stocks is as damaging as selling at the bottom,\" says Morgan Stanley's Mike Wilson",
+      "url": "https://bloom.bg/3SRTrDI",
+      "source": "bloom.bg",
+      "published": "2026-08-14T21:48:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo, Conduent Settle NM Debit Card Fraud Suit",
+      "url": "https://www.law360.com/consumerprotection/articles/2513740?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-14T21:01:46+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
-      "url": "https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-08-09T20:53:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (MS) Expands Fixed Income Activity, Is The Valuation Now Fully Priced?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-expands-fixed-180947145.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-09T18:09:47+00:00",
+      "title": "Morgan Stanley Declares Dividends on Its Preferred Stock",
+      "url": "http://www.businesswire.com/news/home/20260814817733/en/Morgan-Stanley-Declares-Dividends-on-Its-Preferred-Stock/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-08-14T20:30:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "AI Spending is Slowing Down. How Will the S&P 500 React?",
-      "url": "https://beincrypto.com/ai-biggest-risk-global-markets-sp500/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-08-09T18:04:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "From Executive Director to Convicted Felon: The Goldman Sachs Banker Who Bribed His Way to a Ghanaian Power Deal",
-      "url": "https://blog.volkovlaw.com/2026/08/from-executive-director-to-convicted-felon-the-goldman-sachs-banker-who-bribed-his-way-to-a-ghanaian-power-deal/",
-      "source": "volkovlaw.com",
-      "published": "2026-08-09T18:02:16+00:00",
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "cnbc.com",
+      "published": "2026-08-14T20:05:57+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Datadog coverage update: BofA stays bullish on weakness",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-coverage-bofa-stays-bullish-164700611.html",
-      "source": "yahoo.com",
-      "published": "2026-08-09T16:47:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Promising Bank Stocks To Follow Now - August 9th",
-      "url": "https://www.marketbeat.com/instant-alerts/promising-bank-stocks-to-follow-now-august-9th-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T16:03:45+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Angi (ANGI) Stock Fair Value Moves Lower As Analysts Weigh Execution Risks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/angi-angi-stock-fair-value-141009937.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-09T14:10:09+00:00",
+      "title": "Goldman Sachs Mobilizes Investors for Nvidia’s $500 Billion AI Infrastructure Push",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-mobilizes-investors-for-nvidias-500-billion-ai-infrastructure-push/",
+      "source": "pymnts.com",
+      "published": "2026-08-14T20:03:47+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Citi Recommends Buying the Dip in Memory Stocks as AI Cycle Gains Momentum",
-      "url": "https://investorshub.advfn.com/market-news/article/33787/citi-recommends-buying-the-dip-in-memory-stocks-as-ai-cycle-gains-momentum?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-08-09T13:38:00+00:00",
+      "title": "Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed",
+      "url": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
+      "source": "bitcoinmagazine.com",
+      "published": "2026-08-14T20:03:41+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "You saved $1.5M in your 401(k) — now the IRS wants $56,603 a year, and that's just the start",
-      "url": "https://finance.yahoo.com/markets/options/articles/saved-1-5m-401-k-130000096.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-09T13:00:00+00:00",
+      "title": "Ralph Jackson III, Morgan Stanley: Complaints and Investor Lawsuits",
+      "url": "https://whitesecuritieslaw.com/ralph-jackson-iii-complaints/",
+      "source": "whitesecuritieslaw.com",
+      "published": "2026-08-14T19:26:21+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Market euphoria has gone too far, banking giant warns it’s time to cut risks",
-      "url": "https://finbold.com/market-euphoria-has-gone-too-far-banking-giant-warns-its-time-to-cut-risks/",
-      "source": "finbold.com",
-      "published": "2026-08-09T12:58:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Clearing House and the Tokenized Deposit Gambit",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/clearing-house-tokenized-deposit-gambit-124745641.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-09T12:47:45+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Deckers Outdoor (DECK) Stock Fair Value Edges Lower As Analysts Weigh Mixed Outlook",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deckers-outdoor-deck-stock-fair-121122256.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-09T12:11:22+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bank of America Names Nvidia (NVDA) Stock Top Semiconductor Pick Ahead of Earnings",
-      "url": "https://blockonomi.com/bank-of-america-names-nvidia-nvda-stock-top-semiconductor-pick-ahead-of-earnings/",
-      "source": "blockonomi.com",
-      "published": "2026-08-09T11:50:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Palantir (PLTR) Stock Surges 10% as BofA Sets $255 Price Target Following Stellar Q2 Results",
-      "url": "https://blockonomi.com/palantir-pltr-stock-surges-10-as-bofa-sets-255-price-target-following-stellar-q2-results/",
-      "source": "blockonomi.com",
-      "published": "2026-08-09T11:15:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "2,372 Shares in The Goldman Sachs Group, Inc. $GS Purchased by Whitaker Myers Wealth Managers LTD.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-2372-shares-in-the-goldman-sachs-group-inc-gs-purchased-by-whitaker-myers-wealth-managers-ltd-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T10:32:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GoalVest Advisory LLC Trims Stock Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-goalvest-advisory-llc-trims-stock-position-in-jpmorgan-chase-co-jpm-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T10:24:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Acquired by Sax Wealth Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-acquired-by-sax-wealth-advisors-llc-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T10:16:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Sax Wealth Advisors LLC Grows Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sax-wealth-advisors-llc-grows-holdings-in-jpmorgan-chase-co-jpm-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T10:16:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Oliver Luxxe Assets LLC Sells 5,310 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.tickerreport.com/banking-finance/13536583/oliver-luxxe-assets-llc-sells-5310-shares-of-capital-one-financial-corporation-cof.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-09T10:11:19+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Hennion & Walsh Asset Management Inc. Purchases 3,471 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hennion-walsh-asset-management-inc-purchases-3471-shares-of-jpmorgan-chase-co-jpm-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T10:00:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Valeo Financial Advisors LLC Trims Stake in Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-valeo-financial-advisors-llc-trims-stake-in-citigroup-inc-c-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T09:44:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PensionDanmark Pensionsforsikringsaktieselskab Acquires 5,775 Shares of State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pensiondanmark-pensionsforsikringsaktieselskab-acquires-5775-shares-of-state-street-corporation-stt-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T09:20:43+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Purchased by NewEdge Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-purchased-by-newedge-advisors-llc-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T09:04:57+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Avity Investment Management Inc. Buys 12,590 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-avity-investment-management-inc-buys-12590-shares-of-citigroup-inc-c-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T08:16:55+00:00",
-      "tickers": [
-        "C"
+        "MS"
       ]
     }
   ]
