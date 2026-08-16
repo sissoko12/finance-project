@@ -1,6 +1,92 @@
 {
-  "last_updated": "2026-08-15T23:48:32.476292+00:00",
+  "last_updated": "2026-08-16T01:47:22.423405+00:00",
   "headlines": [
+    {
+      "title": "TechStockFundamentals @TechFundies Good survey from Wells Fargo on AI usage. Anthropic seems totally screwed:) $DXYZ. Going to be an exciting IPO. Interesting that enterprise spending on AI seems totally fine from an IT budget perspective - and most cite deprioritizing SaaS spend to fund it fol",
+      "url": "https://substack.com/redirect/79a7ef00-7d9d-4840-bff8-a054c16753d5",
+      "source": "substack.com",
+      "published": "2026-08-15T00:45:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sources: JPMorgan Chase terminated its banking relationship with Polymarket in 2025 over regulatory concerns, though it still maintains some ties to the company",
+      "url": "https://us.list-manage.com/XyDlhwX3zOi",
+      "source": "list-manage.com",
+      "published": "2026-08-14T12:03:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Bets $2.25B on ‘Boomer Candy’ ETFs. Are They a Buy?",
+      "url": "https://trk.barrons.com/click/47054957.75009/aHR0cHM6Ly93d3cuYmFycm9ucy5jb20vYXJ0aWNsZXMvZ29sZG1hbi1zYWNocy1ldGZzLW5lb3MtMDZmNGFjYzI_bW9kPWRqZW1fYl9yZXZpZXdhbmRwcmV2aWV3/68ba1101c56311141bd6e8d7B347ca268",
+      "source": "barrons.com",
+      "published": "2026-08-14T12:01:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
+      "url": "https://trk.marketwatch.com/click/47053595.175503/aHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL3N0b3J5LzE2LWJlYXRlbi1kb3duLWFpLXN0b2Nrcy10aGF0LWFyZS1iZWxvdmVkLWJ5LWJvZmEtYW5hbHlzdHMtMzQyM2RhYjI_bW9kPWRqZW1fbXdudGVjaGRhaWx5/66ba3922358a7a2e7b4a8203C33bc825d",
+      "source": "marketwatch.com",
+      "published": "2026-08-14T08:30:39+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+      "url": "https://newslink.reuters.com/click/47046834.304/aHR0cHM6Ly93d3cucmV1dGVycy5jb20vbGVnYWwvdHJhbnNhY3Rpb25hbC9nb2xkbWFuLXRhbGtzLXdpdGgtaW52ZXN0b3JzLW52aWRpYS1maW5hbmNpbmctZGVhbC1hZnRlci1sYW5kaW5nLXByaXplZC1yb2xlLTIwMjYtMDgtMTQvP3V0bV9zb3VyY2U9U2FpbHRocnUmdXRtX21lZGl1bT1OZXdzbGV0dGVyJnV0bV9jYW1wYWlnbj1SZXV0ZXJzLUJ1c2luZXNzJnV0bV90ZXJtPTA4MTQyNiZsY3RnPTYwY2FjOWVjZGQ1OGNmMDVkNjAzNzgzMiZ1c2VyX2VtYWlsPTk2N2RmYmI2MzViNmJlZTQ0M2JhZDk2NzM5OWI5MDgwYzQxZTNiNzkzYmZlMDg0M2Y1MjNkZDM1OWFjZDMyMzM/60cac9ecdd58cf05d6037832B98de1e0a",
+      "source": "reuters.com",
+      "published": "2026-08-14T00:02:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "A Wells Fargo VP reveals the biggest retirement mistake investors make today",
+      "url": "https://trk.marketwatch.com/click/47046664.50327/aHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL3BpY2tzL3RoZS1iaWdnZXN0LXJldGlyZW1lbnQtbWlzdGFrZS10aGlzLXZwLWF0LXRoZS13ZWxscy1mYXJnby1pbnZlc3RtZW50LWluc3RpdHV0ZS1zZWVzLXBlb3BsZS1tYWtpbmctbm93LWJjMGRiNTBlP21vZD1kamVtX213bm5lZWR0b2tub3c/66ba3922358a7a2e7b4a8203Bf450609c",
+      "source": "marketwatch.com",
+      "published": "2026-08-13T23:35:32+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+      "url": "https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-08-09T20:53:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (MS) Expands Fixed Income Activity, Is The Valuation Now Fully Priced?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-expands-fixed-180947145.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-09T18:09:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AI Spending is Slowing Down. How Will the S&P 500 React?",
+      "url": "https://beincrypto.com/ai-biggest-risk-global-markets-sp500/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-08-09T18:04:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "From Executive Director to Convicted Felon: The Goldman Sachs Banker Who Bribed His Way to a Ghanaian Power Deal",
       "url": "https://blog.volkovlaw.com/2026/08/from-executive-director-to-convicted-felon-the-goldman-sachs-banker-who-bribed-his-way-to-a-ghanaian-power-deal/",
@@ -28,6 +114,24 @@
       "tickers": [
         "JPM",
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Angi (ANGI) Stock Fair Value Moves Lower As Analysts Weigh Execution Risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/angi-angi-stock-fair-value-141009937.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-09T14:10:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi Recommends Buying the Dip in Memory Stocks as AI Cycle Gains Momentum",
+      "url": "https://investorshub.advfn.com/market-news/article/33787/citi-recommends-buying-the-dip-in-memory-stocks-as-ai-cycle-gains-momentum?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-08-09T13:38:00+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -137,24 +241,6 @@
       ]
     },
     {
-      "title": "Hennion & Walsh Asset Management Inc. Has $38.59 Million Position in Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF $GSLC",
-      "url": "https://www.tickerreport.com/banking-finance/13536582/hennion-walsh-asset-management-inc-has-38-59-million-position-in-goldman-sachs-activebeta-u-s-large-cap-equity-etf-gslc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-09T10:11:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Hennion & Walsh Asset Management Inc. Has $9.08 Million Holdings in BNY Mellon Strategic Municipal Bond Fund, Inc. $DSM",
-      "url": "https://www.tickerreport.com/banking-finance/13536580/hennion-walsh-asset-management-inc-has-9-08-million-holdings-in-bny-mellon-strategic-municipal-bond-fund-inc-dsm.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-09T10:11:18+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
       "title": "Hennion & Walsh Asset Management Inc. Purchases 3,471 Shares of JPMorgan Chase & Co. $JPM",
       "url": "https://www.marketbeat.com/instant-alerts/filing-hennion-walsh-asset-management-inc-purchases-3471-shares-of-jpmorgan-chase-co-jpm-2026-08-09/",
       "source": "marketbeat.com",
@@ -197,88 +283,6 @@
       "source": "marketbeat.com",
       "published": "2026-08-09T08:16:55+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Chesley Taft & Associates LLC Purchases New Position in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-chesley-taft-associates-llc-purchases-new-position-in-us-bancorp-usb-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T08:08:34+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "CoreCap Advisors LLC Sells 29,380 Shares of Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-corecap-advisors-llc-sells-29380-shares-of-morgan-stanley-ms-2026-08-09/",
-      "source": "marketbeat.com",
-      "published": "2026-08-09T07:52:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "iShares S&P GSCI Commodity-Indexed Trust $GSG Shares Sold by Bank of New York Mellon Corp",
-      "url": "https://www.tickerreport.com/banking-finance/13536177/ishares-sp-gsci-commodity-indexed-trust-gsg-shares-sold-by-bank-of-new-york-mellon-corp.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-09T07:49:24+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Jamie Dimon warns US dollar could lose reserve currency status in 25 years",
-      "url": "https://cryptobriefing.com/jamie-dimon-warns-us-dollar-could-lose-reserve-currency-status-in-25-years/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-09T07:28:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts NuScale Power (NYSE:SMR) Price Target to $6.50",
-      "url": "https://www.tickerreport.com/banking-finance/13536161/citigroup-cuts-nuscale-power-nysesmr-price-target-to-6-50.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-09T06:30:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Paramount Skydance (PSKY) Stock Sees Fair Value Cut As Deal Risk Clouds Analyst Views",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-psky-stock-sees-061320991.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-09T06:13:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Q1 Results Tracker: Tata Motors, Vodafone Idea among 2,045 companies set to announce earnings this week",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-tracker-tata-motors-vodafone-idea-among-2045-companies-set-to-announce-earnings-this-week/articleshow/133062827.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-09T05:51:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Sandwich shop opening on State Street in Bangor",
-      "url": "https://www.bangordailynews.com/2026/08/09/bangor/bangor-business/top-of-the-hill-sandwich-shop-opening-state-street-bangor-joam40zk0w/",
-      "source": "bangordailynews.com",
-      "published": "2026-08-09T05:00:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Bank of America spots new curveball for Magnificent Seven stocks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-curveball-magnificent-030700311.html",
-      "source": "yahoo.com",
-      "published": "2026-08-09T03:07:00+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
