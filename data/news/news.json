@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T20:30:31.957654+00:00",
+  "last_updated": "2026-08-16T21:26:23.824670+00:00",
   "headlines": [
+    {
+      "title": "I know this sounds crazy! Citigroup",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1vq7qhk/i_know_this_sounds_crazy_citigroup/",
+      "source": "reddit.com",
+      "published": "2026-08-16T20:29:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Looking to break the cycle of bad car loans, help please?",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vq6yqu/looking_to_break_the_cycle_of_bad_car_loans_help/",
@@ -272,16 +281,6 @@
       "published": "2026-08-16T08:25:42+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Fifth Third Bancorp Reduces Stock Position in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-fifth-third-bancorp-reduces-stock-position-in-capital-one-financial-corporation-cof-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T08:08:56+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
