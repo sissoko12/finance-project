@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T22:28:29.767202+00:00",
+  "last_updated": "2026-08-16T22:51:30.933424+00:00",
   "headlines": [
+    {
+      "title": "Christian Scott of the New York Mets pitches during the second inning against the Washington Nationals at Citi Field on Sunday, Aug. 16, 2026, in New York City.",
+      "url": "https://thebrunswicknews.com/sports/national_sports/christian-scott-of-the-new-york-mets-pitches-during-the-second-inning-against-the-washington/image_80175d58-47a3-5f60-bd3c-6f1747f06d99.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-08-16T21:27:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
       "url": "https://www.investing.com/news/company-news/nvidias-neocloud-funding-could-drive-significant-revenue-stream--morgan-stanley-4862014",
@@ -8,6 +17,16 @@
       "published": "2026-08-16T21:21:34+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Bank of America sees ‘great convergence’ across America’s two economies",
+      "url": "https://finance.yahoo.com/economy/articles/bank-america-sees-great-convergence-210300748.html",
+      "source": "yahoo.com",
+      "published": "2026-08-16T21:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -261,25 +280,6 @@
       "published": "2026-08-16T10:15:00+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Bigger Crypto ETF Bet Might Change The Case For Investing In Morgan Stanley (MS)",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bigger-crypto-etf-100838306.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-16T10:08:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Mirae Asset Global Investments Co. Ltd. Raises Stock Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mirae-asset-global-investments-co-ltd-raises-stock-holdings-in-bank-of-america-corporation-bac-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T09:21:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
