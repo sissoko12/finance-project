@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-08-16T15:50:56.364978+00:00",
+  "last_updated": "2026-08-16T16:33:17.737075+00:00",
   "headlines": [
+    {
+      "title": "Capital One, Chase And Amex Airport Lounges Ranked — These Are The 8 Best In The U.S.",
+      "url": "https://viewfromthewing.com/capital-one-chase-and-amex-airport-lounges-ranked-these-are-the-8-best-in-the-u-s/",
+      "source": "viewfromthewing.com",
+      "published": "2026-08-16T15:58:25+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "BofA favors value, biotech and commodities as AI productivity lags",
+      "url": "https://seekingalpha.com/news/4633604-bofa-favors-value-biotech-and-commodities-as-ai-productivity-lags",
+      "source": "seekingalpha.com",
+      "published": "2026-08-16T15:42:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Space is becoming an institutional asset class, Goldman says",
       "url": "https://seekingalpha.com/news/4633601-space-is-becoming-an-institutional-asset-class-goldman-says",
@@ -262,24 +282,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right.",
-      "url": "https://www.fool.com/investing/2026/08/16/morgan-stanley-says-spacex-is-worth-300-per-share/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-16T07:45:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Nvidia (NVDA) Stock Surges as $500B AI Infrastructure Initiative Wins Analyst Support",
-      "url": "https://blockonomi.com/nvidia-nvda-stock-surges-as-500b-ai-infrastructure-initiative-wins-analyst-support/",
-      "source": "blockonomi.com",
-      "published": "2026-08-16T07:39:48+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
