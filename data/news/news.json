@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T15:28:00.486231+00:00",
+  "last_updated": "2026-08-16T15:50:56.364978+00:00",
   "headlines": [
+    {
+      "title": "Space is becoming an institutional asset class, Goldman says",
+      "url": "https://seekingalpha.com/news/4633601-space-is-becoming-an-institutional-asset-class-goldman-says",
+      "source": "seekingalpha.com",
+      "published": "2026-08-16T15:26:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "WATCH YOUR BIDS (s2026 e22) - Alex Altmann is back, Praneet Shah from Goldman's FX desk with ...",
       "url": "https://posts.themacrotourist.com/p/watch-your-bids-s2026-e22",
@@ -8,6 +17,24 @@
       "published": "2026-08-16T15:00:01+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "World Gold Council’s Bitcoin ‘Zero’ Call Faces a $63K Reality Check",
+      "url": "https://blockonomi.com/world-gold-councils-bitcoin-zero-call-faces-a-63k-reality-check/",
+      "source": "blockonomi.com",
+      "published": "2026-08-16T14:58:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Favours Quality, AI Adopters and Financials as Earnings Growth Broadens",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-favours-quality-ai-144454648.html",
+      "source": "yahoo.com",
+      "published": "2026-08-16T14:44:54+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -253,34 +280,6 @@
       "published": "2026-08-16T07:39:48+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "AMD (AMD) Stock Surges 6% Following Massive Bond Offering and BofA’s Bullish Outlook",
-      "url": "https://blockonomi.com/amd-amd-stock-surges-6-following-massive-bond-offering-and-bofas-bullish-outlook/",
-      "source": "blockonomi.com",
-      "published": "2026-08-16T07:31:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Sold by Alecta Tjanstepension Omsesidigt",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-alecta-tjanstepension-omsesidigt-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T07:05:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ABN Amro Investment Solutions Has $20.76 Million Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abn-amro-investment-solutions-has-2076-million-position-in-the-goldman-sachs-group-inc-gs-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T07:05:06+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
