@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T12:52:03.906354+00:00",
+  "last_updated": "2026-08-16T13:36:31.859579+00:00",
   "headlines": [
     {
       "title": "Goldman Sachs identifies China stocks set to benefit from AI hardware exports",
@@ -8,6 +8,15 @@
       "published": "2026-08-16T12:09:20+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-face-bigger-threat-fed-120000846.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-16T12:00:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -88,6 +97,15 @@
       ]
     },
     {
+      "title": "Morgan Stanley’s Bigger Crypto ETF Bet Might Change The Case For Investing In Morgan Stanley (MS)",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bigger-crypto-etf-100838306.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-16T10:08:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Mirae Asset Global Investments Co. Ltd. Raises Stock Holdings in Bank of America Corporation $BAC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-mirae-asset-global-investments-co-ltd-raises-stock-holdings-in-bank-of-america-corporation-bac-2026-08-16/",
       "source": "marketbeat.com",
@@ -146,6 +164,15 @@
       ]
     },
     {
+      "title": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right.",
+      "url": "https://www.fool.com/investing/2026/08/16/morgan-stanley-says-spacex-is-worth-300-per-share/?.tsrc=rss",
+      "source": "fool.com",
+      "published": "2026-08-16T08:05:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Morgan Stanley $MS Position Lessened by Forum Financial Management LP",
       "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-position-lessened-by-forum-financial-management-lp-2026-08-16/",
       "source": "marketbeat.com",
@@ -181,15 +208,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right.",
-      "url": "https://www.fool.com/investing/2026/08/16/morgan-stanley-says-spacex-is-worth-300-per-share/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-16T07:45:00+00:00",
-      "tickers": [
-        "MS"
       ]
     },
     {
@@ -265,24 +283,6 @@
       "published": "2026-08-16T07:01:04+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Aramark (NYSE:ARMK) Price Target Raised to $70.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545121/aramark-nysearmk-price-target-raised-to-70-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:42:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Array Digital Infrastructure (NYSE:AD) Price Target to $45.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545118/citigroup-cuts-array-digital-infrastructure-nysead-price-target-to-45-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:42:48+00:00",
-      "tickers": [
         "C"
       ]
     }
