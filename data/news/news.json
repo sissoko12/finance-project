@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T21:26:23.824670+00:00",
+  "last_updated": "2026-08-16T21:48:38.698905+00:00",
   "headlines": [
+    {
+      "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
+      "url": "https://www.investing.com/news/company-news/nvidias-neocloud-funding-could-drive-significant-revenue-stream--morgan-stanley-4862014",
+      "source": "investing.com",
+      "published": "2026-08-16T21:21:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "I know this sounds crazy! Citigroup",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1vq7qhk/i_know_this_sounds_crazy_citigroup/",
@@ -54,6 +63,15 @@
       "url": "https://seekingalpha.com/news/4633606-j-p-morgan-ended-polymarket-banking-relationship-over-regulatory-concerns",
       "source": "seekingalpha.com",
       "published": "2026-08-16T16:33:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Reddit’s S&P 500 debut could unleash nearly $3 billion of index-fund buying",
+      "url": "https://www.thestreet.com/investing/reddits-sp-500-debut-could-unleash-billions-in-index-fund-buying?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-16T16:03:00+00:00",
       "tickers": [
         "JPM"
       ]
@@ -139,6 +157,15 @@
       "published": "2026-08-16T13:43:08+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Raises S&P 500 Target to 8,000 as Earnings and AI Growth Strengthen Outlook",
+      "url": "https://investorshub.advfn.com/market-news/article/34287/jpmorgan-raises-sp-500-target-to-8000-as-earnings-and-ai-growth-strengthen-outlook?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-08-16T13:41:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -253,34 +280,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Washington Capital Management Inc. Has $2.95 Million Stock Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-washington-capital-management-inc-has-295-million-stock-position-in-jpmorgan-chase-co-jpm-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T09:20:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Merit Financial Group LLC Sells 31,696 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-merit-financial-group-llc-sells-31696-shares-of-wells-fargo-company-wfc-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T09:20:51+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "3,041 Shares in State Street Corporation $STT Acquired by Clearstead Trust LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13545202/3041-shares-in-state-street-corporation-stt-acquired-by-clearstead-trust-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T08:25:42+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
