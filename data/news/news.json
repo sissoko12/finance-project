@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-16T19:25:50.844909+00:00",
+  "last_updated": "2026-08-16T19:47:23.528714+00:00",
   "headlines": [
+    {
+      "title": "Jamie Dimon warns UK chancellor against higher bank taxes",
+      "url": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-08-16T19:00:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Financial Stocks To Watch Now - August 16th",
       "url": "https://www.marketbeat.com/instant-alerts/financial-stocks-to-watch-now-august-16th-2026-08-16/",
@@ -273,15 +282,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Position Lessened by Forum Financial Management LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-position-lessened-by-forum-financial-management-lp-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T08:00:41+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
