@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T23:26:31.824882+00:00",
+  "last_updated": "2026-08-16T23:48:51.689278+00:00",
   "headlines": [
     {
       "title": "Goldman Sachs Says AI Spending Not Boosting Corporate Earnings",
@@ -8,6 +8,16 @@
       "published": "2026-08-16T22:56:35+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Bank of America tightens hybrid work policy",
+      "url": "https://www.charlotteobserver.com/news/business/article316853233.html#storylink=cpy#new_tab",
+      "source": "charlotteobserver.com",
+      "published": "2026-08-16T22:37:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -269,16 +279,6 @@
       "published": "2026-08-16T10:33:04+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "KBC Group NV Trims Stake in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-trims-stake-in-capital-one-financial-corporation-cof-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T10:16:58+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
