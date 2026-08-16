@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-16T11:48:48.570036+00:00",
+  "last_updated": "2026-08-16T12:52:03.906354+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs identifies China stocks set to benefit from AI hardware exports",
+      "url": "https://cryptobriefing.com/goldman-sachs-china-ai-hardware-stocks/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-16T12:09:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+      "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
+      "source": "cnbc.com",
+      "published": "2026-08-16T11:55:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Fraudsters Steal $30,000 From Wells Fargo Customer After Masquerading as Law Enforcement Officials",
+      "url": "https://dailyhodl.com/2026/08/16/fraudsters-steal-30000-from-wells-fargo-customer-after-masquerading-as-law-enforcement-officials/",
+      "source": "dailyhodl.com",
+      "published": "2026-08-16T11:45:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "SCS Capital Management LLC Makes New Investment in Truist Financial Corporation $TFC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-scs-capital-management-llc-makes-new-investment-in-truist-financial-corporation-tfc-2026-08-16/",
@@ -256,33 +284,6 @@
       "published": "2026-08-16T06:42:48+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Camden Property Trust (NYSE:CPT) Price Target Raised to $114.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545115/camden-property-trust-nysecpt-price-target-raised-to-114-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:36:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts CytomX Therapeutics (NASDAQ:CTMX) Price Target to $11.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545114/jpmorgan-chase-co-cuts-cytomx-therapeutics-nasdaqctmx-price-target-to-11-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:31:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Amplitude (NASDAQ:AMPL) Price Target Raised to $16.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545113/amplitude-nasdaqampl-price-target-raised-to-16-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:31:13+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
