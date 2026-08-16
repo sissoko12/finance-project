@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-08-16T10:54:00.601252+00:00",
+  "last_updated": "2026-08-16T11:26:04.289653+00:00",
   "headlines": [
+    {
+      "title": "SCS Capital Management LLC Makes New Investment in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-scs-capital-management-llc-makes-new-investment-in-truist-financial-corporation-tfc-2026-08-16/",
+      "source": "marketbeat.com",
+      "published": "2026-08-16T11:12:45+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Synergy Asset Management LLC Raises Stock Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13545559/synergy-asset-management-llc-raises-stock-holdings-in-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-16T10:35:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WT Wealth Management Purchases Shares of 3,388 The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13545540/wt-wealth-management-purchases-shares-of-3388-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-16T10:33:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "KBC Group NV Trims Stake in Capital One Financial Corporation $COF",
       "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-trims-stake-in-capital-one-financial-corporation-cof-2026-08-16/",
@@ -19,6 +48,15 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
+      "url": "https://www.fool.com/investing/2026/08/16/rival-shows-the-drawback-in-teslas-driverless-tech/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-16T10:15:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -245,44 +283,6 @@
       "published": "2026-08-16T06:31:13+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Truist Financial Cuts Public Service Enterprise Group (NYSE:PEG) Price Target to $84.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545111/truist-financial-cuts-public-service-enterprise-group-nysepeg-price-target-to-84-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:24:47+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "STUB’s (STUB) Underperform Rating Reiterated at Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13545105/stubs-stub-underperform-rating-reiterated-at-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T06:12:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Suncor Energy (TSE:SU) Price Target Raised to C$114.00",
-      "url": "https://www.tickerreport.com/banking-finance/13545099/suncor-energy-tsesu-price-target-raised-to-c114-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T05:54:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Standard Life (LON:SDLF) Price Target Raised to GBX 1,075",
-      "url": "https://www.tickerreport.com/banking-finance/13545097/standard-life-lonsdlf-price-target-raised-to-gbx-1075.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T05:48:46+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
