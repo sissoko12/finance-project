@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-08-16T04:09:21.565647+00:00",
+  "last_updated": "2026-08-16T05:02:10.357243+00:00",
   "headlines": [
+    {
+      "title": "Advice on financial planning - Hey everyone. It's my first time posting here and I'm just looking ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vpmhrn/advice_on_financial_planning/",
+      "source": "reddit.com",
+      "published": "2026-08-16T03:43:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Which Gold ETF Is the Better Buy: iShares' IAU or State Street's GLD?",
       "url": "https://www.fool.com/coverage/etfs/2026/08/15/which-gold-etf-is-the-better-buy-ishares-iau-or-state-street-s-gld/?source=iedfolrf0000001",
@@ -268,15 +278,6 @@
       "published": "2026-08-14T20:03:41+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Ralph Jackson III, Morgan Stanley: Complaints and Investor Lawsuits",
-      "url": "https://whitesecuritieslaw.com/ralph-jackson-iii-complaints/",
-      "source": "whitesecuritieslaw.com",
-      "published": "2026-08-14T19:26:21+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
