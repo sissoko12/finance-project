@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-16T07:36:46.976084+00:00",
+  "last_updated": "2026-08-16T08:37:09.322403+00:00",
   "headlines": [
+    {
+      "title": "Nvidia (NVDA) Stock Surges as $500B AI Infrastructure Initiative Wins Analyst Support",
+      "url": "https://blockonomi.com/nvidia-nvda-stock-surges-as-500b-ai-infrastructure-initiative-wins-analyst-support/",
+      "source": "blockonomi.com",
+      "published": "2026-08-16T07:39:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AMD (AMD) Stock Surges 6% Following Massive Bond Offering and BofA’s Bullish Outlook",
+      "url": "https://blockonomi.com/amd-amd-stock-surges-6-following-massive-bond-offering-and-bofas-bullish-outlook/",
+      "source": "blockonomi.com",
+      "published": "2026-08-16T07:31:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley $MS Shares Sold by Alecta Tjanstepension Omsesidigt",
       "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-alecta-tjanstepension-omsesidigt-2026-08-16/",
@@ -259,25 +278,6 @@
       "published": "2026-08-15T12:22:06+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley flags four catalysts for SpaceX stock through year-end",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-catalysts-for-spacex-stock-through-yearend-4861777",
-      "source": "investing.com",
-      "published": "2026-08-15T11:49:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Trend followers could keep buying Nasdaq, BofA says",
-      "url": "https://www.investing.com/news/stock-market-news/trend-followers-could-keep-buying-nasdaq-bofa-says-4861768",
-      "source": "investing.com",
-      "published": "2026-08-15T10:46:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
