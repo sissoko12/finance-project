@@ -1,6 +1,167 @@
 {
-  "last_updated": "2026-08-17T08:52:13.283822+00:00",
+  "last_updated": "2026-08-17T09:50:35.405094+00:00",
   "headlines": [
+    {
+      "title": "Citi raises its target for Kering, but keeps a neutral rating",
+      "url": "https://www.marketscreener.com/news/citi-raises-its-target-for-kering-but-keeps-a-neutral-rating-ce7859dfd08ff127",
+      "source": "marketscreener.com",
+      "published": "2026-08-17T09:21:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi resumes UMG coverage on higher music prices, buybacks and AI upside",
+      "url": "https://www.investing.com/news/stock-market-news/citi-resumes-umg-coverage-on-higher-music-prices-buybacks-and-ai-upside-4862412",
+      "source": "investing.com",
+      "published": "2026-08-17T09:12:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Shares Acquired by Penobscot Investment Management Company Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-acquired-by-penobscot-investment-management-company-inc-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T09:05:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Surience Private Wealth LLC Makes New $3 Million Investment in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-surience-private-wealth-llc-makes-new-3-million-investment-in-morgan-stanley-ms-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T09:05:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Munich Reinsurance Co Stock Corp in Munich Sells 34,983 Shares of Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-sells-34983-shares-of-morgan-stanley-ms-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T09:05:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Kesler Norman & Wride LLC Makes New Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kesler-norman-wride-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T09:04:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Johnson Investment Counsel Inc. Sells 12,692 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-investment-counsel-inc-sells-12692-shares-of-bank-of-america-corporation-bac-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T09:04:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Hixon Zuercher LLC Trims Stock Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hixon-zuercher-llc-trims-stock-position-in-wells-fargo-company-wfc-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T09:04:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "New York BagelFest Announces an Elite Bagel Lineup, with a Fresh Batch of the Best Heading to Citi Field this November",
+      "url": "https://www.prnewswire.com/news-releases/new-york-bagelfest-announces-an-elite-bagel-lineup-with-a-fresh-batch-of-the-best-heading-to-citi-field-this-november-302852273.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-17T09:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Thomasville National Bank Makes New $1.16 Million Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.tickerreport.com/banking-finance/13546497/thomasville-national-bank-makes-new-1-16-million-investment-in-wells-fargo-company-wfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T08:59:10+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Thomasville National Bank Purchases Shares of 13,987 Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-thomasville-national-bank-purchases-shares-of-13987-wells-fargo-company-wfc-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T08:57:10+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Moody Lynn Lieberson & Walker LLC Lowers Stake in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-moody-lynn-lieberson-walker-llc-lowers-stake-in-wells-fargo-company-wfc-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T08:57:09+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Prevail Innovative Wealth Advisors LLC Makes New $7.40 Million Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-prevail-innovative-wealth-advisors-llc-makes-new-740-million-investment-in-wells-fargo-company-wfc-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T08:57:09+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Odds of Fed Rate Hike This Year Fall as Goldman Sachs Warns Against Hawkish Bets",
+      "url": "https://finance.yahoo.com/economy/policy/articles/odds-fed-rate-hike-fall-083935313.html",
+      "source": "yahoo.com",
+      "published": "2026-08-17T08:39:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JP Morgan boss warns John Healey against raising bank taxes ahead of Budget",
+      "url": "https://www.standard.co.uk/business/business-news/jamie-dimon-john-healey-jp-morgan-government-b1293634.html",
+      "source": "standard.co.uk",
+      "published": "2026-08-17T08:25:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Global Retirement Partners LLC Takes Position in Truist Financial Corporation $TFC",
+      "url": "https://www.tickerreport.com/banking-finance/13546353/global-retirement-partners-llc-takes-position-in-truist-financial-corporation-tfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T08:11:40+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley initiates Target Hospitality stock at overweight",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-target-hospitality-stock-at-overweight-93CH-4862304",
+      "source": "investing.com",
+      "published": "2026-08-17T08:08:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
       "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
@@ -15,6 +176,15 @@
       "url": "https://www.gurufocus.com/news/9037647/jpm-jamie-dimon-warns-uk-chancellor-against-taxing-banks",
       "source": "gurufocus.com",
       "published": "2026-08-17T07:33:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Ingram Micro (NYSE:INGM) Downgraded by Wall Street Zen to Buy",
+      "url": "https://www.tickerreport.com/banking-finance/13546347/ingram-micro-nyseingm-downgraded-by-wall-street-zen-to-buy.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T07:13:09+00:00",
       "tickers": [
         "JPM"
       ]
@@ -44,6 +214,15 @@
       "url": "https://www.medianama.com/2026/08/223-openai-reports-chatgpt-murder-threats-to-fbi/",
       "source": "medianama.com",
       "published": "2026-08-17T07:03:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MYR Group (NASDAQ:MYRG) Rating Increased to Strong-Buy at Wall Street Zen",
+      "url": "https://www.tickerreport.com/banking-finance/13546336/myr-group-nasdaqmyrg-rating-increased-to-strong-buy-at-wall-street-zen.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T07:01:09+00:00",
       "tickers": [
         "GS"
       ]
@@ -100,181 +279,6 @@
       "published": "2026-08-17T04:15:30+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "NMDC Share Price Declines 4% After Q1 Results Disappoint, Citi Cuts Target Price",
-      "url": "https://www.ndtvprofit.com/markets/nmdc-nmdc-steel-share-price-fall-sharply-after-q1-results-disappoint-citi-cuts-target-price-11919246",
-      "source": "ndtvprofit.com",
-      "published": "2026-08-17T04:09:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates",
-      "source": "bloomberg.com",
-      "published": "2026-08-17T04:02:23+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up",
-      "url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-08-17T04:00:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Voltas shares in focus after Q1 profit surges 52%. Buy, Sell or Hold?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/voltas-shares-in-focus-after-q1-profit-surges-52-buy-sell-or-hold/articleshow/133286071.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-17T03:52:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Predicts BOJ Rate Hikes to 2% by 2027",
-      "url": "https://www.gurufocus.com/news/9037577/bank-of-america-predicts-boj-rate-hikes-to-2-by-2027",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T03:51:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ashok Leyland shares in focus after Q1 results. What do Citi and Nomura suggest?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashok-leyland-shares-in-focus-after-q1-results-what-are-citi-nomura-analysts-saying/articleshow/133285845.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-17T03:30:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Warns UK Chancellor Against Bank Tax Hikes",
-      "url": "https://www.gurufocus.com/news/9037566/jpm-jamie-dimon-warns-uk-chancellor-against-bank-tax-hikes",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T02:30:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One Financial: Solid 7% Yield From Series I Preferred Shares | $COF",
-      "url": "https://seekingalpha.com/article/4937192-capital-one-financial-solid-7-percent-yield-from-series-i-preferred-shares",
-      "source": "seekingalpha.com",
-      "published": "2026-08-17T01:48:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Weekend Reads #459 - A collection of cross-disciplinary thoughts, perspectives, and ...",
-      "url": "https://weekendreads.substack.com/p/weekend-reads-459",
-      "source": "substack.com",
-      "published": "2026-08-17T01:37:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley invests heavily in AST SpaceMobile",
-      "url": "https://www.advanced-television.com/2026/08/17/morgan-stanley-invests-heavily-in-ast-spacemobile/",
-      "source": "advanced-television.com",
-      "published": "2026-08-16T23:30:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Warns UK Against Increasing Bank Taxes",
-      "url": "https://www.gurufocus.com/news/9037503/jpm-jamie-dimon-warns-uk-against-increasing-bank-taxes",
-      "source": "gurufocus.com",
-      "published": "2026-08-16T23:11:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Rocket Lab refinances $3bn loan",
-      "url": "https://www.advanced-television.com/2026/08/17/rocket-lab-refinances-3bn-loan/",
-      "source": "advanced-television.com",
-      "published": "2026-08-16T23:10:42+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Unveils Top China Stocks Set to Soar with Next Wave of AI Hardware Exports",
-      "url": "https://profitconfidential.com/goldman-sachs-picks-china-stocks-poised-to-benefit-from-a-new-wave-of-ai-related-hardware-exports/",
-      "source": "profitconfidential.com",
-      "published": "2026-08-16T23:07:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Amex 400 dollar high yield savings bonus a huge scam",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vqbadi/amex_400_dollar_high_yield_savings_bonus_a_huge/",
-      "source": "reddit.com",
-      "published": "2026-08-16T22:57:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Says AI Spending Not Boosting Corporate Earnings",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-says-ai-spending-not-boosting-corporate-earnings/",
-      "source": "pymnts.com",
-      "published": "2026-08-16T22:56:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America tightens hybrid work policy",
-      "url": "https://www.charlotteobserver.com/news/business/article316853233.html#storylink=cpy#new_tab",
-      "source": "charlotteobserver.com",
-      "published": "2026-08-16T22:37:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Dimon warns UK’s Healey against raising taxes on banks, FT says",
-      "url": "https://fortune.com/2026/08/16/jamie-dimon-jpmorgan-uk-chancellor-healey-bank-tax-hikes-andy-burnham/",
-      "source": "fortune.com",
-      "published": "2026-08-16T22:33:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Christian Scott of the New York Mets pitches during the second inning against the Washington Nationals at Citi Field on Sunday, Aug. 16, 2026, in New York City.",
-      "url": "https://thebrunswicknews.com/sports/national_sports/christian-scott-of-the-new-york-mets-pitches-during-the-second-inning-against-the-washington/image_80175d58-47a3-5f60-bd3c-6f1747f06d99.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-08-16T21:27:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
-      "url": "https://www.investing.com/news/company-news/nvidias-neocloud-funding-could-drive-significant-revenue-stream--morgan-stanley-4862014",
-      "source": "investing.com",
-      "published": "2026-08-16T21:21:34+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
