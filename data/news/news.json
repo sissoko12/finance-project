@@ -1,6 +1,219 @@
 {
-  "last_updated": "2026-08-17T11:31:47.546751+00:00",
+  "last_updated": "2026-08-17T12:56:42.386921+00:00",
   "headlines": [
+    {
+      "title": "Melius Research Welcomes Highly Respected Housing Analyst, Michael Rehaut",
+      "url": "https://www.prnewswire.com/news-releases/melius-research-welcomes-highly-respected-housing-analyst-michael-rehaut-302852421.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-17T12:32:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs says a September Fed rate hike is very unlikely as inflation cools",
+      "url": "https://qz.com/goldman-sachs-september-fed-rate-hike-unlikely-inflation-081726",
+      "source": "qz.com",
+      "published": "2026-08-17T12:22:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "York Space Systems (NYSE:YSS) Receives \"Neutral\" Rating from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/york-space-systems-nyseyss-receives-neutral-rating-from-jpmorgan-chase-co-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T12:12:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Amcor (NYSE:AMCR) Receives Neutral Rating from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/amcor-nyseamcr-receives-neutral-rating-from-jpmorgan-chase-co-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T12:12:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SpaceX Stock Could More Than Double, Says Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9037613/spacex-stock-could-more-than-double-says-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T12:07:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BofA Keeps MU as Top Memory Stock, Highlights SNDK’s Signal of Structural Memory Growth",
+      "url": "https://profitconfidential.com/mu-remains-bofas-top-memory-pick-sndk-signals-memory-growth-may-be-structural-bofa-says/",
+      "source": "profitconfidential.com",
+      "published": "2026-08-17T12:07:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Lowers American Electric Power (NASDAQ:AEP) Price Target to $139.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-american-electric-power-nasdaqaep-price-target-to-13900-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T12:06:38+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Lowers Ameren (NYSE:AEE) Price Target to $120.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-ameren-nyseaee-price-target-to-12000-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T12:06:37+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Summary of Week 33 – August 10-14, 2026",
+      "url": "https://www.storagenewsletter.com/2026/08/17/summary-of-week-33-august-10-14-2026/",
+      "source": "storagenewsletter.com",
+      "published": "2026-08-17T12:01:50+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "McGraw Hill, Inc. to Participate in an Investor Call Hosted by Goldman Sachs",
+      "url": "http://www.businesswire.com/news/home/20260817778614/en/McGraw-Hill-Inc.-to-Participate-in-an-Investor-Call-Hosted-by-Goldman-Sachs/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-17T12:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi analysts downgrade SentinelOne, Netskope on valuation concerns",
+      "url": "https://www.investing.com/news/stock-market-news/citi-analysts-downgrade-sentinelone-netskope-on-valuation-concerns-4862906",
+      "source": "investing.com",
+      "published": "2026-08-17T11:58:56+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees Fed holding rates through year-end as inflation, jobs cool",
+      "url": "https://seekingalpha.com/news/4633775-morgan-stanley-sees-fed-holding-rates-through-year-end-as-inflation-jobs-cool",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T11:54:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup names Adam Clark wealth planning head",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-names-adam-clark-wealth-114636353.html",
+      "source": "yahoo.com",
+      "published": "2026-08-17T11:46:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Strategies Fund (NYSE:DHF) Short Interest Update",
+      "url": "https://www.marketbeat.com/instant-alerts/bny-mellon-high-yield-strategies-fund-nysedhf-short-interest-update-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T11:40:33+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of America sees gold as key hedge amid dollar weakness, inflation concerns",
+      "url": "https://cryptobriefing.com/bank-of-america-sees-gold-as-key-hedge-amid-dollar-weakness-inflation-concerns/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-17T11:36:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AI financing enters a new phase as capex needs widen—Morgan Stanley",
+      "url": "https://seekingalpha.com/news/4633761-ai-financing-enters-a-new-phase-as-capex-needs-widen---morgan-stanley",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T11:34:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
+      "url": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-17T11:33:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
+      "url": "https://www.barchart.com/story/news/3883710/silver-price-predictions-why-citi-analysts-see-silver-prices-soaring-to-90-soon",
+      "source": "barchart.com",
+      "published": "2026-08-17T11:30:02+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Companies that could see the biggest AI productivity benefits - Goldman",
+      "url": "https://seekingalpha.com/news/4633741-companies-that-could-see-the-biggest-ai-productivity-benefits---goldman",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T11:22:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo upgrades Okta stock rating on AI growth potential",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-okta-stock-rating-on-ai-growth-potential-93CH-4862743",
+      "source": "investing.com",
+      "published": "2026-08-17T11:10:50+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo raises CrowdStrike stock price target on strong pipeline",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-crowdstrike-stock-price-target-on-strong-pipeline-93CH-4862742",
+      "source": "investing.com",
+      "published": "2026-08-17T11:10:47+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Andy Burnham 'tax rises': JP Morgan boss warns higher bank and wealth levies risk driving jobs out of London",
+      "url": "https://www.standard.co.uk/news/london/taxes-banks-wealth-jamie-dimon-chancellor-jobs-london-b1293642.html",
+      "source": "standard.co.uk",
+      "published": "2026-08-17T11:08:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Toyota stock target raised at Citi on new RAV4 outlook",
+      "url": "https://www.investing.com/news/stock-market-news/toyota-stock-target-raised-at-citi-on-new-rav4-outlook-4862708",
+      "source": "investing.com",
+      "published": "2026-08-17T11:03:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Capital One Financial Corp's Dividend Analysis",
       "url": "https://www.gurufocus.com/news/9037898/capital-one-financial-corps-dividend-analysis",
@@ -39,250 +252,31 @@
       ]
     },
     {
-      "title": "Bank of America’s $250 Billion Bet on AI’s Power Hunger",
-      "url": "https://www.webpronews.com/bank-of-americas-250-billion-bet-on-ais-power-hunger/",
-      "source": "webpronews.com",
-      "published": "2026-08-17T10:32:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo sees dollar store earnings ahead with varied outlooks",
-      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-dollar-store-earnings-ahead-with-varied-outlooks-93CH-4862540",
-      "source": "investing.com",
-      "published": "2026-08-17T10:28:38+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "6,318 Shares in The PNC Financial Services Group, Inc $PNC Purchased by Simplicity Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6318-shares-in-the-pnc-financial-services-group-inc-pnc-purchased-by-simplicity-wealth-llc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T10:17:10+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Stock Position Cut by Trivium Point Advisory LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-position-cut-by-trivium-point-advisory-llc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T10:16:34+00:00",
+      "title": "Capital One Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://www.barchart.com/story/news/3882915/capital-one-stock-is-wall-street-bullish-or-bearish",
+      "source": "barchart.com",
+      "published": "2026-08-17T10:47:00+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Bank of America launches AI tracker covering model intelligence and costs",
-      "url": "https://cryptobriefing.com/bank-of-america-ai-model-tracker-launch/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-17T10:04:56+00:00",
+      "title": "SpaceX (SPCX) Stock: Billionaire Investors Maintain Large Positions Following Historic $86B Public Debut",
+      "url": "https://blockonomi.com/spacex-spcx-stock-billionaire-investors-maintain-large-positions-following-historic-86b-public-debut/",
+      "source": "blockonomi.com",
+      "published": "2026-08-17T10:42:22+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Bloomberg News Now - Trump Readies Unprecedented ‘Economic Isolation’ Plan for Iran ...",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-news-now-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-17T10:04:26+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "When will AI start boosting corporate earnings? Goldman Sachs weighs in",
-      "url": "https://www.investing.com/news/stock-market-news/when-will-ai-start-boosting-corporate-earnings-goldman-sachs-weighs-in-4862480",
-      "source": "investing.com",
-      "published": "2026-08-17T10:03:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon’s Blunt Warning to UK’s New Chancellor: Higher Bank Taxes Risk Driving Capital Away",
-      "url": "https://www.webpronews.com/jamie-dimons-blunt-warning-to-uks-new-chancellor-higher-bank-taxes-risk-driving-capital-away/",
+      "title": "Bank of America’s $250 Billion Bet on AI’s Power Hunger",
+      "url": "https://www.webpronews.com/bank-of-americas-250-billion-bet-on-ais-power-hunger/",
       "source": "webpronews.com",
-      "published": "2026-08-17T10:02:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426023833/0001918704-26-023833-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T10:01:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HBK Sorce Advisory LLC Purchases Shares of 9,313 State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hbk-sorce-advisory-llc-purchases-shares-of-9313-state-street-corporation-stt-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T10:00:54+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "HBK Sorce Advisory LLC Purchases Shares of 21,720 The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hbk-sorce-advisory-llc-purchases-shares-of-21720-the-pnc-financial-services-group-inc-pnc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T10:00:46+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Higgsfield Raises $400 Million Series B Financing at $5.4 Billion Valuation with Annualized Revenue Reaching $700 Million",
-      "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-17T10:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Says the AI Memory Boom Isn’t Over: Why It Sees Micron’s Earnings Exploding 34% a Year",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-says-ai-memory-095630735.html",
-      "source": "yahoo.com",
-      "published": "2026-08-17T09:56:30+00:00",
+      "published": "2026-08-17T10:32:06+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA says used equipment values remain stable in July",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-says-used-equipment-values-remain-stable-in-july-93CH-4862442",
-      "source": "investing.com",
-      "published": "2026-08-17T09:38:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA launches AI tracker as Claude leads intelligence rankings",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-launches-ai-tracker-as-claude-leads-intelligence-rankings-93CH-4862432",
-      "source": "investing.com",
-      "published": "2026-08-17T09:33:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi raises its target for Kering, but keeps a neutral rating",
-      "url": "https://www.marketscreener.com/news/citi-raises-its-target-for-kering-but-keeps-a-neutral-rating-ce7859dfd08ff127",
-      "source": "marketscreener.com",
-      "published": "2026-08-17T09:21:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi resumes UMG coverage on higher music prices, buybacks and AI upside",
-      "url": "https://www.investing.com/news/stock-market-news/citi-resumes-umg-coverage-on-higher-music-prices-buybacks-and-ai-upside-4862412",
-      "source": "investing.com",
-      "published": "2026-08-17T09:12:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Acquired by Penobscot Investment Management Company Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-acquired-by-penobscot-investment-management-company-inc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T09:05:04+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Surience Private Wealth LLC Makes New $3 Million Investment in Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-surience-private-wealth-llc-makes-new-3-million-investment-in-morgan-stanley-ms-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T09:05:04+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Munich Reinsurance Co Stock Corp in Munich Sells 34,983 Shares of Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-sells-34983-shares-of-morgan-stanley-ms-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T09:05:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kesler Norman & Wride LLC Makes New Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kesler-norman-wride-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T09:04:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Johnson Investment Counsel Inc. Sells 12,692 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-johnson-investment-counsel-inc-sells-12692-shares-of-bank-of-america-corporation-bac-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T09:04:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Hixon Zuercher LLC Trims Stock Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hixon-zuercher-llc-trims-stock-position-in-wells-fargo-company-wfc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T09:04:42+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "New York BagelFest Announces an Elite Bagel Lineup, with a Fresh Batch of the Best Heading to Citi Field this November",
-      "url": "https://www.prnewswire.com/news-releases/new-york-bagelfest-announces-an-elite-bagel-lineup-with-a-fresh-batch-of-the-best-heading-to-citi-field-this-november-302852273.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-17T09:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Thomasville National Bank Makes New $1.16 Million Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.tickerreport.com/banking-finance/13546497/thomasville-national-bank-makes-new-1-16-million-investment-in-wells-fargo-company-wfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-17T08:59:10+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Thomasville National Bank Purchases Shares of 13,987 Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-thomasville-national-bank-purchases-shares-of-13987-wells-fargo-company-wfc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T08:57:10+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
