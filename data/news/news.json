@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-17T04:20:29.600560+00:00",
+  "last_updated": "2026-08-17T05:10:18.687275+00:00",
   "headlines": [
+    {
+      "title": "AI video startup Higgsfield hits $5.4B valuation with Goldman, Intel backing: FT",
+      "url": "https://seekingalpha.com/news/4633622-ai-video-startup-higgsfield-hits-54b-valuation-with-goldman-intel-backing-ft",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T04:15:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates",
+      "source": "bloomberg.com",
+      "published": "2026-08-17T04:02:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Voltas shares in focus after Q1 profit surges 52%. Buy, Sell or Hold?",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/voltas-shares-in-focus-after-q1-profit-surges-52-buy-sell-or-hold/articleshow/133286071.cms",
@@ -8,6 +26,16 @@
       "published": "2026-08-17T03:52:42+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Predicts BOJ Rate Hikes to 2% by 2027",
+      "url": "https://www.gurufocus.com/news/9037577/bank-of-america-predicts-boj-rate-hikes-to-2-by-2027",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T03:51:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -250,33 +278,6 @@
       "published": "2026-08-16T14:44:54+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Nvidia (NVDA) Partners with Goldman Sachs for $500 Billion AI Financing Plan",
-      "url": "https://www.gurufocus.com/news/9037399/nvidia-nvda-partners-with-goldman-sachs-for-500-billion-ai-financing-plan",
-      "source": "gurufocus.com",
-      "published": "2026-08-16T14:10:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "America’s Strategic Petroleum Reserve Is Shrinking: How Low Can It Really Go?",
-      "url": "https://thepeopleseconomist.substack.com/p/americas-strategic-petroleum-reserve",
-      "source": "substack.com",
-      "published": "2026-08-16T14:02:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR signed MOUs to create dedicated capital pools intended to offer NVIDIA customers attractive financing rates.",
-      "url": "https://substack.com/redirect/cf747cce-e646-40f7-a252-3c1d6beb4729",
-      "source": "substack.com",
-      "published": "2026-08-16T13:53:23+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
