@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-17T07:34:19.672289+00:00",
+  "last_updated": "2026-08-17T08:52:13.283822+00:00",
   "headlines": [
+    {
+      "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
+      "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
+      "source": "theguardian.com",
+      "published": "2026-08-17T07:55:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPM, Jamie Dimon Warns UK Chancellor Against Taxing Banks",
+      "url": "https://www.gurufocus.com/news/9037647/jpm-jamie-dimon-warns-uk-chancellor-against-taxing-banks",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T07:33:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Bank of America Corporation $BAC Shares Purchased by Abundance Wealth Counselors",
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-purchased-by-abundance-wealth-counselors-2026-08-17/",
@@ -19,6 +37,15 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Florida man pleads guilty after OpenAI reported his ChatGPT murder plot to the FBI",
+      "url": "https://www.medianama.com/2026/08/223-openai-reports-chatgpt-murder-threats-to-fbi/",
+      "source": "medianama.com",
+      "published": "2026-08-17T07:03:40+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -73,6 +100,15 @@
       "published": "2026-08-17T04:15:30+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "NMDC Share Price Declines 4% After Q1 Results Disappoint, Citi Cuts Target Price",
+      "url": "https://www.ndtvprofit.com/markets/nmdc-nmdc-steel-share-price-fall-sharply-after-q1-results-disappoint-citi-cuts-target-price-11919246",
+      "source": "ndtvprofit.com",
+      "published": "2026-08-17T04:09:24+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -239,44 +275,6 @@
       "published": "2026-08-16T21:21:34+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Bank of America sees ‘great convergence’ across America’s two economies",
-      "url": "https://finance.yahoo.com/economy/articles/bank-america-sees-great-convergence-210300748.html",
-      "source": "yahoo.com",
-      "published": "2026-08-16T21:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "I know this sounds crazy! Citigroup",
-      "url": "https://www.reddit.com/r/wallstreetbets/comments/1vq7qhk/i_know_this_sounds_crazy_citigroup/",
-      "source": "reddit.com",
-      "published": "2026-08-16T20:29:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Looking to break the cycle of bad car loans, help please?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vq6yqu/looking_to_break_the_cycle_of_bad_car_loans_help/",
-      "source": "reddit.com",
-      "published": "2026-08-16T19:59:27+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Jamie Dimon warns UK chancellor against higher bank taxes",
-      "url": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-08-16T19:00:04+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
