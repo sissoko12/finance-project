@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-17T01:45:28.231318+00:00",
+  "last_updated": "2026-08-17T03:06:18.859821+00:00",
   "headlines": [
+    {
+      "title": "JPM, Jamie Dimon Warns UK Chancellor Against Bank Tax Hikes",
+      "url": "https://www.gurufocus.com/news/9037566/jpm-jamie-dimon-warns-uk-chancellor-against-bank-tax-hikes",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T02:30:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One Financial: Solid 7% Yield From Series I Preferred Shares | $COF",
+      "url": "https://seekingalpha.com/article/4937192-capital-one-financial-solid-7-percent-yield-from-series-i-preferred-shares",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T01:48:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Weekend Reads #459 - A collection of cross-disciplinary thoughts, perspectives, and ...",
+      "url": "https://weekendreads.substack.com/p/weekend-reads-459",
+      "source": "substack.com",
+      "published": "2026-08-17T01:37:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "JPM, Jamie Dimon Warns UK Against Increasing Bank Taxes",
       "url": "https://www.gurufocus.com/news/9037503/jpm-jamie-dimon-warns-uk-against-increasing-bank-taxes",
@@ -225,6 +253,15 @@
       ]
     },
     {
+      "title": "Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR signed MOUs to create dedicated capital pools intended to offer NVIDIA customers attractive financing rates.",
+      "url": "https://substack.com/redirect/cf747cce-e646-40f7-a252-3c1d6beb4729",
+      "source": "substack.com",
+      "published": "2026-08-16T13:53:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says",
       "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says",
       "source": "seekingalpha.com",
@@ -240,43 +277,6 @@
       "published": "2026-08-16T13:41:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs identifies China stocks set to benefit from AI hardware exports",
-      "url": "https://cryptobriefing.com/goldman-sachs-china-ai-hardware-stocks/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-16T12:09:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-face-bigger-threat-fed-120000846.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-16T12:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
-      "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
-      "source": "cnbc.com",
-      "published": "2026-08-16T11:55:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Fraudsters Steal $30,000 From Wells Fargo Customer After Masquerading as Law Enforcement Officials",
-      "url": "https://dailyhodl.com/2026/08/16/fraudsters-steal-30000-from-wells-fargo-customer-after-masquerading-as-law-enforcement-officials/",
-      "source": "dailyhodl.com",
-      "published": "2026-08-16T11:45:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
