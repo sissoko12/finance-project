@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-16T23:48:51.689278+00:00",
+  "last_updated": "2026-08-17T01:45:28.231318+00:00",
   "headlines": [
+    {
+      "title": "JPM, Jamie Dimon Warns UK Against Increasing Bank Taxes",
+      "url": "https://www.gurufocus.com/news/9037503/jpm-jamie-dimon-warns-uk-against-increasing-bank-taxes",
+      "source": "gurufocus.com",
+      "published": "2026-08-16T23:11:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Unveils Top China Stocks Set to Soar with Next Wave of AI Hardware Exports",
+      "url": "https://profitconfidential.com/goldman-sachs-picks-china-stocks-poised-to-benefit-from-a-new-wave-of-ai-related-hardware-exports/",
+      "source": "profitconfidential.com",
+      "published": "2026-08-16T23:07:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Amex 400 dollar high yield savings bonus a huge scam",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vqbadi/amex_400_dollar_high_yield_savings_bonus_a_huge/",
+      "source": "reddit.com",
+      "published": "2026-08-16T22:57:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Goldman Sachs Says AI Spending Not Boosting Corporate Earnings",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-says-ai-spending-not-boosting-corporate-earnings/",
@@ -250,35 +277,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "SCS Capital Management LLC Makes New Investment in Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-scs-capital-management-llc-makes-new-investment-in-truist-financial-corporation-tfc-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T11:12:45+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Synergy Asset Management LLC Raises Stock Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13545559/synergy-asset-management-llc-raises-stock-holdings-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T10:35:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "WT Wealth Management Purchases Shares of 3,388 The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13545540/wt-wealth-management-purchases-shares-of-3388-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-16T10:33:04+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
