@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-17T03:06:18.859821+00:00",
+  "last_updated": "2026-08-17T04:20:29.600560+00:00",
   "headlines": [
+    {
+      "title": "Voltas shares in focus after Q1 profit surges 52%. Buy, Sell or Hold?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/voltas-shares-in-focus-after-q1-profit-surges-52-buy-sell-or-hold/articleshow/133286071.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-17T03:52:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ashok Leyland shares in focus after Q1 results. What do Citi and Nomura suggest?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashok-leyland-shares-in-focus-after-q1-results-what-are-citi-nomura-analysts-saying/articleshow/133285845.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-17T03:30:06+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "JPM, Jamie Dimon Warns UK Chancellor Against Bank Tax Hikes",
       "url": "https://www.gurufocus.com/news/9037566/jpm-jamie-dimon-warns-uk-chancellor-against-bank-tax-hikes",
@@ -259,24 +277,6 @@
       "published": "2026-08-16T13:53:23+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says",
-      "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says",
-      "source": "seekingalpha.com",
-      "published": "2026-08-16T13:43:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Raises S&P 500 Target to 8,000 as Earnings and AI Growth Strengthen Outlook",
-      "url": "https://investorshub.advfn.com/market-news/article/34287/jpmorgan-raises-sp-500-target-to-8000-as-earnings-and-ai-growth-strengthen-outlook?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-08-16T13:41:00+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
