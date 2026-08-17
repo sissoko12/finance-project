@@ -1,6 +1,100 @@
 {
-  "last_updated": "2026-08-17T12:56:42.386921+00:00",
+  "last_updated": "2026-08-17T13:45:54.252277+00:00",
   "headlines": [
+    {
+      "title": "SUNB Initiated Coverage by Wells Fargo -- Rating Set to Overweight",
+      "url": "https://www.gurufocus.com/news/9038298/sunb-initiated-coverage-by-wells-fargo-rating-set-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T13:32:54+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "OKTA Upgraded by Wells Fargo -- Price Target Raised to $180",
+      "url": "https://www.gurufocus.com/news/9038295/okta-upgraded-by-wells-fargo-price-target-raised-to-180",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T13:32:54+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "AMCR Downgraded by JP Morgan -- Rating Changed to Neutral",
+      "url": "https://www.gurufocus.com/news/9038290/amcr-downgraded-by-jp-morgan-rating-changed-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T13:32:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FSS Initiated Coverage by Citigroup -- Rating Set to Buy",
+      "url": "https://www.gurufocus.com/news/9038292/fss-initiated-coverage-by-citigroup-rating-set-to-buy",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T13:32:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "YSS Downgraded by JP Morgan -- Price Target Lowered to $17.00",
+      "url": "https://www.gurufocus.com/news/9038288/yss-downgraded-by-jp-morgan-price-target-lowered-to-1700",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T13:32:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PLDT (NYSE:PHI) Downgraded to Neutral Rating by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/pldt-nysephi-downgraded-to-neutral-rating-by-jpmorgan-chase-co-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T13:06:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Elavon renews partnership with Sage to simplify payments for growing businesses",
+      "url": "http://www.businesswire.com/news/home/20260817822382/en/Elavon-renews-partnership-with-Sage-to-simplify-payments-for-growing-businesses/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-08-17T13:04:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "The S&P 500 Keeps Hitting Records. Bank of America Warns of Two Risks That Could End the Rally.",
+      "url": "https://www.ibtimes.com/sp-500-keeps-hitting-records-bank-america-warns-two-risks-that-could-end-rally-3806439",
+      "source": "ibtimes.com",
+      "published": "2026-08-17T13:02:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs warns of consumer spending slowdown as tax refund boost fades",
+      "url": "https://finance.yahoo.com/economy/article/goldman-sachs-warns-of-consumer-spending-slowdown-as-tax-refund-boost-fades-125557282.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-17T12:55:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Barclays shakes up investment bank less than 3 years since last overhaul",
+      "url": "https://www.ft.com/content/35be5ef3-4ea3-444d-b509-2fb00a9940c9?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-08-17T12:40:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Melius Research Welcomes Highly Respected Housing Analyst, Michael Rehaut",
       "url": "https://www.prnewswire.com/news-releases/melius-research-welcomes-highly-respected-housing-analyst-michael-rehaut-302852421.html",
@@ -8,6 +102,24 @@
       "published": "2026-08-17T12:32:00+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan cut Polymarket as banking client over regulatory concerns",
+      "url": "https://qz.com/jpmorgan-polymarket-banking-relationship-regulatory-concerns-081726?.tsrc=rss",
+      "source": "qz.com",
+      "published": "2026-08-17T12:31:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs: September Fed rate hike very unlikely as inflation slows",
+      "url": "https://qz.com/goldman-sachs-september-fed-rate-hike-unlikely-inflation-081726?.tsrc=rss",
+      "source": "qz.com",
+      "published": "2026-08-17T12:22:49+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -39,8 +151,8 @@
     },
     {
       "title": "SpaceX Stock Could More Than Double, Says Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/9037613/spacex-stock-could-more-than-double-says-morgan-stanley",
-      "source": "gurufocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-could-more-double-120755694.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-08-17T12:07:55+00:00",
       "tickers": [
         "MS"
@@ -87,8 +199,8 @@
     },
     {
       "title": "McGraw Hill, Inc. to Participate in an Investor Call Hosted by Goldman Sachs",
-      "url": "http://www.businesswire.com/news/home/20260817778614/en/McGraw-Hill-Inc.-to-Participate-in-an-Investor-Call-Hosted-by-Goldman-Sachs/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mcgraw-hill-inc-participate-investor-120000754.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-08-17T12:00:00+00:00",
       "tickers": [
         "GS"
@@ -113,6 +225,16 @@
       ]
     },
     {
+      "title": "Gold Surges Near $4,400 as Bank of America Endorses Long Position Amid Dollar Decline",
+      "url": "https://blockonomi.com/gold-surges-near-4400-as-bank-of-america-endorses-long-position-amid-dollar-decline/",
+      "source": "blockonomi.com",
+      "published": "2026-08-17T11:51:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Citigroup names Adam Clark wealth planning head",
       "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-names-adam-clark-wealth-114636353.html",
       "source": "yahoo.com",
@@ -128,6 +250,16 @@
       "published": "2026-08-17T11:40:33+00:00",
       "tickers": [
         "BK"
+      ]
+    },
+    {
+      "title": "MU Remains BofA's Top Memory Pick – SNDK Signals Memory Growth May Be Structural, BofA Says",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-250-eps-bull-case-sndk-signals-memory-growth-structural-bofa/cZYGbtPRJ12?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-08-17T11:36:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -147,137 +279,6 @@
       "published": "2026-08-17T11:34:39+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
-      "url": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-08-17T11:33:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
-      "url": "https://www.barchart.com/story/news/3883710/silver-price-predictions-why-citi-analysts-see-silver-prices-soaring-to-90-soon",
-      "source": "barchart.com",
-      "published": "2026-08-17T11:30:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Companies that could see the biggest AI productivity benefits - Goldman",
-      "url": "https://seekingalpha.com/news/4633741-companies-that-could-see-the-biggest-ai-productivity-benefits---goldman",
-      "source": "seekingalpha.com",
-      "published": "2026-08-17T11:22:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo upgrades Okta stock rating on AI growth potential",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-upgrades-okta-stock-rating-on-ai-growth-potential-93CH-4862743",
-      "source": "investing.com",
-      "published": "2026-08-17T11:10:50+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo raises CrowdStrike stock price target on strong pipeline",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-crowdstrike-stock-price-target-on-strong-pipeline-93CH-4862742",
-      "source": "investing.com",
-      "published": "2026-08-17T11:10:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Andy Burnham 'tax rises': JP Morgan boss warns higher bank and wealth levies risk driving jobs out of London",
-      "url": "https://www.standard.co.uk/news/london/taxes-banks-wealth-jamie-dimon-chancellor-jobs-london-b1293642.html",
-      "source": "standard.co.uk",
-      "published": "2026-08-17T11:08:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Toyota stock target raised at Citi on new RAV4 outlook",
-      "url": "https://www.investing.com/news/stock-market-news/toyota-stock-target-raised-at-citi-on-new-rav4-outlook-4862708",
-      "source": "investing.com",
-      "published": "2026-08-17T11:03:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corp's Dividend Analysis",
-      "url": "https://www.gurufocus.com/news/9037898/capital-one-financial-corps-dividend-analysis",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T11:02:26+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "TH Initiates Coverage On Morgan Stanley -- Rating Set at Overweight",
-      "url": "https://www.gurufocus.com/news/9037896/th-initiates-coverage-on-morgan-stanley-rating-set-at-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T11:01:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ETSY Reinstated by Goldman Sachs -- Rating Upgraded to Neutral",
-      "url": "https://www.gurufocus.com/news/9037892/etsy-reinstated-by-goldman-sachs-rating-upgraded-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T11:00:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
-      "url": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-08-17T10:48:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://www.barchart.com/story/news/3882915/capital-one-stock-is-wall-street-bullish-or-bearish",
-      "source": "barchart.com",
-      "published": "2026-08-17T10:47:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "SpaceX (SPCX) Stock: Billionaire Investors Maintain Large Positions Following Historic $86B Public Debut",
-      "url": "https://blockonomi.com/spacex-spcx-stock-billionaire-investors-maintain-large-positions-following-historic-86b-public-debut/",
-      "source": "blockonomi.com",
-      "published": "2026-08-17T10:42:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America’s $250 Billion Bet on AI’s Power Hunger",
-      "url": "https://www.webpronews.com/bank-of-americas-250-billion-bet-on-ais-power-hunger/",
-      "source": "webpronews.com",
-      "published": "2026-08-17T10:32:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
