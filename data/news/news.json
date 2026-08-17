@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-08-17T06:01:42.013692+00:00",
+  "last_updated": "2026-08-17T07:34:19.672289+00:00",
   "headlines": [
+    {
+      "title": "Bank of America Corporation $BAC Shares Purchased by Abundance Wealth Counselors",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-purchased-by-abundance-wealth-counselors-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T07:05:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SoftBank Invests in Capital One, Sharply Cuts Its TSMC Stake",
+      "url": "https://www.marketscreener.com/news/softbank-invests-in-capital-one-sharply-cuts-its-tsmc-stake-ce7859dfd88ff627",
+      "source": "marketscreener.com",
+      "published": "2026-08-17T07:03:46+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citigroup Optimistic on Indian Market Amid Strong Q1 Earnings",
+      "url": "https://www.gurufocus.com/news/9037604/citigroup-optimistic-on-indian-market-amid-strong-q1-earnings",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T06:30:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Warns Against Overly Aggressive Fed Rate Hike Bets",
+      "url": "https://www.gurufocus.com/news/9037589/goldman-sachs-warns-against-overly-aggressive-fed-rate-hike-bets",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T05:50:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "AI video generation startup Higgsfield raised $400M from DST, Goldman Sachs, Liberty Global, Intel, and others at a $5.4B valuation, up from $1.3B in January (James Fontanella-Khan/Financial Times)",
       "url": "https://www.techmeme.com/260817/p3#a260817p3",
@@ -8,6 +46,15 @@
       "published": "2026-08-17T05:10:01+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan will accept Bitcoin as collateral: the line between banking and crypto just disappeared",
+      "url": "https://crypto.news/jpmorgan-bitcoin-collateral-banking-crypto/",
+      "source": "crypto.news",
+      "published": "2026-08-17T04:38:58+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -121,6 +168,16 @@
       ]
     },
     {
+      "title": "Rocket Lab refinances $3bn loan",
+      "url": "https://www.advanced-television.com/2026/08/17/rocket-lab-refinances-3bn-loan/",
+      "source": "advanced-television.com",
+      "published": "2026-08-16T23:10:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs Unveils Top China Stocks Set to Soar with Next Wave of AI Hardware Exports",
       "url": "https://profitconfidential.com/goldman-sachs-picks-china-stocks-poised-to-benefit-from-a-new-wave-of-ai-related-hardware-exports/",
       "source": "profitconfidential.com",
@@ -220,64 +277,6 @@
       "published": "2026-08-16T19:00:04+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Financial Stocks To Watch Now - August 16th",
-      "url": "https://www.marketbeat.com/instant-alerts/financial-stocks-to-watch-now-august-16th-2026-08-16/",
-      "source": "marketbeat.com",
-      "published": "2026-08-16T17:01:55+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley says disinflation is here, but risks to 2027 rate outlook remain",
-      "url": "https://www.investing.com/news/economy-news/morgan-stanley-says-disinflation-is-here-but-risks-to-2027-rate-outlook-remain-4862000",
-      "source": "investing.com",
-      "published": "2026-08-16T16:59:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan ended Polymarket banking relationship over regulatory concerns",
-      "url": "https://seekingalpha.com/news/4633606-j-p-morgan-ended-polymarket-banking-relationship-over-regulatory-concerns",
-      "source": "seekingalpha.com",
-      "published": "2026-08-16T16:33:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Reddit’s S&P 500 debut could unleash nearly $3 billion of index-fund buying",
-      "url": "https://www.thestreet.com/investing/reddits-sp-500-debut-could-unleash-billions-in-index-fund-buying?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-08-16T16:03:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One, Chase And Amex Airport Lounges Ranked — These Are The 8 Best In The U.S.",
-      "url": "https://viewfromthewing.com/capital-one-chase-and-amex-airport-lounges-ranked-these-are-the-8-best-in-the-u-s/",
-      "source": "viewfromthewing.com",
-      "published": "2026-08-16T15:58:25+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "BofA favors value, biotech and commodities as AI productivity lags",
-      "url": "https://seekingalpha.com/news/4633604-bofa-favors-value-biotech-and-commodities-as-ai-productivity-lags",
-      "source": "seekingalpha.com",
-      "published": "2026-08-16T15:42:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
