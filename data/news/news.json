@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-08-17T10:38:11.920424+00:00",
+  "last_updated": "2026-08-17T11:31:47.546751+00:00",
   "headlines": [
+    {
+      "title": "Capital One Financial Corp's Dividend Analysis",
+      "url": "https://www.gurufocus.com/news/9037898/capital-one-financial-corps-dividend-analysis",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T11:02:26+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "TH Initiates Coverage On Morgan Stanley -- Rating Set at Overweight",
+      "url": "https://www.gurufocus.com/news/9037896/th-initiates-coverage-on-morgan-stanley-rating-set-at-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T11:01:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ETSY Reinstated by Goldman Sachs -- Rating Upgraded to Neutral",
+      "url": "https://www.gurufocus.com/news/9037892/etsy-reinstated-by-goldman-sachs-rating-upgraded-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T11:00:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
+      "url": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-17T10:48:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America’s $250 Billion Bet on AI’s Power Hunger",
+      "url": "https://www.webpronews.com/bank-of-americas-250-billion-bet-on-ais-power-hunger/",
+      "source": "webpronews.com",
+      "published": "2026-08-17T10:32:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo sees dollar store earnings ahead with varied outlooks",
+      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-dollar-store-earnings-ahead-with-varied-outlooks-93CH-4862540",
+      "source": "investing.com",
+      "published": "2026-08-17T10:28:38+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "6,318 Shares in The PNC Financial Services Group, Inc $PNC Purchased by Simplicity Wealth LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-6318-shares-in-the-pnc-financial-services-group-inc-pnc-purchased-by-simplicity-wealth-llc-2026-08-17/",
@@ -50,6 +107,24 @@
       ]
     },
     {
+      "title": "Jamie Dimon’s Blunt Warning to UK’s New Chancellor: Higher Bank Taxes Risk Driving Capital Away",
+      "url": "https://www.webpronews.com/jamie-dimons-blunt-warning-to-uks-new-chancellor-higher-bank-taxes-risk-driving-capital-away/",
+      "source": "webpronews.com",
+      "published": "2026-08-17T10:02:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426023833/0001918704-26-023833-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T10:01:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "HBK Sorce Advisory LLC Purchases Shares of 9,313 State Street Corporation $STT",
       "url": "https://www.marketbeat.com/instant-alerts/filing-hbk-sorce-advisory-llc-purchases-shares-of-9313-state-street-corporation-stt-2026-08-17/",
       "source": "marketbeat.com",
@@ -79,8 +154,8 @@
     },
     {
       "title": "Bank of America Says the AI Memory Boom Isn’t Over: Why It Sees Micron’s Earnings Exploding 34% a Year",
-      "url": "https://247wallst.com/investing/2026/08/17/bank-of-america-says-the-ai-memory-boom-isnt-over-why-it-sees-microns-earnings-exploding-34-a-year/",
-      "source": "247wallst.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-says-ai-memory-095630735.html",
+      "source": "yahoo.com",
       "published": "2026-08-17T09:56:30+00:00",
       "tickers": [
         "BAC",
@@ -209,81 +284,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Moody Lynn Lieberson & Walker LLC Lowers Stake in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-moody-lynn-lieberson-walker-llc-lowers-stake-in-wells-fargo-company-wfc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T08:57:09+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Prevail Innovative Wealth Advisors LLC Makes New $7.40 Million Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-prevail-innovative-wealth-advisors-llc-makes-new-740-million-investment-in-wells-fargo-company-wfc-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T08:57:09+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Odds of Fed Rate Hike This Year Fall as Goldman Sachs Warns Against Hawkish Bets",
-      "url": "https://finance.yahoo.com/economy/policy/articles/odds-fed-rate-hike-fall-083935313.html",
-      "source": "yahoo.com",
-      "published": "2026-08-17T08:39:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JP Morgan boss warns John Healey against raising bank taxes ahead of Budget",
-      "url": "https://www.standard.co.uk/business/business-news/jamie-dimon-john-healey-jp-morgan-government-b1293634.html",
-      "source": "standard.co.uk",
-      "published": "2026-08-17T08:25:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Global Retirement Partners LLC Takes Position in Truist Financial Corporation $TFC",
-      "url": "https://www.tickerreport.com/banking-finance/13546353/global-retirement-partners-llc-takes-position-in-truist-financial-corporation-tfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-17T08:11:40+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley initiates Target Hospitality stock at overweight",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-target-hospitality-stock-at-overweight-93CH-4862304",
-      "source": "investing.com",
-      "published": "2026-08-17T08:08:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
-      "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
-      "source": "theguardian.com",
-      "published": "2026-08-17T07:55:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Warns UK Chancellor Against Taxing Banks",
-      "url": "https://www.gurufocus.com/news/9037647/jpm-jamie-dimon-warns-uk-chancellor-against-taxing-banks",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T07:33:59+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
