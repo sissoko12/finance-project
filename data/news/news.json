@@ -1,6 +1,116 @@
 {
-  "last_updated": "2026-08-17T16:35:02.070217+00:00",
+  "last_updated": "2026-08-17T17:33:10.496333+00:00",
   "headlines": [
+    {
+      "title": "KBRA Assigns Preliminary Ratings to GS Mortgage-Backed Securities Trust 2026-HE2 (GSMBS 2026-HE2)",
+      "url": "http://www.businesswire.com/news/home/20260817482536/en/KBRA-Assigns-Preliminary-Ratings-to-GS-Mortgage-Backed-Securities-Trust-2026-HE2-GSMBS-2026-HE2/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-08-17T17:13:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Reaches New 52-Week High - Time to Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-reaches-new-52-week-high-time-to-buy-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T17:00:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026090628/0001213900-26-090628-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T16:57:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The ‘Jamie premium’ nears $1 trillion as JP Morgan flirts with historic market valuation",
+      "url": "https://fortune.com/2026/08/17/jamie-dimon-jpmorgan-valuation/",
+      "source": "fortune.com",
+      "published": "2026-08-17T16:47:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NXDR Maintained by Citigroup -- Price Target Raised to $2.85",
+      "url": "https://www.gurufocus.com/news/9038768/nxdr-maintained-by-citigroup-price-target-raised-to-285",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T16:38:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "FA Maintained by Citigroup -- Price Target Raised to $22.00",
+      "url": "https://www.gurufocus.com/news/9038765/fa-maintained-by-citigroup-price-target-raised-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T16:37:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PPLI Maintains Buy Rating by Citigroup -- Price Target Raised to $52",
+      "url": "https://www.gurufocus.com/news/9038764/ppli-maintains-buy-rating-by-citigroup-price-target-raised-to-52",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T16:37:19+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "$NU: is Nubank Capital One in 1994 or Capital One in 2006? | Vanshap Capital",
+      "url": "https://www.yetanothervalueblog.com/p/nu-is-nubank-capital-one-in-1994",
+      "source": "yetanothervalueblog.com",
+      "published": "2026-08-17T16:36:37+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "ACVA Maintained by Citigroup -- Price Target Raised to $8.50",
+      "url": "https://www.gurufocus.com/news/9038761/acva-maintained-by-citigroup-price-target-raised-to-850",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T16:36:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs closes short THB/INR trade for small gain",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-closes-short-thbinr-trade-for-small-gain-93CH-4863713",
+      "source": "investing.com",
+      "published": "2026-08-17T16:18:18+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley's troubling housing forecast is playing out now",
+      "url": "https://finance.yahoo.com/real-estate/articles/morgan-stanleys-troubling-housing-forecast-161700972.html",
+      "source": "yahoo.com",
+      "published": "2026-08-17T16:17:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Drops Stark Stock Market Warning",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-drops-stark-stock-161452067.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-17T16:14:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "BofA sees dollar weakness continuing with New Zealand dollar gains",
       "url": "https://www.investing.com/news/stock-market-news/bofa-sees-dollar-weakness-continuing-with-new-zealand-dollar-gains-93CH-4863697",
@@ -19,6 +129,16 @@
       "tickers": [
         "JPM",
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo Projects Fed Will Keep Interest Rates Steady Until 2027",
+      "url": "https://blockonomi.com/wells-fargo-projects-fed-will-keep-interest-rates-steady-until-2027/",
+      "source": "blockonomi.com",
+      "published": "2026-08-17T15:46:00+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -121,167 +241,6 @@
       "published": "2026-08-17T15:04:17+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA sees Micron EPS topping $230 by FY30, calls peak fears overblown",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-micron-eps-topping-230-by-fy30-calls-peak-fears-overblown-4863575",
-      "source": "investing.com",
-      "published": "2026-08-17T15:02:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GEMI Maintained by Goldman Sachs -- Price Target Lowered to $3.50",
-      "url": "https://www.gurufocus.com/news/9038564/gemi-maintained-by-goldman-sachs-price-target-lowered-to-350",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T15:01:23+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Sets New 12-Month High - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/the-pnc-financial-services-group-nysepnc-sets-new-12-month-high-whats-next-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:00:57+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon (NYSE:BNY) Sets New 1-Year High - Here's Why",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-nysebny-sets-new-1-year-high-heres-why-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:00:56+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Reaches New 12-Month High - Here's What Happened",
-      "url": "https://www.marketbeat.com/instant-alerts/state-street-nysestt-reaches-new-12-month-high-heres-what-happened-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:00:55+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BNY Mellon International Equity Fund Q2 2026 Commentary | $NIEAX $NIECX $NIEYX",
-      "url": "https://seekingalpha.com/article/4937325-bny-mellon-international-equity-fund-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-08-17T14:59:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Goldman Sachs warns that a consumer slowdown could soon hit the economy as tax refunds dry up",
-      "url": "https://www.businessinsider.com/us-economic-outlook-consumer-slowdown-goldman-sachs-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-17T14:58:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Here's how Citi says you should plan for a possible divided government",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=e3f5e268-eba4-4f78-be29-9c416c731fe2&mod=mw_rss_bulletins",
-      "source": "marketwatch.com",
-      "published": "2026-08-17T14:57:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup sees potential bond rally as Polymarket odds shift for midterms",
-      "url": "https://cryptobriefing.com/citigroup-bond-rally-polymarket-midterms/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-17T14:57:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs buys $386M in Strategy shares, pushing total stake to $558M",
-      "url": "https://cryptobriefing.com/goldman-sachs-buys-386m-strategy-shares/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-17T14:51:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Prediction markets see a divided government after midterm elections. Here’s how you should trade, Citi says.",
-      "url": "https://www.marketwatch.com/story/prediction-markets-see-a-divided-government-after-midterm-elections-heres-how-you-should-trade-citi-says-26d429ca?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-08-17T14:51:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PANW Maintained by Wells Fargo -- Price Target Raised to $475",
-      "url": "https://www.gurufocus.com/news/9038472/panw-maintained-by-wells-fargo-price-target-raised-to-475",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T14:39:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CRWD Maintained by Wells Fargo -- Price Target Raised to $230",
-      "url": "https://www.gurufocus.com/news/9038470/crwd-maintained-by-wells-fargo-price-target-raised-to-230",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T14:39:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ZS Maintained by Wells Fargo -- Price Target Raised to $210",
-      "url": "https://www.gurufocus.com/news/9038467/zs-maintained-by-wells-fargo-price-target-raised-to-210",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T14:38:36+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "S Upgraded by Wells Fargo -- Price Target Raised to $22.00",
-      "url": "https://www.gurufocus.com/news/9038465/s-upgraded-by-wells-fargo-price-target-raised-to-2200",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T14:38:12+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SAIL Maintained by Wells Fargo -- Price Target Raised to $22",
-      "url": "https://www.gurufocus.com/news/9038463/sail-maintained-by-wells-fargo-price-target-raised-to-22",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T14:37:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "NTSK Maintained by Wells Fargo -- Price Target Raised to $17.00",
-      "url": "https://www.gurufocus.com/news/9038460/ntsk-maintained-by-wells-fargo-price-target-raised-to-1700",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T14:37:02+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
