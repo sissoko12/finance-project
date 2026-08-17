@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-17T22:30:41.651163+00:00",
+  "last_updated": "2026-08-17T23:28:47.894203+00:00",
   "headlines": [
+    {
+      "title": "U.S. Bank gives $250K to Fresno-area homebuyer program",
+      "url": "https://thebusinessjournal.com/beyond-housing-down-payment-assistance-fresno-madera/",
+      "source": "thebusinessjournal.com",
+      "published": "2026-08-17T22:12:06+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Higgsfield raised $400mn at $5.4bn, four times its January valuation",
+      "url": "https://thenextweb.com/news/higgsfield-series-b-400m-5-4bn-valuation-700m-revenue",
+      "source": "thenextweb.com",
+      "published": "2026-08-17T21:37:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Recent Analysts’ Ratings Changes for Wix.com (WIX)",
+      "url": "https://www.tickerreport.com/banking-finance/13547429/recent-analysts-ratings-changes-for-wix-com-wix.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T21:26:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426023953/0001918704-26-023953-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T21:24:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Goldman Sachs Analyst Sentenced After OpenAI Reported His ChatGPT Plans To Murder His Ex to FBI",
       "url": "https://www.ibtimes.co.uk/ex-goldman-sachs-analyst-sentenced-probation-1814706",
@@ -36,6 +72,15 @@
       "published": "2026-08-17T21:01:10+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Recent Ratings Updates for Grupo Cibest (CIB)",
+      "url": "https://www.tickerreport.com/banking-finance/13547395/research-analysts-recent-ratings-updates-for-grupo-cibest-cib.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T20:56:49+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -106,15 +151,6 @@
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426023926/0001918704-26-023926-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T20:23:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
       "title": "Bank of America Sees 50% Upside in Micron",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-50-upside-202331376.html?.tsrc=rss",
       "source": "yahoo.com",
@@ -143,40 +179,13 @@
       ]
     },
     {
-      "title": "Citigroup shares slipped after six-session winning streak",
-      "url": "https://seekingalpha.com/news/4634098-citigroup-shares-slipped-after-six-session-winning-streak",
-      "source": "seekingalpha.com",
-      "published": "2026-08-17T20:14:39+00:00",
+      "title": "Leader Bank Buys Former Bank Of America Property In Belmont For $2.825 Million",
+      "url": "https://bostonrealestatetimes.com/leader-bank-buys-former-bank-of-america-property-in-belmont-for-2-825-million/",
+      "source": "bostonrealestatetimes.com",
+      "published": "2026-08-17T20:18:22+00:00",
       "tickers": [
+        "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "GPT Group receives buy rating from Citi after strong results",
-      "url": "https://www.investing.com/news/stock-market-news/gpt-group-receives-buy-rating-from-citi-after-strong-results-93CH-4863904",
-      "source": "investing.com",
-      "published": "2026-08-17T20:11:12+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Resets Okta Stock Price Target After Key Change",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-resets-okta-stock-200644955.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-17T20:06:44+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Securitize, J.P. Morgan, Franklin Templeton drive $65M in tokenized Treasury market cap growth in one week",
-      "url": "https://cryptobriefing.com/securitize-jpmorgan-franklin-templeton-tokenized-treasury-growth/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-17T20:01:50+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
