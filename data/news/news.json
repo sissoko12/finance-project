@@ -1,6 +1,136 @@
 {
-  "last_updated": "2026-08-17T17:33:10.496333+00:00",
+  "last_updated": "2026-08-17T18:49:14.798771+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Reveals AI Stocks To Buy List",
+      "url": "https://www.gurufocus.com/news/9038276/goldman-sachs-reveals-ai-stocks-to-buy-list",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T18:13:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Sees Up to 52% Upside in 2 Stocks",
+      "url": "https://www.gurufocus.com/news/9038419/wells-fargo-sees-up-to-52-upside-in-2-stocks",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T18:06:19+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Consumer Spending Declined In July. Goldman Sachs Expects It To Fall Further.",
+      "url": "https://www.ibtimes.com/consumer-spending-declined-july-goldman-sachs-expects-it-fall-further-3806496",
+      "source": "ibtimes.com",
+      "published": "2026-08-17T18:03:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Jefferies Group's Top Q2 2026 Move: State Street SPDR S&P 500 ETF Trust at a 2. ...",
+      "url": "https://www.gurufocus.com/news/9038920/jefferies-groups-top-q2-2026-move-state-street-spdr-sp-500-etf-trust-at-a-263-portfolio-impact",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T18:00:44+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Wells Fargo Says Okta's AI Upside Will Be Obvious Too Late",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-says-oktas-ai-180023375.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-17T18:00:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-17T17:57:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012468/0000950103-26-012468-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T17:47:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley 4.875% Prfd Stk, Series L declares $0.3047 dividend",
+      "url": "https://seekingalpha.com/news/4634037-morgan-stanley-4_875-percent-prfd-stk-series-l-declares-0_3047-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T17:36:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley 6.625 PFD SER Q declares $0.414 dividend",
+      "url": "https://seekingalpha.com/news/4634036-morgan-stanley-6_625-pfd-ser-q-declares-0_414-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T17:35:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley 6.5% DP SH PFD P declares $0.4062 dividend",
+      "url": "https://seekingalpha.com/news/4634035-morgan-stanley-6_5-percent-dp-sh-pfd-p-declares-0_4062-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T17:35:17+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley 4.250% DP PFD O declares $0.2656 dividend",
+      "url": "https://seekingalpha.com/news/4634034-morgan-stanley-4_250-percent-dp-pfd-o-declares-0_2656-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T17:34:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Okta Stock Climbs as Wells Fargo Upgrades Stock -- Raises Target to $180",
+      "url": "https://www.gurufocus.com/news/9038396/okta-stock-climbs-as-wells-fargo-upgrades-stock-raises-target-to-180",
+      "source": "gurufocus.com",
+      "published": "2026-08-17T17:34:52+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX Rebounds 6% on Monday as Nebius and CoreWeave Look to Rebound From Morning Drops",
+      "url": "https://247wallst.com/investing/2026/08/17/spacex-rebounds-6-on-monday-as-nebius-and-coreweave-look-to-rebound-from-morning-drops/",
+      "source": "247wallst.com",
+      "published": "2026-08-17T17:26:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000121390026090633/0001213900-26-090633-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T17:20:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "KBRA Assigns Preliminary Ratings to GS Mortgage-Backed Securities Trust 2026-HE2 (GSMBS 2026-HE2)",
       "url": "http://www.businesswire.com/news/home/20260817482536/en/KBRA-Assigns-Preliminary-Ratings-to-GS-Mortgage-Backed-Securities-Trust-2026-HE2-GSMBS-2026-HE2/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
@@ -8,6 +138,15 @@
       "published": "2026-08-17T17:13:00+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Eyepoint Pharmaceuticals (NASDAQ:EYPT) Receives \"Neutral\" Rating from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/eyepoint-pharmaceuticals-nasdaqeypt-receives-neutral-rating-from-jpmorgan-chase-co-2026-08-17/",
+      "source": "marketbeat.com",
+      "published": "2026-08-17T17:12:26+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -21,12 +160,30 @@
       ]
     },
     {
+      "title": "China Economic Growth 'Downside Risk' Looms; Goldman Warns After July Macro-Miss-Fest",
+      "url": "https://awesomecapital.blogspot.com/2026/08/china-economic-growth-downside-risk.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-08-17T17:00:37+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026090628/0001213900-26-090628-index.htm",
       "source": "sec.gov",
       "published": "2026-08-17T16:57:44+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Mets Edge Nationals Before Padres Series At Citi Field",
+      "url": "https://wabcradio.com/2026/08/17/mets-edge-nationals-before-padres-series-at-citi-field/",
+      "source": "wabcradio.com",
+      "published": "2026-08-17T16:54:17+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -85,6 +242,15 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426023882/0001918704-26-023882-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T16:26:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs closes short THB/INR trade for small gain",
       "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-closes-short-thbinr-trade-for-small-gain-93CH-4863713",
       "source": "investing.com",
@@ -109,139 +275,6 @@
       "published": "2026-08-17T16:14:52+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "BofA sees dollar weakness continuing with New Zealand dollar gains",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-sees-dollar-weakness-continuing-with-new-zealand-dollar-gains-93CH-4863697",
-      "source": "investing.com",
-      "published": "2026-08-17T16:09:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Best Bank Stocks To Watch Now - August 17th",
-      "url": "https://www.marketbeat.com/instant-alerts/best-bank-stocks-to-watch-now-august-17th-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T16:02:30+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Projects Fed Will Keep Interest Rates Steady Until 2027",
-      "url": "https://blockonomi.com/wells-fargo-projects-fed-will-keep-interest-rates-steady-until-2027/",
-      "source": "blockonomi.com",
-      "published": "2026-08-17T15:46:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Amentum (NYSE:AMTM) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-amentum-nyseamtm-stock-price-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:36:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Dillard's (NYSE:DDS) Given New $519.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/dillards-nysedds-given-new-51900-price-target-at-jpmorgan-chase-co-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:36:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Boosts Prudential Financial (NYSE:PRU) Price Target to $131.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-boosts-prudential-financial-nysepru-price-target-to-13100-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:36:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts RH (NYSE:RH) Price Target to $212.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-rh-nyserh-price-target-to-21200-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:36:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NIRI Charlotte Scores with Summer Social at Charlotte FC Match",
-      "url": "https://www.niri.org/irupdate-articles/niri-charlotte-scores-with-summer-social-at-charlotte-fc-match/",
-      "source": "niri.org",
-      "published": "2026-08-17T15:31:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Weekly Analysts’ Ratings Updates for Duke Energy (DUK)",
-      "url": "https://www.tickerreport.com/banking-finance/13547166/weekly-analysts-ratings-updates-for-duke-energy-duk.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-17T15:26:56+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley cuts China property forecasts on deeper price drops",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-china-property-forecasts-on-deeper-price-drops-93CH-4863609",
-      "source": "investing.com",
-      "published": "2026-08-17T15:25:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Margin Loan Eased Nashville College’s Liquidity Crunch",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/goldman-margin-loan-eased-nashville-college-s-liquidity-crunch",
-      "source": "bloomberg.com",
-      "published": "2026-08-17T15:19:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan debanked Polymarket on regulatory concerns, FT says",
-      "url": "https://www.americanbanker.com/articles/jpmorgan-debanked-polymarket-on-regulatory-concerns-ft-says",
-      "source": "americanbanker.com",
-      "published": "2026-08-17T15:18:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EquipmentShare.com (NASDAQ:EQPT) Given New $22.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/equipmentsharecom-nasdaqeqpt-given-new-2200-price-target-at-citigroup-2026-08-17/",
-      "source": "marketbeat.com",
-      "published": "2026-08-17T15:18:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Money management - ~30k savings, 14k+ invested in qqqm+msft. HYSA?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vquvrv/money_management_30k_savings_14k_invested_in/",
-      "source": "reddit.com",
-      "published": "2026-08-17T15:04:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
