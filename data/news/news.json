@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-08-17T20:33:46.324948+00:00",
+  "last_updated": "2026-08-17T21:31:46.717150+00:00",
   "headlines": [
+    {
+      "title": "CVS Health adds JPMorgan Chase exec to board | $CVS $JPM",
+      "url": "https://seekingalpha.com/news/4634134-cvs-health-adds-jpmorgan-chase-exec-board",
+      "source": "seekingalpha.com",
+      "published": "2026-08-17T21:16:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426023941/0001918704-26-023941-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T21:03:10+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526354218/0001193125-26-354218-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T20:49:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3B Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-17T20:33:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America dumps 80% of its Strategy shares, trimming position to $110M",
+      "url": "https://cryptobriefing.com/bank-of-america-sells-strategy-shares/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-17T20:31:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040239/0001839882-26-040239-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T20:30:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526354136/0001193125-26-354136-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T20:28:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426023926/0001918704-26-023926-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T20:23:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Stock: Rebounds as New Chicago Branch Boosts Expansion",
+      "url": "https://blockonomi.com/jpmorgan-chase-co-jpm-stock-rebounds-as-new-chicago-branch-boosts-expansion/",
+      "source": "blockonomi.com",
+      "published": "2026-08-17T20:18:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Citigroup shares slipped after six-session winning streak",
       "url": "https://seekingalpha.com/news/4634098-citigroup-shares-slipped-after-six-session-winning-streak",
@@ -11,12 +95,21 @@
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526353935/0001193125-26-353935-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T19:34:48+00:00",
+      "title": "GPT Group receives buy rating from Citi after strong results",
+      "url": "https://www.investing.com/news/stock-market-news/gpt-group-receives-buy-rating-from-citi-after-strong-results-93CH-4863904",
+      "source": "investing.com",
+      "published": "2026-08-17T20:11:12+00:00",
       "tickers": [
-        "GS"
+        "C"
+      ]
+    },
+    {
+      "title": "Securitize, J.P. Morgan, Franklin Templeton drive $65M in tokenized Treasury market cap growth in one week",
+      "url": "https://cryptobriefing.com/securitize-jpmorgan-franklin-templeton-tokenized-treasury-growth/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-17T20:01:50+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -36,127 +129,6 @@
       "published": "2026-08-17T19:28:52+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526353888/0001193125-26-353888-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T19:13:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Supply Chain Fraud: $111M Theft Shows New Sophistication",
-      "url": "https://www.freightwaves.com/news/supply-chain-fraud-111m-theft-shows-new-sophistication",
-      "source": "freightwaves.com",
-      "published": "2026-08-17T19:01:50+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "JPMorganChase Opens New Two-Story Magnificent Mile Flagship, Bringing Chase, JPMorgan Private Client Together Under One Roof",
-      "url": "http://www.businesswire.com/news/home/20260817375559/en/JPMorganChase-Opens-New-Two-Story-Magnificent-Mile-Flagship-Bringing-Chase-JPMorgan-Private-Client-Together-Under-One-Roof/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk=",
-      "source": "businesswire.com",
-      "published": "2026-08-17T19:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo invests $1.5 million with Habitat for Humanity to scale innovative home construction in rural communities",
-      "url": "https://www.prnewswire.com/news-releases/wells-fargo-invests-1-5-million-with-habitat-for-humanity-to-scale-innovative-home-construction-in-rural-communities-302853051.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-17T19:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040226/0001839882-26-040226-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T18:52:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "EYPT Downgraded by JP Morgan -- Rating Adjusted to Neutral",
-      "url": "https://www.gurufocus.com/news/9038947/eypt-downgraded-by-jp-morgan-rating-adjusted-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T18:33:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "XPH vs PJP: Which Pharma ETF Offers Better Value",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/17/xph-vs-pjp-which-pharma-etf-offers-better-value/",
-      "source": "fool.com",
-      "published": "2026-08-17T18:14:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Reveals AI Stocks To Buy List",
-      "url": "https://www.gurufocus.com/news/9038276/goldman-sachs-reveals-ai-stocks-to-buy-list",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T18:13:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo Sees Up to 52% Upside in 2 Stocks",
-      "url": "https://www.gurufocus.com/news/9038419/wells-fargo-sees-up-to-52-upside-in-2-stocks",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T18:06:19+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Consumer Spending Declined In July. Goldman Sachs Expects It To Fall Further.",
-      "url": "https://www.ibtimes.com/consumer-spending-declined-july-goldman-sachs-expects-it-fall-further-3806496",
-      "source": "ibtimes.com",
-      "published": "2026-08-17T18:03:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jefferies Group's Top Q2 2026 Move: State Street SPDR S&P 500 ETF Trust at a 2. ...",
-      "url": "https://www.gurufocus.com/news/9038920/jefferies-groups-top-q2-2026-move-state-street-spdr-sp-500-etf-trust-at-a-263-portfolio-impact",
-      "source": "gurufocus.com",
-      "published": "2026-08-17T18:00:44+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Capital One Venture Rewards vs. Venture Business: Which $95 card is right for you?",
-      "url": "https://thepointsguy.com/credit-cards/capital-one-venture-vs-venture-business/",
-      "source": "thepointsguy.com",
-      "published": "2026-08-17T18:00:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Wells Fargo Says Okta's AI Upside Will Be Obvious Too Late",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-says-oktas-ai-180023375.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-17T18:00:23+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
