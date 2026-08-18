@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-08-18T23:28:01.713295+00:00",
+  "last_updated": "2026-08-18T23:51:48.293781+00:00",
   "headlines": [
+    {
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000174134426000021/0001741344-26-000021-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T23:42:41+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "NVIDIA (NVDA) Stock Potentially Underestimated by Up to 50%, Says Bank of America",
+      "url": "https://www.gurufocus.com/news/9041814/nvidia-nvda-stock-potentially-underestimated-by-up-to-50-says-bank-of-america",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T23:21:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Goldman’s Caution on AI Gains Meets Surging Capital Spend: What It Means for Stocks and the Economy",
       "url": "https://www.webpronews.com/goldmans-caution-on-ai-gains-meets-surging-capital-spend-what-it-means-for-stocks-and-the-economy/",
@@ -17,6 +37,33 @@
       "published": "2026-08-18T21:35:00+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091328/0001213900-26-091328-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:30:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024215/0001918704-26-024215-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:25:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B8 - Prospectus filed pursuant to Rule 424(b)(8)",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091297/0001213900-26-091297-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:11:51+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -47,15 +94,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091289/0001213900-26-091289-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T21:02:38+00:00",
-      "tickers": [
-        "JPM"
       ]
     },
     {
@@ -111,24 +149,6 @@
       "url": "https://www.thestreet.com/investing/ultra-short-bond-etfs-12-billion-july-inflows?.tsrc=rss",
       "source": "thestreet.com",
       "published": "2026-08-18T20:33:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040454/0001839882-26-040454-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T20:14:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "EXL closes new $1 billion senior secured credit facility",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exl-closes-1-billion-senior-200100840.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-18T20:01:00+00:00",
       "tickers": [
         "JPM"
       ]
