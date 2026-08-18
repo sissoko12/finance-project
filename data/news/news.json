@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-08-18T21:30:01.712496+00:00",
+  "last_updated": "2026-08-18T21:53:27.119011+00:00",
   "headlines": [
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040494/0001839882-26-040494-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:10:25+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Has a Stark Warning on AI Spending",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-stark-warning-ai-210907473.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-18T21:09:07+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091289/0001213900-26-091289-index.htm",
@@ -8,6 +28,16 @@
       "published": "2026-08-18T21:02:38+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "World's second-largest bank boosts XRP holdings",
+      "url": "https://www.thestreet.com/crypto/markets/worlds-second-largest-bank-boosts-xrp-holdings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-18T20:35:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -40,12 +70,39 @@
       ]
     },
     {
+      "title": "Ultra-short bond ETFs complicate case for holding cash",
+      "url": "https://www.thestreet.com/investing/ultra-short-bond-etfs-12-billion-july-inflows?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-18T20:33:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040454/0001839882-26-040454-index.htm",
       "source": "sec.gov",
       "published": "2026-08-18T20:14:30+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "EXL closes new $1 billion senior secured credit facility",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exl-closes-1-billion-senior-200100840.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-18T20:01:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194859521.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-18T19:48:59+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -58,13 +115,12 @@
       ]
     },
     {
-      "title": "081826-owh-new-mcc-cm-16 (copy)",
-      "url": "https://fremonttribune.com/news/state-regional/nebraska/image_fcf27f96-f4e0-5435-a0a8-398de6d73360.html",
-      "source": "fremonttribune.com",
-      "published": "2026-08-18T19:31:00+00:00",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-18T19:35:26+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "STT"
       ]
     }
   ]
