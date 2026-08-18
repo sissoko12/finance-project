@@ -1,6 +1,109 @@
 {
-  "last_updated": "2026-08-18T16:38:29.538871+00:00",
+  "last_updated": "2026-08-18T17:33:47.872948+00:00",
   "headlines": [
+    {
+      "title": "DT Maintained by Citigroup -- Price Target Raised to $65.00",
+      "url": "https://www.gurufocus.com/news/9041358/dt-maintained-by-citigroup-price-target-raised-to-6500",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T17:21:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NVIDIA (NVDA) Stock Seen as Undervalued by Bank of America",
+      "url": "https://www.gurufocus.com/news/9041368/nvidia-nvda-stock-seen-as-undervalued-by-bank-of-america",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T17:21:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "EYPT Maintains Buy Rating by Citigroup -- Price Target Lowered to $17.00",
+      "url": "https://www.gurufocus.com/news/9041361/eypt-maintains-buy-rating-by-citigroup-price-target-lowered-to-1700",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T17:21:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CRM Maintains by Citigroup -- Price Target Raised to $204",
+      "url": "https://www.gurufocus.com/news/9041363/crm-maintains-by-citigroup-price-target-raised-to-204",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T17:21:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NTAP Maintained by Citigroup -- Price Target Raised to $209",
+      "url": "https://www.gurufocus.com/news/9041362/ntap-maintained-by-citigroup-price-target-raised-to-209",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T17:21:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Forecasts Strong Price Appreciation for argenex (NASDAQ:ARGX) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-forecasts-strong-price-appreciation-for-argenex-nasdaqargx-stock-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T17:18:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Citi goes real-time with new custody platform; Bitcoin services coming next",
+      "url": "https://seekingalpha.com/news/4634441-citi-goes-real-time-with-new-custody-platform-bitcoin-services-coming-next",
+      "source": "seekingalpha.com",
+      "published": "2026-08-18T17:09:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Here’s the case for Nvidia’s stock to climb 55% from here, according to BofA",
+      "url": "https://www.marketwatch.com/story/heres-the-case-for-nvidias-stock-to-climb-55-from-here-according-to-bofa-f5483409?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-18T17:02:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526355062/0001193125-26-355062-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T16:58:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526355030/0001193125-26-355030-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T16:41:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA cuts Pony AI stock price target on valuation to $17",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-pony-ai-stock-price-target-on-valuation-to-17-93CH-4865783",
+      "source": "investing.com",
+      "published": "2026-08-18T16:40:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "OLLI Maintained by JP Morgan -- Price Target Raised to $73.00",
       "url": "https://www.gurufocus.com/news/9041268/olli-maintained-by-jp-morgan-price-target-raised-to-7300",
@@ -168,106 +271,6 @@
       "url": "https://www.gurufocus.com/news/9041230/jan-maintained-by-morgan-stanley-price-target-raised-to-31",
       "source": "gurufocus.com",
       "published": "2026-08-18T16:03:04+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "FVR Maintained by JP Morgan -- Price Target Raised to $23.00",
-      "url": "https://www.gurufocus.com/news/9041228/fvr-maintained-by-jp-morgan-price-target-raised-to-2300",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T16:02:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FN Maintained by JP Morgan -- Price Target Raised to $695",
-      "url": "https://www.gurufocus.com/news/9041219/fn-maintained-by-jp-morgan-price-target-raised-to-695",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T16:01:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EVH Maintains Overweight Rating by JP Morgan -- Price Target Raised to $6.00",
-      "url": "https://www.gurufocus.com/news/9041216/evh-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-600",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T16:00:58+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
-      "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
-      "source": "decrypt.co",
-      "published": "2026-08-18T15:56:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Taiwan Semiconductor's US fab ramp is 'progressing well,' BofA says",
-      "url": "https://seekingalpha.com/news/4634416-taiwan-semiconductors-us-fab-ramp-is-progressing-well-bofa-says",
-      "source": "seekingalpha.com",
-      "published": "2026-08-18T15:54:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs buys LCN in deal worth up to $410M",
-      "url": "https://crypto.news/goldman-sachs-buys-lcn-in-deal-worth-up-to-410m-dollar/",
-      "source": "crypto.news",
-      "published": "2026-08-18T15:42:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BBWI Maintained by JP Morgan -- Price Target Raised to $24.00",
-      "url": "https://www.gurufocus.com/news/9041150/bbwi-maintained-by-jp-morgan-price-target-raised-to-2400",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T15:38:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AEO Maintained by JP Morgan -- Price Target Raised to $21.00",
-      "url": "https://www.gurufocus.com/news/9041149/aeo-maintained-by-jp-morgan-price-target-raised-to-2100",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T15:38:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "HASI Maintains by Morgan Stanley -- Price Target Raised to $60",
-      "url": "https://www.gurufocus.com/news/9041148/hasi-maintains-by-morgan-stanley-price-target-raised-to-60",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T15:38:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ANF Maintains by JP Morgan -- Price Target Raised to $126",
-      "url": "https://www.gurufocus.com/news/9041147/anf-maintains-by-jp-morgan-price-target-raised-to-126",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T15:37:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EPD Maintained by Morgan Stanley -- Price Target Raised to $41.00",
-      "url": "https://www.gurufocus.com/news/9041146/epd-maintained-by-morgan-stanley-price-target-raised-to-4100",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T15:37:14+00:00",
       "tickers": [
         "MS"
       ]
