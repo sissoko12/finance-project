@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-08-18T06:57:24.712121+00:00",
+  "last_updated": "2026-08-18T07:47:31.468455+00:00",
   "headlines": [
+    {
+      "title": "Bank Pictet & Cie Europe AG Lowers Stock Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-pictet-cie-europe-ag-lowers-stock-position-in-bank-of-america-corporation-bac-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T07:13:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ahara Advisors LLC Grows Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ahara-advisors-llc-grows-position-in-wells-fargo-company-wfc-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T07:06:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Alberta Investment Management Corp Takes $5.26 Million Position in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alberta-investment-management-corp-takes-526-million-position-in-state-street-corporation-stt-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T07:06:08+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Colgate-Palmolive shares fall over 2% after Investor Day. What Goldman Sachs and other brokerages are saying",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/colgate-palmolive-shares-fall-over-2-after-investor-day-what-goldman-sachs-and-other-brokerages-are-saying/articleshow/133314060.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-18T06:47:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "State Street Corporation (NYSE:STT) Receives Average Recommendation of \"Moderate Buy\" from Brokerages",
       "url": "https://www.marketbeat.com/instant-alerts/state-street-corporation-nysestt-receives-average-recommendation-of-moderate-buy-from-brokerages-2026-08-18/",
@@ -44,6 +82,15 @@
       "published": "2026-08-18T05:36:51+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Warns U.S. Consumption Slowdown Is Imminent, Walmart Earnings Become Key Barometer for Soft Landing",
+      "url": "https://nai500.com/blog/2026/08/goldman-sachs-warns-u-s-consumption-slowdown-is-imminent-walmart-earnings-become-key-barometer-for-soft-landing/",
+      "source": "nai500.com",
+      "published": "2026-08-18T05:34:47+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -227,33 +274,6 @@
       "published": "2026-08-17T21:21:07+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426023950/0001918704-26-023950-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T21:20:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Analyst Sentenced After OpenAI Reported His ChatGPT Plans To Murder His Ex to FBI",
-      "url": "https://www.ibtimes.co.uk/ex-goldman-sachs-analyst-sentenced-probation-1814706",
-      "source": "ibtimes.co.uk",
-      "published": "2026-08-17T21:20:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CVS Health adds JPMorgan Chase exec to board | $CVS $JPM",
-      "url": "https://seekingalpha.com/news/4634134-cvs-health-adds-jpmorgan-chase-exec-board",
-      "source": "seekingalpha.com",
-      "published": "2026-08-17T21:16:04+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
