@@ -1,282 +1,275 @@
 {
-  "last_updated": "2026-08-18T15:37:54.199486+00:00",
+  "last_updated": "2026-08-18T16:38:29.538871+00:00",
   "headlines": [
     {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Urban Outfitters (NASDAQ:URBN) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13548628/jpmorgan-chase-co-issues-positive-forecast-for-urban-outfitters-nasdaqurbn-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-18T15:24:44+00:00",
+      "title": "OLLI Maintained by JP Morgan -- Price Target Raised to $73.00",
+      "url": "https://www.gurufocus.com/news/9041268/olli-maintained-by-jp-morgan-price-target-raised-to-7300",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:25:37+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Energy Transfer (NYSE:ET) Hits New 12-Month High After Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13548611/energy-transfer-nyseet-hits-new-12-month-high-after-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-18T15:10:44+00:00",
+      "title": "CPB Maintained by JP Morgan -- Price Target Raised to $22.00",
+      "url": "https://www.gurufocus.com/news/9041269/cpb-maintained-by-jp-morgan-price-target-raised-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:25:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WMB Maintained by Morgan Stanley -- Price Target Raised to $103",
+      "url": "https://www.gurufocus.com/news/9041276/wmb-maintained-by-morgan-stanley-price-target-raised-to-103",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:25:36+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "IRTC Maintained by Wells Fargo -- Price Target Lowered to $168",
-      "url": "https://www.gurufocus.com/news/9041102/irtc-maintained-by-wells-fargo-price-target-lowered-to-168",
+      "title": "PAGP Maintained by Morgan Stanley -- Price Target Raised to $28.00",
+      "url": "https://www.gurufocus.com/news/9041271/pagp-maintained-by-morgan-stanley-price-target-raised-to-2800",
       "source": "gurufocus.com",
-      "published": "2026-08-18T15:02:11+00:00",
+      "published": "2026-08-18T16:25:36+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Ollie’s Bargain Outlet (NASDAQ:OLLI) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13548593/jpmorgan-chase-co-issues-positive-forecast-for-ollies-bargain-outlet-nasdaqolli-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-18T15:01:17+00:00",
+      "title": "STWD Maintained by JP Morgan -- Price Target Lowered to $18.50",
+      "url": "https://www.gurufocus.com/news/9041273/stwd-maintained-by-jp-morgan-price-target-lowered-to-1850",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:25:36+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citi Bitcoin Custody Launch Targets Institutional Clients in 2026",
-      "url": "https://blockonomi.com/citi-bitcoin-custody-launch-targets-institutional-clients-in-2026/",
+      "title": "WES Maintained by Morgan Stanley -- Price Target Raised to $55",
+      "url": "https://www.gurufocus.com/news/9041274/wes-maintained-by-morgan-stanley-price-target-raised-to-55",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:25:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TRGP Maintained by Morgan Stanley -- Price Target Raised to $343",
+      "url": "https://www.gurufocus.com/news/9041272/trgp-maintained-by-morgan-stanley-price-target-raised-to-343",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:25:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup Raises Dynatrace (NYSE:DT) Price Target to $65.00",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-raises-dynatrace-nysedt-price-target-to-6500-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T16:18:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Eyepoint Pharmaceuticals (NASDAQ:EYPT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-eyepoint-pharmaceuticals-nasdaqeypt-stock-price-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T16:18:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Rolls Out Custody+ Platform With Bitcoin Services and Continuous Settlement",
+      "url": "https://blockonomi.com/citigroup-rolls-out-custody-platform-with-bitcoin-services-and-continuous-settlement/",
       "source": "blockonomi.com",
-      "published": "2026-08-18T15:00:59+00:00",
+      "published": "2026-08-18T16:11:15+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "84 Lumber Names Dustin Hauenstein Chief Financial Officer",
-      "url": "https://www.prnewswire.com/news-releases/84-lumber-names-dustin-hauenstein-chief-financial-officer-302854171.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-18T15:00:00+00:00",
+      "title": "URBN Maintained by JP Morgan -- Price Target Raised to $110",
+      "url": "https://www.gurufocus.com/news/9041251/urbn-maintained-by-jp-morgan-price-target-raised-to-110",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:08:03+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Investment Analysts’ Recent Ratings Updates for Olema Pharmaceuticals (OLMA)",
-      "url": "https://www.tickerreport.com/banking-finance/13548588/investment-analysts-recent-ratings-updates-for-olema-pharmaceuticals-olma.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-18T14:56:44+00:00",
+      "title": "PAA Maintained by Morgan Stanley -- Price Target Raised to $26",
+      "url": "https://www.gurufocus.com/news/9041249/paa-maintained-by-morgan-stanley-price-target-raised-to-26",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:07:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "OKE Maintained by Morgan Stanley -- Price Target Raised to $105",
+      "url": "https://www.gurufocus.com/news/9041248/oke-maintained-by-morgan-stanley-price-target-raised-to-105",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:07:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "KSS Maintained by JP Morgan -- Price Target Raised to $17.00",
+      "url": "https://www.gurufocus.com/news/9041246/kss-maintained-by-jp-morgan-price-target-raised-to-1700",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:06:38+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman Sachs To Spend Up To $410M To Buy Specialist In Sale-Leasebacks",
-      "url": "https://www.bisnow.com/news/national/capital-markets/goldman-sachs-to-acquire-sale-leaseback-specialist-for-up-to-410m",
-      "source": "bisnow.com",
-      "published": "2026-08-18T14:56:35+00:00",
+      "title": "Nuvation wins new Overweight at J.P. Morgan on launch trajectory for lead drug",
+      "url": "https://seekingalpha.com/news/4634427-nuvation-wins-new-overweight-jp-morgan",
+      "source": "seekingalpha.com",
+      "published": "2026-08-18T16:06:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KNTK Maintained by Morgan Stanley -- Price Target Raised to $70",
+      "url": "https://www.gurufocus.com/news/9041244/kntk-maintained-by-morgan-stanley-price-target-raised-to-70",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:06:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MGA Maintained by Morgan Stanley -- Price Target Raised to $69.00",
+      "url": "https://www.gurufocus.com/news/9041243/mga-maintained-by-morgan-stanley-price-target-raised-to-6900",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:05:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JAN Maintained by JP Morgan -- Price Target Raised to $34.00",
+      "url": "https://www.gurufocus.com/news/9041236/jan-maintained-by-jp-morgan-price-target-raised-to-3400",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:04:19+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JAN Maintained by Morgan Stanley -- Price Target Raised to $31",
+      "url": "https://www.gurufocus.com/news/9041230/jan-maintained-by-morgan-stanley-price-target-raised-to-31",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:03:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "FVR Maintained by JP Morgan -- Price Target Raised to $23.00",
+      "url": "https://www.gurufocus.com/news/9041228/fvr-maintained-by-jp-morgan-price-target-raised-to-2300",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:02:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FN Maintained by JP Morgan -- Price Target Raised to $695",
+      "url": "https://www.gurufocus.com/news/9041219/fn-maintained-by-jp-morgan-price-target-raised-to-695",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:01:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EVH Maintains Overweight Rating by JP Morgan -- Price Target Raised to $6.00",
+      "url": "https://www.gurufocus.com/news/9041216/evh-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-600",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T16:00:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+      "source": "decrypt.co",
+      "published": "2026-08-18T15:56:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor's US fab ramp is 'progressing well,' BofA says",
+      "url": "https://seekingalpha.com/news/4634416-taiwan-semiconductors-us-fab-ramp-is-progressing-well-bofa-says",
+      "source": "seekingalpha.com",
+      "published": "2026-08-18T15:54:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs buys LCN in deal worth up to $410M",
+      "url": "https://crypto.news/goldman-sachs-buys-lcn-in-deal-worth-up-to-410m-dollar/",
+      "source": "crypto.news",
+      "published": "2026-08-18T15:42:07+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "BofA Sees Nvidia Trading at Up to 50% Discount on AI Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bofa-sees-nvidia-trading-at-up-to-50-discount-on-ai-risks",
-      "source": "bloomberg.com",
-      "published": "2026-08-18T14:52:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Bank Of America Is Bullish On Cybersecurity Stocks",
-      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo",
-      "source": "investors.com",
-      "published": "2026-08-18T14:47:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Bath & Body Works (NYSE:BBWI) Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13548576/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-bath-body-works-nysebbwi-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-18T14:43:17+00:00",
+      "title": "BBWI Maintained by JP Morgan -- Price Target Raised to $24.00",
+      "url": "https://www.gurufocus.com/news/9041150/bbwi-maintained-by-jp-morgan-price-target-raised-to-2400",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T15:38:48+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040336/0001839882-26-040336-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T14:42:52+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA survey: Fund managers lift year-end Brent forecast",
-      "url": "https://seekingalpha.com/news/4634379-bofa-survey-fund-managers-lift-year-end-brent-forecast",
-      "source": "seekingalpha.com",
-      "published": "2026-08-18T14:42:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "HGV Maintained by Morgan Stanley -- Price Target Lowered to $54.00",
-      "url": "https://www.gurufocus.com/news/9040988/hgv-maintained-by-morgan-stanley-price-target-lowered-to-5400",
+      "title": "AEO Maintained by JP Morgan -- Price Target Raised to $21.00",
+      "url": "https://www.gurufocus.com/news/9041149/aeo-maintained-by-jp-morgan-price-target-raised-to-2100",
       "source": "gurufocus.com",
-      "published": "2026-08-18T14:40:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "DRH Maintained by Morgan Stanley -- Price Target Raised to $11.00",
-      "url": "https://www.gurufocus.com/news/9040986/drh-maintained-by-morgan-stanley-price-target-raised-to-1100",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T14:39:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CHH Maintained by Morgan Stanley -- Price Target Raised to $91",
-      "url": "https://www.gurufocus.com/news/9040985/chh-maintained-by-morgan-stanley-price-target-raised-to-91",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T14:39:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "H Maintained by Morgan Stanley -- Price Target Lowered to $209",
-      "url": "https://www.gurufocus.com/news/9040981/h-maintained-by-morgan-stanley-price-target-lowered-to-209",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T14:38:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Investor sentiment is bullish in BofA's August Global Fund Manager Survey",
-      "url": "https://seekingalpha.com/news/4634349-investor-sentiment-bullish-in-bofas-august-global-fund-manager-survey",
-      "source": "seekingalpha.com",
-      "published": "2026-08-18T14:33:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NetApp takes advantage of increase in enterprise storage demand: Citi",
-      "url": "https://seekingalpha.com/news/4634368-netapp-takes-advantage-of-increase-in-enterprise-storage-demand-citi",
-      "source": "seekingalpha.com",
-      "published": "2026-08-18T14:33:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA cuts Autohome to Underperform, lowers price objective",
-      "url": "https://seekingalpha.com/news/4634366-bofa-cuts-autohome-to-underperform-lowers-price-objective",
-      "source": "seekingalpha.com",
-      "published": "2026-08-18T14:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Bulks Up Asset Management Business With LCN Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-18/goldman-sachs-bulks-up-asset-management-business-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-18T14:25:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "There are Recent Customer Complaints with Broker Mohammad Ali in Firm J.P. Morgan Securities LLC",
-      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-mohammad-ali-in-firm-j-p-morgan-securities-llc/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-08-18T14:19:07+00:00",
+      "published": "2026-08-18T15:38:23+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Adient (NYSE:ADNT) Given New $21.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/adient-nyseadnt-given-new-2100-price-target-at-morgan-stanley-2026-08-18/",
-      "source": "marketbeat.com",
-      "published": "2026-08-18T14:18:29+00:00",
+      "title": "HASI Maintains by Morgan Stanley -- Price Target Raised to $60",
+      "url": "https://www.gurufocus.com/news/9041148/hasi-maintains-by-morgan-stanley-price-target-raised-to-60",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T15:38:02+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Energy Transfer (NYSE:ET) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-energy-transfer-nyseet-stock-2026-08-18/",
-      "source": "marketbeat.com",
-      "published": "2026-08-18T14:18:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Boosts Abercrombie & Fitch (NYSE:ANF) Price Target to $126.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-boosts-abercrombie-fitch-nyseanf-price-target-to-12600-2026-08-18/",
-      "source": "marketbeat.com",
-      "published": "2026-08-18T14:18:27+00:00",
+      "title": "ANF Maintains by JP Morgan -- Price Target Raised to $126",
+      "url": "https://www.gurufocus.com/news/9041147/anf-maintains-by-jp-morgan-price-target-raised-to-126",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T15:37:39+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "HA Sustainable Infrastructure Capital (NYSE:HASI) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/ha-sustainable-infrastructure-capital-nysehasi-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-08-18/",
-      "source": "marketbeat.com",
-      "published": "2026-08-18T14:18:26+00:00",
+      "title": "EPD Maintained by Morgan Stanley -- Price Target Raised to $41.00",
+      "url": "https://www.gurufocus.com/news/9041146/epd-maintained-by-morgan-stanley-price-target-raised-to-4100",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T15:37:14+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "There are Recent Customer Complaints with Broker Blake Hilts in Firm Morgan Stanley",
-      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-blake-hilts-in-firm-morgan-stanley/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-08-18T14:14:08+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-launch-bitcoin-custody-institutional-141400472.html",
-      "source": "yahoo.com",
-      "published": "2026-08-18T14:14:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "RWR vs. HAUZ: Which Real Estate ETF Is the Better Buy for Income Investors?",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/18/rwr-vs-hauz-which-real-estate-etf-is-the-better-buy-for-income-investors/",
-      "source": "fool.com",
-      "published": "2026-08-18T14:13:14+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024013/0001918704-26-024013-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T14:09:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
