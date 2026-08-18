@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-18T01:40:04.045812+00:00",
+  "last_updated": "2026-08-18T03:01:55.543281+00:00",
   "headlines": [
+    {
+      "title": "Bubble Mart (9992) Target Price Cut by Morgan Stanley Amid Sales Concerns",
+      "url": "https://www.gurufocus.com/news/9039883/bubble-mart-9992-target-price-cut-by-morgan-stanley-amid-sales-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-08-18T02:30:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Recent Research Analysts’ Ratings Changes for American Homes 4 Rent (AMH)",
       "url": "https://www.tickerreport.com/banking-finance/13547511/recent-research-analysts-ratings-changes-for-american-homes-4-rent-amh.html",
@@ -17,6 +26,16 @@
       "published": "2026-08-17T23:56:45+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000173306526000013/0001733065-26-000013-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T22:22:38+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
       ]
     },
     {
@@ -53,6 +72,15 @@
       "published": "2026-08-17T21:24:35+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526354299/0001193125-26-354299-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T21:22:01+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -93,6 +121,15 @@
       ]
     },
     {
+      "title": "US BANCORP DE: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426023940/0001918704-26-023940-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T21:02:46+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
       "title": "Bank of America places new restriction on remote work",
       "url": "https://www.americanbanker.com/news/bank-of-america-places-new-restriction-on-remote-work",
       "source": "americanbanker.com",
@@ -112,15 +149,6 @@
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526354218/0001193125-26-354218-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T20:49:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "Morgan Stanley Delivers a Bullish Message for Nvidia Stock Investors",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bullish-message-204121851.html?.tsrc=rss",
       "source": "yahoo.com",
@@ -134,45 +162,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-08-17/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
       "source": "bloomberg.com",
       "published": "2026-08-17T20:33:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CoreWeave, Nebius Could Gain 10 Points of Margin",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-could-gain-10-203310305.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-17T20:33:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America dumps 80% of its Strategy shares, trimming position to $110M",
-      "url": "https://cryptobriefing.com/bank-of-america-sells-strategy-shares/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-17T20:31:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040239/0001839882-26-040239-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T20:30:21+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526354136/0001193125-26-354136-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T20:28:59+00:00",
       "tickers": [
         "GS"
       ]
