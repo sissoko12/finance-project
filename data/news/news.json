@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-08-18T08:45:32.427215+00:00",
+  "last_updated": "2026-08-18T09:39:55.888490+00:00",
   "headlines": [
+    {
+      "title": "Orca Investment Management LLC Makes New Investment in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-orca-investment-management-llc-makes-new-investment-in-morgan-stanley-ms-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T09:21:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "33,987 Shares in Morgan Stanley $MS Acquired by S&CO Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-33987-shares-in-morgan-stanley-ms-acquired-by-sco-inc-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T09:21:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "36,368 Shares in The Goldman Sachs Group, Inc. $GS Bought by Mizuho Markets Americas LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-36368-shares-in-the-goldman-sachs-group-inc-gs-bought-by-mizuho-markets-americas-llc-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T09:12:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Sivia Capital Partners LLC Purchases 29,981 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sivia-capital-partners-llc-purchases-29981-shares-of-bank-of-america-corporation-bac-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T09:12:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Could Amazon stock double by end of next year? Here’s what Morgan Stanley says",
+      "url": "https://invezz.com/news/2026/08/18/could-amazon-stock-double-by-end-of-next-year-heres-what-morgan-stanley-says/",
+      "source": "invezz.com",
+      "published": "2026-08-18T07:58:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Bank Pictet & Cie Europe AG Lowers Stock Position in Bank of America Corporation $BAC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-pictet-cie-europe-ag-lowers-stock-position-in-bank-of-america-corporation-bac-2026-08-18/",
@@ -149,6 +195,16 @@
       ]
     },
     {
+      "title": "Colgate India Q1: Bigger Growth, Thinner Margins? What Citi, Goldman Sachs, JPMorgan See",
+      "url": "https://www.ndtvprofit.com/markets/colgate-india-q1-bigger-growth-thinner-margins-what-citi-goldman-sachs-jpmorgan-see-11923746",
+      "source": "ndtvprofit.com",
+      "published": "2026-08-18T03:09:12+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
       "title": "Bubble Mart (9992) Target Price Cut by Morgan Stanley Amid Sales Concerns",
       "url": "https://www.gurufocus.com/news/9039883/bubble-mart-9992-target-price-cut-by-morgan-stanley-amid-sales-concerns",
       "source": "gurufocus.com",
@@ -219,61 +275,6 @@
       "published": "2026-08-17T21:39:46+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Higgsfield raised $400mn at $5.4bn, four times its January valuation",
-      "url": "https://thenextweb.com/news/higgsfield-series-b-400m-5-4bn-valuation-700m-revenue",
-      "source": "thenextweb.com",
-      "published": "2026-08-17T21:37:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Recent Analysts’ Ratings Changes for Wix.com (WIX)",
-      "url": "https://www.tickerreport.com/banking-finance/13547429/recent-analysts-ratings-changes-for-wix-com-wix.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-17T21:26:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426023955/0001918704-26-023955-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T21:26:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426023953/0001918704-26-023953-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T21:24:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526354299/0001193125-26-354299-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T21:22:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040251/0001839882-26-040251-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T21:21:07+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
