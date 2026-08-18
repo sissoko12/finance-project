@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-17T23:52:35.802015+00:00",
+  "last_updated": "2026-08-18T01:40:04.045812+00:00",
   "headlines": [
+    {
+      "title": "Recent Research Analysts’ Ratings Changes for American Homes 4 Rent (AMH)",
+      "url": "https://www.tickerreport.com/banking-finance/13547511/recent-research-analysts-ratings-changes-for-american-homes-4-rent-amh.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-18T00:56:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Zoetis (ZTS) – Analysts’ Weekly Ratings Changes",
+      "url": "https://www.tickerreport.com/banking-finance/13547493/zoetis-zts-analysts-weekly-ratings-changes.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-17T23:56:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "U.S. Bank gives $250K to Fresno-area homebuyer program",
       "url": "https://thebusinessjournal.com/beyond-housing-down-payment-assistance-fresno-madera/",
@@ -35,6 +53,15 @@
       "published": "2026-08-17T21:24:35+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426023950/0001918704-26-023950-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-17T21:20:58+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -148,44 +175,6 @@
       "published": "2026-08-17T20:28:59+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Sees 50% Upside in Micron",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-50-upside-202331376.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-17T20:23:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Flags Major Shift Across S&P 500",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-flags-major-shift-202012396.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-17T20:20:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (JPM) Stock: Rebounds as New Chicago Branch Boosts Expansion",
-      "url": "https://blockonomi.com/jpmorgan-chase-co-jpm-stock-rebounds-as-new-chicago-branch-boosts-expansion/",
-      "source": "blockonomi.com",
-      "published": "2026-08-17T20:18:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Leader Bank Buys Former Bank Of America Property In Belmont For $2.825 Million",
-      "url": "https://bostonrealestatetimes.com/leader-bank-buys-former-bank-of-america-property-in-belmont-for-2-825-million/",
-      "source": "bostonrealestatetimes.com",
-      "published": "2026-08-17T20:18:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
