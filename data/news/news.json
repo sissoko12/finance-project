@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-08-18T05:56:28.272070+00:00",
+  "last_updated": "2026-08-18T06:57:24.712121+00:00",
   "headlines": [
+    {
+      "title": "State Street Corporation (NYSE:STT) Receives Average Recommendation of \"Moderate Buy\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/state-street-corporation-nysestt-receives-average-recommendation-of-moderate-buy-from-brokerages-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T06:14:24+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Sold Sen. John Boozman",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-stock-sold-sen-john-boozman-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-18T06:01:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - August 18",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---august-18/article_a94a3593-8ef7-5796-84cd-56f6a52f2974.html",
+      "source": "newspressnow.com",
+      "published": "2026-08-18T06:01:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "2026-08-18 Daily Journal 60162758",
+      "url": "https://dailyjournal.net/2026/08/18/2026-08-18-daily-journal-60162758/",
+      "source": "dailyjournal.net",
+      "published": "2026-08-18T05:46:54+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Helmerich & Payne (NYSE:HP) Upgraded at Wall Street Zen",
+      "url": "https://www.tickerreport.com/banking-finance/13547610/helmerich-payne-nysehp-upgraded-at-wall-street-zen.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-18T05:36:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Budgeting tool for ETrade / Morgan Stanley",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vrg2rl/budgeting_tool_for_etrade_morgan_stanley/",
+      "source": "reddit.com",
+      "published": "2026-08-18T05:27:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Karr, Danny L. - Danny Lee Karr, 82, of St. Joseph, passed away Sunday, Aug. ...",
       "url": "https://www.newspressnow.com/obituaries/karr-danny-l/article_a441a4d1-12c7-5279-8ae7-14bab493d3e0.html",
@@ -8,6 +62,15 @@
       "published": "2026-08-18T05:00:00+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Why Is Citi Optimistic on CoreWeave (CRWV) Despite Higher AI Spending",
+      "url": "https://www.insidermonkey.com/blog/why-is-citi-optimistic-on-coreweave-crwv-despite-higher-ai-spending-1810663/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-18T04:36:43+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -191,25 +254,6 @@
       "published": "2026-08-17T21:16:04+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "US BANCORP DE: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426023940/0001918704-26-023940-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-17T21:02:46+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Bank of America places new restriction on remote work",
-      "url": "https://www.americanbanker.com/news/bank-of-america-places-new-restriction-on-remote-work",
-      "source": "americanbanker.com",
-      "published": "2026-08-17T21:01:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
