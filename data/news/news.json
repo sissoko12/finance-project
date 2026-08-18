@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-18T21:53:27.119011+00:00",
+  "last_updated": "2026-08-18T22:30:32.244328+00:00",
   "headlines": [
+    {
+      "title": "BASEBALL-MLB-NYM-WAS/ - Washington Nationals shortstop CJ Abrams throws to first to ...",
+      "url": "https://richmond.com/image_c6fa4572-5b61-5383-b473-4a0805b9d4a9.html",
+      "source": "richmond.com",
+      "published": "2026-08-18T21:35:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040494/0001839882-26-040494-index.htm",
@@ -26,6 +35,15 @@
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091289/0001213900-26-091289-index.htm",
       "source": "sec.gov",
       "published": "2026-08-18T21:02:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Chase Bank opens its first Coastal Alabama location in Foley",
+      "url": "https://www.wkrg.com/baldwin-county/chase-bank-opens-its-first-coastal-alabama-location-in-foley/",
+      "source": "wkrg.com",
+      "published": "2026-08-18T20:42:42+00:00",
       "tickers": [
         "JPM"
       ]
@@ -112,15 +130,6 @@
       "published": "2026-08-18T19:47:26+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-18T19:35:26+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
