@@ -1,6 +1,92 @@
 {
-  "last_updated": "2026-08-19T08:46:20.893943+00:00",
+  "last_updated": "2026-08-19T09:40:09.992241+00:00",
   "headlines": [
+    {
+      "title": "For CEOs, retirement is the ultimate performance review—and 60% are failing it",
+      "url": "https://fortune.com/2026/08/19/ceos-retirement-preparing-failure-bcg-study/",
+      "source": "fortune.com",
+      "published": "2026-08-19T08:41:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Great Lakes Advisors LLC Invests $54.64 Million in State Street Corporation $STT",
+      "url": "https://www.tickerreport.com/banking-finance/13549138/great-lakes-advisors-llc-invests-54-64-million-in-state-street-corporation-stt.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T08:37:45+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Compass Wealth Management LLC Takes Position in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-wealth-management-llc-takes-position-in-the-pnc-financial-services-group-inc-pnc-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T08:25:20+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Danske Bank A S Purchases Shares of 1,581,766 The Charles Schwab Corporation $SCHW",
+      "url": "https://www.tickerreport.com/banking-finance/13549077/danske-bank-a-s-purchases-shares-of-1581766-the-charles-schwab-corporation-schw.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T08:19:16+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Foster & Motley Inc. Purchases New Position in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-foster-motley-inc-purchases-new-position-in-us-bancorp-usb-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T08:14:31+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
+      "url": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
+      "source": "scmp.com",
+      "published": "2026-08-19T08:13:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reiterates Buy on Rubrik stock ahead of earnings",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-rubrik-stock-ahead-of-earnings-93CH-4866642",
+      "source": "investing.com",
+      "published": "2026-08-19T08:12:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reiterates MongoDB stock rating ahead of earnings",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-mongodb-stock-rating-ahead-of-earnings-93CH-4866641",
+      "source": "investing.com",
+      "published": "2026-08-19T08:12:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "India stocks top Indonesia as Asia’s least-favoured in BofA poll",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-19T07:32:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley upgrades Honeywell Aerospace stock rating on valuation",
       "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-honeywell-aerospace-stock-rating-on-valuation-93CH-4866561",
@@ -96,6 +182,15 @@
       ]
     },
     {
+      "title": "DOUGLAS HERRINGTON files to sell $4.4M of AMAZON.COM, INC. (AMZN) via Morgan Stanley Smith Barney LLC Executive Financial Services",
+      "url": "https://www.reddit.com/r/stocks/comments/1vserol/douglas_herrington_files_to_sell_44m_of_amazoncom/",
+      "source": "reddit.com",
+      "published": "2026-08-19T06:50:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Share Price Crosses Below 200-Day Moving Average - Time to Sell?",
       "url": "https://www.marketbeat.com/instant-alerts/bny-mellon-strategic-municipal-bond-fund-nysedsm-share-price-crosses-below-200-day-moving-average-time-to-sell-2026-08-19/",
       "source": "marketbeat.com",
@@ -114,13 +209,12 @@
       ]
     },
     {
-      "title": "India Stocks Top Indonesia as Asia’s Least-Favored in BofA Poll",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-stocks-top-indonesia-as-asia-s-least-favored-in-bofa-poll",
-      "source": "bloomberg.com",
-      "published": "2026-08-19T06:09:26+00:00",
+      "title": "In-Depth Analysis of Two Growth ETFs: Which One Deserves a Place in Your Portfolio?",
+      "url": "https://nai500.com/blog/2026/08/in-depth-analysis-of-two-growth-etfs-which-one-deserves-a-place-in-your-portfolio/",
+      "source": "nai500.com",
+      "published": "2026-08-19T06:10:59+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
@@ -186,103 +280,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America names new Asia Pacific industrials banking leadership team, memo says",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-names-new-asia-pacific-industrials-banking-leadership-team-memo-says-4866408",
-      "source": "investing.com",
-      "published": "2026-08-19T03:54:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-19T03:49:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Data Centre Stock to Buy With 30% Upside Potential; Recommended by Citi",
-      "url": "https://tradebrains.in/data-centre-stock-to-buy-with-30-upside-potential-recommended-by-citi/",
-      "source": "tradebrains.in",
-      "published": "2026-08-19T02:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
-      "url": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
-      "source": "cnbc.com",
-      "published": "2026-08-19T01:49:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Pres Celia Karam sells $425,782 of company stock",
-      "url": "https://www.investing.com/news/insider-trading-news/capital-one-pres-celia-karam-sells-425782-of-company-stock-93CH-4866299",
-      "source": "investing.com",
-      "published": "2026-08-19T01:16:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One pres Lia Dean sells $494,565 in COF stock",
-      "url": "https://www.investing.com/news/insider-trading-news/capital-one-pres-lia-dean-sells-494565-in-cof-stock-93CH-4866296",
-      "source": "investing.com",
-      "published": "2026-08-19T01:15:51+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Insider Celia Karam Sells 1,888 Shares of Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-nysecof-insider-celia-karam-sells-1888-shares-of-stock-2026-08-18/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T01:08:05+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Insider Selling: Capital One Financial (NYSE:COF) Insider Sells $494,565.36 in Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-capital-one-financial-nysecof-insider-sells-49456536-in-stock-2026-08-18/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T01:08:03+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Cotchett, Pitre & McCarthy Announces Bank of America Must Face Trial in California Pandemic Unemployment Benefits Litigation",
-      "url": "http://www.businesswire.com/news/home/20260818430124/en/Cotchett-Pitre-McCarthy-Announces-Bank-of-America-Must-Face-Trial-in-California-Pandemic-Unemployment-Benefits-Litigation/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-08-19T00:28:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Mellon High Yield Strategies Fund (NYSE:DHF) Sees Significant Drop in Short Interest",
-      "url": "https://www.tickerreport.com/banking-finance/13548911/bny-mellon-high-yield-strategies-fund-nysedhf-sees-significant-drop-in-short-interest.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-19T00:20:47+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
