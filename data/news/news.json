@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-08-19T01:42:08.621218+00:00",
+  "last_updated": "2026-08-19T03:04:16.516869+00:00",
   "headlines": [
+    {
+      "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
+      "url": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
+      "source": "cnbc.com",
+      "published": "2026-08-19T01:49:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Capital One Pres Celia Karam sells $425,782 of company stock",
       "url": "https://www.investing.com/news/insider-trading-news/capital-one-pres-celia-karam-sells-425782-of-company-stock-93CH-4866299",
@@ -43,7 +53,7 @@
     },
     {
       "title": "Cotchett, Pitre & McCarthy Announces Bank of America Must Face Trial in California Pandemic Unemployment Benefits Litigation",
-      "url": "http://www.businesswire.com/news/home/20260818430124/en/Cotchett-Pitre-McCarthy-Announces-Bank-of-America-Must-Face-Trial-in-California-Pandemic-Unemployment-Benefits-Litigation/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
+      "url": "http://www.businesswire.com/news/home/20260818430124/en/Cotchett-Pitre-McCarthy-Announces-Bank-of-America-Must-Face-Trial-in-California-Pandemic-Unemployment-Benefits-Litigation/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
       "source": "businesswire.com",
       "published": "2026-08-19T00:28:00+00:00",
       "tickers": [
@@ -108,6 +118,16 @@
       ]
     },
     {
+      "title": "BofA Loses Bid To Exit COVID-Era Calif. Benefits Card MDL",
+      "url": "https://www.law360.com/banking/articles/2515045?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-18T22:22:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Goldman’s Caution on AI Gains Meets Surging Capital Spend: What It Means for Stocks and the Economy",
       "url": "https://www.webpronews.com/goldmans-caution-on-ai-gains-meets-surging-capital-spend-what-it-means-for-stocks-and-the-economy/",
       "source": "webpronews.com",
@@ -162,6 +182,16 @@
       ]
     },
     {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024210/0001918704-26-024210-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:17:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "XOP vs TAN: Will an Oil & Gas ETF Bring More Profits Than a Solar Fund in 2026?",
       "url": "https://www.fool.com/coverage/etfs/2026/08/18/xop-vs-tan-will-an-oil-and-gas-etf-bring-more-profits-than-a-solar-fund-in-2026/?source=iedfolrf0000001",
       "source": "fool.com",
@@ -187,44 +217,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America Has a Stark Warning on AI Spending",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-stark-warning-ai-210907473.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-18T21:09:07+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA Survey Shows Record Expectations for ‘No Landing’ as Fed Chair Kevin Warsh Preps for Jackson Hole Debut",
-      "url": "https://www.barchart.com/story/news/3916136/bofa-survey-shows-record-expectations-for-no-landing-as-fed-chair-kevin-warsh-preps-for-jackson-hole-debut",
-      "source": "barchart.com",
-      "published": "2026-08-18T21:07:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Bath and Body Works (BBWI) Stock Is Trading Up Today",
-      "url": "https://stockstory.org/us/stocks/nyse/bbwi/news/why-up-down/why-bath-and-body-works-bbwi-stock-is-trading-up-today-3",
-      "source": "stockstory.org",
-      "published": "2026-08-18T21:00:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Why Planet Fitness (PLNT) Stock Is Trading Up Today",
-      "url": "https://stockstory.org/us/stocks/nyse/plnt/news/why-up-down/why-planet-fitness-plnt-stock-is-trading-up-today",
-      "source": "stockstory.org",
-      "published": "2026-08-18T21:00:39+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
