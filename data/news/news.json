@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-19T22:31:24.864426+00:00",
+  "last_updated": "2026-08-19T23:28:55.816518+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs flags record low correlation between AI and non-AI trades as hedge funds retreat",
+      "url": "https://cryptobriefing.com/goldman-sachs-record-low-ai-correlation/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-19T22:52:58+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "U.S. Bancorp (USB) Shares Fall 3.0% -- What GF Score of 75 Tells Investors",
       "url": "https://www.gurufocus.com/news/9044017/us-bancorp-usb-shares-fall-30-what-gf-score-of-75-tells-investors",
@@ -30,6 +39,15 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091786/0001213900-26-091786-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:21:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Bank of America (NYSE:BAC) Trading Down 1.7% - Should You Sell?",
       "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-down-17-should-you-sell-2026-08-19/",
       "source": "marketbeat.com",
@@ -44,6 +62,15 @@
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-down-16-time-to-sell-2026-08-19/",
       "source": "marketbeat.com",
       "published": "2026-08-19T21:21:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091782/0001213900-26-091782-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:17:06+00:00",
       "tickers": [
         "JPM"
       ]
@@ -76,6 +103,15 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091772/0001213900-26-091772-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:13:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040689/0001839882-26-040689-index.htm",
       "source": "sec.gov",
@@ -91,15 +127,6 @@
       "published": "2026-08-19T21:03:06+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091741/0001213900-26-091741-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T20:58:04+00:00",
-      "tickers": [
-        "JPM"
       ]
     },
     {
@@ -153,51 +180,6 @@
       "url": "https://www.gurufocus.com/news/9043792/ad-maintained-by-jp-morgan-price-target-lowered-to-45",
       "source": "gurufocus.com",
       "published": "2026-08-19T20:33:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TDS Maintained by JP Morgan -- Price Target Lowered to $48",
-      "url": "https://www.gurufocus.com/news/9043791/tds-maintained-by-jp-morgan-price-target-lowered-to-48",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:33:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WHF Maintains by JP Morgan -- Price Target Raised to $6.50",
-      "url": "https://www.gurufocus.com/news/9043790/whf-maintains-by-jp-morgan-price-target-raised-to-650",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:32:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AMH Maintained by JP Morgan -- Price Target Raised to $38.00",
-      "url": "https://www.gurufocus.com/news/9043789/amh-maintained-by-jp-morgan-price-target-raised-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:32:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FSK Maintained by JP Morgan -- Price Target Raised to $11.00",
-      "url": "https://www.gurufocus.com/news/9043788/fsk-maintained-by-jp-morgan-price-target-raised-to-1100",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:31:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MDA Maintained by JP Morgan -- Price Target Raised to $50.00",
-      "url": "https://www.gurufocus.com/news/9043787/mda-maintained-by-jp-morgan-price-target-raised-to-5000",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:31:16+00:00",
       "tickers": [
         "JPM"
       ]
