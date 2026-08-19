@@ -1,6 +1,253 @@
 {
-  "last_updated": "2026-08-19T19:31:35.751035+00:00",
+  "last_updated": "2026-08-19T20:35:30.377179+00:00",
   "headlines": [
+    {
+      "title": "Glass Lewis Recommends DMB Stockholders Vote to Support Board Nominees",
+      "url": "http://www.businesswire.com/news/home/20260819291842/en/Glass-Lewis-Recommends-DMB-Stockholders-Vote-to-Support-Board-Nominees/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-08-19T20:06:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Chime to Participate in Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260819939151/en/Chime-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-08-19T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ethos to Present at the Goldman Sachs Communacopia + Technology Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/19/3347968/0/en/ethos-to-present-at-the-goldman-sachs-communacopia-technology-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-19T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Penguin Solutions to Present at Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260819934617/en/Penguin-Solutions-to-Present-at-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-RqM1mp0fM08VkFYxQQxOu10ZZxv_xNbPs4Vvnqk1OarrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3mMpqLt6Q663ocghtsfF5Q97nKdfLXU1CD0fwzlM5l88g==",
+      "source": "businesswire.com",
+      "published": "2026-08-19T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "What Texas' surging wealth, new Dallas hub mean for Goldman Sachs in Lone Star State",
+      "url": "https://www.bizjournals.com/dallas/news/2026/08/19/goldman-sachs-scott-mueller-interview-dallas-hub.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-19T19:48:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Suncor Energy raised on recent weakness, Diamondback downgraded at Morgan Stanley",
+      "url": "https://seekingalpha.com/news/4635083-suncor-energy-raised-on-recent-weakness-diamondback-downgraded-at-morgan-stanley",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T19:43:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Lucid Group (NASDAQ:LCID) Price Target Lowered to $11.00 at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/lucid-group-nasdaqlcid-price-target-lowered-to-1100-at-citigroup-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T19:36:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Which Big Bank Stock Has Dominated in 2026: Bank of America, Wells Fargo, or Bank of New York Mellon Corp.?",
+      "url": "https://247wallst.com/investing/2026/08/19/which-big-bank-stock-has-dominated-in-2026-bank-of-america-wells-fargo-or-bank-of-new-york-mellon-corp/",
+      "source": "247wallst.com",
+      "published": "2026-08-19T19:23:33+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C",
+        "BK"
+      ]
+    },
+    {
+      "title": "EXE Maintained by Morgan Stanley -- Price Target Lowered to $129",
+      "url": "https://www.gurufocus.com/news/9043751/exe-maintained-by-morgan-stanley-price-target-lowered-to-129",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:22:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CRK Maintained by Morgan Stanley -- Price Target Lowered to $15.00",
+      "url": "https://www.gurufocus.com/news/9043754/crk-maintained-by-morgan-stanley-price-target-lowered-to-1500",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:22:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "EQT Maintains Overweight Rating by Morgan Stanley -- Price Target Lowered to $67.00",
+      "url": "https://www.gurufocus.com/news/9043753/eqt-maintains-overweight-rating-by-morgan-stanley-price-target-lowered-to-6700",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:22:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "RRC Maintained by Morgan Stanley -- Price Target Lowered to $43.00",
+      "url": "https://www.gurufocus.com/news/9043749/rrc-maintained-by-morgan-stanley-price-target-lowered-to-4300",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:22:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Strikes Deal to Buy LCN to Become Hands-Off Landlord",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/goldman-strikes-deal-to-buy-lcn-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-19T19:19:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "WhiteHorse Finance (NASDAQ:WHF) Price Target Raised to $6.50 at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13550253/whitehorse-finance-nasdaqwhf-price-target-raised-to-6-50-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T19:18:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Array Digital Infrastructure (NYSE:AD) Given New $45.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/array-digital-infrastructure-nysead-given-new-4500-price-target-at-jpmorgan-chase-co-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T19:18:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Keysight Technologies (NYSE:KEYS) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/keysight-technologies-nysekeys-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T19:18:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Telephone and Data Systems (NYSE:TDS) Price Target to $48.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-telephone-and-data-systems-nysetds-price-target-to-4800-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T19:18:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts e.l.f. Beauty (NYSE:ELF) Price Target to $106.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-elf-beauty-nyseelf-price-target-to-10600-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T19:18:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WhiteHorse Finance (NASDAQ:WHF) Given New $6.50 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/whitehorse-finance-nasdaqwhf-given-new-650-price-target-at-jpmorgan-chase-co-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T19:18:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "COP Maintained by Morgan Stanley -- Price Target Raised to $151",
+      "url": "https://www.gurufocus.com/news/9043720/cop-maintained-by-morgan-stanley-price-target-raised-to-151",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:03:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "XOM Maintained by Morgan Stanley -- Price Target Raised to $177",
+      "url": "https://www.gurufocus.com/news/9043719/xom-maintained-by-morgan-stanley-price-target-raised-to-177",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:02:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CVX Maintained by Morgan Stanley -- Price Target Raised to $218",
+      "url": "https://www.gurufocus.com/news/9043717/cvx-maintained-by-morgan-stanley-price-target-raised-to-218",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:02:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "FANG Downgraded by Morgan Stanley -- Rating Changed to Equal-Weight",
+      "url": "https://www.gurufocus.com/news/9043711/fang-downgraded-by-morgan-stanley-rating-changed-to-equalweight",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:01:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "SNPS Maintained by Morgan Stanley -- Price Target Lowered to $500",
+      "url": "https://www.gurufocus.com/news/9043704/snps-maintained-by-morgan-stanley-price-target-lowered-to-500",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:01:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "KEYS Maintained by Morgan Stanley -- Price Target Raised to $425",
+      "url": "https://www.gurufocus.com/news/9043697/keys-maintained-by-morgan-stanley-price-target-raised-to-425",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:01:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "KLAR Maintained by Morgan Stanley -- Price Target Lowered to $17",
+      "url": "https://www.gurufocus.com/news/9043695/klar-maintained-by-morgan-stanley-price-target-lowered-to-17",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T19:00:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "These are the best airport lounges in America, according to travelers",
+      "url": "https://www.fastcompany.com/91592343/these-are-the-best-airport-lounges-in-america-according-to-travelers",
+      "source": "fastcompany.com",
+      "published": "2026-08-19T19:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "JPMorgan Chase & Co. Cuts Elbit Systems (NASDAQ:ESLT) Price Target to $885.00",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-elbit-systems-nasdaqeslt-price-target-to-88500-2026-08-19/",
@@ -26,261 +273,6 @@
       "published": "2026-08-19T18:54:27+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Septerna (NASDAQ:SEPN) Price Target Raised to $48.00",
-      "url": "https://www.marketbeat.com/instant-alerts/septerna-nasdaqsepn-price-target-raised-to-4800-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T18:54:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EQT (NYSE:EQT) Given New $67.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/eqt-nyseeqt-given-new-6700-price-target-at-morgan-stanley-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T18:36:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Remember When - Remember WhenSeen here is Schafer’s Laundry, which once stood ...",
-      "url": "https://www.lpheralddispatch.com/news/local/remember-when/image_887c0259-fbd6-5f05-ab12-92ca05ba955c.html",
-      "source": "lpheralddispatch.com",
-      "published": "2026-08-19T18:30:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024273/0001918704-26-024273-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T18:22:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Just Upgraded Honeywell Aerospace Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/3935574/morgan-stanley-just-upgraded-honeywell-aerospace-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-08-19T18:21:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Moderna (NASDAQ:MRNA) Raised to \"Neutral\" at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/moderna-nasdaqmrna-raised-to-neutral-at-bank-of-america-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T18:06:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Honeywell Aerospace analysis: what does Morgan Stanley’s upgrade tell investors?",
-      "url": "https://www.investing.com/news/stock-market-news/honeywell-aerospace-analysis-what-does-morgan-stanleys-upgrade-tell-investors-93CH-4868024",
-      "source": "investing.com",
-      "published": "2026-08-19T18:06:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Carvana gains on report Mark Walter's shares pledged to Citi",
-      "url": "https://seekingalpha.com/news/4635062-carvana-gains-on-report-mark-walters-shares-pledged-to-citi",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T18:02:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman sounds out investors for $1.15 billion CoreWeave data center bond",
-      "url": "https://cryptobriefing.com/goldman-sachs-junk-bond-coreweave-data-center/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-19T17:52:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Klarna Group (NYSE:KLAR) Given New $17.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/klarna-group-nyseklar-given-new-1700-price-target-at-morgan-stanley-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:42:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Baidu Slides 14% as Morgan Stanley Slashes Target to $80",
-      "url": "https://www.gurufocus.com/news/9043375/baidu-slides-14-as-morgan-stanley-slashes-target-to-80",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T17:36:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ServiceNow, Snowflake among software stocks seeing PO raised at BofA",
-      "url": "https://seekingalpha.com/news/4635043-servicenow-snowflake-among-software-stocks-seeing-po-raised-at-bofa",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T17:30:03+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AI Job Shock Hits Young Workers First as Goldman Finds Entry-Level Jobs Face 3 Times Greater Employment Drag",
-      "url": "https://www.ibtimes.co.uk/ai-impact-entry-level-jobs-global-perspective-1815180",
-      "source": "ibtimes.co.uk",
-      "published": "2026-08-19T17:28:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Ripple Borrows $275 Million at 8.25% to Take On Goldman Sachs. Can It Win?",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/19/ripple-borrows-275-million-at-8-25-to-take-on-goldman-sachs-can-it-win/",
-      "source": "247wallst.com",
-      "published": "2026-08-19T17:28:33+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Figma (NYSE:FIG) Price Target Raised to $33.00 at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/figma-nysefig-price-target-raised-to-3300-at-bank-of-america-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:24:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ServiceNow (NYSE:NOW) Price Target Raised to $150.00",
-      "url": "https://www.marketbeat.com/instant-alerts/servicenow-nysenow-price-target-raised-to-15000-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:24:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Adobe (NASDAQ:ADBE) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/adobe-nasdaqadbe-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:24:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Workday (NASDAQ:WDAY) Price Target Raised to $205.00",
-      "url": "https://www.marketbeat.com/instant-alerts/workday-nasdaqwday-price-target-raised-to-20500-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:24:29+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs says IPO market is open for business as AI companies dominate capital raises",
-      "url": "https://cryptobriefing.com/goldman-sachs-ipo-market-open-ai-dominates/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-19T17:18:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sounds Out Investors for CoreWeave-Tied Data Center Bond",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/goldman-sounds-out-investors-for-coreweave-tied-data-center-bond",
-      "source": "bloomberg.com",
-      "published": "2026-08-19T17:13:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA raises Figma (FIG) price target from $30 to $33, maintains Buy rating",
-      "url": "https://www.reddit.com/r/stocks/comments/1vssgcg/bofa_raises_figma_fig_price_target_from_30_to_33/",
-      "source": "reddit.com",
-      "published": "2026-08-19T17:06:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GitLab (NASDAQ:GTLB) Given New $45.00 Price Target at Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13550148/gitlab-nasdaqgtlb-given-new-45-00-price-target-at-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-19T17:02:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Follow Now - August 19th",
-      "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-to-follow-now-august-19th-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:02:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Zeta Global (NYSE:ZETA) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/zeta-global-nysezeta-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:00:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Snowflake (NYSE:SNOW) Given New $395.00 Price Target at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/snowflake-nysesnow-given-new-39500-price-target-at-bank-of-america-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:00:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GitLab (NASDAQ:GTLB) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/gitlab-nasdaqgtlb-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T17:00:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stocks Climb as Treasury Steps In to Support Bonds",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/stocks-climb-as-treasury-steps-in-to-support-bonds-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-19T16:58:50+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
