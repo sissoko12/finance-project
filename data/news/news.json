@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-08-19T14:40:28.668876+00:00",
+  "last_updated": "2026-08-19T15:37:30.504087+00:00",
   "headlines": [
+    {
+      "title": "PRU Maintained by Wells Fargo -- Price Target Raised to $110",
+      "url": "https://www.gurufocus.com/news/9043225/pru-maintained-by-wells-fargo-price-target-raised-to-110",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "RGA Maintained by Wells Fargo -- Price Target Raised to $291",
+      "url": "https://www.gurufocus.com/news/9043284/rga-maintained-by-wells-fargo-price-target-raised-to-291",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:12+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "VOYA Maintained by Wells Fargo -- Price Target Raised to $104",
+      "url": "https://www.gurufocus.com/news/9043289/voya-maintained-by-wells-fargo-price-target-raised-to-104",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:12+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "KLAR Maintained by Wells Fargo -- Price Target Lowered to $21.00",
+      "url": "https://www.gurufocus.com/news/9043313/klar-maintained-by-wells-fargo-price-target-lowered-to-2100",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "APP Maintained by Wells Fargo -- Price Target Lowered to $325",
+      "url": "https://www.gurufocus.com/news/9043307/app-maintained-by-wells-fargo-price-target-lowered-to-325",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "KEYS Maintained by Wells Fargo -- Price Target Raised to $405",
+      "url": "https://www.gurufocus.com/news/9043315/keys-maintained-by-wells-fargo-price-target-raised-to-405",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "REG Maintained by Wells Fargo -- Price Target Lowered to $88.00",
+      "url": "https://www.gurufocus.com/news/9043305/reg-maintained-by-wells-fargo-price-target-lowered-to-8800",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:42:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MET Maintains Overweight Rating by Wells Fargo -- Price Target Raised to $109",
+      "url": "https://www.gurufocus.com/news/9043223/met-maintains-overweight-rating-by-wells-fargo-price-target-raised-to-109",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:41:26+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "EQH Maintained by Wells Fargo -- Price Target Raised to $64.00",
+      "url": "https://www.gurufocus.com/news/9043220/eqh-maintained-by-wells-fargo-price-target-raised-to-6400",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T14:40:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Lowers Amer Sports (NYSE:AS) Price Target to $42.00",
+      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-amer-sports-nyseas-price-target-to-4200-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T14:24:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Diamondback Energy (NASDAQ:FANG) Earns Equal Weight Rating from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/diamondback-energy-nasdaqfang-earns-equal-weight-rating-from-morgan-stanley-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T14:06:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Zoom Communications (NASDAQ:ZM) Earns Buy Rating from Analysts at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/zoom-communications-nasdaqzm-earns-buy-rating-from-analysts-at-bank-of-america-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T14:06:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Upgrades Suncor Energy (NYSE:SU) to \"Overweight\"",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-upgrades-suncor-energy-nysesu-to-overweight-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T14:06:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Nvidia (NVDA) Stock: BofA Sets $350 Target, Citing 60% Upside Potential",
+      "url": "https://blockonomi.com/nvidia-nvda-stock-bofa-sets-350-target-citing-60-upside-potential/",
+      "source": "blockonomi.com",
+      "published": "2026-08-19T13:50:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley cuts Baidu to underweight as AI spending weighs on earnings | $BIDU",
       "url": "https://seekingalpha.com/news/4634911-morgan-stanley-cuts-baidu-to-underweight-as-ai-spending-weighs-on-earnings",
@@ -8,6 +146,35 @@
       "published": "2026-08-19T13:29:00+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "There are Recent Customer Complaints with Broker Alberto Leyba in Firm J.P. Morgan Securities LLC",
+      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-alberto-leyba-in-firm-j-p-morgan-securities-llc/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-08-19T13:22:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Barclays names Joo as co-CEO of investment bank alongside Khan",
+      "url": "https://www.bankingexchange.com/news-feed/item/10673-barclays-names-joo-as-co-ceo-of-investment-bank-alongside-khan",
+      "source": "bankingexchange.com",
+      "published": "2026-08-19T13:22:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rush Hour: India least-preferred Asian stock market, Tejashwi Yadav detained during protest & more",
+      "url": "https://scroll.in/latest/1095139/rush-hour-india-least-preferred-asian-stock-market-tejashwi-yadav-detained-during-protest-more?utm_source=rss&utm_medium=public",
+      "source": "scroll.in",
+      "published": "2026-08-19T13:11:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -34,6 +201,16 @@
       "url": "https://watcher.guru/news/why-nvidia-stock-gets-a-350-price-target-from-bank-of-america",
       "source": "watcher.guru",
       "published": "2026-08-19T13:01:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Indian stock market least-preferred in Asia, shows survey",
+      "url": "https://scroll.in/latest/1095145/indian-stock-market-least-preferred-in-asia-shows-bank-of-america-survey?utm_source=rss&utm_medium=public",
+      "source": "scroll.in",
+      "published": "2026-08-19T12:59:01+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -110,172 +287,6 @@
       "published": "2026-08-19T12:41:27+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Tech hits record weekly inflows while industrials exodus deepens - BofA",
-      "url": "https://seekingalpha.com/news/4634890-tech-hits-record-weekly-inflows-while-industrials-exodus-deepens-bofa",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T12:40:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Arthur J. Gallagher & Co. (NYSE:AJG) Price Target Raised to $290.00 at Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13549917/arthur-j-gallagher-co-nyseajg-price-target-raised-to-290-00-at-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-19T12:36:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Willis Towers Watson Public (NASDAQ:WTW) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/willis-towers-watson-public-nasdaqwtw-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:36:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Marsh & McLennan Companies (NYSE:MRSH) Price Target Raised to $200.00",
-      "url": "https://www.marketbeat.com/instant-alerts/marsh-mclennan-companies-nysemrsh-price-target-raised-to-20000-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:36:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kinsale Capital Group (NYSE:KNSL) Given New $390.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/kinsale-capital-group-nyseknsl-given-new-39000-price-target-at-morgan-stanley-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:36:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bowhead Specialty (NYSE:BOW) Price Target Raised to $34.00",
-      "url": "https://www.marketbeat.com/instant-alerts/bowhead-specialty-nysebow-price-target-raised-to-3400-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:36:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wealthfront Advisers LLC Takes Position in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13549915/wealthfront-advisers-llc-takes-position-in-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-19T12:34:54+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Klarna cut to Neutral at J.P. Morgan after Q2 earnings",
-      "url": "https://seekingalpha.com/news/4634875-klarna-cut-to-neutral-at-jp-morgan-after-q2-earnings",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T12:34:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BNY Mellon Small/Mid Cap Growth Fund Q2 2026 Commentary | $DBMAX $DBMZX $DBMYX $DBMCX $FRSFX",
-      "url": "https://seekingalpha.com/article/4938233-bny-mellon-smallmid-cap-growth-fund-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T12:34:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Goldman’s Rosner Sees More Than AI Debt Weighing on Treasury Yields",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/goldman-s-rosner-sees-many-factors-weighing-on-yields-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-19T12:33:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "should i make another credit card?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vsl22o/should_i_make_another_credit_card/",
-      "source": "reddit.com",
-      "published": "2026-08-19T12:29:23+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup plans Bitcoin custody service for institutional clients through new Custody+ platform",
-      "url": "https://cryptobriefing.com/citigroup-bitcoin-custody-institutional-2026/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-19T12:27:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "These 3 easy benchmarks can help you find out if you’re really ready to retire. Have you met them yet?",
-      "url": "https://finance.yahoo.com/markets/articles/3-easy-benchmarks-help-really-122500468.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-19T12:25:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-tied-data-center-inks-121557679.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-19T12:15:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Chubb (NYSE:CB) Price Target Raised to $360.00 at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/chubb-nysecb-price-target-raised-to-36000-at-morgan-stanley-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:12:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Lemonade (NYSE:LMND) Given New $56.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/lemonade-nyselmnd-given-new-5600-price-target-at-morgan-stanley-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:12:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "The Hanover Insurance Group (NYSE:THG) Price Target Raised to $240.00",
-      "url": "https://www.marketbeat.com/instant-alerts/the-hanover-insurance-group-nysethg-price-target-raised-to-24000-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:12:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Is First Commonwealth Financial (FCF) Fairly Valued As Its Share Price Momentum Builds?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-commonwealth-financial-fcf-fairly-120951164.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-19T12:09:51+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
