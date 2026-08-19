@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-08-18T23:51:48.293781+00:00",
+  "last_updated": "2026-08-19T01:42:08.621218+00:00",
   "headlines": [
+    {
+      "title": "Capital One Pres Celia Karam sells $425,782 of company stock",
+      "url": "https://www.investing.com/news/insider-trading-news/capital-one-pres-celia-karam-sells-425782-of-company-stock-93CH-4866299",
+      "source": "investing.com",
+      "published": "2026-08-19T01:16:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One pres Lia Dean sells $494,565 in COF stock",
+      "url": "https://www.investing.com/news/insider-trading-news/capital-one-pres-lia-dean-sells-494565-in-cof-stock-93CH-4866296",
+      "source": "investing.com",
+      "published": "2026-08-19T01:15:51+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial (NYSE:COF) Insider Celia Karam Sells 1,888 Shares of Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/capital-one-financial-nysecof-insider-celia-karam-sells-1888-shares-of-stock-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T01:08:05+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Insider Selling: Capital One Financial (NYSE:COF) Insider Sells $494,565.36 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-capital-one-financial-nysecof-insider-sells-49456536-in-stock-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T01:08:03+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Cotchett, Pitre & McCarthy Announces Bank of America Must Face Trial in California Pandemic Unemployment Benefits Litigation",
+      "url": "http://www.businesswire.com/news/home/20260818430124/en/Cotchett-Pitre-McCarthy-Announces-Bank-of-America-Must-Face-Trial-in-California-Pandemic-Unemployment-Benefits-Litigation/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
+      "source": "businesswire.com",
+      "published": "2026-08-19T00:28:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Strategies Fund (NYSE:DHF) Sees Significant Drop in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13548911/bny-mellon-high-yield-strategies-fund-nysedhf-sees-significant-drop-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T00:20:47+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Sees Unusually Large Options Volume (NYSE:BNY)",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-sees-unusually-large-options-volume-nysebny-2026-08-18/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T00:00:33+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "RH (RH) – Research Analysts’ Weekly Ratings Updates",
+      "url": "https://www.tickerreport.com/banking-finance/13548900/rh-rh-research-analysts-weekly-ratings-updates.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-18T23:56:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
       "url": "https://www.sec.gov/Archives/edgar/data/927628/000174134426000021/0001741344-26-000021-index.htm",
@@ -22,12 +99,30 @@
       ]
     },
     {
+      "title": "Weekly Analysts’ Ratings Updates for Figma (FIG)",
+      "url": "https://www.tickerreport.com/banking-finance/13548869/weekly-analysts-ratings-updates-for-figma-fig.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-18T22:26:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Goldman’s Caution on AI Gains Meets Surging Capital Spend: What It Means for Stocks and the Economy",
       "url": "https://www.webpronews.com/goldmans-caution-on-ai-gains-meets-surging-capital-spend-what-it-means-for-stocks-and-the-economy/",
       "source": "webpronews.com",
       "published": "2026-08-18T22:02:07+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "XOP vs. EMLP: Should You Buy a Low-Cost Oil Fund or Higher-Yield Infrastructure ETF?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/18/xop-vs-emlp-should-you-buy-a-low-cost-oil-fund-or-higher-yield-infrastructure-etf/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-18T21:42:01+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -49,12 +144,30 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526355724/0001193125-26-355724-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:29:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024215/0001918704-26-024215-index.htm",
       "source": "sec.gov",
       "published": "2026-08-18T21:25:16+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "XOP vs TAN: Will an Oil & Gas ETF Bring More Profits Than a Solar Fund in 2026?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/18/xop-vs-tan-will-an-oil-and-gas-etf-bring-more-profits-than-a-solar-fund-in-2026/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-18T21:13:53+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -97,60 +210,21 @@
       ]
     },
     {
-      "title": "Chase Bank opens its first Coastal Alabama location in Foley",
-      "url": "https://www.wkrg.com/baldwin-county/chase-bank-opens-its-first-coastal-alabama-location-in-foley/",
-      "source": "wkrg.com",
-      "published": "2026-08-18T20:42:42+00:00",
+      "title": "Why Bath and Body Works (BBWI) Stock Is Trading Up Today",
+      "url": "https://stockstory.org/us/stocks/nyse/bbwi/news/why-up-down/why-bath-and-body-works-bbwi-stock-is-trading-up-today-3",
+      "source": "stockstory.org",
+      "published": "2026-08-18T21:00:42+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "World's second-largest bank boosts XRP holdings",
-      "url": "https://www.thestreet.com/crypto/markets/worlds-second-largest-bank-boosts-xrp-holdings?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-08-18T20:35:00+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091252/0001213900-26-091252-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T20:33:42+00:00",
+      "title": "Why Planet Fitness (PLNT) Stock Is Trading Up Today",
+      "url": "https://stockstory.org/us/stocks/nyse/plnt/news/why-up-down/why-planet-fitness-plnt-stock-is-trading-up-today",
+      "source": "stockstory.org",
+      "published": "2026-08-18T21:00:39+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
-      "url": "https://www.gurufocus.com/news/9041355/bofa-sends-bullish-message-for-taiwan-semiconductor-stock-fans",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T20:33:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Has a Message for Taiwan Semi Investors",
-      "url": "https://www.gurufocus.com/news/9041344/bank-of-america-has-a-message-for-taiwan-semi-investors",
-      "source": "gurufocus.com",
-      "published": "2026-08-18T20:33:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ultra-short bond ETFs complicate case for holding cash",
-      "url": "https://www.thestreet.com/investing/ultra-short-bond-etfs-12-billion-july-inflows?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-08-18T20:33:00+00:00",
-      "tickers": [
-        "JPM"
+        "MS"
       ]
     }
   ]
