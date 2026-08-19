@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T23:28:55.816518+00:00",
+  "last_updated": "2026-08-19T23:53:08.682532+00:00",
   "headlines": [
     {
       "title": "Goldman Sachs flags record low correlation between AI and non-AI trades as hedge funds retreat",
@@ -35,6 +35,26 @@
       "source": "gurufocus.com",
       "published": "2026-08-19T22:20:03+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TSMC’s Arizona Fab Crosses 4% of Group Sales as Orders Reshape US Chip Economics",
+      "url": "https://wccftech.com/tsmcs-arizona-fab-crosses-4-of-group-sales-as-orders-reshape-us-chip-economics/",
+      "source": "wccftech.com",
+      "published": "2026-08-19T22:14:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Pony AI Is Scaling Robotaxis Fast—Can the Stock Reach BofA’s $17 Target?",
+      "url": "https://www.insidermonkey.com/blog/pony-ai-is-scaling-robotaxis-fast-can-the-stock-reach-bofas-17-target-1819779/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-19T21:24:25+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -171,15 +191,6 @@
       "url": "https://www.gurufocus.com/news/9043793/keys-maintained-by-jp-morgan-price-target-raised-to-425",
       "source": "gurufocus.com",
       "published": "2026-08-19T20:33:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AD Maintained by JP Morgan -- Price Target Lowered to $45",
-      "url": "https://www.gurufocus.com/news/9043792/ad-maintained-by-jp-morgan-price-target-lowered-to-45",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:33:31+00:00",
       "tickers": [
         "JPM"
       ]
