@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-19T03:04:16.516869+00:00",
+  "last_updated": "2026-08-19T04:09:43.620506+00:00",
   "headlines": [
+    {
+      "title": "Data Centre Stock to Buy With 30% Upside Potential; Recommended by Citi",
+      "url": "https://tradebrains.in/data-centre-stock-to-buy-with-30-upside-potential-recommended-by-citi/",
+      "source": "tradebrains.in",
+      "published": "2026-08-19T02:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
       "url": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
@@ -71,6 +80,15 @@
       ]
     },
     {
+      "title": "U.S. Bank reported “Checking Account Fraud” to EWS after legitimate ACH — $4,010 also still not returned",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vs6qyt/us_bank_reported_checking_account_fraud_to_ews/",
+      "source": "reddit.com",
+      "published": "2026-08-19T00:18:18+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
       "title": "Bank of New York Mellon Sees Unusually Large Options Volume (NYSE:BNY)",
       "url": "https://www.marketbeat.com/instant-alerts/bank-of-new-york-mellon-sees-unusually-large-options-volume-nysebny-2026-08-18/",
       "source": "marketbeat.com",
@@ -119,7 +137,7 @@
     },
     {
       "title": "BofA Loses Bid To Exit COVID-Era Calif. Benefits Card MDL",
-      "url": "https://www.law360.com/banking/articles/2515045?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "url": "https://www.law360.com/classaction/articles/2515045?utm_source=rss&utm_medium=rss&utm_campaign=section",
       "source": "law360.com",
       "published": "2026-08-18T22:22:00+00:00",
       "tickers": [
@@ -134,6 +152,16 @@
       "published": "2026-08-18T22:02:07+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000202897726000017/0002028977-26-000017-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-18T21:55:27+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
       ]
     },
     {
@@ -198,25 +226,6 @@
       "published": "2026-08-18T21:13:53+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B8 - Prospectus filed pursuant to Rule 424(b)(8)",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091297/0001213900-26-091297-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T21:11:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040494/0001839882-26-040494-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-18T21:10:25+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
