@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-08-19T15:37:30.504087+00:00",
+  "last_updated": "2026-08-19T16:38:07.689718+00:00",
   "headlines": [
+    {
+      "title": "Goldman Finds Entry-Level Workers More Vulnerable to AI Displacement",
+      "url": "https://www.pymnts.com/economy/2026/goldman-finds-entry-level-workers-more-vulnerable-to-ai-displacement/",
+      "source": "pymnts.com",
+      "published": "2026-08-19T15:20:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091495/0001213900-26-091495-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T15:18:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "These two Chinese stocks are poised to win in the Physical AI era",
+      "url": "https://invezz.com/news/2026/08/19/these-two-chinese-stocks-are-poised-to-win-in-the-physical-ai-era/",
+      "source": "invezz.com",
+      "published": "2026-08-19T15:04:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "iShares J.P. Morgan EM Local Currency Bond ETF (NYSEARCA:LEMB) Reaches New 52-Week High – What’s Next?",
+      "url": "https://www.tickerreport.com/banking-finance/13550062/ishares-j-p-morgan-em-local-currency-bond-etf-nysearcalemb-reaches-new-52-week-high-whats-next.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T15:01:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024238/0001918704-26-024238-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T15:01:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024237/0001918704-26-024237-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T15:00:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Nvidia Trades At 50% Discount - Bank of America sees Nvidia shares trading at a steep discount ...",
+      "url": "https://247wallst.com/investing/2026/08/19/nvidia-trades-at-50-discount/",
+      "source": "247wallst.com",
+      "published": "2026-08-19T14:56:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Zoom's Growth Reacceleration Is Durable as It Moves Beyond Meetings, BofA Says",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-apos-growth-reacceleration-durable-145508575.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-19T14:55:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SailPoint (NASDAQ:SAIL) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/sailpoint-nasdaqsail-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T14:42:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Rubrik (NYSE:RBRK) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/rubrik-nyserbrk-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T14:42:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "PRU Maintained by Wells Fargo -- Price Target Raised to $110",
       "url": "https://www.gurufocus.com/news/9043225/pru-maintained-by-wells-fargo-price-target-raised-to-110",
@@ -92,6 +187,33 @@
       ]
     },
     {
+      "title": "Citi Turns Bullish on Zambia Debt as Election Heralds Upgrades",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/citi-turns-bullish-on-zambia-debt-as-election-heralds-upgrades",
+      "source": "bloomberg.com",
+      "published": "2026-08-19T14:39:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Has Run JPMorgan Chase for 2 Decades. What Happens to the Stock When He Steps Down?",
+      "url": "https://www.fool.com/investing/2026/08/19/jamie-dimon-has-run-jpmorgan-chase-for-2-decades-w/",
+      "source": "fool.com",
+      "published": "2026-08-19T14:35:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reiterates Progressive stock rating on July earnings beat",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-progressive-stock-rating-on-july-earnings-beat-93CH-4867816",
+      "source": "investing.com",
+      "published": "2026-08-19T14:34:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Truist Financial Lowers Amer Sports (NYSE:AS) Price Target to $42.00",
       "url": "https://www.marketbeat.com/instant-alerts/truist-financial-lowers-amer-sports-nyseas-price-target-to-4200-2026-08-19/",
       "source": "marketbeat.com",
@@ -136,156 +258,6 @@
       "published": "2026-08-19T13:50:31+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley cuts Baidu to underweight as AI spending weighs on earnings | $BIDU",
-      "url": "https://seekingalpha.com/news/4634911-morgan-stanley-cuts-baidu-to-underweight-as-ai-spending-weighs-on-earnings",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T13:29:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "There are Recent Customer Complaints with Broker Alberto Leyba in Firm J.P. Morgan Securities LLC",
-      "url": "https://www.securitieslawyersblog.com/there-are-recent-customer-complaints-with-broker-alberto-leyba-in-firm-j-p-morgan-securities-llc/",
-      "source": "securitieslawyersblog.com",
-      "published": "2026-08-19T13:22:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Barclays names Joo as co-CEO of investment bank alongside Khan",
-      "url": "https://www.bankingexchange.com/news-feed/item/10673-barclays-names-joo-as-co-ceo-of-investment-bank-alongside-khan",
-      "source": "bankingexchange.com",
-      "published": "2026-08-19T13:22:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Rush Hour: India least-preferred Asian stock market, Tejashwi Yadav detained during protest & more",
-      "url": "https://scroll.in/latest/1095139/rush-hour-india-least-preferred-asian-stock-market-tejashwi-yadav-detained-during-protest-more?utm_source=rss&utm_medium=public",
-      "source": "scroll.in",
-      "published": "2026-08-19T13:11:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "FESTIVAL ANNOUNCEMENT: 32nd Annual One Mind Music Festival Presented by Bank of America and Bristol Myers Squibb",
-      "url": "http://www.businesswire.com/news/home/20260819881122/en/FESTIVAL-ANNOUNCEMENT-32nd-Annual-One-Mind-Music-Festival-Presented-by-Bank-of-America-and-Bristol-Myers-Squibb/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
-      "source": "businesswire.com",
-      "published": "2026-08-19T13:05:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Honeywell Aerospace upgraded at Morgan Stanley as selloff creates entry point",
-      "url": "https://seekingalpha.com/news/4634910-honeywell-aerospace-upgraded-at-morgan-stanley-as-selloff-creates-entry-point",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T13:01:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Why Nvidia Stock Gets a $350 Price Target From Bank of America",
-      "url": "https://watcher.guru/news/why-nvidia-stock-gets-a-350-price-target-from-bank-of-america",
-      "source": "watcher.guru",
-      "published": "2026-08-19T13:01:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Indian stock market least-preferred in Asia, shows survey",
-      "url": "https://scroll.in/latest/1095145/indian-stock-market-least-preferred-in-asia-shows-bank-of-america-survey?utm_source=rss&utm_medium=public",
-      "source": "scroll.in",
-      "published": "2026-08-19T12:59:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Cogent Communications' (CCOI) Underweight Rating Reiterated at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/cogent-communications-ccoi-underweight-rating-reiterated-at-jpmorgan-chase-co-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:54:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Klarna Group (NYSE:KLAR) Receives Neutral Rating from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/klarna-group-nyseklar-receives-neutral-rating-from-jpmorgan-chase-co-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:54:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs estimates AI is costing the US 16,000 jobs per month",
-      "url": "https://cryptobriefing.com/goldman-sachs-ai-us-job-losses/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-19T12:53:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CrowdStrike Setup 'Constructive,' But Truist Favors Rubrik, SailPoint Ahead Of Q2 Earnings",
-      "url": "https://stocktwits.com/news-articles/markets/equity/truist-cybersecurity-rubrik-rbrk-sailpoint-crowdstrike-earnings-outlook/cZYdKc8RJlb?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-08-19T12:51:25+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Mereo BioPharma Group's (MREO) \"Underweight\" Rating Reiterated at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/mereo-biopharma-groups-mreo-underweight-rating-reiterated-at-jpmorgan-chase-co-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T12:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Corsair Gaming downgraded by Goldman Sachs",
-      "url": "https://seekingalpha.com/news/4634897-corsair-gaming-downgraded-by-goldman-sachs",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T12:42:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Short Interest in Goldman Sachs ActiveBeta International Equity ETF (NYSEARCA:GSIE) Declines By 45.3%",
-      "url": "https://www.tickerreport.com/banking-finance/13549926/short-interest-in-goldman-sachs-activebeta-international-equity-etf-nysearcagsie-declines-by-45-3.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-19T12:41:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B8 - Prospectus filed pursuant to Rule 424(b)(8)",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012616/0000950103-26-012616-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T12:41:27+00:00",
-      "tickers": [
         "C"
       ]
     }
