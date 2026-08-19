@@ -1,6 +1,157 @@
 {
-  "last_updated": "2026-08-19T17:32:21.025858+00:00",
+  "last_updated": "2026-08-19T18:44:12.822066+00:00",
   "headlines": [
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024273/0001918704-26-024273-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T18:22:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Just Upgraded Honeywell Aerospace Stock. Here's Why.",
+      "url": "https://www.barchart.com/story/news/3935574/morgan-stanley-just-upgraded-honeywell-aerospace-stock-here-s-why",
+      "source": "barchart.com",
+      "published": "2026-08-19T18:21:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Moderna (NASDAQ:MRNA) Raised to \"Neutral\" at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/moderna-nasdaqmrna-raised-to-neutral-at-bank-of-america-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T18:06:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Honeywell Aerospace analysis: what does Morgan Stanley’s upgrade tell investors?",
+      "url": "https://www.investing.com/news/stock-market-news/honeywell-aerospace-analysis-what-does-morgan-stanleys-upgrade-tell-investors-93CH-4868024",
+      "source": "investing.com",
+      "published": "2026-08-19T18:06:20+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Carvana gains on report Mark Walter's shares pledged to Citi",
+      "url": "https://seekingalpha.com/news/4635062-carvana-gains-on-report-mark-walters-shares-pledged-to-citi",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T18:02:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman sounds out investors for $1.15 billion CoreWeave data center bond",
+      "url": "https://cryptobriefing.com/goldman-sachs-junk-bond-coreweave-data-center/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-19T17:52:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Klarna Group (NYSE:KLAR) Given New $17.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/klarna-group-nyseklar-given-new-1700-price-target-at-morgan-stanley-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T17:42:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Baidu Slides 14% as Morgan Stanley Slashes Target to $80",
+      "url": "https://www.gurufocus.com/news/9043375/baidu-slides-14-as-morgan-stanley-slashes-target-to-80",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T17:36:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ServiceNow, Snowflake among software stocks seeing PO raised at BofA",
+      "url": "https://seekingalpha.com/news/4635043-servicenow-snowflake-among-software-stocks-seeing-po-raised-at-bofa",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T17:30:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AI Job Shock Hits Young Workers First as Goldman Finds Entry-Level Jobs Face 3 Times Greater Employment Drag",
+      "url": "https://www.ibtimes.co.uk/ai-impact-entry-level-jobs-global-perspective-1815180",
+      "source": "ibtimes.co.uk",
+      "published": "2026-08-19T17:28:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ripple Borrows $275 Million at 8.25% to Take On Goldman Sachs. Can It Win?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/19/ripple-borrows-275-million-at-8-25-to-take-on-goldman-sachs-can-it-win/",
+      "source": "247wallst.com",
+      "published": "2026-08-19T17:28:33+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Figma (NYSE:FIG) Price Target Raised to $33.00 at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/figma-nysefig-price-target-raised-to-3300-at-bank-of-america-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T17:24:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "ServiceNow (NYSE:NOW) Price Target Raised to $150.00",
+      "url": "https://www.marketbeat.com/instant-alerts/servicenow-nysenow-price-target-raised-to-15000-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T17:24:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Adobe (NASDAQ:ADBE) Stock Price Expected to Rise, Bank of America Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/adobe-nasdaqadbe-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T17:24:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Workday (NASDAQ:WDAY) Price Target Raised to $205.00",
+      "url": "https://www.marketbeat.com/instant-alerts/workday-nasdaqwday-price-target-raised-to-20500-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T17:24:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs says IPO market is open for business as AI companies dominate capital raises",
+      "url": "https://cryptobriefing.com/goldman-sachs-ipo-market-open-ai-dominates/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-19T17:18:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sounds Out Investors for CoreWeave-Tied Data Center Bond",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/goldman-sounds-out-investors-for-coreweave-tied-data-center-bond",
@@ -11,12 +162,23 @@
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091547/0001213900-26-091547-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T17:08:48+00:00",
+      "title": "BofA raises Figma (FIG) price target from $30 to $33, maintains Buy rating",
+      "url": "https://www.reddit.com/r/stocks/comments/1vssgcg/bofa_raises_figma_fig_price_target_from_30_to_33/",
+      "source": "reddit.com",
+      "published": "2026-08-19T17:06:32+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GitLab (NASDAQ:GTLB) Given New $45.00 Price Target at Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13550148/gitlab-nasdaqgtlb-given-new-45-00-price-target-at-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T17:02:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -123,89 +285,6 @@
       "published": "2026-08-19T16:28:12+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "From Puzzle Solver to Program Builder",
-      "url": "https://www.securitymagazine.com/articles/102487-from-puzzle-solver-to-program-builder",
-      "source": "securitymagazine.com",
-      "published": "2026-08-19T16:00:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "ETF Prime: Goldman's ETF Acquisitions & the Gambling Debate",
-      "url": "https://etfdb.com/etf-prime/goldman-s-etf-acquisitions-gambling-debate-etf-prime/",
-      "source": "etfdb.com",
-      "published": "2026-08-19T16:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Why Is Sandisk Stock Still Dropping?",
-      "url": "https://www.fool.com/investing/2026/08/19/why-is-sandisk-stock-still-dropping/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-19T15:53:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526356425/0001193125-26-356425-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T15:50:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Finds Entry-Level Workers More Vulnerable to AI Displacement",
-      "url": "https://www.pymnts.com/economy/2026/goldman-finds-entry-level-workers-more-vulnerable-to-ai-displacement/",
-      "source": "pymnts.com",
-      "published": "2026-08-19T15:20:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "These two Chinese stocks are poised to win in the Physical AI era",
-      "url": "https://invezz.com/news/2026/08/19/these-two-chinese-stocks-are-poised-to-win-in-the-physical-ai-era/",
-      "source": "invezz.com",
-      "published": "2026-08-19T15:04:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "iShares J.P. Morgan EM Local Currency Bond ETF (NYSEARCA:LEMB) Reaches New 52-Week High – What’s Next?",
-      "url": "https://www.tickerreport.com/banking-finance/13550062/ishares-j-p-morgan-em-local-currency-bond-etf-nysearcalemb-reaches-new-52-week-high-whats-next.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-19T15:01:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024237/0001918704-26-024237-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T15:00:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Nvidia Trades At 50% Discount - Bank of America sees Nvidia shares trading at a steep discount ...",
-      "url": "https://247wallst.com/investing/2026/08/19/nvidia-trades-at-50-discount/",
-      "source": "247wallst.com",
-      "published": "2026-08-19T14:56:22+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
