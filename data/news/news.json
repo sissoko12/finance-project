@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-08-19T21:31:39.529599+00:00",
+  "last_updated": "2026-08-19T22:31:24.864426+00:00",
   "headlines": [
+    {
+      "title": "U.S. Bancorp (USB) Shares Fall 3.0% -- What GF Score of 75 Tells Investors",
+      "url": "https://www.gurufocus.com/news/9044017/us-bancorp-usb-shares-fall-30-what-gf-score-of-75-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T22:25:47+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "A Look at PNC Financial Services Group Inc (PNC) After 3.1% Decline -- GF Value $216. ...",
+      "url": "https://www.gurufocus.com/news/9044016/a-look-at-pnc-financial-services-group-inc-pnc-after-31-decline-gf-value-21613-vs-price-24646",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T22:25:47+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Citigroup Inc (C) Shares Fall 3.5% -- What GF Score of 74 Tells Investors",
+      "url": "https://www.gurufocus.com/news/9043974/citigroup-inc-c-shares-fall-35-what-gf-score-of-74-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T22:20:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Trading Down 1.7% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-down-17-should-you-sell-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T21:21:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.6% - Time to Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-down-16-time-to-sell-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T21:21:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Mark Walter Scrambles for Deals, Shein Readies IPO | Bloomberg Deals 8/19/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/bloomberg-deals-8-19-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-19T21:16:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley raises Moderna stock price target to $89 on platform strength",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-moderna-stock-price-target-to-89-on-platform-strength-93CH-4868306",
+      "source": "investing.com",
+      "published": "2026-08-19T21:14:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024310/0001918704-26-024310-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:14:02+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040689/0001839882-26-040689-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:07:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040688/0001839882-26-040688-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:03:06+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026091741/0001213900-26-091741-index.htm",
@@ -108,52 +200,6 @@
       "published": "2026-08-19T20:31:16+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "SEPN Maintained by JP Morgan -- Price Target Raised to $48",
-      "url": "https://www.gurufocus.com/news/9043786/sepn-maintained-by-jp-morgan-price-target-raised-to-48",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:30:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TWFG Maintains Rating by JP Morgan -- Price Target Raised to $28.00",
-      "url": "https://www.gurufocus.com/news/9043785/twfg-maintains-rating-by-jp-morgan-price-target-raised-to-2800",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:30:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Uber CEO to Participate in Fireside Chat Hosted by Goldman Sachs",
-      "url": "http://www.businesswire.com/news/home/20260819374355/en/Uber-CEO-to-Participate-in-Fireside-Chat-Hosted-by-Goldman-Sachs/?feedref=JjAwJuNHiystnCoBq_hl-b2FhjNtkNcTi2cnKI33xJKymBoSHTPgmAuTp77w2G7jFQdo0d2Ul5mpUSPRo-89RdTXbULmmaAHq9a0Eh1JrwYoirw5bULN1dS4mz0aKeWvNc0WoOZaWTrgqW2_U6xPKQ==",
-      "source": "businesswire.com",
-      "published": "2026-08-19T20:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo launches new Series HH preferred stock and completes depositary share sale",
-      "url": "https://www.investing.com/news/sec-filings/wells-fargo-launches-new-series-hh-preferred-stock-and-completes-depositary-share-sale-93CH-4868136",
-      "source": "investing.com",
-      "published": "2026-08-19T20:12:51+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Glass Lewis backs BNY Mellon fund’s board nominees",
-      "url": "https://www.investing.com/news/company-news/glass-lewis-backs-bny-mellon-funds-board-nominees-93CH-4868133",
-      "source": "investing.com",
-      "published": "2026-08-19T20:12:30+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
