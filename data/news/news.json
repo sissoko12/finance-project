@@ -1,6 +1,172 @@
 {
-  "last_updated": "2026-08-19T12:59:20.605822+00:00",
+  "last_updated": "2026-08-19T13:52:28.104858+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley cuts Baidu to underweight as AI spending weighs on earnings | $BIDU",
+      "url": "https://seekingalpha.com/news/4634911-morgan-stanley-cuts-baidu-to-underweight-as-ai-spending-weighs-on-earnings",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T13:29:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "FESTIVAL ANNOUNCEMENT: 32nd Annual One Mind Music Festival Presented by Bank of America and Bristol Myers Squibb",
+      "url": "http://www.businesswire.com/news/home/20260819881122/en/FESTIVAL-ANNOUNCEMENT-32nd-Annual-One-Mind-Music-Festival-Presented-by-Bank-of-America-and-Bristol-Myers-Squibb/?feedref=JjAwJuNHiystnCoBq_hl-adDDYO_9IAJmw-BtFyWmBHm2HdomUh1OsdmcBL-JQRWWJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGUZda8Tm69zdrP8EJ-RmQkw==",
+      "source": "businesswire.com",
+      "published": "2026-08-19T13:05:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Honeywell Aerospace upgraded at Morgan Stanley as selloff creates entry point",
+      "url": "https://seekingalpha.com/news/4634910-honeywell-aerospace-upgraded-at-morgan-stanley-as-selloff-creates-entry-point",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T13:01:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Nvidia Stock Gets a $350 Price Target From Bank of America",
+      "url": "https://watcher.guru/news/why-nvidia-stock-gets-a-350-price-target-from-bank-of-america",
+      "source": "watcher.guru",
+      "published": "2026-08-19T13:01:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Cogent Communications' (CCOI) Underweight Rating Reiterated at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/cogent-communications-ccoi-underweight-rating-reiterated-at-jpmorgan-chase-co-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:54:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Klarna Group (NYSE:KLAR) Receives Neutral Rating from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/klarna-group-nyseklar-receives-neutral-rating-from-jpmorgan-chase-co-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:54:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs estimates AI is costing the US 16,000 jobs per month",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-us-job-losses/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-19T12:53:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CrowdStrike Setup 'Constructive,' But Truist Favors Rubrik, SailPoint Ahead Of Q2 Earnings",
+      "url": "https://stocktwits.com/news-articles/markets/equity/truist-cybersecurity-rubrik-rbrk-sailpoint-crowdstrike-earnings-outlook/cZYdKc8RJlb?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-08-19T12:51:25+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Mereo BioPharma Group's (MREO) \"Underweight\" Rating Reiterated at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/mereo-biopharma-groups-mreo-underweight-rating-reiterated-at-jpmorgan-chase-co-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:42:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Corsair Gaming downgraded by Goldman Sachs",
+      "url": "https://seekingalpha.com/news/4634897-corsair-gaming-downgraded-by-goldman-sachs",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T12:42:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Short Interest in Goldman Sachs ActiveBeta International Equity ETF (NYSEARCA:GSIE) Declines By 45.3%",
+      "url": "https://www.tickerreport.com/banking-finance/13549926/short-interest-in-goldman-sachs-activebeta-international-equity-etf-nysearcagsie-declines-by-45-3.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T12:41:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B8 - Prospectus filed pursuant to Rule 424(b)(8)",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012616/0000950103-26-012616-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T12:41:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tech hits record weekly inflows while industrials exodus deepens - BofA",
+      "url": "https://seekingalpha.com/news/4634890-tech-hits-record-weekly-inflows-while-industrials-exodus-deepens-bofa",
+      "source": "seekingalpha.com",
+      "published": "2026-08-19T12:40:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Arthur J. Gallagher & Co. (NYSE:AJG) Price Target Raised to $290.00 at Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13549917/arthur-j-gallagher-co-nyseajg-price-target-raised-to-290-00-at-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-19T12:36:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Willis Towers Watson Public (NASDAQ:WTW) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/willis-towers-watson-public-nasdaqwtw-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:36:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Marsh & McLennan Companies (NYSE:MRSH) Price Target Raised to $200.00",
+      "url": "https://www.marketbeat.com/instant-alerts/marsh-mclennan-companies-nysemrsh-price-target-raised-to-20000-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:36:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Kinsale Capital Group (NYSE:KNSL) Given New $390.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/kinsale-capital-group-nyseknsl-given-new-39000-price-target-at-morgan-stanley-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:36:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bowhead Specialty (NYSE:BOW) Price Target Raised to $34.00",
+      "url": "https://www.marketbeat.com/instant-alerts/bowhead-specialty-nysebow-price-target-raised-to-3400-2026-08-19/",
+      "source": "marketbeat.com",
+      "published": "2026-08-19T12:36:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Klarna cut to Neutral at J.P. Morgan after Q2 earnings",
       "url": "https://seekingalpha.com/news/4634875-klarna-cut-to-neutral-at-jp-morgan-after-q2-earnings",
@@ -26,6 +192,43 @@
       "published": "2026-08-19T12:33:04+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "should i make another credit card?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vsl22o/should_i_make_another_credit_card/",
+      "source": "reddit.com",
+      "published": "2026-08-19T12:29:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup plans Bitcoin custody service for institutional clients through new Custody+ platform",
+      "url": "https://cryptobriefing.com/citigroup-bitcoin-custody-institutional-2026/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-19T12:27:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "These 3 easy benchmarks can help you find out if you’re really ready to retire. Have you met them yet?",
+      "url": "https://finance.yahoo.com/markets/articles/3-easy-benchmarks-help-really-122500468.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-19T12:25:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-tied-data-center-inks-121557679.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-19T12:15:57+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -56,230 +259,20 @@
       ]
     },
     {
+      "title": "Is First Commonwealth Financial (FCF) Fairly Valued As Its Share Price Momentum Builds?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-commonwealth-financial-fcf-fairly-120951164.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-19T12:09:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
       "title": "Hamilton Insurance Group (NYSE:HG) Price Target Raised to $37.00",
       "url": "https://www.marketbeat.com/instant-alerts/hamilton-insurance-group-nysehg-price-target-raised-to-3700-2026-08-19/",
       "source": "marketbeat.com",
       "published": "2026-08-19T12:06:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Tech holds the crown, but defensive positioning grows: BofA survey",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tech-holds-the-crown-but-defensive-positioning-grows-bofa-securities-asia-fm-survey/articleshow/133347742.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-19T12:03:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Home Lenders Enhance Digital Impact with Accelerated Closing and Funding, Relationship Value-Adds and Visual Consumer-Education Content",
-      "url": "https://www.prnewswire.com/news-releases/home-lenders-enhance-digital-impact-with-accelerated-closing-and-funding-relationship-value-adds-and-visual-consumer-education-content-302854369.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-19T12:01:00+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Baidu (BIDU) Stock Plunges 13% Following Disappointing Q2 Results and Analyst Downgrade",
-      "url": "https://blockonomi.com/baidu-bidu-stock-plunges-13-following-disappointing-q2-results-and-analyst-downgrade/",
-      "source": "blockonomi.com",
-      "published": "2026-08-19T12:00:06+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Lime to Participate in the Goldman Sachs Communacopia + Technology Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/19/3347577/0/en/lime-to-participate-in-the-goldman-sachs-communacopia-technology-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-19T12:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Zoom rated Buy at BofA on growth reacceleration",
-      "url": "https://seekingalpha.com/news/4634835-zoom-rated-buy-at-bofa-on-growth-reacceleration",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T11:50:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Nvidia stock's deep discount creates a 'compelling opportunity,' BofA says",
-      "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stocks-deep-discount-creates-a-compelling-opportunity-bofa-says-114927735.html",
-      "source": "yahoo.com",
-      "published": "2026-08-19T11:49:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pershing Square cut to Neutral at Citi as recent stock performance mutes return potential",
-      "url": "https://seekingalpha.com/news/4634833-pershing-square-cut-to-neutral-at-citi-as-recent-stock-performance-mutes-return-potential",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T11:48:15+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs enters $410m deal to buy LCN Capital Partners",
-      "url": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-enters-410m-deal-114719577.html",
-      "source": "yahoo.com",
-      "published": "2026-08-19T11:47:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Unveils Custody+ Suite for Real-Time Institutional Solutions and Bitcoin (BTC) Custody",
-      "url": "https://dailyhodl.com/2026/08/19/citi-unveils-custody-suite-for-real-time-institutional-solutions-and-bitcoin-custody/",
-      "source": "dailyhodl.com",
-      "published": "2026-08-19T11:45:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "XBI vs. FBT: Broad Biotech Exposure or Concentrated Bets?",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/19/xbi-vs-fbt-broad-biotech-exposure-or-concentrated-bets/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-19T11:45:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Founders: “Most undervalued since Mar'23.”",
-      "url": "https://vblgoldfix.substack.com/p/founders-most-undervalued-since-mar23",
-      "source": "substack.com",
-      "published": "2026-08-19T11:33:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JBS' deal to swallow up the rest of Pilgrim's Pride is called attractive by BofA",
-      "url": "https://seekingalpha.com/news/4634837-jbs-deal-to-swallow-up-the-rest-of-pilgrims-pride-is-called-attractive-by-bofa",
-      "source": "seekingalpha.com",
-      "published": "2026-08-19T11:33:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "5 of JP Morgan’s Top Stock Picks Pay Big Dividends and One Yields Over 12%",
-      "url": "https://247wallst.com/investing/2026/08/19/5-of-jpmorgans-top-stock-picks-pay-big-dividends-and-one-yields-over-12/",
-      "source": "247wallst.com",
-      "published": "2026-08-19T11:20:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Building a Vertical Corpus Builder: Clean JSONL Datasets for LLM Fine-Tuning",
-      "url": "https://dev.to/darksider4all_afa2428f63d0/building-a-vertical-corpus-builder-clean-jsonl-datasets-for-llm-fine-tuning-2p32",
-      "source": "dev.to",
-      "published": "2026-08-19T11:11:46+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Investors Are Betting Against a Fed Rate Hike. Wall Street Is Showing Broad Bullishness.",
-      "url": "https://www.ibtimes.com/investors-are-betting-against-fed-rate-hike-wall-street-showing-broad-bullishness-3806550",
-      "source": "ibtimes.com",
-      "published": "2026-08-19T11:01:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Palmer Knight Co Purchases New Shares in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-palmer-knight-co-purchases-new-shares-in-capital-one-financial-corporation-cof-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T10:40:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Reports AI Impact on Labor Markets Across Developed Economies",
-      "url": "https://www.gurufocus.com/news/9042646/goldman-sachs-reports-ai-impact-on-labor-markets-across-developed-economies",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T10:32:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "India replaces Indonesia as Asia’s least preferred stock market in BofA survey",
-      "url": "https://www.livemint.com/market/indian-stock-market-replaces-indonesia-as-asia-s-least-preferred-market-in-bofa-survey-11787132370080.html",
-      "source": "livemint.com",
-      "published": "2026-08-19T10:30:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Says Space Economy Will Reach $1.8T by 2035: Elon Musk Predicts It'll Be 'Much Bigger'",
-      "url": "https://www.ibtimes.co.uk/goldman-sachs-space-economy-2035-1815007",
-      "source": "ibtimes.co.uk",
-      "published": "2026-08-19T10:29:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Rayburn West Financial Services LLC Takes Position in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-rayburn-west-financial-services-llc-takes-position-in-the-pnc-financial-services-group-inc-pnc-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T10:17:14+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Investors ditch semiconductor bets as AI bubble fears rise: Where’s the money moving now? BofA survey reveals",
-      "url": "https://www.livemint.com/market/stock-market-news/investors-ditch-semiconductor-bets-as-ai-bubble-fears-rise-where-s-the-money-moving-now-bofa-survey-reveals-11787131735269.html",
-      "source": "livemint.com",
-      "published": "2026-08-19T10:12:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "M.D. Sass LLC Raises Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-md-sass-llc-raises-holdings-in-capital-one-financial-corporation-cof-2026-08-19/",
-      "source": "marketbeat.com",
-      "published": "2026-08-19T10:09:26+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley cuts WeRide stock price target on R&D spending concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-weride-stock-price-target-on-rd-spending-concerns-93CH-4866824",
-      "source": "investing.com",
-      "published": "2026-08-19T09:58:56+00:00",
       "tickers": [
         "MS"
       ]
