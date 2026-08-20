@@ -1,6 +1,273 @@
 {
-  "last_updated": "2026-08-20T09:07:00.497668+00:00",
+  "last_updated": "2026-08-20T10:01:55.378908+00:00",
   "headlines": [
+    {
+      "title": "BofA sees euro upside, dollar downside risks in near-term outlook",
+      "url": "https://www.investing.com/news/forex-news/bofa-sees-euro-upside-dollar-downside-risks-in-nearterm-outlook-93CH-4869046",
+      "source": "investing.com",
+      "published": "2026-08-20T09:26:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Nippon Life Global Investors Americas Inc. Takes $46.84 Million Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nippon-life-global-investors-americas-inc-takes-4684-million-position-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Nippon Life Global Investors Americas Inc. Buys Shares of 608,630 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nippon-life-global-investors-americas-inc-buys-shares-of-608630-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Private Wealth Advisors LLC Makes New $899,000 Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-private-wealth-advisors-llc-makes-new-899000-investment-in-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lynch Asset Management Inc. Invests $10.66 Million in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lynch-asset-management-inc-invests-1066-million-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SCS Capital Management LLC Takes Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-scs-capital-management-llc-takes-position-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "3,508 Shares in The Goldman Sachs Group, Inc. $GS Acquired by M3 Wealth Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-3508-shares-in-the-goldman-sachs-group-inc-gs-acquired-by-m3-wealth-management-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "31,050 Shares in Bank of America Corporation $BAC Purchased by Silverlake Wealth Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-31050-shares-in-bank-of-america-corporation-bac-purchased-by-silverlake-wealth-management-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "92,500 Shares in Bank of America Corporation $BAC Acquired by Prospect Hill Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-92500-shares-in-bank-of-america-corporation-bac-acquired-by-prospect-hill-management-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Leeward Financial Partners LLC Invests $8.36 Million in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-leeward-financial-partners-llc-invests-836-million-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Private Advisory Group LLC Buys New Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-private-advisory-group-llc-buys-new-position-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:20:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Mivtachim The Workers Social Insurance Fund Ltd. Under Special Management Makes New Investment in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mivtachim-the-workers-social-insurance-fund-ltd-under-special-management-makes-new-investment-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:13:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "48,674 Shares in Bank of America Corporation $BAC Purchased by Summit Asset Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-48674-shares-in-bank-of-america-corporation-bac-purchased-by-summit-asset-management-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:13:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "S&CO Inc. Makes New $5.27 Million Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sco-inc-makes-new-527-million-investment-in-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:13:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sutton Place Investors LLC Takes Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sutton-place-investors-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:13:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Pacific Sage Partners LLC Takes Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pacific-sage-partners-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:13:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Orca Investment Management LLC Acquires Shares of 985 The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-orca-investment-management-llc-acquires-shares-of-985-the-goldman-sachs-group-inc-gs-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:13:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Langley Wealth Management LLC Acquires Shares of 12,307 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-langley-wealth-management-llc-acquires-shares-of-12307-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:12:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "13,609 Shares in Bank of America Corporation $BAC Bought by Stoneridge Investment Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-13609-shares-in-bank-of-america-corporation-bac-bought-by-stoneridge-investment-partners-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:12:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "1,375 Shares in The Goldman Sachs Group, Inc. $GS Acquired by TFR Capital LLC.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-1375-shares-in-the-goldman-sachs-group-inc-gs-acquired-by-tfr-capital-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:12:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "22,249 Shares in Bank of America Corporation $BAC Acquired by TFR Capital LLC.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-22249-shares-in-bank-of-america-corporation-bac-acquired-by-tfr-capital-llc-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:12:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "One Wealth Advisors LLC Purchases Shares of 16,866 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-one-wealth-advisors-llc-purchases-shares-of-16866-bank-of-america-corporation-bac-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T09:12:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Standard Life partners with CVC, PFI & Goldman Sachs to expand PRT business",
+      "url": "https://www.reinsurancene.ws/standard-life-partners-with-cvc-pfi-goldman-sachs-to-expand-prt-business/",
+      "source": "reinsurancene.ws",
+      "published": "2026-08-20T09:00:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "L. Roy Papp & Associates LLP Has $13.16 Million Holdings in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.tickerreport.com/banking-finance/13550735/l-roy-papp-associates-llp-has-13-16-million-holdings-in-jpmorgan-chase-co-jpm.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-20T08:59:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Flputnam Investment Management Co. Purchases New Stake in Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13550725/flputnam-investment-management-co-purchases-new-stake-in-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-20T08:57:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Great Lakes Advisors LLC Acquires Shares of 79,279 U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-great-lakes-advisors-llc-acquires-shares-of-79279-us-bancorp-usb-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T08:16:39+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Municipal Bond Fund Q2 2026 Commentary | $DYBIX $DHMBX $DHYAX",
+      "url": "https://seekingalpha.com/article/4938613-bny-mellon-high-yield-municipal-bond-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-08-20T08:10:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Great Lakes Advisors LLC Invests $7.20 Million in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-great-lakes-advisors-llc-invests-720-million-in-the-charles-schwab-corporation-schw-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T08:09:48+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
     {
       "title": "Avalon Trust Co Acquires Shares of 10,603 Bank of America Corporation $BAC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-avalon-trust-co-acquires-shares-of-10603-bank-of-america-corporation-bac-2026-08-20/",
@@ -18,265 +285,6 @@
       "published": "2026-08-20T07:14:25+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "ABN AMRO Bank N.V. Invests $4.52 Million in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abn-amro-bank-nv-invests-452-million-in-the-goldman-sachs-group-inc-gs-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T07:12:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "330,696 Shares in Capital One Financial Corporation $COF Purchased by Algebris UK Ltd.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-330696-shares-in-capital-one-financial-corporation-cof-purchased-by-algebris-uk-ltd-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T07:04:47+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Alberta Investment Management Corp Takes Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-alberta-investment-management-corp-takes-position-in-bank-of-america-corporation-bac-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T07:04:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "1ST Source Bank Makes New $5.73 Million Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-1st-source-bank-makes-new-573-million-investment-in-bank-of-america-corporation-bac-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T07:04:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ABN AMRO Bank N.V. Purchases New Shares in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abn-amro-bank-nv-purchases-new-shares-in-bank-of-america-corporation-bac-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T07:04:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Shiprocket Soars Over 9% After Goldman Sachs Buys Shares Worth ₹52.7 Cr",
-      "url": "https://inc42.com/buzz/shiprocket-soars-over-9-after-goldman-sachs-buys-shares-worth-%e2%82%b952-7-cr/",
-      "source": "inc42.com",
-      "published": "2026-08-20T06:57:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/power-finance-corporation-and-rec-shares-fall-up-to-3-after-morgan-stanley-downgrade/articleshow/133367186.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-20T06:47:24+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
-      "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
-      "source": "livemint.com",
-      "published": "2026-08-20T06:10:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - August 20",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---august-20/article_14a5dd98-12d9-523a-93b7-c8f1ef5b9fcb.html",
-      "source": "newspressnow.com",
-      "published": "2026-08-20T06:02:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "PLDT (NYSE:PHI) Cut to Neutral at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13550480/pldt-nysephi-cut-to-neutral-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T05:54:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "American Express, Capital One & Chase Have The Best Lounges In North America",
-      "url": "https://loyaltylobby.com/2026/08/20/american-express-capital-one-chase-have-the-best-lounges-in-north-america/?omhide=true",
-      "source": "loyaltylobby.com",
-      "published": "2026-08-20T05:40:06+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs talks about the ‘Second Space Age’",
-      "url": "https://www.advanced-television.com/2026/08/20/goldman-sachs-talks-about-the-second-space-age/",
-      "source": "advanced-television.com",
-      "published": "2026-08-20T05:36:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Why do companies care which days you work from home?",
-      "url": "https://www.fastcompany.com/91592352/why-do-companies-care-which-days-you-work-from-home?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "source": "fastcompany.com",
-      "published": "2026-08-20T05:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "2 Recently Listed Stocks Jump 9% After Goldman Sachs Funds and Others Bought Shares via Bulk Deals",
-      "url": "https://tradebrains.in/2-recently-listed-stocks-jump-9-after-goldman-sachs-funds-and-others-bought-shares-via-bulk-deals/",
-      "source": "tradebrains.in",
-      "published": "2026-08-20T05:17:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Why Goldman Sachs Is Buying NEOS Investments For Up To $2.25 Billion",
-      "url": "https://pulse2.com/why-goldman-sachs-is-buying-neos-investments-for-up-to-2-25-billion/",
-      "source": "pulse2.com",
-      "published": "2026-08-20T05:02:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Shiprocket shares jump 6% as Goldman Sachs acquires Rs 53 crore stake. Time to buy or book profits?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-jump-6-as-goldman-sachs-acquires-rs-53-crore-stake-time-to-buy-or-book-profits/articleshow/133364509.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-20T04:47:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Made 10 Senior APAC Hires This Year",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-20/citi-made-10-senior-apac-hires-this-year-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-20T04:36:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
-      "url": "https://www.investing.com/news/stock-market-news/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-4868606",
-      "source": "investing.com",
-      "published": "2026-08-20T02:18:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Is Said to Hire Barclays Tech Dealmaker Tim Luke",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/morgan-stanley-is-said-to-hire-barclays-tech-dealmaker-tim-luke",
-      "source": "bloomberg.com",
-      "published": "2026-08-20T01:40:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Explained: How a JP Morgan unit and a Mumbai-based stock broking firm allegedly manipulated Sensex during CAS",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-a-jp-morgan-unit-and-a-mumbai-based-stock-broking-firm-allegedly-manipulated-sensex-during-cas/articleshow/133367955.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-20T01:36:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "India Bars JPMorgan Unit Over Alleged Stock Market Manipulation",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
-      "source": "bloomberg.com",
-      "published": "2026-08-20T01:29:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Expects Chevron (CVX ) to Hit a New High. Can the Oil Giant Keep Rallying?",
-      "url": "https://www.insidermonkey.com/blog/morgan-stanley-expects-chevron-cvx-to-hit-a-new-high-can-the-oil-giant-keep-rallying-1820964/",
-      "source": "insidermonkey.com",
-      "published": "2026-08-20T01:14:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo (WFC) Announces Pricing of 1.75 Million Depositary Shares for Series HH Preferred Stock",
-      "url": "https://www.gurufocus.com/news/9044274/wells-fargo-wfc-announces-pricing-of-175-million-depositary-shares-for-series-hh-preferred-stock",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T01:00:40+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Team Sees Credibility Risk in Treasury’s Bond Buybacks",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/jpmorgan-team-sees-credibility-risk-in-treasury-s-bond-buybacks",
-      "source": "bloomberg.com",
-      "published": "2026-08-20T00:59:09+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Reddit (RDDT) Jumped 13% on S&P 500 Inclusion. Will Index Demand Hold the Gain?",
-      "url": "https://www.insidermonkey.com/blog/reddit-rddt-jumped-13-on-sp-500-inclusion-will-index-demand-hold-the-gain-1811190/",
-      "source": "insidermonkey.com",
-      "published": "2026-08-20T00:35:20+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Albany Fire Department battles fire on North Allen Street",
-      "url": "https://www.news10.com/news/albany-county/albany-fire-department-battles-fire-on-north-allen-street/",
-      "source": "news10.com",
-      "published": "2026-08-20T00:35:05+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Where AI is actually starting to kill jobs",
-      "url": "https://www.thedeepview.com/articles/where-ai-is-actually-starting-to-kill-jobs",
-      "source": "thedeepview.com",
-      "published": "2026-08-19T23:24:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "State Street Corp (STT) Shares Fall 3.2% -- GF Value Says Still Overvalued",
-      "url": "https://www.gurufocus.com/news/9044074/state-street-corp-stt-shares-fall-32-gf-value-says-still-overvalued",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T23:18:12+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
