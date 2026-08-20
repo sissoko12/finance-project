@@ -1,6 +1,142 @@
 {
-  "last_updated": "2026-08-20T20:35:53.054615+00:00",
+  "last_updated": "2026-08-20T21:34:07.304377+00:00",
   "headlines": [
+    {
+      "title": "MORGAN STANLEY: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000278/0000895421-26-000278-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T20:50:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs raises NetEase stock price target on gaming strength",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-netease-stock-price-target-on-gaming-strength-93CH-4870527",
+      "source": "investing.com",
+      "published": "2026-08-20T20:48:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040909/0001839882-26-040909-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T20:38:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040908/0001839882-26-040908-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T20:35:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526359247/0001193125-26-359247-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T20:28:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "ALIT Maintained by Citigroup -- Price Target Lowered to $16.00",
+      "url": "https://www.gurufocus.com/news/9046164/alit-maintained-by-citigroup-price-target-lowered-to-1600",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "RARE Maintained by Citigroup -- Price Target Raised to $58.00",
+      "url": "https://www.gurufocus.com/news/9046162/rare-maintained-by-citigroup-price-target-raised-to-5800",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "APA Maintained by Citigroup -- Price Target Raised to $44.00",
+      "url": "https://www.gurufocus.com/news/9046168/apa-maintained-by-citigroup-price-target-raised-to-4400",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "LOW Maintained by Citigroup -- Price Target Lowered to $260",
+      "url": "https://www.gurufocus.com/news/9046160/low-maintained-by-citigroup-price-target-lowered-to-260",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ADSK Maintained by Citigroup -- Price Target Raised to $269",
+      "url": "https://www.gurufocus.com/news/9046163/adsk-maintained-by-citigroup-price-target-raised-to-269",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TGT Maintained by Citigroup -- Price Target Raised to $160",
+      "url": "https://www.gurufocus.com/news/9046161/tgt-maintained-by-citigroup-price-target-raised-to-160",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NRGV Maintains Buy Rating by Citigroup -- Price Target Raised to $6.00",
+      "url": "https://www.gurufocus.com/news/9046166/nrgv-maintains-buy-rating-by-citigroup-price-target-raised-to-600",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GEMI Maintained by Citigroup -- Price Target Lowered to $3.20",
+      "url": "https://www.gurufocus.com/news/9046167/gemi-maintained-by-citigroup-price-target-lowered-to-320",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:27:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Revamps Merck Stock Target After Cancer Breakthrough",
+      "url": "https://www.gurufocus.com/news/9045774/morgan-stanley-revamps-merck-stock-target-after-cancer-breakthrough",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:18:57+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Resets Etsy Stock Price Target After Event",
+      "url": "https://www.gurufocus.com/news/9045765/bank-of-america-resets-etsy-stock-price-target-after-event",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:17:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Wells Fargo Report Says GLP-1s Reducing Certain Surgeries",
       "url": "https://www.bloomberg.com/news/videos/2026-08-20/wells-fargo-report-glp-1s-reducing-certain-surgeries-video",
@@ -13,11 +149,38 @@
     },
     {
       "title": "agilon health to Participate in Upcoming Conferences",
-      "url": "http://www.businesswire.com/news/home/20260820128711/en/agilon-health-to-Participate-in-Upcoming-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-aSilctSERNAmzRCuJWkAGl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-L5ZRTmHfjgCpVfOQQOvea",
+      "url": "http://www.businesswire.com/news/home/20260820128711/en/agilon-health-to-Participate-in-Upcoming-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
       "source": "businesswire.com",
       "published": "2026-08-20T20:05:00+00:00",
       "tickers": [
         "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Billionaire Investor David Tepper Recently Dumped Appaloosa Management's Stake in Sandisk and Initiated a New Position In a Stock That Some Wall Street Experts Think Could Eventually Be Worth $10 Trillion",
+      "url": "https://www.fool.com/investing/2026/08/20/billionaire-investor-david-tepper-recently-dumped/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-20T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "TJX Downgraded by Citigroup -- Price Target Lowered to $154.00",
+      "url": "https://www.gurufocus.com/news/9046154/tjx-downgraded-by-citigroup-price-target-lowered-to-15400",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:00:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WHD Downgraded by Citigroup -- Price Target Raised to $75",
+      "url": "https://www.gurufocus.com/news/9046152/whd-downgraded-by-citigroup-price-target-raised-to-75",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T20:00:28+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -49,184 +212,65 @@
       ]
     },
     {
-      "title": "Target (NYSE:TGT) Price Target Raised to $160.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/target-nysetgt-price-target-raised-to-16000-at-citigroup-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T19:18:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Raises Ultragenyx Pharmaceutical (NASDAQ:RARE) Price Target to $58.00",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-raises-ultragenyx-pharmaceutical-nasdaqrare-price-target-to-5800-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T19:18:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Estee Lauder Companies (NYSE:EL) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-forecasts-strong-price-appreciation-for-estee-lauder-companies-nyseel-stock-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T19:18:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gemini Space Station (NASDAQ:GEMI) Price Target Cut to $3.20 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/gemini-space-station-nasdaqgemi-price-target-cut-to-320-by-analysts-at-citigroup-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T19:18:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EL Maintained by Morgan Stanley -- Price Target Raised to $102",
-      "url": "https://www.gurufocus.com/news/9046094/el-maintained-by-morgan-stanley-price-target-raised-to-102",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T19:03:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ADI Maintained by Morgan Stanley -- Price Target Raised to $458",
-      "url": "https://www.gurufocus.com/news/9046087/adi-maintained-by-morgan-stanley-price-target-raised-to-458",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T19:02:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "YETI Maintained by Morgan Stanley -- Price Target Raised to $49",
-      "url": "https://www.gurufocus.com/news/9046079/yeti-maintained-by-morgan-stanley-price-target-raised-to-49",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T19:02:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "TJX Maintained by Morgan Stanley -- Price Target Lowered to $178",
-      "url": "https://www.gurufocus.com/news/9046073/tjx-maintained-by-morgan-stanley-price-target-lowered-to-178",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T19:01:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024359/0001918704-26-024359-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526359143/0001193125-26-359143-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-20T18:47:31+00:00",
+      "published": "2026-08-20T19:48:52+00:00",
       "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Whales to watch and a NEW Wells Fargo Whisper",
+      "url": "https://www.theyeet.com/p/whales-to-watch-and-a-new-wells-fargo",
+      "source": "theyeet.com",
+      "published": "2026-08-20T19:46:09+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Cactus cut at Citi following strong YTD performance",
-      "url": "https://seekingalpha.com/news/4635598-cactus-cut-at-citi-following-strong-ytd-performance",
-      "source": "seekingalpha.com",
-      "published": "2026-08-20T18:32:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Are These Top Stocks The Next AI Productivity Beneficiaries? | $STT $COF $DLTR $CVX $LMT",
-      "url": "https://seekingalpha.com/article/4938882-are-these-top-stocks-the-next-ai-productivity-beneficiaries",
-      "source": "seekingalpha.com",
-      "published": "2026-08-20T18:30:48+00:00",
-      "tickers": [
-        "C",
-        "COF",
-        "STT"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040872/0001839882-26-040872-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T18:21:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Logitech International (NASDAQ:LOGI) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13551864/jpmorgan-chase-co-has-lowered-expectations-for-logitech-international-nasdaqlogi-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T18:18:57+00:00",
+      "title": "LOGI Maintained by JP Morgan -- Price Target Lowered to $102",
+      "url": "https://www.gurufocus.com/news/9046130/logi-maintained-by-jp-morgan-price-target-lowered-to-102",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:38:40+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Estee Lauder Companies (NYSE:EL) Given New $112.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/estee-lauder-companies-nyseel-given-new-11200-price-target-at-jpmorgan-chase-co-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:18:31+00:00",
+      "title": "IQ Maintained by JP Morgan -- Price Target Lowered to $1.20",
+      "url": "https://www.gurufocus.com/news/9046129/iq-maintained-by-jp-morgan-price-target-lowered-to-120",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:38:13+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "HCA Healthcare (NYSE:HCA) Price Target Lowered to $425.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/hca-healthcare-nysehca-price-target-lowered-to-42500-at-jpmorgan-chase-co-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:18:28+00:00",
+      "title": "HCA Maintains Neutral Rating by JP Morgan -- Price Target Lowered to $425",
+      "url": "https://www.gurufocus.com/news/9046128/hca-maintains-neutral-rating-by-jp-morgan-price-target-lowered-to-425",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:37:43+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "iQIYI (NASDAQ:IQ) Given New $1.20 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/iqiyi-nasdaqiq-given-new-120-price-target-at-jpmorgan-chase-co-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:18:27+00:00",
+      "title": "EL Maintained by Goldman Sachs -- Price Target Raised to $112",
+      "url": "https://www.gurufocus.com/news/9046127/el-maintained-by-goldman-sachs-price-target-raised-to-112",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:37:14+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "Logitech International (NASDAQ:LOGI) Price Target Lowered to $102.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/logitech-international-nasdaqlogi-price-target-lowered-to-10200-at-jpmorgan-chase-co-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:18:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024357/0001918704-26-024357-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T18:14:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Trust Is the New Small Business Payment Advantage",
-      "url": "https://thefintechtimes.com/why-trust-is-the-new-small-business-payment-advantage/",
-      "source": "thefintechtimes.com",
-      "published": "2026-08-20T18:00:47+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Edgewise Therapeutics (NASDAQ:EWTX) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-edgewise-therapeutics-nasdaqewtx-stock-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:00:28+00:00",
+      "title": "EL Maintained by JP Morgan -- Price Target Raised to $112.00",
+      "url": "https://www.gurufocus.com/news/9046126/el-maintained-by-jp-morgan-price-target-raised-to-11200",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:36:42+00:00",
       "tickers": [
         "JPM"
       ]
