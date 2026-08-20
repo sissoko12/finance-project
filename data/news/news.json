@@ -1,6 +1,61 @@
 {
-  "last_updated": "2026-08-19T23:53:08.682532+00:00",
+  "last_updated": "2026-08-20T01:41:08.481134+00:00",
   "headlines": [
+    {
+      "title": "Wells Fargo (WFC) Announces Pricing of 1.75 Million Depositary Shares for Series HH Preferred Stock",
+      "url": "https://www.gurufocus.com/news/9044274/wells-fargo-wfc-announces-pricing-of-175-million-depositary-shares-for-series-hh-preferred-stock",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T01:00:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Team Sees Credibility Risk in Treasury’s Bond Buybacks",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/jpmorgan-team-sees-credibility-risk-in-treasury-s-bond-buybacks",
+      "source": "bloomberg.com",
+      "published": "2026-08-20T00:59:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Reddit (RDDT) Jumped 13% on S&P 500 Inclusion. Will Index Demand Hold the Gain?",
+      "url": "https://www.insidermonkey.com/blog/reddit-rddt-jumped-13-on-sp-500-inclusion-will-index-demand-hold-the-gain-1811190/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-20T00:35:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Albany Fire Department battles fire on North Allen Street",
+      "url": "https://www.news10.com/news/albany-county/albany-fire-department-battles-fire-on-north-allen-street/",
+      "source": "news10.com",
+      "published": "2026-08-20T00:35:05+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Where AI is actually starting to kill jobs",
+      "url": "https://www.thedeepview.com/articles/where-ai-is-actually-starting-to-kill-jobs",
+      "source": "thedeepview.com",
+      "published": "2026-08-19T23:24:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "State Street Corp (STT) Shares Fall 3.2% -- GF Value Says Still Overvalued",
+      "url": "https://www.gurufocus.com/news/9044074/state-street-corp-stt-shares-fall-32-gf-value-says-still-overvalued",
+      "source": "gurufocus.com",
+      "published": "2026-08-19T23:18:12+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Goldman Sachs flags record low correlation between AI and non-AI trades as hedge funds retreat",
       "url": "https://cryptobriefing.com/goldman-sachs-record-low-ai-correlation/",
@@ -78,6 +133,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526357164/0001193125-26-357164-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:21:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.6% - Time to Sell?",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-shares-down-16-time-to-sell-2026-08-19/",
       "source": "marketbeat.com",
@@ -132,6 +196,16 @@
       ]
     },
     {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040692/0001839882-26-040692-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-19T21:11:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040689/0001839882-26-040689-index.htm",
       "source": "sec.gov",
@@ -157,42 +231,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526357012/0001193125-26-357012-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T20:39:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "LCID Maintains by Citigroup -- Price Target Lowered to $11.00",
-      "url": "https://www.gurufocus.com/news/9043796/lcid-maintains-by-citigroup-price-target-lowered-to-1100",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:34:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GLXY Maintained by Citigroup -- Price Target Lowered to $26.00",
-      "url": "https://www.gurufocus.com/news/9043795/glxy-maintained-by-citigroup-price-target-lowered-to-2600",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:34:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "KEYS Maintained by JP Morgan -- Price Target Raised to $425",
-      "url": "https://www.gurufocus.com/news/9043793/keys-maintained-by-jp-morgan-price-target-raised-to-425",
-      "source": "gurufocus.com",
-      "published": "2026-08-19T20:33:52+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
