@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-20T10:58:39.221799+00:00",
+  "last_updated": "2026-08-20T11:36:03.715448+00:00",
   "headlines": [
+    {
+      "title": "AI Is Starting to Take a Toll on Jobs. Goldman Sachs Finds Entry-Level Workers Are Most Exposed.",
+      "url": "https://www.ibtimes.com/ai-starting-take-toll-jobs-goldman-sachs-finds-entry-level-workers-are-most-exposed-3806574",
+      "source": "ibtimes.com",
+      "published": "2026-08-20T10:36:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "55,627 Shares in The Charles Schwab Corporation $SCHW Acquired by Puzo Michael J",
       "url": "https://www.marketbeat.com/instant-alerts/filing-55627-shares-in-the-charles-schwab-corporation-schw-acquired-by-puzo-michael-j-2026-08-20/",
@@ -39,6 +48,16 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "BofA recommends selling NOK/SEK on growth and rate divergence",
+      "url": "https://www.investing.com/news/forex-news/bofa-recommends-selling-noksek-on-growth-and-rate-divergence-93CH-4869047",
+      "source": "investing.com",
+      "published": "2026-08-20T09:26:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -268,25 +287,6 @@
       "published": "2026-08-20T08:59:05+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Flputnam Investment Management Co. Purchases New Stake in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13550725/flputnam-investment-management-co-purchases-new-stake-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T08:57:03+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Great Lakes Advisors LLC Acquires Shares of 79,279 U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-great-lakes-advisors-llc-acquires-shares-of-79279-us-bancorp-usb-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T08:16:39+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
