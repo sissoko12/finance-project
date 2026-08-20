@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-20T05:05:43.004578+00:00",
+  "last_updated": "2026-08-20T05:58:33.195850+00:00",
   "headlines": [
+    {
+      "title": "2 Recently Listed Stocks Jump 9% After Goldman Sachs Funds and Others Bought Shares via Bulk Deals",
+      "url": "https://tradebrains.in/2-recently-listed-stocks-jump-9-after-goldman-sachs-funds-and-others-bought-shares-via-bulk-deals/",
+      "source": "tradebrains.in",
+      "published": "2026-08-20T05:17:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Why Goldman Sachs Is Buying NEOS Investments For Up To $2.25 Billion",
+      "url": "https://pulse2.com/why-goldman-sachs-is-buying-neos-investments-for-up-to-2-25-billion/",
+      "source": "pulse2.com",
+      "published": "2026-08-20T05:02:10+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Shiprocket shares jump 6% as Goldman Sachs acquires Rs 53 crore stake. Time to buy or book profits?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-jump-6-as-goldman-sachs-acquires-rs-53-crore-stake-time-to-buy-or-book-profits/articleshow/133364509.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-20T04:47:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Citi Made 10 Senior APAC Hires This Year",
       "url": "https://www.bloomberg.com/news/videos/2026-08-20/citi-made-10-senior-apac-hires-this-year-video",
@@ -247,34 +274,6 @@
       "published": "2026-08-19T21:11:42+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040689/0001839882-26-040689-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T21:07:05+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040688/0001839882-26-040688-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T21:03:06+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024303/0001918704-26-024303-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-19T20:44:29+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
