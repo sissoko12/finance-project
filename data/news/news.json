@@ -1,6 +1,61 @@
 {
-  "last_updated": "2026-08-20T14:09:34.903737+00:00",
+  "last_updated": "2026-08-20T15:06:38.388762+00:00",
   "headlines": [
+    {
+      "title": "TJX Companies facing competition for precious off-price dollars—Citi Research",
+      "url": "https://seekingalpha.com/news/4635484-tjx-companies-facing-competition-for-precious-off-price-dollars---citi-research",
+      "source": "seekingalpha.com",
+      "published": "2026-08-20T14:24:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Merck upgraded at Morgan Stanley after cancer trial win; RBC downgrades",
+      "url": "https://seekingalpha.com/news/4635495-merck-stock-upgraded-morgan-stanley-rbc-downgrades",
+      "source": "seekingalpha.com",
+      "published": "2026-08-20T14:22:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees modest downside risks to US aluminum premium",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-modest-downside-risks-to-us-aluminum-premium-93CH-4870040",
+      "source": "investing.com",
+      "published": "2026-08-20T14:14:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase CEO commits endowment funds to Edward Waters",
+      "url": "https://www.bizjournals.com/jacksonville/news/2026/08/20/edward-waters-university-endowment-investment.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-20T14:07:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040754/0001839882-26-040754-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T14:05:10+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "What’s Driving This Year’s Red Hot ETF Market?",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/what-s-driving-this-year-s-red-hot-etf-market",
+      "source": "bloomberg.com",
+      "published": "2026-08-20T14:01:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Markets Are in 'La La Land,' State Street's Heinel Says",
       "url": "https://www.bloomberg.com/news/videos/2026-08-20/markets-are-in-la-la-land-state-street-s-heinel-says-video",
@@ -21,12 +76,31 @@
       ]
     },
     {
+      "title": "TJX cut at Citi as disappointing Marmaxx comp shows off-price isn’t immune",
+      "url": "https://www.investing.com/news/stock-market-news/tjx-cut-at-citi-as-disappointing-marmaxx-comp-shows-offprice-isnt-immune-4869980",
+      "source": "investing.com",
+      "published": "2026-08-20T13:47:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024322/0001918704-26-024322-index.htm",
       "source": "sec.gov",
       "published": "2026-08-20T13:31:47+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-cof-could-131434106.html",
+      "source": "yahoo.com",
+      "published": "2026-08-20T13:14:34+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -68,6 +142,16 @@
       ]
     },
     {
+      "title": "How GLP-1 weight loss drugs are reshaping the healthcare industry",
+      "url": "https://www.foxbusiness.com/healthcare/how-glp-1-weight-loss-drugs-reshaping-healthcare-industry",
+      "source": "foxbusiness.com",
+      "published": "2026-08-20T13:05:29+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "Aurora to Present at Upcoming Investor Conferences",
       "url": "http://www.businesswire.com/news/home/20260820746594/en/Aurora-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-RF6f_SjzlBmhl7tcFif_2aqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4dKIZho08PBGSEYWWOV-sM",
       "source": "businesswire.com",
@@ -83,6 +167,25 @@
       "published": "2026-08-20T13:00:00+00:00",
       "tickers": [
         "USB"
+      ]
+    },
+    {
+      "title": "Fed Holds Rates Steady in July With Three Dissents as Goldman Sees No Hike Through 2026",
+      "url": "https://news.theregistrysf.com/fed-holds-rates-steady-in-july-with-three-dissents-as-goldman-sees-no-hike-through-2026/",
+      "source": "theregistrysf.com",
+      "published": "2026-08-20T12:48:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Etsy upgraded to buy at BofA on durable growth, buyback potential",
+      "url": "https://www.investing.com/news/stock-market-news/etsy-upgraded-to-buy-at-bofa-on-durable-growth-buyback-potential-4869730",
+      "source": "investing.com",
+      "published": "2026-08-20T12:38:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -178,106 +281,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It.",
-      "url": "https://www.fool.com/investing/2026/08/20/morgan-stanley-says-ai-data-centers-face-a-38-giga/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-20T12:05:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Alignment Healthcare to Present in Baird 2026 Global Healthcare Conference and Attend Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/20/3348289/0/en/alignment-healthcare-to-present-in-baird-2026-global-healthcare-conference-and-attend-morgan-stanley-24th-annual-global-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-20T12:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo balance transfer - I opened the Wells Fargo reflect Visa card for the 0%apr for ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vth75p/wells_fargo_balance_transfer/",
-      "source": "reddit.com",
-      "published": "2026-08-20T11:46:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Founders AM: Getting Long Bonds on Operation Twist’s Slight Return",
-      "url": "https://vblgoldfix.substack.com/p/founders-am-getting-long-bonds-on",
-      "source": "substack.com",
-      "published": "2026-08-20T11:42:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "OneDigital Investment Advisors LLC Takes $462,000 Position in State Street Corporation $STT",
-      "url": "https://www.tickerreport.com/banking-finance/13551303/onedigital-investment-advisors-llc-takes-462000-position-in-state-street-corporation-stt.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T11:41:27+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "LILA Downgraded by Morgan Stanley -- Rating Changed to Underweight",
-      "url": "https://www.gurufocus.com/news/9045107/lila-downgraded-by-morgan-stanley-rating-changed-to-underweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T11:34:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MRK Upgraded by Morgan Stanley -- Price Target Raised to $179",
-      "url": "https://www.gurufocus.com/news/9045050/mrk-upgraded-by-morgan-stanley-price-target-raised-to-179",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T11:34:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Is Wall Street Bullish or Bearish on State Street Stock?",
-      "url": "https://www.barchart.com/story/news/3946939/is-wall-street-bullish-or-bearish-on-state-street-stock",
-      "source": "barchart.com",
-      "published": "2026-08-20T11:34:04+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Private Advisory Group LLC Invests $11.64 Million in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13551275/private-advisory-group-llc-invests-11-64-million-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T11:31:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Northstar Financial Companies Inc. Makes New Investment in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13551274/northstar-financial-companies-inc-makes-new-investment-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T11:31:11+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "M3 Wealth Management LLC Makes New $3.55 Million Investment in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13551271/m3-wealth-management-llc-makes-new-3-55-million-investment-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-20T11:31:06+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
