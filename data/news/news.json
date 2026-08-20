@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-08-20T19:36:36.810168+00:00",
+  "last_updated": "2026-08-20T20:35:53.054615+00:00",
   "headlines": [
+    {
+      "title": "Wells Fargo Report Says GLP-1s Reducing Certain Surgeries",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/wells-fargo-report-glp-1s-reducing-certain-surgeries-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-20T20:06:22+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "agilon health to Participate in Upcoming Conferences",
+      "url": "http://www.businesswire.com/news/home/20260820128711/en/agilon-health-to-Participate-in-Upcoming-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-aSilctSERNAmzRCuJWkAGl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-L5ZRTmHfjgCpVfOQQOvea",
+      "source": "businesswire.com",
+      "published": "2026-08-20T20:05:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SiriusXM to Present at the Goldman Sachs Communacopia + Technology Conference 2026",
+      "url": "https://www.prnewswire.com/news-releases/siriusxm-to-present-at-the-goldman-sachs-communacopia--technology-conference-2026-302856019.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-20T20:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024375/0001918704-26-024375-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T19:57:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY's Barker on what really concerns clients about AI and payments",
+      "url": "https://www.americanbanker.com/payments/news/bnys-barker-on-what-really-concerns-clients-about-ai-and-payments",
+      "source": "americanbanker.com",
+      "published": "2026-08-20T19:51:52+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
     {
       "title": "Target (NYSE:TGT) Price Target Raised to $160.00 at Citigroup",
       "url": "https://www.marketbeat.com/instant-alerts/target-nysetgt-price-target-raised-to-16000-at-citigroup-2026-08-20/",
@@ -35,6 +82,42 @@
       "published": "2026-08-20T19:18:30+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "EL Maintained by Morgan Stanley -- Price Target Raised to $102",
+      "url": "https://www.gurufocus.com/news/9046094/el-maintained-by-morgan-stanley-price-target-raised-to-102",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:03:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ADI Maintained by Morgan Stanley -- Price Target Raised to $458",
+      "url": "https://www.gurufocus.com/news/9046087/adi-maintained-by-morgan-stanley-price-target-raised-to-458",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:02:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "YETI Maintained by Morgan Stanley -- Price Target Raised to $49",
+      "url": "https://www.gurufocus.com/news/9046079/yeti-maintained-by-morgan-stanley-price-target-raised-to-49",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:02:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TJX Maintained by Morgan Stanley -- Price Target Lowered to $178",
+      "url": "https://www.gurufocus.com/news/9046073/tjx-maintained-by-morgan-stanley-price-target-lowered-to-178",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T19:01:56+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -146,127 +229,6 @@
       "published": "2026-08-20T18:00:28+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Estee Lauder Companies (NYSE:EL) Price Target Raised to $102.00 at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/estee-lauder-companies-nyseel-price-target-raised-to-10200-at-morgan-stanley-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:00:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Has Lowered Expectations for ProFrac (NASDAQ:ACDC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-profrac-nasdaqacdc-stock-price-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:00:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Analog Devices (NASDAQ:ADI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-analog-devices-nasdaqadi-stock-price-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T18:00:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040859/0001839882-26-040859-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T17:42:04+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Toll Brothers (NYSE:TOL) Given New $170.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/toll-brothers-nysetol-given-new-17000-price-target-at-truist-financial-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T17:36:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
-      "url": "https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
-      "source": "theregister.com",
-      "published": "2026-08-20T17:30:39+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Sector Update: Tech Stocks Decline Thursday Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-thursday-173021501.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-20T17:30:21+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Gold price rally pauses as Morgan Stanley sees upside",
-      "url": "https://mining.com.au/gold-price-rally-pauses-as-morgan-stanley-sees-upside/",
-      "source": "mining.com.au",
-      "published": "2026-08-20T17:29:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Confirms ETFs On Track to Cross $2 Trillion Milestone",
-      "url": "https://www.etftrends.com/future-etfs-content-hub/goldman-sachs-confirms-etfs-on-track-to-cross-2-trillion-milestone/",
-      "source": "etftrends.com",
-      "published": "2026-08-20T17:24:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Snowflake (NYSE:SNOW) Price Target Raised to $375.00",
-      "url": "https://www.marketbeat.com/instant-alerts/snowflake-nysesnow-price-target-raised-to-37500-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T17:12:42+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for PagerDuty (NYSE:PD) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-issues-positive-forecast-for-pagerduty-nysepd-stock-price-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T17:12:40+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "MongoDB (NASDAQ:MDB) Price Target Raised to $475.00",
-      "url": "https://www.marketbeat.com/instant-alerts/mongodb-nasdaqmdb-price-target-raised-to-47500-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T17:12:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Citigroup turns bearish on US dollar amid Fed policy shift",
-      "url": "https://cryptobriefing.com/citigroup-bearish-us-dollar-fed-policy/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-20T17:12:35+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
