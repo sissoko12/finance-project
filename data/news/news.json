@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-20T01:41:08.481134+00:00",
+  "last_updated": "2026-08-20T03:03:33.963564+00:00",
   "headlines": [
+    {
+      "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+      "url": "https://www.investing.com/news/stock-market-news/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool-4868606",
+      "source": "investing.com",
+      "published": "2026-08-20T02:18:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Is Said to Hire Barclays Tech Dealmaker Tim Luke",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/morgan-stanley-is-said-to-hire-barclays-tech-dealmaker-tim-luke",
+      "source": "bloomberg.com",
+      "published": "2026-08-20T01:40:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "India Bars JPMorgan Unit Over Alleged Stock Market Manipulation",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
+      "source": "bloomberg.com",
+      "published": "2026-08-20T01:29:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Wells Fargo (WFC) Announces Pricing of 1.75 Million Depositary Shares for Series HH Preferred Stock",
       "url": "https://www.gurufocus.com/news/9044274/wells-fargo-wfc-announces-pricing-of-175-million-depositary-shares-for-series-hh-preferred-stock",
