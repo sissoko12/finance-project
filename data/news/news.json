@@ -1,13 +1,145 @@
 {
-  "last_updated": "2026-08-20T16:00:46.706128+00:00",
+  "last_updated": "2026-08-20T17:02:14.542516+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040824/0001839882-26-040824-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526358821/0001193125-26-358821-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-20T15:27:38+00:00",
+      "published": "2026-08-20T16:45:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012683/0000950103-26-012683-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T16:21:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Watch CNBC's full interview with Morgan Stanley's Lauren Hochfelder",
+      "url": "https://www.cnbc.com/video/2026/08/20/watch-cnbcs-full-interview-with-morgan-stanleys-lauren-hochfelder.html",
+      "source": "cnbc.com",
+      "published": "2026-08-20T16:05:33+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Industrial real estate is a side-door way into AI, says Morgan Stanley’s Lauren Hochfelder",
+      "url": "https://www.cnbc.com/video/2026/08/20/industrial-real-estate-is-a-side-door-way-into-ai-says-morgan-stanleys-lauren-hochfelder.html",
+      "source": "cnbc.com",
+      "published": "2026-08-20T16:05:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Top Financial Stocks Worth Watching - August 20th",
+      "url": "https://www.marketbeat.com/instant-alerts/top-financial-stocks-worth-watching-august-20th-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T16:04:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Top Bank Stocks Worth Watching - August 20th",
+      "url": "https://www.marketbeat.com/instant-alerts/top-bank-stocks-worth-watching-august-20th-2026-08-20/",
+      "source": "marketbeat.com",
+      "published": "2026-08-20T16:04:49+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Cheaper side autoloan - Hey guys I’m looking to get a 2008 bmw with 130k miles for like ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vtnnbg/cheaper_side_autoloan/",
+      "source": "reddit.com",
+      "published": "2026-08-20T16:04:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Bank of New York Mellon Corporation (BNY) Announces Full Redemption of Series F Preferred Stock",
+      "url": "https://www.gurufocus.com/news/9045697/the-bank-of-new-york-mellon-corporation-bny-announces-full-redemption-of-series-f-preferred-stock",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T16:00:11+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Moderna is paring back gains, but Merck stock remains a buy",
+      "url": "https://invezz.com/news/2026/08/20/moderna-is-paring-back-gains-but-merck-stock-remains-a-buy/",
+      "source": "invezz.com",
+      "published": "2026-08-20T15:46:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PGNY Initiated Coverage by Wells Fargo -- Rating Overweight Announced",
+      "url": "https://www.gurufocus.com/news/9045628/pgny-initiated-coverage-by-wells-fargo-rating-overweight-announced",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T15:38:43+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526358721/0001193125-26-358721-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T15:38:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "UMBF Initiated Coverage by JP Morgan -- Rating Set to Overweight",
+      "url": "https://www.gurufocus.com/news/9045626/umbf-initiated-coverage-by-jp-morgan-rating-set-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-08-20T15:37:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040830/0001839882-26-040830-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T15:33:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Scotiabank hires Morgan Stanley’s top Canada banker Richard Tory",
+      "url": "https://financialpost.com/fp-finance/banking/scotiabank-hires-morgan-stanleys-banker-richard-tory",
+      "source": "financialpost.com",
+      "published": "2026-08-20T15:32:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024345/0001918704-26-024345-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T15:20:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -17,155 +149,6 @@
       "published": "2026-08-20T15:20:00+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "A Little-Known Firm Owns Nearly 3,000 Times More of This XRP ETF Than Morgan Stanley",
-      "url": "https://247wallst.com/investing/etf/2026/08/20/a-little-known-firm-owns-nearly-3000-times-more-of-this-xrp-etf-than-morgan-stanley/",
-      "source": "247wallst.com",
-      "published": "2026-08-20T15:10:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024340/0001918704-26-024340-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T15:02:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040794/0001839882-26-040794-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T15:00:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
-      "source": "datacenterdynamics.com",
-      "published": "2026-08-20T15:00:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "GLP-1s are forcing a strategic reset across healthcare: Wells Fargo report",
-      "url": "https://www.fiercehealthcare.com/providers/glp-1s-forcing-strategic-reset-across-healthcare-well-fargo-report",
-      "source": "fiercehealthcare.com",
-      "published": "2026-08-20T14:53:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Lifts Price Targets for 10 Software Companies Including ServiceNow (NOW) and Snowflake (SNOW)",
-      "url": "https://blockonomi.com/bank-of-america-lifts-price-targets-for-10-software-companies-including-servicenow-now-and-snowflake-snow/",
-      "source": "blockonomi.com",
-      "published": "2026-08-20T14:52:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs projects AI infrastructure spending to hit $1.6T by 2031",
-      "url": "https://cryptobriefing.com/goldman-sachs-ai-infrastructure-spending-2031/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-20T14:48:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "TJX Companies facing competition for precious off-price dollars—Citi Research",
-      "url": "https://seekingalpha.com/news/4635484-tjx-companies-facing-competition-for-precious-off-price-dollars---citi-research",
-      "source": "seekingalpha.com",
-      "published": "2026-08-20T14:24:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Merck upgraded at Morgan Stanley after cancer trial win; RBC downgrades",
-      "url": "https://seekingalpha.com/news/4635495-merck-stock-upgraded-morgan-stanley-rbc-downgrades",
-      "source": "seekingalpha.com",
-      "published": "2026-08-20T14:22:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley sees modest downside risks to US aluminum premium",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-modest-downside-risks-to-us-aluminum-premium-93CH-4870040",
-      "source": "investing.com",
-      "published": "2026-08-20T14:14:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "History Says 2026’s Market Rally Starts in 42 Days, Per JP Morgan Data",
-      "url": "https://247wallst.com/investing/2026/08/20/history-says-2026s-market-rally-starts-in-42-days-per-jp-morgan-data/",
-      "source": "247wallst.com",
-      "published": "2026-08-20T14:13:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase CEO commits endowment funds to Edward Waters",
-      "url": "https://www.bizjournals.com/jacksonville/news/2026/08/20/edward-waters-university-endowment-investment.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-08-20T14:07:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040754/0001839882-26-040754-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T14:05:10+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "What’s Driving This Year’s Red Hot ETF Market?",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/what-s-driving-this-year-s-red-hot-etf-market",
-      "source": "bloomberg.com",
-      "published": "2026-08-20T14:01:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Markets Are in 'La La Land,' State Street's Heinel Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-20/markets-are-in-la-la-land-state-street-s-heinel-says-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-20T13:49:58+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ProQR a new buy at BoA on RNA-editing platform",
-      "url": "https://seekingalpha.com/news/4635457-proqr-new-buy-boa-rna-editing-platform",
-      "source": "seekingalpha.com",
-      "published": "2026-08-20T13:49:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
