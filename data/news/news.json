@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-08-20T15:06:38.388762+00:00",
+  "last_updated": "2026-08-20T16:00:46.706128+00:00",
   "headlines": [
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040824/0001839882-26-040824-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T15:27:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Best Lawyers in America Names 45 Wilentz, Goldman & Spitzer Attorneys to its 2027 Lists, Including Six \"Lawyer of the Year\" Honors",
+      "url": "https://www.prnewswire.com/news-releases/best-lawyers-in-america-names-45-wilentz-goldman--spitzer-attorneys-to-its-2027-lists-including-six-lawyer-of-the-year-honors-302856579.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-20T15:20:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "A Little-Known Firm Owns Nearly 3,000 Times More of This XRP ETF Than Morgan Stanley",
+      "url": "https://247wallst.com/investing/etf/2026/08/20/a-little-known-firm-owns-nearly-3000-times-more-of-this-xrp-etf-than-morgan-stanley/",
+      "source": "247wallst.com",
+      "published": "2026-08-20T15:10:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024340/0001918704-26-024340-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T15:02:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040794/0001839882-26-040794-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T15:00:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
+      "source": "datacenterdynamics.com",
+      "published": "2026-08-20T15:00:35+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "GLP-1s are forcing a strategic reset across healthcare: Wells Fargo report",
+      "url": "https://www.fiercehealthcare.com/providers/glp-1s-forcing-strategic-reset-across-healthcare-well-fargo-report",
+      "source": "fiercehealthcare.com",
+      "published": "2026-08-20T14:53:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Lifts Price Targets for 10 Software Companies Including ServiceNow (NOW) and Snowflake (SNOW)",
+      "url": "https://blockonomi.com/bank-of-america-lifts-price-targets-for-10-software-companies-including-servicenow-now-and-snowflake-snow/",
+      "source": "blockonomi.com",
+      "published": "2026-08-20T14:52:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs projects AI infrastructure spending to hit $1.6T by 2031",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-infrastructure-spending-2031/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-20T14:48:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "TJX Companies facing competition for precious off-price dollars—Citi Research",
       "url": "https://seekingalpha.com/news/4635484-tjx-companies-facing-competition-for-precious-off-price-dollars---citi-research",
@@ -26,6 +110,15 @@
       "published": "2026-08-20T14:14:29+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "History Says 2026’s Market Rally Starts in 42 Days, Per JP Morgan Data",
+      "url": "https://247wallst.com/investing/2026/08/20/history-says-2026s-market-rally-starts-in-42-days-per-jp-morgan-data/",
+      "source": "247wallst.com",
+      "published": "2026-08-20T14:13:37+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -70,214 +163,6 @@
       "url": "https://seekingalpha.com/news/4635457-proqr-new-buy-boa-rna-editing-platform",
       "source": "seekingalpha.com",
       "published": "2026-08-20T13:49:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "TJX cut at Citi as disappointing Marmaxx comp shows off-price isn’t immune",
-      "url": "https://www.investing.com/news/stock-market-news/tjx-cut-at-citi-as-disappointing-marmaxx-comp-shows-offprice-isnt-immune-4869980",
-      "source": "investing.com",
-      "published": "2026-08-20T13:47:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024322/0001918704-26-024322-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T13:31:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-cof-could-131434106.html",
-      "source": "yahoo.com",
-      "published": "2026-08-20T13:14:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Etsy's recent growth 'more structural than a spike'—BofA Securities",
-      "url": "https://seekingalpha.com/news/4635390-etsys-recent-growth-more-structural-than-a-spike---bofa-securities",
-      "source": "seekingalpha.com",
-      "published": "2026-08-20T13:12:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024320/0001918704-26-024320-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T13:12:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gerdau (NYSE:GGB) Rating Lowered to Neutral at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/gerdau-nyseggb-rating-lowered-to-neutral-at-bank-of-america-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T13:06:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Begins Coverage on UMB Financial (NASDAQ:UMBF)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-begins-coverage-on-umb-financial-nasdaqumbf-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T13:06:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "How GLP-1 weight loss drugs are reshaping the healthcare industry",
-      "url": "https://www.foxbusiness.com/healthcare/how-glp-1-weight-loss-drugs-reshaping-healthcare-industry",
-      "source": "foxbusiness.com",
-      "published": "2026-08-20T13:05:29+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Aurora to Present at Upcoming Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20260820746594/en/Aurora-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-RF6f_SjzlBmhl7tcFif_2aqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4dKIZho08PBGSEYWWOV-sM",
-      "source": "businesswire.com",
-      "published": "2026-08-20T13:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Beusa Announces Comprehensive Refinancing to Fund Secured Growth Across Integrated Power Platform",
-      "url": "http://www.businesswire.com/news/home/20260820870363/en/Beusa-Announces-Comprehensive-Refinancing-to-Fund-Secured-Growth-Across-Integrated-Power-Platform/?feedref=JjAwJuNHiystnCoBq_hl-UWmYgx6iPKhA_Rsj6bM1eN7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX9zxIiZbtSUJbeLYjZQct7s",
-      "source": "businesswire.com",
-      "published": "2026-08-20T13:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Fed Holds Rates Steady in July With Three Dissents as Goldman Sees No Hike Through 2026",
-      "url": "https://news.theregistrysf.com/fed-holds-rates-steady-in-july-with-three-dissents-as-goldman-sees-no-hike-through-2026/",
-      "source": "theregistrysf.com",
-      "published": "2026-08-20T12:48:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Etsy upgraded to buy at BofA on durable growth, buyback potential",
-      "url": "https://www.investing.com/news/stock-market-news/etsy-upgraded-to-buy-at-bofa-on-durable-growth-buyback-potential-4869730",
-      "source": "investing.com",
-      "published": "2026-08-20T12:38:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Are Wall Street Analysts Predicting PNC Financial Services Stock Will Climb or Sink?",
-      "url": "https://www.barchart.com/story/news/3948952/are-wall-street-analysts-predicting-pnc-financial-services-stock-will-climb-or-sink",
-      "source": "barchart.com",
-      "published": "2026-08-20T12:34:04+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Orchestra BioMed to Participate in the Wells Fargo 21st Annual Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/20/3348349/0/en/orchestra-biomed-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-20T12:30:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Announces Redemption of 1,000,000 Depositary Shares, Each Representing a 1/100th Interest in a Share of its Series F Noncumulative Perpetual Preferred Stock",
-      "url": "https://www.prnewswire.com/news-releases/bny-announces-redemption-of-1-000-000-depositary-shares-each-representing-a-1100th-interest-in-a-share-of-its-series-f-noncumulative-perpetual-preferred-stock-302856375.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-20T12:29:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Walmart earnings scorecard: Citi nailed the beat, Barclays nailed the price",
-      "url": "https://www.investing.com/news/stock-market-news/walmart-earnings-scorecard-citi-nailed-the-beat-barclays-nailed-the-price-93CH-4869640",
-      "source": "investing.com",
-      "published": "2026-08-20T12:19:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Announces Full Redemption of Its Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
-      "url": "http://www.businesswire.com/news/home/20260819319189/en/Capital-One-Announces-Full-Redemption-of-Its-Fixed-Rate-Reset-Non-Cumulative-Perpetual-Preferred-Stock-Series-M/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-08-20T12:19:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Etsy (NYSE:ETSY) Rating Increased to Buy at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/etsy-nyseetsy-rating-increased-to-buy-at-bank-of-america-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T12:18:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "‘Capital alone no longer clears a site’: Morgan Stanley says data centers’ big money era is over",
-      "url": "https://fortune.com/2026/08/20/data-centers-money-era-morgan-stanley/",
-      "source": "fortune.com",
-      "published": "2026-08-20T12:12:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Moderna (NASDAQ:MRNA) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-forecasts-strong-price-appreciation-for-moderna-nasdaqmrna-stock-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T12:06:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Merck & Co., Inc. (NYSE:MRK) Raised to Overweight at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/merck-co-inc-nysemrk-raised-to-overweight-at-morgan-stanley-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T12:06:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ProQR Therapeutics (NASDAQ:PRQR) Earns Buy Rating from Analysts at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/proqr-therapeutics-nasdaqprqr-earns-buy-rating-from-analysts-at-bank-of-america-2026-08-20/",
-      "source": "marketbeat.com",
-      "published": "2026-08-20T12:06:26+00:00",
       "tickers": [
         "BAC",
         "C"
