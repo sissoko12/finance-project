@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-21T18:47:01.257149+00:00",
+  "last_updated": "2026-08-21T19:30:16.291189+00:00",
   "headlines": [
+    {
+      "title": "Bethesda bank back open after gas leak prompts evacuation",
+      "url": "https://www.mymcmedia.org/bethesda-bank-back-open-after-gas-leak-prompts-evacuation/",
+      "source": "mymcmedia.org",
+      "published": "2026-08-21T18:47:56+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "O-I Glass surges as Citi upgrades to Buy after YTD plunge",
+      "url": "https://seekingalpha.com/news/4635969-o-i-glass-surges-as-citi-upgrades-to-buy-after-ytd-plunge",
+      "source": "seekingalpha.com",
+      "published": "2026-08-21T18:42:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Bank of America's Stock Market Signal Flashes Warning",
       "url": "https://www.gurufocus.com/news/9047819/bank-of-americas-stock-market-signal-flashes-warning",
@@ -81,6 +100,15 @@
       "url": "https://qz.com/matt-zames-jpmorgan-social-security-administration-tech-advisor-082126",
       "source": "qz.com",
       "published": "2026-08-21T17:50:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Research Analysts’ New Coverage for August 21st (AMRN, BBNX, BLDR, BMO, BNS, CM, EBS, EVEX, FIX, FTH)",
+      "url": "https://www.tickerreport.com/banking-finance/13553295/research-analysts-new-coverage-for-august-21st-amrn-bbnx-bldr-bmo-bns-cm-ebs-evex-fix-fth.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T17:44:44+00:00",
       "tickers": [
         "JPM"
       ]
@@ -245,34 +273,6 @@
       "published": "2026-08-21T17:33:03+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "ServiceNow investors must consider latest alert from Bank of America",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-investors-must-consider-latest-173300015.html",
-      "source": "yahoo.com",
-      "published": "2026-08-21T17:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "DUK Maintained by Morgan Stanley -- Price Target Lowered to $133",
-      "url": "https://www.gurufocus.com/news/9047885/duk-maintained-by-morgan-stanley-price-target-lowered-to-133",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T17:32:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Has Lowered Expectations for Xcel Energy (NASDAQ:XEL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-xcel-energy-nasdaqxel-stock-price-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T17:18:29+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
