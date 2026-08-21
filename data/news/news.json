@@ -1,277 +1,278 @@
 {
-  "last_updated": "2026-08-21T16:00:03.550008+00:00",
+  "last_updated": "2026-08-21T16:47:20.328319+00:00",
   "headlines": [
     {
-      "title": "JPMorgan hiring Bank of America’s David Fishman as head of technology M&A, memo says",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-hiring-bank-of-americas-david-fishman-as-head-of-technology-ma-memo-says-4871897",
+      "title": "Morgan Stanley Issues Pessimistic Forecast for Exelon (NASDAQ:EXC) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-exelon-nasdaqexc-stock-price-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Lowers MGE Energy (NASDAQ:MGEE) Price Target to $74.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-mge-energy-nasdaqmgee-price-target-to-7400-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Moderna (NASDAQ:MRNA) Price Target Raised to $77.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/moderna-nasdaqmrna-price-target-raised-to-7700-at-jpmorgan-chase-co-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "News (NASDAQ:NWSA) Price Target Raised to $38.00",
+      "url": "https://www.marketbeat.com/instant-alerts/news-nasdaqnwsa-price-target-raised-to-3800-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Boosts Progyny (NASDAQ:PGNY) Price Target to $30.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-boosts-progyny-nasdaqpgny-price-target-to-3000-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Okta (NASDAQ:OKTA) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-okta-nasdaqokta-stock-price-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Deere & Company (NYSE:DE) Price Target Raised to $585.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/deere-company-nysede-price-target-raised-to-58500-at-jpmorgan-chase-co-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Raises Ross Stores (NASDAQ:ROST) Price Target to $272.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-raises-ross-stores-nasdaqrost-price-target-to-27200-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Sinclair (NASDAQ:SBGI) Price Target Raised to $15.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/sinclair-nasdaqsbgi-price-target-raised-to-1500-at-jpmorgan-chase-co-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Lowers Edison International (NYSE:EIX) Price Target to $65.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-edison-international-nyseeix-price-target-to-6500-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Elastic (NYSE:ESTC) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/elastic-nyseestc-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Has Lowered Expectations for FirstEnergy (NYSE:FE) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-firstenergy-nysefe-stock-price-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "SentinelOne (NYSE:S) Given New $22.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/sentinelone-nyses-given-new-2200-price-target-at-jpmorgan-chase-co-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:24:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Now Is the Time to Buy in Commercial Real Estate: Morgan Stanley",
+      "url": "https://commercialobserver.com/2026/08/morgan-stanley-real-estate-investment-strategy-2026/",
+      "source": "commercialobserver.com",
+      "published": "2026-08-21T16:17:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Jim O’Neill declines job in Andy Burnham’s government",
+      "url": "https://www.ft.com/content/7b162fb4-8889-4f9c-9d5b-878850d6e8af?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-08-21T16:05:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "POR Upgraded by Wells Fargo -- Price Target Raised to $58.00",
+      "url": "https://www.gurufocus.com/news/9047796/por-upgraded-by-wells-fargo-price-target-raised-to-5800",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "CEG Maintained by Morgan Stanley -- Price Target Lowered to $364",
+      "url": "https://www.gurufocus.com/news/9047803/ceg-maintained-by-morgan-stanley-price-target-lowered-to-364",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ROST Maintained by Wells Fargo -- Price Target Raised to $248",
+      "url": "https://www.gurufocus.com/news/9047799/rost-maintained-by-wells-fargo-price-target-raised-to-248",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "D Maintained by Morgan Stanley -- Price Target Lowered to $68",
+      "url": "https://www.gurufocus.com/news/9047808/d-maintained-by-morgan-stanley-price-target-lowered-to-68",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "WMT Maintained by Wells Fargo -- Price Target Lowered to $120",
+      "url": "https://www.gurufocus.com/news/9047804/wmt-maintained-by-wells-fargo-price-target-lowered-to-120",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "ED Maintained by Morgan Stanley -- Price Target Lowered to $101",
+      "url": "https://www.gurufocus.com/news/9047798/ed-maintained-by-morgan-stanley-price-target-lowered-to-101",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AAP Maintains by Wells Fargo -- Price Target Lowered to $50.00",
+      "url": "https://www.gurufocus.com/news/9047801/aap-maintains-by-wells-fargo-price-target-lowered-to-5000",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "DTE Maintained by Morgan Stanley -- Price Target Lowered to $148",
+      "url": "https://www.gurufocus.com/news/9047809/dte-maintained-by-morgan-stanley-price-target-lowered-to-148",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:05:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley course-corrects their semiconductor equipment outlook on demand",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-coursecorrects-their-semiconductor-equipment-outlook-on-demand-93CH-4871933",
       "source": "investing.com",
-      "published": "2026-08-21T15:25:02+00:00",
+      "published": "2026-08-21T16:02:12+00:00",
       "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank Stocks To Watch Now - August 21st",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-watch-now-august-21st-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:02:00+00:00",
+      "tickers": [
+        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Sneaky raccoon seen helping itself to ballpark fare at Citi Field as bewildered Mets fans look on",
-      "url": "https://www.foxnews.com/outkick-sports/sneaky-raccoon-helping-itself-ballpark-fare-citi-field-bewildered-mets-fans-look-on",
-      "source": "foxnews.com",
-      "published": "2026-08-21T15:21:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dominion Energy (NYSE:D) Price Target Cut to $68.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/dominion-energy-nysed-price-target-cut-to-6800-by-analysts-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T15:20:26+00:00",
+      "title": "CMS Maintained by Morgan Stanley -- Price Target Lowered to $79.00",
+      "url": "https://www.gurufocus.com/news/9047783/cms-maintained-by-morgan-stanley-price-target-lowered-to-7900",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T16:01:09+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Citigroup and Goldman Sachs lead as most financial giants earn 'Buy' growth grades",
-      "url": "https://seekingalpha.com/news/4635917-citigroup-and-goldman-sachs-lead-as-most-financial-giants-earn-buy-growth-grades",
-      "source": "seekingalpha.com",
-      "published": "2026-08-21T15:17:16+00:00",
-      "tickers": [
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Resets Walmart Stock Target After Brutal Post-Earnings Selloff",
-      "url": "https://www.gurufocus.com/news/9047589/goldman-resets-walmart-stock-target-after-brutal-postearnings-selloff",
+      "title": "CNP Maintained by Morgan Stanley -- Price Target Lowered to $39.00",
+      "url": "https://www.gurufocus.com/news/9047779/cnp-maintained-by-morgan-stanley-price-target-lowered-to-3900",
       "source": "gurufocus.com",
-      "published": "2026-08-21T15:13:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Robinhood (HOOD) Stock Rockets 11% as Trump Endorses Crypto Clarity Act",
-      "url": "https://blockonomi.com/robinhood-hood-stock-rockets-11-as-trump-endorses-crypto-clarity-act/",
-      "source": "blockonomi.com",
-      "published": "2026-08-21T15:00:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Consolidated Edison (NYSE:ED) Price Target Lowered to $101.00 at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/consolidated-edison-nyseed-price-target-lowered-to-10100-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T15:00:27+00:00",
+      "published": "2026-08-21T16:00:35+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Morgan Stanley Has Lowered Expectations for CMS Energy (NYSE:CMS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-cms-energy-nysecms-stock-price-2026-08-21/",
+      "title": "Duke Energy (NYSE:DUK) Given New $133.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/duke-energy-nyseduk-given-new-13300-price-target-at-morgan-stanley-2026-08-21/",
       "source": "marketbeat.com",
-      "published": "2026-08-21T15:00:26+00:00",
+      "published": "2026-08-21T16:00:28+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
-      "source": "yahoo.com",
-      "published": "2026-08-21T14:55:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Skyways Air Services IPO gets marquee backing, Citi, Nomura join Rs 174 crore anchor book",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/skyways-air-services-ipo-gets-marquee-backing-citi-nomura-join-rs-174-crore-anchor-book/articleshow/133407402.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-21T14:46:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts CenterPoint Energy (NYSE:CNP) Price Target to $39.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-cuts-centerpoint-energy-nysecnp-price-target-to-3900-2026-08-21/",
+      "title": "Alibaba Group (NYSE:BABA) Given New $210.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/alibaba-group-nysebaba-given-new-21000-price-target-at-jpmorgan-chase-co-2026-08-21/",
       "source": "marketbeat.com",
-      "published": "2026-08-21T14:42:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VMRK Initiated Coverage by Wells Fargo -- Rating Set to Overweight",
-      "url": "https://www.gurufocus.com/news/9047678/vmrk-initiated-coverage-by-wells-fargo-rating-set-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:40:35+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ACEL Initiated Coverage by Wells Fargo -- Rating Set to Equal-Weight",
-      "url": "https://www.gurufocus.com/news/9047677/acel-initiated-coverage-by-wells-fargo-rating-set-to-equalweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:40:31+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "LMB Downgraded by JP Morgan -- Price Target Lowered to $50",
-      "url": "https://www.gurufocus.com/news/9047671/lmb-downgraded-by-jp-morgan-price-target-lowered-to-50",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:38:21+00:00",
+      "published": "2026-08-21T16:00:26+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "BWMN Downgraded by JP Morgan -- Price Target Raised to $43.00",
-      "url": "https://www.gurufocus.com/news/9047668/bwmn-downgraded-by-jp-morgan-price-target-raised-to-4300",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:37:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TIC Upgraded by JP Morgan -- Price Target Raised to $11.00",
-      "url": "https://www.gurufocus.com/news/9047667/tic-upgraded-by-jp-morgan-price-target-raised-to-1100",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:36:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "DV Downgraded by JP Morgan -- Rating Changed to Neutral",
-      "url": "https://www.gurufocus.com/news/9047664/dv-downgraded-by-jp-morgan-rating-changed-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:35:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FTAI Maintained by Morgan Stanley -- Price Target Raised to $360",
-      "url": "https://www.gurufocus.com/news/9047658/ftai-maintained-by-morgan-stanley-price-target-raised-to-360",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:33:18+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "RARE Maintained by Morgan Stanley -- Price Target Raised to $74",
-      "url": "https://www.gurufocus.com/news/9047656/rare-maintained-by-morgan-stanley-price-target-raised-to-74",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T14:32:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Mets Game Gets Unexpected Visitor as Hungry Furry Friend Sneaks in for Stadium Snacks",
-      "url": "https://www.essentiallysports.com/mlb-baseball-news-mets-game-gets-unexpected-visitor-as-hungry-furry-friend-sneaks-in-for-stadium-snacks/",
-      "source": "essentiallysports.com",
-      "published": "2026-08-21T14:24:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Advance Auto Parts (NYSE:AAP) Price Target Cut to $52.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/advance-auto-parts-nyseaap-price-target-cut-to-5200-by-analysts-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:18:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Ameren (NYSE:AEE) Given New $114.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/ameren-nyseaee-given-new-11400-price-target-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:18:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "American Electric Power (NASDAQ:AEP) Given New $135.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/american-electric-power-nasdaqaep-given-new-13500-price-target-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:18:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Atmos Energy (NYSE:ATO) Price Target Cut to $190.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/atmos-energy-nyseato-price-target-cut-to-19000-by-analysts-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:18:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Top JPMorgan Chase exec warns regulatory proposal could squeeze credit for millions of small businesses",
-      "url": "https://www.foxbusiness.com/politics/top-jpmorgan-exec-warns-regulatory-proposal-could-squeeze-credit-millions-small-businesses",
-      "source": "foxbusiness.com",
-      "published": "2026-08-21T14:16:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Begins Coverage on Emergent Biosolutions (NYSE:EBS)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-begins-coverage-on-emergent-biosolutions-nyseebs-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:06:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Immunocore (NASDAQ:IMCR) Earns Overweight Rating from Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/immunocore-nasdaqimcr-earns-overweight-rating-from-analysts-at-jpmorgan-chase-co-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:06:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Begins Coverage on Amarin (NASDAQ:AMRN)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-begins-coverage-on-amarin-nasdaqamrn-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:06:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Initiates Coverage on MBX Biosciences (NASDAQ:MBX)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-initiates-coverage-on-mbx-biosciences-nasdaqmbx-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:06:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Initiates Coverage on Nektar Therapeutics (NASDAQ:NKTR)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-initiates-coverage-on-nektar-therapeutics-nasdaqnktr-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T14:06:30+00:00",
+      "title": "AI will not give you Fridays off",
+      "url": "https://fortune.com/2026/08/21/ai-4-day-workweek-fridays-dimon-gates-keynes/",
+      "source": "fortune.com",
+      "published": "2026-08-21T15:42:59+00:00",
       "tickers": [
         "JPM"
       ]
