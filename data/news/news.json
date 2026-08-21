@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-20T23:32:01.955137+00:00",
+  "last_updated": "2026-08-21T01:46:03.016375+00:00",
   "headlines": [
+    {
+      "title": "Quote of the Day by Jamie Dimon: “Some of your success will be how you deal with the...” — Inspiring life lesson on navigating failure, career setbacks, emotional processing, and personal accountability, exploring why permitting temporary grief is a necessary pitstop on the path to enduri",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-jamie-dimon-some-of-your-success-will-be-how-you-deal-with-the-inspiring-life-lesson-on-navigating-failure-career-setbacks-emotional-processing-and-personal-accountability-exploring-why-permitting-temporary-grief-is-a-necessary-pitstop-on-the-path-to-enduring-achievement-by-the-jpmorgan-chase-ceo/articleshow/133382378.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-21T00:47:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Pioneer Credit Ltd (ASX:PNC) (FY 2026) Earnings Call Highlights: Record NPAT Soars 245% to $23. ...",
+      "url": "https://www.gurufocus.com/news/9046667/pioneer-credit-ltd-asxpnc-fy-2026-earnings-call-highlights-record-npat-soars-245-to-231-million-fueling-aggressive-growth-and-fy29-target",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T00:34:12+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
     {
       "title": "Anthropic adds Citigroup to IPO banking team amid Wall Street competition",
       "url": "https://cryptobriefing.com/anthropic-citigroup-ipo-banking-team/",
@@ -93,6 +112,15 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012722/0000950103-26-012722-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T21:27:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024396/0001918704-26-024396-index.htm",
       "source": "sec.gov",
@@ -119,6 +147,24 @@
       "published": "2026-08-20T21:20:44+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024393/0001918704-26-024393-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T21:09:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526359377/0001193125-26-359377-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T21:09:03+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -159,15 +205,6 @@
       ]
     },
     {
-      "title": "XLF vs EUFN: Is a U.S. Financials ETF Superior to a Europe-Focused Fund?",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/20/xlf-vs-eufn-is-a-u-s-financials-etf-superior-to-a-europe-focused-fund/",
-      "source": "fool.com",
-      "published": "2026-08-20T21:04:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
       "title": "MORGAN STANLEY: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000278/0000895421-26-000278-index.htm",
       "source": "sec.gov",
@@ -196,6 +233,15 @@
       ]
     },
     {
+      "title": "XLF vs EUFN: Is a U.S. Financials ETF Superior to a Europe-Focused Fund?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/20/xlf-vs-eufn-is-a-u-s-financials-etf-superior-to-a-europe-focused-fund/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-20T20:44:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
       "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040911/0001839882-26-040911-index.htm",
       "source": "sec.gov",
@@ -206,76 +252,12 @@
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040909/0001839882-26-040909-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T20:38:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
       "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040908/0001839882-26-040908-index.htm",
       "source": "sec.gov",
       "published": "2026-08-20T20:35:52+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "HCA Healthcare, Inc. to Present at September Conferences",
-      "url": "http://www.businesswire.com/news/home/20260820248652/en/HCA-Healthcare-Inc.-to-Present-at-September-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
-      "source": "businesswire.com",
-      "published": "2026-08-20T20:30:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526359247/0001193125-26-359247-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T20:28:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "ALIT Maintained by Citigroup -- Price Target Lowered to $16.00",
-      "url": "https://www.gurufocus.com/news/9046164/alit-maintained-by-citigroup-price-target-lowered-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T20:27:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "RARE Maintained by Citigroup -- Price Target Raised to $58.00",
-      "url": "https://www.gurufocus.com/news/9046162/rare-maintained-by-citigroup-price-target-raised-to-5800",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T20:27:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "APA Maintained by Citigroup -- Price Target Raised to $44.00",
-      "url": "https://www.gurufocus.com/news/9046168/apa-maintained-by-citigroup-price-target-raised-to-4400",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T20:27:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LOW Maintained by Citigroup -- Price Target Lowered to $260",
-      "url": "https://www.gurufocus.com/news/9046160/low-maintained-by-citigroup-price-target-lowered-to-260",
-      "source": "gurufocus.com",
-      "published": "2026-08-20T20:27:18+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
