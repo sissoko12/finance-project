@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-08-21T16:47:20.328319+00:00",
+  "last_updated": "2026-08-21T17:35:16.600038+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan Chase & Co. Lowers Advance Auto Parts (NYSE:AAP) Price Target to $55.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-advance-auto-parts-nyseaap-price-target-to-5500-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Walmart (NASDAQ:WMT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-walmart-nasdaqwmt-stock-price-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Cuts NRG Energy (NYSE:NRG) Price Target to $162.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-cuts-nrg-energy-nysenrg-price-target-to-16200-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ONE Gas (NYSE:OGS) Given New $82.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/one-gas-nyseogs-given-new-8200-price-target-at-morgan-stanley-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Pacific Gas & Electric (NYSE:PCG) Price Target Cut to $22.00 by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/pacific-gas-electric-nysepcg-price-target-cut-to-2200-by-analysts-at-morgan-stanley-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PPL (NYSE:PPL) Given New $42.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/ppl-nyseppl-given-new-4200-price-target-at-morgan-stanley-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Public Service Enterprise Group (NYSE:PEG) Price Target Lowered to $91.00 at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/public-service-enterprise-group-nysepeg-price-target-lowered-to-9100-at-morgan-stanley-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Pessimistic Forecast for Sempra Energy (NYSE:SRE) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-sempra-energy-nysesre-stock-price-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T16:48:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Morgan Stanley Issues Pessimistic Forecast for Exelon (NASDAQ:EXC) Stock Price",
       "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-exelon-nasdaqexc-stock-price-2026-08-21/",
@@ -201,80 +273,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "DTE Maintained by Morgan Stanley -- Price Target Lowered to $148",
-      "url": "https://www.gurufocus.com/news/9047809/dte-maintained-by-morgan-stanley-price-target-lowered-to-148",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley course-corrects their semiconductor equipment outlook on demand",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-coursecorrects-their-semiconductor-equipment-outlook-on-demand-93CH-4871933",
-      "source": "investing.com",
-      "published": "2026-08-21T16:02:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Watch Now - August 21st",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-stocks-to-watch-now-august-21st-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:02:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CMS Maintained by Morgan Stanley -- Price Target Lowered to $79.00",
-      "url": "https://www.gurufocus.com/news/9047783/cms-maintained-by-morgan-stanley-price-target-lowered-to-7900",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T16:01:09+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CNP Maintained by Morgan Stanley -- Price Target Lowered to $39.00",
-      "url": "https://www.gurufocus.com/news/9047779/cnp-maintained-by-morgan-stanley-price-target-lowered-to-3900",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T16:00:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Duke Energy (NYSE:DUK) Given New $133.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/duke-energy-nyseduk-given-new-13300-price-target-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:00:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Alibaba Group (NYSE:BABA) Given New $210.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/alibaba-group-nysebaba-given-new-21000-price-target-at-jpmorgan-chase-co-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:00:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AI will not give you Fridays off",
-      "url": "https://fortune.com/2026/08/21/ai-4-day-workweek-fridays-dimon-gates-keynes/",
-      "source": "fortune.com",
-      "published": "2026-08-21T15:42:59+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
