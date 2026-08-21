@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-21T21:30:38.401701+00:00",
+  "last_updated": "2026-08-21T22:31:37.710064+00:00",
   "headlines": [
+    {
+      "title": "Warren Buffett Successor Greg Abel Cut Berkshire's Bank of America Stake by $1.7 Billion. He Added $1.6 Billion of Delta Air Lines.",
+      "url": "https://www.fool.com/investing/2026/08/21/warren-buffett-successor-greg-abel-cut-berkshire-s-bank-of-america-stake-by-usd1-7-billion-he-added-usd1-6-billion-of-delta-air-lines/",
+      "source": "fool.com",
+      "published": "2026-08-21T21:53:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/",
+      "source": "247wallst.com",
+      "published": "2026-08-21T21:05:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Santander Completes Webster Acquisition, Creating $327 Billion U.S. Bank Serving Nearly 8 Million Customers",
+      "url": "https://pulse2.com/santander-completes-webster-acquisition-creating-327-billion-u-s-bank-serving-nearly-8-million-customers/",
+      "source": "pulse2.com",
+      "published": "2026-08-21T20:59:28+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
     {
       "title": "Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions",
       "url": "https://cryptobriefing.com/goldman-sachs-oil-iran-sanctions-analysis/",
@@ -101,12 +129,32 @@
       ]
     },
     {
+      "title": "SEC charges former Bank of America investment banker with insider trading",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-charges-former-bank-america-202413058.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-21T20:24:13+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
       "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html?.tsrc=rss",
       "source": "yahoo.com",
       "published": "2026-08-21T20:17:03+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Why higher yields aren't scaring off retail traders",
+      "url": "https://finance.yahoo.com/video/why-higher-yields-arent-scaring-201500563.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-21T20:15:00+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
       ]
     },
     {
@@ -123,6 +171,15 @@
       "url": "https://www.pymnts.com/personnel/2026/former-jpmorgan-coo-matt-zames-to-advise-social-security-administration-on-modernization/",
       "source": "pymnts.com",
       "published": "2026-08-21T20:12:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Financial Company LLC Declares Quarterly Coupon on Alerian MLP Index ETN",
+      "url": "https://finance.yahoo.com/markets/options/articles/jpmorgan-chase-financial-company-llc-201000025.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-21T20:10:00+00:00",
       "tickers": [
         "JPM"
       ]
@@ -153,6 +210,16 @@
       "published": "2026-08-21T19:40:44+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "CrowdStrike needs more than a beat to keep investors happy",
+      "url": "https://www.thestreet.com/investing/stocks/crowdstrike-q2-earnings-preview-bofa?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-21T19:37:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -207,71 +274,6 @@
       "published": "2026-08-21T19:23:02+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "MRK Maintained by Goldman Sachs -- Price Target Raised to $160",
-      "url": "https://www.gurufocus.com/news/9048011/mrk-maintained-by-goldman-sachs-price-target-raised-to-160",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T19:23:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "EROK Maintained by Goldman Sachs -- Price Target Raised to $28.00",
-      "url": "https://www.gurufocus.com/news/9048009/erok-maintained-by-goldman-sachs-price-target-raised-to-2800",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T19:23:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA Sees a Stock Market Setup Starting to Change",
-      "url": "https://www.gurufocus.com/news/9047823/bofa-sees-a-stock-market-setup-starting-to-change",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T19:23:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-shield-visa-card-185336564.html",
-      "source": "yahoo.com",
-      "published": "2026-08-21T18:53:36+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Bethesda bank back open after gas leak prompts evacuation",
-      "url": "https://www.mymcmedia.org/bethesda-bank-back-open-after-gas-leak-prompts-evacuation/",
-      "source": "mymcmedia.org",
-      "published": "2026-08-21T18:47:56+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "O-I Glass surges as Citi upgrades to Buy after YTD plunge",
-      "url": "https://seekingalpha.com/news/4635969-o-i-glass-surges-as-citi-upgrades-to-buy-after-ytd-plunge",
-      "source": "seekingalpha.com",
-      "published": "2026-08-21T18:42:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ROST Maintained by Morgan Stanley -- Price Target Raised to $234",
-      "url": "https://www.gurufocus.com/news/9047959/rost-maintained-by-morgan-stanley-price-target-raised-to-234",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T18:37:22+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
