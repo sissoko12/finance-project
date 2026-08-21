@@ -1,278 +1,278 @@
 {
-  "last_updated": "2026-08-21T17:35:16.600038+00:00",
+  "last_updated": "2026-08-21T18:47:01.257149+00:00",
   "headlines": [
     {
-      "title": "JPMorgan Chase & Co. Lowers Advance Auto Parts (NYSE:AAP) Price Target to $55.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-advance-auto-parts-nyseaap-price-target-to-5500-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:32+00:00",
+      "title": "Bank of America's Stock Market Signal Flashes Warning",
+      "url": "https://www.gurufocus.com/news/9047819/bank-of-americas-stock-market-signal-flashes-warning",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T18:11:29+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Walmart (NASDAQ:WMT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-has-lowered-expectations-for-walmart-nasdaqwmt-stock-price-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts NRG Energy (NYSE:NRG) Price Target to $162.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-cuts-nrg-energy-nysenrg-price-target-to-16200-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ONE Gas (NYSE:OGS) Given New $82.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/one-gas-nyseogs-given-new-8200-price-target-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Pacific Gas & Electric (NYSE:PCG) Price Target Cut to $22.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/pacific-gas-electric-nysepcg-price-target-cut-to-2200-by-analysts-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PPL (NYSE:PPL) Given New $42.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/ppl-nyseppl-given-new-4200-price-target-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Public Service Enterprise Group (NYSE:PEG) Price Target Lowered to $91.00 at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/public-service-enterprise-group-nysepeg-price-target-lowered-to-9100-at-morgan-stanley-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Sempra Energy (NYSE:SRE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-sempra-energy-nysesre-stock-price-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:48:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Exelon (NASDAQ:EXC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-pessimistic-forecast-for-exelon-nasdaqexc-stock-price-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Lowers MGE Energy (NASDAQ:MGEE) Price Target to $74.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-mge-energy-nasdaqmgee-price-target-to-7400-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Moderna (NASDAQ:MRNA) Price Target Raised to $77.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/moderna-nasdaqmrna-price-target-raised-to-7700-at-jpmorgan-chase-co-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "News (NASDAQ:NWSA) Price Target Raised to $38.00",
-      "url": "https://www.marketbeat.com/instant-alerts/news-nasdaqnwsa-price-target-raised-to-3800-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Boosts Progyny (NASDAQ:PGNY) Price Target to $30.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-boosts-progyny-nasdaqpgny-price-target-to-3000-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Okta (NASDAQ:OKTA) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-okta-nasdaqokta-stock-price-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Deere & Company (NYSE:DE) Price Target Raised to $585.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/deere-company-nysede-price-target-raised-to-58500-at-jpmorgan-chase-co-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Raises Ross Stores (NASDAQ:ROST) Price Target to $272.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-raises-ross-stores-nasdaqrost-price-target-to-27200-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Sinclair (NASDAQ:SBGI) Price Target Raised to $15.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/sinclair-nasdaqsbgi-price-target-raised-to-1500-at-jpmorgan-chase-co-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Lowers Edison International (NYSE:EIX) Price Target to $65.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-edison-international-nyseeix-price-target-to-6500-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Elastic (NYSE:ESTC) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/elastic-nyseestc-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Has Lowered Expectations for FirstEnergy (NYSE:FE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-firstenergy-nysefe-stock-price-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SentinelOne (NYSE:S) Given New $22.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/sentinelone-nyses-given-new-2200-price-target-at-jpmorgan-chase-co-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T16:24:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Now Is the Time to Buy in Commercial Real Estate: Morgan Stanley",
-      "url": "https://commercialobserver.com/2026/08/morgan-stanley-real-estate-investment-strategy-2026/",
-      "source": "commercialobserver.com",
-      "published": "2026-08-21T16:17:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Jim O’Neill declines job in Andy Burnham’s government",
-      "url": "https://www.ft.com/content/7b162fb4-8889-4f9c-9d5b-878850d6e8af?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-08-21T16:05:12+00:00",
+      "title": "Goldman Sachs Jumps as Banks Power the Dow Rebound",
+      "url": "https://www.gurufocus.com/news/9047817/goldman-sachs-jumps-as-banks-power-the-dow-rebound",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T18:11:29+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "POR Upgraded by Wells Fargo -- Price Target Raised to $58.00",
-      "url": "https://www.gurufocus.com/news/9047796/por-upgraded-by-wells-fargo-price-target-raised-to-5800",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
+      "title": "Bank of America banker accused of insider trading by SEC over $8.1B deal",
+      "url": "https://cryptobriefing.com/bank-of-america-banker-insider-trading-sec/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-21T18:08:22+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "CEG Maintained by Morgan Stanley -- Price Target Lowered to $364",
-      "url": "https://www.gurufocus.com/news/9047803/ceg-maintained-by-morgan-stanley-price-target-lowered-to-364",
+      "title": "OGE Maintains Rating by Morgan Stanley -- Price Target Lowered to $49",
+      "url": "https://www.gurufocus.com/news/9047933/oge-maintains-rating-by-morgan-stanley-price-target-lowered-to-49",
       "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
+      "published": "2026-08-21T18:01:59+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "ROST Maintained by Wells Fargo -- Price Target Raised to $248",
-      "url": "https://www.gurufocus.com/news/9047799/rost-maintained-by-wells-fargo-price-target-raised-to-248",
+      "title": "NRG Maintained by Morgan Stanley -- Price Target Lowered to $162",
+      "url": "https://www.gurufocus.com/news/9047932/nrg-maintained-by-morgan-stanley-price-target-lowered-to-162",
       "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "D Maintained by Morgan Stanley -- Price Target Lowered to $68",
-      "url": "https://www.gurufocus.com/news/9047808/d-maintained-by-morgan-stanley-price-target-lowered-to-68",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
+      "published": "2026-08-21T18:01:31+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "WMT Maintained by Wells Fargo -- Price Target Lowered to $120",
-      "url": "https://www.gurufocus.com/news/9047804/wmt-maintained-by-wells-fargo-price-target-lowered-to-120",
+      "title": "NEE Maintained by Morgan Stanley -- Price Target Lowered to $114",
+      "url": "https://www.gurufocus.com/news/9047931/nee-maintained-by-morgan-stanley-price-target-lowered-to-114",
       "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ED Maintained by Morgan Stanley -- Price Target Lowered to $101",
-      "url": "https://www.gurufocus.com/news/9047798/ed-maintained-by-morgan-stanley-price-target-lowered-to-101",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
+      "published": "2026-08-21T18:01:05+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "AAP Maintains by Wells Fargo -- Price Target Lowered to $50.00",
-      "url": "https://www.gurufocus.com/news/9047801/aap-maintains-by-wells-fargo-price-target-lowered-to-5000",
+      "title": "WMT Maintained by JP Morgan -- Price Target Lowered to $125",
+      "url": "https://www.gurufocus.com/news/9047929/wmt-maintained-by-jp-morgan-price-target-lowered-to-125",
       "source": "gurufocus.com",
-      "published": "2026-08-21T16:05:07+00:00",
+      "published": "2026-08-21T18:00:26+00:00",
       "tickers": [
-        "WFC",
+        "JPM"
+      ]
+    },
+    {
+      "title": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
+      "source": "bloomberg.com",
+      "published": "2026-08-21T18:00:03+00:00",
+      "tickers": [
+        "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "A former JPMorgan Chase executive is joining Social Security as an unpaid tech advisor",
+      "url": "https://qz.com/matt-zames-jpmorgan-social-security-administration-tech-advisor-082126",
+      "source": "qz.com",
+      "published": "2026-08-21T17:50:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AAP Maintained by JP Morgan -- Price Target Lowered to $55",
+      "url": "https://www.gurufocus.com/news/9047904/aap-maintained-by-jp-morgan-price-target-lowered-to-55",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:39:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SBGI Maintained by JP Morgan -- Price Target Raised to $15.00",
+      "url": "https://www.gurufocus.com/news/9047903/sbgi-maintained-by-jp-morgan-price-target-raised-to-1500",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:39:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "S Maintained by JP Morgan -- Price Target Raised to $22.00",
+      "url": "https://www.gurufocus.com/news/9047902/s-maintained-by-jp-morgan-price-target-raised-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:39:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ROST Maintained by JP Morgan -- Price Target Raised to $272",
+      "url": "https://www.gurufocus.com/news/9047901/rost-maintained-by-jp-morgan-price-target-raised-to-272",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:38:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PGNY Maintained by JP Morgan -- Price Target Raised to $30.00",
+      "url": "https://www.gurufocus.com/news/9047900/pgny-maintained-by-jp-morgan-price-target-raised-to-3000",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:38:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MGEE Maintained by Morgan Stanley -- Price Target Lowered to $74",
+      "url": "https://www.gurufocus.com/news/9047899/mgee-maintained-by-morgan-stanley-price-target-lowered-to-74",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:37:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "OKTA Maintained by JP Morgan -- Price Target Raised to $165",
+      "url": "https://www.gurufocus.com/news/9047898/okta-maintained-by-jp-morgan-price-target-raised-to-165",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:37:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "IDACORP (IDA) Maintained by Morgan Stanley -- Price Target Lowered to $151",
+      "url": "https://www.gurufocus.com/news/9047897/idacorp-ida-maintained-by-morgan-stanley-price-target-lowered-to-151",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:36:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "FE Maintained by Morgan Stanley -- Price Target Lowered to $52",
+      "url": "https://www.gurufocus.com/news/9047896/fe-maintained-by-morgan-stanley-price-target-lowered-to-52",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:36:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "NWSA Maintained by JP Morgan -- Price Target Raised to $38.00",
+      "url": "https://www.gurufocus.com/news/9047895/nwsa-maintained-by-jp-morgan-price-target-raised-to-3800",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:36:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EXC Maintained by Morgan Stanley -- Price Target Lowered to $53.00",
+      "url": "https://www.gurufocus.com/news/9047894/exc-maintained-by-morgan-stanley-price-target-lowered-to-5300",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:35:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MRNA Maintained by JP Morgan -- Price Target Raised to $77.00",
+      "url": "https://www.gurufocus.com/news/9047893/mrna-maintained-by-jp-morgan-price-target-raised-to-7700",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:35:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ETR Maintained by Morgan Stanley -- Price Target Lowered to $105",
+      "url": "https://www.gurufocus.com/news/9047892/etr-maintained-by-morgan-stanley-price-target-lowered-to-105",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:34:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ESTC Maintained by JP Morgan -- Price Target Raised to $93",
+      "url": "https://www.gurufocus.com/news/9047891/estc-maintained-by-jp-morgan-price-target-raised-to-93",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:34:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "DE Maintained by JP Morgan -- Price Target Raised to $585",
+      "url": "https://www.gurufocus.com/news/9047890/de-maintained-by-jp-morgan-price-target-raised-to-585",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:33:56+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EIX Maintained by Morgan Stanley -- Price Target Lowered to $65.00",
+      "url": "https://www.gurufocus.com/news/9047889/eix-maintained-by-morgan-stanley-price-target-lowered-to-6500",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:33:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BF/B Maintained by JP Morgan -- Price Target Raised to $26.00",
+      "url": "https://www.gurufocus.com/news/9047888/bfb-maintained-by-jp-morgan-price-target-raised-to-2600",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:33:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BABA Maintained by JP Morgan -- Price Target Raised to $210",
+      "url": "https://www.gurufocus.com/news/9047887/baba-maintained-by-jp-morgan-price-target-raised-to-210",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:33:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ServiceNow investors must consider latest alert from Bank of America",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-investors-must-consider-latest-173300015.html",
+      "source": "yahoo.com",
+      "published": "2026-08-21T17:33:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "DUK Maintained by Morgan Stanley -- Price Target Lowered to $133",
+      "url": "https://www.gurufocus.com/news/9047885/duk-maintained-by-morgan-stanley-price-target-lowered-to-133",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T17:32:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Has Lowered Expectations for Xcel Energy (NASDAQ:XEL) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-has-lowered-expectations-for-xcel-energy-nasdaqxel-stock-price-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T17:18:29+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
