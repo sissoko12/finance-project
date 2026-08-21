@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T05:06:16.829278+00:00",
+  "last_updated": "2026-08-21T06:00:14.437325+00:00",
   "headlines": [
+    {
+      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+      "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
+      "source": "cnbc.com",
+      "published": "2026-08-21T05:27:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "S$^2$GS: Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction on Edge-IoT Devices",
+      "url": "https://arxiv.org/abs/2608.19639",
+      "source": "arxiv.org",
+      "published": "2026-08-21T04:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Man sued local governments in WA over Flock records. He’s won $300K",
       "url": "https://www.cascadiadaily.com/2026/aug/20/a-man-has-sued-local-governments-in-wa-over-flock-records-hes-gotten-300k/?utm_source=rss&utm_medium=rss&utm_campaign=a-man-has-sued-local-governments-in-wa-over-flock-records-hes-gotten-300k",
@@ -26,6 +44,16 @@
       "source": "gurufocus.com",
       "published": "2026-08-21T03:51:01+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Banking | Finance 2026: GWEN FAW",
+      "url": "https://virginiabusiness.com/banking-finance-2026-gwen-faw/",
+      "source": "virginiabusiness.com",
+      "published": "2026-08-21T03:48:05+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -247,34 +275,6 @@
       "published": "2026-08-20T21:09:03+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024392/0001918704-26-024392-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T21:08:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley picks Dallas for expansion outside NYC — stepping up Wall Street exodus following Mamdani election: ‘Wake-up call’",
-      "url": "https://nypost.com/2026/08/20/business/morgan-stanley-picks-dallas-for-expansion-outside-nyc-wall-street-exodus-zohran-mamdani-election/",
-      "source": "nypost.com",
-      "published": "2026-08-20T21:07:15+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi Field racoon reaches through hole in stands to grab food during game",
-      "url": "https://www.fox9.com/news/citi-field-raccoon-video-new-york-mets-game",
-      "source": "fox9.com",
-      "published": "2026-08-20T21:05:20+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
