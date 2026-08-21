@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T01:46:03.016375+00:00",
+  "last_updated": "2026-08-21T03:09:38.070439+00:00",
   "headlines": [
+    {
+      "title": "India’s Quick Rebuke of JPMorgan Unit Seen as Warning to Traders",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/india-s-quick-rebuke-of-jpmorgan-unit-seen-as-warning-to-traders",
+      "source": "bloomberg.com",
+      "published": "2026-08-21T01:51:07+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Apax Packs Up Tosca for Goldman Sachs",
+      "url": "https://peprofessional.com/2026/08/apax-hands-off-reusable-packaging-firm-tosca-to-goldman-sachs-alternatives/",
+      "source": "peprofessional.com",
+      "published": "2026-08-21T01:36:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Quote of the Day by Jamie Dimon: “Some of your success will be how you deal with the...” — Inspiring life lesson on navigating failure, career setbacks, emotional processing, and personal accountability, exploring why permitting temporary grief is a necessary pitstop on the path to enduri",
       "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-jamie-dimon-some-of-your-success-will-be-how-you-deal-with-the-inspiring-life-lesson-on-navigating-failure-career-setbacks-emotional-processing-and-personal-accountability-exploring-why-permitting-temporary-grief-is-a-necessary-pitstop-on-the-path-to-enduring-achievement-by-the-jpmorgan-chase-ceo/articleshow/133382378.cms",
@@ -103,12 +121,30 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092209/0001213900-26-092209-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-20T21:29:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Morgan Stanley picks Dallas for expansion out of NYC — stepping up Wall Street exodus from Mamdani",
       "url": "https://awesomecapital.blogspot.com/2026/08/morgan-stanley-picks-dallas-for.html",
       "source": "awesomecapital.blogspot.com",
       "published": "2026-08-20T21:28:47+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "OCC Greenlights Brazil Banking Giant's Bid To Form US Bank",
+      "url": "https://www.law360.com/banking/articles/2515960?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-20T21:28:00+00:00",
+      "tickers": [
+        "USB"
       ]
     },
     {
@@ -178,6 +214,15 @@
       ]
     },
     {
+      "title": "Morgan Stanley picks Dallas for expansion outside NYC — stepping up Wall Street exodus following Mamdani election: ‘Wake-up call’",
+      "url": "https://nypost.com/2026/08/20/business/morgan-stanley-picks-dallas-for-expansion-outside-nyc-wall-street-exodus-zohran-mamdani-election/",
+      "source": "nypost.com",
+      "published": "2026-08-20T21:07:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Citi Field racoon reaches through hole in stands to grab food during game",
       "url": "https://www.fox9.com/news/citi-field-raccoon-video-new-york-mets-game",
       "source": "fox9.com",
@@ -202,62 +247,6 @@
       "published": "2026-08-20T21:05:09+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000278/0000895421-26-000278-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T20:50:07+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs raises NetEase stock price target on gaming strength",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-netease-stock-price-target-on-gaming-strength-93CH-4870527",
-      "source": "investing.com",
-      "published": "2026-08-20T20:48:56+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040914/0001839882-26-040914-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T20:48:52+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "XLF vs EUFN: Is a U.S. Financials ETF Superior to a Europe-Focused Fund?",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/20/xlf-vs-eufn-is-a-u-s-financials-etf-superior-to-a-europe-focused-fund/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-20T20:44:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226040911/0001839882-26-040911-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T20:41:27+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226040908/0001839882-26-040908-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-20T20:35:52+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
