@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-21T14:07:48.308593+00:00",
+  "last_updated": "2026-08-21T15:04:54.469969+00:00",
   "headlines": [
+    {
+      "title": "John Ternus as CEO could bring ‘bigger acquisitions,’ new product categories: analyst",
+      "url": "https://9to5mac.com/2026/08/21/john-ternus-as-ceo-could-bring-bigger-acquisitions-new-product-categories-analyst/",
+      "source": "9to5mac.com",
+      "published": "2026-08-21T14:05:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Euro Could Go Lower From Here, Yu Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/euro-could-go-lower-from-here-yu-says-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-21T14:01:19+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
     {
       "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
       "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
@@ -20,6 +39,35 @@
       ]
     },
     {
+      "title": "Mobility Global (NYSE:MBGL) Now Covered by Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13553113/mobility-global-nysembgl-now-covered-by-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T13:38:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "TrinityBridge Ltd Takes $138.55 Million Position in Capital One Financial Corporation $COF",
+      "url": "https://www.tickerreport.com/banking-finance/13553114/trinitybridge-ltd-takes-138-55-million-position-in-capital-one-financial-corporation-cof.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T13:38:55+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "TX Upgraded by Morgan Stanley -- Price Target Raised to $65",
+      "url": "https://www.gurufocus.com/news/9047550/tx-upgraded-by-morgan-stanley-price-target-raised-to-65",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T13:30:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Too bullish? BofA’s gauge just hit a sell signal",
       "url": "https://seekingalpha.com/news/4635873-too-bullish-bofas-gauge-just-hit-a-sell-signal",
       "source": "seekingalpha.com",
@@ -36,6 +84,24 @@
       "published": "2026-08-21T13:29:11+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Recent Ratings Updates for Ultragenyx Pharmaceutical (RARE)",
+      "url": "https://www.tickerreport.com/banking-finance/13553103/research-analysts-recent-ratings-updates-for-ultragenyx-pharmaceutical-rare.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T13:26:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DoubleVerify's (DV) \"Neutral\" Rating Reaffirmed at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/doubleverifys-dv-neutral-rating-reaffirmed-at-jpmorgan-chase-co-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T13:24:28+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -214,70 +280,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "JPMorgan warns Treasury buybacks delay U.S. debt problem",
-      "url": "https://qz.com/jpmorgan-treasury-bond-buybacks-debt-warning-082126?.tsrc=rss",
-      "source": "qz.com",
-      "published": "2026-08-21T12:21:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Labubu-maker Pop Mart stock sinks after overseas sales slumped — and Citi cuts its outlook",
-      "url": "https://qz.com/pop-mart-stock-overseas-sales-slump-citi-price-target-082126",
-      "source": "qz.com",
-      "published": "2026-08-21T12:20:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Walmart Stock Draws Two Target Cuts After a 9% Selloff",
-      "url": "https://www.gurufocus.com/news/9047417/walmart-stock-draws-two-target-cuts-after-a-9-selloff",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T12:13:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America reports US K-shaped economy is converging as lower-income spending catches up",
-      "url": "https://cryptobriefing.com/bank-of-america-k-shaped-economy-converging/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-21T12:10:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Hedge funds posted their worst month against the S&P 500 in 20 years as AI bets unwound",
-      "url": "https://qz.com/goldman-sachs-hedge-funds-worst-month-sp500-ai-unwind-082126",
-      "source": "qz.com",
-      "published": "2026-08-21T12:10:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bonds, Cryptos, Moderna Play Havoc With Markets. 2 Reasons for More Chaos.",
-      "url": "https://finance.yahoo.com/m/c2addf02-c4aa-3488-8228-f37392d94c73/bonds%2C-cryptos%2C-moderna-play.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-21T12:10:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs: hedge funds worst month vs. S&P 500 in 20 years",
-      "url": "https://qz.com/goldman-sachs-hedge-funds-worst-month-sp500-ai-unwind-082126?.tsrc=rss",
-      "source": "qz.com",
-      "published": "2026-08-21T12:09:04+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
