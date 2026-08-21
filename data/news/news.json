@@ -1,6 +1,109 @@
 {
-  "last_updated": "2026-08-21T11:35:17.091767+00:00",
+  "last_updated": "2026-08-21T13:01:02.013047+00:00",
   "headlines": [
+    {
+      "title": "Labubu-maker Pop Mart stock sinks after overseas sales slumped — and Citi cuts its outlook",
+      "url": "https://qz.com/pop-mart-stock-overseas-sales-slump-citi-price-target-082126",
+      "source": "qz.com",
+      "published": "2026-08-21T12:20:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Walmart Stock Draws Two Target Cuts After a 9% Selloff",
+      "url": "https://www.gurufocus.com/news/9047417/walmart-stock-draws-two-target-cuts-after-a-9-selloff",
+      "source": "gurufocus.com",
+      "published": "2026-08-21T12:13:31+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Hedge funds posted their worst month against the S&P 500 in 20 years as AI bets unwound",
+      "url": "https://qz.com/goldman-sachs-hedge-funds-worst-month-sp500-ai-unwind-082126",
+      "source": "qz.com",
+      "published": "2026-08-21T12:10:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Accel Entertainment (NYSE:ACEL) Upgraded to \"Hold\" at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/accel-entertainment-nyseacel-upgraded-to-hold-at-truist-financial-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T12:06:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Panthers predicted to lose 2026 season opener vs. Bears",
+      "url": "https://morganton.com/sports/professional/nfl/article_0fb3d4b2-b83f-5c96-bee1-7cb4ae248cef.html",
+      "source": "morganton.com",
+      "published": "2026-08-21T12:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs expands into India's government share sale market - report",
+      "url": "https://seekingalpha.com/news/4635819-goldman-sachs-expands-into-indias-government-share-sale-market---report",
+      "source": "seekingalpha.com",
+      "published": "2026-08-21T11:51:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Founders AM: Trading Desk on 1 particular miner",
+      "url": "https://vblgoldfix.substack.com/p/founders-am-trading-desk-on-1-particular",
+      "source": "substack.com",
+      "published": "2026-08-21T11:44:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA Names 5 European Semicap Stocks to Watch as China Import Data Shifts",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-names-5-european-semicap-stocks-to-watch-as-china-import-data-shifts-93CH-4871443",
+      "source": "investing.com",
+      "published": "2026-08-21T11:31:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo initiates Vivmark Residential stock with overweight rating",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-vivmark-residential-stock-with-overweight-rating-93CH-4871389",
+      "source": "investing.com",
+      "published": "2026-08-21T11:05:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Elon Musk Warned Delta—After It Passed On Starlink Wi-Fi, Customers Are Choosing Other Airlines Instead [Roundup]",
+      "url": "https://viewfromthewing.com/elon-musk-warned-delta-after-it-passed-on-starlink-wi-fi-customers-are-choosing-other-airlines-instead-roundup/",
+      "source": "viewfromthewing.com",
+      "published": "2026-08-21T11:04:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "LockBit Targets U.S. Bank in Fresh Ransomware Claim as Financial Sector Faces Renewed Pressure",
+      "url": "https://www.webpronews.com/lockbit-targets-u-s-bank-in-fresh-ransomware-claim-as-financial-sector-faces-renewed-pressure/",
+      "source": "webpronews.com",
+      "published": "2026-08-21T11:02:06+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
     {
       "title": "Simplicity Wealth LLC Invests $5.97 Million in Bank of America Corporation $BAC",
       "url": "https://www.tickerreport.com/banking-finance/13552725/simplicity-wealth-llc-invests-5-97-million-in-bank-of-america-corporation-bac.html",
@@ -90,6 +193,16 @@
       ]
     },
     {
+      "title": "Bank of America strategist warns of risk asset pressure if bond plan fails",
+      "url": "https://cryptobriefing.com/bofa-hartnett-bond-yields-risk-assets/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-21T10:09:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Greenspring Advisors LLC Invests $1.67 Million in Capital One Financial Corporation $COF",
       "url": "https://www.tickerreport.com/banking-finance/13552582/greenspring-advisors-llc-invests-1-67-million-in-capital-one-financial-corporation-cof.html",
       "source": "tickerreport.com",
@@ -173,119 +286,6 @@
       "published": "2026-08-21T09:55:37+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "JD Sports Fashion (LON:JD) Price Target Lowered to GBX 86 at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13552517/jd-sports-fashion-lonjd-price-target-lowered-to-gbx-86-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-21T09:55:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Vise Technologies Inc. Acquires 48,277 Shares of Truist Financial Corporation $TFC",
-      "url": "https://www.tickerreport.com/banking-finance/13552501/vise-technologies-inc-acquires-48277-shares-of-truist-financial-corporation-tfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-21T09:49:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Vise Technologies Inc. Makes New $5.76 Million Investment in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13552495/vise-technologies-inc-makes-new-5-76-million-investment-in-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-21T09:49:07+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Goldman's top economist says the Fed's opaque new communication style will stir up market 'cacophony'",
-      "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-21T09:40:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One is nerfing Discover's money market account. What are some good alternatives?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vubh8q/capital_one_is_nerfing_discovers_money_market/",
-      "source": "reddit.com",
-      "published": "2026-08-21T09:32:05+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Pallas Capital Advisors LLC Acquires New Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-acquires-new-position-in-the-goldman-sachs-group-inc-gs-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:20:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Performance Wealth Partners LLC Takes $5.92 Million Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-performance-wealth-partners-llc-takes-592-million-position-in-bank-of-america-corporation-bac-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:13:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "140,897 Shares in The Goldman Sachs Group, Inc. $GS Purchased by Performance Wealth Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-140897-shares-in-the-goldman-sachs-group-inc-gs-purchased-by-performance-wealth-partners-llc-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:13:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Orange County Employees Retirement System Invests $69.54 Billion in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-orange-county-employees-retirement-system-invests-6954-billion-in-the-goldman-sachs-group-inc-gs-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:13:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Perigon Wealth Management LLC Takes $10.28 Million Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-perigon-wealth-management-llc-takes-1028-million-position-in-the-goldman-sachs-group-inc-gs-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:13:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Oak Barrel Wealth Advisory LLC Makes New Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-barrel-wealth-advisory-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:13:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pursue Wealth Partners LLC Buys Shares of 1,325 The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pursue-wealth-partners-llc-buys-shares-of-1325-the-goldman-sachs-group-inc-gs-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T09:13:40+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
