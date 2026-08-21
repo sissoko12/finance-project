@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-08-21T10:02:29.596917+00:00",
+  "last_updated": "2026-08-21T10:59:10.375848+00:00",
   "headlines": [
+    {
+      "title": "Buy NZD/USD, BofA tells its clients",
+      "url": "https://www.investing.com/news/forex-news/buy-nzdusd-bofa-tells-its-clients-93CH-4871249",
+      "source": "investing.com",
+      "published": "2026-08-21T10:17:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA tracks building products sales momentum in second quarter",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-tracks-building-products-sales-momentum-in-second-quarter-93CH-4871243",
+      "source": "investing.com",
+      "published": "2026-08-21T10:12:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Greenspring Advisors LLC Invests $1.67 Million in Capital One Financial Corporation $COF",
+      "url": "https://www.tickerreport.com/banking-finance/13552582/greenspring-advisors-llc-invests-1-67-million-in-capital-one-financial-corporation-cof.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T10:09:40+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "12,029 Shares in The PNC Financial Services Group, Inc $PNC Bought by Mystic Asset Management Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-12029-shares-in-the-pnc-financial-services-group-inc-pnc-bought-by-mystic-asset-management-inc-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T10:09:31+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Portfolio Design Labs LLC Buys Shares of 8,061 Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-portfolio-design-labs-llc-buys-shares-of-8061-capital-one-financial-corporation-cof-2026-08-21/",
+      "source": "marketbeat.com",
+      "published": "2026-08-21T10:08:53+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "“Get Long And Buckle Up.” Jeff Currie Explains How To Play The “The Most Asymmetric Trade In Modern Financial History.”",
+      "url": "https://247wallst.com/investing/2026/08/21/get-long-and-buckle-up-jeff-currie-explains-how-to-play-the-the-most-asymmetric-trade-in-modern-financial-history/",
+      "source": "247wallst.com",
+      "published": "2026-08-21T10:03:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA’s Hartnett Sees Pressure on Risk Assets If Bond Plan Fails",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/bofa-s-hartnett-sees-pressure-on-risk-assets-if-bond-plan-fails",
+      "source": "bloomberg.com",
+      "published": "2026-08-21T10:01:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Vanguard Portfolio Stock to Buy Now for an Upside of 59%; Recommended by Citi",
+      "url": "https://tradebrains.in/vanguard-portfolio-stock-to-buy-now-for-an-upside-of-59-recommended-by-citi/",
+      "source": "tradebrains.in",
+      "published": "2026-08-21T10:01:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Is Bessent Facing a Bond Market Credibility Issue?",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/is-bessent-facing-a-bond-market-credibility-issue-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-21T09:58:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wall Street Analysts Need to be Vocab Whizzes",
+      "url": "https://www.thecorporatecounsel.net/blog/2026/08/wall-street-analysts-need-to-be-vocab-whizzes.html",
+      "source": "thecorporatecounsel.net",
+      "published": "2026-08-21T09:58:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Whitbread (LON:WTB) Price Target Raised to GBX 3,300",
+      "url": "https://www.tickerreport.com/banking-finance/13552521/whitbread-lonwtb-price-target-raised-to-gbx-3300.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T09:55:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JD Sports Fashion (LON:JD) Price Target Lowered to GBX 86 at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13552517/jd-sports-fashion-lonjd-price-target-lowered-to-gbx-86-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T09:55:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Vise Technologies Inc. Acquires 48,277 Shares of Truist Financial Corporation $TFC",
+      "url": "https://www.tickerreport.com/banking-finance/13552501/vise-technologies-inc-acquires-48277-shares-of-truist-financial-corporation-tfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T09:49:29+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Vise Technologies Inc. Makes New $5.76 Million Investment in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.tickerreport.com/banking-finance/13552495/vise-technologies-inc-makes-new-5-76-million-investment-in-the-pnc-financial-services-group-inc-pnc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-21T09:49:07+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Goldman's top economist says the Fed's opaque new communication style will stir up market 'cacophony'",
+      "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-21T09:40:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Pallas Capital Advisors LLC Acquires New Position in The Goldman Sachs Group, Inc. $GS",
       "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-acquires-new-position-in-the-goldman-sachs-group-inc-gs-2026-08-21/",
@@ -141,145 +285,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Ceredex Value Advisors LLC Invests $12.72 Million in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ceredex-value-advisors-llc-invests-1272-million-in-state-street-corporation-stt-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T08:25:46+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Ceredex Value Advisors LLC Acquires Shares of 105,422 Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ceredex-value-advisors-llc-acquires-shares-of-105422-capital-one-financial-corporation-cof-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T08:25:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs: U.S. Treasury Valuations Remain Stable Amid Sell-off",
-      "url": "https://www.gurufocus.com/news/9047279/goldman-sachs-us-treasury-valuations-remain-stable-amid-selloff",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T07:52:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Blue Owl Capital Holdings LP Buys New Shares in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-owl-capital-holdings-lp-buys-new-shares-in-capital-one-financial-corporation-cof-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T07:29:04+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "BlackRock Inc. Makes New Investment in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-blackrock-inc-makes-new-investment-in-the-goldman-sachs-group-inc-gs-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T07:22:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $2.52 Billion in KLA Corporation $KLAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-252-billion-in-kla-corporation-klac-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T07:21:57+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Baxter Bros Inc. Invests $1.92 Million in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-baxter-bros-inc-invests-192-million-in-bank-of-america-corporation-bac-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T07:21:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
-      "url": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
-      "source": "cnbc.com",
-      "published": "2026-08-21T07:18:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs lowers Walmart stock price target on valuation",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-walmart-stock-price-target-on-valuation-93CH-4870933",
-      "source": "investing.com",
-      "published": "2026-08-21T07:15:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Netweb Tech shares rise 4% as Nomura, Goldman Sachs invest in Rs 1,200 crore QIP",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-21T07:11:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Says Slowing Inflation Is Best Path to Lower US Yields",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/goldman-says-slowing-inflation-is-best-path-to-lower-us-yields",
-      "source": "bloomberg.com",
-      "published": "2026-08-21T07:10:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Muscles Into Indian Banks’ Turf With State Share Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/goldman-muscles-into-indian-banks-turf-with-state-share-deals",
-      "source": "bloomberg.com",
-      "published": "2026-08-21T07:04:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Appointed as Depositary Bank for Agilyx ASA's ADR Program",
-      "url": "http://www.businesswire.com/news/home/20260821283027/en/Citi-Appointed-as-Depositary-Bank-for-Agilyx-ASAs-ADR-Program/?feedref=JjAwJuNHiystnCoBq_hl-TyEgSuhBELnKvaQPCJeXjJsjl-iGIdlj3MGE-XwPk5d7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSlmbkWMvvoO9AhYYPMEAhQQ==",
-      "source": "businesswire.com",
-      "published": "2026-08-21T07:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Merrill, Lynette I - I Merrill Lynette Merrill passed away on August 3, 2026. A celebration ...",
-      "url": "https://www.idahostatejournal.com/obituaries/merrill-lynette-i/article_37b02005-3b0e-5de6-90a6-95790d71e3c6.html",
-      "source": "idahostatejournal.com",
-      "published": "2026-08-21T07:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Analyzes Long-Term U.S. Treasury Bond Valuation",
-      "url": "https://www.gurufocus.com/news/9047245/goldman-sachs-analyzes-longterm-us-treasury-bond-valuation",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T06:35:49+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
