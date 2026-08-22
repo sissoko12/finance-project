@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-22T12:51:52.348622+00:00",
+  "last_updated": "2026-08-22T13:36:50.338848+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading Down 1.3% – Time to Sell?",
+      "url": "https://www.tickerreport.com/banking-finance/13554420/jpmorgan-chase-co-nysejpm-trading-down-1-3-time-to-sell.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T12:20:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Our Top 10 High Growth Dividend Stocks - August 2026 | $CRS $UNCRY $STT $DELL $ATEYY",
       "url": "https://seekingalpha.com/article/4938350-our-top-10-high-growth-dividend-stocks-august-2026",
@@ -8,6 +17,16 @@
       "published": "2026-08-22T12:20:00+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "BofA maintains underperform ratings on six BDC stocks",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-maintains-underperform-ratings-on-six-bdc-stocks-93CH-4872361",
+      "source": "investing.com",
+      "published": "2026-08-22T12:09:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -260,26 +279,6 @@
       "source": "marketbeat.com",
       "published": "2026-08-22T07:24:57+00:00",
       "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New Investment in Boston Scientific Corporation $BSX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-boston-scientific-corporation-bsx-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:24:55+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New $338.86 Million Investment in Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-33886-million-investment-in-truist-financial-corporation-tfc-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:24:54+00:00",
-      "tickers": [
-        "C",
-        "TFC",
         "BK"
       ]
     }
