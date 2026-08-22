@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-22T05:54:57.567049+00:00",
+  "last_updated": "2026-08-22T06:51:24.717494+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley Cuts Lemonade (NYSE:LMND) Price Target to $56.00",
+      "url": "https://www.tickerreport.com/banking-finance/13553575/morgan-stanley-cuts-lemonade-nyselmnd-price-target-to-56-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T06:22:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Zeta Global (NYSE:ZETA) Price Target Raised to $34.00",
+      "url": "https://www.tickerreport.com/banking-finance/13553573/zeta-global-nysezeta-price-target-raised-to-34-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T06:13:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
       "url": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sells-lyft-in-favor-of-it/?source=iedfolrf0000001",
@@ -255,15 +274,6 @@
       "published": "2026-08-21T20:50:31+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041092/0001839882-26-041092-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T20:48:05+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
