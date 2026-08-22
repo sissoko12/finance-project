@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-22T03:00:15.505000+00:00",
+  "last_updated": "2026-08-22T04:07:21.505798+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs picks ICICI Bank, Kotak Mahindra Bank as top banking bets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-picks-icici-bank-kotak-mahindra-bank-as-top-banking-bets/articleshow/133416320.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-22T02:58:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Burnham economic adviser O'Neill rules out government job",
+      "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "published": "2026-08-22T02:53:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Zcash ETF Moves Closer After Grayscale Files Fifth Amendment",
       "url": "https://blockonomi.com/zcash-etf-moves-closer-after-grayscale-files-fifth-amendment/",
@@ -237,24 +255,6 @@
       "published": "2026-08-21T20:48:05+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "EBS Reinstated by JP Morgan -- Current Rating Underweight",
-      "url": "https://www.gurufocus.com/news/9048050/ebs-reinstated-by-jp-morgan-current-rating-underweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T20:32:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AMRN Reinstated by JP Morgan -- Rating Set to Underweight",
-      "url": "https://www.gurufocus.com/news/9048049/amrn-reinstated-by-jp-morgan-rating-set-to-underweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T20:32:23+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
