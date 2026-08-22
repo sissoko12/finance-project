@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-08-22T08:38:04.226512+00:00",
+  "last_updated": "2026-08-22T09:33:27.256858+00:00",
   "headlines": [
+    {
+      "title": "The anatomy of a Morgan Stanley intern: Chipotle, a gym membership, and a flashy bag",
+      "url": "https://www.businessinsider.com/morgan-stanley-wall-street-intern-survey-gen-z-brands-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-22T08:30:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "EP Wealth Advisors LLC Purchases 10,946 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ep-wealth-advisors-llc-purchases-10946-shares-of-citigroup-inc-c-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T08:25:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Danica Pension Livsforsikringsaktieselskab Has $21.80 Million Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-danica-pension-livsforsikringsaktieselskab-has-2180-million-position-in-the-goldman-sachs-group-inc-gs-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T08:02:10+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "D.A. Davidson & CO. Sells 5,550 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.tickerreport.com/banking-finance/13553598/d-a-davidson-co-sells-5550-shares-of-jpmorgan-chase-co-jpm.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T07:37:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "2,306,675 Shares in Airbnb, Inc. $ABNB Purchased by Bank of New York Mellon Corp",
+      "url": "https://www.tickerreport.com/banking-finance/13553592/2306675-shares-in-airbnb-inc-abnb-purchased-by-bank-of-new-york-mellon-corp.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T07:32:59+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
     {
       "title": "Bank of New York Mellon Corp Takes $536.46 Million Position in U.S. Bancorp $USB",
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-53646-million-position-in-us-bancorp-usb-2026-08-22/",
@@ -229,52 +274,6 @@
       "url": "https://www.gurufocus.com/news/9048086/aap-maintained-by-citigroup-price-target-lowered-to-45",
       "source": "gurufocus.com",
       "published": "2026-08-21T21:33:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TOL Maintained by Citigroup -- Price Target Raised to $179",
-      "url": "https://www.gurufocus.com/news/9048085/tol-maintained-by-citigroup-price-target-raised-to-179",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:33:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Warren Buffett Successor Greg Abel Cut Berkshire's Bank of America Stake by $1.7 Billion. He Added $1.6 Billion of Delta Air Lines.",
-      "url": "https://www.fool.com/investing/2026/08/21/warren-buffett-successor-greg-abel-cut-berkshire-s-bank-of-america-stake-by-usd1-7-billion-he-added-usd1-6-billion-of-delta-air-lines/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-21T21:33:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MRVL Maintains Buy Rating by Citigroup -- Price Target Raised to $275",
-      "url": "https://www.gurufocus.com/news/9048084/mrvl-maintains-buy-rating-by-citigroup-price-target-raised-to-275",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:32:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WMT Maintained by Citigroup -- Price Target Lowered to $132.00",
-      "url": "https://www.gurufocus.com/news/9048083/wmt-maintained-by-citigroup-price-target-lowered-to-13200",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:32:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ROST Maintained by Citigroup -- Price Target Raised to $290",
-      "url": "https://www.gurufocus.com/news/9048081/rost-maintained-by-citigroup-price-target-raised-to-290",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:31:45+00:00",
       "tickers": [
         "C"
       ]
