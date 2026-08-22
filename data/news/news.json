@@ -1,6 +1,109 @@
 {
-  "last_updated": "2026-08-22T06:51:24.717494+00:00",
+  "last_updated": "2026-08-22T07:37:07.589893+00:00",
   "headlines": [
+    {
+      "title": "Bank of New York Mellon Corp Takes $536.46 Million Position in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-53646-million-position-in-us-bancorp-usb-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:25:01+00:00",
+      "tickers": [
+        "USB",
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes $502.01 Million Position in Cheniere Energy, Inc. $LNG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-50201-million-position-in-cheniere-energy-inc-lng-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:25:01+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Sells 434,958 Shares of Mondelez International, Inc. $MDLZ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-434958-shares-of-mondelez-international-inc-mdlz-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:25:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes Position in PACCAR Inc. $PCAR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-paccar-inc-pcar-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:24:58+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New Investment in United Rentals, Inc. $URI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-united-rentals-inc-uri-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:24:57+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New Investment in Boston Scientific Corporation $BSX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-boston-scientific-corporation-bsx-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:24:55+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New $338.86 Million Investment in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-33886-million-investment-in-truist-financial-corporation-tfc-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:24:54+00:00",
+      "tickers": [
+        "C",
+        "TFC",
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Purchases New Position in Airbnb, Inc. $ABNB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-new-position-in-airbnb-inc-abnb-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:24:53+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Baxter Bros Inc. Makes New $8.45 Million Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-baxter-bros-inc-makes-new-845-million-investment-in-wells-fargo-company-wfc-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:24:36+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Blue Capital Inc. Purchases New Holdings in Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blue-capital-inc-purchases-new-holdings-in-citigroup-inc-c-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T07:23:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TWFG (NASDAQ:TWFG) Price Target Raised to $28.00",
+      "url": "https://www.tickerreport.com/banking-finance/13553578/twfg-nasdaqtwfg-price-target-raised-to-28-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T06:31:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Morgan Stanley Cuts Lemonade (NYSE:LMND) Price Target to $56.00",
       "url": "https://www.tickerreport.com/banking-finance/13553575/morgan-stanley-cuts-lemonade-nyselmnd-price-target-to-56-00.html",
@@ -174,106 +277,6 @@
       "published": "2026-08-21T21:31:16+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Launches $1.5 Trillion U.S. Innovation Infrastructure Initiative Across AI, Defense And Energy",
-      "url": "https://pulse2.com/morgan-stanley-launches-1-5-trillion-u-s-innovation-infrastructure-initiative-across-ai-defense-and-energy/",
-      "source": "pulse2.com",
-      "published": "2026-08-21T21:30:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "OI Upgraded by Citigroup -- Price Target Raised to $9.00",
-      "url": "https://www.gurufocus.com/news/9048079/oi-upgraded-by-citigroup-price-target-raised-to-900",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:30:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361331/0001193125-26-361331-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T21:28:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361328/0001193125-26-361328-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T21:26:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024512/0001918704-26-024512-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T21:23:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024503/0001918704-26-024503-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T21:10:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024502/0001918704-26-024502-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T21:08:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
-      "url": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/",
-      "source": "247wallst.com",
-      "published": "2026-08-21T21:05:02+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Santander Completes Webster Acquisition, Creating $327 Billion U.S. Bank Serving Nearly 8 Million Customers",
-      "url": "https://pulse2.com/santander-completes-webster-acquisition-creating-327-billion-u-s-bank-serving-nearly-8-million-customers/",
-      "source": "pulse2.com",
-      "published": "2026-08-21T20:59:28+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions",
-      "url": "https://cryptobriefing.com/goldman-sachs-oil-iran-sanctions-analysis/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-21T20:59:14+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman's Struyven: Hedge Crude's Swings with Diesel",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/goldman-s-struyven-hedge-crude-s-swings-with-diesel-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-21T20:50:31+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
