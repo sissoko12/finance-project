@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-08-22T13:36:50.338848+00:00",
+  "last_updated": "2026-08-22T14:28:12.520691+00:00",
   "headlines": [
+    {
+      "title": "Watch live: Minnesota Vikings vs. Baltimore Ravens NFL preseason game",
+      "url": "https://www.fox9.com/live-blog/sports/watch-live-minnesota-vikings-vs-baltimore-ravens-nfl-preseason-game",
+      "source": "fox9.com",
+      "published": "2026-08-22T13:46:23+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Direct Lending Fund: The Dividend Is Likely To Get Slashed (Rating Downgrade) | $FSK $TCPC $HRZN $HTFC $MSDL",
+      "url": "https://seekingalpha.com/article/4939242-morgan-stanley-direct-lending-fund-dividend-is-likely-to-get-slashed-rating-downgrade",
+      "source": "seekingalpha.com",
+      "published": "2026-08-22T13:15:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan’s tokenized T-bill products near $885M in market cap",
+      "url": "https://cryptobriefing.com/jpmorgan-tokenized-treasury-885m-market-cap/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-22T12:56:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading Down 1.3% – Time to Sell?",
       "url": "https://www.tickerreport.com/banking-finance/13554420/jpmorgan-chase-co-nysejpm-trading-down-1-3-time-to-sell.html",
@@ -30,12 +57,31 @@
       ]
     },
     {
+      "title": "What Do SEC Insider Trading Charges Mean For Bank Of America (BAC)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-insider-trading-charges-mean-120845833.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-22T12:08:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "BofA says CTA Treasury shorts stable, euro short-cover risk rises",
       "url": "https://www.investing.com/news/stock-market-news/bofa-says-cta-treasury-shorts-stable-euro-shortcover-risk-rises-93CH-4872336",
       "source": "investing.com",
       "published": "2026-08-22T11:40:48+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ninepoint Partners LP Acquires Shares of 4,142 Citigroup Inc. $C",
+      "url": "https://www.tickerreport.com/banking-finance/13554329/ninepoint-partners-lp-acquires-shares-of-4142-citigroup-inc-c.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T11:28:56+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -55,6 +101,16 @@
       "published": "2026-08-22T11:13:09+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Truist Financial (TFC) Could Be 10% Undervalued On Its Longer Term Earnings Narrative",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-financial-tfc-could-10-110933853.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-22T11:09:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -225,61 +281,6 @@
       "published": "2026-08-22T07:37:03+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "2,306,675 Shares in Airbnb, Inc. $ABNB Purchased by Bank of New York Mellon Corp",
-      "url": "https://www.tickerreport.com/banking-finance/13553592/2306675-shares-in-airbnb-inc-abnb-purchased-by-bank-of-new-york-mellon-corp.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-22T07:32:59+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes $536.46 Million Position in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-53646-million-position-in-us-bancorp-usb-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:25:01+00:00",
-      "tickers": [
-        "USB",
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes $502.01 Million Position in Cheniere Energy, Inc. $LNG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-50201-million-position-in-cheniere-energy-inc-lng-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:25:01+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Sells 434,958 Shares of Mondelez International, Inc. $MDLZ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-434958-shares-of-mondelez-international-inc-mdlz-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:25:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in PACCAR Inc. $PCAR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-paccar-inc-pcar-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:24:58+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New Investment in United Rentals, Inc. $URI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-united-rentals-inc-uri-2026-08-22/",
-      "source": "marketbeat.com",
-      "published": "2026-08-22T07:24:57+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
