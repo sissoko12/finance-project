@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-08-22T09:33:27.256858+00:00",
+  "last_updated": "2026-08-22T10:30:28.080404+00:00",
   "headlines": [
+    {
+      "title": "The Artificial Intelligence Arms Race: America Is Spending Billions, But China May Have Found a Cheaper Way to Win",
+      "url": "https://thepeopleseconomist.substack.com/p/the-artificial-intelligence-arms",
+      "source": "substack.com",
+      "published": "2026-08-22T10:02:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NewEdge Wealth LLC Makes New $1.46 Million Investment in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-makes-new-146-million-investment-in-capital-one-financial-corporation-cof-2026-08-22/",
+      "source": "marketbeat.com",
+      "published": "2026-08-22T09:21:12+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Says the Bottom 20% Were Left Behind. At 62, One Worker Couldn’t Afford Eight More Years Without Social Security.",
+      "url": "https://247wallst.com/personal-finance/social-security/2026/08/22/jamie-dimon-says-the-bottom-20-were-left-behind-at-62-one-worker-couldnt-afford-eight-more-years-without-social-security/",
+      "source": "247wallst.com",
+      "published": "2026-08-22T09:04:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Trivium Point Advisory LLC Makes New $570,000 Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.tickerreport.com/banking-finance/13553834/trivium-point-advisory-llc-makes-new-570000-investment-in-wells-fargo-company-wfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-22T08:59:20+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Reclaims Top Spot in XRP ETF Holdings as Ripple (XRP) Rallies 40%",
+      "url": "https://blockonomi.com/goldman-sachs-reclaims-top-spot-in-xrp-etf-holdings-as-ripple-xrp-rallies-40/",
+      "source": "blockonomi.com",
+      "published": "2026-08-22T08:37:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "The anatomy of a Morgan Stanley intern: Chipotle, a gym membership, and a flashy bag",
       "url": "https://www.businessinsider.com/morgan-stanley-wall-street-intern-survey-gen-z-brands-2026-8",
@@ -17,6 +64,15 @@
       "published": "2026-08-22T08:25:30+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Bank stocks to buy: Goldman Sachs remains bullish on 6 private bank stocks. Do you own any?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-to-buy-goldman-sachs-remains-bullish-on-6-private-bank-stocks-do-you-own-any/slideshow/133420450.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-22T08:09:31+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -218,62 +274,6 @@
       "url": "https://awfulannouncing.com/mlb/new-york-mets-ceremony-honor-broadcaster-howie-rose.html",
       "source": "awfulannouncing.com",
       "published": "2026-08-22T00:50:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "YWR: Killer Charts - Earnings are going vertical and the mega trend investors refuse ...",
-      "url": "https://www.ywr.world/p/ywr-killer-charts-5a9",
-      "source": "ywr.world",
-      "published": "2026-08-21T23:42:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Morgan Stanley Stock Rocked the Market Today",
-      "url": "https://www.fool.com/investing/2026/08/21/why-morgan-stanley-stock-rocked-the-market-today/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-21T23:39:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-nvidia-stock-forecast-ahead-of-q2-fy27-earnings?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-08-21T22:17:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America predicts a bolder Apple under new CEO John Ternus",
-      "url": "https://macdailynews.com/2026/08/21/bank-of-america-predicts-a-bolder-apple-under-new-ceo-john-ternus/",
-      "source": "macdailynews.com",
-      "published": "2026-08-21T22:00:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "INFQ Maintained by Citigroup -- Price Target Raised to $22.00",
-      "url": "https://www.gurufocus.com/news/9048087/infq-maintained-by-citigroup-price-target-raised-to-2200",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:34:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AAP Maintained by Citigroup -- Price Target Lowered to $45",
-      "url": "https://www.gurufocus.com/news/9048086/aap-maintained-by-citigroup-price-target-lowered-to-45",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:33:55+00:00",
       "tickers": [
         "C"
       ]
