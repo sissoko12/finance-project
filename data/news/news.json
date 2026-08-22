@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-22T21:51:19.944945+00:00",
+  "last_updated": "2026-08-22T22:28:49.148612+00:00",
   "headlines": [
+    {
+      "title": "Vikings linebacker Jake Golday pressures Baltimore Ravens quarterback Tyler Huntley in the first quarter of a preseason game at U.S. Bank Stadium on Saturday, Aug. 22, 2026, in Minneapolis.",
+      "url": "https://thebrunswicknews.com/news/national_news/vikings-linebacker-jake-golday-pressures-baltimore-ravens-quarterback-tyler-huntley-in-the-first-quarter-of/image_eaa4b9ce-7dc6-5e5f-8bbd-2923349d7f8b.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-08-22T21:23:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "The Memo - Special edition - Life at home with an AI agent - 22/Aug/2026",
+      "url": "https://lifearchitect.substack.com/p/the-memo-special-edition-life-at",
+      "source": "substack.com",
+      "published": "2026-08-22T21:22:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Did Ex-Morgan Stanley Broker Theodore Byrer Ignore Your Best Interests When By Recommending an Unsuitable Trading Strategy?",
       "url": "https://www.investorlawyers.com/blog/broker-misconduct-lawyer-8-2026/",
@@ -21,7 +39,7 @@
     },
     {
       "title": "Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-predicts-410-rally-2-180500861.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-predicts-410-rally-2-180500861.html?.tsrc=rss",
       "source": "yahoo.com",
       "published": "2026-08-22T18:05:00+00:00",
       "tickers": [
@@ -58,6 +76,15 @@
       ]
     },
     {
+      "title": "Can Morgan Stanley (MS) Stay A Bargain Or Is It Fully Priced?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stay-bargain-160935476.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-22T16:09:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "JPMorgan Chase: Getting Paid 6.4% While Waiting For Lower Interest Rates | $JPM",
       "url": "https://seekingalpha.com/article/4939208-jpmorgan-chase-getting-6-percent-while-waiting-for-lower-interest-rates",
       "source": "seekingalpha.com",
@@ -76,6 +103,16 @@
       ]
     },
     {
+      "title": "Regions Financial (RF) Stock Could Trade At A 48% Discount On Earnings Power",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-rf-stock-could-140743756.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-22T14:07:43+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
       "title": "Watch live: Minnesota Vikings vs. Baltimore Ravens NFL preseason game",
       "url": "https://www.fox9.com/live-blog/sports/watch-live-minnesota-vikings-vs-baltimore-ravens-nfl-preseason-game",
       "source": "fox9.com",
@@ -91,6 +128,15 @@
       "published": "2026-08-22T13:15:00+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Can Citigroup (C) Stay Reasonable After A 250% Three Year Gain?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-stay-reasonable-250-130857065.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-22T13:08:57+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -233,53 +279,6 @@
       "published": "2026-08-22T10:17:45+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pzena Investment Management LLC Takes Position in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13554084/pzena-investment-management-llc-takes-position-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-22T10:17:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MidFirst Bank Invests $4.32 Million in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13554080/midfirst-bank-invests-4-32-million-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-22T10:17:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Artificial Intelligence Arms Race: America Is Spending Billions, But China May Have Found a Cheaper Way to Win",
-      "url": "https://thepeopleseconomist.substack.com/p/the-artificial-intelligence-arms",
-      "source": "substack.com",
-      "published": "2026-08-22T10:02:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Sivia Capital Partners LLC Has $4.55 Million Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13554003/sivia-capital-partners-llc-has-4-55-million-position-in-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-22T09:54:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EP Wealth Advisors LLC Buys 10,946 Shares of Citigroup Inc. $C",
-      "url": "https://www.tickerreport.com/banking-finance/13553973/ep-wealth-advisors-llc-buys-10946-shares-of-citigroup-inc-c.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-22T09:41:44+00:00",
-      "tickers": [
         "C"
       ]
     }
