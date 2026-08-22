@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-21T23:55:05.088030+00:00",
+  "last_updated": "2026-08-22T01:39:22.419081+00:00",
   "headlines": [
+    {
+      "title": "Why Morgan Stanley Stock Rocked the Market Today",
+      "url": "https://www.fool.com/investing/2026/08/21/why-morgan-stanley-stock-rocked-the-market-today/",
+      "source": "fool.com",
+      "published": "2026-08-21T23:59:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "YWR: Killer Charts - Earnings are going vertical and the mega trend investors refuse ...",
+      "url": "https://www.ywr.world/p/ywr-killer-charts-5a9",
+      "source": "ywr.world",
+      "published": "2026-08-21T23:42:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
       "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-nvidia-stock-forecast-ahead-of-q2-fy27-earnings?.tsrc=rss",
@@ -11,10 +30,10 @@
       ]
     },
     {
-      "title": "Warren Buffett Successor Greg Abel Cut Berkshire's Bank of America Stake by $1.7 Billion. He Added $1.6 Billion of Delta Air Lines.",
-      "url": "https://www.fool.com/investing/2026/08/21/warren-buffett-successor-greg-abel-cut-berkshire-s-bank-of-america-stake-by-usd1-7-billion-he-added-usd1-6-billion-of-delta-air-lines/",
-      "source": "fool.com",
-      "published": "2026-08-21T21:53:01+00:00",
+      "title": "Bank of America predicts a bolder Apple under new CEO John Ternus",
+      "url": "https://macdailynews.com/2026/08/21/bank-of-america-predicts-a-bolder-apple-under-new-ceo-john-ternus/",
+      "source": "macdailynews.com",
+      "published": "2026-08-21T22:00:46+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -44,6 +63,16 @@
       "source": "gurufocus.com",
       "published": "2026-08-21T21:33:31+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Warren Buffett Successor Greg Abel Cut Berkshire's Bank of America Stake by $1.7 Billion. He Added $1.6 Billion of Delta Air Lines.",
+      "url": "https://www.fool.com/investing/2026/08/21/warren-buffett-successor-greg-abel-cut-berkshire-s-bank-of-america-stake-by-usd1-7-billion-he-added-usd1-6-billion-of-delta-air-lines/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-21T21:33:01+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -102,6 +131,24 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361331/0001193125-26-361331-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-21T21:28:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361328/0001193125-26-361328-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-21T21:26:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024512/0001918704-26-024512-index.htm",
       "source": "sec.gov",
@@ -112,21 +159,21 @@
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024506/0001918704-26-024506-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T21:14:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024503/0001918704-26-024503-index.htm",
       "source": "sec.gov",
       "published": "2026-08-21T21:10:16+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024502/0001918704-26-024502-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-21T21:08:03+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -166,6 +213,15 @@
       ]
     },
     {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041092/0001839882-26-041092-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-21T20:48:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "EBS Reinstated by JP Morgan -- Current Rating Underweight",
       "url": "https://www.gurufocus.com/news/9048050/ebs-reinstated-by-jp-morgan-current-rating-underweight",
       "source": "gurufocus.com",
@@ -199,80 +255,6 @@
       "published": "2026-08-21T20:31:28+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "NKTR Reinstated by JP Morgan -- Price Target Set at $65.00",
-      "url": "https://www.gurufocus.com/news/9048046/nktr-reinstated-by-jp-morgan-price-target-set-at-6500",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T20:31:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MBX Reinstated by JP Morgan -- Price Target Announced at $88.00",
-      "url": "https://www.gurufocus.com/news/9048045/mbx-reinstated-by-jp-morgan-price-target-announced-at-8800",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T20:30:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Qnity to Present at the Goldman Sachs Communacopia and Technology Conference",
-      "url": "http://www.businesswire.com/news/home/20260821341481/en/Qnity-to-Present-at-the-Goldman-Sachs-Communacopia-and-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-RqM1mp0fM08VkFYxQQxOu10ZZxv_xNbPs4Vvnqk1OarrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3mMpqLt6Q663ocghtsfF5Q97nKdfLXU1CD0fwzlM5l88g==",
-      "source": "businesswire.com",
-      "published": "2026-08-21T20:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form N-PX - Annual Report of proxy voting record of management investment companies",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000452/0000070858-26-000452-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-21T20:24:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Advance Auto Parts (NYSE:AAP) Price Target Lowered to $45.00 at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13553375/advance-auto-parts-nyseaap-price-target-lowered-to-45-00-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-21T20:24:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Advance Auto Parts (NYSE:AAP) Given New $45.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/advance-auto-parts-nyseaap-given-new-4500-price-target-at-citigroup-2026-08-21/",
-      "source": "marketbeat.com",
-      "published": "2026-08-21T20:24:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SEC charges former Bank of America investment banker with insider trading",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-charges-former-bank-america-202413058.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-21T20:24:13+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-21T20:17:03+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
