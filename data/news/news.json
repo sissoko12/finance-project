@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T07:37:07.589893+00:00",
+  "last_updated": "2026-08-22T08:38:04.226512+00:00",
   "headlines": [
     {
       "title": "Bank of New York Mellon Corp Takes $536.46 Million Position in U.S. Bancorp $USB",
@@ -121,6 +121,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reports AI is already reshaping labor markets across developed economies",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-labor-market-impact/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-22T06:06:46+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -266,15 +275,6 @@
       "url": "https://www.gurufocus.com/news/9048081/rost-maintained-by-citigroup-price-target-raised-to-290",
       "source": "gurufocus.com",
       "published": "2026-08-21T21:31:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "DE Maintained by Citigroup -- Price Target Raised to $650",
-      "url": "https://www.gurufocus.com/news/9048080/de-maintained-by-citigroup-price-target-raised-to-650",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T21:31:16+00:00",
       "tickers": [
         "C"
       ]
