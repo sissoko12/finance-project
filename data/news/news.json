@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-08-22T01:39:22.419081+00:00",
+  "last_updated": "2026-08-22T03:00:15.505000+00:00",
   "headlines": [
     {
-      "title": "Why Morgan Stanley Stock Rocked the Market Today",
-      "url": "https://www.fool.com/investing/2026/08/21/why-morgan-stanley-stock-rocked-the-market-today/",
-      "source": "fool.com",
-      "published": "2026-08-21T23:59:34+00:00",
+      "title": "Zcash ETF Moves Closer After Grayscale Files Fifth Amendment",
+      "url": "https://blockonomi.com/zcash-etf-moves-closer-after-grayscale-files-fifth-amendment/",
+      "source": "blockonomi.com",
+      "published": "2026-08-22T00:54:24+00:00",
       "tickers": [
-        "MS"
+        "BK"
+      ]
+    },
+    {
+      "title": "Mets will hold ceremony to honor retiring radio broadcaster Howie Rose",
+      "url": "https://awfulannouncing.com/mlb/new-york-mets-ceremony-honor-broadcaster-howie-rose.html",
+      "source": "awfulannouncing.com",
+      "published": "2026-08-22T00:50:00+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -18,6 +27,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Why Morgan Stanley Stock Rocked the Market Today",
+      "url": "https://www.fool.com/investing/2026/08/21/why-morgan-stanley-stock-rocked-the-market-today/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-21T23:39:34+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -235,24 +253,6 @@
       "url": "https://www.gurufocus.com/news/9048049/amrn-reinstated-by-jp-morgan-rating-set-to-underweight",
       "source": "gurufocus.com",
       "published": "2026-08-21T20:32:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "IMCR Reinstated by JP Morgan -- Rating Upgraded to Overweight",
-      "url": "https://www.gurufocus.com/news/9048048/imcr-reinstated-by-jp-morgan-rating-upgraded-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T20:31:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "STOK Reinstated by JP Morgan -- Price Target Set at $40",
-      "url": "https://www.gurufocus.com/news/9048047/stok-reinstated-by-jp-morgan-price-target-set-at-40",
-      "source": "gurufocus.com",
-      "published": "2026-08-21T20:31:28+00:00",
       "tickers": [
         "JPM"
       ]
