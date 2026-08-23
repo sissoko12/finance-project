@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-08-23T15:28:39.665325+00:00",
+  "last_updated": "2026-08-23T15:52:47.816431+00:00",
   "headlines": [
+    {
+      "title": "Fiscal Consolidation Is Not Fiscal Success: What the Last 50 Years Has Taught Us About Reducing the Federal Budget Deficit",
+      "url": "https://thepeopleseconomist.substack.com/p/fiscal-consolidation-is-not-fiscal",
+      "source": "substack.com",
+      "published": "2026-08-23T15:25:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Quantbot Technologies LP Acquires Shares of 22,940 Capital One Financial Corporation $COF",
+      "url": "https://www.tickerreport.com/banking-finance/13555646/quantbot-technologies-lp-acquires-shares-of-22940-capital-one-financial-corporation-cof.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T14:56:51+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Investor bullishness surges as BofA survey shows cash levels near historic lows",
+      "url": "https://finance.yahoo.com/markets/articles/investor-bullishness-surges-bofa-survey-141800790.html",
+      "source": "yahoo.com",
+      "published": "2026-08-23T14:18:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Inside Morgan Stanley’s XRP Shuffle: Three New ETFs and a Much Bigger SPAC Position",
       "url": "https://247wallst.com/investing/2026/08/23/inside-morgan-stanleys-xrp-shuffle-three-new-etfs-and-a-much-bigger-spac-position/",
@@ -47,6 +76,16 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Bank of America Sees a Different Apple Stock After Tim Cook",
+      "url": "https://watcher.guru/news/bank-of-america-sees-a-different-apple-stock-after-tim-cook",
+      "source": "watcher.guru",
+      "published": "2026-08-23T12:02:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -248,45 +287,6 @@
       "published": "2026-08-23T09:28:40+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by Tocqueville Asset Management L.P.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-tocqueville-asset-management-lp-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:28:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "one8zero8 LLC Takes $3.03 Million Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-one8zero8-llc-takes-303-million-position-in-bank-of-america-corporation-bac-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:21:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Kentucky Farm Bureau Mutual Insurance Co Takes Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kentucky-farm-bureau-mutual-insurance-co-takes-position-in-bank-of-america-corporation-bac-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:21:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "9,176 Shares in Bank of America Corporation $BAC Acquired by West Family Investments Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-9176-shares-in-bank-of-america-corporation-bac-acquired-by-west-family-investments-inc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:21:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
