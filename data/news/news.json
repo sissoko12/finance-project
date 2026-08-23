@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-23T18:38:39.659151+00:00",
+  "last_updated": "2026-08-23T19:27:04.635044+00:00",
   "headlines": [
+    {
+      "title": "J.P. Morgan just poured cold water on Bessent's bond fix",
+      "url": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-just-poured-184700637.html",
+      "source": "yahoo.com",
+      "published": "2026-08-23T18:47:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
+      "url": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman",
+      "source": "seekingalpha.com",
+      "published": "2026-08-23T18:31:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Financial Stocks To Add to Your Watchlist - August 23rd",
       "url": "https://www.marketbeat.com/instant-alerts/financial-stocks-to-add-to-your-watchlist-august-23rd-2026-08-23/",
@@ -270,26 +288,6 @@
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Varma Mutual Pension Insurance Co Acquires Shares of 84,034 The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-varma-mutual-pension-insurance-co-acquires-shares-of-84034-the-pnc-financial-services-group-inc-pnc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:00:52+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Mmbg Investment Advisors CO. Acquires New Shares in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13555122/mmbg-investment-advisors-co-acquires-new-shares-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-23T09:59:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
