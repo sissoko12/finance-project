@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-08-23T05:56:47.789643+00:00",
+  "last_updated": "2026-08-23T06:54:37.907990+00:00",
   "headlines": [
+    {
+      "title": "Cybin (NASDAQ:HELP) Price Target Raised to $62.00",
+      "url": "https://www.tickerreport.com/banking-finance/13554704/cybin-nasdaqhelp-price-target-raised-to-62-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T05:43:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Elastic (NYSE:ESTC) Price Target Raised to $100.00",
+      "url": "https://www.tickerreport.com/banking-finance/13554701/elastic-nyseestc-price-target-raised-to-100-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T05:30:52+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Which Energy ETF Is a Better Buy: Broad Vanguard Fund or Concentrated XLE?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/23/which-energy-etf-is-a-better-buy-broad-vanguard-fund-or-concentrated-xle/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-23T05:04:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Morgan Stanley Direct Lending: High Safety Margin Despite Non-Accrual Challenges | $ARCC $OBDC $BXSL $MSDL",
       "url": "https://seekingalpha.com/article/4939378-morgan-stanley-direct-lending-high-safety-margin-despite-non-accrual-challenges",
@@ -249,35 +278,6 @@
       "source": "blockonomi.com",
       "published": "2026-08-22T11:20:57+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GS: Gold Rally Can Wreck $4900 Target, Silver Joins the Party",
-      "url": "https://vblgoldfix.substack.com/p/gs-gold-rally-can-wreck-4900-target",
-      "source": "substack.com",
-      "published": "2026-08-22T11:13:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist Financial (TFC) Could Be 10% Undervalued On Its Longer Term Earnings Narrative",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-financial-tfc-could-10-110933853.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-22T11:09:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Can John Ternus Make Apple Surprise Us Again?",
-      "url": "https://www.webpronews.com/can-john-ternus-make-apple-surprise-us-again/",
-      "source": "webpronews.com",
-      "published": "2026-08-22T10:42:06+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
