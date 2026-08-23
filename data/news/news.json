@@ -1,6 +1,82 @@
 {
-  "last_updated": "2026-08-23T10:30:40.911355+00:00",
+  "last_updated": "2026-08-23T11:26:25.487211+00:00",
   "headlines": [
+    {
+      "title": "Goldman Says Chinese Easing Hopes Revive With Economy Growing 4%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/goldman-says-chinese-easing-hopes-revive-with-economy-growing-4",
+      "source": "bloomberg.com",
+      "published": "2026-08-23T10:36:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "S&G Foundation Makes New $33.82 Million Investment in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-foundation-makes-new-3382-million-investment-in-us-bancorp-usb-2026-08-23/",
+      "source": "marketbeat.com",
+      "published": "2026-08-23T10:25:45+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Haverford Trust Co Invests $5.65 Million in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-haverford-trust-co-invests-565-million-in-the-pnc-financial-services-group-inc-pnc-2026-08-23/",
+      "source": "marketbeat.com",
+      "published": "2026-08-23T10:25:41+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "S&G Foundation Takes $1 Million Position in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-foundation-takes-1-million-position-in-the-charles-schwab-corporation-schw-2026-08-23/",
+      "source": "marketbeat.com",
+      "published": "2026-08-23T10:25:28+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "25,773 Shares in State Street Corporation $STT Acquired by S&G Foundation",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-25773-shares-in-state-street-corporation-stt-acquired-by-sg-foundation-2026-08-23/",
+      "source": "marketbeat.com",
+      "published": "2026-08-23T10:25:27+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Kirtland Hills Capital Management LLC Makes New Investment in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kirtland-hills-capital-management-llc-makes-new-investment-in-the-charles-schwab-corporation-schw-2026-08-23/",
+      "source": "marketbeat.com",
+      "published": "2026-08-23T10:25:04+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Northwestern Mutual Wealth Management Co. Buys Shares of 48,117 The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.tickerreport.com/banking-finance/13555193/northwestern-mutual-wealth-management-co-buys-shares-of-48117-the-pnc-financial-services-group-inc-pnc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T10:17:50+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Vise Technologies Inc. Acquires 4,246 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13555140/vise-technologies-inc-acquires-4246-shares-of-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T10:03:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "W1M Asset Management Ltd Acquires New Holdings in Capital One Financial Corporation $COF",
       "url": "https://www.marketbeat.com/instant-alerts/filing-w1m-asset-management-ltd-acquires-new-holdings-in-capital-one-financial-corporation-cof-2026-08-23/",
@@ -29,6 +105,16 @@
       "tickers": [
         "C",
         "PNC"
+      ]
+    },
+    {
+      "title": "Mmbg Investment Advisors CO. Acquires New Shares in Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13555122/mmbg-investment-advisors-co-acquires-new-shares-in-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T09:59:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -205,94 +291,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Pzena Investment Management LLC Makes New $729.50 Million Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pzena-investment-management-llc-makes-new-72950-million-investment-in-wells-fargo-company-wfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:12:43+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pavion Blue Capital LLC Makes New $4.07 Million Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pavion-blue-capital-llc-makes-new-407-million-investment-in-wells-fargo-company-wfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:12:41+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pallas Capital Advisors LLC Buys Shares of 53,450 Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-buys-shares-of-53450-wells-fargo-company-wfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:12:31+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Perigon Wealth Management LLC Buys New Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-perigon-wealth-management-llc-buys-new-position-in-wells-fargo-company-wfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:12:30+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "48,612 Shares in Goldman Sachs S&P 500 Core Premium Income ETF $GPIX Bought by Compass Financial Management LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13554832/48612-shares-in-goldman-sachs-sp-500-core-premium-income-etf-gpix-bought-by-compass-financial-management-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-23T08:27:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Compass Financial Management LLC Makes New Investment in State Street SPDR Portfolio S&P 500 ETF $SPYM",
-      "url": "https://www.tickerreport.com/banking-finance/13554828/compass-financial-management-llc-makes-new-investment-in-state-street-spdr-portfolio-sp-500-etf-spym.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-23T08:27:10+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Elevation Point Wealth Partners LLC Buys Shares of 38,229 Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-elevation-point-wealth-partners-llc-buys-shares-of-38229-capital-one-financial-corporation-cof-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T08:17:42+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Daiichi Life Insurance Co. Ltd. Takes $5.19 Million Position in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-daiichi-life-insurance-co-ltd-takes-519-million-position-in-capital-one-financial-corporation-cof-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T08:17:36+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Daiichi Life Insurance Co. Ltd. Makes New $5.24 Million Investment in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-daiichi-life-insurance-co-ltd-makes-new-524-million-investment-in-the-pnc-financial-services-group-inc-pnc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T08:17:35+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
