@@ -1,6 +1,17 @@
 {
-  "last_updated": "2026-08-23T19:48:50.188583+00:00",
+  "last_updated": "2026-08-23T20:30:49.359775+00:00",
   "headlines": [
+    {
+      "title": "Wells Fargo and Citigroup Poised to Make a Major Move: 5 Regional Banks Perfect for Acquisition",
+      "url": "https://profitconfidential.com/wells-fargo-and-citigroup-have-room-to-buy-a-big-bank-these-5-regionals-fit-the-bill/",
+      "source": "profitconfidential.com",
+      "published": "2026-08-23T20:08:01+00:00",
+      "tickers": [
+        "WFC",
+        "C",
+        "BK"
+      ]
+    },
     {
       "title": "J.P. Morgan just poured cold water on Bessent's bond fix",
       "url": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-just-poured-184700637.html",
@@ -278,16 +289,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Varma Mutual Pension Insurance Co Increases Stock Holdings in Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-varma-mutual-pension-insurance-co-increases-stock-holdings-in-truist-financial-corporation-tfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:00:57+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
