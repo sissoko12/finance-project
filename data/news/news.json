@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T21:28:03.368149+00:00",
+  "last_updated": "2026-08-23T21:51:01.765789+00:00",
   "headlines": [
     {
       "title": "Wells Fargo and Citigroup Poised to Make a Major Move: 5 Regional Banks Perfect for Acquisition",
@@ -91,8 +91,8 @@
     },
     {
       "title": "Investor bullishness surges as BofA survey shows cash levels near historic lows",
-      "url": "https://finance.yahoo.com/markets/articles/investor-bullishness-surges-bofa-survey-141800790.html",
-      "source": "yahoo.com",
+      "url": "https://investorshub.advfn.com/market-news/article/34839/investor-bullishness-surges-as-bofa-survey-shows-cash-levels-near-historic-lows?.tsrc=rss",
+      "source": "advfn.com",
       "published": "2026-08-23T14:18:00+00:00",
       "tickers": [
         "BAC",
@@ -106,6 +106,15 @@
       "published": "2026-08-23T13:00:34+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bessent-no-easy-fix-really-130000330.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-23T13:00:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -279,15 +288,6 @@
       "tickers": [
         "C",
         "PNC"
-      ]
-    },
-    {
-      "title": "Vise Technologies Inc. Acquires 4,246 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13555140/vise-technologies-inc-acquires-4246-shares-of-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-23T10:03:53+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
