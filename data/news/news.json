@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-23T22:53:06.652451+00:00",
+  "last_updated": "2026-08-23T23:27:32.494202+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs spots huge twist ahead of Nvidia’s earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-spots-huge-twist-221700780.html",
+      "source": "yahoo.com",
+      "published": "2026-08-23T22:17:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Bank of America makes $1.9B bet on India lending market",
       "url": "https://www.charlotteobserver.com/news/business/article316874199.html#storylink=cpy#new_tab",
@@ -277,16 +286,6 @@
       "published": "2026-08-23T10:25:45+00:00",
       "tickers": [
         "USB"
-      ]
-    },
-    {
-      "title": "Haverford Trust Co Invests $5.65 Million in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-haverford-trust-co-invests-565-million-in-the-pnc-financial-services-group-inc-pnc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:25:41+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
