@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-23T12:53:07.902101+00:00",
+  "last_updated": "2026-08-23T13:37:16.377514+00:00",
   "headlines": [
+    {
+      "title": "Inside Morgan Stanley’s XRP Shuffle: Three New ETFs and a Much Bigger SPAC Position",
+      "url": "https://247wallst.com/investing/2026/08/23/inside-morgan-stanleys-xrp-shuffle-three-new-etfs-and-a-much-bigger-spac-position/",
+      "source": "247wallst.com",
+      "published": "2026-08-23T13:00:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Vista Investment Management Invests $3.38 Million in The PNC Financial Services Group, Inc $PNC",
       "url": "https://www.tickerreport.com/banking-finance/13555471/vista-investment-management-invests-3-38-million-in-the-pnc-financial-services-group-inc-pnc.html",
@@ -280,15 +289,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "4,670 Shares in Morgan Stanley $MS Purchased by Great Lakes Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-4670-shares-in-morgan-stanley-ms-purchased-by-great-lakes-advisors-llc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:20:49+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
