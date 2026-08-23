@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-23T11:26:25.487211+00:00",
+  "last_updated": "2026-08-23T11:49:44.146889+00:00",
   "headlines": [
+    {
+      "title": "Portfolio Design Labs LLC Increases Stake in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13555360/portfolio-design-labs-llc-increases-stake-in-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T11:11:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Korea Investment CORP Purchases New Holdings in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.tickerreport.com/banking-finance/13555320/korea-investment-corp-purchases-new-holdings-in-the-pnc-financial-services-group-inc-pnc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-23T10:53:06+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
     {
       "title": "Goldman Says Chinese Easing Hopes Revive With Economy Growing 4%",
       "url": "https://www.bloomberg.com/news/articles/2026-08-23/goldman-says-chinese-easing-hopes-revive-with-economy-growing-4",
@@ -270,26 +289,6 @@
       "published": "2026-08-23T09:12:55+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Rayburn West Financial Services LLC Purchases New Holdings in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-rayburn-west-financial-services-llc-purchases-new-holdings-in-wells-fargo-company-wfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:12:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Meeder Advisory Services Inc. Invests $6.25 Million in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-meeder-advisory-services-inc-invests-625-million-in-wells-fargo-company-wfc-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T09:12:44+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
