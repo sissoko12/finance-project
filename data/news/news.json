@@ -1,11 +1,40 @@
 {
-  "last_updated": "2026-08-23T22:29:11.013652+00:00",
+  "last_updated": "2026-08-23T22:53:06.652451+00:00",
   "headlines": [
+    {
+      "title": "Bank of America makes $1.9B bet on India lending market",
+      "url": "https://www.charlotteobserver.com/news/business/article316874199.html#storylink=cpy#new_tab",
+      "source": "charlotteobserver.com",
+      "published": "2026-08-23T22:00:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist falls 14 spots in customer reputation ranking",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/08/21/truist-customer-reputation-ranking-american-banker.html#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-08-23T21:56:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "Vikings after 13-3 preseason loss to Ravens: ‘We want to keep giving guys opportunities’",
       "url": "https://www.fox9.com/sports/vikings-after-13-3-preseason-loss-ravens-we-want-keep-giving-guys-opportunities",
       "source": "fox9.com",
       "published": "2026-08-23T21:35:03+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Vikings locker room reacts after 13-3 preseason loss to Ravens",
+      "url": "https://www.fox9.com/video/fmc-40v8q1ibt6wykb1t",
+      "source": "fox9.com",
+      "published": "2026-08-23T21:13:50+00:00",
       "tickers": [
         "USB"
       ]
@@ -258,35 +287,6 @@
       "tickers": [
         "C",
         "PNC"
-      ]
-    },
-    {
-      "title": "S&G Foundation Takes $1 Million Position in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-foundation-takes-1-million-position-in-the-charles-schwab-corporation-schw-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:25:28+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "25,773 Shares in State Street Corporation $STT Acquired by S&G Foundation",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-25773-shares-in-state-street-corporation-stt-acquired-by-sg-foundation-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:25:27+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Kirtland Hills Capital Management LLC Makes New Investment in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kirtland-hills-capital-management-llc-makes-new-investment-in-the-charles-schwab-corporation-schw-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:25:04+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
       ]
     }
   ]
