@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T17:49:46.467469+00:00",
+  "last_updated": "2026-08-23T18:38:39.659151+00:00",
   "headlines": [
     {
       "title": "Financial Stocks To Add to Your Watchlist - August 23rd",
@@ -21,6 +21,15 @@
         "JPM",
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Mount Prospect pivots in search for developer of former Chase building",
+      "url": "https://www.dailyherald.com/20260823/news/mount-prospect-pivots-in-search-for-developer-of-former-chase-building/",
+      "source": "dailyherald.com",
+      "published": "2026-08-23T16:20:22+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -281,16 +290,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Y'all Street is booming: What financial giants like Morgan Stanley and Goldman Sachs are building in Texas",
-      "url": "https://www.businessinsider.com/texas-finance-industry-growth-yall-street-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-23T09:39:02+00:00",
-      "tickers": [
-        "GS",
-        "MS"
       ]
     }
   ]
