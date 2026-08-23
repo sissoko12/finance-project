@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T20:30:49.359775+00:00",
+  "last_updated": "2026-08-23T21:28:03.368149+00:00",
   "headlines": [
     {
       "title": "Wells Fargo and Citigroup Poised to Make a Major Move: 5 Regional Banks Perfect for Acquisition",
@@ -10,6 +10,15 @@
         "WFC",
         "C",
         "BK"
+      ]
+    },
+    {
+      "title": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
+      "url": "https://www.fool.com/investing/2026/08/23/vistra-is-the-quietest-big-winner-of-the-ai-power/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-23T19:19:00+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -279,16 +288,6 @@
       "published": "2026-08-23T10:03:53+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "W1M Asset Management Ltd Acquires New Holdings in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-w1m-asset-management-ltd-acquires-new-holdings-in-capital-one-financial-corporation-cof-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:01:31+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
