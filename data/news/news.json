@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-23T23:27:32.494202+00:00",
+  "last_updated": "2026-08-23T23:50:15.793237+00:00",
   "headlines": [
+    {
+      "title": "China Gold Buying Far Exceeds Official PBOC Reports, Goldman Sachs Data Shows",
+      "url": "https://blockonomi.com/china-gold-buying-far-exceeds-official-pboc-reports-goldman-sachs-data-shows/",
+      "source": "blockonomi.com",
+      "published": "2026-08-23T23:13:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs spots huge twist ahead of Nvidia’s earnings",
       "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-spots-huge-twist-221700780.html",
@@ -277,15 +286,6 @@
       "published": "2026-08-23T10:36:15+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "S&G Foundation Makes New $33.82 Million Investment in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sg-foundation-makes-new-3382-million-investment-in-us-bancorp-usb-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T10:25:45+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
