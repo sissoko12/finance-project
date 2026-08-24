@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-08-24T15:11:10.659228+00:00",
+  "last_updated": "2026-08-24T16:05:24.930144+00:00",
   "headlines": [
+    {
+      "title": "US Economy Can Keep Growing Despite Higher Rates, Says House",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/house-us-economy-can-keep-growing-despite-higher-rates-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-24T15:22:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA finds AI is creating a credit divide that could reach consumers",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-finds-ai-creating-credit-150700772.html",
+      "source": "yahoo.com",
+      "published": "2026-08-24T15:07:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "source": "cnbc.com",
+      "published": "2026-08-24T15:00:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Global Anti-Scam Summit America Convenes Government Officials, Silicon Valley Leaders, Financial Services Executives and Law Enforcement in San Francisco for the First Time",
+      "url": "https://www.prnewswire.com/news-releases/global-anti-scam-summit-america-convenes-government-officials-silicon-valley-leaders-financial-services-executives-and-law-enforcement-in-san-francisco-for-the-first-time-302858380.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-24T15:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi maintains buy ratings on Argentina power firms amid sector shifts",
+      "url": "https://www.investing.com/news/stock-market-news/citi-maintains-buy-ratings-on-argentina-power-firms-amid-sector-shifts-93CH-4873877",
+      "source": "investing.com",
+      "published": "2026-08-24T14:55:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024543/0001918704-26-024543-index.htm",
@@ -8,6 +55,118 @@
       "published": "2026-08-24T14:53:09+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Is there a point to having multiple bank accounts?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vx4nxg/is_there_a_point_to_having_multiple_bank_accounts/",
+      "source": "reddit.com",
+      "published": "2026-08-24T14:38:27+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JMKE Initiated Coverage by Wells Fargo -- Price Target Announced at $25.00",
+      "url": "https://www.gurufocus.com/news/9049656/jmke-initiated-coverage-by-wells-fargo-price-target-announced-at-2500",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T14:37:13+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan warns of a downturn ahead and AI stocks may be to blame",
+      "url": "https://invezz.com/news/2026/08/24/jpmorgan-warns-of-a-downturn-ahead-and-ai-stocks-may-be-to-blame/",
+      "source": "invezz.com",
+      "published": "2026-08-24T14:34:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024533/0001918704-26-024533-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T14:28:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Suzano (NYSE:SUZ) Sees Strong Trading Volume After Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13556807/suzano-nysesuz-sees-strong-trading-volume-after-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T14:20:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Agilon Health (NYSE:AGL) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-agilon-health-nyseagl-stock-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T14:18:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts DICK'S Sporting Goods (NYSE:DKS) Price Target to $245.00",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-dicks-sporting-goods-nysedks-price-target-to-24500-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T14:18:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Q2 (NYSE:QTWO) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/q2-nyseqtwo-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T14:18:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Alkami Technology (NASDAQ:ALKT) Price Target Raised to $24.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/alkami-technology-nasdaqalkt-price-target-raised-to-2400-at-jpmorgan-chase-co-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T14:18:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Reformation (NYSE:REF) Earns Overweight Rating from Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13556784/reformation-nyseref-earns-overweight-rating-from-analysts-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T14:10:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Begins Coverage on Roku (NASDAQ:ROKU)",
+      "url": "https://www.tickerreport.com/banking-finance/13556783/jpmorgan-chase-co-begins-coverage-on-roku-nasdaqroku.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T14:06:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CLEAR Secure (NYSE:YOU) Coverage Initiated at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13556782/clear-secure-nyseyou-coverage-initiated-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T14:06:46+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -26,6 +185,16 @@
       "published": "2026-08-24T13:45:05+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024525/0001918704-26-024525-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T13:33:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -110,176 +279,6 @@
       "tickers": [
         "BAC",
         "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "As Wells Fargo cut services, this founder built a firm with frustrated private bankers",
-      "url": "https://www.americanbanker.com/news/as-wells-fargo-cut-services-this-founder-built-a-firm-with-frustrated-private-bankers",
-      "source": "americanbanker.com",
-      "published": "2026-08-24T13:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024515/0001918704-26-024515-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T12:53:16+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "European Union’s trade measures could impact 27% of China’s exports, Goldman Sachs warns",
-      "url": "https://cryptobriefing.com/eu-trade-measures-china-exports-goldman-sachs/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-24T12:50:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley sees quality stocks and AI adopters leading market",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-quality-stocks-and-ai-adopters-leading-market-93CH-4873513",
-      "source": "investing.com",
-      "published": "2026-08-24T12:44:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Korea Investment CORP Grows Stake in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13556647/korea-investment-corp-grows-stake-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T12:31:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Bobby Singh: Why We Are Exploring an International Wealth Push",
-      "url": "https://finance.yahoo.com/m/cc4b9ef7-ee04-33db-80b5-cba802e6b8d1/morgan-stanley%E2%80%99s-bobby-singh%3A.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-24T12:30:00+00:00",
-      "tickers": [
-        "JPM",
-        "MS"
-      ]
-    },
-    {
-      "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jp-morgan-warns-fall-sell-122053226.html",
-      "source": "yahoo.com",
-      "published": "2026-08-24T12:20:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SharpLink’s Ethereum Treasury Draws 60% Institutional Ownership",
-      "url": "https://coingape.com/block-of-fame/pulse/sharplinks-ethereum-treasury-draws-60-institutional-ownership/?.tsrc=rss",
-      "source": "coingape.com",
-      "published": "2026-08-24T12:19:23+00:00",
-      "tickers": [
-        "MS",
-        "STT"
-      ]
-    },
-    {
-      "title": "Bank of America Initiates Coverage on Jersey Mike's (NYSE:JMKE)",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-initiates-coverage-on-jersey-mikes-nysejmke-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T12:18:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan's Card Credit Trends Improve: Are Losses Past Their Peak?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-card-credit-trends-improve-121800875.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-24T12:18:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "EU’s Curbs Threaten 27% of Chinese Exports to Bloc, Goldman Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/eu-s-curbs-threaten-27-of-chinese-exports-to-bloc-goldman-says",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T12:07:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Upgrades Suzano (NYSE:SUZ) to Buy",
-      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-upgrades-suzano-nysesuz-to-buy-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T12:06:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jersey Mike's (NYSE:JMKE) Earns Overweight Rating from Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/jersey-mikes-nysejmke-earns-overweight-rating-from-analysts-at-morgan-stanley-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T12:06:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Alvotech (NASDAQ:ALVO) Now Covered by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/alvotech-nasdaqalvo-now-covered-by-bank-of-america-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T12:06:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GPIQ: Why I Keep Adding To This Hybrid Income Fund Yielding 10% | $QQQI $GS $QYLD $JEPQ $GPIQ",
-      "url": "https://seekingalpha.com/article/4939565-gpiq-why-i-keep-adding-to-this-hybrid-income-fund-yielding-10-percent",
-      "source": "seekingalpha.com",
-      "published": "2026-08-24T12:06:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MT Initiated Coverage by Morgan Stanley -- Rating Set to Overweight",
-      "url": "https://www.gurufocus.com/news/9049294/mt-initiated-coverage-by-morgan-stanley-rating-set-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T12:02:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "RIO Initiates Coverage On Morgan Stanley -- Rating Set to Underweight",
-      "url": "https://www.gurufocus.com/news/9049290/rio-initiates-coverage-on-morgan-stanley-rating-set-to-underweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T12:01:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "China’s advanced chip supply to surge by 2035 despite equipment bottlenecks, Goldman says",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
-      "source": "scmp.com",
-      "published": "2026-08-24T12:00:13+00:00",
-      "tickers": [
         "GS"
       ]
     }
