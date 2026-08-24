@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-08-24T21:35:48.162252+00:00",
+  "last_updated": "2026-08-24T22:33:25.792715+00:00",
   "headlines": [
+    {
+      "title": "Bank of America (NYSE:BAC) Trading 1.1% Higher - Still a Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-trading-11-higher-still-a-buy-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T21:40:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "source": "cnbc.com",
+      "published": "2026-08-24T21:37:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.4% Higher - Here's What Happened",
+      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-14-higher-heres-what-happened-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T21:21:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Former UMaine football teammates face each other in NFL preseason game",
+      "url": "https://www.bangordailynews.com/2026/08/24/sports/professional-football/former-umaine-teammates-nfl-preseason-game/",
+      "source": "bangordailynews.com",
+      "published": "2026-08-24T21:18:34+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan, Santander Lead Financing of up to $15 Billion for Argentina LNG Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/jpmorgan-santander-lead-financing-of-up-to-15-billion-for-argentina-lng-deal",
+      "source": "bloomberg.com",
+      "published": "2026-08-24T21:02:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street ETF Turns Tech Volatility Into Income",
+      "url": "https://www.etftrends.com/sector-investing-content-hub/state-street-etf-tech-volatility-income/",
+      "source": "etftrends.com",
+      "published": "2026-08-24T20:40:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "ACN Maintained by Citigroup -- Price Target Raised to $190",
+      "url": "https://www.gurufocus.com/news/9050145/acn-maintained-by-citigroup-price-target-raised-to-190",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:33:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "DOYU Maintains Neutral Rating -- Price Target Lowered to $5.00 by Citigroup",
+      "url": "https://www.gurufocus.com/news/9050144/doyu-maintains-neutral-rating-price-target-lowered-to-500-by-citigroup",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:32:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "DAO Maintains Buy Rating by Citigroup -- Price Target Raised to $22.00",
+      "url": "https://www.gurufocus.com/news/9050143/dao-maintains-buy-rating-by-citigroup-price-target-raised-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:32:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BJ Upgraded by Citigroup -- Price Target Raised to $111",
+      "url": "https://www.gurufocus.com/news/9050142/bj-upgraded-by-citigroup-price-target-raised-to-111",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:31:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "REF Initiated Coverage by Citigroup -- Price Target Announced at $20",
+      "url": "https://www.gurufocus.com/news/9050141/ref-initiated-coverage-by-citigroup-price-target-announced-at-20",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:31:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "AT&T to Participate in Upcoming Investor Conferences",
       "url": "https://www.prnewswire.com/news-releases/att-to-participate-in-upcoming-investor-conferences-302858683.html",
@@ -10,6 +110,16 @@
         "BAC",
         "C",
         "GS"
+      ]
+    },
+    {
+      "title": "What Could JPMorgan Chase (JPM) Lawsuits Mean For Future M And A Deals?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-jpmorgan-chase-jpm-lawsuits-201010465.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-24T20:10:10+00:00",
+      "tickers": [
+        "JPM",
+        "MS"
       ]
     },
     {
@@ -33,11 +143,29 @@
     },
     {
       "title": "Werner® to Participate in Morgan Stanley’s 14th Annual Laguna Conference",
-      "url": "http://www.businesswire.com/news/home/20260820029782/en/Werner%C2%AE-to-Participate-in-Morgan-Stanley%E2%80%99s-14th-Annual-Laguna-Conference/?feedref=JjAwJuNHiystnCoBq_hl-fNT4WzHvxnihKV45NFlpVE4plfPZtlGYRDUHCSmgbii6XkLWuQZD-HgGRnjQvCyg3iCfEFIaJW7-otp9V1XQiLv5GFlFU4I2IHHIyeSZsUj",
+      "url": "http://www.businesswire.com/news/home/20260820029782/en/Werner%C2%AE-to-Participate-in-Morgan-Stanley%E2%80%99s-14th-Annual-Laguna-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
       "source": "businesswire.com",
       "published": "2026-08-24T20:05:00+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "VMRK Initiated Coverage By JP Morgan -- Price Target Announced at $73.00",
+      "url": "https://www.gurufocus.com/news/9050133/vmrk-initiated-coverage-by-jp-morgan-price-target-announced-at-7300",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:02:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MAX Assumed by JP Morgan -- Rating Set to Neutral",
+      "url": "https://www.gurufocus.com/news/9050132/max-assumed-by-jp-morgan-rating-set-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:02:14+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -47,6 +175,24 @@
       "published": "2026-08-24T20:02:00+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "EVER Assumes Overweight Rating by JP Morgan -- Price Target Set at $29",
+      "url": "https://www.gurufocus.com/news/9050130/ever-assumes-overweight-rating-by-jp-morgan-price-target-set-at-29",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:01:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ROKU Assumed by JP Morgan -- Rating Updated to Neutral",
+      "url": "https://www.gurufocus.com/news/9050129/roku-assumed-by-jp-morgan-rating-updated-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:01:20+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -67,6 +213,24 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "FTDR Assumes Neutral by JP Morgan -- Price Target Announced at $95.00",
+      "url": "https://www.gurufocus.com/news/9050125/ftdr-assumes-neutral-by-jp-morgan-price-target-announced-at-9500",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T20:00:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Jumps as Banks Power the Dow Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-jumps-banks-power-dow-195636057.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-24T19:56:36+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -113,162 +277,6 @@
       "published": "2026-08-24T19:37:12+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Best Bank of America Credit Card Combinations",
-      "url": "https://wtop.com/news/2026/08/best-bank-of-america-credit-card-combinations/",
-      "source": "wtop.com",
-      "published": "2026-08-24T19:36:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ArcelorMittal initiated Overweight at Morgan Stanley on optimistic steel outlook",
-      "url": "https://seekingalpha.com/news/4636353-arcelormittal-initiated-overweight-at-morgan-stanley-on-optimistic-steel-outlook",
-      "source": "seekingalpha.com",
-      "published": "2026-08-24T19:32:18+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for DouYu International (NASDAQ:DOYU) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/citigroup-issues-pessimistic-forecast-for-douyu-international-nasdaqdoyu-stock-price-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T19:30:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bond Street REIT Increases Credit Facility to $300 Million",
-      "url": "https://www.prnewswire.com/news-releases/bond-street-reit-increases-credit-facility-to-300-million-302858620.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-24T19:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo Moves To Foreclose On $1.3B Workspace Property Trust Portfolio",
-      "url": "https://www.bisnow.com/news/national/capital-markets/wells-fargo-moves-to-foreclose-workspace-property-trust-portfolio",
-      "source": "bisnow.com",
-      "published": "2026-08-24T19:25:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "'True ETF Innovation' Happening at Neos: Goldman's Lake",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-24/-true-etf-innovation-happening-at-neos-goldman-s-lake-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T19:21:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman M&A, NHL Futures | ETF IQ 8/24/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-24/etf-iq-8-24-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T19:20:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman, Neos Discuss $2.3 Billion Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-24/goldman-neos-discuss-2-3-billion-deal-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T19:19:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Vivmark Residential Common Shares of Beneficial Interest (NYSE:VMRK) Now Covered by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/vivmark-residential-common-shares-of-beneficial-interest-nysevmrk-now-covered-by-analysts-at-jpmorgan-chase-co-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T19:06:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024574/0001918704-26-024574-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T19:00:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Equities bleed, commodities lead in BofA’s top 10 September trends",
-      "url": "https://seekingalpha.com/news/4636346-equities-bleed-commodities-lead-in-bofas-top-10-september-trends",
-      "source": "seekingalpha.com",
-      "published": "2026-08-24T18:53:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "EOG Maintained by Goldman Sachs -- Price Target Raised to $151",
-      "url": "https://www.gurufocus.com/news/9050024/eog-maintained-by-goldman-sachs-price-target-raised-to-151",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T18:31:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley shares investing tips for navigating 'short-lived gimmicks' in the bond market",
-      "url": "https://www.businessinsider.com/higher-bond-yields-interest-rates-scott-bessent-treasury-buybacks-investing-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-24T18:20:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan, Morgan Stanley face shareholder suits over buyout advice",
-      "url": "https://cryptobriefing.com/jpmorgan-morgan-stanley-shareholder-lawsuits-buyouts/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-24T18:19:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Siemens Energy taps Goldman Sachs for steam turbine stake sale - Bloomberg",
-      "url": "https://seekingalpha.com/news/4636339-siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale-bloomberg",
-      "source": "seekingalpha.com",
-      "published": "2026-08-24T18:18:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Safeguards Apprenticeship Culture in AI Era",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-safeguards-apprenticeship-culture-in-ai-era/",
-      "source": "pymnts.com",
-      "published": "2026-08-24T18:17:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012791/0000950103-26-012791-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T18:14:55+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
