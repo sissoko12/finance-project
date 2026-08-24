@@ -1,11 +1,112 @@
 {
-  "last_updated": "2026-08-24T17:06:57.369876+00:00",
+  "last_updated": "2026-08-24T17:59:40.598862+00:00",
   "headlines": [
+    {
+      "title": "Siemens Energy Taps Goldman Sachs for Steam Turbine Stake Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale",
+      "source": "bloomberg.com",
+      "published": "2026-08-24T17:20:58+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs partner warned that AI is putting bankers' reasoning skills at risk",
+      "url": "https://qz.com/goldman-sachs-ai-reasoning-skills-bankers-082426",
+      "source": "qz.com",
+      "published": "2026-08-24T17:16:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs partner Chris Churchman warns AI risks banker skills",
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-partner-chris-churchman-171626050.html",
+      "source": "yahoo.com",
+      "published": "2026-08-24T17:16:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012788/0000950103-26-012788-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T17:10:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HPQ Maintained by Morgan Stanley -- Price Target Lowered to $17.00",
+      "url": "https://www.gurufocus.com/news/9049947/hpq-maintained-by-morgan-stanley-price-target-lowered-to-1700",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:04:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DELL Maintained by Morgan Stanley -- Price Target Raised to $434",
+      "url": "https://www.gurufocus.com/news/9049945/dell-maintained-by-morgan-stanley-price-target-raised-to-434",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:04:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sees Oil's Next Big Move",
+      "url": "https://www.gurufocus.com/news/9049518/morgan-stanley-sees-oils-next-big-move",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:04:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Top Bank Stocks To Add to Your Watchlist - August 24th",
+      "url": "https://www.marketbeat.com/instant-alerts/top-bank-stocks-to-add-to-your-watchlist-august-24th-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T17:02:05+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "US BANCORP DE: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426024554/0001918704-26-024554-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T16:53:29+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Boosts W.W. Grainger (NYSE:GWW) Price Target to $1,400.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-boosts-ww-grainger-nysegww-price-target-to-140000-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T16:48:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Cisco appears to be entering 'more durable growth phase,' Morgan Stanley says",
       "url": "https://seekingalpha.com/news/4636326-cisco-appears-to-be-entering-more-durable-growth-phase-morgan-stanley-says",
       "source": "seekingalpha.com",
       "published": "2026-08-24T16:46:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Positive Forecast for Prudential Financial (NYSE:PRU) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-issues-positive-forecast-for-prudential-financial-nysepru-stock-price-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T16:24:26+00:00",
       "tickers": [
         "MS"
       ]
@@ -134,6 +235,16 @@
       ]
     },
     {
+      "title": "5 Myths Keeping FinServ Firms from Unlocking Intelligence in Their Legal Data",
+      "url": "https://www.relativity.com/blog/5-myths-keeping-finserv-firms-from-unlocking-intelligence-in-their-legal-data/",
+      "source": "relativity.com",
+      "published": "2026-08-24T16:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Morgan Stanley Lowers HP (NYSE:HPQ) Price Target to $17.00",
       "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-hp-nysehpq-price-target-to-1700-2026-08-24/",
       "source": "marketbeat.com",
@@ -154,74 +265,19 @@
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041160/0001839882-26-041160-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T15:35:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "DKS Maintained by JP Morgan -- Price Target Lowered to $245",
-      "url": "https://www.gurufocus.com/news/9049776/dks-maintained-by-jp-morgan-price-target-lowered-to-245",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T15:33:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "QTWO Maintained by JP Morgan -- Price Target Raised to $72",
-      "url": "https://www.gurufocus.com/news/9049774/qtwo-maintained-by-jp-morgan-price-target-raised-to-72",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T15:33:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ALKT Maintained by JP Morgan -- Price Target Raised to $24.00",
-      "url": "https://www.gurufocus.com/news/9049772/alkt-maintained-by-jp-morgan-price-target-raised-to-2400",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T15:32:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AGL Maintained by JP Morgan -- Price Target Raised to $85.00",
-      "url": "https://www.gurufocus.com/news/9049769/agl-maintained-by-jp-morgan-price-target-raised-to-8500",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T15:32:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "REF Initiated Coverage by JP Morgan -- Rating Set to Overweight",
-      "url": "https://www.gurufocus.com/news/9049768/ref-initiated-coverage-by-jp-morgan-rating-set-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T15:31:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs reports US energy sector needs 500,000 workers by 2030",
-      "url": "https://cryptobriefing.com/goldman-sachs-us-energy-workers-shortage-2030/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-24T15:30:49+00:00",
+      "title": "A Top Goldman Sachs Official Is Warning That Too Much AI Could Actually Harm Bankers' Skills",
+      "url": "https://www.ibtimes.com/top-goldman-sachs-official-warning-that-too-much-ai-could-actually-harm-bankers-skills-3806725",
+      "source": "ibtimes.com",
+      "published": "2026-08-24T15:41:24+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "US Economy Can Keep Growing Despite Higher Rates, Says House",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-24/house-us-economy-can-keep-growing-despite-higher-rates-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T15:22:42+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041160/0001839882-26-041160-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T15:35:16+00:00",
       "tickers": [
         "WFC",
         "C"
