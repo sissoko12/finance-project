@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-08-23T23:50:15.793237+00:00",
+  "last_updated": "2026-08-24T01:46:40.954149+00:00",
   "headlines": [
+    {
+      "title": "Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors (Julia Fioretti/Bloomberg)",
+      "url": "https://www.techmeme.com/260823/p12#a260823p12",
+      "source": "techmeme.com",
+      "published": "2026-08-23T23:30:37+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
     {
       "title": "China Gold Buying Far Exceeds Official PBOC Reports, Goldman Sachs Data Shows",
       "url": "https://blockonomi.com/china-gold-buying-far-exceeds-official-pboc-reports-goldman-sachs-data-shows/",
@@ -277,15 +287,6 @@
       "tickers": [
         "C",
         "PNC"
-      ]
-    },
-    {
-      "title": "Goldman Says Chinese Easing Hopes Revive With Economy Growing 4%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/goldman-says-chinese-easing-hopes-revive-with-economy-growing-4",
-      "source": "bloomberg.com",
-      "published": "2026-08-23T10:36:15+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
