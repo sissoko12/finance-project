@@ -1,13 +1,141 @@
 {
-  "last_updated": "2026-08-24T17:59:40.598862+00:00",
+  "last_updated": "2026-08-24T18:54:12.679382+00:00",
   "headlines": [
     {
-      "title": "Siemens Energy Taps Goldman Sachs for Steam Turbine Stake Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T17:20:58+00:00",
+      "title": "Siemens Energy taps Goldman Sachs for steam turbine stake sale - Bloomberg",
+      "url": "https://seekingalpha.com/news/4636339-siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale-bloomberg",
+      "source": "seekingalpha.com",
+      "published": "2026-08-24T18:18:47+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Safeguards Apprenticeship Culture in AI Era",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-safeguards-apprenticeship-culture-in-ai-era/",
+      "source": "pymnts.com",
+      "published": "2026-08-24T18:17:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012791/0000950103-26-012791-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T18:14:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GWW Maintained by Morgan Stanley -- Price Target Raised to $1400",
+      "url": "https://www.gurufocus.com/news/9050009/gww-maintained-by-morgan-stanley-price-target-raised-to-1400",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T18:02:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "VOYA Maintained by Morgan Stanley -- Price Target Raised to $105",
+      "url": "https://www.gurufocus.com/news/9050007/voya-maintained-by-morgan-stanley-price-target-raised-to-105",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T18:01:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "UNM Maintained by Morgan Stanley -- Price Target Raised to $92",
+      "url": "https://www.gurufocus.com/news/9050005/unm-maintained-by-morgan-stanley-price-target-raised-to-92",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T18:01:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "RGA Maintains by Morgan Stanley -- Price Target Raised to $250",
+      "url": "https://www.gurufocus.com/news/9050003/rga-maintains-by-morgan-stanley-price-target-raised-to-250",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T18:00:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Hims & Hers Health (NYSE:HIMS) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/hims-hers-health-nysehims-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T17:42:29+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Aveanna Healthcare (NASDAQ:AVAH) Price Target Raised to $15.00 at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/aveanna-healthcare-nasdaqavah-price-target-raised-to-1500-at-truist-financial-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T17:42:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "PRI Maintained by Morgan Stanley -- Price Target Raised to $316",
+      "url": "https://www.gurufocus.com/news/9049959/pri-maintained-by-morgan-stanley-price-target-raised-to-316",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:33:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MET Maintained by Morgan Stanley -- Price Target Raised to $111",
+      "url": "https://www.gurufocus.com/news/9049958/met-maintained-by-morgan-stanley-price-target-raised-to-111",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:32:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MRVL Maintained by Morgan Stanley -- Price Target Raised to $224",
+      "url": "https://www.gurufocus.com/news/9049957/mrvl-maintained-by-morgan-stanley-price-target-raised-to-224",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:31:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LNC Rated Overweight by Morgan Stanley -- Price Target Raised to $50",
+      "url": "https://www.gurufocus.com/news/9049955/lnc-rated-overweight-by-morgan-stanley-price-target-raised-to-50",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T17:30:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Investment Analysts’ Weekly Ratings Updates for Zillow Group (ZG)",
+      "url": "https://www.tickerreport.com/banking-finance/13556989/investment-analysts-weekly-ratings-updates-for-zillow-group-zg.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T17:26:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ImmuPharma (LON:IMM) Shares Down 14.7% – Here’s Why",
+      "url": "https://www.tickerreport.com/banking-finance/13556978/immupharma-lonimm-shares-down-14-7-heres-why.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T17:20:57+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -26,15 +154,6 @@
       "published": "2026-08-24T17:16:26+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012788/0000950103-26-012788-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T17:10:45+00:00",
-      "tickers": [
-        "C"
       ]
     },
     {
@@ -62,6 +181,15 @@
       "published": "2026-08-24T17:04:16+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Warns AI Skills Gap Threatens Tech Partnerships and Returns",
+      "url": "https://www.webpronews.com/goldman-sachs-warns-ai-skills-gap-threatens-tech-partnerships-and-returns/",
+      "source": "webpronews.com",
+      "published": "2026-08-24T17:02:06+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -147,140 +275,6 @@
         "WFC",
         "C",
         "GS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526362664/0001193125-26-362664-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T16:10:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan, Morgan Stanley defend against suits over roles in buyouts - report",
-      "url": "https://seekingalpha.com/news/4636309-jpmorgan-morgan-stanley-defend-against-suits-over-roles-in-buyouts-report",
-      "source": "seekingalpha.com",
-      "published": "2026-08-24T16:07:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "STLD Maintained by Wells Fargo -- Price Target Lowered to $255",
-      "url": "https://www.gurufocus.com/news/9049834/stld-maintained-by-wells-fargo-price-target-lowered-to-255",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T16:03:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "RS Maintained by Wells Fargo -- Price Target Lowered to $391",
-      "url": "https://www.gurufocus.com/news/9049832/rs-maintained-by-wells-fargo-price-target-lowered-to-391",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T16:03:32+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "NUE Maintained by Wells Fargo -- Price Target Lowered to $285",
-      "url": "https://www.gurufocus.com/news/9049830/nue-maintained-by-wells-fargo-price-target-lowered-to-285",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T16:03:06+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092907/0001213900-26-092907-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T16:02:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CLF Maintained by Wells Fargo -- Price Target Raised to $12.00",
-      "url": "https://www.gurufocus.com/news/9049827/clf-maintained-by-wells-fargo-price-target-raised-to-1200",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T16:02:42+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman, Wells Say Treasury Buybacks Unlikely to Cut Long Rates",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/goldman-wells-say-treasury-buybacks-unlikely-to-cut-long-rates",
-      "source": "bloomberg.com",
-      "published": "2026-08-24T16:01:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Integrate Strengthens Defense Market Position with New U.S. Space Force Contract and Venture Debt Facility",
-      "url": "https://www.prnewswire.com/news-releases/integrate-strengthens-defense-market-position-with-new-us-space-force-contract-and-venture-debt-facility-302858459.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-24T16:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "5 Myths Keeping FinServ Firms from Unlocking Intelligence in Their Legal Data",
-      "url": "https://www.relativity.com/blog/5-myths-keeping-finserv-firms-from-unlocking-intelligence-in-their-legal-data/",
-      "source": "relativity.com",
-      "published": "2026-08-24T16:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Lowers HP (NYSE:HPQ) Price Target to $17.00",
-      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-hp-nysehpq-price-target-to-1700-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T15:48:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Y Combinator sells Meesho shares worth Rs 970 crore in block deals; Morgan Stanley, Goldman Sachs, Citigroup among buyers",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/y-combinator-sells-meesho-shares-worth-rs-970-crore-in-block-deals-morgan-stanley-goldman-sachs-citigroup-among-buyers/articleshow/133472470.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-24T15:44:48+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "A Top Goldman Sachs Official Is Warning That Too Much AI Could Actually Harm Bankers' Skills",
-      "url": "https://www.ibtimes.com/top-goldman-sachs-official-warning-that-too-much-ai-could-actually-harm-bankers-skills-3806725",
-      "source": "ibtimes.com",
-      "published": "2026-08-24T15:41:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041160/0001839882-26-041160-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T15:35:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
