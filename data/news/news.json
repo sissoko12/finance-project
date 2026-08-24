@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-24T14:19:13.238446+00:00",
+  "last_updated": "2026-08-24T15:11:10.659228+00:00",
   "headlines": [
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024543/0001918704-26-024543-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T14:53:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Canada’s Aluminum Limits Exposed: Why Tariffs Won’t Free the U.S. From Import Dependence",
+      "url": "https://www.webpronews.com/canadas-aluminum-limits-exposed-why-tariffs-wont-free-the-u-s-from-import-dependence/",
+      "source": "webpronews.com",
+      "published": "2026-08-24T13:52:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Morgan Stanley says bond yields are heading higher as markets shift to a post–WWII-style era",
       "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
@@ -263,24 +281,6 @@
       "published": "2026-08-24T12:00:13+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "U.S. Bank Wealth Management Names Chris Peary Chief Private Banking Officer",
-      "url": "http://www.businesswire.com/news/home/20260824346603/en/U.S.-Bank-Wealth-Management-Names-Chris-Peary-Chief-Private-Banking-Officer/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-08-24T12:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "JPMorganChase Celebrates 45 Years of Serving Tennis Fans at the US Open",
-      "url": "https://finance.yahoo.com/media-advertising/articles/jpmorganchase-celebrates-45-years-serving-120000869.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-24T12:00:00+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
