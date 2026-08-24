@@ -1,11 +1,86 @@
 {
-  "last_updated": "2026-08-24T07:39:33.051187+00:00",
+  "last_updated": "2026-08-24T08:56:07.397344+00:00",
   "headlines": [
+    {
+      "title": "Commerce Bank Invests $10.60 Million in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-commerce-bank-invests-1060-million-in-state-street-corporation-stt-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T08:08:50+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "48,309 Shares in The PNC Financial Services Group, Inc $PNC Purchased by Commerce Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-48309-shares-in-the-pnc-financial-services-group-inc-pnc-purchased-by-commerce-bank-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T08:08:47+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "EP Wealth Advisors LLC Makes New Investment in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ep-wealth-advisors-llc-makes-new-investment-in-state-street-corporation-stt-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T08:08:39+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley bullish on ArcelorMittal as tighter trade curbs boost steel outlook",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-bullish-on-arcelormittal-as-tighter-trade-curbs-boost-steel-outlook-4872811",
+      "source": "investing.com",
+      "published": "2026-08-24T08:04:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley starts Rio Tinto ADR coverage at underweight, sees 14% downside",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-starts-rio-tinto-adr-coverage-at-underweight-sees-14-downside-4872801",
+      "source": "investing.com",
+      "published": "2026-08-24T07:52:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Black Cypress Capital Management LLC Takes $9.24 Million Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-black-cypress-capital-management-llc-takes-924-million-position-in-wells-fargo-company-wfc-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T07:30:32+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bell & Brown Wealth Advisors LLC Takes Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bell-brown-wealth-advisors-llc-takes-position-in-wells-fargo-company-wfc-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T07:30:30+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Goldman Sachs Small Cap Growth Insights Fund Q2 2026 Commentary | $GINUX $GSAOX $GSCOX $GSIOX $GSROX",
       "url": "https://seekingalpha.com/article/4939519-goldman-sachs-small-cap-growth-insights-fund-q2-2026-commentary",
       "source": "seekingalpha.com",
       "published": "2026-08-24T07:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Says Europe May Need €100 Gas to Build Winter Inventory",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/goldman-says-europe-may-need-100-gas-to-build-winter-inventory",
+      "source": "bloomberg.com",
+      "published": "2026-08-24T07:07:05+00:00",
       "tickers": [
         "GS"
       ]
@@ -204,84 +279,6 @@
       "published": "2026-08-23T19:19:00+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan just poured cold water on Bessent's bond fix",
-      "url": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-just-poured-184700637.html",
-      "source": "yahoo.com",
-      "published": "2026-08-23T18:47:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
-      "url": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman",
-      "source": "seekingalpha.com",
-      "published": "2026-08-23T18:31:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Financial Stocks To Add to Your Watchlist - August 23rd",
-      "url": "https://www.marketbeat.com/instant-alerts/financial-stocks-to-add-to-your-watchlist-august-23rd-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T17:01:43+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Promising Bank Stocks To Consider - August 23rd",
-      "url": "https://www.marketbeat.com/instant-alerts/promising-bank-stocks-to-consider-august-23rd-2026-08-23/",
-      "source": "marketbeat.com",
-      "published": "2026-08-23T17:01:42+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mount Prospect pivots in search for developer of former Chase building",
-      "url": "https://www.dailyherald.com/20260823/news/mount-prospect-pivots-in-search-for-developer-of-former-chase-building/",
-      "source": "dailyherald.com",
-      "published": "2026-08-23T16:20:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Fiscal Consolidation Is Not Fiscal Success: What the Last 50 Years Has Taught Us About Reducing the Federal Budget Deficit",
-      "url": "https://thepeopleseconomist.substack.com/p/fiscal-consolidation-is-not-fiscal",
-      "source": "substack.com",
-      "published": "2026-08-23T15:25:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Quantbot Technologies LP Acquires Shares of 22,940 Capital One Financial Corporation $COF",
-      "url": "https://www.tickerreport.com/banking-finance/13555646/quantbot-technologies-lp-acquires-shares-of-22940-capital-one-financial-corporation-cof.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-23T14:56:51+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Investor bullishness surges as BofA survey shows cash levels near historic lows",
-      "url": "https://investorshub.advfn.com/market-news/article/34839/investor-bullishness-surges-as-bofa-survey-shows-cash-levels-near-historic-lows?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-08-23T14:18:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
