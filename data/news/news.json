@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-08-24T10:45:38.933348+00:00",
+  "last_updated": "2026-08-24T11:35:15.689619+00:00",
   "headlines": [
+    {
+      "title": "BofA upgrades Suzano stock on improving pulp market conditions",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-upgrades-suzano-stock-on-improving-pulp-market-conditions-93CH-4873138",
+      "source": "investing.com",
+      "published": "2026-08-24T11:00:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Helix Partners Management LP Takes Position in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-helix-partners-management-lp-takes-position-in-capital-one-financial-corporation-cof-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T10:48:53+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Patient Capital Management LLC Sells 10,393 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-patient-capital-management-llc-sells-10393-shares-of-citigroup-inc-c-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T10:41:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup, Axis Bank team up to leverage NRI deposits and boost dollar inflows",
+      "url": "https://www.livemint.com/money/personal-finance/citigroup-axis-bank-team-up-to-leverage-nri-deposits-and-boost-dollar-inflows-11787562860472.html",
+      "source": "livemint.com",
+      "published": "2026-08-24T10:28:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jupiter Wealth Management LLC Invests $2.08 Million in Bank of America Corporation $BAC",
+      "url": "https://www.tickerreport.com/banking-finance/13556208/jupiter-wealth-management-llc-invests-2-08-million-in-bank-of-america-corporation-bac.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-24T10:17:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "JPMorgan Chase & Co. Issues Positive Forecast for Diploma (LON:DPLM) Stock Price",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-issues-positive-forecast-for-diploma-londplm-stock-price-2026-08-24/",
@@ -8,6 +56,16 @@
       "published": "2026-08-24T10:12:27+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "BofA starts bullish Alvotech coverage on biosimilar launch cycle",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-starts-bullish-alvotech-coverage-on-biosimilar-launch-cycle-4872995",
+      "source": "investing.com",
+      "published": "2026-08-24T10:11:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -26,6 +84,15 @@
       "published": "2026-08-24T10:02:00+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Citi / AAdvantage Executive's new benefits are live: 6 things to do now",
+      "url": "https://thepointsguy.com/news/citi-aadvantage-executive-new-benefits-live-2026/",
+      "source": "thepointsguy.com",
+      "published": "2026-08-24T10:00:50+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -108,16 +175,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-pcm-encore-llc-purchases-shares-of-47801-bank-of-america-corporation-bac-2026-08-24/",
       "source": "marketbeat.com",
       "published": "2026-08-24T09:28:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jupiter Wealth Management LLC Takes $2.08 Million Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-wealth-management-llc-takes-208-million-position-in-bank-of-america-corporation-bac-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T09:28:31+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -231,63 +288,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Knuff & Co LLC Makes New $1.18 Million Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-knuff-co-llc-makes-new-118-million-investment-in-wells-fargo-company-wfc-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T09:20:44+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Shares Sold by Cibc World Market Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13556022/citigroup-inc-c-shares-sold-by-cibc-world-market-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T09:15:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wealthfront Advisers LLC Purchases New Holdings in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthfront-advisers-llc-purchases-new-holdings-in-wells-fargo-company-wfc-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T09:13:06+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Elefante Mark B Takes Position in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.tickerreport.com/banking-finance/13556010/elefante-mark-b-takes-position-in-the-charles-schwab-corporation-schw.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T09:10:55+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "The Robot Trade Is Growing Up: Goldman Sees the Shift From Hype to ROI",
-      "url": "https://www.investing.com/analysis/the-robot-trade-is-growing-up-goldman-sees-the-shift-from-hype-to-roi-200686383",
-      "source": "investing.com",
-      "published": "2026-08-24T08:34:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Commerce Bank Invests $10.60 Million in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-commerce-bank-invests-1060-million-in-state-street-corporation-stt-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T08:08:50+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
