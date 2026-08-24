@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-24T03:10:27.096623+00:00",
+  "last_updated": "2026-08-24T04:23:00.812352+00:00",
   "headlines": [
+    {
+      "title": "Bank Of America Offers Good Alternative To Treasuries: 6.6% Yielding Preferred Shares | $BAC",
+      "url": "https://seekingalpha.com/article/4939479-bank-of-america-good-alternative-to-treasuries-6-6-percent-yielding-preferred-shares",
+      "source": "seekingalpha.com",
+      "published": "2026-08-24T03:15:42+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "NRI dollars to get a Citi-led boost via Axis",
+      "url": "https://economictimes.indiatimes.com/nri/invest/citigroup-axis-bank-team-up-to-leverage-nri-deposits-as-rbi-dollar-inflows-surge/articleshow/133449591.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-24T02:48:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup, Axis Bank team up to leverage NRI deposits as RBI dollar inflows surge",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/citigroup-axis-bank-team-up-to-leverage-nri-deposits-as-rbi-dollar-inflows-surge/articleshow/133449833.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-24T02:48:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Citi, Axis Bank Team Up on Leveraged India Dollar Deposit Boom",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/citi-axis-bank-team-up-on-leveraged-india-dollar-deposit-boom",
@@ -257,33 +285,6 @@
       "url": "https://seekingalpha.com/news/4636052-the-six-stocks-both-hedge-funds-and-mutual-funds-love-goldman",
       "source": "seekingalpha.com",
       "published": "2026-08-23T11:39:11+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi expects Nvidia stock to trade higher post earnings",
-      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
-      "source": "investing.com",
-      "published": "2026-08-23T11:17:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Portfolio Design Labs LLC Increases Stake in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13555360/portfolio-design-labs-llc-increases-stake-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-23T11:11:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "AI’s Hidden Power Crisis: Why Gas Turbines May Stall the Next Wave of Data Centers",
-      "url": "https://www.webpronews.com/ais-hidden-power-crisis-why-gas-turbines-may-stall-the-next-wave-of-data-centers/",
-      "source": "webpronews.com",
-      "published": "2026-08-23T11:02:06+00:00",
       "tickers": [
         "GS"
       ]
