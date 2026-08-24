@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-08-24T18:54:12.679382+00:00",
+  "last_updated": "2026-08-24T19:35:01.851666+00:00",
   "headlines": [
+    {
+      "title": "Vivmark Residential Common Shares of Beneficial Interest (NYSE:VMRK) Now Covered by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/vivmark-residential-common-shares-of-beneficial-interest-nysevmrk-now-covered-by-analysts-at-jpmorgan-chase-co-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T19:06:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Equities bleed, commodities lead in BofA’s top 10 September trends",
+      "url": "https://seekingalpha.com/news/4636346-equities-bleed-commodities-lead-in-bofas-top-10-september-trends",
+      "source": "seekingalpha.com",
+      "published": "2026-08-24T18:53:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley shares investing tips for navigating 'short-lived gimmicks' in the bond market",
+      "url": "https://www.businessinsider.com/higher-bond-yields-interest-rates-scott-bessent-treasury-buybacks-investing-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-24T18:20:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan, Morgan Stanley face shareholder suits over buyout advice",
+      "url": "https://cryptobriefing.com/jpmorgan-morgan-stanley-shareholder-lawsuits-buyouts/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-24T18:19:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Siemens Energy taps Goldman Sachs for steam turbine stake sale - Bloomberg",
       "url": "https://seekingalpha.com/news/4636339-siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale-bloomberg",
@@ -237,44 +274,6 @@
       "published": "2026-08-24T16:24:26+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041171/0001839882-26-041171-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T16:24:24+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092920/0001213900-26-092920-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T16:19:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041168/0001839882-26-041168-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T16:18:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs, Wells Fargo say Treasury buybacks won’t cut long rates",
-      "url": "https://cryptobriefing.com/treasury-buybacks-wont-cut-long-rates/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-24T16:13:18+00:00",
-      "tickers": [
-        "WFC",
-        "C",
-        "GS"
       ]
     }
   ]
