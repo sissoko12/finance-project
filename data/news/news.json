@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T23:27:38.505195+00:00",
+  "last_updated": "2026-08-24T23:51:08.306970+00:00",
   "headlines": [
     {
       "title": "Bank of America (NYSE:BAC) Trading 1.1% Higher - Still a Buy?",
@@ -30,6 +30,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526363801/0001193125-26-363801-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T21:25:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.4% Higher - Here's What Happened",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-14-higher-heres-what-happened-2026-08-24/",
       "source": "marketbeat.com",
@@ -54,6 +63,15 @@
       "published": "2026-08-24T21:02:22+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526363716/0001193125-26-363716-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T20:52:05+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -120,145 +138,6 @@
       "tickers": [
         "JPM",
         "MS"
-      ]
-    },
-    {
-      "title": "RGNX Stock Faces Biggest Drop in Over Three Months – But BofA Urges Buyers to Seize the Opportunity Despite FDA Setback on Gene Therapy",
-      "url": "https://profitconfidential.com/rgnx-stock-on-track-for-worst-day-in-over-three-months-bofa-says-buy-despite-disappointing-fda-hold-on-gene-therapy/",
-      "source": "profitconfidential.com",
-      "published": "2026-08-24T20:08:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Visa to Participate in Upcoming Investor Conference",
-      "url": "http://www.businesswire.com/news/home/20260824692493/en/Visa-to-Participate-in-Upcoming-Investor-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-08-24T20:05:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Werner® to Participate in Morgan Stanley’s 14th Annual Laguna Conference",
-      "url": "http://www.businesswire.com/news/home/20260820029782/en/Werner%C2%AE-to-Participate-in-Morgan-Stanley%E2%80%99s-14th-Annual-Laguna-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-08-24T20:05:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VMRK Initiated Coverage By JP Morgan -- Price Target Announced at $73.00",
-      "url": "https://www.gurufocus.com/news/9050133/vmrk-initiated-coverage-by-jp-morgan-price-target-announced-at-7300",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T20:02:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MAX Assumed by JP Morgan -- Rating Set to Neutral",
-      "url": "https://www.gurufocus.com/news/9050132/max-assumed-by-jp-morgan-rating-set-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T20:02:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WD to Participate in Upcoming Investor Conference",
-      "url": "http://www.businesswire.com/news/home/20260819508981/en/WD-to-Participate-in-Upcoming-Investor-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "source": "businesswire.com",
-      "published": "2026-08-24T20:02:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EVER Assumes Overweight Rating by JP Morgan -- Price Target Set at $29",
-      "url": "https://www.gurufocus.com/news/9050130/ever-assumes-overweight-rating-by-jp-morgan-price-target-set-at-29",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T20:01:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ROKU Assumed by JP Morgan -- Rating Updated to Neutral",
-      "url": "https://www.gurufocus.com/news/9050129/roku-assumed-by-jp-morgan-rating-updated-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T20:01:20+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Lakefront Receives Transparency Notification from Bank of America",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/24/3350093/0/en/lakefront-receives-transparency-notification-from-bank-of-america.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-24T20:01:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024581/0001918704-26-024581-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T20:00:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "FTDR Assumes Neutral by JP Morgan -- Price Target Announced at $95.00",
-      "url": "https://www.gurufocus.com/news/9050125/ftdr-assumes-neutral-by-jp-morgan-price-target-announced-at-9500",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T20:00:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Jumps as Banks Power the Dow Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-jumps-banks-power-dow-195636057.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-24T19:56:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012798/0000950103-26-012798-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T19:55:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Trends Q2 2027 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4636365-citi-trends-q2-2027-earnings-preview",
-      "source": "seekingalpha.com",
-      "published": "2026-08-24T19:52:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Banyan Street, Independencia Refi South Florida Office With $54M",
-      "url": "https://commercialobserver.com/2026/08/banyan-street-independencia-doral-center-miami/",
-      "source": "commercialobserver.com",
-      "published": "2026-08-24T19:50:12+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
