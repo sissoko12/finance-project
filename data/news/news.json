@@ -1,6 +1,222 @@
 {
-  "last_updated": "2026-08-24T16:05:24.930144+00:00",
+  "last_updated": "2026-08-24T17:06:57.369876+00:00",
   "headlines": [
+    {
+      "title": "Cisco appears to be entering 'more durable growth phase,' Morgan Stanley says",
+      "url": "https://seekingalpha.com/news/4636326-cisco-appears-to-be-entering-more-durable-growth-phase-morgan-stanley-says",
+      "source": "seekingalpha.com",
+      "published": "2026-08-24T16:46:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041171/0001839882-26-041171-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T16:24:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092920/0001213900-26-092920-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T16:19:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041168/0001839882-26-041168-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T16:18:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, Wells Fargo say Treasury buybacks won’t cut long rates",
+      "url": "https://cryptobriefing.com/treasury-buybacks-wont-cut-long-rates/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-24T16:13:18+00:00",
+      "tickers": [
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526362664/0001193125-26-362664-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T16:10:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan, Morgan Stanley defend against suits over roles in buyouts - report",
+      "url": "https://seekingalpha.com/news/4636309-jpmorgan-morgan-stanley-defend-against-suits-over-roles-in-buyouts-report",
+      "source": "seekingalpha.com",
+      "published": "2026-08-24T16:07:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "STLD Maintained by Wells Fargo -- Price Target Lowered to $255",
+      "url": "https://www.gurufocus.com/news/9049834/stld-maintained-by-wells-fargo-price-target-lowered-to-255",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T16:03:53+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "RS Maintained by Wells Fargo -- Price Target Lowered to $391",
+      "url": "https://www.gurufocus.com/news/9049832/rs-maintained-by-wells-fargo-price-target-lowered-to-391",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T16:03:32+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "NUE Maintained by Wells Fargo -- Price Target Lowered to $285",
+      "url": "https://www.gurufocus.com/news/9049830/nue-maintained-by-wells-fargo-price-target-lowered-to-285",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T16:03:06+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026092907/0001213900-26-092907-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T16:02:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CLF Maintained by Wells Fargo -- Price Target Raised to $12.00",
+      "url": "https://www.gurufocus.com/news/9049827/clf-maintained-by-wells-fargo-price-target-raised-to-1200",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T16:02:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman, Wells Say Treasury Buybacks Unlikely to Cut Long Rates",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/goldman-wells-say-treasury-buybacks-unlikely-to-cut-long-rates",
+      "source": "bloomberg.com",
+      "published": "2026-08-24T16:01:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Integrate Strengthens Defense Market Position with New U.S. Space Force Contract and Venture Debt Facility",
+      "url": "https://www.prnewswire.com/news-releases/integrate-strengthens-defense-market-position-with-new-us-space-force-contract-and-venture-debt-facility-302858459.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-24T16:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Lowers HP (NYSE:HPQ) Price Target to $17.00",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-hp-nysehpq-price-target-to-1700-2026-08-24/",
+      "source": "marketbeat.com",
+      "published": "2026-08-24T15:48:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Y Combinator sells Meesho shares worth Rs 970 crore in block deals; Morgan Stanley, Goldman Sachs, Citigroup among buyers",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/y-combinator-sells-meesho-shares-worth-rs-970-crore-in-block-deals-morgan-stanley-goldman-sachs-citigroup-among-buyers/articleshow/133472470.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-24T15:44:48+00:00",
+      "tickers": [
+        "C",
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041160/0001839882-26-041160-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T15:35:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "DKS Maintained by JP Morgan -- Price Target Lowered to $245",
+      "url": "https://www.gurufocus.com/news/9049776/dks-maintained-by-jp-morgan-price-target-lowered-to-245",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T15:33:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "QTWO Maintained by JP Morgan -- Price Target Raised to $72",
+      "url": "https://www.gurufocus.com/news/9049774/qtwo-maintained-by-jp-morgan-price-target-raised-to-72",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T15:33:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ALKT Maintained by JP Morgan -- Price Target Raised to $24.00",
+      "url": "https://www.gurufocus.com/news/9049772/alkt-maintained-by-jp-morgan-price-target-raised-to-2400",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T15:32:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AGL Maintained by JP Morgan -- Price Target Raised to $85.00",
+      "url": "https://www.gurufocus.com/news/9049769/agl-maintained-by-jp-morgan-price-target-raised-to-8500",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T15:32:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "REF Initiated Coverage by JP Morgan -- Rating Set to Overweight",
+      "url": "https://www.gurufocus.com/news/9049768/ref-initiated-coverage-by-jp-morgan-rating-set-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-08-24T15:31:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs reports US energy sector needs 500,000 workers by 2030",
+      "url": "https://cryptobriefing.com/goldman-sachs-us-energy-workers-shortage-2030/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-24T15:30:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "US Economy Can Keep Growing Despite Higher Rates, Says House",
       "url": "https://www.bloomberg.com/news/videos/2026-08-24/house-us-economy-can-keep-growing-despite-higher-rates-video",
@@ -9,277 +225,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "BofA finds AI is creating a credit divide that could reach consumers",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-finds-ai-creating-credit-150700772.html",
-      "source": "yahoo.com",
-      "published": "2026-08-24T15:07:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "source": "cnbc.com",
-      "published": "2026-08-24T15:00:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Global Anti-Scam Summit America Convenes Government Officials, Silicon Valley Leaders, Financial Services Executives and Law Enforcement in San Francisco for the First Time",
-      "url": "https://www.prnewswire.com/news-releases/global-anti-scam-summit-america-convenes-government-officials-silicon-valley-leaders-financial-services-executives-and-law-enforcement-in-san-francisco-for-the-first-time-302858380.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-24T15:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi maintains buy ratings on Argentina power firms amid sector shifts",
-      "url": "https://www.investing.com/news/stock-market-news/citi-maintains-buy-ratings-on-argentina-power-firms-amid-sector-shifts-93CH-4873877",
-      "source": "investing.com",
-      "published": "2026-08-24T14:55:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024543/0001918704-26-024543-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T14:53:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Is there a point to having multiple bank accounts?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vx4nxg/is_there_a_point_to_having_multiple_bank_accounts/",
-      "source": "reddit.com",
-      "published": "2026-08-24T14:38:27+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JMKE Initiated Coverage by Wells Fargo -- Price Target Announced at $25.00",
-      "url": "https://www.gurufocus.com/news/9049656/jmke-initiated-coverage-by-wells-fargo-price-target-announced-at-2500",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T14:37:13+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan warns of a downturn ahead and AI stocks may be to blame",
-      "url": "https://invezz.com/news/2026/08/24/jpmorgan-warns-of-a-downturn-ahead-and-ai-stocks-may-be-to-blame/",
-      "source": "invezz.com",
-      "published": "2026-08-24T14:34:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024533/0001918704-26-024533-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T14:28:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Suzano (NYSE:SUZ) Sees Strong Trading Volume After Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13556807/suzano-nysesuz-sees-strong-trading-volume-after-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T14:20:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Agilon Health (NYSE:AGL) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-agilon-health-nyseagl-stock-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T14:18:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts DICK'S Sporting Goods (NYSE:DKS) Price Target to $245.00",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-cuts-dicks-sporting-goods-nysedks-price-target-to-24500-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T14:18:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Q2 (NYSE:QTWO) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/q2-nyseqtwo-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T14:18:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Alkami Technology (NASDAQ:ALKT) Price Target Raised to $24.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/alkami-technology-nasdaqalkt-price-target-raised-to-2400-at-jpmorgan-chase-co-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T14:18:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Reformation (NYSE:REF) Earns Overweight Rating from Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13556784/reformation-nyseref-earns-overweight-rating-from-analysts-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T14:10:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Begins Coverage on Roku (NASDAQ:ROKU)",
-      "url": "https://www.tickerreport.com/banking-finance/13556783/jpmorgan-chase-co-begins-coverage-on-roku-nasdaqroku.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T14:06:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CLEAR Secure (NYSE:YOU) Coverage Initiated at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13556782/clear-secure-nyseyou-coverage-initiated-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-24T14:06:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Canada’s Aluminum Limits Exposed: Why Tariffs Won’t Free the U.S. From Import Dependence",
-      "url": "https://www.webpronews.com/canadas-aluminum-limits-exposed-why-tariffs-wont-free-the-u-s-from-import-dependence/",
-      "source": "webpronews.com",
-      "published": "2026-08-24T13:52:07+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley says bond yields are heading higher as markets shift to a post–WWII-style era",
-      "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
-      "source": "qz.com",
-      "published": "2026-08-24T13:45:05+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024525/0001918704-26-024525-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T13:33:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp's (USB) \"Outperform\" Rating Reiterated at Royal Bank Of Canada",
-      "url": "https://www.marketbeat.com/instant-alerts/us-bancorps-usb-outperform-rating-reiterated-at-royal-bank-of-canada-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T13:24:29+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Reformation (NYSE:REF) Now Covered by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/reformation-nyseref-now-covered-by-jpmorgan-chase-co-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T13:06:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Truist Financial Begins Coverage on Jersey Mike's (NYSE:JMKE)",
-      "url": "https://www.marketbeat.com/instant-alerts/truist-financial-begins-coverage-on-jersey-mikes-nysejmke-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T13:06:30+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Begins Coverage on Jersey Mike's (NYSE:JMKE)",
-      "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-begins-coverage-on-jersey-mikes-nysejmke-2026-08-24/",
-      "source": "marketbeat.com",
-      "published": "2026-08-24T13:06:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Flags Five European Software Stocks to Buy in Second-Half Outlook",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-five-european-software-stocks-to-buy-in-secondhalf-outlook-93CH-4873571",
-      "source": "investing.com",
-      "published": "2026-08-24T13:03:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi 2026 Global TMT Conference – September 8",
-      "url": "https://www.nexstar.tv/citi-2026-global-tmt-conference-september-8/",
-      "source": "nexstar.tv",
-      "published": "2026-08-24T13:02:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA 2026 Media, Communications and Entertainment Conference – September 9",
-      "url": "https://www.nexstar.tv/bofa-2026-media-communications-and-entertainment-conference-september-9/",
-      "source": "nexstar.tv",
-      "published": "2026-08-24T13:02:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Communacopia and Technology Conference – September 10",
-      "url": "https://www.nexstar.tv/goldman-sachs-communacopia-and-technology-conference-september-10/",
-      "source": "nexstar.tv",
-      "published": "2026-08-24T13:02:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Nexstar Media Group to Participate in Upcoming Investor Conferences",
-      "url": "https://finance.yahoo.com/media-advertising/articles/nexstar-media-group-participate-upcoming-130000687.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-24T13:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "GS"
       ]
     }
   ]
