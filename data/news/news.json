@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-25T15:23:20.701022+00:00",
+  "last_updated": "2026-08-25T16:09:41.820712+00:00",
   "headlines": [
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024655/0001918704-26-024655-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T15:23:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One Business Travel Limited Time Offer Ends Sept. 7 for New Spark Cash Plus and Spark Cash Cardholders",
+      "url": "http://www.businesswire.com/news/home/20260825865639/en/Capital-One-Business-Travel-Limited-Time-Offer-Ends-Sept.-7-for-New-Spark-Cash-Plus-and-Spark-Cash-Cardholders/?feedref=JjAwJuNHiystnCoBq_hl-VjNRTp8UbpWYG_U_jHZt0-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ic4wAtW1fsqIjUSz7ZIZlRQ",
+      "source": "businesswire.com",
+      "published": "2026-08-25T15:19:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
       "url": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
@@ -8,6 +27,25 @@
       "published": "2026-08-25T15:04:00+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Citi Trends Q2 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-trends-q2-earnings-call-150304617.html",
+      "source": "yahoo.com",
+      "published": "2026-08-25T15:03:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "iHeartMedia Announces Additions to the 2026 iHeartRadio Music Festival Presented by Capital One Lineup Including Ciara, The Smashing Pumpkins and a Special Performance by Stella Lefty",
+      "url": "https://content.iheartmedia.com/press/iheartmedia-announces-additions-2026-iheartradio-music-festival-presented-capital-one-lineup",
+      "source": "iheartmedia.com",
+      "published": "2026-08-25T15:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -29,252 +67,149 @@
       ]
     },
     {
-      "title": "Morgan Stanley Upgrades Alphabet (GOOGL) Forecast on $200B TPU Chip Revenue Potential",
-      "url": "https://blockonomi.com/morgan-stanley-upgrades-alphabet-googl-forecast-on-200b-tpu-chip-revenue-potential/",
-      "source": "blockonomi.com",
-      "published": "2026-08-25T13:45:26+00:00",
+      "title": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
+      "url": "https://www.investors.com/news/technology/googles-ai-chip-business-is-booming-why-gemini-4-matters-more-for-google-stock/",
+      "source": "investors.com",
+      "published": "2026-08-25T14:40:50+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Five Below (NASDAQ:FIVE) Given New $273.00 Price Target at Truist Financial",
-      "url": "https://www.tickerreport.com/banking-finance/13558161/five-below-nasdaqfive-given-new-273-00-price-target-at-truist-financial.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T13:30:48+00:00",
+      "title": "Morgan Stanley: Google AI Chip Boom Could Unlock $200 Billion",
+      "url": "https://www.gurufocus.com/news/9051575/morgan-stanley-google-ai-chip-boom-could-unlock-200-billion",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:39:55+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "The SEC Reportedly Wants To Know More About Wall Street Banks' Role In The Fall Of Situational Awareness",
-      "url": "https://www.ibtimes.com/sec-reportedly-wants-know-more-about-wall-street-banks-role-fall-situational-awareness-3806760",
-      "source": "ibtimes.com",
-      "published": "2026-08-25T13:30:14+00:00",
+      "title": "Memory Shortage Deepens to Worst Levels Since 2017 — Here’s Why Micron Investors Will Cash In",
+      "url": "https://247wallst.com/investing/2026/08/25/memory-shortage-deepens-to-worst-levels-since-2017-heres-why-micron-investors-will-cash-in/",
+      "source": "247wallst.com",
+      "published": "2026-08-25T14:37:32+00:00",
       "tickers": [
-        "JPM",
-        "BAC",
-        "C",
         "GS"
       ]
     },
     {
-      "title": "(USD:ZWG) Citigroup Sees Zimbabwe Economy Turnaround in Break With Past",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/-usd-zwg-citigroup-sees-zimbabwe-economy-turnaround-in-break-with-past",
-      "source": "bloomberg.com",
-      "published": "2026-08-25T13:20:38+00:00",
+      "title": "XPEV Maintains Overweight Rating -- Price Target Lowered to $24.00 by JP Morgan",
+      "url": "https://www.gurufocus.com/news/9051611/xpev-maintains-overweight-rating-price-target-lowered-to-2400-by-jp-morgan",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:35:25+00:00",
       "tickers": [
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Workiva to Present at Upcoming Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20260825998006/en/Workiva-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-08-25T13:15:00+00:00",
+      "title": "KARD Maintained by JP Morgan -- Price Target Lowered to $46.00",
+      "url": "https://www.gurufocus.com/news/9051608/kard-maintained-by-jp-morgan-price-target-lowered-to-4600",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:34:35+00:00",
       "tickers": [
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Vet Tix Surpasses 40 Million Tickets Distributed to Our Nation's Heroes, Generating an Estimated $6.5 Billion in Economic Impact",
-      "url": "https://www.prnewswire.com/news-releases/vet-tix-surpasses-40-million-tickets-distributed-to-our-nations-heroes-generating-an-estimated-6-5-billion-in-economic-impact-302859052.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-25T13:15:00+00:00",
+      "title": "ALB Maintained by JP Morgan -- Price Target Lowered to $140",
+      "url": "https://www.gurufocus.com/news/9051606/alb-maintained-by-jp-morgan-price-target-lowered-to-140",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:34:11+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Lisa Shallet Sees Potential US 10-Year ‘Reckoning’ for Stocks",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-25/lisa-shallet-sees-potential-us-10-yr-stock-reckoning-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-25T13:13:45+00:00",
+      "title": "RARE Maintained by JP Morgan -- Price Target Raised to $80",
+      "url": "https://www.gurufocus.com/news/9051605/rare-maintained-by-jp-morgan-price-target-raised-to-80",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:33:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SLG Maintained by JP Morgan -- Price Target Raised to $61.00",
+      "url": "https://www.gurufocus.com/news/9051603/slg-maintained-by-jp-morgan-price-target-raised-to-6100",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:33:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PAYC Maintained by JP Morgan -- Price Target Raised to $264",
+      "url": "https://www.gurufocus.com/news/9051601/payc-maintained-by-jp-morgan-price-target-raised-to-264",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:32:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PANW Maintains Overweight Rating by JP Morgan -- Price Target Raised to $384",
+      "url": "https://www.gurufocus.com/news/9051599/panw-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-384",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:32:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KIM Maintained by JP Morgan -- Price Target Raised to $26.00",
+      "url": "https://www.gurufocus.com/news/9051596/kim-maintained-by-jp-morgan-price-target-raised-to-2600",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:31:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "INVH Maintains Overweight Rating by JP Morgan -- Price Target Raised to $34",
+      "url": "https://www.gurufocus.com/news/9051593/invh-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-34",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:31:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BXP Maintained by JP Morgan -- Price Target Raised to $87.00",
+      "url": "https://www.gurufocus.com/news/9051590/bxp-maintained-by-jp-morgan-price-target-raised-to-8700",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T14:30:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley upgrades CrowdStrike to overweight, betting AI boom will supercharge cybersecurity spending",
+      "url": "https://cryptobriefing.com/morgan-stanley-upgrades-crowdstrike-ai-cybersecurity/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-25T14:30:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Paycom Software (NYSE:PAYC) Price Target Raised to $264.00",
-      "url": "https://www.tickerreport.com/banking-finance/13558133/paycom-software-nysepayc-price-target-raised-to-264-00.html",
+      "title": "Berkshire Boosts Its Bet: This AI Hyperscaler Is Now a Top-3 Holding",
+      "url": "https://www.marketbeat.com/articles/berkshire-boosts-its-bet-this-ai-hyperscaler-is-now-a-top-3-holding/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T14:25:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for Global Payments (NYSE:GPN) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13558200/truist-financial-issues-positive-forecast-for-global-payments-nysegpn-stock-price.html",
       "source": "tickerreport.com",
-      "published": "2026-08-25T13:07:03+00:00",
+      "published": "2026-08-25T14:24:56+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "XPENG (NYSE:XPEV) Price Target Lowered to $24.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-xpeng-nyse-xpev-price-target-lowered-to-2400-at-jpmorgan-chase-co-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Kardigan (NASDAQ:KARD) Price Target Cut to $46.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-kardigan-nasdaq-kard-price-target-cut-to-4600-by-analysts-at-jpmorgan-chase-co-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SL Green Realty (NYSE:SLG) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-sl-green-realty-nyse-slg-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Albemarle (NYSE:ALB) Price Target to $140.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-albemarle-nyse-alb-price-target-to-14000-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Increases Ultragenyx Pharmaceutical (NASDAQ:RARE) Price Target to $80.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-increases-ultragenyx-pharmaceutical-nasdaq-rare-price-target-to-8000-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Paycom Software (NYSE:PAYC) Given New $264.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-paycom-software-nyse-payc-given-new-26400-price-target-at-jpmorgan-chase-co-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks (NASDAQ:PANW) Given New $384.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-palo-alto-networks-nasdaq-panw-given-new-38400-price-target-at-jpmorgan-chase-co-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Raises BXP (NYSE:BXP) Price Target to $87.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-raises-bxp-nyse-bxp-price-target-to-8700-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Kimco Realty (NYSE:KIM) Price Target Raised to $26.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-kimco-realty-nyse-kim-price-target-raised-to-2600-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Invitation Home (NYSE:INVH) Given New $34.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-invitation-home-nyse-invh-given-new-3400-price-target-at-jpmorgan-chase-co-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T13:06:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Google could generate $200B in TPU-related revenue, Morgan Stanley says",
-      "url": "https://seekingalpha.com/news/4636587-google-could-generate-200b-in-tpu-related-revenue-morgan-stanley-says",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T13:06:08+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Dynatrace rises after rating upgrade at Morgan Stanley",
-      "url": "https://seekingalpha.com/news/4636582-dynatrace-rises-after-rating-upgrade-at-morgan-stanley",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T13:04:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MiniMed to Participate in Upcoming Investor Conferences",
-      "url": "https://www.prnewswire.com/news-releases/minimed-to-participate-in-upcoming-investor-conferences-302858738.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-25T13:03:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "NRG Energy (NRG) – Investment Analysts’ Weekly Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13558117/nrg-energy-nrg-investment-analysts-weekly-ratings-updates.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T12:56:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JP Morgan sees a catch with Treasury buybacks: higher term premium",
-      "url": "https://seekingalpha.com/news/4636575-jp-morgan-sees-a-catch-with-treasury-buybacks-higher-term-premium",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T12:36:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Ranks These EU Diagnostics Stocks by China Reform Risk",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-ranks-these-eu-diagnostics-stocks-by-china-reform-risk-93CH-4875334",
-      "source": "investing.com",
-      "published": "2026-08-25T12:34:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup: A Great Value Play With A Solid Income Preferred Share | $C",
-      "url": "https://seekingalpha.com/article/4939590-citigroup-a-great-value-play-with-a-solid-income-preferred-share",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T12:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Investment Analysts’ Recent Ratings Updates for Dell Technologies (DELL)",
-      "url": "https://www.tickerreport.com/banking-finance/13558089/investment-analysts-recent-ratings-updates-for-dell-technologies-dell.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T12:26:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Stock Holdings Lessened by Trajan Wealth LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13558086/citigroup-inc-c-stock-holdings-lessened-by-trajan-wealth-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T12:24:53+00:00",
-      "tickers": [
-        "C"
+        "C",
+        "TFC"
       ]
     }
   ]
