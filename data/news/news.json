@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-08-25T09:09:45.835031+00:00",
+  "last_updated": "2026-08-25T10:02:41.814237+00:00",
   "headlines": [
+    {
+      "title": "Goldman says big investors are split on AI, but are showing historic bullishness for one stock sector in particular",
+      "url": "https://www.businessinsider.com/ai-stocks-financials-hedge-mutual-funds-goldman-sachs-fisv-ibkr-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-25T09:35:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Marks and Spencer Group (LON:MKS) Given New GBX 470 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-marks-and-spencer-group-lon-mks-given-new-gbx-470-price-target-at-citigroup-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:30:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Osmosis Investment Management UK Ltd Buys New Holdings in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-buys-new-holdings-in-state-street-corporation-stt-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:30:10+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Osmosis Investment Management UK Ltd Cuts Stake in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-cuts-stake-in-truist-financial-corporation-tfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:29:59+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Osmosis Investment Management UK Ltd Reduces Stock Holdings in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-reduces-stock-holdings-in-the-goldman-sachs-group-inc-gs-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:29:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman's engineers have a new challenge: turning AI agents into firm insiders",
+      "url": "https://www.businessinsider.com/goldman-sachs-engineers-ai-marco-argenti-2026-8",
+      "source": "businessinsider.com",
+      "published": "2026-08-25T09:16:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Keebeck Wealth Management Makes New Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-keebeck-wealth-management-makes-new-investment-in-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:59+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "OneAscent Financial Services LLC Takes Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oneascent-financial-services-llc-takes-position-in-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:50+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "OneAscent Financial Services LLC Takes Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oneascent-financial-services-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "TrinityBridge Ltd Invests $3.29 Million in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-trinitybridge-ltd-invests-329-million-in-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Silvant Capital Management LLC Purchases Shares of 77,680 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-silvant-capital-management-llc-purchases-shares-of-77680-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "NFJ Investment Group LLC Buys New Shares in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nfj-investment-group-llc-buys-new-shares-in-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Mystic Asset Management Inc. Buys Shares of 28,163 Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mystic-asset-management-inc-buys-shares-of-28163-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Oxford Financial Group LTD. LLC Takes Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oxford-financial-group-ltd-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Silvant Capital Management LLC Makes New Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-silvant-capital-management-llc-makes-new-investment-in-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Portfolio Design Labs LLC Buys Shares of 28,877 Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-portfolio-design-labs-llc-buys-shares-of-28877-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:47+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jupiter Wealth Management LLC Invests $1.24 Million in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-wealth-management-llc-invests-124-million-in-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:45+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Vise Technologies Inc. Makes New $15.88 Million Investment in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vise-technologies-inc-makes-new-1588-million-investment-in-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:35+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "OVERSEA CHINESE BANKING Corp Ltd Invests $2.97 Million in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oversea-chinese-banking-corp-ltd-invests-297-million-in-wells-fargo-company-wfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "49,622 Shares in Bank of America Corporation $BAC Acquired by Portfolio Design Labs LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-49622-shares-in-bank-of-america-corporation-bac-acquired-by-portfolio-design-labs-llc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:05:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Mystic Asset Management Inc. Makes New $9.05 Million Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mystic-asset-management-inc-makes-new-905-million-investment-in-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:05:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "My Adjusted Recommended Portfolio For 2026 (SCHD Included) | $JPM $KO $MSFT $NEE $BBSEY",
+      "url": "https://seekingalpha.com/article/4939860-my-adjusted-recommended-portfolio-for-2026-schd-included",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T08:50:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "European retail stocks: Citi sees further upside for M&S, upgrades Next to Buy",
+      "url": "https://www.investing.com/news/stock-market-news/european-retail-stocks-citi-sees-further-upside-for-ms-upgrades-next-to-buy-4874669",
+      "source": "investing.com",
+      "published": "2026-08-25T08:48:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Cibc World Market Inc. Sells 13,604 Shares of Truist Financial Corporation $TFC",
+      "url": "https://www.tickerreport.com/banking-finance/13557290/cibc-world-market-inc-sells-13604-shares-of-truist-financial-corporation-tfc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T08:11:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JP Morgan once bought 117 acres of Maine coast including Sand Beach as a wedding gift for his daughter, but his grandaughter later donated 100 acres; here's why",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/jp-morgan-once-bought-117-acres-of-maine-coast-including-sand-beach-as-a-wedding-gift-for-his-daughter-but-his-grandaughter-later-donated-100-acres-heres-why/articleshow/133496352.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-25T08:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "European Blockchain Convention Returns to Barcelona for Europe’s First Post-MiCA Gathering",
+      "url": "https://finbold.com/european-blockchain-convention-returns-to-barcelona-for-europes-first-post-mica-gathering/",
+      "source": "finbold.com",
+      "published": "2026-08-25T07:57:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Gold Price Forecast: Goldman Sachs Predicts $4900/oz by 2026",
+      "url": "https://www.gurufocus.com/news/9051031/gold-price-forecast-goldman-sachs-predicts-4900oz-by-2026",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T07:50:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "1,256,532 Shares in TransUnion $TRU Bought by Bank of New York Mellon Corp",
       "url": "https://www.marketbeat.com/instant-alerts/filing-1256532-shares-in-transunion-tru-bought-by-bank-of-new-york-mellon-corp-2026-08-25/",
@@ -24,249 +284,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-9087-million-in-generac-holdings-inc-gnrc-2026-08-25/",
       "source": "marketbeat.com",
       "published": "2026-08-25T07:21:15+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires New Shares in Tractor Supply Company $TSCO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-new-shares-in-tractor-supply-company-tsco-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:21:13+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases Shares of 577,688 Owens Corning Inc $OC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-577688-owens-corning-inc-oc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:21:12+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in Equifax, Inc. $EFX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-equifax-inc-efx-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:21:10+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New $92.92 Million Investment in Genuine Parts Company $GPC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-9292-million-investment-in-genuine-parts-company-gpc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:59+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $93 Million in Oshkosh Corporation $OSK",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-93-million-in-oshkosh-corporation-osk-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:58+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "2,196,689 Shares in APi Group Corporation $APG Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-2196689-shares-in-api-group-corporation-apg-acquired-by-bank-of-new-york-mellon-corp-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:58+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires Shares of 277,013 Applied Industrial Technologies, Inc. $AIT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-shares-of-277013-applied-industrial-technologies-inc-ait-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:57+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in Stifel Financial Corporation $SF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-stifel-financial-corporation-sf-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:57+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases New Position in Toro Corp. $TORO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-new-position-in-toro-corp-toro-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:56+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $95.16 Million in Texas Roadhouse, Inc. $TXRH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-9516-million-in-texas-roadhouse-inc-txrh-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:55+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in Zimmer Biomet Holdings, Inc. $ZBH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-zimmer-biomet-holdings-inc-zbh-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:53+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $97.62 Million in Graco Inc. $GGG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-9762-million-in-graco-inc-ggg-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:52+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $97.18 Million in Globe Life Inc. $GL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-9718-million-in-globe-life-inc-gl-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:52+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes $98.68 Million Position in Fidelity National Information Services, Inc. $FIS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-9868-million-position-in-fidelity-national-information-services-inc-fis-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:51+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys New Shares in Watsco, Inc. $WSO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-new-shares-in-watsco-inc-wso-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:51+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $98.78 Million in Kulicke and Soffa Industries, Inc. $KLIC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-9878-million-in-kulicke-and-soffa-industries-inc-klic-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:50+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires New Holdings in Global Payments Inc. $GPN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-new-holdings-in-global-payments-inc-gpn-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:50+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $101.20 Million in Brunswick Corporation $BC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-10120-million-in-brunswick-corporation-bc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:49+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New $101.13 Million Investment in DaVita Inc. $DVA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-10113-million-investment-in-davita-inc-dva-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:49+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New Investment in Match Group Inc. $MTCH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-match-group-inc-mtch-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:49+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "742,884 Shares in Broadridge Financial Solutions, Inc. $BR Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-742884-shares-in-broadridge-financial-solutions-inc-br-acquired-by-bank-of-new-york-mellon-corp-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:48+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $102.38 Million in OGE Energy Corporation $OGE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-10238-million-in-oge-energy-corporation-oge-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:48+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires Shares of 627,629 Avery Dennison Corporation $AVY",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-shares-of-627629-avery-dennison-corporation-avy-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:48+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes $103.27 Million Position in Albemarle Corporation $ALB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-10327-million-position-in-albemarle-corporation-alb-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:47+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases New Shares in American Financial Group, Inc. $AFG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-new-shares-in-american-financial-group-inc-afg-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:47+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys New Stake in FormFactor, Inc. $FORM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-new-stake-in-formfactor-inc-form-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:47+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "2,261,811 Shares in Ally Financial Inc. $ALLY Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-2261811-shares-in-ally-financial-inc-ally-acquired-by-bank-of-new-york-mellon-corp-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:20:46+00:00",
       "tickers": [
         "BK"
       ]
