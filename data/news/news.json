@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-08-25T11:56:08.669742+00:00",
+  "last_updated": "2026-08-25T13:02:41.695798+00:00",
   "headlines": [
+    {
+      "title": "JP Morgan sees a catch with Treasury buybacks: higher term premium",
+      "url": "https://seekingalpha.com/news/4636575-jp-morgan-sees-a-catch-with-treasury-buybacks-higher-term-premium",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T12:36:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup: A Great Value Play With A Solid Income Preferred Share | $C",
+      "url": "https://seekingalpha.com/article/4939590-citigroup-a-great-value-play-with-a-solid-income-preferred-share",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T12:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "500 Shares in The Goldman Sachs Group, Inc. $GS Bought by Clal Insurance Enterprises Holdings Ltd",
+      "url": "https://www.tickerreport.com/banking-finance/13558064/500-shares-in-the-goldman-sachs-group-inc-gs-bought-by-clal-insurance-enterprises-holdings-ltd.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T12:12:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SoFi to Participate in Goldman Sachs Communacopia & Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260825221247/en/SoFi-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-08-25T12:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CDW to Participate in the Citi 2026 Global TMT Conference",
+      "url": "http://www.businesswire.com/news/home/20260825392434/en/CDW-to-Participate-in-the-Citi-2026-Global-TMT-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-08-25T12:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Highlights Strategic Shift in U.S.-China Ties; CNY Market Cap at $8M",
+      "url": "https://www.gurufocus.com/news/9051168/morgan-stanley-highlights-strategic-shift-in-uschina-ties-cny-market-cap-at-8m",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T11:58:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "US Iran Barron Trump Secret Service",
+      "url": "https://www.idahopress.com/ap_news/us/us-iran-barron-trump-secret-service/image_3c32e3a8-1bab-5a3e-93ad-3b1820cb9c70.html",
+      "source": "idahopress.com",
+      "published": "2026-08-25T11:46:05+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Nvidia’s AI financing push brings new credit risks, Morgan Stanley says",
+      "url": "https://www.investing.com/news/stock-market-news/nvidias-ai-financing-push-brings-new-credit-risks-morgan-stanley-says-4875159",
+      "source": "investing.com",
+      "published": "2026-08-25T11:41:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LM Advisors LLC Acquires 569 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13557995/lm-advisors-llc-acquires-569-shares-of-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T11:36:58+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Truist Financial Corporation $TFC Shares Sold by Manning & Napier Advisors LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13557939/truist-financial-corporation-tfc-shares-sold-by-manning-napier-advisors-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T11:21:13+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "The debt-fueled AI build-out may already be too big to fail",
       "url": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
@@ -62,6 +154,15 @@
       "url": "https://www.investing.com/news/commodities-news/citi-says-golds-breakout-is-specdriven-and-hinges-on-jackson-hole-4874987",
       "source": "investing.com",
       "published": "2026-08-25T10:57:19+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Trends: Fiscal Q2 Earnings Snapshot",
+      "url": "https://www.northwestgeorgianews.com/state/citi-trends-fiscal-q2-earnings-snapshot/article_533daf94-c981-58d6-86c9-d4dfb038e6a8.html",
+      "source": "northwestgeorgianews.com",
+      "published": "2026-08-25T10:54:32+00:00",
       "tickers": [
         "C"
       ]
@@ -176,107 +277,6 @@
       "published": "2026-08-25T10:00:10+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "19,770 Shares in State Street Corporation $STT Acquired by Northwestern Mutual Wealth Management Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13557646/19770-shares-in-state-street-corporation-stt-acquired-by-northwestern-mutual-wealth-management-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T10:00:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Caplight facilitates Citi's launch of tokenized depositary receipts on private shares",
-      "url": "https://www.prnewswire.com/news-releases/caplight-facilitates-citis-launch-of-tokenized-depositary-receipts-on-private-shares-302858866.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-25T10:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Blackbird Ventures Raises Record $750M Fund with Support from Morgan Stanley (MS)",
-      "url": "https://www.gurufocus.com/news/9051082/blackbird-ventures-raises-record-750m-fund-with-support-from-morgan-stanley-ms",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T09:52:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "RBI measures to lift India’s ECB inflows to $75-80 billion in FY27: Citi’s corp banking head",
-      "url": "https://www.livemint.com/industry/banking/rbi-measures-to-lift-india-s-ecb-inflows-to-75-80-billion-in-fy27-citi-s-corp-banking-head-11787559587436.html",
-      "source": "livemint.com",
-      "published": "2026-08-25T09:51:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "192,201 Shares in Wells Fargo & Company $WFC Bought by Vise Technologies Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13557604/192201-shares-in-wells-fargo-company-wfc-bought-by-vise-technologies-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T09:47:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SoftBank cuts Lenskart stakes for second time, sells ₹2,888 cr worth shares to Goldman Sachs, Societe Generale, others",
-      "url": "https://www.livemint.com/companies/news/softbank-cuts-lenskart-stakes-for-second-time-sells-rs-2-888-cr-worth-shares-to-goldman-sachs-societe-generale-others-11787648539918.html",
-      "source": "livemint.com",
-      "published": "2026-08-25T09:46:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman says big investors are split on AI, but are showing historic bullishness for one stock sector in particular",
-      "url": "https://www.businessinsider.com/ai-stocks-financials-hedge-mutual-funds-goldman-sachs-fisv-ibkr-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-25T09:35:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Marks and Spencer Group (LON:MKS) Given New GBX 470 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-marks-and-spencer-group-lon-mks-given-new-gbx-470-price-target-at-citigroup-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:30:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Osmosis Investment Management UK Ltd Buys New Holdings in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-buys-new-holdings-in-state-street-corporation-stt-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:30:10+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Osmosis Investment Management UK Ltd Cuts Stake in Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-cuts-stake-in-truist-financial-corporation-tfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:29:59+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Osmosis Investment Management UK Ltd Reduces Stock Holdings in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-osmosis-investment-management-uk-ltd-reduces-stock-holdings-in-the-goldman-sachs-group-inc-gs-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:29:56+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
