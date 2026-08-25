@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-25T03:05:44.233730+00:00",
+  "last_updated": "2026-08-25T04:10:01.227982+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley and Schroders back $750M Blackbird fundraise tied to Canva’s $42B empire",
+      "url": "https://cryptobriefing.com/morgan-stanley-schroders-blackbird-750m-fundraise/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-25T02:51:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "????? Reports 209% Profit Growth; Citigroup Raises Price Target to HKD 95",
+      "url": "https://www.gurufocus.com/news/9050703/-reports-209-profit-growth-citigroup-raises-price-target-to-hkd-95",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T02:50:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "MORGAN STANLEY Adds to Black Stone Minerals LP (BSM) Stake -- Shares Near Fair Value on GF Value",
       "url": "https://www.gurufocus.com/news/9050657/morgan-stanley-adds-to-black-stone-minerals-lp-bsm-stake-shares-near-fair-value-on-gf-value",
@@ -76,6 +94,16 @@
       ]
     },
     {
+      "title": "Trump Says Capital One Accounts Case Shouldn't Be Tossed",
+      "url": "https://www.law360.com/banking/articles/2517176?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-08-24T22:44:23+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
       "title": "Wells Fargo at center of attention as acquisition speculation rises in banking sector",
       "url": "https://www.bizjournals.com/charlotte/news/2026/08/24/wells-fargo-bank-mergers-speculate-first-citizens.html?ana=brss_1543",
       "source": "bizjournals.com",
@@ -141,6 +169,16 @@
       ]
     },
     {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024607/0001918704-26-024607-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-24T21:24:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.4% Higher - Here's What Happened",
       "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-nysejpm-trading-14-higher-heres-what-happened-2026-08-24/",
       "source": "marketbeat.com",
@@ -174,15 +212,6 @@
       "published": "2026-08-24T20:52:05+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "ACN Maintained by Citigroup -- Price Target Raised to $190",
-      "url": "https://www.gurufocus.com/news/9050145/acn-maintained-by-citigroup-price-target-raised-to-190",
-      "source": "gurufocus.com",
-      "published": "2026-08-24T20:33:00+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
