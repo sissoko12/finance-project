@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T05:59:55.624266+00:00",
+  "last_updated": "2026-08-25T07:03:36.597494+00:00",
   "headlines": [
     {
       "title": "BNY Mellon Small Cap Value Fund Q2 2026 Commentary | $STSVX $BOSYX $RUDAX $BOSCX",
@@ -70,6 +70,15 @@
       "url": "https://seekingalpha.com/news/4636427-europe-may-need-100-gas-to-secure-sufficient-winter-supply-goldman-sachs-says",
       "source": "seekingalpha.com",
       "published": "2026-08-25T01:10:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Will IHCL's merger with Oriental Hotels unlock value for shareholders? Here's what Goldman Sachs, Nomura, and others say",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-ihcls-merger-with-oriental-hotels-unlock-value-for-shareholders-heres-what-goldman-sachs-nomura-and-others-say/articleshow/133496525.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-25T00:45:55+00:00",
       "tickers": [
         "GS"
       ]
@@ -222,15 +231,6 @@
       "published": "2026-08-24T21:02:22+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526363716/0001193125-26-363716-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-24T20:52:05+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
