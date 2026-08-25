@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-08-25T11:01:06.353020+00:00",
+  "last_updated": "2026-08-25T11:56:08.669742+00:00",
   "headlines": [
+    {
+      "title": "The debt-fueled AI build-out may already be too big to fail",
+      "url": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-25T11:12:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stick with value stocks until everyone is talking about them — and they are still under the radar, this Wall Street firm says.",
+      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-25T11:09:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Info Tech was biggest net-sold sector last week, Goldman Sachs says",
+      "url": "https://seekingalpha.com/news/4636528-info-tech-was-biggest-net-sold-sector-last-week-goldman-sachs-says",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T11:06:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Jersey Mike’s (NYSE:JMKE) Stock Rating Upgraded by Wells Fargo & Company",
+      "url": "https://www.tickerreport.com/banking-finance/13557861/jersey-mikes-nysejmke-stock-rating-upgraded-by-wells-fargo-company.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T11:02:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CRITEO TO PRESENT AT THE CITI 2026 GLOBAL TMT CONFERENCE ON SEPTEMBER 8, 2026",
+      "url": "https://www.prnewswire.com/news-releases/criteo-to-present-at-the-citi-2026-global-tmt-conference-on-september-8-2026-302858422.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-25T11:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. stock market bullish positioning is weakening as bearish flows return: Citi",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-market-bullish-positioning-is-weakening-as-bearish-flows-return-citi-4874994",
+      "source": "investing.com",
+      "published": "2026-08-25T10:59:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi says gold’s breakout is spec-driven and hinges on Jackson Hole",
+      "url": "https://www.investing.com/news/commodities-news/citi-says-golds-breakout-is-specdriven-and-hinges-on-jackson-hole-4874987",
+      "source": "investing.com",
+      "published": "2026-08-25T10:57:19+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Trends GAAP EPS of -$0.11 beats by $0.21, revenue of $211.63M beats by $3.26M",
+      "url": "https://seekingalpha.com/news/4636517-citi-trends-gaap-eps-of-0_11-beats-by-0_21-revenue-of-211_63m-beats-by-3_26m",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T10:46:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NVIDIA’s CoWoS AI Chip Packaging Demand To Be Foreshadowed In 2027 By AMD Due To Agentic AI CPU Ramp, Says Morgan Stanley",
+      "url": "https://wccftech.com/nvidias-cowos-ai-chip-packaging-demand-to-be-foreshadowed-in-2027-by-amd-due-to-agentic-ai-cpu-ramp-says-morgan-stanley/",
+      "source": "wccftech.com",
+      "published": "2026-08-25T10:35:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "These 8 chip stocks now offer enhanced buying opportunities, BofA says",
+      "url": "https://www.investing.com/news/stock-market-news/these-8-chip-stocks-now-offer-enhanced-buying-opportunities-bofa-says-4874921",
+      "source": "investing.com",
+      "published": "2026-08-25T10:32:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan raises Novo Nordisk target on stronger Ozempic, Wegovy sales",
+      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-raises-novo-nordisk-target-on-stronger-ozempic-wegovy-sales-4874872",
+      "source": "investing.com",
+      "published": "2026-08-25T10:20:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Jones Financial Companies Lllp Takes $1.13 Million Position in The PNC Financial Services Group, Inc $PNC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-jones-financial-companies-lllp-takes-113-million-position-in-the-pnc-financial-services-group-inc-pnc-2026-08-25/",
@@ -104,6 +206,15 @@
       ]
     },
     {
+      "title": "RBI measures to lift India’s ECB inflows to $75-80 billion in FY27: Citi’s corp banking head",
+      "url": "https://www.livemint.com/industry/banking/rbi-measures-to-lift-india-s-ecb-inflows-to-75-80-billion-in-fy27-citi-s-corp-banking-head-11787559587436.html",
+      "source": "livemint.com",
+      "published": "2026-08-25T09:51:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "192,201 Shares in Wells Fargo & Company $WFC Bought by Vise Technologies Inc.",
       "url": "https://www.tickerreport.com/banking-finance/13557604/192201-shares-in-wells-fargo-company-wfc-bought-by-vise-technologies-inc.html",
       "source": "tickerreport.com",
@@ -111,6 +222,15 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "SoftBank cuts Lenskart stakes for second time, sells ₹2,888 cr worth shares to Goldman Sachs, Societe Generale, others",
+      "url": "https://www.livemint.com/companies/news/softbank-cuts-lenskart-stakes-for-second-time-sells-rs-2-888-cr-worth-shares-to-goldman-sachs-societe-generale-others-11787648539918.html",
+      "source": "livemint.com",
+      "published": "2026-08-25T09:46:34+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -157,133 +277,6 @@
       "published": "2026-08-25T09:29:56+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "XRP ETFs Go From Zero to $86.5M at Goldman Sachs in Just One Quarter",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-zero-86-5m-092029017.html",
-      "source": "yahoo.com",
-      "published": "2026-08-25T09:20:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman's engineers have a new challenge: turning AI agents into firm insiders",
-      "url": "https://www.businessinsider.com/goldman-sachs-engineers-ai-marco-argenti-2026-8",
-      "source": "businessinsider.com",
-      "published": "2026-08-25T09:16:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi raises corn, soybean, wheat price targets on El Niño risks",
-      "url": "https://www.investing.com/news/commodities-news/citi-raises-corn-soybean-wheat-price-targets-on-el-nino-risks-93CH-4874733",
-      "source": "investing.com",
-      "published": "2026-08-25T09:13:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Keebeck Wealth Management Makes New Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-keebeck-wealth-management-makes-new-investment-in-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:59+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Patron Partners LLC Makes New Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-patron-partners-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "OneAscent Financial Services LLC Takes Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oneascent-financial-services-llc-takes-position-in-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:50+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "OneAscent Financial Services LLC Takes Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oneascent-financial-services-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "TrinityBridge Ltd Invests $3.29 Million in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-trinitybridge-ltd-invests-329-million-in-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Silvant Capital Management LLC Purchases Shares of 77,680 Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-silvant-capital-management-llc-purchases-shares-of-77680-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NFJ Investment Group LLC Buys New Shares in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nfj-investment-group-llc-buys-new-shares-in-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mystic Asset Management Inc. Buys Shares of 28,163 Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mystic-asset-management-inc-buys-shares-of-28163-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Oxford Financial Group LTD. LLC Takes Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oxford-financial-group-ltd-llc-takes-position-in-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Silvant Capital Management LLC Makes New Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-silvant-capital-management-llc-makes-new-investment-in-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
