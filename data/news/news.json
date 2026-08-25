@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-08-25T16:09:41.820712+00:00",
+  "last_updated": "2026-08-25T17:06:48.223694+00:00",
   "headlines": [
+    {
+      "title": "Vikings unveil Rivalries Uniform for Dec. 20 game against Detroit Lions",
+      "url": "https://www.fox9.com/sports/vikings-unveil-rivalries-uniform-dec-20-game-against-detroit-lions",
+      "source": "fox9.com",
+      "published": "2026-08-25T16:14:43+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526364554/0001193125-26-364554-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T16:09:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SBA Communications Corporation to Speak at the Goldman Sachs 2026 Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260825259159/en/SBA-Communications-Corporation-to-Speak-at-the-Goldman-Sachs-2026-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-UpjgcndOkC0dwov6eyR1554HYp9J0ydRnx9o_TxnguQWJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGtCdesLuLN4aYo9yGczkk9Q==",
+      "source": "businesswire.com",
+      "published": "2026-08-25T16:06:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012829/0000950103-26-012829-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T15:57:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Increases ACADIA Pharmaceuticals (NASDAQ:ACAD) Price Target to $40.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-increases-acadia-pharmaceuticals-nasdaq-acad-price-target-to-4000-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T15:42:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "York Space Systems (YSS) Stock Plummets as Goldman Sachs Slashes Price Target by Half",
+      "url": "https://blockonomi.com/york-space-systems-yss-stock-plummets-as-goldman-sachs-slashes-price-target-by-half/",
+      "source": "blockonomi.com",
+      "published": "2026-08-25T15:37:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024655/0001918704-26-024655-index.htm",
@@ -11,8 +65,17 @@
       ]
     },
     {
+      "title": "The Extra Mile, Aug. 25: A New Citi Transfer Bonus, 100K Points With No-Annual-Fee & More",
+      "url": "https://thriftytraveler.com/newsletters/extra-mile/new-citi-transfer-bonus-lhw/",
+      "source": "thriftytraveler.com",
+      "published": "2026-08-25T15:21:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Capital One Business Travel Limited Time Offer Ends Sept. 7 for New Spark Cash Plus and Spark Cash Cardholders",
-      "url": "http://www.businesswire.com/news/home/20260825865639/en/Capital-One-Business-Travel-Limited-Time-Offer-Ends-Sept.-7-for-New-Spark-Cash-Plus-and-Spark-Cash-Cardholders/?feedref=JjAwJuNHiystnCoBq_hl-VjNRTp8UbpWYG_U_jHZt0-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ic4wAtW1fsqIjUSz7ZIZlRQ",
+      "url": "http://www.businesswire.com/news/home/20260825865639/en/Capital-One-Business-Travel-Limited-Time-Offer-Ends-Sept.-7-for-New-Spark-Cash-Plus-and-Spark-Cash-Cardholders/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
       "source": "businesswire.com",
       "published": "2026-08-25T15:19:00+00:00",
       "tickers": [
@@ -190,26 +253,6 @@
       "published": "2026-08-25T14:30:00+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Berkshire Boosts Its Bet: This AI Hyperscaler Is Now a Top-3 Holding",
-      "url": "https://www.marketbeat.com/articles/berkshire-boosts-its-bet-this-ai-hyperscaler-is-now-a-top-3-holding/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T14:25:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Global Payments (NYSE:GPN) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13558200/truist-financial-issues-positive-forecast-for-global-payments-nysegpn-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T14:24:56+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
