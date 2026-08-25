@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-08-25T10:02:41.814237+00:00",
+  "last_updated": "2026-08-25T11:01:06.353020+00:00",
   "headlines": [
+    {
+      "title": "Jones Financial Companies Lllp Takes $1.13 Million Position in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jones-financial-companies-lllp-takes-113-million-position-in-the-pnc-financial-services-group-inc-pnc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T10:17:28+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Jones Financial Companies Lllp Has $117.63 Million Stock Holdings in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jones-financial-companies-lllp-has-11763-million-stock-holdings-in-truist-financial-corporation-tfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T10:16:59+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Shares Purchased by Jones Financial Companies Lllp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-purchased-by-jones-financial-companies-lllp-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T10:16:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Adjusts BOJ Rate Hike Expectations to September",
+      "url": "https://www.gurufocus.com/news/9051094/goldman-sachs-adjusts-boj-rate-hike-expectations-to-september",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T10:12:58+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Veratis Advisors Inc. Makes New $2.62 Million Investment in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-veratis-advisors-inc-makes-new-262-million-investment-in-truist-financial-corporation-tfc-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T10:09:02+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "U.S.-China relations shift toward strategic competition, Morgan Stanley says",
+      "url": "https://seekingalpha.com/news/4636485-us-china-relations-shift-toward-strategic-competition-morgan-stanley-says",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T10:05:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Should you own Lululemon stock as CEO reset begins? Morgan Stanley answers",
+      "url": "https://www.investing.com/news/stock-market-news/should-you-own-lululemon-stock-as-ceo-reset-begins-morgan-stanley-answers-93CH-4874811",
+      "source": "investing.com",
+      "published": "2026-08-25T10:02:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Quantbot Technologies LP Acquires New Shares in State Street Corporation $STT",
+      "url": "https://www.tickerreport.com/banking-finance/13557648/quantbot-technologies-lp-acquires-new-shares-in-state-street-corporation-stt.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T10:00:10+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "19,770 Shares in State Street Corporation $STT Acquired by Northwestern Mutual Wealth Management Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13557646/19770-shares-in-state-street-corporation-stt-acquired-by-northwestern-mutual-wealth-management-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T10:00:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Caplight facilitates Citi's launch of tokenized depositary receipts on private shares",
+      "url": "https://www.prnewswire.com/news-releases/caplight-facilitates-citis-launch-of-tokenized-depositary-receipts-on-private-shares-302858866.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-25T10:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Blackbird Ventures Raises Record $750M Fund with Support from Morgan Stanley (MS)",
+      "url": "https://www.gurufocus.com/news/9051082/blackbird-ventures-raises-record-750m-fund-with-support-from-morgan-stanley-ms",
+      "source": "gurufocus.com",
+      "published": "2026-08-25T09:52:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "192,201 Shares in Wells Fargo & Company $WFC Bought by Vise Technologies Inc.",
+      "url": "https://www.tickerreport.com/banking-finance/13557604/192201-shares-in-wells-fargo-company-wfc-bought-by-vise-technologies-inc.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T09:47:08+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Goldman says big investors are split on AI, but are showing historic bullishness for one stock sector in particular",
       "url": "https://www.businessinsider.com/ai-stocks-financials-hedge-mutual-funds-goldman-sachs-fisv-ibkr-2026-8",
@@ -48,6 +160,15 @@
       ]
     },
     {
+      "title": "XRP ETFs Go From Zero to $86.5M at Goldman Sachs in Just One Quarter",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-zero-86-5m-092029017.html",
+      "source": "yahoo.com",
+      "published": "2026-08-25T09:20:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Goldman's engineers have a new challenge: turning AI agents into firm insiders",
       "url": "https://www.businessinsider.com/goldman-sachs-engineers-ai-marco-argenti-2026-8",
       "source": "businessinsider.com",
@@ -57,12 +178,31 @@
       ]
     },
     {
+      "title": "Citi raises corn, soybean, wheat price targets on El Niño risks",
+      "url": "https://www.investing.com/news/commodities-news/citi-raises-corn-soybean-wheat-price-targets-on-el-nino-risks-93CH-4874733",
+      "source": "investing.com",
+      "published": "2026-08-25T09:13:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Keebeck Wealth Management Makes New Investment in Wells Fargo & Company $WFC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-keebeck-wealth-management-makes-new-investment-in-wells-fargo-company-wfc-2026-08-25/",
       "source": "marketbeat.com",
       "published": "2026-08-25T09:12:59+00:00",
       "tickers": [
         "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Patron Partners LLC Makes New Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-patron-partners-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-25/",
+      "source": "marketbeat.com",
+      "published": "2026-08-25T09:12:54+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -144,148 +284,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Portfolio Design Labs LLC Buys Shares of 28,877 Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-portfolio-design-labs-llc-buys-shares-of-28877-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jupiter Wealth Management LLC Invests $1.24 Million in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-wealth-management-llc-invests-124-million-in-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Vise Technologies Inc. Makes New $15.88 Million Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vise-technologies-inc-makes-new-1588-million-investment-in-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:35+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "OVERSEA CHINESE BANKING Corp Ltd Invests $2.97 Million in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oversea-chinese-banking-corp-ltd-invests-297-million-in-wells-fargo-company-wfc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:12:34+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "49,622 Shares in Bank of America Corporation $BAC Acquired by Portfolio Design Labs LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-49622-shares-in-bank-of-america-corporation-bac-acquired-by-portfolio-design-labs-llc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:05:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mystic Asset Management Inc. Makes New $9.05 Million Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mystic-asset-management-inc-makes-new-905-million-investment-in-bank-of-america-corporation-bac-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T09:05:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "My Adjusted Recommended Portfolio For 2026 (SCHD Included) | $JPM $KO $MSFT $NEE $BBSEY",
-      "url": "https://seekingalpha.com/article/4939860-my-adjusted-recommended-portfolio-for-2026-schd-included",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T08:50:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "European retail stocks: Citi sees further upside for M&S, upgrades Next to Buy",
-      "url": "https://www.investing.com/news/stock-market-news/european-retail-stocks-citi-sees-further-upside-for-ms-upgrades-next-to-buy-4874669",
-      "source": "investing.com",
-      "published": "2026-08-25T08:48:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Cibc World Market Inc. Sells 13,604 Shares of Truist Financial Corporation $TFC",
-      "url": "https://www.tickerreport.com/banking-finance/13557290/cibc-world-market-inc-sells-13604-shares-of-truist-financial-corporation-tfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T08:11:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JP Morgan once bought 117 acres of Maine coast including Sand Beach as a wedding gift for his daughter, but his grandaughter later donated 100 acres; here's why",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/jp-morgan-once-bought-117-acres-of-maine-coast-including-sand-beach-as-a-wedding-gift-for-his-daughter-but-his-grandaughter-later-donated-100-acres-heres-why/articleshow/133496352.cms",
-      "source": "indiatimes.com",
-      "published": "2026-08-25T08:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "European Blockchain Convention Returns to Barcelona for Europe’s First Post-MiCA Gathering",
-      "url": "https://finbold.com/european-blockchain-convention-returns-to-barcelona-for-europes-first-post-mica-gathering/",
-      "source": "finbold.com",
-      "published": "2026-08-25T07:57:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Gold Price Forecast: Goldman Sachs Predicts $4900/oz by 2026",
-      "url": "https://www.gurufocus.com/news/9051031/gold-price-forecast-goldman-sachs-predicts-4900oz-by-2026",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T07:50:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "1,256,532 Shares in TransUnion $TRU Bought by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-1256532-shares-in-transunion-tru-bought-by-bank-of-new-york-mellon-corp-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:21:19+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires Shares of 1,051,327 Amkor Technology, Inc. $AMKR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-shares-of-1051327-amkor-technology-inc-amkr-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:21:17+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $90.87 Million in Generac Holdings Inc. $GNRC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-9087-million-in-generac-holdings-inc-gnrc-2026-08-25/",
-      "source": "marketbeat.com",
-      "published": "2026-08-25T07:21:15+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
