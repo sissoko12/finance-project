@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-25T17:06:48.223694+00:00",
+  "last_updated": "2026-08-25T17:58:53.588167+00:00",
   "headlines": [
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024700/0001918704-26-024700-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T16:59:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Recent Ratings Changes for Definium Therapeutics (DFTX)",
+      "url": "https://www.tickerreport.com/banking-finance/13558293/research-analysts-recent-ratings-changes-for-definium-therapeutics-dftx.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-25T16:26:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Vikings unveil Rivalries Uniform for Dec. 20 game against Detroit Lions",
       "url": "https://www.fox9.com/sports/vikings-unveil-rivalries-uniform-dec-20-game-against-detroit-lions",
@@ -26,15 +45,6 @@
       "published": "2026-08-25T16:06:00+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012829/0000950103-26-012829-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-25T15:57:27+00:00",
-      "tickers": [
-        "C"
       ]
     },
     {
@@ -81,178 +91,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
-      "url": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-08-25T15:04:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi Trends Q2 Earnings Call Highlights",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-trends-q2-earnings-call-150304617.html",
-      "source": "yahoo.com",
-      "published": "2026-08-25T15:03:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "iHeartMedia Announces Additions to the 2026 iHeartRadio Music Festival Presented by Capital One Lineup Including Ciara, The Smashing Pumpkins and a Special Performance by Stella Lefty",
-      "url": "https://content.iheartmedia.com/press/iheartmedia-announces-additions-2026-iheartradio-music-festival-presented-capital-one-lineup",
-      "source": "iheartmedia.com",
-      "published": "2026-08-25T15:00:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citigroup Has Improved, But Upside Is Limited | $C",
-      "url": "https://seekingalpha.com/article/4939986-citigroup-has-improved-but-upside-is-limited",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T14:52:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Households, corporates well-positioned for higher yields - Morgan Stanley",
-      "url": "https://seekingalpha.com/news/4636636-households-corporates-well-positioned-for-higher-yields-morgan-stanley",
-      "source": "seekingalpha.com",
-      "published": "2026-08-25T14:45:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
-      "url": "https://www.investors.com/news/technology/googles-ai-chip-business-is-booming-why-gemini-4-matters-more-for-google-stock/",
-      "source": "investors.com",
-      "published": "2026-08-25T14:40:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley: Google AI Chip Boom Could Unlock $200 Billion",
-      "url": "https://www.gurufocus.com/news/9051575/morgan-stanley-google-ai-chip-boom-could-unlock-200-billion",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:39:55+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Memory Shortage Deepens to Worst Levels Since 2017 — Here’s Why Micron Investors Will Cash In",
-      "url": "https://247wallst.com/investing/2026/08/25/memory-shortage-deepens-to-worst-levels-since-2017-heres-why-micron-investors-will-cash-in/",
-      "source": "247wallst.com",
-      "published": "2026-08-25T14:37:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "XPEV Maintains Overweight Rating -- Price Target Lowered to $24.00 by JP Morgan",
-      "url": "https://www.gurufocus.com/news/9051611/xpev-maintains-overweight-rating-price-target-lowered-to-2400-by-jp-morgan",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:35:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KARD Maintained by JP Morgan -- Price Target Lowered to $46.00",
-      "url": "https://www.gurufocus.com/news/9051608/kard-maintained-by-jp-morgan-price-target-lowered-to-4600",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:34:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ALB Maintained by JP Morgan -- Price Target Lowered to $140",
-      "url": "https://www.gurufocus.com/news/9051606/alb-maintained-by-jp-morgan-price-target-lowered-to-140",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:34:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "RARE Maintained by JP Morgan -- Price Target Raised to $80",
-      "url": "https://www.gurufocus.com/news/9051605/rare-maintained-by-jp-morgan-price-target-raised-to-80",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:33:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SLG Maintained by JP Morgan -- Price Target Raised to $61.00",
-      "url": "https://www.gurufocus.com/news/9051603/slg-maintained-by-jp-morgan-price-target-raised-to-6100",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:33:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PAYC Maintained by JP Morgan -- Price Target Raised to $264",
-      "url": "https://www.gurufocus.com/news/9051601/payc-maintained-by-jp-morgan-price-target-raised-to-264",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:32:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PANW Maintains Overweight Rating by JP Morgan -- Price Target Raised to $384",
-      "url": "https://www.gurufocus.com/news/9051599/panw-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-384",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:32:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KIM Maintained by JP Morgan -- Price Target Raised to $26.00",
-      "url": "https://www.gurufocus.com/news/9051596/kim-maintained-by-jp-morgan-price-target-raised-to-2600",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:31:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "INVH Maintains Overweight Rating by JP Morgan -- Price Target Raised to $34",
-      "url": "https://www.gurufocus.com/news/9051593/invh-maintains-overweight-rating-by-jp-morgan-price-target-raised-to-34",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:31:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BXP Maintained by JP Morgan -- Price Target Raised to $87.00",
-      "url": "https://www.gurufocus.com/news/9051590/bxp-maintained-by-jp-morgan-price-target-raised-to-8700",
-      "source": "gurufocus.com",
-      "published": "2026-08-25T14:30:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley upgrades CrowdStrike to overweight, betting AI boom will supercharge cybersecurity spending",
-      "url": "https://cryptobriefing.com/morgan-stanley-upgrades-crowdstrike-ai-cybersecurity/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-25T14:30:00+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
