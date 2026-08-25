@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-25T14:21:38.323565+00:00",
+  "last_updated": "2026-08-25T15:23:20.701022+00:00",
   "headlines": [
+    {
+      "title": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
+      "url": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-08-25T15:04:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Has Improved, But Upside Is Limited | $C",
+      "url": "https://seekingalpha.com/article/4939986-citigroup-has-improved-but-upside-is-limited",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T14:52:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Households, corporates well-positioned for higher yields - Morgan Stanley",
+      "url": "https://seekingalpha.com/news/4636636-households-corporates-well-positioned-for-higher-yields-morgan-stanley",
+      "source": "seekingalpha.com",
+      "published": "2026-08-25T14:45:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Upgrades Alphabet (GOOGL) Forecast on $200B TPU Chip Revenue Potential",
+      "url": "https://blockonomi.com/morgan-stanley-upgrades-alphabet-googl-forecast-on-200b-tpu-chip-revenue-potential/",
+      "source": "blockonomi.com",
+      "published": "2026-08-25T13:45:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Five Below (NASDAQ:FIVE) Given New $273.00 Price Target at Truist Financial",
       "url": "https://www.tickerreport.com/banking-finance/13558161/five-below-nasdaqfive-given-new-273-00-price-target-at-truist-financial.html",
@@ -9,6 +45,18 @@
       "tickers": [
         "C",
         "TFC"
+      ]
+    },
+    {
+      "title": "The SEC Reportedly Wants To Know More About Wall Street Banks' Role In The Fall Of Situational Awareness",
+      "url": "https://www.ibtimes.com/sec-reportedly-wants-know-more-about-wall-street-banks-role-fall-situational-awareness-3806760",
+      "source": "ibtimes.com",
+      "published": "2026-08-25T13:30:14+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
       ]
     },
     {
@@ -22,7 +70,7 @@
     },
     {
       "title": "Workiva to Present at Upcoming Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20260825998006/en/Workiva-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "url": "http://www.businesswire.com/news/home/20260825998006/en/Workiva-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
       "source": "businesswire.com",
       "published": "2026-08-25T13:15:00+00:00",
       "tickers": [
@@ -227,52 +275,6 @@
       "published": "2026-08-25T12:24:53+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Two Top Banks Say The Treasury's Strategy To Buy Back Bonds Won't Bring Down Yields",
-      "url": "https://www.ibtimes.com/two-top-banks-say-treasurys-strategy-buy-back-bonds-wont-bring-down-yields-3806752",
-      "source": "ibtimes.com",
-      "published": "2026-08-25T12:17:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "500 Shares in The Goldman Sachs Group, Inc. $GS Bought by Clal Insurance Enterprises Holdings Ltd",
-      "url": "https://www.tickerreport.com/banking-finance/13558064/500-shares-in-the-goldman-sachs-group-inc-gs-bought-by-clal-insurance-enterprises-holdings-ltd.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T12:12:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist Premier deepens commitment to advice-led banking for mass affluent clients",
-      "url": "https://finance.yahoo.com/small-business/articles/truist-premier-deepens-commitment-advice-120500312.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-25T12:05:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "3 Top-Ranked Mutual Funds for Your Retirement",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ranked-mutual-funds-120002965.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-25T12:00:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SoFi to Participate in Goldman Sachs Communacopia & Technology Conference",
-      "url": "http://www.businesswire.com/news/home/20260825221247/en/SoFi-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-08-25T12:00:00+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
