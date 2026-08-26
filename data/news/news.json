@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-08-26T07:27:32.238297+00:00",
+  "last_updated": "2026-08-26T08:20:04.928628+00:00",
   "headlines": [
+    {
+      "title": "Alta Advisers Ltd Buys Shares of 12,407 Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alta-advisers-ltd-buys-shares-of-12407-wells-fargo-company-wfc-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T07:22:01+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "NVIDIA (NVDA) Receives Neutral Credit Rating from Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9053724/nvidia-nvda-receives-neutral-credit-rating-from-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T07:15:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Zimbabwe’s Economic Turnaround Breaks With the Past",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-26/zimbabwe-s-economic-turnaround-breaks-with-the-past-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-26T07:13:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Top 5 Japanese Electronics Stocks for AI exposure, According To Morgan Stanley",
+      "url": "https://www.investing.com/news/stock-market-news/top-5-japanese-electronics-stocks-for-ai-exposure-according-to-morgan-stanley-93CH-4876397",
+      "source": "investing.com",
+      "published": "2026-08-26T07:08:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Citi Expects Record Korea Capital Issuance in 2026 as Deals Jump",
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/citi-expects-record-korea-capital-issuance-in-2026-as-deals-jump",
@@ -8,6 +45,16 @@
       "published": "2026-08-26T06:28:41+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Aveanna Healthcare (NASDAQ:AVAH) Hits New 12-Month High After Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13558640/aveanna-healthcare-nasdaqavah-hits-new-12-month-high-after-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-26T05:20:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -120,6 +167,15 @@
       ]
     },
     {
+      "title": "After Jeff Bezos’ ex-wife MacKenzie Scott philanthropy, JPMorgan Chase’s Jamie Dimon and wife Judith donate $12 million to 12 HBCUs: Full list",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/after-jeff-bezos-ex-wife-mackenzie-scott-jpmorgan-chases-jamie-dimon-and-wife-judith-donate-12-million-to-12-hbcus-full-list/articleshow/133532878.cms",
+      "source": "indiatimes.com",
+      "published": "2026-08-26T01:40:55+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF (BATS:GSEE) Short Interest Up 5,900.0% in August",
       "url": "https://www.tickerreport.com/banking-finance/13558448/goldman-sachs-marketbeta-emerging-markets-equity-etf-batsgsee-short-interest-up-5900-0-in-august.html",
       "source": "tickerreport.com",
@@ -191,25 +247,6 @@
       "published": "2026-08-25T21:15:00+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024782/0001918704-26-024782-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-25T21:14:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012863/0000950103-26-012863-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-25T21:14:41+00:00",
-      "tickers": [
         "C"
       ]
     }
