@@ -1,229 +1,282 @@
 {
-  "last_updated": "2026-08-26T16:02:01.750645+00:00",
+  "last_updated": "2026-08-26T18:18:18.567534+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024860/0001918704-26-024860-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-26T15:14:49+00:00",
+      "title": "Wells Fargo stays optimistic on the U.S. economy despite softer data",
+      "url": "https://seekingalpha.com/news/4637120-wells-fargo-stays-optimistic-on-the-us-economy-despite-softer-data",
+      "source": "seekingalpha.com",
+      "published": "2026-08-26T17:27:47+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "INTU Maintained by Morgan Stanley -- Price Target Lowered to $315",
+      "url": "https://www.gurufocus.com/news/9054608/intu-maintained-by-morgan-stanley-price-target-lowered-to-315",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "SNOW Maintained by Citigroup -- Price Target Raised to $395",
+      "url": "https://www.gurufocus.com/news/9054604/snow-maintained-by-citigroup-price-target-raised-to-395",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "INVX Maintained by Citigroup -- Price Target Raised to $36",
+      "url": "https://www.gurufocus.com/news/9054597/invx-maintained-by-citigroup-price-target-raised-to-36",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CHWY Maintains Overweight Rating by Morgan Stanley -- Price Target Lowers to $37",
+      "url": "https://www.gurufocus.com/news/9054605/chwy-maintains-overweight-rating-by-morgan-stanley-price-target-lowers-to-37",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BOX Maintained by Morgan Stanley -- Price Target Raised to $36.00",
+      "url": "https://www.gurufocus.com/news/9054602/box-maintained-by-morgan-stanley-price-target-raised-to-3600",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LB Maintained by Citigroup -- Price Target Raised to $86.00",
+      "url": "https://www.gurufocus.com/news/9054600/lb-maintained-by-citigroup-price-target-raised-to-8600",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "DKS Maintained by Morgan Stanley -- Price Target Lowered to $180",
+      "url": "https://www.gurufocus.com/news/9054607/dks-maintained-by-morgan-stanley-price-target-lowered-to-180",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AFRM Maintained by Morgan Stanley -- Price Target Raised to $80.00",
+      "url": "https://www.gurufocus.com/news/9054599/afrm-maintained-by-morgan-stanley-price-target-raised-to-8000",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Oracle Stock Jumps After Citi Unleashes 90-Day Catalyst Watch",
+      "url": "https://www.gurufocus.com/news/9054410/oracle-stock-jumps-after-citi-unleashes-90day-catalyst-watch",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:16:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ZYME Maintains Buy Rating by Citigroup -- Price Target Raised to $38",
+      "url": "https://www.gurufocus.com/news/9054574/zyme-maintains-buy-rating-by-citigroup-price-target-raised-to-38",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:02:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BOX Maintained by Citigroup -- Price Target Raised to $40",
+      "url": "https://www.gurufocus.com/news/9054572/box-maintained-by-citigroup-price-target-raised-to-40",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:02:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "OLLI Maintains by Citigroup -- Price Target Lowered to $100",
+      "url": "https://www.gurufocus.com/news/9054571/olli-maintains-by-citigroup-price-target-lowered-to-100",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T17:01:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Alleged Scammers Drain $1,780,000 in Cash, Jewelry and Precious Metals From Florida Woman After Posing as Bank of America and Chase Bank Employees",
+      "url": "https://dailyhodl.com/2026/08/26/alleged-scammers-drain-1780000-in-cash-jewelry-and-precious-metals-from-florida-woman-after-posing-as-bank-of-america-and-chase-bank-employees/",
+      "source": "dailyhodl.com",
+      "published": "2026-08-26T16:55:32+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html",
+      "source": "yahoo.com",
+      "published": "2026-08-26T16:54:04+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526366257/0001193125-26-366257-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-26T15:09:49+00:00",
+      "title": "BofA: SpaceX Wireless Expansion Would Lift T-Mobile (TMUS) and Tower Stocks, Not Threaten Them",
+      "url": "https://blockonomi.com/bofa-spacex-wireless-expansion-would-lift-t-mobile-tmus-and-tower-stocks-not-threaten-them/",
+      "source": "blockonomi.com",
+      "published": "2026-08-26T16:50:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Merck and Moderna have shown us what the market premium is for platform validation. Is DRTS the next platform primed to move?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vz2cjq/merck_and_moderna_have_shown_us_what_the_market/",
+      "source": "reddit.com",
+      "published": "2026-08-26T16:41:52+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "REPL Maintained by JP Morgan -- Price Target Raised to $21.00",
-      "url": "https://www.gurufocus.com/news/9054411/repl-maintained-by-jp-morgan-price-target-raised-to-2100",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T15:05:20+00:00",
+      "title": "Goldman Sachs analyst highlights notable tech de-risking ahead of Nvidia earnings",
+      "url": "https://cryptobriefing.com/goldman-sachs-tech-de-risking-nvidia-earnings/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-26T16:34:03+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "PSTL Maintained by JP Morgan -- Price Target Raised to $25.00",
-      "url": "https://www.gurufocus.com/news/9054407/pstl-maintained-by-jp-morgan-price-target-raised-to-2500",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T15:04:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NTSK Maintained by JP Morgan -- Price Target Raised to $16.00",
-      "url": "https://www.gurufocus.com/news/9054403/ntsk-maintained-by-jp-morgan-price-target-raised-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T15:03:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GTLB Maintained by JP Morgan -- Price Target Raised to $44",
-      "url": "https://www.gurufocus.com/news/9054399/gtlb-maintained-by-jp-morgan-price-target-raised-to-44",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T15:02:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EPAM Downgraded by JP Morgan -- Rating Changed to Neutral",
-      "url": "https://www.gurufocus.com/news/9054393/epam-downgraded-by-jp-morgan-rating-changed-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T15:01:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi Sees a New Opening After Oracle's Brutal Selloff",
-      "url": "https://www.gurufocus.com/news/9054253/citi-sees-a-new-opening-after-oracles-brutal-selloff",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T14:48:53+00:00",
+      "title": "Citi Calls Oracle (ORCL) Stock’s 50% Plunge a Historic Buying Opportunity",
+      "url": "https://blockonomi.com/citi-calls-oracle-orcl-stocks-50-plunge-a-historic-buying-opportunity/",
+      "source": "blockonomi.com",
+      "published": "2026-08-26T16:31:01+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Truist Financial Issues Pessimistic Forecast for Intuit (NASDAQ:INTU) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-intuit-nasdaq-intu-stock-price-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T14:42:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Jazz Pharmaceuticals (NASDAQ:JAZZ) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jazz-pharmaceuticals-nasdaq-jazz-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T14:42:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Raises nCino (NASDAQ:NCNO) Price Target to $20.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-raises-ncino-nasdaq-ncno-price-target-to-2000-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T14:42:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Qfin cut to Underperform at J.P. Morgan as headwinds persist",
-      "url": "https://seekingalpha.com/news/4637036-qfin-cut-to-underperform-at-jp-morgan-as-headwinds-persist",
+      "title": "BNY Mellon Small/Mid Cap Growth Fund Q2 2026 Commentary | $DBMAX $SDSCX $DBMCX $DBMYX $DBMZX",
+      "url": "https://seekingalpha.com/article/4940451-bny-mellon-smallmid-cap-growth-fund-q2-2026-commentary",
       "source": "seekingalpha.com",
-      "published": "2026-08-26T14:42:06+00:00",
+      "published": "2026-08-26T16:20:00+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "INTU Maintained by Wells Fargo -- Price Target Lowered to $300",
-      "url": "https://www.gurufocus.com/news/9054268/intu-maintained-by-wells-fargo-price-target-lowered-to-300",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T14:32:37+00:00",
+      "title": "Trump lawyers blast Capital One’s AML narrative in account closures",
+      "url": "https://www.bankingdive.com/news/capital-one-debanking-trump-aml-pretext-argument/828849/",
+      "source": "bankingdive.com",
+      "published": "2026-08-26T16:17:17+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "ARGX Maintains Rating by Wells Fargo -- Price Target Raised to $1415",
-      "url": "https://www.gurufocus.com/news/9054265/argx-maintains-rating-by-wells-fargo-price-target-raised-to-1415",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T14:31:46+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Oracle Stock Popped Today - Citi says the bad news is priced in -- and now it's time to ...",
-      "url": "https://www.fool.com/investing/2026/08/26/why-oracle-stock-popped-today/?source=iedfolrf0000001",
+      "title": "Jamie Dimon Committed JPMorgan to $750 Billion of Housing Investment Through 2035",
+      "url": "https://www.fool.com/investing/2026/08/26/jamie-dimon-committed-jpmorgan-to-750-billion-of/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-08-26T14:31:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012892/0000950103-26-012892-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-26T14:27:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Amneal Pharmaceuticals (NASDAQ:AMRX) Receives \"Overweight\" Rating from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-amneal-pharmaceuticals-nasdaq-amrx-receives-overweight-rating-from-jpmorgan-chase-co-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T14:18:26+00:00",
+      "published": "2026-08-26T16:15:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities 2026 Media, Communications and Entertainment Conference",
-      "url": "http://www.businesswire.com/news/home/20260826899148/en/SBA-Communications-Corporation-to-Speak-at-Citi%E2%80%99s-2026-Global-TMT-Conference-and-the-BofA-Securities-2026-Media-Communications-and-Entertainment-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
-      "source": "businesswire.com",
-      "published": "2026-08-26T14:18:00+00:00",
+      "title": "Morgan Stanley sees Thai refiners boosting dividends sharply",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-thai-refiners-boosting-dividends-sharply-93CH-4877623",
+      "source": "investing.com",
+      "published": "2026-08-26T16:13:02+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "National Bank of Canada: Upside Is Tricky At This Valuation | $C $NTIOF",
-      "url": "https://seekingalpha.com/article/4940351-national-bank-of-canada-upside-is-tricky-at-this-valuation",
+      "title": "SpaceX wireless push could benefit T-Mobile, and tower firms, BofA says",
+      "url": "https://seekingalpha.com/news/4637082-spacex-wireless-push-could-benefit-t-mobile-tower-firms-bofa-says",
       "source": "seekingalpha.com",
-      "published": "2026-08-26T14:15:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Analyst recommendations: Nvidia, Intuit, BofA, Abbott Laboratories, Google…",
-      "url": "https://www.marketscreener.com/news/analyst-recommendations-nvidia-intuit-bofa-abbott-laboratories-googlea--ce7858d9dc8ef127",
-      "source": "marketscreener.com",
-      "published": "2026-08-26T14:13:10+00:00",
+      "published": "2026-08-26T16:08:09+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Qfin (NASDAQ:QFIN) Stock Rating Lowered by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-stock-rating-lowered-by-citigroup-2026-08-26/",
+      "title": "Qfin (NASDAQ:QFIN) Lowered to Equal Weight Rating by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-lowered-to-equal-weight-rating-by-morgan-stanley-2026-08-26/",
       "source": "marketbeat.com",
-      "published": "2026-08-26T14:06:26+00:00",
+      "published": "2026-08-26T16:06:27+00:00",
       "tickers": [
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Air France Just Made Its Cheapest Awards Worse—My Plan To Beat The Devaluation And Unlock First Class",
-      "url": "https://viewfromthewing.com/air-france-just-made-its-cheapest-awards-worse-my-plan-to-beat-the-devaluation-and-unlock-first-class/",
-      "source": "viewfromthewing.com",
-      "published": "2026-08-26T14:04:30+00:00",
+      "title": "Bloomberg, J.P. Morgan identify leading ETF themes for 2026",
+      "url": "https://cryptobriefing.com/bloomberg-jpmorgan-leading-etf-themes-2026/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-26T16:06:17+00:00",
       "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Top Financial Stocks To Watch Now - August 26th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-watch-now-august-26th-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T16:03:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Top Bank Stocks To Follow Now - August 26th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-follow-now-august-26th-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T16:03:29+00:00",
+      "tickers": [
+        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "US BANCORP DE: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426024833/0001918704-26-024833-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-26T14:03:29+00:00",
+      "title": "Innovex International (NYSE:INVX) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-innovex-international-nyse-invx-stock-price-expected-to-rise-citigroup-analyst-says-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T16:00:28+00:00",
       "tickers": [
-        "USB"
+        "C"
       ]
     },
     {
-      "title": "GDDY Downgraded by Wells Fargo -- Price Target Lowered to $76.00",
-      "url": "https://www.gurufocus.com/news/9054232/gddy-downgraded-by-wells-fargo-price-target-lowered-to-7600",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T14:02:00+00:00",
+      "title": "Affirm (NASDAQ:AFRM) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-affirm-nasdaq-afrm-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T16:00:27+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     }
   ]
