@@ -1,6 +1,147 @@
 {
-  "last_updated": "2026-08-26T13:09:48.943366+00:00",
+  "last_updated": "2026-08-26T14:20:09.739127+00:00",
   "headlines": [
+    {
+      "title": "Sector Update: Energy Stocks Decline Premarket Wednesday",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-132442976.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T13:24:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Inspire Medical Systems, Inc. to Present at the Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351428/0/en/inspire-medical-systems-inc-to-present-at-the-wells-fargo-21st-annual-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T13:15:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Intuit (NASDAQ:INTU) Rating Lowered to “Neutral” at Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13559788/intuit-nasdaqintu-rating-lowered-to-neutral-at-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-26T13:06:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "EPAM Systems (NYSE:EPAM) Cut to \"Neutral\" at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-epam-systems-nyse-epam-cut-to-neutral-at-jpmorgan-chase-co-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T13:06:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EOG Resources (NYSE:EOG) Cut to Equal Weight at Capital One Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-eog-resources-nyse-eog-cut-to-equal-weight-at-capital-one-financial-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T13:06:33+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Qfin (NASDAQ:QFIN) Stock Rating Lowered by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-stock-rating-lowered-by-jpmorgan-chase-co-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T13:06:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Intuit (NASDAQ:INTU) Rating Lowered to Neutral at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-intuit-nasdaq-intu-rating-lowered-to-neutral-at-jpmorgan-chase-co-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T13:06:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Uzbek central bank seeks input from Goldman Sachs, BlackRock on reserves",
+      "url": "https://cryptobriefing.com/uzbekistan-central-bank-goldman-sachs-blackrock-reserves/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-26T13:01:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Booking Holdings Inc. to Present at the Goldman Sachs Communacopia + Technology Conference",
+      "url": "https://finance.yahoo.com/technology/articles/booking-holdings-inc-present-goldman-130000133.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T13:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GoDaddy Inc. to Present at Citi's Global TMT Conference and the Goldman Sachs Communacopia + Technology Conference",
+      "url": "https://finance.yahoo.com/technology/articles/godaddy-inc-present-citis-global-130000169.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T13:00:00+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "OneVest Goes Live on Schwab's Digital Account Opening API, Enabling Workspace and Headless Onboarding",
+      "url": "https://finance.yahoo.com/technology/articles/onevest-goes-live-schwabs-digital-130000977.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T13:00:00+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Edison International (NYSE:EIX) Receives Hold Rating from Argus",
+      "url": "https://www.tickerreport.com/banking-finance/13559761/edison-international-nyseeix-receives-hold-rating-from-argus.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-26T12:54:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "J. Goldman & Co LP Takes Position in MGM Resorts International $MGM",
+      "url": "https://www.tickerreport.com/banking-finance/13559757/j-goldman-co-lp-takes-position-in-mgm-resorts-international-mgm.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-26T12:52:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi sees an opportunity in Oracle after ’one of the most extreme’ stock drawdowns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-sees-opportunity-oracle-one-124453448.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T12:44:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA sees SpaceX wireless ambitions as positive for T-Mobile and tower operators",
+      "url": "https://investorshub.advfn.com/market-news/article/35117/bofa-sees-spacex-wireless-ambitions-as-positive-for-t-mobile-and-tower-operators?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-08-26T12:44:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Wall Street's buying streak ends as BofA sees $5B single-stock exodus",
       "url": "https://seekingalpha.com/news/4636973-wall-streets-buying-streak-ends-as-bofa-sees-5b-single-stock-exodus",
@@ -13,21 +154,58 @@
     },
     {
       "title": "BofA's Ike: Economic Stability Driving Africa IPO Boom",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-26/bofa-s-ike-economic-stability-driving-africa-ipo-boom-video",
-      "source": "bloomberg.com",
-      "published": "2026-08-26T12:35:45+00:00",
+      "url": "https://finance.yahoo.com/video/bofas-ike-economic-stability-driving-123648217.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T12:36:48+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bel Fuse Announces Participation in Citi’s 2026 Global TMT Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351322/0/en/bel-fuse-announces-participation-in-citi-s-2026-global-tmt-conference.html",
-      "source": "globenewswire.com",
+      "title": "San Francisco Hospitality Scored Double-Digit Sales Growth During the 2026 World Cup",
+      "url": "https://news.theregistrysf.com/san-francisco-hospitality-scored-double-digit-sales-growth-during-the-2026-world-cup/",
+      "source": "theregistrysf.com",
+      "published": "2026-08-26T12:33:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "3 European Airline Stocks Smart Money is Favoring Right Now: Citi",
+      "url": "https://www.investing.com/news/stock-market-news/3-european-airline-stocks-smart-money-is-favoring-right-now-citi-93CH-4877157",
+      "source": "investing.com",
+      "published": "2026-08-26T12:32:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Arlo Technologies to Present at Upcoming Investor Conferences",
+      "url": "http://www.businesswire.com/news/home/20260826912572/en/Arlo-Technologies-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-cRtOEqF76MyXjb93yrS0dJCxWVDok2hdbmvdqfQi79eD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ic8oZupFfcf70VhsGNTOi9I",
+      "source": "businesswire.com",
       "published": "2026-08-26T12:30:00+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Bel Fuse Announces Participation in Citi’s 2026 Global TMT Conference",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bel-fuse-announces-participation-citi-123000971.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T12:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp | BTIG Appoints Mangesh Ghogre as Managing Director, Metals & Mining Coverage",
+      "url": "http://www.businesswire.com/news/home/20260826158709/en/U.S.-Bancorp-BTIG-Appoints-Mangesh-Ghogre-as-Managing-Director-Metals-Mining-Coverage/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-08-26T12:30:00+00:00",
+      "tickers": [
+        "USB"
       ]
     },
     {
@@ -40,11 +218,39 @@
       ]
     },
     {
-      "title": "Citi sees an opportunity in Oracle after ’one of the most extreme’ stock drawdowns",
-      "url": "https://www.investing.com/news/stock-market-news/citi-sees-an-opportunity-in-oracle-after-one-of-the-most-extreme-stock-drawdowns-4877077",
-      "source": "investing.com",
-      "published": "2026-08-26T12:14:53+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024810/0001918704-26-024810-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-26T12:29:02+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Does Vanguard or State Street Have the Better S&P 500 ETF?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/26/does-vanguard-or-state-street-have-the-better-s-and-p-500-etf/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-26T12:27:19+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "A New Study Proves Jamie Dimon Is Wrong Yet Again About Remote Work",
+      "url": "https://www.inc.com/ashley-couto/study-jamie-dimon-remote-work-wfh-jpmorgan-chase/91395528",
+      "source": "inc.com",
+      "published": "2026-08-26T12:15:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "INTU Stock Plummets After Q4 Results Leave Wall Street Divided: ‘Unsatisfying Growth’ Meets ‘Foundations Take Time’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intu-stock-plunges-q4-results-wall-street-divided-growth-foundations/cZYNMHaRJY1?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-08-26T12:03:14+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -67,215 +273,10 @@
       ]
     },
     {
-      "title": "GE HealthCare management to present at upcoming investor conference",
-      "url": "http://www.businesswire.com/news/home/20260826189470/en/GE-HealthCare-management-to-present-at-upcoming-investor-conference/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
-      "source": "businesswire.com",
-      "published": "2026-08-26T12:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mineralys Therapeutics to Participate in the Wells Fargo 21st Annual Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351282/0/en/mineralys-therapeutics-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-26T12:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Repligen Corporation to Present at Wells Fargo 21st Annual Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351241/24603/en/repligen-corporation-to-present-at-wells-fargo-21st-annual-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-26T11:30:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Boca Ballet Theatre Announces its 2026-2027 Season of Dance",
-      "url": "https://www.bocaratontribune.com/bocaratonnews/2026/08/boca-ballet-theatre-announces-its-2026-2027-season-of-dance/",
-      "source": "bocaratontribune.com",
-      "published": "2026-08-26T11:15:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Insulet to Participate in Wells Fargo 21st Annual Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20260826265703/en/Insulet-to-Participate-in-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-08-26T11:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Khanduja cuts long-bond bets amid US Treasury buybacks",
-      "url": "https://cryptobriefing.com/morgan-stanleys-khanduja-cuts-long-bond-bets-amid-us-treasury-buybacks/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-26T10:41:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Man Group plc Purchases New Shares in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-purchases-new-shares-in-state-street-corporation-stt-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:40:34+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Khanduja Cuts Long-Bond Bets on Bessent Buyback Move",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/morgan-stanley-s-khanduja-cuts-long-bond-bets-on-bessent-buyback-move",
-      "source": "bloomberg.com",
-      "published": "2026-08-26T10:34:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo cuts Intuit stock price target to $300 on tax growth concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-intuit-stock-price-target-to-300-on-tax-growth-concerns-93CH-4876657",
-      "source": "investing.com",
-      "published": "2026-08-26T10:19:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo cuts Dick’s Sporting Goods stock price target on footwear weakness",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-dicks-sporting-goods-stock-price-target-on-footwear-weakness-93CH-4876654",
-      "source": "investing.com",
-      "published": "2026-08-26T10:19:02+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi sees yen strengthening long-term on improved capital flows",
-      "url": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-longterm-on-improved-capital-flows-93CH-4876645",
-      "source": "investing.com",
-      "published": "2026-08-26T10:14:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026093703/0001213900-26-093703-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-26T10:09:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "4,500 Shares in Jabil, Inc. $JBL Bought by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-4500-shares-in-jabil-inc-jbl-bought-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Acquires New Stake in Marvell Technology, Inc. $MRVL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-acquires-new-stake-in-marvell-technology-inc-mrvl-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Makes New $1.81 Million Investment in MGM Resorts International $MGM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-makes-new-181-million-investment-in-mgm-resorts-international-mgm-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Takes $1.97 Million Position in Lattice Semiconductor Corporation $LSCC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-takes-197-million-position-in-lattice-semiconductor-corporation-lscc-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Takes Position in Immix Biopharma, Inc. $IMMX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-takes-position-in-immix-biopharma-inc-immx-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Makes New $2.12 Million Investment in Pembina Pipeline Corp. $PBA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-makes-new-212-million-investment-in-pembina-pipeline-corp-pba-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Invests $2.08 Million in Teradyne, Inc. $TER",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-invests-208-million-in-teradyne-inc-ter-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Purchases Shares of 137,506 Green Plains, Inc. $GPRE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-purchases-shares-of-137506-green-plains-inc-gpre-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Invests $2.41 Million in Union Pacific Corporation $UNP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-invests-241-million-in-union-pacific-corporation-unp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Invests $2.33 Million in J.B. Hunt Transport Services, Inc. $JBHT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-invests-233-million-in-jb-hunt-transport-services-inc-jbht-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "7,179 Shares in Visa Inc. $V Purchased by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-7179-shares-in-visa-inc-v-purchased-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:33+00:00",
+      "title": "3 Great Mutual Fund Picks for Your Retirement",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-mutual-fund-picks-120003947.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-26T12:00:03+00:00",
       "tickers": [
         "GS"
       ]
