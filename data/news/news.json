@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T23:30:25.869909+00:00",
+  "last_updated": "2026-08-26T01:46:44.581932+00:00",
   "headlines": [
     {
       "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF (BATS:GSEE) Short Interest Up 5,900.0% in August",
@@ -39,6 +39,16 @@
       ]
     },
     {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041446/0001839882-26-041446-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T21:23:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "UNIVERSAL HEALTH SERVICES, INC. TO PRESENT AT SEPTEMBER HEALTHCARE CONFERENCES",
       "url": "https://www.prnewswire.com/news-releases/universal-health-services-inc-to-present-at-september-healthcare-conferences-302858593.html",
       "source": "prnewswire.com",
@@ -55,6 +65,15 @@
       "published": "2026-08-25T21:14:46+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012863/0000950103-26-012863-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T21:14:41+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -83,52 +102,6 @@
       "published": "2026-08-25T20:30:00+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Marriott International President and Chief Executive Officer to Speak at Bank of America Gaming and Lodging Conference September 9; Remarks to be Webcast",
-      "url": "https://www.prnewswire.com/news-releases/marriott-international-president-and-chief-executive-officer-to-speak-at-bank-of-america-gaming-and-lodging-conference-september-9-remarks-to-be-webcast-302858658.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-25T20:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Klaviyo to Participate in Upcoming Investor Events",
-      "url": "http://www.businesswire.com/news/home/20260825169933/en/Klaviyo-to-Participate-in-Upcoming-Investor-Events/?feedref=JjAwJuNHiystnCoBq_hl-XekIWn8Q1Cvwu1oMnxPAAIpYSCJuk_X_CD1CVs9qvrSMGeyvlse8NLQQ_iNojSBozimV89m2UZhENQcJKaBuKLpeQta5BkP4eAZGeNC8LKDeIJ8QUholbv6i2n1XVdCIj0CDgDydwdVQlPdwVlIdLQ=",
-      "source": "businesswire.com",
-      "published": "2026-08-25T20:15:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Nvidia and Goldman Sachs Are Betting on Nebius. Should You?",
-      "url": "https://www.fool.com/investing/2026/08/25/nvidia-and-goldman-sachs-are-betting-on-nebius-sho/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-25T20:15:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Uniti Group Inc. to Present at the Citi 2026 Global TMT Conference",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uniti-group-inc-present-citi-201500336.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-25T20:15:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "2026-08-25 Daily Journal 60162758",
-      "url": "https://dailyjournal.net/2026/08/25/2026-08-25-daily-journal-60162758/",
-      "source": "dailyjournal.net",
-      "published": "2026-08-25T20:10:54+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
