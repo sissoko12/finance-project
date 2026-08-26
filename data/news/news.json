@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-26T04:11:15.945734+00:00",
+  "last_updated": "2026-08-26T05:06:59.718162+00:00",
   "headlines": [
+    {
+      "title": "BNY Executive Chair on Australia Business, AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-26/bny-executive-chair-on-australia-business-ai-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-26T03:50:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "DLA Piper advises Goldman Sachs on its acquisition of LCN Capital Partners",
+      "url": "https://legaldesire.com/dla-piper-advises-goldman-sachs-on-its-acquisition-of-lcn-capital-partners/",
+      "source": "legaldesire.com",
+      "published": "2026-08-26T03:50:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs ActiveBeta Japan Equity ETF (NYSEARCA:GSJY) Sees Significant Decrease in Short Interest",
       "url": "https://www.tickerreport.com/banking-finance/13558577/goldman-sachs-activebeta-japan-equity-etf-nysearcagsjy-sees-significant-decrease-in-short-interest.html",
@@ -83,6 +101,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526365388/0001193125-26-365388-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T21:26:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024791/0001918704-26-024791-index.htm",
       "source": "sec.gov",
@@ -127,24 +154,6 @@
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012863/0000950103-26-012863-index.htm",
       "source": "sec.gov",
       "published": "2026-08-25T21:14:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase plans major Center City office move, sources say",
-      "url": "https://www.bizjournals.com/philadelphia/news/2026/08/25/jpmorgan-philadelphia-office-space-aramark.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-08-25T20:57:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Weekly Ratings Changes for People Incorporated Common Stock (PPLI)",
-      "url": "https://www.tickerreport.com/banking-finance/13558404/research-analysts-weekly-ratings-changes-for-people-incorporated-common-stock-ppli.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-25T20:56:45+00:00",
       "tickers": [
         "C"
       ]
