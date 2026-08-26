@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-26T09:20:09.747197+00:00",
+  "last_updated": "2026-08-26T10:07:18.645746+00:00",
   "headlines": [
+    {
+      "title": "Sanctuary Advisors LLC Acquires Shares of 23,348 State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sanctuary-advisors-llc-acquires-shares-of-23348-state-street-corporation-stt-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T09:21:25+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts RBA Rate Hike to 4.6% Amid Strong Inflation Data",
+      "url": "https://www.gurufocus.com/news/9053747/goldman-sachs-predicts-rba-rate-hike-to-46-amid-strong-inflation-data",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T08:31:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Canada Pension Plan Investment Board Takes Position in Capital One Financial Corporation $COF",
       "url": "https://www.marketbeat.com/instant-alerts/filing-canada-pension-plan-investment-board-takes-position-in-capital-one-financial-corporation-cof-2026-08-26/",
@@ -255,26 +273,6 @@
       "published": "2026-08-25T21:26:32+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024791/0001918704-26-024791-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-25T21:25:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041446/0001839882-26-041446-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-25T21:23:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
