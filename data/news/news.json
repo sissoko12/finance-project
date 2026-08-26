@@ -1,284 +1,229 @@
 {
-  "last_updated": "2026-08-26T14:20:09.739127+00:00",
+  "last_updated": "2026-08-26T16:02:01.750645+00:00",
   "headlines": [
     {
-      "title": "Sector Update: Energy Stocks Decline Premarket Wednesday",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-132442976.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T13:24:42+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024860/0001918704-26-024860-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-26T15:14:49+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Inspire Medical Systems, Inc. to Present at the Wells Fargo 21st Annual Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351428/0/en/inspire-medical-systems-inc-to-present-at-the-wells-fargo-21st-annual-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-26T13:15:00+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526366257/0001193125-26-366257-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-26T15:09:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "REPL Maintained by JP Morgan -- Price Target Raised to $21.00",
+      "url": "https://www.gurufocus.com/news/9054411/repl-maintained-by-jp-morgan-price-target-raised-to-2100",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T15:05:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PSTL Maintained by JP Morgan -- Price Target Raised to $25.00",
+      "url": "https://www.gurufocus.com/news/9054407/pstl-maintained-by-jp-morgan-price-target-raised-to-2500",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T15:04:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NTSK Maintained by JP Morgan -- Price Target Raised to $16.00",
+      "url": "https://www.gurufocus.com/news/9054403/ntsk-maintained-by-jp-morgan-price-target-raised-to-1600",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T15:03:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GTLB Maintained by JP Morgan -- Price Target Raised to $44",
+      "url": "https://www.gurufocus.com/news/9054399/gtlb-maintained-by-jp-morgan-price-target-raised-to-44",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T15:02:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EPAM Downgraded by JP Morgan -- Rating Changed to Neutral",
+      "url": "https://www.gurufocus.com/news/9054393/epam-downgraded-by-jp-morgan-rating-changed-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T15:01:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi Sees a New Opening After Oracle's Brutal Selloff",
+      "url": "https://www.gurufocus.com/news/9054253/citi-sees-a-new-opening-after-oracles-brutal-selloff",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T14:48:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Intuit (NASDAQ:INTU) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-intuit-nasdaq-intu-stock-price-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T14:42:29+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Jazz Pharmaceuticals (NASDAQ:JAZZ) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jazz-pharmaceuticals-nasdaq-jazz-stock-price-expected-to-rise-truist-financial-analyst-says-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T14:42:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Raises nCino (NASDAQ:NCNO) Price Target to $20.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-raises-ncino-nasdaq-ncno-price-target-to-2000-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T14:42:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Qfin cut to Underperform at J.P. Morgan as headwinds persist",
+      "url": "https://seekingalpha.com/news/4637036-qfin-cut-to-underperform-at-jp-morgan-as-headwinds-persist",
+      "source": "seekingalpha.com",
+      "published": "2026-08-26T14:42:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "INTU Maintained by Wells Fargo -- Price Target Lowered to $300",
+      "url": "https://www.gurufocus.com/news/9054268/intu-maintained-by-wells-fargo-price-target-lowered-to-300",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T14:32:37+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Intuit (NASDAQ:INTU) Rating Lowered to “Neutral” at Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13559788/intuit-nasdaqintu-rating-lowered-to-neutral-at-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-26T13:06:50+00:00",
+      "title": "ARGX Maintains Rating by Wells Fargo -- Price Target Raised to $1415",
+      "url": "https://www.gurufocus.com/news/9054265/argx-maintains-rating-by-wells-fargo-price-target-raised-to-1415",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T14:31:46+00:00",
       "tickers": [
-        "BAC",
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "EPAM Systems (NYSE:EPAM) Cut to \"Neutral\" at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-epam-systems-nyse-epam-cut-to-neutral-at-jpmorgan-chase-co-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T13:06:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EOG Resources (NYSE:EOG) Cut to Equal Weight at Capital One Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-eog-resources-nyse-eog-cut-to-equal-weight-at-capital-one-financial-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T13:06:33+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Qfin (NASDAQ:QFIN) Stock Rating Lowered by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-stock-rating-lowered-by-jpmorgan-chase-co-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T13:06:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Intuit (NASDAQ:INTU) Rating Lowered to Neutral at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-intuit-nasdaq-intu-rating-lowered-to-neutral-at-jpmorgan-chase-co-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T13:06:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Uzbek central bank seeks input from Goldman Sachs, BlackRock on reserves",
-      "url": "https://cryptobriefing.com/uzbekistan-central-bank-goldman-sachs-blackrock-reserves/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-26T13:01:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Booking Holdings Inc. to Present at the Goldman Sachs Communacopia + Technology Conference",
-      "url": "https://finance.yahoo.com/technology/articles/booking-holdings-inc-present-goldman-130000133.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T13:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "GoDaddy Inc. to Present at Citi's Global TMT Conference and the Goldman Sachs Communacopia + Technology Conference",
-      "url": "https://finance.yahoo.com/technology/articles/godaddy-inc-present-citis-global-130000169.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T13:00:00+00:00",
-      "tickers": [
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "OneVest Goes Live on Schwab's Digital Account Opening API, Enabling Workspace and Headless Onboarding",
-      "url": "https://finance.yahoo.com/technology/articles/onevest-goes-live-schwabs-digital-130000977.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T13:00:00+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Edison International (NYSE:EIX) Receives Hold Rating from Argus",
-      "url": "https://www.tickerreport.com/banking-finance/13559761/edison-international-nyseeix-receives-hold-rating-from-argus.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-26T12:54:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Takes Position in MGM Resorts International $MGM",
-      "url": "https://www.tickerreport.com/banking-finance/13559757/j-goldman-co-lp-takes-position-in-mgm-resorts-international-mgm.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-26T12:52:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi sees an opportunity in Oracle after ’one of the most extreme’ stock drawdowns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-sees-opportunity-oracle-one-124453448.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T12:44:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA sees SpaceX wireless ambitions as positive for T-Mobile and tower operators",
-      "url": "https://investorshub.advfn.com/market-news/article/35117/bofa-sees-spacex-wireless-ambitions-as-positive-for-t-mobile-and-tower-operators?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-08-26T12:44:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street's buying streak ends as BofA sees $5B single-stock exodus",
-      "url": "https://seekingalpha.com/news/4636973-wall-streets-buying-streak-ends-as-bofa-sees-5b-single-stock-exodus",
-      "source": "seekingalpha.com",
-      "published": "2026-08-26T12:37:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA's Ike: Economic Stability Driving Africa IPO Boom",
-      "url": "https://finance.yahoo.com/video/bofas-ike-economic-stability-driving-123648217.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T12:36:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "San Francisco Hospitality Scored Double-Digit Sales Growth During the 2026 World Cup",
-      "url": "https://news.theregistrysf.com/san-francisco-hospitality-scored-double-digit-sales-growth-during-the-2026-world-cup/",
-      "source": "theregistrysf.com",
-      "published": "2026-08-26T12:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "3 European Airline Stocks Smart Money is Favoring Right Now: Citi",
-      "url": "https://www.investing.com/news/stock-market-news/3-european-airline-stocks-smart-money-is-favoring-right-now-citi-93CH-4877157",
-      "source": "investing.com",
-      "published": "2026-08-26T12:32:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Arlo Technologies to Present at Upcoming Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20260826912572/en/Arlo-Technologies-to-Present-at-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-cRtOEqF76MyXjb93yrS0dJCxWVDok2hdbmvdqfQi79eD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ic8oZupFfcf70VhsGNTOi9I",
-      "source": "businesswire.com",
-      "published": "2026-08-26T12:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bel Fuse Announces Participation in Citi’s 2026 Global TMT Conference",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bel-fuse-announces-participation-citi-123000971.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T12:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp | BTIG Appoints Mangesh Ghogre as Managing Director, Metals & Mining Coverage",
-      "url": "http://www.businesswire.com/news/home/20260826158709/en/U.S.-Bancorp-BTIG-Appoints-Mangesh-Ghogre-as-Managing-Director-Metals-Mining-Coverage/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-08-26T12:30:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Oracle rises as Citi adds 90-day catalyst watch",
-      "url": "https://seekingalpha.com/news/4636969-oracle-rises-as-citi-adds-90-day-catalyst-watch",
-      "source": "seekingalpha.com",
-      "published": "2026-08-26T12:29:22+00:00",
+      "title": "Why Oracle Stock Popped Today - Citi says the bad news is priced in -- and now it's time to ...",
+      "url": "https://www.fool.com/investing/2026/08/26/why-oracle-stock-popped-today/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-26T14:31:11+00:00",
       "tickers": [
         "C"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426024810/0001918704-26-024810-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326012892/0000950103-26-012892-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-26T12:29:02+00:00",
+      "published": "2026-08-26T14:27:09+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Does Vanguard or State Street Have the Better S&P 500 ETF?",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/26/does-vanguard-or-state-street-have-the-better-s-and-p-500-etf/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-08-26T12:27:19+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "A New Study Proves Jamie Dimon Is Wrong Yet Again About Remote Work",
-      "url": "https://www.inc.com/ashley-couto/study-jamie-dimon-remote-work-wfh-jpmorgan-chase/91395528",
-      "source": "inc.com",
-      "published": "2026-08-26T12:15:39+00:00",
+      "title": "Amneal Pharmaceuticals (NASDAQ:AMRX) Receives \"Overweight\" Rating from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-amneal-pharmaceuticals-nasdaq-amrx-receives-overweight-rating-from-jpmorgan-chase-co-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T14:18:26+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "INTU Stock Plummets After Q4 Results Leave Wall Street Divided: ‘Unsatisfying Growth’ Meets ‘Foundations Take Time’",
-      "url": "https://stocktwits.com/news-articles/markets/equity/intu-stock-plunges-q4-results-wall-street-divided-growth-foundations/cZYNMHaRJY1?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-08-26T12:03:14+00:00",
+      "title": "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities 2026 Media, Communications and Entertainment Conference",
+      "url": "http://www.businesswire.com/news/home/20260826899148/en/SBA-Communications-Corporation-to-Speak-at-Citi%E2%80%99s-2026-Global-TMT-Conference-and-the-BofA-Securities-2026-Media-Communications-and-Entertainment-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
+      "source": "businesswire.com",
+      "published": "2026-08-26T14:18:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "VanEck J.P. Morgan EM Local Currency Bond ETF (NYSEARCA:EMLC) Short Interest Up 466.8% in August",
-      "url": "https://www.tickerreport.com/banking-finance/13559669/vaneck-j-p-morgan-em-local-currency-bond-etf-nysearcaemlc-short-interest-up-466-8-in-august.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-26T12:02:02+00:00",
+      "title": "National Bank of Canada: Upside Is Tricky At This Valuation | $C $NTIOF",
+      "url": "https://seekingalpha.com/article/4940351-national-bank-of-canada-upside-is-tricky-at-this-valuation",
+      "source": "seekingalpha.com",
+      "published": "2026-08-26T14:15:06+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Morgan Stanley (NYSE:MS) Raised to Strong-Buy at Zacks Research",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-nyse-ms-raised-to-strong-buy-at-zacks-research-2026-08-26/",
+      "title": "Analyst recommendations: Nvidia, Intuit, BofA, Abbott Laboratories, Google…",
+      "url": "https://www.marketscreener.com/news/analyst-recommendations-nvidia-intuit-bofa-abbott-laboratories-googlea--ce7858d9dc8ef127",
+      "source": "marketscreener.com",
+      "published": "2026-08-26T14:13:10+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Qfin (NASDAQ:QFIN) Stock Rating Lowered by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-stock-rating-lowered-by-citigroup-2026-08-26/",
       "source": "marketbeat.com",
-      "published": "2026-08-26T12:00:40+00:00",
+      "published": "2026-08-26T14:06:26+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "3 Great Mutual Fund Picks for Your Retirement",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-mutual-fund-picks-120003947.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-26T12:00:03+00:00",
+      "title": "Air France Just Made Its Cheapest Awards Worse—My Plan To Beat The Devaluation And Unlock First Class",
+      "url": "https://viewfromthewing.com/air-france-just-made-its-cheapest-awards-worse-my-plan-to-beat-the-devaluation-and-unlock-first-class/",
+      "source": "viewfromthewing.com",
+      "published": "2026-08-26T14:04:30+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "US BANCORP DE: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000191870426024833/0001918704-26-024833-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-26T14:03:29+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "GDDY Downgraded by Wells Fargo -- Price Target Lowered to $76.00",
+      "url": "https://www.gurufocus.com/news/9054232/gddy-downgraded-by-wells-fargo-price-target-lowered-to-7600",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T14:02:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     }
   ]
