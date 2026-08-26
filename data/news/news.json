@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-26T01:46:44.581932+00:00",
+  "last_updated": "2026-08-26T03:12:14.271748+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley Sees a New High for ConocoPhillips (COP). Should Investors Buy?",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-sees-a-new-high-for-conocophillips-cop-should-investors-buy-1821487/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-26T02:05:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sees ExxonMobil (XOM) Breaking its Record High. Can the Oil Giant Deliver?",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-sees-exxonmobil-xom-breaking-its-record-high-can-the-oil-giant-deliver-1821003/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-26T01:44:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF (BATS:GSEE) Short Interest Up 5,900.0% in August",
       "url": "https://www.tickerreport.com/banking-finance/13558448/goldman-sachs-marketbeta-emerging-markets-equity-etf-batsgsee-short-interest-up-5900-0-in-august.html",
@@ -17,6 +35,15 @@
       "published": "2026-08-25T21:33:08+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024794/0001918704-26-024794-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-25T21:29:34+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -78,30 +105,21 @@
       ]
     },
     {
+      "title": "JPMorgan Chase plans major Center City office move, sources say",
+      "url": "https://www.bizjournals.com/philadelphia/news/2026/08/25/jpmorgan-philadelphia-office-space-aramark.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-25T20:57:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Research Analysts’ Weekly Ratings Changes for People Incorporated Common Stock (PPLI)",
       "url": "https://www.tickerreport.com/banking-finance/13558404/research-analysts-weekly-ratings-changes-for-people-incorporated-common-stock-ppli.html",
       "source": "tickerreport.com",
       "published": "2026-08-25T20:56:45+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226041443/0001839882-26-041443-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-25T20:43:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Dell Technologies to Present at Investor Conferences in September",
-      "url": "http://www.businesswire.com/news/home/20260825976261/en/Dell-Technologies-to-Present-at-Investor-Conferences-in-September/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
-      "source": "businesswire.com",
-      "published": "2026-08-25T20:30:00+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
