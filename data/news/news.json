@@ -1,282 +1,287 @@
 {
-  "last_updated": "2026-08-26T18:18:18.567534+00:00",
+  "last_updated": "2026-08-26T20:59:05.809573+00:00",
   "headlines": [
     {
-      "title": "Wells Fargo stays optimistic on the U.S. economy despite softer data",
-      "url": "https://seekingalpha.com/news/4637120-wells-fargo-stays-optimistic-on-the-us-economy-despite-softer-data",
-      "source": "seekingalpha.com",
-      "published": "2026-08-26T17:27:47+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426024945/0001918704-26-024945-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-26T20:30:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Instacart CEO to Participate in Fireside Chat Hosted by Goldman Sachs",
+      "url": "https://www.prnewswire.com/news-releases/instacart-ceo-to-participate-in-fireside-chat-hosted-by-goldman-sachs-302860784.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-26T20:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Crown Castle to Present at the Goldman Sachs 2026 Communacopia & Technology Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351701/7657/en/crown-castle-to-present-at-the-goldman-sachs-2026-communacopia-technology-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T20:20:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Crown Castle to Present at Citi’s 2026 Global TMT Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351695/7657/en/crown-castle-to-present-at-citi-s-2026-global-tmt-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T20:15:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "RxSight, Inc. to Participate in the Wells Fargo Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351692/0/en/rxsight-inc-to-participate-in-the-wells-fargo-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T20:15:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "INTU Maintained by Morgan Stanley -- Price Target Lowered to $315",
-      "url": "https://www.gurufocus.com/news/9054608/intu-maintained-by-morgan-stanley-price-target-lowered-to-315",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
+      "title": "BD to Present at Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.prnewswire.com/news-releases/bd-to-present-at-wells-fargo-21st-annual-healthcare-conference-302860873.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-26T20:15:00+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SNOW Maintained by Citigroup -- Price Target Raised to $395",
-      "url": "https://www.gurufocus.com/news/9054604/snow-maintained-by-citigroup-price-target-raised-to-395",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "INVX Maintained by Citigroup -- Price Target Raised to $36",
-      "url": "https://www.gurufocus.com/news/9054597/invx-maintained-by-citigroup-price-target-raised-to-36",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CHWY Maintains Overweight Rating by Morgan Stanley -- Price Target Lowers to $37",
-      "url": "https://www.gurufocus.com/news/9054605/chwy-maintains-overweight-rating-by-morgan-stanley-price-target-lowers-to-37",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BOX Maintained by Morgan Stanley -- Price Target Raised to $36.00",
-      "url": "https://www.gurufocus.com/news/9054602/box-maintained-by-morgan-stanley-price-target-raised-to-3600",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "LB Maintained by Citigroup -- Price Target Raised to $86.00",
-      "url": "https://www.gurufocus.com/news/9054600/lb-maintained-by-citigroup-price-target-raised-to-8600",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "DKS Maintained by Morgan Stanley -- Price Target Lowered to $180",
-      "url": "https://www.gurufocus.com/news/9054607/dks-maintained-by-morgan-stanley-price-target-lowered-to-180",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AFRM Maintained by Morgan Stanley -- Price Target Raised to $80.00",
-      "url": "https://www.gurufocus.com/news/9054599/afrm-maintained-by-morgan-stanley-price-target-raised-to-8000",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Oracle Stock Jumps After Citi Unleashes 90-Day Catalyst Watch",
-      "url": "https://www.gurufocus.com/news/9054410/oracle-stock-jumps-after-citi-unleashes-90day-catalyst-watch",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:16:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ZYME Maintains Buy Rating by Citigroup -- Price Target Raised to $38",
-      "url": "https://www.gurufocus.com/news/9054574/zyme-maintains-buy-rating-by-citigroup-price-target-raised-to-38",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:02:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BOX Maintained by Citigroup -- Price Target Raised to $40",
-      "url": "https://www.gurufocus.com/news/9054572/box-maintained-by-citigroup-price-target-raised-to-40",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:02:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "OLLI Maintains by Citigroup -- Price Target Lowered to $100",
-      "url": "https://www.gurufocus.com/news/9054571/olli-maintains-by-citigroup-price-target-lowered-to-100",
-      "source": "gurufocus.com",
-      "published": "2026-08-26T17:01:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Alleged Scammers Drain $1,780,000 in Cash, Jewelry and Precious Metals From Florida Woman After Posing as Bank of America and Chase Bank Employees",
-      "url": "https://dailyhodl.com/2026/08/26/alleged-scammers-drain-1780000-in-cash-jewelry-and-precious-metals-from-florida-woman-after-posing-as-bank-of-america-and-chase-bank-employees/",
-      "source": "dailyhodl.com",
-      "published": "2026-08-26T16:55:32+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html",
-      "source": "yahoo.com",
-      "published": "2026-08-26T16:54:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA: SpaceX Wireless Expansion Would Lift T-Mobile (TMUS) and Tower Stocks, Not Threaten Them",
-      "url": "https://blockonomi.com/bofa-spacex-wireless-expansion-would-lift-t-mobile-tmus-and-tower-stocks-not-threaten-them/",
-      "source": "blockonomi.com",
-      "published": "2026-08-26T16:50:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Merck and Moderna have shown us what the market premium is for platform validation. Is DRTS the next platform primed to move?",
-      "url": "https://www.reddit.com/r/stocks/comments/1vz2cjq/merck_and_moderna_have_shown_us_what_the_market/",
-      "source": "reddit.com",
-      "published": "2026-08-26T16:41:52+00:00",
+      "title": "Live Nation Entertainment To Participate In Goldman Sachs Communacopia & Technology Conference",
+      "url": "https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-26T20:15:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Goldman Sachs analyst highlights notable tech de-risking ahead of Nvidia earnings",
-      "url": "https://cryptobriefing.com/goldman-sachs-tech-de-risking-nvidia-earnings/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-26T16:34:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Calls Oracle (ORCL) Stock’s 50% Plunge a Historic Buying Opportunity",
-      "url": "https://blockonomi.com/citi-calls-oracle-orcl-stocks-50-plunge-a-historic-buying-opportunity/",
-      "source": "blockonomi.com",
-      "published": "2026-08-26T16:31:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Mellon Small/Mid Cap Growth Fund Q2 2026 Commentary | $DBMAX $SDSCX $DBMCX $DBMYX $DBMZX",
-      "url": "https://seekingalpha.com/article/4940451-bny-mellon-smallmid-cap-growth-fund-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-08-26T16:20:00+00:00",
+      "title": "BNY Mellon High Yield Strategies Fund Declares Dividend",
+      "url": "http://www.businesswire.com/news/home/20260826555072/en/BNY-Mellon-High-Yield-Strategies-Fund-Declares-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:14:00+00:00",
       "tickers": [
         "BK"
       ]
     },
     {
-      "title": "Trump lawyers blast Capital One’s AML narrative in account closures",
-      "url": "https://www.bankingdive.com/news/capital-one-debanking-trump-aml-pretext-argument/828849/",
-      "source": "bankingdive.com",
-      "published": "2026-08-26T16:17:17+00:00",
+      "title": "Truist to speak at Barclays Global Financial Services Conference",
+      "url": "https://www.prnewswire.com/news-releases/truist-to-speak-at-barclays-global-financial-services-conference-302858951.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-26T20:13:00+00:00",
       "tickers": [
         "C",
-        "COF"
+        "TFC"
       ]
     },
     {
-      "title": "Jamie Dimon Committed JPMorgan to $750 Billion of Housing Investment Through 2035",
-      "url": "https://www.fool.com/investing/2026/08/26/jamie-dimon-committed-jpmorgan-to-750-billion-of/?source=iedfolrf0000001",
+      "title": "US Banks to Launch Stablecoin: Bank of America, Wells Fargo",
+      "url": "https://watcher.guru/news/us-banks-to-launch-stablecoin-bank-of-america-wells-fargo",
+      "source": "watcher.guru",
+      "published": "2026-08-26T20:12:00+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Upwork to Present at Goldman Sachs Communacopia + Technology Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351687/0/en/upwork-to-present-at-goldman-sachs-communacopia-technology-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T20:08:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Toast Announces Participation at Goldman Sachs Communacopia & Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260826685319/en/Toast-Announces-Participation-at-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Lam Research Corporation Announces Participation at Upcoming Conferences",
+      "url": "https://www.prnewswire.com/news-releases/lam-research-corporation-announces-participation-at-upcoming-conferences-302860844.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-26T20:05:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Pattern to Present at Upcoming Investor Conference",
+      "url": "http://www.businesswire.com/news/home/20260826137967/en/Pattern-to-Present-at-Upcoming-Investor-Conference/?feedref=JjAwJuNHiystnCoBq_hl-TIYFuzU-nTgjIjBR2rMbXbZqTJcFyBCNOmgBWIf-n6AD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ifTYmpfl2DGQ3yOOpc0gPDd",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Figma to Participate in Fireside Chat at the Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260826996528/en/Figma-to-Participate-in-Fireside-Chat-at-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CONMED Corporation to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260826349893/en/CONMED-Corporation-to-Participate-in-the-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:05:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "iRhythm Holdings to Participate in Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351683/0/en/irhythm-holdings-to-participate-in-wells-fargo-21st-annual-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T20:05:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Expedia Group to Participate in Goldman Sachs Communacopia + Technology Conference 2026",
+      "url": "http://www.businesswire.com/news/home/20260826104670/en/Expedia-Group-to-Participate-in-Goldman-Sachs-Communacopia-Technology-Conference-2026/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:01:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Box to Present at Investor Conference",
+      "url": "http://www.businesswire.com/news/home/20260826924287/en/Box-to-Present-at%C2%A0Investor-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-26T20:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SiriusXM to Present at the BofA Securities 2026 Media, Communications & Entertainment Conference",
+      "url": "https://investor.siriusxm.com/news-events/press-releases/detail/2293/siriusxm-to-present-at-the-bofa-securities-2026-media",
+      "source": "siriusxm.com",
+      "published": "2026-08-26T20:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jordy Nelson teams up with Bank of America for youth golf clinic: Photos",
+      "url": "https://www.bizjournals.com/milwaukee/news/2026/08/26/jordy-nelson-teams-up-with-bofa-youth-golf-clinic.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-26T19:53:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "XLF vs IYF: Which Financial Sector ETF Offers Better Value?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/26/xlf-vs-iyf-which-financial-sector-etf-offers-better-value/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-08-26T16:15:00+00:00",
+      "published": "2026-08-26T19:52:01+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "Morgan Stanley sees Thai refiners boosting dividends sharply",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-thai-refiners-boosting-dividends-sharply-93CH-4877623",
-      "source": "investing.com",
-      "published": "2026-08-26T16:13:02+00:00",
+      "title": "Cisco Could Be Entering a More Lasting Growth Phase, Says Morgan Stanley",
+      "url": "https://www.barchart.com/story/news/4133668/cisco-could-be-entering-a-more-lasting-growth-phase-says-morgan-stanley",
+      "source": "barchart.com",
+      "published": "2026-08-26T19:50:09+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "SpaceX wireless push could benefit T-Mobile, and tower firms, BofA says",
-      "url": "https://seekingalpha.com/news/4637082-spacex-wireless-push-could-benefit-t-mobile-tower-firms-bofa-says",
+      "title": "Which Small-Cap Growth ETF Is the Better Buy: State Street's SLYG or Invesco's RZG?",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/26/which-small-cap-growth-etf-is-the-better-buy-state-street-s-slyg-or-invesco-s-rzg/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-26T19:47:05+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Ørsted raised to Buy at Citi on first steps toward return to profitable growth.",
+      "url": "https://seekingalpha.com/news/4637153-rsted-raised-to-buy-at-citi-on-first-steps-toward-return-to-profitable-growth",
       "source": "seekingalpha.com",
-      "published": "2026-08-26T16:08:09+00:00",
+      "published": "2026-08-26T19:34:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Debit fee battle 'huge looming threat' to large retail banks",
+      "url": "https://www.americanbanker.com/payments/news/debit-fee-battle-huge-looming-threat-to-large-retail-banks",
+      "source": "americanbanker.com",
+      "published": "2026-08-26T19:28:08+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "LAPD investigates reported robbery at San Fernando Valley Bank of America",
+      "url": "https://ktla.com/news/local-news/granada-hills-bank-robbery-suspects-sought/",
+      "source": "ktla.com",
+      "published": "2026-08-26T19:14:29+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Qfin (NASDAQ:QFIN) Lowered to Equal Weight Rating by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-lowered-to-equal-weight-rating-by-morgan-stanley-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T16:06:27+00:00",
+      "title": "Downtown Office Tower Secures $575M Refinancing",
+      "url": "https://www.bisnow.com/news/boston/office/millennium-partners-575m-office-loan-winthrop-center",
+      "source": "bisnow.com",
+      "published": "2026-08-26T19:09:31+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Bloomberg, J.P. Morgan identify leading ETF themes for 2026",
-      "url": "https://cryptobriefing.com/bloomberg-jpmorgan-leading-etf-themes-2026/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-26T16:06:17+00:00",
+      "title": "Bank of America Study: Gen AI Users Open 12% More Credit Accounts and Spend More",
+      "url": "https://www.webpronews.com/bank-of-america-study-gen-ai-users-open-12-more-credit-accounts-and-spend-more/",
+      "source": "webpronews.com",
+      "published": "2026-08-26T19:02:14+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Watch Now - August 26th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-watch-now-august-26th-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T16:03:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Top Bank Stocks To Follow Now - August 26th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-follow-now-august-26th-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T16:03:29+00:00",
-      "tickers": [
-        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Innovex International (NYSE:INVX) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-innovex-international-nyse-invx-stock-price-expected-to-rise-citigroup-analyst-says-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T16:00:28+00:00",
+      "title": "EXE Maintained by Goldman Sachs -- Price Target Raised to $113",
+      "url": "https://www.gurufocus.com/news/9054721/exe-maintained-by-goldman-sachs-price-target-raised-to-113",
+      "source": "gurufocus.com",
+      "published": "2026-08-26T19:01:19+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Affirm (NASDAQ:AFRM) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-affirm-nasdaq-afrm-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T16:00:27+00:00",
-      "tickers": [
-        "MS"
+        "GS"
       ]
     }
   ]
