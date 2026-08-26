@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-08-26T11:03:38.828293+00:00",
+  "last_updated": "2026-08-26T11:57:59.657947+00:00",
   "headlines": [
+    {
+      "title": "Boca Ballet Theatre Announces its 2026-2027 Season of Dance",
+      "url": "https://www.bocaratontribune.com/bocaratonnews/2026/08/boca-ballet-theatre-announces-its-2026-2027-season-of-dance/",
+      "source": "bocaratontribune.com",
+      "published": "2026-08-26T11:15:00+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Insulet to Participate in Wells Fargo 21st Annual Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260826265703/en/Insulet-to-Participate-in-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-ZuHAZxVRaQvQ0qaekuSK9f3_P53wLuJwyFVA4-mOrLx7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LP6oD-t3eB0qV-nJQ-WeFyCN1Simk7pbS0xXPOT069Puw==",
+      "source": "businesswire.com",
+      "published": "2026-08-26T11:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s Khanduja cuts long-bond bets amid US Treasury buybacks",
+      "url": "https://cryptobriefing.com/morgan-stanleys-khanduja-cuts-long-bond-bets-amid-us-treasury-buybacks/",
+      "source": "cryptobriefing.com",
+      "published": "2026-08-26T10:41:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Man Group plc Purchases New Shares in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-purchases-new-shares-in-state-street-corporation-stt-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T10:40:34+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s Khanduja Cuts Long-Bond Bets on Bessent Buyback Move",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/morgan-stanley-s-khanduja-cuts-long-bond-bets-on-bessent-buyback-move",
+      "source": "bloomberg.com",
+      "published": "2026-08-26T10:34:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Wells Fargo cuts Intuit stock price target to $300 on tax growth concerns",
       "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-intuit-stock-price-target-to-300-on-tax-growth-concerns-93CH-4876657",
@@ -18,6 +65,15 @@
       "published": "2026-08-26T10:19:02+00:00",
       "tickers": [
         "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi sees yen strengthening long-term on improved capital flows",
+      "url": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-longterm-on-improved-capital-flows-93CH-4876645",
+      "source": "investing.com",
+      "published": "2026-08-26T10:14:02+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -215,60 +271,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-75784-shares-in-hewlett-packard-enterprise-company-hpe-bought-by-j-goldman-co-lp-2026-08-26/",
       "source": "marketbeat.com",
       "published": "2026-08-26T10:02:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Makes New Investment in TD SYNNEX Corporation $SNX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-makes-new-investment-in-td-synnex-corporation-snx-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Invests $3.65 Million in Ducommun Incorporated $DCO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-invests-365-million-in-ducommun-incorporated-dco-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Buys Shares of 40,322 O'Reilly Automotive, Inc. $ORLY",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-buys-shares-of-40322-oreilly-automotive-inc-orly-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Makes New Investment in Mettler-Toledo International, Inc. $MTD",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-makes-new-investment-in-mettler-toledo-international-inc-mtd-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "6,936 Shares in Regeneron Pharmaceuticals, Inc. $REGN Acquired by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6936-shares-in-regeneron-pharmaceuticals-inc-regn-acquired-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:26+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Takes $4 Million Position in BXP, Inc. $BXP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-takes-4-million-position-in-bxp-inc-bxp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:26+00:00",
       "tickers": [
         "GS"
       ]
