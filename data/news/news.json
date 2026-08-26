@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-08-26T11:57:59.657947+00:00",
+  "last_updated": "2026-08-26T13:09:48.943366+00:00",
   "headlines": [
+    {
+      "title": "Wall Street's buying streak ends as BofA sees $5B single-stock exodus",
+      "url": "https://seekingalpha.com/news/4636973-wall-streets-buying-streak-ends-as-bofa-sees-5b-single-stock-exodus",
+      "source": "seekingalpha.com",
+      "published": "2026-08-26T12:37:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA's Ike: Economic Stability Driving Africa IPO Boom",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-26/bofa-s-ike-economic-stability-driving-africa-ipo-boom-video",
+      "source": "bloomberg.com",
+      "published": "2026-08-26T12:35:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bel Fuse Announces Participation in Citi’s 2026 Global TMT Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351322/0/en/bel-fuse-announces-participation-in-citi-s-2026-global-tmt-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T12:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Oracle rises as Citi adds 90-day catalyst watch",
+      "url": "https://seekingalpha.com/news/4636969-oracle-rises-as-citi-adds-90-day-catalyst-watch",
+      "source": "seekingalpha.com",
+      "published": "2026-08-26T12:29:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi sees an opportunity in Oracle after ’one of the most extreme’ stock drawdowns",
+      "url": "https://www.investing.com/news/stock-market-news/citi-sees-an-opportunity-in-oracle-after-one-of-the-most-extreme-stock-drawdowns-4877077",
+      "source": "investing.com",
+      "published": "2026-08-26T12:14:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VanEck J.P. Morgan EM Local Currency Bond ETF (NYSEARCA:EMLC) Short Interest Up 466.8% in August",
+      "url": "https://www.tickerreport.com/banking-finance/13559669/vaneck-j-p-morgan-em-local-currency-bond-etf-nysearcaemlc-short-interest-up-466-8-in-august.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-26T12:02:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (NYSE:MS) Raised to Strong-Buy at Zacks Research",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-nyse-ms-raised-to-strong-buy-at-zacks-research-2026-08-26/",
+      "source": "marketbeat.com",
+      "published": "2026-08-26T12:00:40+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GE HealthCare management to present at upcoming investor conference",
+      "url": "http://www.businesswire.com/news/home/20260826189470/en/GE-HealthCare-management-to-present-at-upcoming-investor-conference/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
+      "source": "businesswire.com",
+      "published": "2026-08-26T12:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Mineralys Therapeutics to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351282/0/en/mineralys-therapeutics-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T12:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Repligen Corporation to Present at Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/26/3351241/24603/en/repligen-corporation-to-present-at-wells-fargo-21st-annual-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-26T11:30:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Boca Ballet Theatre Announces its 2026-2027 Season of Dance",
       "url": "https://www.bocaratontribune.com/bocaratonnews/2026/08/boca-ballet-theatre-announces-its-2026-2027-season-of-dance/",
@@ -13,7 +108,7 @@
     },
     {
       "title": "Insulet to Participate in Wells Fargo 21st Annual Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20260826265703/en/Insulet-to-Participate-in-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-ZuHAZxVRaQvQ0qaekuSK9f3_P53wLuJwyFVA4-mOrLx7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LP6oD-t3eB0qV-nJQ-WeFyCN1Simk7pbS0xXPOT069Puw==",
+      "url": "http://www.businesswire.com/news/home/20260826265703/en/Insulet-to-Participate-in-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
       "source": "businesswire.com",
       "published": "2026-08-26T11:00:00+00:00",
       "tickers": [
@@ -181,96 +276,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-7179-shares-in-visa-inc-v-purchased-by-j-goldman-co-lp-2026-08-26/",
       "source": "marketbeat.com",
       "published": "2026-08-26T10:02:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "176,770 Shares in Design Therapeutics, Inc. $DSGN Bought by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-176770-shares-in-design-therapeutics-inc-dsgn-bought-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Acquires New Shares in Western Digital Corporation $WDC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-acquires-new-shares-in-western-digital-corporation-wdc-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "48,413 Shares in Fortune Brands Innovations, Inc. $FBIN Acquired by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-48413-shares-in-fortune-brands-innovations-inc-fbin-acquired-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Acquires Shares of 100,800 Skeena Resources Limited $SKE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-acquires-shares-of-100800-skeena-resources-limited-ske-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Buys New Shares in Madrigal Pharmaceuticals, Inc. $MDGL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-buys-new-shares-in-madrigal-pharmaceuticals-inc-mdgl-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "26,573 Shares in Diodes Incorporated $DIOD Acquired by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-26573-shares-in-diodes-incorporated-diod-acquired-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Purchases Shares of 3,611 Lumentum Holdings Inc. $LITE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-purchases-shares-of-3611-lumentum-holdings-inc-lite-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Makes New $3.14 Million Investment in PENN Entertainment, Inc. $PENN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-makes-new-314-million-investment-in-penn-entertainment-inc-penn-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J. Goldman & Co LP Purchases Shares of 19,663 Phillips 66 $PSX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-j-goldman-co-lp-purchases-shares-of-19663-phillips-66-psx-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "75,784 Shares in Hewlett Packard Enterprise Company $HPE Bought by J. Goldman & Co LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-75784-shares-in-hewlett-packard-enterprise-company-hpe-bought-by-j-goldman-co-lp-2026-08-26/",
-      "source": "marketbeat.com",
-      "published": "2026-08-26T10:02:28+00:00",
       "tickers": [
         "GS"
       ]
