@@ -1,220 +1,127 @@
 {
-  "last_updated": "2026-08-28T18:29:45.304621+00:00",
+  "last_updated": "2026-08-29T01:54:03.348618+00:00",
   "headlines": [
     {
-      "title": "Goldman Sachs holds $88M in spot Solana ETFs, tops institutional list",
-      "url": "https://cryptobriefing.com/goldman-sachs-88m-solana-etfs/",
-      "source": "cryptobriefing.com",
-      "published": "2026-08-28T17:18:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026094897/0001213900-26-094897-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-28T17:09:30+00:00",
+      "title": "JP Morgan’s Justin Nelson Makes the Case for Hiring Neurodivergent Talent Before Your Competitors Do",
+      "url": "https://www.bocaratontribune.com/bocaratonnews/2026/08/jp-morgans-justin-nelson-makes-the-case-for-hiring-neurodivergent-talent-before-your-competitors-do/",
+      "source": "bocaratontribune.com",
+      "published": "2026-08-28T23:37:36+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426025343/0001918704-26-025343-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-28T17:08:55+00:00",
+      "title": "The Memo - 29/Aug/2026 - Anthropic Model 2, Generalist AI GEN-1.5 robotics, Stanford ...",
+      "url": "https://lifearchitect.substack.com/p/the-memo-29aug2026",
+      "source": "substack.com",
+      "published": "2026-08-28T23:27:54+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Promising Financial Stocks To Consider - August 28th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-promising-financial-stocks-to-consider-august-28th-2026-08-28/",
-      "source": "marketbeat.com",
-      "published": "2026-08-28T17:02:12+00:00",
+      "title": "How should I access a wedding gift given to me via Zelle?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w15yvp/how_should_i_access_a_wedding_gift_given_to_me/",
+      "source": "reddit.com",
+      "published": "2026-08-28T23:11:38+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Urban Strategies Inc. providing resources for $50K 'Startup Challenge'",
-      "url": "https://fox2now.com/news/missouri/urban-strategies-inc-providing-resources-for-50k-startup-challenge/",
-      "source": "fox2now.com",
-      "published": "2026-08-28T16:51:17+00:00",
+      "title": "Merrill Lynch names new Seattle market executive",
+      "url": "https://www.bizjournals.com/seattle/news/2026/08/28/merrill-lynch-adam-little-bofa-bank-america.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-28T22:29:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Recent Ratings Changes for Nova (NVMI)",
+      "url": "https://www.tickerreport.com/banking-finance/13564006/research-analysts-recent-ratings-changes-for-nova-nvmi.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-28T22:26:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Astros at Mets Game Discussion: 8/28/2026",
+      "url": "https://www.crawfishboxes.com/houston-astros-discussion/77659/astros-at-mets-game-discussion-8-28-2026",
+      "source": "crawfishboxes.com",
+      "published": "2026-08-28T22:25:12+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Trading Up 2% - Should You Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-trading-up-2-should-you-buy-2026-08-28/",
+      "source": "marketbeat.com",
+      "published": "2026-08-28T21:40:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426025557/0001918704-26-025557-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:25:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "How GLP-1s are reshaping America's obesity problem",
+      "url": "https://finance.yahoo.com/video/glp-1s-reshaping-americas-obesity-211500981.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-28T21:15:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "BofA flips on Everpure after months on the sidelines",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-flips-everpure-months-sidelines-164700279.html",
-      "source": "yahoo.com",
-      "published": "2026-08-28T16:47:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013143/0000950103-26-013143-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:10:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226042474/0001839882-26-042474-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:06:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013135/0000950103-26-013135-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T20:56:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Lockheed Martin Secures $2.25 Billion Revolver Led By Bank Of America And Extends $3 Billion Facility To 2031",
+      "url": "https://pulse2.com/lockheed-martin-secures-2-25-billion-revolver-led-by-bank-of-america-and-extends-3-billion-facility-to-2031/",
+      "source": "pulse2.com",
+      "published": "2026-08-28T20:53:15+00:00",
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "JPMorgan (JPM) Hiring Bank of America (BAC)’s David Fishman to Lead Tech M&A",
-      "url": "https://finance.yahoo.com/technology/articles/jpmorgan-jpm-hiring-bank-america-163650800.html",
-      "source": "yahoo.com",
-      "published": "2026-08-28T16:36:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Weekly Ratings Updates for Ducommun (DCO)",
-      "url": "https://www.tickerreport.com/banking-finance/13563611/research-analysts-weekly-ratings-updates-for-ducommun-dco.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-28T16:26:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for Burlington Stores (NYSE:BURL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-burlington-stores-nyse-burl-stock-price-2026-08-28/",
-      "source": "marketbeat.com",
-      "published": "2026-08-28T16:24:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA names 3 dividend stocks for stability amidst choppy markets",
-      "url": "https://invezz.com/news/2026/08/28/bofa-names-3-dividend-stocks-for-stability-amidst-choppy-markets/",
-      "source": "invezz.com",
-      "published": "2026-08-28T16:23:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Aggressive Treasury yield cap could weigh on dollar, says Citi’s asset allocation head",
-      "url": "https://www.investing.com/news/economy-news/aggressive-treasury-yield-cap-could-weigh-on-dollar-says-citis-asset-allocation-head-4881652",
-      "source": "investing.com",
-      "published": "2026-08-28T16:12:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AFRM Maintained by JP Morgan -- Price Target Raised to $105",
-      "url": "https://www.gurufocus.com/news/9058292/afrm-maintained-by-jp-morgan-price-target-raised-to-105",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:06:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SQM Maintained by JP Morgan -- Price Target Lowered to $94.00",
-      "url": "https://www.gurufocus.com/news/9058287/sqm-maintained-by-jp-morgan-price-target-lowered-to-9400",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:05:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GAP Maintained by Morgan Stanley -- Price Target Raised to $23.00",
-      "url": "https://www.gurufocus.com/news/9058286/gap-maintained-by-morgan-stanley-price-target-raised-to-2300",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:04:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BBY Maintained by Morgan Stanley -- Price Target Raised to $90",
-      "url": "https://www.gurufocus.com/news/9058284/bby-maintained-by-morgan-stanley-price-target-raised-to-90",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:04:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "DLTR Maintained by Morgan Stanley -- Price Target Raised to $145",
-      "url": "https://www.gurufocus.com/news/9058281/dltr-maintained-by-morgan-stanley-price-target-raised-to-145",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:03:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "DG Maintained by Morgan Stanley -- Price Target Raised to $145.00",
-      "url": "https://www.gurufocus.com/news/9058277/dg-maintained-by-morgan-stanley-price-target-raised-to-14500",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:02:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ETN Maintained by Morgan Stanley -- Price Target Raised to $520",
-      "url": "https://www.gurufocus.com/news/9058275/etn-maintained-by-morgan-stanley-price-target-raised-to-520",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:02:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "EMR Maintained by Morgan Stanley -- Price Target Raised to $135",
-      "url": "https://www.gurufocus.com/news/9058274/emr-maintained-by-morgan-stanley-price-target-raised-to-135",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:02:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Add to Your Watchlist - August 28th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-add-to-your-watchlist-august-28th-2026-08-28/",
-      "source": "marketbeat.com",
-      "published": "2026-08-28T16:02:03+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "MRVL Maintained by Morgan Stanley -- Price Target Raised to $246",
-      "url": "https://www.gurufocus.com/news/9058271/mrvl-maintained-by-morgan-stanley-price-target-raised-to-246",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:01:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "S Maintained by Morgan Stanley -- Price Target Raised to $23",
-      "url": "https://www.gurufocus.com/news/9058267/s-maintained-by-morgan-stanley-price-target-raised-to-23",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:01:15+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ESTC Maintained by Morgan Stanley -- Price Target Raised to $75",
-      "url": "https://www.gurufocus.com/news/9058260/estc-maintained-by-morgan-stanley-price-target-raised-to-75",
-      "source": "gurufocus.com",
-      "published": "2026-08-28T16:00:27+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
