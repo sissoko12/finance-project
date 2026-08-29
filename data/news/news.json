@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-08-29T01:54:03.348618+00:00",
+  "last_updated": "2026-08-29T08:54:28.513488+00:00",
   "headlines": [
+    {
+      "title": "Bamco Inc. NY Grows Stake in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bamco-inc-ny-grows-stake-in-bank-of-america-corporation-bac-2026-08-29/",
+      "source": "marketbeat.com",
+      "published": "2026-08-29T07:22:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Azora Capital LP Acquires Shares of 4,182,530 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-azora-capital-lp-acquires-shares-of-4182530-bank-of-america-corporation-bac-2026-08-29/",
+      "source": "marketbeat.com",
+      "published": "2026-08-29T07:22:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "100,000 Shares in Bank of America Corporation $BAC Purchased by Arini Capital Management Ltd",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-100000-shares-in-bank-of-america-corporation-bac-purchased-by-arini-capital-management-ltd-2026-08-29/",
+      "source": "marketbeat.com",
+      "published": "2026-08-29T07:13:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Intuit (NASDAQ:INTU) Cut to Neutral at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13564172/intuit-nasdaqintu-cut-to-neutral-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-29T06:36:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Replimune Group (NASDAQ:REPL) Price Target Raised to $21.00",
+      "url": "https://www.tickerreport.com/banking-finance/13564165/replimune-group-nasdaqrepl-price-target-raised-to-21-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-29T06:06:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Evoke’s (EVOK) “Hold” Rating Reiterated at Berenberg Bank",
+      "url": "https://www.tickerreport.com/banking-finance/13564162/evokes-evok-hold-rating-reiterated-at-berenberg-bank.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-29T06:00:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of Montreal (TSE:BMO) Price Target Raised to C$262.00",
+      "url": "https://www.tickerreport.com/banking-finance/13564158/bank-of-montreal-tsebmo-price-target-raised-to-c262-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-29T05:36:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Just Put a $70 Target on This Overlooked AI Packaging Stock",
+      "url": "https://www.insidermonkey.com/blog/bofa-just-put-a-70-target-on-this-overlooked-ai-packaging-stock-1824539/",
+      "source": "insidermonkey.com",
+      "published": "2026-08-29T02:57:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Owner raises $240M for its restaurant management platform",
+      "url": "https://siliconangle.com/2026/08/28/owner-raises-240m-for-its-restaurant-management-platform/",
+      "source": "siliconangle.com",
+      "published": "2026-08-29T01:33:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SPDR SSgA Income Allocation ETF (NYSEARCA:INKM) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13564076/spdr-ssga-income-allocation-etf-nysearcainkm-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-29T01:20:50+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "JP Morgan’s Justin Nelson Makes the Case for Hiring Neurodivergent Talent Before Your Competitors Do",
       "url": "https://www.bocaratontribune.com/bocaratonnews/2026/08/jp-morgans-justin-nelson-makes-the-case-for-hiring-neurodivergent-talent-before-your-competitors-do/",
@@ -58,6 +153,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000089183626000065/0000891836-26-000065-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:50:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Bank of America (NYSE:BAC) Trading Up 2% - Should You Buy?",
       "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-trading-up-2-should-you-buy-2026-08-28/",
       "source": "marketbeat.com",
@@ -65,6 +169,43 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 4/A [Amend] - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000522/0000886982-26-000522-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:38:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000046/0000923738-26-000046-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:32:45+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526374792/0001193125-26-374792-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:28:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026095200/0001213900-26-095200-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-28T21:26:36+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -88,40 +229,12 @@
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013143/0000950103-26-013143-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026095179/0001213900-26-095179-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-28T21:10:44+00:00",
+      "published": "2026-08-28T21:12:02+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226042474/0001839882-26-042474-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-28T21:06:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013135/0000950103-26-013135-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-28T20:56:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Lockheed Martin Secures $2.25 Billion Revolver Led By Bank Of America And Extends $3 Billion Facility To 2031",
-      "url": "https://pulse2.com/lockheed-martin-secures-2-25-billion-revolver-led-by-bank-of-america-and-extends-3-billion-facility-to-2031/",
-      "source": "pulse2.com",
-      "published": "2026-08-28T20:53:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     }
   ]
