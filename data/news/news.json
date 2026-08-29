@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-29T17:50:37.574680+00:00",
+  "last_updated": "2026-08-29T20:49:10.960694+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley resets CrowdStrike stock price target after earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-crowdstrike-stock-184700186.html",
+      "source": "yahoo.com",
+      "published": "2026-08-29T18:47:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi Diamond Preferred card review: A good option for paying down debt",
+      "url": "https://thepointsguy.com/credit-cards/reviews/citi-diamond-preferred-card-review/",
+      "source": "thepointsguy.com",
+      "published": "2026-08-29T17:00:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Top Bank Stocks To Keep An Eye On - August 29th",
       "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-keep-an-eye-on-august-29th-2026-08-29/",
@@ -260,25 +278,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "MASTERINVEST Kapitalanlage GmbH Makes New Investment in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13564653/masterinvest-kapitalanlage-gmbh-makes-new-investment-in-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-29T10:07:32+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "United Capital Financial Advisors LLC Takes $2.29 Million Position in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-united-capital-financial-advisors-llc-takes-229-million-position-in-state-street-corporation-stt-2026-08-29/",
-      "source": "marketbeat.com",
-      "published": "2026-08-29T10:06:26+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
