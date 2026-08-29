@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-08-29T20:49:10.960694+00:00",
+  "last_updated": "2026-08-29T23:11:44.915210+00:00",
   "headlines": [
+    {
+      "title": "Looking to switch bank accounts",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w1yqx3/looking_to_switch_bank_accounts/",
+      "source": "reddit.com",
+      "published": "2026-08-29T21:34:40+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/29/better-international-etf-the-ishares-iefa-vs-state-street-s-spdw/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-08-29T21:00:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Morgan Stanley resets CrowdStrike stock price target after earnings",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-crowdstrike-stock-184700186.html",
@@ -8,6 +27,15 @@
       "published": "2026-08-29T18:47:00+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Astros at Mets Game Discussion: 8/29/2026",
+      "url": "https://www.crawfishboxes.com/houston-astros-discussion/77669/astros-at-mets-game-discussion-8-29-2026",
+      "source": "crawfishboxes.com",
+      "published": "2026-08-29T18:07:15+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -40,21 +68,21 @@
       ]
     },
     {
-      "title": "Strait & Sound Wealth Management LLC Takes Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13565342/strait-sound-wealth-management-llc-takes-position-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-29T14:36:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "Lombard Odier Asset Management Europe Ltd Makes New Investment in The Goldman Sachs Group, Inc. $GS",
       "url": "https://www.tickerreport.com/banking-finance/13565296/lombard-odier-asset-management-europe-ltd-makes-new-investment-in-the-goldman-sachs-group-inc-gs.html",
       "source": "tickerreport.com",
       "published": "2026-08-29T14:05:17+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan eases lending restrictions in push for tech wealth clients – FT",
+      "url": "https://investorshub.advfn.com/market-news/article/35254/jpmorgan-eases-lending-restrictions-in-push-for-tech-wealth-clients-ft?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-08-29T13:54:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -249,35 +277,6 @@
       "published": "2026-08-29T11:02:36+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Jefferies Financial Group Inc. Takes Position in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.tickerreport.com/banking-finance/13564693/jefferies-financial-group-inc-takes-position-in-the-charles-schwab-corporation-schw.html",
-      "source": "tickerreport.com",
-      "published": "2026-08-29T10:19:34+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "4,491 Shares in The Goldman Sachs Group, Inc. $GS Purchased by RB Capital Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-4491-shares-in-the-goldman-sachs-group-inc-gs-purchased-by-rb-capital-management-llc-2026-08-29/",
-      "source": "marketbeat.com",
-      "published": "2026-08-29T10:14:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Orion Capital Management LLC Invests $1.04 Million in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-orion-capital-management-llc-invests-104-million-in-capital-one-financial-corporation-cof-2026-08-29/",
-      "source": "marketbeat.com",
-      "published": "2026-08-29T10:13:10+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
