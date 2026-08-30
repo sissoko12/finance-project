@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-08-29T23:11:44.915210+00:00",
+  "last_updated": "2026-08-30T01:34:26.261108+00:00",
   "headlines": [
+    {
+      "title": "The Monumental Mistake Of Raising Rates In September",
+      "url": "https://awesomecapital.blogspot.com/2026/08/the-monumental-mistake-of-raising-rates.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-08-29T23:19:03+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts Gold Will Hit $4,900 by Year-End",
+      "url": "https://news.bitcoin.com/price-predictions/goldman-sachs-predicts-gold-will-hit-4900-by-year-end/",
+      "source": "bitcoin.com",
+      "published": "2026-08-29T22:49:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Looking to switch bank accounts",
       "url": "https://www.reddit.com/r/personalfinance/comments/1w1yqx3/looking_to_switch_bank_accounts/",
@@ -63,6 +83,15 @@
       "url": "https://www.tickerreport.com/banking-finance/13565378/1978-shares-in-the-goldman-sachs-group-inc-gs-acquired-by-pin-oak-investment-advisors-inc.html",
       "source": "tickerreport.com",
       "published": "2026-08-29T15:08:50+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Strait & Sound Wealth Management LLC Takes Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.tickerreport.com/banking-finance/13565342/strait-sound-wealth-management-llc-takes-position-in-the-goldman-sachs-group-inc-gs.html",
+      "source": "tickerreport.com",
+      "published": "2026-08-29T14:36:50+00:00",
       "tickers": [
         "GS"
       ]
@@ -250,33 +279,6 @@
       "published": "2026-08-29T11:06:21+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Royal London Asset Management Ltd. Has $252.62 Million Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-royal-london-asset-management-ltd-has-25262-million-position-in-the-goldman-sachs-group-inc-gs-2026-08-29/",
-      "source": "marketbeat.com",
-      "published": "2026-08-29T11:05:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Toth Financial Advisory Corp Boosts Stock Position in Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-toth-financial-advisory-corp-boosts-stock-position-in-citigroup-inc-c-2026-08-29/",
-      "source": "marketbeat.com",
-      "published": "2026-08-29T11:05:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Says: “Gold is Back” as Macro Funds Buy $5100 Calls",
-      "url": "https://vblgoldfix.substack.com/p/bullion-bank-says-gold-is-back",
-      "source": "substack.com",
-      "published": "2026-08-29T11:02:36+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
