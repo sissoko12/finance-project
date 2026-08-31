@@ -1,192 +1,276 @@
 {
-  "last_updated": "2026-08-31T19:03:27.462682+00:00",
+  "last_updated": "2026-08-31T23:18:13.351058+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226042770/0001839882-26-042770-index.htm",
+      "title": "Judge OKs Bank of America’s $72 million settlement with Epstein victims. What happens next",
+      "url": "https://thebrunswicknews.com/news/national_news/judge-oks-bank-of-america-s-72-million-settlement-with-epstein-victims-what-happens-next/article_879c0ca1-ad2e-50ef-98ad-131f0d2affaf.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-08-31T21:55:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank adds business bankers, plans 6 new Arizona branches by 2027",
+      "url": "https://www.bizjournals.com/phoenix/news/2026/08/31/us-bank-expands-business-banking-team-in-arizona.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-08-31T21:26:40+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226042895/0001839882-26-042895-index.htm",
       "source": "sec.gov",
-      "published": "2026-08-31T18:13:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Raises Becton, Dickinson and Company (NYSE:BDX) Price Target to $200.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-raises-becton-dickinson-and-company-nyse-bdx-price-target-to-20000-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T18:06:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NetApp (NASDAQ:NTAP) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-netapp-nasdaq-ntap-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T18:06:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Has Lowered Expectations for Ascendis Pharma A/S (NASDAQ:ASND) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-has-lowered-expectations-for-ascendis-pharma-as-nasdaq-asnd-stock-price-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T18:06:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Says Canada's Steel Retaliation `Irrelevant'",
-      "url": "https://www.youtube.com/watch?v=rGu6iS_ndKk",
-      "source": "youtube.com",
-      "published": "2026-08-31T18:04:52+00:00",
+      "published": "2026-08-31T21:14:26+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Spots Surprise S&P 500 Setup",
-      "url": "https://www.gurufocus.com/news/9060338/bank-of-america-spots-surprise-sp-500-setup",
-      "source": "gurufocus.com",
-      "published": "2026-08-31T18:04:47+00:00",
+      "title": "Insider Selling: Bank of New York Mellon (NYSE:BNY) VP Sells 3,520 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-bank-of-new-york-mellon-nyse-bny-vp-sells-3520-shares-2026-08-31/",
+      "source": "marketbeat.com",
+      "published": "2026-08-31T21:08:08+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) CEO Gunjan Kedia Sells 27,267 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-us-bancorp-nyse-usb-ceo-gunjan-kedia-sells-27267-shares-2026-08-31/",
+      "source": "marketbeat.com",
+      "published": "2026-08-31T21:08:02+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees key catalyst in vital tech stock before earnings",
+      "url": "https://www.thestreet.com/investing/stocks/cien-ciena-earnings-preview-morgan-stanley-august-2026-expects-backlog-growth?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-08-31T21:03:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "embecta to Participate in Investor Events",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/31/3353720/0/en/embecta-to-participate-in-investor-events.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-31T21:00:00+00:00",
+      "tickers": [
+        "JPM",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426025744/0001918704-26-025744-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-31T20:57:28+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "IDEXX Laboratories to Participate in Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20260831970236/en/IDEXX-Laboratories-to-Participate-in-Morgan-Stanley-24th-Annual-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
+      "title": "Wells Fargo Just Downgraded PG&E Stock. Here's Why.",
+      "url": "https://www.barchart.com/story/news/4361962/wells-fargo-just-downgraded-pg-e-stock-here-s-why",
+      "source": "barchart.com",
+      "published": "2026-08-31T20:53:59+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "US Bancorp president & CEO Kedia sells $1.7m in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/us-bancorp-president--ceo-kedia-sells-17m-in-stock-93CH-4883280",
+      "source": "investing.com",
+      "published": "2026-08-31T20:46:17+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Versant to Present at the 2026 Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260831539668/en/Versant-to-Present-at-the-2026-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-fArZ4S48GqIjCUpbTPJDg_ZRHqeOKdIRBEENMvWuUUmOKZXz2bZRmEQ1BwkpoG4oul5C1rkGQ_h4BkZ40LwsoN4gnxBSGiVu_qLafVdV0IiQPT0fDRifTq3nSfcMpa1LQ==",
       "source": "businesswire.com",
-      "published": "2026-08-31T18:00:00+00:00",
+      "published": "2026-08-31T20:30:00+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Midwest markets post population gains even as mobility drops, HELOC-funded renovations rise",
-      "url": "https://www.housingwire.com/articles/americans-moving-less-heloc-renovation-bank-of-america-2026/",
-      "source": "housingwire.com",
-      "published": "2026-08-31T17:59:34+00:00",
+      "title": "Versant to Present at the BofA 2026 Media, Communications and Entertainment Conference",
+      "url": "http://www.businesswire.com/news/home/20260831207975/en/Versant-to-Present-at-the-BofA-2026-Media-Communications-and-Entertainment-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:30:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226042760/0001839882-26-042760-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-31T17:54:02+00:00",
+      "title": "Sarepta Therapeutics to Present at the Morgan Stanley 24th Annual Global Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260831655338/en/Sarepta-Therapeutics-to-Present-at-the-Morgan-Stanley-24th-Annual-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-WBlLQO14j4QZPTyX5CYOnwC4VjN53jumZRlnzhBoBxGrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3ltkRSnqzf6ourQGu_UA28CzZCGORvG0LE20YOvo49uqw==",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:30:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Wells Fargo Says New Canada Steel Duties ‘For Show’ in Trade War",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/wells-fargo-says-new-canada-steel-duties-for-show-in-trade-war",
-      "source": "bloomberg.com",
-      "published": "2026-08-31T17:45:05+00:00",
+      "title": "Cisco to Participate in September Events with the Financial Community",
+      "url": "https://www.prnewswire.com/news-releases/cisco-to-participate-in-september-events-with-the-financial-community-302865284.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-31T20:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "How Investors May Respond To JPMorgan Chase (JPM) Bond Issuance, Branch Expansion and Higher Payouts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-jpmorgan-chase-202254218.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-31T20:22:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Realty Income (O) Amends Term Loans Covering Up To $1.85 Billion",
+      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-o-amends-term-202239373.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-31T20:22:39+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Atlassian (NASDAQ:TEAM) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-atlassian-nasdaq-team-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T17:42:29+00:00",
+      "title": "OUTFRONT Media Chief Executive Officer Nick Brien to Participate in Citi's 2026 Global TMT Conference",
+      "url": "https://www.prnewswire.com/news-releases/outfront-media-chief-executive-officer-nick-brien-to-participate-in-citis-2026-global-tmt-conference-302865317.html",
+      "source": "prnewswire.com",
+      "published": "2026-08-31T20:15:00+00:00",
       "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Has Lowered Expectations for Rocket Lab (NASDAQ:RKLB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-has-lowered-expectations-for-rocket-lab-nasdaq-rklb-stock-price-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T17:42:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Intuitive Machines (NASDAQ:LUNR) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-intuitive-machines-nasdaq-lunr-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T17:42:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Redwire (NYSE:RDW) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-redwire-nyse-rdw-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-08-31/",
-      "source": "marketbeat.com",
-      "published": "2026-08-31T17:42:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sector Update: Tech Stocks Edge Lower Monday Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-lower-174108486.html?.tsrc=rss",
+      "title": "Sector Update: Energy Stocks Gain Monday",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-monday-201050077.html?.tsrc=rss",
       "source": "yahoo.com",
-      "published": "2026-08-31T17:41:08+00:00",
+      "published": "2026-08-31T20:10:50+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226042741/0001839882-26-042741-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-31T17:41:03+00:00",
+      "title": "HubSpot to Present at the Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260831142643/en/HubSpot-to-Present-at-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:10:00+00:00",
       "tickers": [
-        "WFC",
+        "GS"
+      ]
+    },
+    {
+      "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-microsoft-intel-201000476.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-31T20:10:00+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "How banks are navigating the AI data center backlash",
-      "url": "https://www.americanbanker.com/news/how-banks-are-navigating-the-ai-data-center-backlash",
-      "source": "americanbanker.com",
-      "published": "2026-08-31T17:33:39+00:00",
+      "title": "SI-BONE To Present at Morgan Stanley 24th Global Healthcare Conference on September 14, 2026",
+      "url": "https://www.globenewswire.com/en/news-release/2026/08/31/3353689/0/en/si-bone-to-present-at-morgan-stanley-24th-global-healthcare-conference-on-september-14-2026.html",
+      "source": "globenewswire.com",
+      "published": "2026-08-31T20:09:00+00:00",
       "tickers": [
-        "BAC",
-        "WFC",
-        "C",
-        "GS",
         "MS"
       ]
     },
     {
-      "title": "YSS Maintained by Wells Fargo -- Price Target Lowered to $17.00",
-      "url": "https://www.gurufocus.com/news/9060395/yss-maintained-by-wells-fargo-price-target-lowered-to-1700",
-      "source": "gurufocus.com",
-      "published": "2026-08-31T17:30:52+00:00",
+      "title": "JPMorgan Dials Down Optimism on US Stocks After Warsh’s Hawkish Jackson Hole Remarks, Adopts ‘Tactically Cautious’ Approach",
+      "url": "https://profitconfidential.com/jpmorgan-drops-bullish-stance-on-us-stocks-after-warshs-hawkish-tone-at-jackson-hole-shifts-to-tactically-cautious/",
+      "source": "profitconfidential.com",
+      "published": "2026-08-31T20:08:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Vir Biotechnology to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260831302197/en/Vir-Biotechnology-to-Participate-in-the-Morgan-Stanley-24th-Annual-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:05:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "NeuroPace to Participate in Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://finance.yahoo.com/healthcare/articles/neuropace-participate-wells-fargo-21st-200500358.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-31T20:05:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Flying Squirrels mascot Nutasha has date to celebrate at New York's Citi Field Saturday",
-      "url": "https://richmond.com/sports/professional/article_c60158ff-e341-4878-8edb-4249bbf4960c.html",
-      "source": "richmond.com",
-      "published": "2026-08-31T17:30:00+00:00",
+      "title": "Chewy Announces Participation in the Goldman Sachs Global Consumer and Retail Conference 2026",
+      "url": "http://www.businesswire.com/news/home/20260831707785/en/Chewy-Announces-Participation-in-the-Goldman-Sachs-Global-Consumer-and-Retail-Conference-2026/?feedref=JjAwJuNHiystnCoBq_hl-X7qPGUG3_DVKaX5uCz7J4geEeYrSOG7eheB2Nu_OIb5rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3kC6rme1rHQj_hBFi9syH1uzZCGORvG0LE20YOvo49uqw==",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:05:00+00:00",
       "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Mattel to Participate in Upcoming Investor Events",
+      "url": "http://www.businesswire.com/news/home/20260831616407/en/Mattel-to-Participate-in-Upcoming-Investor-Events/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Omnicell to Present at the Wells Fargo 21st Annual Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260831359648/en/Omnicell-to-Present-at-the-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-08-31T20:01:00+00:00",
+      "tickers": [
+        "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "GRAIL to Present at Morgan Stanley's 24th Annual Global Healthcare Conference",
+      "url": "https://finance.yahoo.com/healthcare/articles/grail-present-morgan-stanleys-24th-200100047.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-08-31T20:01:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Is Buying Into High Income ETFs, but What Are Nasdaq Investors Giving Up for Those Payouts?",
+      "url": "https://247wallst.com/investing/etf/2026/08/31/goldman-sachs-is-buying-into-high-income-etfs-but-what-are-nasdaq-investors-giving-up-for-those-payouts/",
+      "source": "247wallst.com",
+      "published": "2026-08-31T19:58:12+00:00",
+      "tickers": [
+        "GS"
       ]
     }
   ]
