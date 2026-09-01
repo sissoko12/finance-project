@@ -1,232 +1,287 @@
 {
-  "last_updated": "2026-09-01T17:24:30.516150+00:00",
+  "last_updated": "2026-09-01T20:06:31.672074+00:00",
   "headlines": [
     {
-      "title": "Bank of America VP Stabbed to Death in Times Square as Attacker Tells Cops 'I Will Kill You' Before Being Shot",
-      "url": "https://www.ibtimes.co.uk/bank-america-vp-stabbed-times-square-1817304",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-01T17:03:45+00:00",
+      "title": "Wall Street banks ask elite law firms to cut hourly billings — arguing that AI is speeding legal work",
+      "url": "https://nypost.com/2026/09/01/business/wall-street-banks-tell-big-law-to-cut-fees-as-ai-speeds-up-legal-work/",
+      "source": "nypost.com",
+      "published": "2026-09-01T19:10:42+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "C",
+        "GS",
+        "MS"
       ]
     },
     {
-      "title": "Victim in Times Square stabbing identified as Bank of America employee",
-      "url": "https://www.cbsnews.com/news/erin-piacenti-times-square-stabbing-nypd-shooting/",
-      "source": "cbsnews.com",
-      "published": "2026-09-01T17:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Promising Bank Stocks To Follow Today - September 1st",
-      "url": "https://www.marketbeat.com/instant-alerts/list-promising-bank-stocks-to-follow-today-september-1st-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T17:02:02+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs refreshes conviction lists on both sides of the Atlantic",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-refreshes-conviction-lists-on-both-sides-of-the-atlantic-4884413",
-      "source": "investing.com",
-      "published": "2026-09-01T16:56:32+00:00",
+      "title": "Goldman Sachs Sees Major Shift Coming for Oil Markets",
+      "url": "https://www.gurufocus.com/news/9061747/goldman-sachs-sees-major-shift-coming-for-oil-markets",
+      "source": "gurufocus.com",
+      "published": "2026-09-01T19:08:48+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "BofA vice president Piacenti killed in Times Square stabbing",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-vice-president-killed-in-times-square-stabbing-bloomberg-news-reports-4884316",
-      "source": "investing.com",
-      "published": "2026-09-01T16:54:43+00:00",
+      "title": "Howmet Plunged 20% on SpaceX Fears. Citi Says Buy the Dip",
+      "url": "https://www.gurufocus.com/news/9061739/howmet-plunged-20-on-spacex-fears-citi-says-buy-the-dip",
+      "source": "gurufocus.com",
+      "published": "2026-09-01T19:08:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PAM Maintained by JP Morgan -- Price Target Raised to $105",
+      "url": "https://www.gurufocus.com/news/9062499/pam-maintained-by-jp-morgan-price-target-raised-to-105",
+      "source": "gurufocus.com",
+      "published": "2026-09-01T19:08:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Says U.S. Debt Fears Miss Bigger Story",
+      "url": "https://www.gurufocus.com/news/9062119/morgan-stanley-says-us-debt-fears-miss-bigger-story",
+      "source": "gurufocus.com",
+      "published": "2026-09-01T19:08:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Stock Is Up Nearly 20% in 2026: What Will It Take to Break Through $250?",
+      "url": "https://247wallst.com/investing/2026/09/01/morgan-stanley-stock-is-up-nearly-20-in-2026-what-will-it-take-to-break-through-250/",
+      "source": "247wallst.com",
+      "published": "2026-09-01T19:01:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America vice-president Erin Piacenti killed in Times Square stabbing",
+      "url": "https://www.straitstimes.com/world/united-states/bank-of-america-vice-president-erin-piacenti-killed-in-times-square-stabbing",
+      "source": "straitstimes.com",
+      "published": "2026-09-01T19:00:12+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226043139/0001839882-26-043139-index.htm",
+      "title": "Broadcom earnings need to answer these questions for the stock to rally again",
+      "url": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-09-01T18:54:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank Of America Vice President Fatally Stabbed In Times Square—What We Know",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/01/bank-of-america-vice-president-fatally-stabbed-in-times-square-what-we-know/",
+      "source": "forbes.com",
+      "published": "2026-09-01T18:51:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State Street My2028 High Yield Corporate Bond ETF declares monthly distribution of $0.1284",
+      "url": "https://seekingalpha.com/news/4639102-state-streetmy2028-high-yield-corporate-bond-etf-declares-monthly-distribution-of-01284",
+      "source": "seekingalpha.com",
+      "published": "2026-09-01T18:47:12+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street My2027 High Yield Corporate Bond ETF declares monthly distribution of $0.1149",
+      "url": "https://seekingalpha.com/news/4639101-state-streetmy2027-high-yield-corporate-bond-etf-declares-monthly-distribution-of-01149",
+      "source": "seekingalpha.com",
+      "published": "2026-09-01T18:46:20+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426025983/0001918704-26-025983-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-01T16:53:02+00:00",
+      "published": "2026-09-01T18:45:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Savings account for young adult",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w4kzfk/savings_account_for_young_adult/",
+      "source": "reddit.com",
+      "published": "2026-09-01T18:44:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Vista Energy (NYSE:VIST) Price Target Raised to $94.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-vista-energy-nyse-vist-price-target-raised-to-9400-at-jpmorgan-chase-co-2026-09-01/",
+      "source": "marketbeat.com",
+      "published": "2026-09-01T18:42:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for YPF Sociedad Anónima (NYSE:YPF) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-ypf-sociedad-annima-nyse-ypf-stock-2026-09-01/",
+      "source": "marketbeat.com",
+      "published": "2026-09-01T18:42:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Petroleo Brasileiro S.A.- Petrobras (NYSE:PBR) Given New $24.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-petroleo-brasileiro-sa-petrobras-nyse-pbr-given-new-2400-price-target-at-jpmorgan-chase-co-2026-09-01/",
+      "source": "marketbeat.com",
+      "published": "2026-09-01T18:42:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Pampa Energia (NYSE:PAM) Given New $105.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-pampa-energia-nyse-pam-given-new-10500-price-target-at-jpmorgan-chase-co-2026-09-01/",
+      "source": "marketbeat.com",
+      "published": "2026-09-01T18:42:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Boosts Annexon (NASDAQ:ANNX) Price Target to $14.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-boosts-annexon-nasdaq-annx-price-target-to-1400-2026-09-01/",
+      "source": "marketbeat.com",
+      "published": "2026-09-01T18:42:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Marriott Hotel Charges $25 Extra For Housekeeping—Is Westin Even ‘Full Service’ Anymore? [Roundup]",
+      "url": "https://viewfromthewing.com/marriott-hotel-charges-25-extra-for-housekeeping-is-westin-even-full-service-anymore-roundup/",
+      "source": "viewfromthewing.com",
+      "published": "2026-09-01T18:34:43+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Who Was Erin Piacenti? Bank of America VP and Penn Graduate Remembered by Colleagues",
+      "url": "https://www.ibtimes.co.uk/tragic-times-square-stabbing-bank-america-vp-1817311",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-01T18:26:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Owner Just Raised $240M to Prove AI Can Kill the DoorDash Model",
+      "url": "https://memeburn.com/owner-just-raised-240m-to-prove-ai-can-kill-the-doordash-model/",
+      "source": "memeburn.com",
+      "published": "2026-09-01T18:15:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America worker killed in 'unprovoked' Times Square stabbing identified: Police",
+      "url": "https://abc11.com/story/bank-america-worker-killed-unprovoked-times-square-stabbing-identified-police/19775709/",
+      "source": "abc11.com",
+      "published": "2026-09-01T17:57:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Recent Research Analysts’ Ratings Changes for EOG Resources (EOG)",
+      "url": "https://www.tickerreport.com/banking-finance/13569538/recent-research-analysts-ratings-changes-for-eog-resources-eog.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T17:56:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wall Street Lunch: Equities Dance To Bonds' Tune | $MDT $HWM $SPCX $GPRO $MS",
+      "url": "https://seekingalpha.com/article/4942186-wall-street-lunch-equities-dance-on-bonds-tune",
+      "source": "seekingalpha.com",
+      "published": "2026-09-01T17:49:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226043130/0001839882-26-043130-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-01T16:47:28+00:00",
+      "title": "Victim fatally stabbed in Times Square NYPD shooting incident ID’d as New Jersey woman Erin Piacenti",
+      "url": "https://thebrunswicknews.com/news/national_news/victim-fatally-stabbed-in-times-square-nypd-shooting-incident-id-d-as-new-jersey-woman/article_43d67866-da4e-5a89-9516-5c30f5bbe4fa.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-09-01T17:41:00+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ESRT Maintained by Wells Fargo -- Price Target Lowered to $5.00",
-      "url": "https://www.gurufocus.com/news/9062210/esrt-maintained-by-wells-fargo-price-target-lowered-to-500",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:37:09+00:00",
-      "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "CDP Maintained by Wells Fargo -- Price Target Raised to $41.00",
-      "url": "https://www.gurufocus.com/news/9062209/cdp-maintained-by-wells-fargo-price-target-raised-to-4100",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:36:49+00:00",
+      "title": "Bank of America employee killed in Times Square stabbing",
+      "url": "https://www.businessinsider.com/bank-of-america-employee-times-square-stabbing-erin-piacenti-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-01T17:38:10+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "BXP Maintained by Wells Fargo -- Price Target Raised to $82.00",
-      "url": "https://www.gurufocus.com/news/9062208/bxp-maintained-by-wells-fargo-price-target-raised-to-8200",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:36:29+00:00",
+      "title": "Why Microsoft’s stock could rally another 20% even after a summer winning streak",
+      "url": "https://www.marketwatch.com/story/why-microsofts-stock-could-rally-another-20-even-after-a-summer-winning-streak-a0356551?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-09-01T17:38:00+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "TRNO Maintained by Wells Fargo -- Price Target Raised to $70",
-      "url": "https://www.gurufocus.com/news/9062207/trno-maintained-by-wells-fargo-price-target-raised-to-70",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:36:09+00:00",
+      "title": "Woman killed in Times Square stabbing worked for Bank of America",
+      "url": "https://dailyjournal.net/2026/09/01/woman-killed-in-times-square-stabbing-worked-for-bank-of-america/",
+      "source": "dailyjournal.net",
+      "published": "2026-09-01T17:31:17+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "STAG Maintained by Wells Fargo -- Price Target Lowered to $38.00",
-      "url": "https://www.gurufocus.com/news/9062206/stag-maintained-by-wells-fargo-price-target-lowered-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:35:42+00:00",
+      "title": "Times Square stabbing victim identified as Bank of America executive",
+      "url": "https://www.oregonlive.com/nation/2026/09/what-investigators-discovered-after-a-shocking-attack-in-times-square.html",
+      "source": "oregonlive.com",
+      "published": "2026-09-01T17:27:39+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "REXR Maintained by Wells Fargo -- Price Target Lowered to $43.00",
-      "url": "https://www.gurufocus.com/news/9062205/rexr-maintained-by-wells-fargo-price-target-lowered-to-4300",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:35:17+00:00",
+      "title": "Goldman Sachs Future Tech Leaders Equity ETF (NYSEARCA:GTEK) Short Interest Update",
+      "url": "https://www.tickerreport.com/banking-finance/13569446/goldman-sachs-future-tech-leaders-equity-etf-nysearcagtek-short-interest-update.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T17:06:50+00:00",
       "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "PLD Maintained by Wells Fargo -- Price Target Lowered to $166",
-      "url": "https://www.gurufocus.com/news/9062204/pld-maintained-by-wells-fargo-price-target-lowered-to-166",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:34:52+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "LINE Maintained by Wells Fargo -- Price Target Raised to $38.00",
-      "url": "https://www.gurufocus.com/news/9062203/line-maintained-by-wells-fargo-price-target-raised-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:34:25+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "FR Maintained by Wells Fargo -- Price Target Raised to $66.00",
-      "url": "https://www.gurufocus.com/news/9062201/fr-maintained-by-wells-fargo-price-target-raised-to-6600",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:33:41+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "EGP Maintained by Wells Fargo -- Price Target Raised to $232",
-      "url": "https://www.gurufocus.com/news/9062200/egp-maintained-by-wells-fargo-price-target-raised-to-232",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:33:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "KRG Maintains Overweight Rating -- Price Target Lowered to $31.00 by Wells Fargo",
-      "url": "https://www.gurufocus.com/news/9062195/krg-maintains-overweight-rating-price-target-lowered-to-3100-by-wells-fargo",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:31:07+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "IVT Maintains by Wells Fargo -- Price Target Lowered to $38.00",
-      "url": "https://www.gurufocus.com/news/9062194/ivt-maintains-by-wells-fargo-price-target-lowered-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T16:30:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Science Applications International (NASDAQ:SAIC) Given New $130.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-science-applications-international-nasdaq-saic-given-new-13000-price-target-at-truist-financial-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T16:24:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for ODDITY Tech (NASDAQ:ODD) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-positive-forecast-for-oddity-tech-nasdaq-odd-stock-price-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T16:24:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Topgolf Callaway Brands (NYSE:CALY) Price Target Raised to $20.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-topgolf-callaway-brands-nyse-caly-price-target-raised-to-2000-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T16:24:26+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Wells Fargo 21st Annual Healthcare Conference",
-      "url": "https://www.proqr.com/node/2173342",
-      "source": "proqr.com",
-      "published": "2026-09-01T16:21:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
+        "GS"
       ]
     }
   ]
