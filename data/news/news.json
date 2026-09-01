@@ -1,287 +1,108 @@
 {
-  "last_updated": "2026-09-01T20:06:31.672074+00:00",
+  "last_updated": "2026-09-01T22:46:14.885238+00:00",
   "headlines": [
     {
-      "title": "Wall Street banks ask elite law firms to cut hourly billings — arguing that AI is speeding legal work",
-      "url": "https://nypost.com/2026/09/01/business/wall-street-banks-tell-big-law-to-cut-fees-as-ai-speeds-up-legal-work/",
-      "source": "nypost.com",
-      "published": "2026-09-01T19:10:42+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Sees Major Shift Coming for Oil Markets",
-      "url": "https://www.gurufocus.com/news/9061747/goldman-sachs-sees-major-shift-coming-for-oil-markets",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T19:08:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Howmet Plunged 20% on SpaceX Fears. Citi Says Buy the Dip",
-      "url": "https://www.gurufocus.com/news/9061739/howmet-plunged-20-on-spacex-fears-citi-says-buy-the-dip",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T19:08:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PAM Maintained by JP Morgan -- Price Target Raised to $105",
-      "url": "https://www.gurufocus.com/news/9062499/pam-maintained-by-jp-morgan-price-target-raised-to-105",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T19:08:48+00:00",
+      "title": "JPMorgan Chase & Co. Reiterates Sell Rating for NIKE (NYSE:NKE)",
+      "url": "https://www.tickerreport.com/banking-finance/13569738/jpmorgan-chase-co-reiterates-sell-rating-for-nike-nysenke.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T21:34:44+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley Says U.S. Debt Fears Miss Bigger Story",
-      "url": "https://www.gurufocus.com/news/9062119/morgan-stanley-says-us-debt-fears-miss-bigger-story",
-      "source": "gurufocus.com",
-      "published": "2026-09-01T19:08:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Stock Is Up Nearly 20% in 2026: What Will It Take to Break Through $250?",
-      "url": "https://247wallst.com/investing/2026/09/01/morgan-stanley-stock-is-up-nearly-20-in-2026-what-will-it-take-to-break-through-250/",
-      "source": "247wallst.com",
-      "published": "2026-09-01T19:01:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America vice-president Erin Piacenti killed in Times Square stabbing",
-      "url": "https://www.straitstimes.com/world/united-states/bank-of-america-vice-president-erin-piacenti-killed-in-times-square-stabbing",
-      "source": "straitstimes.com",
-      "published": "2026-09-01T19:00:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Broadcom earnings need to answer these questions for the stock to rally again",
-      "url": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-01T18:54:00+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096307/0001213900-26-096307-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:27:53+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Bank Of America Vice President Fatally Stabbed In Times Square—What We Know",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/01/bank-of-america-vice-president-fatally-stabbed-in-times-square-what-we-know/",
-      "source": "forbes.com",
-      "published": "2026-09-01T18:51:16+00:00",
+      "title": "Bank of America executive identified as victim of stabbing in Times Square",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/times-square-stabbing-victim-erin-piacenti",
+      "source": "theguardian.com",
+      "published": "2026-09-01T21:25:43+00:00",
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "State Street My2028 High Yield Corporate Bond ETF declares monthly distribution of $0.1284",
-      "url": "https://seekingalpha.com/news/4639102-state-streetmy2028-high-yield-corporate-bond-etf-declares-monthly-distribution-of-01284",
-      "source": "seekingalpha.com",
-      "published": "2026-09-01T18:47:12+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street My2027 High Yield Corporate Bond ETF declares monthly distribution of $0.1149",
-      "url": "https://seekingalpha.com/news/4639101-state-streetmy2027-high-yield-corporate-bond-etf-declares-monthly-distribution-of-01149",
-      "source": "seekingalpha.com",
-      "published": "2026-09-01T18:46:20+00:00",
-      "tickers": [
-        "STT"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426025983/0001918704-26-025983-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026053/0001918704-26-026053-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-01T18:45:31+00:00",
+      "published": "2026-09-01T21:22:16+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Savings account for young adult",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w4kzfk/savings_account_for_young_adult/",
-      "source": "reddit.com",
-      "published": "2026-09-01T18:44:54+00:00",
+      "title": "Charter to Participate in Citi Global TMT Conference",
+      "url": "https://www.prnewswire.com/news-releases/charter-to-participate-in-citi-global-tmt-conference-302866867.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-01T21:20:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America VP was person killed in NYC stabbing",
+      "url": "https://www.americanbanker.com/news/bank-of-america-vp-was-person-killed-in-nyc-stabbing",
+      "source": "americanbanker.com",
+      "published": "2026-09-01T21:19:10+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Vista Energy (NYSE:VIST) Price Target Raised to $94.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-vista-energy-nyse-vist-price-target-raised-to-9400-at-jpmorgan-chase-co-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T18:42:29+00:00",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096298/0001213900-26-096298-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:17:17+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for YPF Sociedad Anónima (NYSE:YPF) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-ypf-sociedad-annima-nyse-ypf-stock-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T18:42:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Petroleo Brasileiro S.A.- Petrobras (NYSE:PBR) Given New $24.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-petroleo-brasileiro-sa-petrobras-nyse-pbr-given-new-2400-price-target-at-jpmorgan-chase-co-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T18:42:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Pampa Energia (NYSE:PAM) Given New $105.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-pampa-energia-nyse-pam-given-new-10500-price-target-at-jpmorgan-chase-co-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T18:42:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Boosts Annexon (NASDAQ:ANNX) Price Target to $14.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-boosts-annexon-nasdaq-annx-price-target-to-1400-2026-09-01/",
-      "source": "marketbeat.com",
-      "published": "2026-09-01T18:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Marriott Hotel Charges $25 Extra For Housekeeping—Is Westin Even ‘Full Service’ Anymore? [Roundup]",
-      "url": "https://viewfromthewing.com/marriott-hotel-charges-25-extra-for-housekeeping-is-westin-even-full-service-anymore-roundup/",
-      "source": "viewfromthewing.com",
-      "published": "2026-09-01T18:34:43+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Who Was Erin Piacenti? Bank of America VP and Penn Graduate Remembered by Colleagues",
-      "url": "https://www.ibtimes.co.uk/tragic-times-square-stabbing-bank-america-vp-1817311",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-01T18:26:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Owner Just Raised $240M to Prove AI Can Kill the DoorDash Model",
-      "url": "https://memeburn.com/owner-just-raised-240m-to-prove-ai-can-kill-the-doordash-model/",
-      "source": "memeburn.com",
-      "published": "2026-09-01T18:15:26+00:00",
+      "title": "Charter to Participate in Goldman Sachs Investor Conference",
+      "url": "https://www.prnewswire.com/news-releases/charter-to-participate-in-goldman-sachs-investor-conference-302866863.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-01T21:15:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank of America worker killed in 'unprovoked' Times Square stabbing identified: Police",
-      "url": "https://abc11.com/story/bank-america-worker-killed-unprovoked-times-square-stabbing-identified-police/19775709/",
-      "source": "abc11.com",
-      "published": "2026-09-01T17:57:57+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026043/0001918704-26-026043-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:14:23+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Recent Research Analysts’ Ratings Changes for EOG Resources (EOG)",
-      "url": "https://www.tickerreport.com/banking-finance/13569538/recent-research-analysts-ratings-changes-for-eog-resources-eog.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-01T17:56:47+00:00",
+      "title": "BofA names 2 SpaceX alternatives with massive upside",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-rocket-lab-voyager-space-stock-picks?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-01T21:03:00+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Wall Street Lunch: Equities Dance To Bonds' Tune | $MDT $HWM $SPCX $GPRO $MS",
-      "url": "https://seekingalpha.com/article/4942186-wall-street-lunch-equities-dance-on-bonds-tune",
-      "source": "seekingalpha.com",
-      "published": "2026-09-01T17:49:00+00:00",
+      "title": "Morgan Stanley analyst highlights Robinhood’s revenue growth potential through prediction markets",
+      "url": "https://cryptobriefing.com/morgan-stanley-robinhood-prediction-markets-growth/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-01T20:49:58+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Victim fatally stabbed in Times Square NYPD shooting incident ID’d as New Jersey woman Erin Piacenti",
-      "url": "https://thebrunswicknews.com/news/national_news/victim-fatally-stabbed-in-times-square-nypd-shooting-incident-id-d-as-new-jersey-woman/article_43d67866-da4e-5a89-9516-5c30f5bbe4fa.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-01T17:41:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America employee killed in Times Square stabbing",
-      "url": "https://www.businessinsider.com/bank-of-america-employee-times-square-stabbing-erin-piacenti-2026-9",
-      "source": "businessinsider.com",
-      "published": "2026-09-01T17:38:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why Microsoft’s stock could rally another 20% even after a summer winning streak",
-      "url": "https://www.marketwatch.com/story/why-microsofts-stock-could-rally-another-20-even-after-a-summer-winning-streak-a0356551?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-01T17:38:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Woman killed in Times Square stabbing worked for Bank of America",
-      "url": "https://dailyjournal.net/2026/09/01/woman-killed-in-times-square-stabbing-worked-for-bank-of-america/",
-      "source": "dailyjournal.net",
-      "published": "2026-09-01T17:31:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Times Square stabbing victim identified as Bank of America executive",
-      "url": "https://www.oregonlive.com/nation/2026/09/what-investigators-discovered-after-a-shocking-attack-in-times-square.html",
-      "source": "oregonlive.com",
-      "published": "2026-09-01T17:27:39+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Future Tech Leaders Equity ETF (NYSEARCA:GTEK) Short Interest Update",
-      "url": "https://www.tickerreport.com/banking-finance/13569446/goldman-sachs-future-tech-leaders-equity-etf-nysearcagtek-short-interest-update.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-01T17:06:50+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
