@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-08-31T23:18:13.351058+00:00",
+  "last_updated": "2026-09-01T01:59:58.941884+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Dynamic California Municipal Income ETF (NYSEARCA:GCAL) Sees Large Decline in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13568073/goldman-sachs-dynamic-california-municipal-income-etf-nysearcagcal-sees-large-decline-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T01:00:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman hikes global diesel refining margin forecast on continued tight supplies",
+      "url": "https://seekingalpha.com/news/4638524-goldman-hikes-global-diesel-refining-margin-forecast-on-continued-tight-supplies",
+      "source": "seekingalpha.com",
+      "published": "2026-08-31T23:58:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Judge OKs Bank of America’s $72 million settlement with Epstein victims. What happens next",
       "url": "https://thebrunswicknews.com/news/national_news/judge-oks-bank-of-america-s-72-million-settlement-with-epstein-victims-what-happens-next/article_879c0ca1-ad2e-50ef-98ad-131f0d2affaf.html",
       "source": "thebrunswicknews.com",
       "published": "2026-08-31T21:55:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426025762/0001918704-26-025762-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-31T21:29:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426025760/0001918704-26-025760-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-31T21:27:14+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -18,6 +55,24 @@
       "published": "2026-08-31T21:26:40+00:00",
       "tickers": [
         "USB"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426025756/0001918704-26-025756-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-31T21:24:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526377071/0001193125-26-377071-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-31T21:21:04+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -58,6 +113,15 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426025745/0001918704-26-025745-index.htm",
+      "source": "sec.gov",
+      "published": "2026-08-31T21:00:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "embecta to Participate in Investor Events",
       "url": "https://www.globenewswire.com/en/news-release/2026/08/31/3353720/0/en/embecta-to-participate-in-investor-events.html",
       "source": "globenewswire.com",
@@ -66,211 +130,6 @@
         "JPM",
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426025744/0001918704-26-025744-index.htm",
-      "source": "sec.gov",
-      "published": "2026-08-31T20:57:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Just Downgraded PG&E Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/4361962/wells-fargo-just-downgraded-pg-e-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-08-31T20:53:59+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "US Bancorp president & CEO Kedia sells $1.7m in stock",
-      "url": "https://www.investing.com/news/insider-trading-news/us-bancorp-president--ceo-kedia-sells-17m-in-stock-93CH-4883280",
-      "source": "investing.com",
-      "published": "2026-08-31T20:46:17+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Versant to Present at the 2026 Goldman Sachs Communacopia + Technology Conference",
-      "url": "http://www.businesswire.com/news/home/20260831539668/en/Versant-to-Present-at-the-2026-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-fArZ4S48GqIjCUpbTPJDg_ZRHqeOKdIRBEENMvWuUUmOKZXz2bZRmEQ1BwkpoG4oul5C1rkGQ_h4BkZ40LwsoN4gnxBSGiVu_qLafVdV0IiQPT0fDRifTq3nSfcMpa1LQ==",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Versant to Present at the BofA 2026 Media, Communications and Entertainment Conference",
-      "url": "http://www.businesswire.com/news/home/20260831207975/en/Versant-to-Present-at-the-BofA-2026-Media-Communications-and-Entertainment-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sarepta Therapeutics to Present at the Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20260831655338/en/Sarepta-Therapeutics-to-Present-at-the-Morgan-Stanley-24th-Annual-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-WBlLQO14j4QZPTyX5CYOnwC4VjN53jumZRlnzhBoBxGrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3ltkRSnqzf6ourQGu_UA28CzZCGORvG0LE20YOvo49uqw==",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:30:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Cisco to Participate in September Events with the Financial Community",
-      "url": "https://www.prnewswire.com/news-releases/cisco-to-participate-in-september-events-with-the-financial-community-302865284.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-31T20:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "How Investors May Respond To JPMorgan Chase (JPM) Bond Issuance, Branch Expansion and Higher Payouts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-jpmorgan-chase-202254218.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-31T20:22:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Realty Income (O) Amends Term Loans Covering Up To $1.85 Billion",
-      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-o-amends-term-202239373.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-31T20:22:39+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "OUTFRONT Media Chief Executive Officer Nick Brien to Participate in Citi's 2026 Global TMT Conference",
-      "url": "https://www.prnewswire.com/news-releases/outfront-media-chief-executive-officer-nick-brien-to-participate-in-citis-2026-global-tmt-conference-302865317.html",
-      "source": "prnewswire.com",
-      "published": "2026-08-31T20:15:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Sector Update: Energy Stocks Gain Monday",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-monday-201050077.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-31T20:10:50+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "HubSpot to Present at the Goldman Sachs Communacopia + Technology Conference",
-      "url": "http://www.businesswire.com/news/home/20260831142643/en/HubSpot-to-Present-at-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:10:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-microsoft-intel-201000476.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-31T20:10:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SI-BONE To Present at Morgan Stanley 24th Global Healthcare Conference on September 14, 2026",
-      "url": "https://www.globenewswire.com/en/news-release/2026/08/31/3353689/0/en/si-bone-to-present-at-morgan-stanley-24th-global-healthcare-conference-on-september-14-2026.html",
-      "source": "globenewswire.com",
-      "published": "2026-08-31T20:09:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Dials Down Optimism on US Stocks After Warsh’s Hawkish Jackson Hole Remarks, Adopts ‘Tactically Cautious’ Approach",
-      "url": "https://profitconfidential.com/jpmorgan-drops-bullish-stance-on-us-stocks-after-warshs-hawkish-tone-at-jackson-hole-shifts-to-tactically-cautious/",
-      "source": "profitconfidential.com",
-      "published": "2026-08-31T20:08:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Vir Biotechnology to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20260831302197/en/Vir-Biotechnology-to-Participate-in-the-Morgan-Stanley-24th-Annual-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:05:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "NeuroPace to Participate in Wells Fargo 21st Annual Healthcare Conference",
-      "url": "https://finance.yahoo.com/healthcare/articles/neuropace-participate-wells-fargo-21st-200500358.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-31T20:05:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Chewy Announces Participation in the Goldman Sachs Global Consumer and Retail Conference 2026",
-      "url": "http://www.businesswire.com/news/home/20260831707785/en/Chewy-Announces-Participation-in-the-Goldman-Sachs-Global-Consumer-and-Retail-Conference-2026/?feedref=JjAwJuNHiystnCoBq_hl-X7qPGUG3_DVKaX5uCz7J4geEeYrSOG7eheB2Nu_OIb5rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3kC6rme1rHQj_hBFi9syH1uzZCGORvG0LE20YOvo49uqw==",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:05:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Mattel to Participate in Upcoming Investor Events",
-      "url": "http://www.businesswire.com/news/home/20260831616407/en/Mattel-to-Participate-in-Upcoming-Investor-Events/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:05:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Omnicell to Present at the Wells Fargo 21st Annual Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20260831359648/en/Omnicell-to-Present-at-the-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-08-31T20:01:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GRAIL to Present at Morgan Stanley's 24th Annual Global Healthcare Conference",
-      "url": "https://finance.yahoo.com/healthcare/articles/grail-present-morgan-stanleys-24th-200100047.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-08-31T20:01:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Is Buying Into High Income ETFs, but What Are Nasdaq Investors Giving Up for Those Payouts?",
-      "url": "https://247wallst.com/investing/etf/2026/08/31/goldman-sachs-is-buying-into-high-income-etfs-but-what-are-nasdaq-investors-giving-up-for-those-payouts/",
-      "source": "247wallst.com",
-      "published": "2026-08-31T19:58:12+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
