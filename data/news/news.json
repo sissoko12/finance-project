@@ -1,290 +1,188 @@
 {
-  "last_updated": "2026-09-02T18:54:52.831693+00:00",
+  "last_updated": "2026-09-02T21:42:10.780581+00:00",
   "headlines": [
     {
-      "title": "Credo Technology (CRDO) Stock Plunges 21% Despite Earnings Beat on Weak Guidance",
-      "url": "https://blockonomi.com/credo-technology-crdo-stock-plunges-21-despite-earnings-beat-on-weak-guidance/",
-      "source": "blockonomi.com",
-      "published": "2026-09-02T18:27:44+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Reaffirms \"Overweight\" Rating for Apple (NASDAQ:AAPL)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-reaffirms-overweight-rating-for-apple-nasdaq-aapl-2026-09-02/",
+      "title": "Matthew Cooper Sells 3,500 Shares of Capital One Financial (NYSE:COF) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-matthew-cooper-sells-3500-shares-of-capital-one-financial-nyse-cof-stock-2026-09-02/",
       "source": "marketbeat.com",
-      "published": "2026-09-02T18:00:29+00:00",
+      "published": "2026-09-02T21:08:15+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "Recent Investment Analysts’ Ratings Updates for Energy Vault (NRGV)",
-      "url": "https://www.tickerreport.com/banking-finance/13570974/recent-investment-analysts-ratings-updates-for-energy-vault-nrgv.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-02T17:56:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Vertex wins Overweight at Morgan Stanley as coverage resumes after Crinetics buyout",
-      "url": "https://seekingalpha.com/news/4639627-vertex-stock-wins-overweight-morgan-stanley",
-      "source": "seekingalpha.com",
-      "published": "2026-09-02T17:53:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PAR Technology Corporation to Participate at Goldman Sachs Communacopia + Technology Conference",
-      "url": "http://www.businesswire.com/news/home/20260902521684/en/PAR-Technology-Corporation-to-Participate-at-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-R-HrziBh-2TFM2GMuUU7RcPFX-aV_QoYAKqdUX1TA5LrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k8sXd0xy82dHvVAQyb6kaYOoOnRBQBKcY2buBEMh6FZQ==",
+      "title": "Amkor Technology to Present at the Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260902230347/en/Amkor-Technology-to-Present-at-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
       "source": "businesswire.com",
-      "published": "2026-09-02T17:47:00+00:00",
+      "published": "2026-09-02T21:05:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-wednesday-172723766.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-02T17:27:23+00:00",
+      "title": "‘Devastated’ family of BofA exec randomly slain in Times Square releases heartbreaking statement on young wife, new mom",
+      "url": "https://nypost.com/2026/09/02/us-news/family-bofa-exec-randomly-slain-in-times-square-releases-heartbreaking-statement/",
+      "source": "nypost.com",
+      "published": "2026-09-02T20:59:31+00:00",
       "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Senator asks Capital One for details on anti-money laundering review linked to debanking Trump accounts - report",
-      "url": "https://seekingalpha.com/news/4639576-senator-asks-capital-one-for-details-on-anti-money-laundering-review-linked-to-debanking-trump-accounts---report",
-      "source": "seekingalpha.com",
-      "published": "2026-09-02T17:25:29+00:00",
+      "title": "HiddenLayer Raises $100 Million Series B Led By Delta-v Capital",
+      "url": "https://pulse2.com/hiddenlayer-raises-100-million-series-b-led-by-delta-v-capital/",
+      "source": "pulse2.com",
+      "published": "2026-09-02T20:51:44+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "MS"
+      ]
+    },
+    {
+      "title": "Vanda Pharmaceuticals Announces Participation at September 2026 Investor Conferences",
+      "url": "https://www.prnewswire.com/news-releases/vanda-pharmaceuticals-announces-participation-at-september-2026-investor-conferences-302868188.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T20:51:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Coinbase to Participate in the Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260902416629/en/Coinbase-to-Participate-in-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-09-02T20:44:00+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526379832/0001193125-26-379832-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526380344/0001193125-26-380344-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-02T17:21:11+00:00",
+      "published": "2026-09-02T20:42:36+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526379824/0001193125-26-379824-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T17:15:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs favors stocks over credit amid rising risks",
-      "url": "https://cryptobriefing.com/goldman-sachs-stocks-over-credit/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-02T17:11:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs warns investors to expect lower returns over the next year",
-      "url": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html",
-      "source": "yahoo.com",
-      "published": "2026-09-02T17:10:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "National Education Association’s charter at risk as Senate committee chairman calls teachers union out over links to far left",
-      "url": "https://nypost.com/2026/09/02/us-news/national-education-associations-charter-at-risk-as-senate-committee-chairman-calls-out-links-to-the-far-left/",
-      "source": "nypost.com",
-      "published": "2026-09-02T17:08:59+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Comparing Global ETFs: Vanguard's VXUS vs. State Street's Climate-Focused NZAC",
-      "url": "https://www.fool.com/coverage/etfs/2026/09/02/comparing-global-etfs-vanguard-s-vxus-vs-state-street-s-climate-focused-nzac/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-02T17:04:09+00:00",
+      "title": "State Street Investment Management Launches UC Endowment Strategy Index ETF With U.S. ETF Record-Breaking Anchor Investment from UC Investments",
+      "url": "http://www.businesswire.com/news/home/20260902645001/en/State-Street-Investment-Management-Launches-UC-Endowment-Strategy-Index-ETF-With-U.S.-ETF-Record-Breaking-Anchor-Investment-from-UC-Investments/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
+      "source": "businesswire.com",
+      "published": "2026-09-02T20:40:00+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Nu Holdings (NU) Stock Surges 6% Following Record-Breaking Quarterly Earnings and Wall Street Endorsements",
-      "url": "https://blockonomi.com/nu-holdings-nu-stock-surges-6-following-record-breaking-quarterly-earnings-and-wall-street-endorsements/",
-      "source": "blockonomi.com",
-      "published": "2026-09-02T17:00:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Veeva to Present at Upcoming Investor Conferences",
-      "url": "https://www.prnewswire.com/news-releases/veeva-to-present-at-upcoming-investor-conferences-302867899.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-02T17:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs favors equities over credit as late-cycle risks build",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-favors-equities-over-credit-as-latecycle-risks-build-4886557",
-      "source": "investing.com",
-      "published": "2026-09-02T16:55:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "She Returned to Work After Maternity Leave, Was Killed",
-      "url": "https://www.newser.com/story/395746/she-returned-to-work-after-maternity-leave-was-killed.html",
-      "source": "newser.com",
-      "published": "2026-09-02T16:40:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Lear to Participate in Morgan Stanley 14th Annual Laguna Conference",
-      "url": "https://www.prnewswire.com/news-releases/lear-to-participate-in-morgan-stanley-14th-annual-laguna-conference-302867947.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-02T16:29:00+00:00",
+      "title": "Ralliant to Present at Morgan Stanley 14th Annual Laguna Conference",
+      "url": "https://www.newspressnow.com/sports/chiefs/ralliant-to-present-at-morgan-stanley-14th-annual-laguna-conference/article_710692ed-b92a-5043-b467-daf54c5ea62f.html",
+      "source": "newspressnow.com",
+      "published": "2026-09-02T20:30:48+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026177/0001918704-26-026177-index.htm",
+      "title": "State Street to Speak at the Barclays 24th Annual Global Financial Services Conference",
+      "url": "http://www.businesswire.com/news/home/20260902026172/en/State-Street-to-Speak-at-the-Barclays-24th-Annual-Global-Financial-Services-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-09-02T20:30:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526380262/0001193125-26-380262-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-02T16:21:11+00:00",
+      "published": "2026-09-02T20:29:23+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Democratic US senator asks Capital One for details on Trump account anti-money laundering review",
-      "url": "https://finance.yahoo.com/economy/policy/articles/democratic-us-senator-asks-capital-161922117.html",
-      "source": "yahoo.com",
-      "published": "2026-09-02T16:19:22+00:00",
+      "title": "StubHub to Participate at Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260902214980/en/StubHub-to-Participate-at-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-eOMSkG5BUJtt9PvMcxwMdoEGx6wrad0gZn0Xenp8D1K7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LP6oD-t3eB0qV-nJQ-WeFyCnYc9_0HvT-DtwbnFds6omQ==",
+      "source": "businesswire.com",
+      "published": "2026-09-02T20:15:00+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "GS"
       ]
     },
     {
-      "title": "MMED Maintained by Wells Fargo -- Price Target Raised to $26.00",
-      "url": "https://www.gurufocus.com/news/9064312/mmed-maintained-by-wells-fargo-price-target-raised-to-2600",
-      "source": "gurufocus.com",
-      "published": "2026-09-02T16:03:06+00:00",
+      "title": "Jazz Pharmaceuticals to Participate in Upcoming Investor Conferences",
+      "url": "https://www.prnewswire.com/news-releases/jazz-pharmaceuticals-to-participate-in-upcoming-investor-conferences-302868145.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T20:15:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "ENOV Maintained by Wells Fargo -- Price Target Lowered to $33",
-      "url": "https://www.gurufocus.com/news/9064310/enov-maintained-by-wells-fargo-price-target-lowered-to-33",
-      "source": "gurufocus.com",
-      "published": "2026-09-02T16:02:47+00:00",
+      "title": "Cadence’s Anirudh Devgan to Present at Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260902585474/en/Cadence%E2%80%99s-Anirudh-Devgan-to-Present-at-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-09-02T20:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "American Tower to Present at Upcoming September Conferences",
+      "url": "http://www.businesswire.com/news/home/20260902670436/en/American-Tower-to-Present-at-Upcoming-September-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk=",
+      "source": "businesswire.com",
+      "published": "2026-09-02T20:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Gap Inc. to Participate in the Goldman Sachs Global Consumer & Retail Conference",
+      "url": "https://www.prnewswire.com/news-releases/gap-inc-to-participate-in-the-goldman-sachs-global-consumer--retail-conference-302867054.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T20:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "People Incorporated to Participate in the Goldman Sachs Communicopia + Technology Conference 2026",
+      "url": "https://www.prnewswire.com/news-releases/people-incorporated-to-participate-in-the-goldman-sachs-communicopia--technology-conference-2026-302868101.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T20:10:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "People Incorporated to Participate in the Citi 2026 Global TMT Conference",
+      "url": "https://www.prnewswire.com/news-releases/people-incorporated-to-participate-in-the-citi-2026-global-tmt-conference-302868102.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T20:10:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "AVITA Medical to Participate in Lake Street Best Ideas Growth Conference and Morgan Stanley Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/02/3355513/0/en/avita-medical-to-participate-in-lake-street-best-ideas-growth-conference-and-morgan-stanley-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-02T20:10:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BillionToOne to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.prnewswire.com/news-releases/billiontoone-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference-302868082.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T20:05:00+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Follow Today - September 2nd",
-      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-follow-today-september-2nd-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T16:02:41+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MDT Maintained by Wells Fargo -- Price Target Raised to $104",
-      "url": "https://www.gurufocus.com/news/9064308/mdt-maintained-by-wells-fargo-price-target-raised-to-104",
-      "source": "gurufocus.com",
-      "published": "2026-09-02T16:02:25+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ALMS Maintains Overweight by Wells Fargo -- Price Target Lowered to $25",
-      "url": "https://www.gurufocus.com/news/9064302/alms-maintains-overweight-by-wells-fargo-price-target-lowered-to-25",
-      "source": "gurufocus.com",
-      "published": "2026-09-02T16:01:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "TRGP Maintains by Wells Fargo -- Price Target Raised to $324",
-      "url": "https://www.gurufocus.com/news/9064295/trgp-maintains-by-wells-fargo-price-target-raised-to-324",
-      "source": "gurufocus.com",
-      "published": "2026-09-02T16:00:29+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "DigitalOcean to Participate in Citi’s 2026 Global TMT Conference",
-      "url": "https://finance.yahoo.com/technology/articles/digitalocean-participate-citi-2026-global-160000683.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-02T16:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Affirm Rallies 6% on $104 Price Target From BofA, Sezzle Climbs 4%, PayPal Rises 3%",
-      "url": "https://247wallst.com/investing/2026/09/02/affirm-rallies-6-on-104-price-target-from-bofa-sezzle-climbs-4-paypal-rises-3/",
-      "source": "247wallst.com",
-      "published": "2026-09-02T15:45:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Tweaks Dell Stock Price Target For Rest Of 2026",
-      "url": "https://www.gurufocus.com/news/9063892/citi-tweaks-dell-stock-price-target-for-rest-of-2026",
-      "source": "gurufocus.com",
-      "published": "2026-09-02T15:42:12+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Lowe's CEO says skilled trades can offer six-figure careers without 4-year degree",
-      "url": "https://www.foxbusiness.com/media/lowes-ceo-says-skilled-trades-offer-siz-figure-careers-without-4-year-degree",
-      "source": "foxbusiness.com",
-      "published": "2026-09-02T15:38:03+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
