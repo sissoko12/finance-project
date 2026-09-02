@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-09-01T22:46:14.885238+00:00",
+  "last_updated": "2026-09-02T00:57:03.870516+00:00",
   "headlines": [
+    {
+      "title": "Bank of America executive and 'new mum' stabbed to death in horror Times Square incident",
+      "url": "https://www.mirror.co.uk/news/us-news/erin-piacenti-new-york-stabbed-37617035",
+      "source": "mirror.co.uk",
+      "published": "2026-09-02T00:12:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Vice President Killed in Times Square Stabbing",
+      "url": "https://www.bocaratontribune.com/bocaratonnews/2026/09/bofa-vice-president-killed-in-times-square-stabbing/",
+      "source": "bocaratontribune.com",
+      "published": "2026-09-02T00:06:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs S&P 500 Core Premium Income ETF (NASDAQ:GPIX) Increases Dividend to $0.40 Per Share",
+      "url": "https://www.tickerreport.com/banking-finance/13569780/goldman-sachs-sp-500-core-premium-income-etf-nasdaqgpix-increases-dividend-to-0-40-per-share.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T22:44:50+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF (NASDAQ:GPRF) Plans Monthly Dividend of $0.21",
+      "url": "https://www.tickerreport.com/banking-finance/13569770/goldman-sachs-access-u-s-preferred-stock-and-hybrid-securities-etf-nasdaqgprf-plans-monthly-dividend-of-0-21.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T22:30:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Better Tech ETF for Artificial Intelligence: Vanguard's VGT with Broad Exposure or State Street XLK's Concentrated Mega-Cap Strategy",
+      "url": "https://www.fool.com/coverage/etfs/2026/09/01/better-tech-etf-for-artificial-intelligence-vanguard-s-vgt-with-broad-exposure-or-state-street-xlk-s-concentrated-mega-cap-strategy/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-01T22:27:41+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Weekly Analysts’ Ratings Changes for Sun Communities (SUI)",
+      "url": "https://www.tickerreport.com/banking-finance/13569768/weekly-analysts-ratings-changes-for-sun-communities-sui.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-01T22:26:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "JPMorgan Chase & Co. Reiterates Sell Rating for NIKE (NYSE:NKE)",
       "url": "https://www.tickerreport.com/banking-finance/13569738/jpmorgan-chase-co-reiterates-sell-rating-for-nike-nysenke.html",
@@ -8,6 +65,26 @@
       "published": "2026-09-01T21:34:44+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Times Square Victim Revealed As Bank Of America VP As Dramatic Video Shows Attacker’s Confrontation With Cops",
+      "url": "https://www.boredpanda.com/times-square-stabbing-victim-was-young-exec/",
+      "source": "boredpanda.com",
+      "published": "2026-09-01T21:31:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman, Citi, UBS Join 21-Firm Push for Dollar Stablecoin by 2027",
+      "url": "https://news.bitcoin.com/crypto-news/goldman-citi-ubs-join-21-firm-push-for-dollar-stablecoin-by-2027/",
+      "source": "bitcoin.com",
+      "published": "2026-09-01T21:30:47+00:00",
+      "tickers": [
+        "C",
+        "GS"
       ]
     },
     {
@@ -49,12 +126,30 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013379/0000950103-26-013379-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:19:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Bank of America VP was person killed in NYC stabbing",
       "url": "https://www.americanbanker.com/news/bank-of-america-vp-was-person-killed-in-nyc-stabbing",
       "source": "americanbanker.com",
       "published": "2026-09-01T21:19:10+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426026047/0001918704-26-026047-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:17:54+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -94,15 +189,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley analyst highlights Robinhood’s revenue growth potential through prediction markets",
-      "url": "https://cryptobriefing.com/morgan-stanley-robinhood-prediction-markets-growth/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-01T20:49:58+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
