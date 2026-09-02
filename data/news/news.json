@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-09-02T00:57:03.870516+00:00",
+  "last_updated": "2026-09-02T05:40:01.022275+00:00",
   "headlines": [
+    {
+      "title": "Who Was Pamela Cisneros? Brother Speaks Out After Bank of America VP Erin Piacenti's Killing",
+      "url": "https://www.ibtimes.co.uk/times-square-stabbing-pamela-cisneros-mental-health-1817346",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-02T03:55:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley expects Nintendo Direct in September, sees Zelda, Mario upside",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-expects-nintendo-direct-in-september-sees-zelda-mario-upside-4885296",
+      "source": "investing.com",
+      "published": "2026-09-02T03:25:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Active Cash credit card: can the rewards be transferred to an outside checking account?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w4wu8m/wells_fargo_active_cash_credit_card_can_the/",
+      "source": "reddit.com",
+      "published": "2026-09-02T01:54:37+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Erin Piacenti, 32, killed in Times Square stabbing: What we know about the Bank of America Vice President",
+      "url": "https://www.livemint.com/news/us-news/erin-piacenti-32-killed-in-times-square-stabbing-what-we-know-about-the-bank-of-america-vice-president-11788311772946.html",
+      "source": "livemint.com",
+      "published": "2026-09-02T01:37:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Weekly Investment Analysts’ Ratings Updates for Grupo Cibest (CIB)",
+      "url": "https://www.tickerreport.com/banking-finance/13569836/weekly-investment-analysts-ratings-updates-for-grupo-cibest-cib.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-02T00:56:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Bank of America executive and 'new mum' stabbed to death in horror Times Square incident",
       "url": "https://www.mirror.co.uk/news/us-news/erin-piacenti-new-york-stabbed-37617035",
@@ -78,6 +126,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526378696/0001193125-26-378696-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:31:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Goldman, Citi, UBS Join 21-Firm Push for Dollar Stablecoin by 2027",
       "url": "https://news.bitcoin.com/crypto-news/goldman-citi-ubs-join-21-firm-push-for-dollar-stablecoin-by-2027/",
       "source": "bitcoin.com",
@@ -97,6 +154,15 @@
       ]
     },
     {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226043421/0001839882-26-043421-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:26:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Bank of America executive identified as victim of stabbing in Times Square",
       "url": "https://www.theguardian.com/us-news/2026/sep/01/times-square-stabbing-victim-erin-piacenti",
       "source": "theguardian.com",
@@ -104,6 +170,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226043418/0001839882-26-043418-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-01T21:23:33+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -145,15 +220,6 @@
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426026047/0001918704-26-026047-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-01T21:17:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
       "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096298/0001213900-26-096298-index.htm",
       "source": "sec.gov",
@@ -176,16 +242,6 @@
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026043/0001918704-26-026043-index.htm",
       "source": "sec.gov",
       "published": "2026-09-01T21:14:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA names 2 SpaceX alternatives with massive upside",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-rocket-lab-voyager-space-stock-picks?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-01T21:03:00+00:00",
       "tickers": [
         "BAC",
         "C"
