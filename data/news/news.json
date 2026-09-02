@@ -1,289 +1,278 @@
 {
-  "last_updated": "2026-09-02T11:04:47.298864+00:00",
+  "last_updated": "2026-09-02T15:14:29.735614+00:00",
   "headlines": [
     {
-      "title": "Bank of America Corporation $BAC Position Reduced by Live Oak Private Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-position-reduced-by-live-oak-private-wealth-llc-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T10:16:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pacifica Partners Inc. Acquires 19,760 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pacifica-partners-inc-acquires-19760-shares-of-wells-fargo-company-wfc-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T10:16:49+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426026066/0001918704-26-026066-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T10:13:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA cuts Credo Tech stock price target on valuation reset",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-credo-tech-stock-price-target-on-valuation-reset-93CH-4885690",
-      "source": "investing.com",
-      "published": "2026-09-02T10:08:59+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA raises MiniMed stock price target to $28 on FDA submission",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-minimed-stock-price-target-to-28-on-fda-submission-93CH-4885689",
-      "source": "investing.com",
-      "published": "2026-09-02T10:08:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA raises GitLab stock price target to $54 on strong results",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-gitlab-stock-price-target-to-54-on-strong-results-93CH-4885688",
-      "source": "investing.com",
-      "published": "2026-09-02T10:08:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Luken Investment Analytics LLC Reduces Position in State Street Blackstone High Income ETF $HYBL",
-      "url": "https://www.tickerreport.com/banking-finance/13570415/luken-investment-analytics-llc-reduces-position-in-state-street-blackstone-high-income-etf-hybl.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-02T10:04:23+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Goldman Sachs S&P 500 Core Premium Income ETF $GPIX is Requisite Capital Management LLC’s Largest Position",
-      "url": "https://www.tickerreport.com/banking-finance/13570413/goldman-sachs-sp-500-core-premium-income-etf-gpix-is-requisite-capital-management-llcs-largest-position.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-02T10:04:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Proficio Capital Partners LLC Buys Shares of 14,276 Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-proficio-capital-partners-llc-buys-shares-of-14276-wells-fargo-company-wfc-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:52:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America and Citi Join 21-Firm USD Stablecoin Plan",
-      "url": "https://blockonomi.com/bank-of-america-and-citi-join-21-firm-usd-stablecoin-plan/",
-      "source": "blockonomi.com",
-      "published": "2026-09-02T09:49:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pearson (LON:PSON) Price Target Raised to GBX 1,345",
-      "url": "https://www.tickerreport.com/banking-finance/13570337/pearson-lonpson-price-target-raised-to-gbx-1345.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-02T09:45:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "6,800 Shares in The Goldman Sachs Group, Inc. $GS Acquired by Nan Shan Life Insurance Co. Ltd.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6800-shares-in-the-goldman-sachs-group-inc-gs-acquired-by-nan-shan-life-insurance-co-ltd-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:45:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Nan Shan Life Insurance Co. Ltd. Has $55.92 Million Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nan-shan-life-insurance-co-ltd-has-5592-million-holdings-in-bank-of-america-corporation-bac-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:45:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan’s Former Macro Credit Trading Co-Head Joins Redhedge",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/jpmorgan-s-former-macro-credit-trading-co-head-joins-redhedge",
-      "source": "bloomberg.com",
-      "published": "2026-09-02T09:39:16+00:00",
+      "title": "J.P. Morgan Asset Management Announces Rebrand of Campbell Global to J.P. Morgan Natural Capital",
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-announces-rebrand-of-campbell-global-to-jp-morgan-natural-capital-302867820.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T14:23:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
-      "url": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
-      "source": "cnbc.com",
-      "published": "2026-09-02T09:19:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Shares Purchased by Northwestern Mutual Wealth Management Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-purchased-by-northwestern-mutual-wealth-management-co-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:13:03+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Northwestern Mutual Wealth Management Co. Reduces Stock Position in Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-northwestern-mutual-wealth-management-co-reduces-stock-position-in-citigroup-inc-c-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:13:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Northwestern Mutual Wealth Management Co. Acquires 4,811 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-northwestern-mutual-wealth-management-co-acquires-4811-shares-of-the-goldman-sachs-group-inc-gs-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:13:00+00:00",
+      "title": "The Covered-Call Fund Nobody Talks About Pays a 70-Year-Old $2,900 a Month: GPIX",
+      "url": "https://247wallst.com/personal-finance/2026/09/02/the-covered-call-fund-nobody-talks-about-pays-a-70-year-old-2900-a-month-gpix/",
+      "source": "247wallst.com",
+      "published": "2026-09-02T14:13:48+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Wellington Management Group LLP Cuts Stake in The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wellington-management-group-llp-cuts-stake-in-the-pnc-financial-services-group-inc-pnc-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T09:04:46+00:00",
+      "title": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+      "url": "https://247wallst.com/investing/2026/09/02/nio-drops-4-on-j-p-morgan-downgrade-and-4-50-price-target-xpeng-and-li-auto-slip/",
+      "source": "247wallst.com",
+      "published": "2026-09-02T14:04:27+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "JPM"
       ]
     },
     {
-      "title": "Dell shares rise as demand jumps for AI servers — here’s what Wall Street analysts are saying happens next",
-      "url": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-02T09:03:00+00:00",
-      "tickers": [
-        "C",
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Pearson shares fall as Citi sees limited upside after strong rally",
-      "url": "https://www.investing.com/news/stock-market-news/pearson-shares-fall-as-citi-sees-limited-upside-after-strong-rally-4885527",
-      "source": "investing.com",
-      "published": "2026-09-02T08:46:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Want The Fastest Read On The Economy? Watch These Interim Reports | $COST $F $HOOD $SCHW",
-      "url": "https://seekingalpha.com/article/4942308-want-fastest-read-on-economy-watch-these-interim-reports",
-      "source": "seekingalpha.com",
-      "published": "2026-09-02T07:40:00+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Adds 3 European Stocks to Conviction List",
-      "url": "https://beincrypto.com/goldman-sachs-european-stock-picks-september/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-09-02T07:39:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
-      "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
-      "source": "coindesk.com",
-      "published": "2026-09-02T07:20:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by Acorn Wealth Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-acorn-wealth-advisors-llc-2026-09-02/",
-      "source": "marketbeat.com",
-      "published": "2026-09-02T07:04:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America VP victim of knife attack",
-      "url": "https://greensboro.com/article_6dd54835-90d2-5035-8c62-b35ca2ebf24c.html",
-      "source": "greensboro.com",
-      "published": "2026-09-02T06:55:13+00:00",
+      "title": "Bank of America Downgrades AMRZ on Sluggish Growth Outlook, Shares Near 2-Year Lows",
+      "url": "https://www.gurufocus.com/news/9064040/bank-of-america-downgrades-amrz-on-sluggish-growth-outlook-shares-near-2year-lows",
+      "source": "gurufocus.com",
+      "published": "2026-09-02T14:02:11+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Credit union fee schedule opinions needed",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w52lzb/credit_union_fee_schedule_opinions_needed/",
-      "source": "reddit.com",
-      "published": "2026-09-02T06:44:05+00:00",
+      "title": "Analog Devices to Participate in the J.P. Morgan U.S. All Stars Conference",
+      "url": "https://www.prnewswire.com/news-releases/analog-devices-to-participate-in-the-jp-morgan-us-all-stars-conference-302866125.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-02T14:01:00+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "JPM"
       ]
     },
     {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - September 02",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---september-02/article_7a9e853f-c610-5690-8d1a-939da401bada.html",
+      "title": "ALMS Maintained by Morgan Stanley -- Price Target Lowered to $29",
+      "url": "https://www.gurufocus.com/news/9064028/alms-maintained-by-morgan-stanley-price-target-lowered-to-29",
+      "source": "gurufocus.com",
+      "published": "2026-09-02T14:00:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The New York Times Company's Executive Vice President and CFO William Bardeen to Participate in the Citi 2026 Global TMT Conference",
+      "url": "http://www.businesswire.com/news/home/20260902336816/en/The-New-York-Times-Companys-Executive-Vice-President-and-CFO-William-Bardeen-to-Participate-in-the-Citi-2026-Global-TMT-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-09-02T14:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Zebra Technologies to Present at Citi's 2026 Global Technology, Media & Telecom Conference",
+      "url": "http://www.businesswire.com/news/home/20260902381257/en/Zebra-Technologies-to-Present-at-Citis-2026-Global-Technology-Media-Telecom-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-09-02T14:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Settles Epstein Trafficking Claims Without Admitting Wrongdoing",
+      "url": "https://www.ibtimes.co.uk/bank-america-epstein-settlement-1817452",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-02T13:52:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MDB Maintained by Morgan Stanley -- Price Target Raised to $430",
+      "url": "https://www.gurufocus.com/news/9063911/mdb-maintained-by-morgan-stanley-price-target-raised-to-430",
+      "source": "gurufocus.com",
+      "published": "2026-09-02T13:36:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GTLB Maintained by Morgan Stanley -- Price Target Raised to $57",
+      "url": "https://www.gurufocus.com/news/9063903/gtlb-maintained-by-morgan-stanley-price-target-raised-to-57",
+      "source": "gurufocus.com",
+      "published": "2026-09-02T13:35:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PANW Maintained by Morgan Stanley -- Price Target Raised to $394",
+      "url": "https://www.gurufocus.com/news/9063895/panw-maintained-by-morgan-stanley-price-target-raised-to-394",
+      "source": "gurufocus.com",
+      "published": "2026-09-02T13:33:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426026089/0001918704-26-026089-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-02T13:23:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426026084/0001918704-26-026084-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-02T13:17:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America VP Killed in Random Times Square Attack After Celebrating Anniversary and Buying Home",
+      "url": "https://www.ibtimes.co.uk/tragic-times-square-stabbing-bank-executive-1817483",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-02T13:16:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
+      "url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-09-02T13:11:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526379451/0001193125-26-379451-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-02T13:09:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Stock May Be 31% Undervalued Despite Stablecoin Plans",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-stock-may-130815324.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-02T13:08:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Smith & Nephew SNATS (NYSE:SNN) Downgraded to \"Equal Weight\" Rating by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-smith-nephew-snats-nyse-snn-downgraded-to-equal-weight-rating-by-morgan-stanley-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "NIO (NYSE:NIO) Downgraded to \"Neutral\" Rating by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nio-nyse-nio-downgraded-to-neutral-rating-by-jpmorgan-chase-co-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Knife River (NYSE:KNF) Cut to Underweight at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-knife-river-nyse-knf-cut-to-underweight-at-jpmorgan-chase-co-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Amrize (NYSE:AMRZ) Rating Lowered to Neutral at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-amrize-nyse-amrz-rating-lowered-to-neutral-at-jpmorgan-chase-co-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NatWest Group (NYSE:NWG) Rating Increased to Overweight at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-natwest-group-nyse-nwg-rating-increased-to-overweight-at-morgan-stanley-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Martin Marietta Materials (NYSE:MLM) Upgraded at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-martin-marietta-materials-nyse-mlm-upgraded-at-jpmorgan-chase-co-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ING Group (NYSE:ING) Rating Increased to Overweight at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ing-group-nyse-ing-rating-increased-to-overweight-at-morgan-stanley-2026-09-02/",
+      "source": "marketbeat.com",
+      "published": "2026-09-02T13:06:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Spotify Co-Chief Executive Officer to Present at the 2026 Goldman Sachs Communacopia + Technology Conference",
+      "url": "https://www.newspressnow.com/sports/chiefs/spotify-co-chief-executive-officer-to-present-at-the-2026-goldman-sachs-communacopia-technology-conference/article_898725c2-2693-51f2-9b07-91f094158a08.html",
       "source": "newspressnow.com",
-      "published": "2026-09-02T06:01:30+00:00",
+      "published": "2026-09-02T13:02:15+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Lorenzo Grandi, STMicroelectronics’ President and CFO to speak at Citi investor conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/09/02/3354832/0/en/lorenzo-grandi-stmicroelectronics-president-and-cfo-to-speak-at-citi-investor-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-09-02T06:00:00+00:00",
+      "title": "Avenzo Therapeutics to Participate in the Upcoming Wells Fargo 21st Annual Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260902944255/en/Avenzo-Therapeutics-to-Participate-in-the-Upcoming-Wells-Fargo-21st-Annual-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-bQQCakZDujohEJegUyaJwquReQ0P23MrIoWkrUSV24ZevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxbNWfZlBntHS6jpH5ROLXsTFMkl05DM8ABqeyBleEmzJA==",
+      "source": "businesswire.com",
+      "published": "2026-09-02T13:00:00+00:00",
       "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Erin Piacenti: Bank of America VP Killed in Times Square Knife Attack Was New Mom Who Had Just Resumed Work after Maternity Leave",
-      "url": "https://www.ibtimes.sg/erin-piacenti-bank-america-vp-killed-times-square-knife-attack-was-new-mom-who-had-just-resumed-93220",
-      "source": "ibtimes.sg",
-      "published": "2026-09-02T05:59:58+00:00",
+      "title": "Media Advisory - CIBC to speak at the 2026 Scotiabank Financials Summit",
+      "url": "https://finance.yahoo.com/media-advertising/articles/media-advisory-cibc-speak-2026-130000002.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-02T13:00:00+00:00",
       "tickers": [
-        "BAC",
+        "JPM"
+      ]
+    },
+    {
+      "title": "Scotiabank's President and Chief Executive Officer Scott Thomson to Speak at the 27th Annual Scotiabank Global Banking and Markets Financials Summit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabanks-president-chief-executive-officer-130000783.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-02T13:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "UK fines Citibank’s London branch £4.7M for breaching Russia sanctions",
+      "url": "https://cryptobriefing.com/uk-fines-citigroup-russia-sanctions-breach/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-02T12:59:42+00:00",
+      "tickers": [
         "C"
       ]
     }
