@@ -1,274 +1,283 @@
 {
-  "last_updated": "2026-09-03T09:07:17.527858+00:00",
+  "last_updated": "2026-09-03T13:48:32.014606+00:00",
   "headlines": [
     {
-      "title": "Bank of New York Mellon Corp Buys New Stake in Methanex Corporation $MEOH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-new-stake-in-methanex-corporation-meoh-2026-09-03/",
+      "title": "Schwab Imposes Stricter Limits on Tax-Aware Long-Short Accounts",
+      "url": "https://www.wealthmanagement.com/smas/schwab-imposes-stricter-limits-on-tax-aware-long-short-accounts?.tsrc=rss",
+      "source": "wealthmanagement.com",
+      "published": "2026-09-03T13:02:39+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "LivaNova to Present at Morgan Stanley and Baird Healthcare Conferences in September",
+      "url": "https://finance.yahoo.com/healthcare/articles/livanova-present-morgan-stanley-baird-130000835.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-03T13:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Korn Ferry to Participate in the Goldman Sachs Communacopia + Technology Conference 2026",
+      "url": "http://www.businesswire.com/news/home/20260903143263/en/Korn-Ferry-to-Participate-in-the-Goldman-Sachs-Communacopia-Technology-Conference-2026/?feedref=JjAwJuNHiystnCoBq_hl-Vxyxd2_5mXrUT-uxCXoIqgr_OxXu5bFKQqXMZEVLcepz51RgqIO9jteeI1Kq_zxBxjUZ7-9_1AgxnhqXMh__QcQMsO68Iv5seDXn91BQqxF",
+      "source": "businesswire.com",
+      "published": "2026-09-03T13:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi goes short USD/CAD. Here’s why",
+      "url": "https://www.investing.com/news/forex-news/citi-goes-short-usdcad-heres-why-4887927",
+      "source": "investing.com",
+      "published": "2026-09-03T12:54:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Sonoco downgraded at Bank of America as earnings outlook softens",
+      "url": "https://seekingalpha.com/news/4639960-sonoco-downgraded-at-bank-of-america-as-earnings-outlook-softens",
+      "source": "seekingalpha.com",
+      "published": "2026-09-03T12:46:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rapid7 to Participate in Upcoming Investor Conferences",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rapid7-participate-upcoming-investor-conferences-124100109.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-03T12:41:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Medline announces participation in the Morgan Stanley 24th Annual Global Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355898/0/en/medline-announces-participation-in-the-morgan-stanley-24th-annual-global-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Roper Technologies to present at Citi Technology Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355923/0/en/roper-technologies-to-present-at-citi-technology-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vertex to Present at the Goldman Sachs Communacopia + Technology Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355908/0/en/vertex-to-present-at-the-goldman-sachs-communacopia-technology-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Envista upgraded at J.P. Morgan on Investor Day expectations | $NVST",
+      "url": "https://seekingalpha.com/news/4639943-envista-stock-upgraded-jp-morgan",
+      "source": "seekingalpha.com",
+      "published": "2026-09-03T12:23:08+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group Announces Third Quarter Conference Call Details",
+      "url": "https://www.prnewswire.com/news-releases/the-pnc-financial-services-group-announces-third-quarter-conference-call-details-302868274.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-03T12:15:00+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "ByteDance’s $29.6B Loan Signals Massive AI Infrastructure Pivot",
+      "url": "https://forkast.news/bytedances-29-6b-loan-signals-massive-ai-infrastructure-pivot/",
+      "source": "forkast.news",
+      "published": "2026-09-03T12:14:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Downgrades Ultragenyx Pharmaceutical (NASDAQ:RARE) to Neutral",
+      "url": "https://www.tickerreport.com/banking-finance/13571981/jpmorgan-chase-co-downgrades-ultragenyx-pharmaceutical-nasdaqrare-to-neutral.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-03T12:06:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Copart (NASDAQ:CPRT) Stock Rating Upgraded by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-copart-nasdaq-cprt-stock-rating-upgraded-by-jpmorgan-chase-co-2026-09-03/",
       "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:36+00:00",
+      "published": "2026-09-03T12:06:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Envista (NYSE:NVST) Stock Rating Upgraded by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-envista-nyse-nvst-stock-rating-upgraded-by-jpmorgan-chase-co-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T12:06:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Adtalem Global Education (NYSE:CVSA) Downgraded by Truist Financial to \"Hold\"",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-adtalem-global-education-nyse-cvsa-downgraded-by-truist-financial-to-hold-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T12:06:34+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Pacific Gas & Electric (NYSE:PCG) Cut to \"Hold\" at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-pacific-gas-electric-nyse-pcg-cut-to-hold-at-truist-financial-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T12:06:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Sonoco Products (NYSE:SON) Cut to Neutral at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-sonoco-products-nyse-son-cut-to-neutral-at-bank-of-america-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T12:06:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ultragenyx Pharmaceutical (NASDAQ:RARE) Lowered to Neutral Rating by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ultragenyx-pharmaceutical-nasdaq-rare-lowered-to-neutral-rating-by-jpmorgan-chase-co-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T12:06:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ZTO Express (Cayman) (NYSE:ZTO) Downgraded by JPMorgan Chase & Co. to Neutral",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-zto-express-cayman-nyse-zto-downgraded-by-jpmorgan-chase-co-to-neutral-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T12:06:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Skyworks to Present at the Goldman Sachs Communacopia and Technology Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355872/0/en/skyworks-to-present-at-the-goldman-sachs-communacopia-and-technology-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:01:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Tectonic Therapeutic to Participate in the Morgan Stanley Global Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355846/0/en/tectonic-therapeutic-to-participate-in-the-morgan-stanley-global-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Altimmune to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355826/0/en/altimmune-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Amdocs CEO Shimie Hortig and CFO Tal Rozenfeld to Speak at the Goldman Sachs Communacopia + Technology Conference and Citi's 2026 Global TMT Conference in September",
+      "url": "https://finance.yahoo.com/technology/articles/amdocs-ceo-shimie-hortig-cfo-120000975.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-03T12:00:00+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Weight Watchers to Participate in Morgan Stanley Annual Global Healthcare Conference",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/03/3355838/0/en/weight-watchers-to-participate-in-morgan-stanley-annual-global-healthcare-conference.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-03T12:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Family of slain Bank of America vice president 'devastated' after Times Square attack",
+      "url": "https://www.foxbusiness.com/fox-news-us/family-slain-bank-america-vice-president-devastated-times-square-attack",
+      "source": "foxbusiness.com",
+      "published": "2026-09-03T11:50:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Nationwide BNY Mellon Dynamic U.S. Equity Income Fund Q2 2026 Commentary | $NWALX $NWANX $NWAPX",
+      "url": "https://seekingalpha.com/article/4942722-nationwide-bny-mellon-dynamic-us-equity-income-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-09-03T11:45:00+00:00",
       "tickers": [
         "BK"
       ]
     },
     {
-      "title": "212,347 Shares in Edgewise Therapeutics, Inc. $EWTX Bought by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-212347-shares-in-edgewise-therapeutics-inc-ewtx-bought-by-bank-of-new-york-mellon-corp-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:35+00:00",
+      "title": "Vista Energy (NYSE:VIST) Stock Price Up 4.1% After Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13571951/vista-energy-nysevist-stock-price-up-4-1-after-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-03T11:41:04+00:00",
       "tickers": [
-        "BK"
+        "JPM"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Acquires New Holdings in Arcutis Biotherapeutics, Inc. $ARQT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-new-holdings-in-arcutis-biotherapeutics-inc-arqt-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:35+00:00",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026395/0001918704-26-026395-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-03T11:34:01+00:00",
       "tickers": [
-        "BK"
+        "JPM"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Acquires New Shares in Relay Therapeutics, Inc. $RLAY",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-new-shares-in-relay-therapeutics-inc-rlay-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:34+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026378/0001918704-26-026378-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-03T11:26:23+00:00",
       "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $8.70 Million in Seaboard Corporation $SEB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-870-million-in-seaboard-corporation-seb-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:33+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New Investment in Integra LifeSciences Holdings Corporation $IART",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-integra-lifesciences-holdings-corporation-iart-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:32+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $8.77 Million in Arlo Technologies, Inc. $ARLO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-877-million-in-arlo-technologies-inc-arlo-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:31+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases Shares of 111,649 Blue Bird Corporation $BLBD",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-111649-blue-bird-corporation-blbd-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:31+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases Shares of 312,485 Starz Entertainment Corp. $STRZ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-312485-starz-entertainment-corp-strz-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:30+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $8.86 Million in TrustCo Bank Corp NY $TRST",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-886-million-in-trustco-bank-corp-ny-trst-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:30+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "105,634 Shares in John B. Sanfilippo & Son, Inc. $JBSS Purchased by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-105634-shares-in-john-b-sanfilippo-son-inc-jbss-purchased-by-bank-of-new-york-mellon-corp-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:29+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in U.S. Physical Therapy, Inc. $USPH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-us-physical-therapy-inc-usph-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:29+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New Investment in Dyne Therapeutics, Inc. $DYN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-dyne-therapeutics-inc-dyn-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:28+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys New Position in Navitas Semiconductor Corporation $NVTS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-new-position-in-navitas-semiconductor-corporation-nvts-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:27+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New Investment in nCino Inc. $NCNO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-ncino-inc-ncno-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:27+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Acquires Shares of 487,638 National Vision Holdings, Inc. $EYE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-shares-of-487638-national-vision-holdings-inc-eye-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:26+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $9.28 Million in Sonos, Inc. $SONO",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-928-million-in-sonos-inc-sono-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:26+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes $9.29 Million Position in Pursuit Attractions and Hospitality, Inc. $PRSU",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-929-million-position-in-pursuit-attractions-and-hospitality-inc-prsu-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "720,119 Shares in Talos Energy Inc. $TALO Purchased by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-720119-shares-in-talos-energy-inc-talo-purchased-by-bank-of-new-york-mellon-corp-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New $9.36 Million Investment in StoneCo Ltd. $STNE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-936-million-investment-in-stoneco-ltd-stne-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:24+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "291,203 Shares in CONMED Corporation $CNMD Acquired by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-291203-shares-in-conmed-corporation-cnmd-acquired-by-bank-of-new-york-mellon-corp-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:23+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Buys Shares of 645,172 Vestis Corporation $VSTS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-shares-of-645172-vestis-corporation-vsts-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:23+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New $9.57 Million Investment in Triumph Financial, Inc. $TFIN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-957-million-investment-in-triumph-financial-inc-tfin-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:22+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Purchases New Holdings in Oil-Dri Corporation Of America $ODC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-new-holdings-in-oil-dri-corporation-of-america-odc-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:21+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $9.59 Million in Stock Yards Bancorp, Inc. $SYBT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-959-million-in-stock-yards-bancorp-inc-sybt-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:21+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in United States Lime & Minerals, Inc. $USLM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-united-states-lime-minerals-inc-uslm-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:20+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Makes New $9.61 Million Investment in RPC, Inc. $RES",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-961-million-investment-in-rpc-inc-res-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:19+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "273,245 Shares in Upstart Holdings, Inc. $UPST Bought by Bank of New York Mellon Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-273245-shares-in-upstart-holdings-inc-upst-bought-by-bank-of-new-york-mellon-corp-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:19+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Takes Position in Alamo Group, Inc. $ALG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-alamo-group-inc-alg-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:18+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp Invests $9.96 Million in TripAdvisor, Inc. $TRIP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-996-million-in-tripadvisor-inc-trip-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T07:21:17+00:00",
-      "tickers": [
-        "BK"
+        "JPM"
       ]
     }
   ]
