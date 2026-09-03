@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-09-02T23:58:49.891439+00:00",
+  "last_updated": "2026-09-03T04:13:49.352760+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs and BofA Are Making a Major Stablecoin Bet. Is It Worth Watching?",
+      "url": "https://www.insidermonkey.com/blog/goldman-sachs-and-bofa-are-making-a-major-stablecoin-bet-is-it-worth-watching-1826169/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-03T01:28:45+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000187997426000013/0001879974-26-000013-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-03T01:04:19+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Take-Two Slides Into Correction As Grand Theft Auto Leak Investigation Intensifies",
+      "url": "https://awesomecapital.blogspot.com/2026/09/take-two-slides-into-correction-as.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-03T00:46:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America resets Microsoft stock price target for 2026",
+      "url": "https://www.thestreet.com/investing/microsoft-stock-msft-bofa-price-target?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-03T00:37:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Teen accounts restrict ACH or external transfers. Is using checks a good option?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w5qnbd/teen_accounts_restrict_ach_or_external_transfers/",
+      "source": "reddit.com",
+      "published": "2026-09-02T23:22:11+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Filmmaker cheers death of Bank of America executive with Luigi Mangione meme",
+      "url": "https://www.foxnews.com/media/filmmaker-cheers-death-bank-america-executive-luigi-mangione-meme",
+      "source": "foxnews.com",
+      "published": "2026-09-02T23:13:07+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Microsoft (MSFT) – Investment Analysts’ Weekly Ratings Updates",
       "url": "https://www.tickerreport.com/banking-finance/13571134/microsoft-msft-investment-analysts-weekly-ratings-updates.html",
@@ -9,6 +70,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526380485/0001193125-26-380485-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-02T21:28:57+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -32,11 +102,30 @@
       ]
     },
     {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096798/0001213900-26-096798-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-02T21:20:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013512/0000950103-26-013512-index.htm",
       "source": "sec.gov",
       "published": "2026-09-02T21:19:47+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226043866/0001839882-26-043866-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-02T21:11:47+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -57,88 +146,6 @@
       "published": "2026-09-02T21:07:30+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Amkor Technology to Present at the Goldman Sachs Communacopia + Technology Conference",
-      "url": "http://www.businesswire.com/news/home/20260902230347/en/Amkor-Technology-to-Present-at-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "source": "businesswire.com",
-      "published": "2026-09-02T21:05:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Rises as 4.8% Treasury Yield Tests Wall Street",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-rises-4-8-treasury-210347713.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-02T21:03:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Credo Technology Group (NASDAQ:CRDO) Shares Down 20% Following Analyst Downgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13571078/credo-technology-group-nasdaqcrdo-shares-down-20-following-analyst-downgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-02T21:00:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "‘Devastated’ family of BofA exec randomly slain in Times Square releases heartbreaking statement on young wife, new mom",
-      "url": "https://nypost.com/2026/09/02/us-news/family-bofa-exec-randomly-slain-in-times-square-releases-heartbreaking-statement/",
-      "source": "nypost.com",
-      "published": "2026-09-02T20:59:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226043859/0001839882-26-043859-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T20:53:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226043856/0001839882-26-043856-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T20:52:18+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "HiddenLayer Raises $100 Million Series B Led By Delta-v Capital",
-      "url": "https://pulse2.com/hiddenlayer-raises-100-million-series-b-led-by-delta-v-capital/",
-      "source": "pulse2.com",
-      "published": "2026-09-02T20:51:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley: Foldable iPhone could add $14 billion to Apple’s December quarter",
-      "url": "https://macdailynews.com/2026/09/02/morgan-stanley-foldable-iphone-could-add-14-billion-to-apples-december-quarter/",
-      "source": "macdailynews.com",
-      "published": "2026-09-02T20:49:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Warns Tesla Stock Could Sink If Cybercab Launch Falls Short",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-tesla-stock-204925429.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-02T20:49:25+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
