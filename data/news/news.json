@@ -1,151 +1,274 @@
 {
-  "last_updated": "2026-09-03T04:13:49.352760+00:00",
+  "last_updated": "2026-09-03T09:07:17.527858+00:00",
   "headlines": [
     {
-      "title": "Goldman Sachs and BofA Are Making a Major Stablecoin Bet. Is It Worth Watching?",
-      "url": "https://www.insidermonkey.com/blog/goldman-sachs-and-bofa-are-making-a-major-stablecoin-bet-is-it-worth-watching-1826169/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-03T01:28:45+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/316709/000187997426000013/0001879974-26-000013-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-03T01:04:19+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Take-Two Slides Into Correction As Grand Theft Auto Leak Investigation Intensifies",
-      "url": "https://awesomecapital.blogspot.com/2026/09/take-two-slides-into-correction-as.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-03T00:46:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America resets Microsoft stock price target for 2026",
-      "url": "https://www.thestreet.com/investing/microsoft-stock-msft-bofa-price-target?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-03T00:37:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Teen accounts restrict ACH or external transfers. Is using checks a good option?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w5qnbd/teen_accounts_restrict_ach_or_external_transfers/",
-      "source": "reddit.com",
-      "published": "2026-09-02T23:22:11+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Filmmaker cheers death of Bank of America executive with Luigi Mangione meme",
-      "url": "https://www.foxnews.com/media/filmmaker-cheers-death-bank-america-executive-luigi-mangione-meme",
-      "source": "foxnews.com",
-      "published": "2026-09-02T23:13:07+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Microsoft (MSFT) – Investment Analysts’ Weekly Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13571134/microsoft-msft-investment-analysts-weekly-ratings-updates.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-02T22:56:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526380485/0001193125-26-380485-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T21:28:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026371/0001918704-26-026371-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T21:22:18+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Price Up 1% - Time to Buy?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-price-up-1-time-to-buy-2026-09-02/",
+      "title": "Bank of New York Mellon Corp Buys New Stake in Methanex Corporation $MEOH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-new-stake-in-methanex-corporation-meoh-2026-09-03/",
       "source": "marketbeat.com",
-      "published": "2026-09-02T21:21:04+00:00",
+      "published": "2026-09-03T07:21:36+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096798/0001213900-26-096798-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T21:20:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013512/0000950103-26-013512-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T21:19:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226043866/0001839882-26-043866-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-02T21:11:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Matthew Cooper Sells 3,500 Shares of Capital One Financial (NYSE:COF) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-matthew-cooper-sells-3500-shares-of-capital-one-financial-nyse-cof-stock-2026-09-02/",
+      "title": "212,347 Shares in Edgewise Therapeutics, Inc. $EWTX Bought by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-212347-shares-in-edgewise-therapeutics-inc-ewtx-bought-by-bank-of-new-york-mellon-corp-2026-09-03/",
       "source": "marketbeat.com",
-      "published": "2026-09-02T21:08:15+00:00",
+      "published": "2026-09-03T07:21:35+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "BK"
       ]
     },
     {
-      "title": "State Street Investment Management Launches UCBG ETF With Record $2.5 Billion UC Investments Anchor",
-      "url": "https://pulse2.com/state-street-investment-management-launches-ucbg-etf-with-record-2-5-billion-uc-investments-anchor/",
-      "source": "pulse2.com",
-      "published": "2026-09-02T21:07:30+00:00",
+      "title": "Bank of New York Mellon Corp Acquires New Holdings in Arcutis Biotherapeutics, Inc. $ARQT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-new-holdings-in-arcutis-biotherapeutics-inc-arqt-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:35+00:00",
       "tickers": [
-        "STT"
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Acquires New Shares in Relay Therapeutics, Inc. $RLAY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-new-shares-in-relay-therapeutics-inc-rlay-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:34+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Invests $8.70 Million in Seaboard Corporation $SEB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-870-million-in-seaboard-corporation-seb-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:33+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New Investment in Integra LifeSciences Holdings Corporation $IART",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-integra-lifesciences-holdings-corporation-iart-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:32+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Invests $8.77 Million in Arlo Technologies, Inc. $ARLO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-877-million-in-arlo-technologies-inc-arlo-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:31+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Purchases Shares of 111,649 Blue Bird Corporation $BLBD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-111649-blue-bird-corporation-blbd-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:31+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Purchases Shares of 312,485 Starz Entertainment Corp. $STRZ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-312485-starz-entertainment-corp-strz-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:30+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Invests $8.86 Million in TrustCo Bank Corp NY $TRST",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-886-million-in-trustco-bank-corp-ny-trst-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:30+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "105,634 Shares in John B. Sanfilippo & Son, Inc. $JBSS Purchased by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-105634-shares-in-john-b-sanfilippo-son-inc-jbss-purchased-by-bank-of-new-york-mellon-corp-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:29+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes Position in U.S. Physical Therapy, Inc. $USPH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-us-physical-therapy-inc-usph-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:29+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New Investment in Dyne Therapeutics, Inc. $DYN",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-dyne-therapeutics-inc-dyn-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:28+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Buys New Position in Navitas Semiconductor Corporation $NVTS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-new-position-in-navitas-semiconductor-corporation-nvts-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New Investment in nCino Inc. $NCNO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-ncino-inc-ncno-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Acquires Shares of 487,638 National Vision Holdings, Inc. $EYE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-acquires-shares-of-487638-national-vision-holdings-inc-eye-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:26+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Invests $9.28 Million in Sonos, Inc. $SONO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-928-million-in-sonos-inc-sono-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:26+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes $9.29 Million Position in Pursuit Attractions and Hospitality, Inc. $PRSU",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-929-million-position-in-pursuit-attractions-and-hospitality-inc-prsu-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:25+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "720,119 Shares in Talos Energy Inc. $TALO Purchased by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-720119-shares-in-talos-energy-inc-talo-purchased-by-bank-of-new-york-mellon-corp-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:25+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New $9.36 Million Investment in StoneCo Ltd. $STNE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-936-million-investment-in-stoneco-ltd-stne-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:24+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "291,203 Shares in CONMED Corporation $CNMD Acquired by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-291203-shares-in-conmed-corporation-cnmd-acquired-by-bank-of-new-york-mellon-corp-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:23+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Buys Shares of 645,172 Vestis Corporation $VSTS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-buys-shares-of-645172-vestis-corporation-vsts-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:23+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New $9.57 Million Investment in Triumph Financial, Inc. $TFIN",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-957-million-investment-in-triumph-financial-inc-tfin-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:22+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Purchases New Holdings in Oil-Dri Corporation Of America $ODC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-new-holdings-in-oil-dri-corporation-of-america-odc-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:21+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Invests $9.59 Million in Stock Yards Bancorp, Inc. $SYBT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-959-million-in-stock-yards-bancorp-inc-sybt-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:21+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes Position in United States Lime & Minerals, Inc. $USLM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-united-states-lime-minerals-inc-uslm-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:20+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Makes New $9.61 Million Investment in RPC, Inc. $RES",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-961-million-investment-in-rpc-inc-res-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:19+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "273,245 Shares in Upstart Holdings, Inc. $UPST Bought by Bank of New York Mellon Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-273245-shares-in-upstart-holdings-inc-upst-bought-by-bank-of-new-york-mellon-corp-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:19+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Takes Position in Alamo Group, Inc. $ALG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-takes-position-in-alamo-group-inc-alg-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:18+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp Invests $9.96 Million in TripAdvisor, Inc. $TRIP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-invests-996-million-in-tripadvisor-inc-trip-2026-09-03/",
+      "source": "marketbeat.com",
+      "published": "2026-09-03T07:21:17+00:00",
+      "tickers": [
+        "BK"
       ]
     }
   ]
