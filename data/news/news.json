@@ -1,277 +1,278 @@
 {
-  "last_updated": "2026-09-04T16:11:18.676770+00:00",
+  "last_updated": "2026-09-04T19:04:38.405149+00:00",
   "headlines": [
     {
-      "title": "Oracle (ORCL) Stock Climbs 2% as Wall Street Analysts Update Targets Before Quarterly Report",
-      "url": "https://blockonomi.com/oracle-orcl-stock-climbs-2-as-wall-street-analysts-update-targets-before-quarterly-report/",
-      "source": "blockonomi.com",
-      "published": "2026-09-04T15:28:48+00:00",
+      "title": "24/7 Money Means Treasury Needs to Figure Out Its Weekend Plans",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/24-7-money-means-treasury-needs-to-figure-out-its-weekend-plans/",
+      "source": "pymnts.com",
+      "published": "2026-09-04T18:35:47+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley files copyright complaints against X users sharing research",
-      "url": "https://cryptobriefing.com/morgan-stanley-dmca-complaints-x-research/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-04T15:13:06+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Could Bank Research Vanish From X?",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-04/could-bank-research-vanish-from-x-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-04T15:05:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America’s Hartnett sees Democratic sweep boosting bonds as contrarian fourth-quarter play",
-      "url": "https://cryptobriefing.com/hartnett-democratic-sweep-bonds-contrarian/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-04T15:03:09+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Spire Secures $400 Million Term Loan Facility Led By Mizuho And U.S. Bank",
-      "url": "https://pulse2.com/spire-secures-400-million-term-loan-facility-led-by-mizuho-and-u-s-bank/",
-      "source": "pulse2.com",
-      "published": "2026-09-04T14:41:21+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "DNTH Initiated Coverage by Citigroup -- Price Target Set at $156",
-      "url": "https://www.gurufocus.com/news/9068480/dnth-initiated-coverage-by-citigroup-price-target-set-at-156",
+      "title": "GWRE Maintained by Citigroup -- Price Target Raised to $181",
+      "url": "https://www.gurufocus.com/news/9068723/gwre-maintained-by-citigroup-price-target-raised-to-181",
       "source": "gurufocus.com",
-      "published": "2026-09-04T14:34:55+00:00",
+      "published": "2026-09-04T18:09:50+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citi expects Fed to cut rates by 25 basis points in June, September, and December 2027",
-      "url": "https://cryptobriefing.com/citi-fed-rate-cuts-2027-forecast/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-04T14:27:06+00:00",
+      "title": "VSXY Maintained by Morgan Stanley -- Price Target Raised to $101",
+      "url": "https://www.gurufocus.com/news/9068721/vsxy-maintained-by-morgan-stanley-price-target-raised-to-101",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:09:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DOCU Maintained by Citigroup -- Price Target Raised to $72",
+      "url": "https://www.gurufocus.com/news/9068720/docu-maintained-by-citigroup-price-target-raised-to-72",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:08:51+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Dianthus gains new Buy from Citi on multi-blockbuster potential for lead drug | $DNTH",
-      "url": "https://seekingalpha.com/news/4640379-dianthus-stock-gains-new-buy-citi",
-      "source": "seekingalpha.com",
-      "published": "2026-09-04T14:13:54+00:00",
+      "title": "OLLI Maintained by Citigroup -- Price Target Lowered to $98.00",
+      "url": "https://www.gurufocus.com/news/9068719/olli-maintained-by-citigroup-price-target-lowered-to-9800",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:08:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "IOT Maintained by Morgan Stanley -- Price Target Raised to $49",
+      "url": "https://www.gurufocus.com/news/9068718/iot-maintained-by-morgan-stanley-price-target-raised-to-49",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:08:17+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "OXM Maintained by Citigroup -- Price Target Lowered to $33.00",
+      "url": "https://www.gurufocus.com/news/9068717/oxm-maintained-by-citigroup-price-target-lowered-to-3300",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:07:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PCAR Maintained by Morgan Stanley -- Price Target Raised to $125",
+      "url": "https://www.gurufocus.com/news/9068716/pcar-maintained-by-morgan-stanley-price-target-raised-to-125",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:07:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ORCL Maintained by Morgan Stanley -- Price Target Raised to $210",
+      "url": "https://www.gurufocus.com/news/9068715/orcl-maintained-by-morgan-stanley-price-target-raised-to-210",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:07:14+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AVGO Maintained by Citigroup -- Price Target Raised to $515",
+      "url": "https://www.gurufocus.com/news/9068714/avgo-maintained-by-citigroup-price-target-raised-to-515",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:06:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SAIA Maintained by JP Morgan -- Price Target Lowered to $490",
+      "url": "https://www.gurufocus.com/news/9068713/saia-maintained-by-jp-morgan-price-target-lowered-to-490",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:06:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "DOCU Maintained by Morgan Stanley -- Price Target Raised to $75",
+      "url": "https://www.gurufocus.com/news/9068712/docu-maintained-by-morgan-stanley-price-target-raised-to-75",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:06:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CIEN Maintained by Morgan Stanley -- Price Target Lowered to $425",
+      "url": "https://www.gurufocus.com/news/9068711/cien-maintained-by-morgan-stanley-price-target-lowered-to-425",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:05:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CIEN Maintained by JP Morgan -- Price Target Lowered to $605",
+      "url": "https://www.gurufocus.com/news/9068710/cien-maintained-by-jp-morgan-price-target-lowered-to-605",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:05:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "IOT Maintained by JP Morgan -- Price Target Raised to $52.00",
+      "url": "https://www.gurufocus.com/news/9068708/iot-maintained-by-jp-morgan-price-target-raised-to-5200",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:04:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PACS Maintained by JP Morgan -- Price Target Raised to $58.00",
+      "url": "https://www.gurufocus.com/news/9068702/pacs-maintained-by-jp-morgan-price-target-raised-to-5800",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:03:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SNOW Maintained by Goldman Sachs -- Price Target Raised to $436",
+      "url": "https://www.gurufocus.com/news/9068698/snow-maintained-by-goldman-sachs-price-target-raised-to-436",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:01:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "FRT Maintained by JP Morgan -- Price Target Raised to $129.00",
+      "url": "https://www.gurufocus.com/news/9068697/frt-maintained-by-jp-morgan-price-target-raised-to-12900",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:01:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ET Maintained by JP Morgan -- Price Target Raised to $25.00",
+      "url": "https://www.gurufocus.com/news/9068696/et-maintained-by-jp-morgan-price-target-raised-to-2500",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:01:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CQP Maintained by JP Morgan -- Price Target Raised to $65.00",
+      "url": "https://www.gurufocus.com/news/9068695/cqp-maintained-by-jp-morgan-price-target-raised-to-6500",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T18:00:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup is pushing its Fed rate cut forecast all the way back to mid-2027",
+      "url": "https://qz.com/citigroup-is-pushicitigroup-fed-rate-cut-forecast-2027-jobs-report-090426ng-its-fed-rate-cut-forecast-all-the-way-back-to-mid-2027",
+      "source": "qz.com",
+      "published": "2026-09-04T17:59:07+00:00",
       "tickers": [
         "C"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026607/0001918704-26-026607-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000121390026097578/0001213900-26-097578-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-04T14:11:41+00:00",
+      "published": "2026-09-04T17:49:43+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "UBS Hires Financial Advisor Team of Three in Bethesda, MD",
-      "url": "http://www.businesswire.com/news/home/20260904479596/en/UBS-Hires-Financial-Advisor-Team-of-Three-in-Bethesda-MD/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-09-04T14:10:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One Financial Initiates Coverage on Mach Natural Resources (NYSE:MNR)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-capital-one-financial-initiates-coverage-on-mach-natural-resources-nyse-mnr-2026-09-04/",
-      "source": "marketbeat.com",
-      "published": "2026-09-04T14:06:28+00:00",
+      "title": "Truist Financial Raises UiPath (NYSE:PATH) Price Target to $17.00",
+      "url": "https://www.tickerreport.com/banking-finance/13573574/truist-financial-raises-uipath-nysepath-price-target-to-17-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-04T17:42:54+00:00",
       "tickers": [
         "C",
-        "COF"
+        "TFC"
       ]
     },
     {
-      "title": "Goldman Sachs wealth management unit gets a boost on athlete clients - report",
-      "url": "https://seekingalpha.com/news/4640359-goldman-sachs-wealth-management-unit-gets-a-boost-on-athlete-clients---report",
-      "source": "seekingalpha.com",
-      "published": "2026-09-04T14:04:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Donaldson Company to Present at the Jefferies 2026 Global Industrials and Morgan Stanley 14th Annual Laguna Conferences",
-      "url": "http://www.businesswire.com/news/home/20260904240270/en/Donaldson-Company-to-Present-at-the-Jefferies-2026-Global-Industrials-and-Morgan-Stanley-14th-Annual-Laguna-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-Z4MfOYOGhzK3ePutrVfVZHZqTJcFyBCNOmgBWIf-n6AD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieVG8LM8zE_ZUrZumRhilPT",
-      "source": "businesswire.com",
-      "published": "2026-09-04T14:03:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CCEP Reinstated by JP Morgan -- Rating Set to Underweight",
-      "url": "https://www.gurufocus.com/news/9068444/ccep-reinstated-by-jp-morgan-rating-set-to-underweight",
-      "source": "gurufocus.com",
-      "published": "2026-09-04T14:00:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TD’s chief operating officer leaving after being on the job less than a year",
-      "url": "https://financialpost.com/fp-finance/banking/tds-chief-operating-officer-leavingjob",
-      "source": "financialpost.com",
-      "published": "2026-09-04T13:48:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Hands Elon Musk a New X Headache",
-      "url": "https://www.gurufocus.com/news/9068350/morgan-stanley-hands-elon-musk-a-new-x-headache",
-      "source": "gurufocus.com",
-      "published": "2026-09-04T13:42:08+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Global markets live: Apple, BASF, Nvidia, Citigroup, Lululemon…",
-      "url": "https://www.marketscreener.com/news/global-markets-live-apple-basf-nvidia-citigroup-lululemona--ce785bdad08bff24",
-      "source": "marketscreener.com",
-      "published": "2026-09-04T13:37:57+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Bank of New York Mellon Corp. (BNY): Here’s Why Gabelli Likes This Financial Stock",
-      "url": "https://www.insidermonkey.com/blog/the-bank-of-new-york-mellon-corp-bny-heres-why-gabelli-likes-this-financial-stock-1827505/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-04T13:36:43+00:00",
+      "title": "BNY Commercial Liftoff 2026 - At BNY, we all share one common goal: to be more for our clients. ...",
+      "url": "https://www.youtube.com/watch?v=7x3qqfZMyiM",
+      "source": "youtube.com",
+      "published": "2026-09-04T17:42:30+00:00",
       "tickers": [
         "BK"
       ]
     },
     {
-      "title": "TEO Maintained by JP Morgan -- Price Target Raised to $21.00",
-      "url": "https://www.gurufocus.com/news/9068385/teo-maintained-by-jp-morgan-price-target-raised-to-2100",
-      "source": "gurufocus.com",
-      "published": "2026-09-04T13:33:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TX Maintained by JP Morgan -- Price Target Raised to $67.50",
-      "url": "https://www.gurufocus.com/news/9068384/tx-maintained-by-jp-morgan-price-target-raised-to-6750",
-      "source": "gurufocus.com",
-      "published": "2026-09-04T13:33:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GGB Maintained by JP Morgan -- Price Target Raised to $6.50",
-      "url": "https://www.gurufocus.com/news/9068383/ggb-maintained-by-jp-morgan-price-target-raised-to-650",
-      "source": "gurufocus.com",
-      "published": "2026-09-04T13:33:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Senegal Debt Plan Exposes BOAD, AFC to Credit Risk, Citi Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/senegal-debt-plan-exposes-boad-afc-to-credit-risk-citi-says",
-      "source": "bloomberg.com",
-      "published": "2026-09-04T13:32:25+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426026673/0001918704-26-026673-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-04T17:37:48+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "OMNICOM TO PRESENT AT THE GOLDMAN SACHS COMMUNACOPIA + TECHNOLOGY CONFERENCE",
-      "url": "https://www.prnewswire.com/news-releases/omnicom-to-present-at-the-goldman-sachs-communacopia--technology-conference-302870076.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-04T13:31:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Says the AI Trade Is Barely Started. The Stocks That Got You Here Will Not Take You There",
-      "url": "https://247wallst.com/investing/2026/09/04/goldman-sachs-says-the-ai-trade-is-barely-started-the-stocks-that-got-you-here-will-not-take-you-there/",
-      "source": "247wallst.com",
-      "published": "2026-09-04T13:30:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Downgrades Daimler Truck (OTCMKTS:DTRUY) to Equal Weight",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-downgrades-daimler-truck-otcmkts-dtruy-to-equal-weight-2026-09-04/",
-      "source": "marketbeat.com",
-      "published": "2026-09-04T13:06:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Begins Coverage on Dianthus Therapeutics (NASDAQ:DNTH)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-begins-coverage-on-dianthus-therapeutics-nasdaq-dnth-2026-09-04/",
-      "source": "marketbeat.com",
-      "published": "2026-09-04T13:06:35+00:00",
+      "title": "Citigroup Falls 1.1% as Its Rate-Cut Clock Jumps to 2027",
+      "url": "https://www.gurufocus.com/news/9068671/citigroup-falls-11-as-its-ratecut-clock-jumps-to-2027",
+      "source": "gurufocus.com",
+      "published": "2026-09-04T17:31:51+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Sterling to Participate in Upcoming Investor Conferences",
-      "url": "https://www.prnewswire.com/news-releases/sterling-to-participate-in-upcoming-investor-conferences-302869523.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-04T13:05:00+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026670/0001918704-26-026670-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-04T17:31:11+00:00",
       "tickers": [
-        "MS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "‘No Increase in Interest Rates Anytime This Year’: JP Morgan vs. Markets Pricing 60% Hike Odds",
-      "url": "https://247wallst.com/investing/2026/09/04/no-increase-in-interest-rates-anytime-this-year-jp-morgan-vs-markets-pricing-60-hike-odds/",
-      "source": "247wallst.com",
-      "published": "2026-09-04T13:00:29+00:00",
+      "title": "Truist Financial Forecasts Strong Price Appreciation for UiPath (NYSE:PATH) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-forecasts-strong-price-appreciation-for-uipath-nyse-path-stock-2026-09-04/",
+      "source": "marketbeat.com",
+      "published": "2026-09-04T17:12:28+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Citi highlights best Gen AI stocks to own for 2027",
-      "url": "https://www.investing.com/news/stock-market-news/citi-highlights-best-gen-ai-stocks-to-own-for-2027-4889607",
+      "title": "CoreWeave to Participate in the Goldman Sachs Communacopia + Technology Conference",
+      "url": "http://www.businesswire.com/news/home/20260904246950/en/CoreWeave-to-Participate-in-the-Goldman-Sachs-Communacopia-Technology-Conference/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-09-04T17:02:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees bond markets as speed limiter for stocks",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-bond-markets-as-speed-limiter-for-stocks-93CH-4889873",
       "source": "investing.com",
-      "published": "2026-09-04T12:50:46+00:00",
+      "published": "2026-09-04T16:58:31+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Daimler Truck slides as Morgan Stanley downgrades its rating",
-      "url": "https://www.marketscreener.com/news/daimler-truck-slides-as-morgan-stanley-downgrades-its-rating-ce785bdad181f125",
-      "source": "marketscreener.com",
-      "published": "2026-09-04T12:47:29+00:00",
-      "tickers": [
-        "MS"
+        "GS"
       ]
     }
   ]
