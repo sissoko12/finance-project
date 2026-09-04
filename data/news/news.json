@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-09-04T01:14:18.261298+00:00",
+  "last_updated": "2026-09-04T06:27:55.971000+00:00",
   "headlines": [
+    {
+      "title": "Citi Sees a New Catalyst for Baidu as Its AI Infrastructure Business Grows",
+      "url": "https://www.insidermonkey.com/blog/citi-sees-a-new-catalyst-for-baidu-as-its-ai-infrastructure-business-grows-1827445/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-04T03:59:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Executives & Officers (2026)",
+      "url": "https://fourweekmba.com/bank-of-america-executives/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-america-executives",
+      "source": "fourweekmba.com",
+      "published": "2026-09-04T02:05:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman’s Energy Dividend Picks: Why Devon and HF Sinclair Still Offer Upside",
+      "url": "https://www.insidermonkey.com/blog/goldmans-energy-dividend-picks-why-devon-and-hf-sinclair-still-offer-upside-1827347/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-04T01:30:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Treasury Flags Nearly $13 Billion Tied to Overseas Crypto Scams",
+      "url": "https://news.bitcoin.com/regulation-and-legal/treasury-flags-nearly-13-billion-tied-to-overseas-crypto-scams/",
+      "source": "bitcoin.com",
+      "published": "2026-09-04T01:20:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "S&P 500 Notches Best Day In Month, Nasdaq Rises As Traders Pare Rate-Hike Bets",
+      "url": "https://www.ndtvprofit.com/markets/wall-street-highlights-s-and-p-500-notches-best-day-in-month-nasdaq-rises-as-traders-pare-rate-hike-bets-12000024",
+      "source": "ndtvprofit.com",
+      "published": "2026-09-04T01:11:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley takes aim at X accounts posting its research",
+      "url": "https://www.straitstimes.com/business/morgan-stanley-takes-aim-at-x-accounts-posting-its-research",
+      "source": "straitstimes.com",
+      "published": "2026-09-04T00:43:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Yen’s $103 Billion Short Risks Unwind Below 155, JPMorgan Says",
       "url": "https://www.bloomberg.com/news/articles/2026-09-03/yen-s-103-billion-shorts-risk-unraveling-below-155-jpm-says",
@@ -164,6 +220,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526382118/0001193125-26-382118-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-03T21:31:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "RIA referrals, tech and service: How TradePMR by Robinhood pitches advisors",
       "url": "https://www.americanbanker.com/news/how-tradepmr-by-robinhood-pitches-financial-advisors-rias",
       "source": "americanbanker.com",
@@ -207,70 +272,6 @@
       "published": "2026-09-03T21:24:28+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Five Below (NASDAQ:FIVE) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-five-below-nasdaq-five-stock-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:24:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Casey's General Stores (NASDAQ:CASY) Price Target Lowered to $833.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-caseys-general-stores-nasdaq-casy-price-target-lowered-to-83300-at-jpmorgan-chase-co-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:24:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Snowflake (NYSE:SNOW) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-snowflake-nyse-snow-stock-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:24:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PVH (NYSE:PVH) Given New $83.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-pvh-nyse-pvh-given-new-8300-price-target-at-jpmorgan-chase-co-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:24:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Weyerhaeuser (NYSE:WY) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-weyerhaeuser-nyse-wy-stock-price-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:24:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Plains GP (NYSE:PAGP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-plains-gp-nyse-pagp-stock-price-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:24:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026581/0001918704-26-026581-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-03T21:22:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
