@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-09-03T23:11:16.336833+00:00",
+  "last_updated": "2026-09-04T01:14:18.261298+00:00",
   "headlines": [
     {
+      "title": "Yen’s $103 Billion Short Risks Unwind Below 155, JPMorgan Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/yen-s-103-billion-shorts-risk-unraveling-below-155-jpm-says",
+      "source": "bloomberg.com",
+      "published": "2026-09-03T23:48:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "GMR Solutions Inc. to Present at September Conference",
-      "url": "http://www.businesswire.com/news/home/20260903215539/en/GMR-Solutions-Inc.-to-Present-at-September-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
+      "url": "http://www.businesswire.com/news/home/20260903215539/en/GMR-Solutions-Inc.-to-Present-at-September-Conference/?feedref=JjAwJuNHiystnCoBq_hl-ZRMlj4fTzsbUM9oNx9SNQPB1XY7Ia_QvRyPB3BquP7h6i8aU6mBhBCITifNTyOAv1ms7ezsDpv-ktIH1aXVMLNIBy2nAkmTm2tqkCDgbFFZ",
       "source": "businesswire.com",
       "published": "2026-09-03T22:24:00+00:00",
       "tickers": [
@@ -146,6 +155,15 @@
       ]
     },
     {
+      "title": "Citi raises Q3 Brent forecast to $86 on Hormuz closure",
+      "url": "https://www.investing.com/news/commodities-news/citi-raises-q3-brent-forecast-to-86-on-hormuz-closure-93CH-4888643",
+      "source": "investing.com",
+      "published": "2026-09-03T21:57:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "RIA referrals, tech and service: How TradePMR by Robinhood pitches advisors",
       "url": "https://www.americanbanker.com/news/how-tradepmr-by-robinhood-pitches-financial-advisors-rias",
       "source": "americanbanker.com",
@@ -246,28 +264,10 @@
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.7% Higher - Still a Buy?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-trading-17-higher-still-a-buy-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T21:20:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Coinbase to Participate in Citi’s 2026 Global TMT Conference",
-      "url": "http://www.businesswire.com/news/home/20260903196958/en/Coinbase-to-Participate-in-Citi%E2%80%99s-2026-Global-TMT-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-09-03T20:45:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Target of Unusually High Options Trading (NYSE:BAC)",
-      "url": "https://www.marketbeat.com/instant-alerts/options-bank-of-america-target-of-unusually-high-options-trading-nyse-bac-2026-09-03/",
-      "source": "marketbeat.com",
-      "published": "2026-09-03T20:20:36+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026581/0001918704-26-026581-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-03T21:22:11+00:00",
       "tickers": [
         "BAC",
         "C"
