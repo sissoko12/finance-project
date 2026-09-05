@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-09-05T20:38:38.611968+00:00",
+  "last_updated": "2026-09-05T22:45:08.864694+00:00",
   "headlines": [
+    {
+      "title": "Blue Owl Capital (OWL) Stock Fair Value Edges Higher After Q2 Analyst Revisions",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-capital-owl-stock-210624938.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-05T21:06:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Hikma Pharmaceuticals (LSE:HIK) Stock Fair Value Edges Higher After Bullish Analyst Targets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hikma-pharmaceuticals-lse-hik-stock-190604855.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-05T19:06:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Hammerson (LSE:HMSO) Stock Gets Fair Value Bump As Analysts Lift Targets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hammerson-lse-hmso-stock-gets-190551652.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-05T19:05:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Stock May Be 31% Undervalued After Record Revenue Quarter",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-stock-may-31-181022509.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-05T18:10:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Gold price outlook: What lies ahead for the yellow metal? Here's what Goldman Sachs says on bull run prediction",
       "url": "https://www.livemint.com/money/personal-finance/gold-price-outlook-what-lies-ahead-for-the-yellow-metal-heres-what-goldman-sachs-says-on-bull-run-prediction-11788625475879.html",
@@ -41,6 +78,15 @@
       ]
     },
     {
+      "title": "Morgan Stanley delivers bold Carvana stock verdict",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-carvana-cvna-stock-price-target-90-dollars?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-05T14:07:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "JPMorgan's $5 Trillion Empire Delivers, Yet Valuation Caps The Run | $JPM",
       "url": "https://seekingalpha.com/article/4943361-jpmorgans-5-trillion-empire-delivers-yet-valuation-caps-the-run",
       "source": "seekingalpha.com",
@@ -65,6 +111,15 @@
       "published": "2026-09-05T13:11:43+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley estimates Apple foldable iPhone could generate $14 billion in December-quarter revenue",
+      "url": "https://investorshub.advfn.com/market-news/article/35723/morgan-stanley-estimates-apple-foldable-iphone-could-generate-14-billion-in-december-quarter-revenue?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-09-05T13:10:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -225,62 +280,6 @@
       "published": "2026-09-05T10:16:38+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "State Street (STT) Stock Looks Fairly Valued While Earnings Still Look Reasonable",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-stt-stock-looks-101247689.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T10:12:47+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Markowski Investments Acquires New Holdings in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-markowski-investments-acquires-new-holdings-in-wells-fargo-company-wfc-2026-09-05/",
-      "source": "marketbeat.com",
-      "published": "2026-09-05T10:09:14+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Markowski Investments Makes New Investment in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-markowski-investments-makes-new-investment-in-the-goldman-sachs-group-inc-gs-2026-09-05/",
-      "source": "marketbeat.com",
-      "published": "2026-09-05T10:09:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Old Mission Investment Co LLC Acquires Shares of 1,769 The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-old-mission-investment-co-llc-acquires-shares-of-1769-the-goldman-sachs-group-inc-gs-2026-09-05/",
-      "source": "marketbeat.com",
-      "published": "2026-09-05T10:08:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Old Mission Investment Co LLC Takes $2.62 Million Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-old-mission-investment-co-llc-takes-262-million-position-in-bank-of-america-corporation-bac-2026-09-05/",
-      "source": "marketbeat.com",
-      "published": "2026-09-05T10:08:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Outlook Capital Management LLC Purchases Shares of 54,000 U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-outlook-capital-management-llc-purchases-shares-of-54000-us-bancorp-usb-2026-09-05/",
-      "source": "marketbeat.com",
-      "published": "2026-09-05T10:00:56+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
