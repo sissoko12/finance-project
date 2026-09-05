@@ -1,6 +1,243 @@
 {
-  "last_updated": "2026-09-05T08:31:21.326875+00:00",
+  "last_updated": "2026-09-05T12:32:57.356032+00:00",
   "headlines": [
+    {
+      "title": "BBVA Banco Frances (NYSE:BBAR) Lowered to \"Hold\" Rating by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bbva-banco-frances-nyse-bbar-lowered-to-hold-rating-by-citigroup-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T12:00:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market",
+      "url": "https://www.investing.com/news/stock-market-news/citi-pushes-fed-ratecut-forecast-to-june-2027-after-resilient-jobs-market-4890197",
+      "source": "investing.com",
+      "published": "2026-09-05T11:38:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman raises Asia-Pacific equity target on tech earnings outlook",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-raises-asiapacific-equity-target-on-tech-earnings-outlook-93CH-4890190",
+      "source": "investing.com",
+      "published": "2026-09-05T10:33:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Vodafone (VOD) Stock Surges on Goldman Sachs Double-Upgrade to Buy",
+      "url": "https://blockonomi.com/vodafone-vod-stock-surges-on-goldman-sachs-double-upgrade-to-buy/",
+      "source": "blockonomi.com",
+      "published": "2026-09-05T10:29:37+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "NBH Bank Makes New Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nbh-bank-makes-new-investment-in-bank-of-america-corporation-bac-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:24:40+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "NBH Bank Purchases New Holdings in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nbh-bank-purchases-new-holdings-in-morgan-stanley-ms-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:16:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "William John Sempolinski Acquires New Shares in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-william-john-sempolinski-acquires-new-shares-in-bank-of-america-corporation-bac-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:16:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MW Advisory LLC Acquires Shares of 8,843 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mw-advisory-llc-acquires-shares-of-8843-bank-of-america-corporation-bac-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:16:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MW Advisory LLC Purchases Shares of 10,637 Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mw-advisory-llc-purchases-shares-of-10637-morgan-stanley-ms-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:16:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Markowski Investments Acquires New Holdings in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-markowski-investments-acquires-new-holdings-in-wells-fargo-company-wfc-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:09:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Markowski Investments Makes New Investment in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-markowski-investments-makes-new-investment-in-the-goldman-sachs-group-inc-gs-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:09:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Old Mission Investment Co LLC Acquires Shares of 1,769 The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-old-mission-investment-co-llc-acquires-shares-of-1769-the-goldman-sachs-group-inc-gs-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:08:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Old Mission Investment Co LLC Takes $2.62 Million Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-old-mission-investment-co-llc-takes-262-million-position-in-bank-of-america-corporation-bac-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:08:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Outlook Capital Management LLC Purchases Shares of 54,000 U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-outlook-capital-management-llc-purchases-shares-of-54000-us-bancorp-usb-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T10:00:56+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Oakmont Investment Advisors Inc. Purchases New Holdings in Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oakmont-investment-advisors-inc-purchases-new-holdings-in-morgan-stanley-ms-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T09:53:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Munich Reinsurance Co Stock Corp in Munich Has $1.31 Million Stock Holdings in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-has-131-million-stock-holdings-in-us-bancorp-usb-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T09:53:01+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Munich Reinsurance Co Stock Corp in Munich Acquires New Position in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-acquires-new-position-in-truist-financial-corporation-tfc-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T09:52:55+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Erin Piacenti, killed in Times Square stabbing, was a 'superstar' at Bank of America known for mentoring junior teammates",
+      "url": "https://www.businessinsider.com/erin-piacenti-times-square-stabbing-bank-of-america-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-05T09:43:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo & Company $WFC Shares Bought by TD Waterhouse Canada Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wells-fargo-company-wfc-shares-bought-by-td-waterhouse-canada-inc-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T09:21:42+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc $PNC Shares Bought by NEOS Investment Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-bought-by-neos-investment-management-llc-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T09:20:54+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "NEOS Investment Management LLC Has $15.27 Million Position in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-neos-investment-management-llc-has-1527-million-position-in-us-bancorp-usb-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T09:13:43+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan: Earns More Than Ever And Its Capital Falls | $JPM",
+      "url": "https://seekingalpha.com/article/4943312-jpmorgan-earns-more-than-ever-and-its-capital-falls",
+      "source": "seekingalpha.com",
+      "published": "2026-09-05T09:07:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Is Greg Abel Betting on Lower Interest Rates? The Berkshire Hathaway CEO Just Trimmed Bank Stocks Like Bank of America and Bought 3 Stocks That Would Benefit From Lower Yields.",
+      "url": "https://www.fool.com/investing/2026/09/05/is-greg-abel-betting-on-lower-interest-rates-the-b/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-05T09:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Maloon Powers Pitre Higgins & Dennehy LLC Invests $1.73 Million in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-maloon-powers-pitre-higgins-dennehy-llc-invests-173-million-in-wells-fargo-company-wfc-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T08:25:03+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Maloon Powers Pitre Higgins & Dennehy LLC Makes New $1.44 Million Investment in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-maloon-powers-pitre-higgins-dennehy-llc-makes-new-144-million-investment-in-bank-of-america-corporation-bac-2026-09-05/",
+      "source": "marketbeat.com",
+      "published": "2026-09-05T08:25:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Is it bad to have several credit cards?",
       "url": "https://www.reddit.com/r/personalfinance/comments/1w7tqv8/is_it_bad_to_have_several_credit_cards/",
@@ -47,239 +284,6 @@
       "published": "2026-09-05T05:18:32+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Need help confirming my 401k Fund Choices",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w7qtns/need_help_confirming_my_401k_fund_choices/",
-      "source": "reddit.com",
-      "published": "2026-09-05T04:40:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Nolan McLean of the New York Mets throws a pitch against the San Francisco Giants during the first inning at Citi Field on Friday, Sept. 4, 2026, in New York.",
-      "url": "https://thebrunswicknews.com/nolan-mclean-of-the-new-york-mets-throws-a-pitch-against-the-san-francisco-giants/image_6203571c-5df7-5f5a-b1af-1a7111c087c2.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-05T02:22:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Giants allow five homers, Wilkinson roughed up in 10-6 loss to Mets",
-      "url": "https://thebrunswicknews.com/giants-allow-five-homers-wilkinson-roughed-up-in-10-6-loss-to-mets/article_d4bb10dc-18c4-58c2-82a3-8ca645b6fd41.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-05T02:22:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Corning (GLW) CFO to Present at Citi 2026 Global TMT Conference",
-      "url": "https://www.gurufocus.com/news/9069035/corning-glw-cfo-to-present-at-citi-2026-global-tmt-conference",
-      "source": "gurufocus.com",
-      "published": "2026-09-05T01:00:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Online Betting Adoption Parabolic: 1st-Timers Triple, Gen Z Overtakes Millennials, Football Hasn't Begun",
-      "url": "https://awesomecapital.blogspot.com/2026/09/online-betting-adoption-parabolic-1st.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-05T00:33:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Memo - Special edition - GPT-6 Astra - 4/Sep/2026",
-      "url": "https://lifearchitect.substack.com/p/the-memo-special-edition-gpt-6-astra",
-      "source": "substack.com",
-      "published": "2026-09-04T23:55:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Motorcyclist killed in North Adams crash identified",
-      "url": "https://www.news10.com/news/berkshire-county/motorcyclist-killed-in-north-adams-crash-identified/",
-      "source": "news10.com",
-      "published": "2026-09-04T23:30:14+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "The former Family Dollar building in Bangor has sold",
-      "url": "https://www.bangordailynews.com/2026/09/04/bangor/bangor-business/former-family-dollar-building-bangor-sold-joam40zk0w/",
-      "source": "bangordailynews.com",
-      "published": "2026-09-04T23:11:36+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Downtown Bellingham taco bar closing this month",
-      "url": "https://www.cascadiadaily.com/2026/sep/04/downtown-bellingham-taco-bar-closing-this-month/?utm_source=rss&utm_medium=rss&utm_campaign=downtown-bellingham-taco-bar-closing-this-month",
-      "source": "cascadiadaily.com",
-      "published": "2026-09-04T22:55:29+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "UK Revolut Nears US Bank Launch as Bitcoin Services Could Follow",
-      "url": "https://news.bitcoin.com/regulation-and-legal/uk-revolut-nears-us-bank-launch-as-bitcoin-services-could-follow/",
-      "source": "bitcoin.com",
-      "published": "2026-09-04T22:45:03+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Schedule update: Stryker to participate in the 2026 Wells Fargo Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/09/04/3356840/0/en/schedule-update-stryker-to-participate-in-the-2026-wells-fargo-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-09-04T22:32:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000464/0000070858-26-000464-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T22:29:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Is Quietly Becoming the Biggest XRP Whale on Wall Street",
-      "url": "https://memeburn.com/xrp-etf-goldman-sachs-institutional/",
-      "source": "memeburn.com",
-      "published": "2026-09-04T22:27:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 3/A [Amend] - Initial statement of beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000463/0000070858-26-000463-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T22:10:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013629/0000950103-26-013629-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T21:30:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026715/0001918704-26-026715-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T21:26:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.1% - Should You Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-down-11-should-you-sell-2026-09-04/",
-      "source": "marketbeat.com",
-      "published": "2026-09-04T21:20:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226044289/0001839882-26-044289-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T21:19:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526383825/0001193125-26-383825-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T21:16:14+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013622/0000950103-26-013622-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T21:02:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Recent Ratings Changes for Urban Outfitters (URBN)",
-      "url": "https://www.tickerreport.com/banking-finance/13573669/research-analysts-recent-ratings-changes-for-urban-outfitters-urbn.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-04T20:56:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097731/0001213900-26-097731-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T20:50:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Lower-income households outpaced higher earners: Bank of America",
-      "url": "https://finance.yahoo.com/video/lower-income-households-outpaced-higher-205000716.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-04T20:50:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097727/0001213900-26-097727-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-04T20:49:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Market Chatter: Anthropic May Give Morgan Stanley, Goldman Sachs Key Roles in $2 Trillion IPO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-may-morgan-203914549.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-04T20:39:14+00:00",
-      "tickers": [
-        "GS",
-        "MS"
       ]
     }
   ]
