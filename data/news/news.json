@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-09-06T21:37:20.775094+00:00",
+  "last_updated": "2026-09-06T23:42:38.948379+00:00",
   "headlines": [
+    {
+      "title": "Iran War Puts New Pressure on Banks to Police Transactions",
+      "url": "https://www.pymnts.com/legal/bank-regulation/2026/iran-war-puts-new-pressure-on-banks-to-police-transactions/",
+      "source": "pymnts.com",
+      "published": "2026-09-06T22:01:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Cesar Perdomo of the San Francisco Giants pitches during the second inning against the New York Mets at Citi Field on Sunday, Sept. 6, 2026, in New York City.",
+      "url": "https://thebrunswicknews.com/cesar-perdomo-of-the-san-francisco-giants-pitches-during-the-second-inning-against-the-new/image_0e48ac71-530c-5263-9dfc-03c209e636e8.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-09-06T22:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vikings’ GM and HC Kevin O’Connell Spent Weeks Convincing Harrison Smith for NFL Return Amid Retirement Rumors",
+      "url": "https://www.essentiallysports.com/nfl-active-news-vikings-gm-and-hc-kevin-oconnell-spent-weeks-convincing-harrison-smith-for-nfl-return-amid-retirement-rumors/",
+      "source": "essentiallysports.com",
+      "published": "2026-09-06T21:25:15+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sees-cybercab-giving-tesla-a-cost-advantage-in-robotaxis-4890319",
+      "source": "investing.com",
+      "published": "2026-09-06T21:16:58+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Chancery: Allegedly Excessive Fees Not Defense to Nonpayment of Advancement",
       "url": "https://www.delawarelitigation.com/2026/09/articles/chancery-court-updates/chancery-allegedly-excessive-fees-not-defense-to-nonpayment-of-advancement/",
@@ -145,9 +182,9 @@
       ]
     },
     {
-      "title": "Like Jamie Dimon, AT&T CEO says if you attend a meeting, you need to show up prepared - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjF2Ykg2dEZsZ2E5Q0JnSVQ4MGpxcmN4eDV5c21Bc1RIQ1dYN2NXT2NXcXJZWUFJXzNrVjB6VENLR1JnRFVYTG5HWTdlckQxNW83ZXhFMzFzR2FzX0RIczBNUnlOeG1BMGVKRXAtb05DUzFtcm9CWHhTOGFvRTlXeFpSZ0QtQVR4bGtnMUFnZndSSXRGemZ0VXBFcGpJdEs5b2lvT241VVFPdS1ZdldTOWJUODlNNTFBUXBMbUxQSlJNTFRERmNqTWhnc2ZSallzLUE?oc=5",
-      "source": "google.com",
+      "title": "Like Jamie Dimon, AT&T CEO says if you attend a meeting, you need to show up prepared—he ‘craves’ people who don’t just sit back and observe",
+      "url": "https://finance.yahoo.com/technology/articles/jamie-dimon-t-ceo-says-105900885.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-09-06T10:59:00+00:00",
       "tickers": [
         "JPM"
@@ -247,44 +284,6 @@
       "tickers": [
         "C",
         "PNC"
-      ]
-    },
-    {
-      "title": "Saudi Central Bank Grows Stake in Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-grows-stake-in-capital-one-financial-corporation-cof-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:53:02+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Shares Bought by Saudi Central Bank",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-bought-by-saudi-central-bank-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:52:59+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Saudi Central Bank Buys 53,348 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-buys-53348-shares-of-citigroup-inc-c-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:52:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Saudi Central Bank Acquires 39,127 Shares of Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-acquires-39127-shares-of-morgan-stanley-ms-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:52:53+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
