@@ -1,282 +1,289 @@
 {
-  "last_updated": "2026-09-06T05:44:13.361807+00:00",
+  "last_updated": "2026-09-06T10:43:38.784754+00:00",
   "headlines": [
     {
-      "title": "JPMorgan's Market Value Is Flirting With $1 Trillion Under Jamie Dimon, a Premium Some Call the 'Jamie Premium.' Does That Valuation Price in Too Much Confidence in His Succession Plan?",
-      "url": "https://www.fool.com/investing/2026/09/05/jpmorgans-market-value-is-flirting-with-1-trillion/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-06T02:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Derrick Henry of the Baltimore Ravens carries the ball defended by Harrison Smith of the Minnesota Vikings during the second quarter in the game at U.S. Bank Stadium on Sunday, Nov. 9, 2025, in Minneapolis.",
-      "url": "https://thebrunswicknews.com/sports/national_sports/derrick-henry-of-the-baltimore-ravens-carries-the-ball-defended-by-harrison-smith-of-the/image_865b2d5a-c8ee-5c9a-9be0-5ad9fae0df04.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-06T01:28:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Top XRP ETF Holders Revealed: Goldman, Jane Street Lead the List",
-      "url": "https://news.bitcoin.com/featured/top-xrp-etf-holders-revealed-goldman-jane-street-lead-the-list/",
-      "source": "bitcoin.com",
-      "published": "2026-09-06T00:30:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Rafael Devers of the San Francisco Giants runs out his fifth-inning two-run home run against the New York Mets at Citi Field on Saturday, Sept. 5, 2026, in New York.",
-      "url": "https://thebrunswicknews.com/sports/national_sports/rafael-devers-of-the-san-francisco-giants-runs-out-his-fifth-inning-two-run-home/image_35c1ae77-f5e9-50c2-a93f-c07ce73bb3f0.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-06T00:06:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Blue Owl Capital (OWL) Stock Fair Value Edges Higher After Q2 Analyst Revisions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-capital-owl-stock-210624938.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T21:06:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley resets Snowflake stock price target by $170",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-snowflake-stock-210300184.html",
-      "source": "yahoo.com",
-      "published": "2026-09-05T21:03:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Hikma Pharmaceuticals (LSE:HIK) Stock Fair Value Edges Higher After Bullish Analyst Targets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hikma-pharmaceuticals-lse-hik-stock-190604855.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T19:06:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hammerson (LSE:HMSO) Stock Gets Fair Value Bump As Analysts Lift Targets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hammerson-lse-hmso-stock-gets-190551652.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T19:05:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Stock May Be 31% Undervalued After Record Revenue Quarter",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-stock-may-31-181022509.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T18:10:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gold price outlook: What lies ahead for the yellow metal? Here's what Goldman Sachs says on bull run prediction",
-      "url": "https://www.livemint.com/money/personal-finance/gold-price-outlook-what-lies-ahead-for-the-yellow-metal-heres-what-goldman-sachs-says-on-bull-run-prediction-11788625475879.html",
-      "source": "livemint.com",
-      "published": "2026-09-05T17:06:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Promising Bank Stocks To Add to Your Watchlist – September 5th",
-      "url": "https://www.tickerreport.com/banking-finance/13574897/promising-bank-stocks-to-add-to-your-watchlist-september-5th.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-05T17:02:57+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo: Stick To High-Yield Preferred Shares During Interest Rate Volatility | $WFC",
-      "url": "https://seekingalpha.com/article/4941930-wells-fargo-stick-to-high-yield-preferred-shares-during-interest-rate-volatility",
-      "source": "seekingalpha.com",
-      "published": "2026-09-05T15:40:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Is a Weaker or Stronger Dollar Better for the United States?",
-      "url": "https://thepeopleseconomist.substack.com/p/is-a-weaker-or-stronger-dollar-better",
-      "source": "substack.com",
-      "published": "2026-09-05T14:53:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley delivers bold Carvana stock verdict",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-carvana-cvna-stock-price-target-90-dollars?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-05T14:07:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan's $5 Trillion Empire Delivers, Yet Valuation Caps The Run | $JPM",
-      "url": "https://seekingalpha.com/article/4943361-jpmorgans-5-trillion-empire-delivers-yet-valuation-caps-the-run",
-      "source": "seekingalpha.com",
-      "published": "2026-09-05T13:54:12+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Trading 1.7% Higher – Here’s What Happened",
-      "url": "https://www.tickerreport.com/banking-finance/13574741/jpmorgan-chase-co-nysejpm-trading-1-7-higher-heres-what-happened.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-05T13:40:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Eli Lilly Stock (LLY) Gets a Bullish Note from JPMorgan Chase",
-      "url": "https://awesomecapital.blogspot.com/2026/09/eli-lilly-stock-lly-gets-bullish-note.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-05T13:11:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley estimates Apple foldable iPhone could generate $14 billion in December-quarter revenue",
-      "url": "https://investorshub.advfn.com/market-news/article/35723/morgan-stanley-estimates-apple-foldable-iphone-could-generate-14-billion-in-december-quarter-revenue?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-09-05T13:10:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Borr Drilling (BORR) Stock Sees Split Analyst Revisions As Fair Value Gets A Bump",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/borr-drilling-borr-stock-sees-121158107.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T12:11:58+00:00",
+      "title": "Capital One Financial Corporation $COF Shares Purchased by Nilsine Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-purchased-by-nilsine-partners-llc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:53:23+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "NBH Bank Acquires Shares of 950 The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13574637/nbh-bank-acquires-shares-of-950-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-05T12:02:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Glencore (OTCMKTS:GLNCY) Rating Lowered to “Strong Sell” at Freedom Broker",
-      "url": "https://www.tickerreport.com/banking-finance/13574636/glencore-otcmktsglncy-rating-lowered-to-strong-sell-at-freedom-broker.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-05T12:01:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BBVA Banco Frances (NYSE:BBAR) Lowered to \"Hold\" Rating by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bbva-banco-frances-nyse-bbar-lowered-to-hold-rating-by-citigroup-2026-09-05/",
+      "title": "Morgan Stanley $MS is Northeast Planning Associates INC. NH's 6th Largest Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-is-northeast-planning-associates-inc-nhs-6th-largest-position-2026-09-06/",
       "source": "marketbeat.com",
-      "published": "2026-09-05T12:00:27+00:00",
+      "published": "2026-09-06T09:53:14+00:00",
       "tickers": [
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "The biggest August jobs beat in nearly 30 years may be less impressive than it looks: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/the-biggest-august-jobs-beat-in-nearly-30-years-may-be-less-impressive-than-it-looks-chart-of-the-day-114716694.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-05T11:47:16+00:00",
+      "title": "Saudi Central Bank Grows Stake in U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-grows-stake-in-us-bancorp-usb-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:53:07+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc $PNC Shares Acquired by Saudi Central Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-acquired-by-saudi-central-bank-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:53:06+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Saudi Central Bank Grows Stake in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-grows-stake-in-capital-one-financial-corporation-cof-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:53:02+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "The Charles Schwab Corporation $SCHW Shares Bought by Saudi Central Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-bought-by-saudi-central-bank-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:52:59+00:00",
       "tickers": [
         "C",
         "SCHW"
       ]
     },
     {
-      "title": "Former Marvel Filmmaker Lexi Alexander Cheers the Stabbing Murder of a Bank of America Employee",
-      "url": "https://www.breitbart.com/entertainment/2026/09/05/former-marvel-filmmaker-lexi-alexander-cheers-the-stabbing-murder-of-a-bank-of-america-employee/",
-      "source": "breitbart.com",
-      "published": "2026-09-05T11:41:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market",
-      "url": "https://www.investing.com/news/stock-market-news/citi-pushes-fed-ratecut-forecast-to-june-2027-after-resilient-jobs-market-4890197",
-      "source": "investing.com",
-      "published": "2026-09-05T11:38:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bitcoin Drops Below $80K After Strong Jobs Data, ETF Inflows Collapse 76% In A Day",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/why-bitcoin-fell-below-80k-after-strong-jobs-data/cZsz7LdRJDF?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-09-05T10:52:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman raises Asia-Pacific equity target on tech earnings outlook",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-raises-asiapacific-equity-target-on-tech-earnings-outlook-93CH-4890190",
-      "source": "investing.com",
-      "published": "2026-09-05T10:33:09+00:00",
+      "title": "Saudi Central Bank Has $20.89 Million Holdings in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-2089-million-holdings-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:52:51+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "TOP Private Wealth LLC. Acquires Shares of 209,007 State Street SPDR Portfolio S&P 500 ETF $SPYM",
-      "url": "https://www.tickerreport.com/banking-finance/13574439/top-private-wealth-llc-acquires-shares-of-209007-state-street-spdr-portfolio-sp-500-etf-spym.html",
+      "title": "U.S. Bancorp $USB Shares Acquired by TD Waterhouse Canada Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-us-bancorp-usb-shares-acquired-by-td-waterhouse-canada-inc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:05:17+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Beacon Financial (BBT) & The Competition Critical Comparison",
+      "url": "https://www.tickerreport.com/banking-finance/13575007/beacon-financial-bbt-the-competition-critical-comparison.html",
       "source": "tickerreport.com",
-      "published": "2026-09-05T10:31:11+00:00",
+      "published": "2026-09-06T08:15:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Compass Financial Management LLC Makes New $1.42 Million Investment in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-financial-management-llc-makes-new-142-million-investment-in-state-street-corporation-stt-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T08:08:50+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Vodafone (VOD) Stock Surges on Goldman Sachs Double-Upgrade to Buy",
-      "url": "https://blockonomi.com/vodafone-vod-stock-surges-on-goldman-sachs-double-upgrade-to-buy/",
-      "source": "blockonomi.com",
-      "published": "2026-09-05T10:29:37+00:00",
+      "title": "30,227 Shares in Bank of America Corporation $BAC Bought by Compass Financial Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-30227-shares-in-bank-of-america-corporation-bac-bought-by-compass-financial-management-llc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T08:08:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Concurrent Investment Advisors LLC Purchases 39,690 Shares of Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-concurrent-investment-advisors-llc-purchases-39690-shares-of-wells-fargo-company-wfc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T08:08:39+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "HB Wealth Management LLC Has $30.59 Million Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hb-wealth-management-llc-has-3059-million-holdings-in-bank-of-america-corporation-bac-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T08:01:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Concurrent Investment Advisors LLC Has $8.85 Million Holdings in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-concurrent-investment-advisors-llc-has-885-million-holdings-in-capital-one-financial-corporation-cof-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T08:00:48+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "More details of the mega Anthropic IPO are coming out: here’s what we know",
+      "url": "https://invezz.com/news/2026/09/06/more-details-of-the-mega-anthropic-ipo-are-coming-out-heres-what-we-know/",
+      "source": "invezz.com",
+      "published": "2026-09-06T07:56:23+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Markowski Investments Buys New Stake in Goldman Sachs Nasdaq 100 Core Premium Income ETF $GPIQ",
-      "url": "https://www.tickerreport.com/banking-finance/13574415/markowski-investments-buys-new-stake-in-goldman-sachs-nasdaq-100-core-premium-income-etf-gpiq.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-05T10:27:46+00:00",
+      "title": "Compass Financial Management LLC Purchases New Shares in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-financial-management-llc-purchases-new-shares-in-wells-fargo-company-wfc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:52:55+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Compass Financial Management LLC Purchases New Position in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-financial-management-llc-purchases-new-position-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:52:50+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "AlphaGrep UK Ltd Acquires Shares of 9,743 Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alphagrep-uk-ltd-acquires-shares-of-9743-bank-of-america-corporation-bac-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:21:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Five Below (NASDAQ:FIVE) Price Target Raised to $300.00",
+      "url": "https://www.tickerreport.com/banking-finance/13574994/five-below-nasdaqfive-price-target-raised-to-300-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T07:15:11+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Azimuth Capital Investment Management LLC Sells 137,616 Shares of Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-sells-137616-shares-of-wells-fargo-company-wfc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:13:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Azimuth Capital Investment Management LLC Trims Stake in Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-trims-stake-in-citigroup-inc-c-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:13:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Azimuth Capital Investment Management LLC Trims Stock Holdings in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-trims-stock-holdings-in-state-street-corporation-stt-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:13:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Azimuth Capital Investment Management LLC Sells 13,700 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-sells-13700-shares-of-bank-of-america-corporation-bac-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:13:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AXQ Capital LP Has $1.26 Million Stock Position in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-axq-capital-lp-has-126-million-stock-position-in-state-street-corporation-stt-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T07:12:54+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Is 2.50% APY good for my savings as a teen?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w8oyyq/is_250_apy_good_for_my_savings_as_a_teen/",
+      "source": "reddit.com",
+      "published": "2026-09-06T07:05:13+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Minnesota Man Charged After Allegedly Draining $12,760 From Missouri Victim’s U.S. Bank Accounts: Report",
+      "url": "https://dailyhodl.com/2026/09/06/minnesota-man-charged-after-allegedly-draining-12760-from-missouri-victims-u-s-bank-accounts-report/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-06T07:04:55+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Citi shares its 3-month uranium outlook. Here are the price targets",
+      "url": "https://www.investing.com/news/economy-news/citi-shares-its-3month-uranium-outlook-here-are-the-price-targets-4890263",
+      "source": "investing.com",
+      "published": "2026-09-06T06:46:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts NetApp (NASDAQ:NTAP) Price Target to $190.00",
+      "url": "https://www.tickerreport.com/banking-finance/13574987/citigroup-cuts-netapp-nasdaqntap-price-target-to-190-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T06:43:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Cuts Broadcom (NASDAQ:AVGO) Price Target to $520.00",
+      "url": "https://www.tickerreport.com/banking-finance/13574986/truist-financial-cuts-broadcom-nasdaqavgo-price-target-to-520-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T06:38:48+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Price Target Raised to $76.00",
+      "url": "https://www.tickerreport.com/banking-finance/13574980/hewlett-packard-enterprise-nysehpe-price-target-raised-to-76-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T06:32:45+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
