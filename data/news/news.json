@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T22:45:08.864694+00:00",
+  "last_updated": "2026-09-06T00:46:53.403631+00:00",
   "headlines": [
     {
       "title": "Blue Owl Capital (OWL) Stock Fair Value Edges Higher After Q2 Analyst Revisions",
@@ -9,6 +9,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley resets Snowflake stock price target by $170",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-snowflake-stock-210300184.html",
+      "source": "yahoo.com",
+      "published": "2026-09-05T21:03:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -271,15 +280,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "MW Advisory LLC Purchases Shares of 10,637 Morgan Stanley $MS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mw-advisory-llc-purchases-shares-of-10637-morgan-stanley-ms-2026-09-05/",
-      "source": "marketbeat.com",
-      "published": "2026-09-05T10:16:38+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
