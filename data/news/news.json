@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-09-06T10:43:38.784754+00:00",
+  "last_updated": "2026-09-06T14:04:30.156556+00:00",
   "headlines": [
+    {
+      "title": "Banking giant names 5 stocks to buy now before ‘it’s too late’",
+      "url": "https://finbold.com/banking-giant-names-5-stocks-to-buy-now-before-its-too-late/",
+      "source": "finbold.com",
+      "published": "2026-09-06T12:39:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Three ways the midterms could move markets - BofA",
+      "url": "https://seekingalpha.com/news/4640509-three-ways-the-midterms-could-move-markets-bofa",
+      "source": "seekingalpha.com",
+      "published": "2026-09-06T12:04:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Schuylkill Financial LLC Invests $1 Million in Citigroup Inc. $C",
+      "url": "https://www.tickerreport.com/banking-finance/13575510/schuylkill-financial-llc-invests-1-million-in-citigroup-inc-c.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T11:04:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Like Jamie Dimon, AT&T CEO says if you attend a meeting, you need to show up prepared—he ‘craves’ people who don’t just sit back and observe",
+      "url": "https://fortune.com/2026/09/06/att-ceo-john-stankey-meeting-etiquette-show-up-prepared-crave-productivity-like-jpmorgan-ceo-jamie-dimon/",
+      "source": "fortune.com",
+      "published": "2026-09-06T10:59:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Beacon Financial Corporation (NYSE:BBT) Given Average Recommendation of \"Hold\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-beacon-financial-corporation-nyse-bbt-given-average-recommendation-of-hold-by-brokerages-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T10:29:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon (NYSE:BNY) Reaches New 1-Year High – Here’s What Happened",
+      "url": "https://www.tickerreport.com/banking-finance/13575457/bank-of-new-york-mellon-nysebny-reaches-new-1-year-high-heres-what-happened.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T10:27:40+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Kintra Wealth LLC Increases Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kintra-wealth-llc-increases-holdings-in-bank-of-america-corporation-bac-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T10:16:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Major US Bank Sued Over Alleged Privacy Violations From Website Tracking Pixels",
+      "url": "https://dailyhodl.com/2026/09/06/major-us-bank-sued-over-alleged-privacy-violations-from-website-tracking-pixels/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-06T10:15:13+00:00",
+      "tickers": [
+        "C",
+        "USB"
+      ]
+    },
+    {
+      "title": "Symphony Financial Ltd. Co. Decreases Stake in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.tickerreport.com/banking-finance/13575391/symphony-financial-ltd-co-decreases-stake-in-jpmorgan-chase-co-jpm.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-06T10:09:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Capital One Financial Corporation $COF Shares Purchased by Nilsine Partners LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-purchased-by-nilsine-partners-llc-2026-09-06/",
@@ -9,6 +94,16 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Shares Acquired by Nilsine Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-acquired-by-nilsine-partners-llc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:53:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -60,12 +155,49 @@
       ]
     },
     {
+      "title": "Saudi Central Bank Buys 53,348 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-buys-53348-shares-of-citigroup-inc-c-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:52:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Saudi Central Bank Acquires 39,127 Shares of Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-acquires-39127-shares-of-morgan-stanley-ms-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:52:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Saudi Central Bank Raises Position in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-raises-position-in-wells-fargo-company-wfc-2026-09-06/",
+      "source": "marketbeat.com",
+      "published": "2026-09-06T09:52:52+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "Saudi Central Bank Has $20.89 Million Holdings in The Goldman Sachs Group, Inc. $GS",
       "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-2089-million-holdings-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
       "source": "marketbeat.com",
       "published": "2026-09-06T09:52:51+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley breaks down the midterm races it's watching with implications for AI and the data center boom",
+      "url": "https://www.businessinsider.com/midterm-elections-data-centers-texas-mighigan-ai-morgan-stanley-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-06T09:20:01+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -152,137 +284,6 @@
       "published": "2026-09-06T07:52:55+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Compass Financial Management LLC Purchases New Position in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-financial-management-llc-purchases-new-position-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:52:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "AlphaGrep UK Ltd Acquires Shares of 9,743 Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-alphagrep-uk-ltd-acquires-shares-of-9743-bank-of-america-corporation-bac-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:21:03+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Five Below (NASDAQ:FIVE) Price Target Raised to $300.00",
-      "url": "https://www.tickerreport.com/banking-finance/13574994/five-below-nasdaqfive-price-target-raised-to-300-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T07:15:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Azimuth Capital Investment Management LLC Sells 137,616 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-sells-137616-shares-of-wells-fargo-company-wfc-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:13:49+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Azimuth Capital Investment Management LLC Trims Stake in Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-trims-stake-in-citigroup-inc-c-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:13:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Azimuth Capital Investment Management LLC Trims Stock Holdings in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-trims-stock-holdings-in-state-street-corporation-stt-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:13:28+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Azimuth Capital Investment Management LLC Sells 13,700 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-azimuth-capital-investment-management-llc-sells-13700-shares-of-bank-of-america-corporation-bac-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:13:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AXQ Capital LP Has $1.26 Million Stock Position in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-axq-capital-lp-has-126-million-stock-position-in-state-street-corporation-stt-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T07:12:54+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Is 2.50% APY good for my savings as a teen?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w8oyyq/is_250_apy_good_for_my_savings_as_a_teen/",
-      "source": "reddit.com",
-      "published": "2026-09-06T07:05:13+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Minnesota Man Charged After Allegedly Draining $12,760 From Missouri Victim’s U.S. Bank Accounts: Report",
-      "url": "https://dailyhodl.com/2026/09/06/minnesota-man-charged-after-allegedly-draining-12760-from-missouri-victims-u-s-bank-accounts-report/",
-      "source": "dailyhodl.com",
-      "published": "2026-09-06T07:04:55+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Citi shares its 3-month uranium outlook. Here are the price targets",
-      "url": "https://www.investing.com/news/economy-news/citi-shares-its-3month-uranium-outlook-here-are-the-price-targets-4890263",
-      "source": "investing.com",
-      "published": "2026-09-06T06:46:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts NetApp (NASDAQ:NTAP) Price Target to $190.00",
-      "url": "https://www.tickerreport.com/banking-finance/13574987/citigroup-cuts-netapp-nasdaqntap-price-target-to-190-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T06:43:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Cuts Broadcom (NASDAQ:AVGO) Price Target to $520.00",
-      "url": "https://www.tickerreport.com/banking-finance/13574986/truist-financial-cuts-broadcom-nasdaqavgo-price-target-to-520-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T06:38:48+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) Price Target Raised to $76.00",
-      "url": "https://www.tickerreport.com/banking-finance/13574980/hewlett-packard-enterprise-nysehpe-price-target-raised-to-76-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T06:32:45+00:00",
-      "tickers": [
         "C"
       ]
     }
