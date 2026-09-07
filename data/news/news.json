@@ -1,11 +1,169 @@
 {
-  "last_updated": "2026-09-07T04:12:07.250152+00:00",
+  "last_updated": "2026-09-07T09:37:30.162519+00:00",
   "headlines": [
+    {
+      "title": "Heritage Investors Management Corp Sells 4,523 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-heritage-investors-management-corp-sells-4523-shares-of-jpmorgan-chase-co-jpm-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:29:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Why Robinhood stock’s fresh bullish upgrade could be a warning sign",
+      "url": "https://invezz.com/news/2026/09/07/why-robinhood-stocks-fresh-bullish-upgrade-could-be-a-warning-sign/",
+      "source": "invezz.com",
+      "published": "2026-09-07T07:20:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Amundi Increases Position in Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-increases-position-in-capital-one-financial-corporation-cof-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:13:52+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Amundi Decreases Holdings in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-decreases-holdings-in-wells-fargo-company-wfc-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:05:23+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Shares Sold by Amundi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-amundi-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:05:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by Amundi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-amundi-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:05:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Shares Sold by Amundi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-amundi-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:05:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Amundi Lowers Holdings in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-lowers-holdings-in-bank-of-america-corporation-bac-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:05:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "71 West Capital Partners Purchases 7,285 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-71-west-capital-partners-purchases-7285-shares-of-jpmorgan-chase-co-jpm-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T07:04:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Pearl Jam will release its Philly ‘Ten’ concert on vinyl",
+      "url": "https://www.yoursun.com/pearl-jam-will-release-its-philly-ten-concert-on-vinyl/article_1f07e85d-2086-5342-ade7-f1f7563646ef.html",
+      "source": "yoursun.com",
+      "published": "2026-09-07T06:45:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs warns Mideast ship attacks could push oil to $120",
+      "url": "https://seekingalpha.com/news/4640546-goldman-sachs-warns-mideast-ship-attacks-could-push-oil-to-120",
+      "source": "seekingalpha.com",
+      "published": "2026-09-07T06:31:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Receives Average Rating of \"Moderate Buy\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-jpmorgan-chase-co-nyse-jpm-receives-average-rating-of-moderate-buy-from-brokerages-2026-09-07/",
+      "source": "marketbeat.com",
+      "published": "2026-09-07T06:29:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Dianthus Therapeutics (NASDAQ:DNTH) Earns Buy Rating from Analysts at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13575703/dianthus-therapeutics-nasdaqdnth-earns-buy-rating-from-analysts-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-07T05:18:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "KOSPI surges 3% as AI optimism returns and Goldman backs 12,000 target",
+      "url": "https://invezz.com/news/2026/09/07/kospi-surges-3-as-ai-optimism-returns-and-goldman-backs-12000-target/",
+      "source": "invezz.com",
+      "published": "2026-09-07T04:48:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts Oil Prices Could Hit $120 Amid Middle East Tensions",
+      "url": "https://www.gurufocus.com/news/9069591/goldman-sachs-predicts-oil-prices-could-hit-120-amid-middle-east-tensions",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T04:10:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Stupid question: Is there any way to find out my brothers debts w/out his help?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1w9gy47/stupid_question_is_there_any_way_to_find_out_my/",
+      "source": "reddit.com",
+      "published": "2026-09-07T03:38:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Goldman Flags Risk of $120 Oil If Mideast Ship Attacks Intensify",
       "url": "https://www.bloomberg.com/news/articles/2026-09-07/goldman-flags-risk-of-120-oil-if-mideast-ship-attacks-intensify",
       "source": "bloomberg.com",
       "published": "2026-09-07T02:34:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Initiates Coverage on Zhongji Xuchuang (H?) with Buy Rating",
+      "url": "https://www.gurufocus.com/news/9069575/goldman-sachs-initiates-coverage-on-zhongji-xuchuang-h-with-buy-rating",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T02:31:15+00:00",
       "tickers": [
         "GS"
       ]
@@ -114,167 +272,6 @@
       "url": "https://www.insidermonkey.com/blog/goldman-sachs-gs-partner-ai-risks-leaving-the-next-generation-of-bankers-unable-to-think-for-themselves-1826649/",
       "source": "insidermonkey.com",
       "published": "2026-09-06T22:41:14+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Iran War Puts New Pressure on Banks to Police Transactions",
-      "url": "https://www.pymnts.com/legal/bank-regulation/2026/iran-war-puts-new-pressure-on-banks-to-police-transactions/",
-      "source": "pymnts.com",
-      "published": "2026-09-06T22:01:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Cesar Perdomo of the San Francisco Giants pitches during the second inning against the New York Mets at Citi Field on Sunday, Sept. 6, 2026, in New York City.",
-      "url": "https://thebrunswicknews.com/cesar-perdomo-of-the-san-francisco-giants-pitches-during-the-second-inning-against-the-new/image_0e48ac71-530c-5263-9dfc-03c209e636e8.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-06T22:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Vikings’ GM and HC Kevin O’Connell Spent Weeks Convincing Harrison Smith for NFL Return Amid Retirement Rumors",
-      "url": "https://www.essentiallysports.com/nfl-active-news-vikings-gm-and-hc-kevin-oconnell-spent-weeks-convincing-harrison-smith-for-nfl-return-amid-retirement-rumors/",
-      "source": "essentiallysports.com",
-      "published": "2026-09-06T21:25:15+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sees-cybercab-giving-tesla-a-cost-advantage-in-robotaxis-4890319",
-      "source": "investing.com",
-      "published": "2026-09-06T21:16:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Chancery: Allegedly Excessive Fees Not Defense to Nonpayment of Advancement",
-      "url": "https://www.delawarelitigation.com/2026/09/articles/chancery-court-updates/chancery-allegedly-excessive-fees-not-defense-to-nonpayment-of-advancement/",
-      "source": "delawarelitigation.com",
-      "published": "2026-09-06T20:13:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BNY Mellon Short Term Municipal Bond Fund Q2 2026 Commentary | $DIMIX $DMBAX $DMYBX $DSBBX $DSIBX",
-      "url": "https://seekingalpha.com/article/4943440-bny-mellon-short-term-municipal-bond-fund-q2-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-09-06T19:04:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BNY Mellon showcases agentic commerce pitches at internal demo day",
-      "url": "https://cryptobriefing.com/bny-mellon-agentic-commerce-demo-day/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-06T18:06:47+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "NuScale Power Stock Will Spike 23.7% Over the Next 11 Months According to This Wall Street Analyst",
-      "url": "https://www.fool.com/investing/2026/09/06/nuscale-power-stock-will-spike-over-the-next/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-06T17:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Follow Now – September 6th",
-      "url": "https://www.tickerreport.com/banking-finance/13575645/bank-stocks-to-follow-now-september-6th.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T17:02:52+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Keep An Eye On - September 6th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-keep-an-eye-on-september-6th-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T17:01:43+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JP Morgan Mansart MSCI AC World Index (LSE:JMMA) -- Global Diversification | Guinness Global ...",
-      "url": "https://www.gurufocus.com/news/9069528/jp-morgan-mansart-msci-ac-world-index-lsejmma-global-diversification-guinness-global-innovators-q3-2026",
-      "source": "gurufocus.com",
-      "published": "2026-09-06T17:00:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi and ANZ raise Brent crude forecasts amid Middle East supply disruptions",
-      "url": "https://finance.yahoo.com/energy/articles/citi-anz-raise-brent-crude-152600571.html",
-      "source": "yahoo.com",
-      "published": "2026-09-06T15:26:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Protection gap remains ‘huge’ as third-party capital hits $140bn, reports S&P",
-      "url": "https://www.reinsurancene.ws/protection-gap-remains-huge-as-third-party-capital-hits-140bn-reports-sp/",
-      "source": "reinsurancene.ws",
-      "published": "2026-09-06T14:00:37+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Bank of America Travel Center guide: How to book travel and redeem rewards",
-      "url": "https://thepointsguy.com/credit-cards/bank-of-america-travel-portal/",
-      "source": "thepointsguy.com",
-      "published": "2026-09-06T14:00:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Letitia James’ Times Square shooting probe draws GOP criticism over New York’s mental health crisis",
-      "url": "https://www.foxnews.com/politics/letitia-james-times-square-shooting-probe-draws-gop-criticism-new-yorks-mental-health-crisis",
-      "source": "foxnews.com",
-      "published": "2026-09-06T13:53:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Mellon Oversees $62 Trillion in Client Assets. Custody Is the Quietest Fee Machine in Finance.",
-      "url": "https://www.fool.com/investing/2026/09/06/bny-mellon-oversees-62-trillion-in-client-assets/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-06T13:45:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Banking giant names 5 stocks to buy now before ‘it’s too late’",
-      "url": "https://finbold.com/banking-giant-names-5-stocks-to-buy-now-before-its-too-late/",
-      "source": "finbold.com",
-      "published": "2026-09-06T12:39:09+00:00",
       "tickers": [
         "GS"
       ]
