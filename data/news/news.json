@@ -1,12 +1,96 @@
 {
-  "last_updated": "2026-09-07T19:48:32.454567+00:00",
+  "last_updated": "2026-09-07T22:43:22.659709+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley Just Drew a Sharp Line Between Oracle and Adobe",
+      "url": "https://www.gurufocus.com/news/9069770/morgan-stanley-just-drew-a-sharp-line-between-oracle-and-adobe",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T21:23:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi, DBS Send Tokenized USD in Minutes as TradFi Rails Sleep",
+      "url": "https://news.bitcoin.com/blockchain/citi-dbs-send-tokenized-usd-in-minutes-as-tradfi-rails-sleep/",
+      "source": "bitcoin.com",
+      "published": "2026-09-07T21:03:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
+      "url": "https://www.cryptoprowl.com/releases/dbs-citi-complete-first-weekend-cross-border-payment-6955?.tsrc=rss",
+      "source": "cryptoprowl.com",
+      "published": "2026-09-07T20:56:00+00:00",
+      "tickers": [
+        "JPM",
+        "C"
+      ]
+    },
+    {
+      "title": "Can Marathon Petroleum (MPC) Keep Rallying? Wells Fargo Says Yes",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-keep-rallying-203402101.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-07T20:34:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Considering Launch of New Stablecoin As Rival Big Banks Build Dollar-Pegged Token: Report",
+      "url": "https://dailyhodl.com/2026/09/07/jpmorgan-chase-considering-launch-of-new-stablecoin-as-rival-big-banks-build-dollar-pegged-token-report/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-07T19:38:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Ascentivelab Group Expands Family Office Origination as Direct Deals Outpace Lean Teams",
+      "url": "https://finance.yahoo.com/small-business/articles/ascentivelab-group-expands-family-office-193000843.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-07T19:30:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Moves Deeper Into China’s Capital Markets as Competition Intensifies",
+      "url": "https://www.insidermonkey.com/blog/citigroup-c-moves-deeper-into-chinas-capital-markets-as-competition-intensifies-1829765/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-07T19:13:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Delivers Stark Message on Tesla Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-delivers-stark-message-191200543.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-07T19:12:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Citi and DBS Mark 1st Singapore-to-US Weekend Dollar Transaction",
       "url": "https://www.pymnts.com/news/cross-border-payments/2026/citi-dbs-mark-1st-singapore-united-states-weekend-dollar-transaction/",
       "source": "pymnts.com",
       "published": "2026-09-07T18:55:37+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Novartis (NVS) Has a Potential $3 Billion MS Opportunity — But Investors Face Key Risks",
+      "url": "https://www.insidermonkey.com/blog/novartis-nvs-has-a-potential-3-billion-ms-opportunity-but-investors-face-key-risks-1827678/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-07T18:03:49+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -30,6 +114,16 @@
       ]
     },
     {
+      "title": "C Nears China Brokerage License: Can Onshore Expansion Boost Growth?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/c-nears-china-brokerage-license-162600894.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-07T16:26:00+00:00",
+      "tickers": [
+        "JPM",
+        "C"
+      ]
+    },
+    {
       "title": "Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-nears-100-as-attacks-on-tankers-threaten-to-worsen-supply-shock/articleshow/133888666.cms",
       "source": "indiatimes.com",
@@ -48,10 +142,30 @@
       ]
     },
     {
+      "title": "What's Powering Bank of America's Strong Capital Return Strategy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-powering-bank-americas-strong-150800237.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-07T15:08:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "J.P. Morgan, Binance, Coinbase, Robinhood, and Revolut are reshaping the tokenized RWA market",
       "url": "https://cryptobriefing.com/rwa-market-jpmorgan-binance-coinbase-robinhood-revolut/",
       "source": "cryptobriefing.com",
       "published": "2026-09-07T14:58:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Want $10,000 a month in retirement? Here’s what you need saved if you stop working at 55, 62 or 65",
+      "url": "https://finance.yahoo.com/markets/articles/want-10-000-month-retirement-144500789.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-07T14:45:00+00:00",
       "tickers": [
         "JPM"
       ]
@@ -66,10 +180,28 @@
       ]
     },
     {
+      "title": "Is U.S. Bancorp Stock Outperforming the Dow?",
+      "url": "https://www.barchart.com/story/news/4475148/is-u-s-bancorp-stock-outperforming-the-dow?.tsrc=rss",
+      "source": "barchart.com",
+      "published": "2026-09-07T14:39:42+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
       "title": "Ryanair (RYAAY) Stock: How Strategic Fuel Hedging Creates Competitive Advantage Amid Industry Turbulence",
       "url": "https://blockonomi.com/ryanair-ryaay-stock-how-strategic-fuel-hedging-creates-competitive-advantage-amid-industry-turbulence/",
       "source": "blockonomi.com",
       "published": "2026-09-07T14:11:12+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi backs AstraZeneca sentiment boost after Etcamah wins accelerated FDA approval",
+      "url": "https://www.proactiveinvestors.com/companies/news/1098167/citi-backs-astrazeneca-sentiment-boost-after-etcamah-wins-accelerated-fda-approval-1098167.html?.tsrc=rss",
+      "source": "proactiveinvestors.com",
+      "published": "2026-09-07T14:03:00+00:00",
       "tickers": [
         "C"
       ]
@@ -146,135 +278,6 @@
       "published": "2026-09-07T12:17:19+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Flags Top European Telecom Stocks With Amplified Upside Potential",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-top-european-telecom-stocks-with-amplified-upside-potential-93CH-4890635",
-      "source": "investing.com",
-      "published": "2026-09-07T12:13:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Drops Stark Oil Warning as Crisis Deepens",
-      "url": "https://www.gurufocus.com/news/9069666/goldman-sachs-drops-stark-oil-warning-as-crisis-deepens",
-      "source": "gurufocus.com",
-      "published": "2026-09-07T12:08:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA Sees Clear Winner Between Adobe and Oracle",
-      "url": "https://www.gurufocus.com/news/9069671/bofa-sees-clear-winner-between-adobe-and-oracle",
-      "source": "gurufocus.com",
-      "published": "2026-09-07T12:08:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Projects Crude Oil May Surge to $120 Amid Growing Middle East Maritime Threats",
-      "url": "https://blockonomi.com/goldman-sachs-projects-crude-oil-may-surge-to-120-amid-growing-middle-east-maritime-threats/",
-      "source": "blockonomi.com",
-      "published": "2026-09-07T12:05:56+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits",
-      "url": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger",
-      "source": "coindesk.com",
-      "published": "2026-09-07T12:05:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Americans splurged smarter this summer with micro-vacations and travel stacking",
-      "url": "https://www.foxbusiness.com/economy/americans-splurged-smarter-summer-micro-vacations-travel-stacking",
-      "source": "foxbusiness.com",
-      "published": "2026-09-07T12:00:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Are these 3 Top-Ranked Mutual Funds In Your Retirement Portfolio?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ranked-mutual-funds-120003841.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-07T12:00:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley starts Renk coverage on defense backlog, order potential",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-starts-renk-coverage-on-defense-backlog-order-potential-4890620",
-      "source": "investing.com",
-      "published": "2026-09-07T11:35:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan starts Bytes, Bechtle coverage on limited AI upside",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-starts-bytes-bechtle-coverage-on-limited-ai-upside-4890616",
-      "source": "investing.com",
-      "published": "2026-09-07T11:16:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
-      "url": "https://www.investing.com/analysis/goldman-sachs-warns-oil-could-hit-120-as-shipping-risks-rise-200687233",
-      "source": "investing.com",
-      "published": "2026-09-07T11:08:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Boomer beware: 5 big-ticket buys seniors regret in retirement — and what you can do to avoid making these mistakes",
-      "url": "https://finance.yahoo.com/small-business/articles/boomer-beware-5-big-ticket-110500875.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-07T11:05:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi, DBS test instant U.S.-Singapore payments",
-      "url": "https://crypto.news/citi-dbs-test-instant-u-s-singapore-payments/",
-      "source": "crypto.news",
-      "published": "2026-09-07T10:56:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Admiral upgraded to Overweight at Morgan Stanley as UK motor margins rebuild",
-      "url": "https://www.investing.com/news/stock-market-news/admiral-upgraded-to-overweight-at-morgan-stanley-as-uk-motor-margins-rebuild-4890610",
-      "source": "investing.com",
-      "published": "2026-09-07T10:55:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kirkwood Financial Services Makes New Investment in Wells Fargo & Company $WFC",
-      "url": "https://www.tickerreport.com/banking-finance/13576191/kirkwood-financial-services-makes-new-investment-in-wells-fargo-company-wfc.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-07T10:42:50+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
