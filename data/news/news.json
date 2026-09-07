@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-09-07T15:42:26.857960+00:00",
+  "last_updated": "2026-09-07T19:48:32.454567+00:00",
   "headlines": [
+    {
+      "title": "Citi and DBS Mark 1st Singapore-to-US Weekend Dollar Transaction",
+      "url": "https://www.pymnts.com/news/cross-border-payments/2026/citi-dbs-mark-1st-singapore-united-states-weekend-dollar-transaction/",
+      "source": "pymnts.com",
+      "published": "2026-09-07T18:55:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Apple Faces Its Biggest iPhone Test in Years -- Morgan Stanley Sees $14B Foldable Opportunity",
+      "url": "https://www.gurufocus.com/news/9069724/apple-faces-its-biggest-iphone-test-in-years-morgan-stanley-sees-14b-foldable-opportunity",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T17:48:40+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BofA stays bullish on a cloud titan that is down 25%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-stays-bullish-cloud-titan-163300973.html",
+      "source": "yahoo.com",
+      "published": "2026-09-07T16:33:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-nears-100-as-attacks-on-tankers-threaten-to-worsen-supply-shock/articleshow/133888666.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-07T16:03:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "J.P.Morgan’s Anu Aiyengar on the M&A Spurt and India’s Investment Case | ET WLF 2026",
+      "url": "https://economictimes.indiatimes.com/news/videos/j-p-morgans-anu-aiyengar-on-the-ma-spurt-and-indias-investment-case-et-wlf-2026/videoshow/133887565.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-07T15:27:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "J.P. Morgan, Binance, Coinbase, Robinhood, and Revolut are reshaping the tokenized RWA market",
       "url": "https://cryptobriefing.com/rwa-market-jpmorgan-binance-coinbase-robinhood-revolut/",
@@ -36,6 +82,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Global reinsurance sector expected to remain well capitalised despite softer pricing: S&P",
+      "url": "https://www.reinsurancene.ws/global-reinsurance-sector-expected-to-remain-well-capitalised-despite-softer-pricing-sp/",
+      "source": "reinsurancene.ws",
+      "published": "2026-09-07T13:30:51+00:00",
+      "tickers": [
+        "USB"
       ]
     },
     {
@@ -221,62 +276,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Makes New $39.80 Million Investment in The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13576190/virginia-retirement-systems-et-al-makes-new-39-80-million-investment-in-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-07T10:40:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Acquires Shares of 214,800 The PNC Financial Services Group, Inc $PNC",
-      "url": "https://www.tickerreport.com/banking-finance/13576189/virginia-retirement-systems-et-al-acquires-shares-of-214800-the-pnc-financial-services-group-inc-pnc.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-07T10:40:52+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
-      "url": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-09-07T10:37:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SHEPHERD WEALTH MANAGEMENT Ltd LIABILITY Co Makes New Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-shepherd-wealth-management-ltd-liability-co-makes-new-investment-in-bank-of-america-corporation-bac-2026-09-07/",
-      "source": "marketbeat.com",
-      "published": "2026-09-07T10:24:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs downgrades Schindler on weak growth, China headwinds",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-downgrades-schindler-on-weak-growth-china-headwinds-4890600",
-      "source": "investing.com",
-      "published": "2026-09-07T10:23:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "HORAN Wealth LLC Sells 36,716 Shares of U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-horan-wealth-llc-sells-36716-shares-of-us-bancorp-usb-2026-09-07/",
-      "source": "marketbeat.com",
-      "published": "2026-09-07T10:17:14+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
