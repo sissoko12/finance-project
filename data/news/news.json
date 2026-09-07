@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-09-06T23:42:38.948379+00:00",
+  "last_updated": "2026-09-07T04:12:07.250152+00:00",
   "headlines": [
+    {
+      "title": "Goldman Flags Risk of $120 Oil If Mideast Ship Attacks Intensify",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/goldman-flags-risk-of-120-oil-if-mideast-ship-attacks-intensify",
+      "source": "bloomberg.com",
+      "published": "2026-09-07T02:34:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs raises Asia ex-Japan index target amid tech strength",
+      "url": "https://cryptobriefing.com/goldman-sachs-asia-ex-japan-target-tech/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-07T02:22:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs warns China’s housing overhaul will slash land sale revenues by 30%",
+      "url": "https://cryptobriefing.com/goldman-sachs-china-land-sales-revenue-drop/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-07T02:16:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts EUR/AUD Decline Amid Energy Price Challenges",
+      "url": "https://www.gurufocus.com/news/9069567/goldman-sachs-predicts-euraud-decline-amid-energy-price-challenges",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T01:50:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "China Property Moves to Fuel 30% Hit to Land Sales, Goldman Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/china-property-moves-to-fuel-30-hit-to-land-sales-goldman-says",
+      "source": "bloomberg.com",
+      "published": "2026-09-07T01:44:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Maintains Bullish Target for South Korea's Kospi Index",
+      "url": "https://www.gurufocus.com/news/9069562/goldman-sachs-maintains-bullish-target-for-south-koreas-kospi-index",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T01:30:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Corner Office Conversation: JP Morgan’s Anu Aiyengar on Mega Deals, AI’s Banking Reset & India Bet",
+      "url": "https://economictimes.indiatimes.com/news/corner-office-conversation/corner-office-conversation-jp-morgans-anu-aiyengar-on-mega-deals-ais-banking-reset-india-bet/podcast/133857911.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-07T00:50:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley warns Bathla’s collapse could impact Australian economy",
+      "url": "https://cryptobriefing.com/morgan-stanley-bathla-collapse-economy-warning/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-07T00:44:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs strategist maintains bullish outlook on South Korean stocks",
+      "url": "https://cryptobriefing.com/goldman-sachs-bullish-south-korean-stocks-kospi/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-07T00:25:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Highlights Yen Strength Amid Policy Shifts",
+      "url": "https://www.gurufocus.com/news/9069558/goldman-sachs-highlights-yen-strength-amid-policy-shifts",
+      "source": "gurufocus.com",
+      "published": "2026-09-07T00:22:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Banker in Australia Says Bathla Is ‘Hammer Blow’",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/morgan-stanley-banker-in-australia-says-bathla-is-hammer-blow",
+      "source": "bloomberg.com",
+      "published": "2026-09-07T00:11:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman’s Moe Sees 80% Upside for Korean Stocks on Memory Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/goldman-s-moe-sees-80-upside-for-korean-stocks-on-memory-boom",
+      "source": "bloomberg.com",
+      "published": "2026-09-06T23:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves",
+      "url": "https://www.insidermonkey.com/blog/goldman-sachs-gs-partner-ai-risks-leaving-the-next-generation-of-bankers-unable-to-think-for-themselves-1826649/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-06T22:41:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Iran War Puts New Pressure on Banks to Police Transactions",
       "url": "https://www.pymnts.com/legal/bank-regulation/2026/iran-war-puts-new-pressure-on-banks-to-police-transactions/",
@@ -160,130 +277,6 @@
       "published": "2026-09-06T12:39:09+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Three ways the midterms could move markets - BofA",
-      "url": "https://seekingalpha.com/news/4640509-three-ways-the-midterms-could-move-markets-bofa",
-      "source": "seekingalpha.com",
-      "published": "2026-09-06T12:04:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Schuylkill Financial LLC Invests $1 Million in Citigroup Inc. $C",
-      "url": "https://www.tickerreport.com/banking-finance/13575510/schuylkill-financial-llc-invests-1-million-in-citigroup-inc-c.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T11:04:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Like Jamie Dimon, AT&T CEO says if you attend a meeting, you need to show up prepared—he ‘craves’ people who don’t just sit back and observe",
-      "url": "https://finance.yahoo.com/technology/articles/jamie-dimon-t-ceo-says-105900885.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-06T10:59:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Beacon Financial Corporation (NYSE:BBT) Given Average Recommendation of \"Hold\" by Brokerages",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-beacon-financial-corporation-nyse-bbt-given-average-recommendation-of-hold-by-brokerages-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T10:29:22+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon (NYSE:BNY) Reaches New 1-Year High – Here’s What Happened",
-      "url": "https://www.tickerreport.com/banking-finance/13575457/bank-of-new-york-mellon-nysebny-reaches-new-1-year-high-heres-what-happened.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T10:27:40+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Kintra Wealth LLC Increases Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kintra-wealth-llc-increases-holdings-in-bank-of-america-corporation-bac-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T10:16:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Major US Bank Sued Over Alleged Privacy Violations From Website Tracking Pixels",
-      "url": "https://dailyhodl.com/2026/09/06/major-us-bank-sued-over-alleged-privacy-violations-from-website-tracking-pixels/",
-      "source": "dailyhodl.com",
-      "published": "2026-09-06T10:15:13+00:00",
-      "tickers": [
-        "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "Symphony Financial Ltd. Co. Decreases Stake in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13575391/symphony-financial-ltd-co-decreases-stake-in-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-06T10:09:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Shares Purchased by Nilsine Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-purchased-by-nilsine-partners-llc-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:53:23+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Shares Acquired by Nilsine Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-acquired-by-nilsine-partners-llc-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:53:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS is Northeast Planning Associates INC. NH's 6th Largest Position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-is-northeast-planning-associates-inc-nhs-6th-largest-position-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:53:14+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Saudi Central Bank Grows Stake in U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-grows-stake-in-us-bancorp-usb-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:53:07+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Acquired by Saudi Central Bank",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-acquired-by-saudi-central-bank-2026-09-06/",
-      "source": "marketbeat.com",
-      "published": "2026-09-06T09:53:06+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
