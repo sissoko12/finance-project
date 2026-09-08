@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-09-08T01:04:52.151803+00:00",
+  "last_updated": "2026-09-08T06:27:27.157035+00:00",
   "headlines": [
+    {
+      "title": "From the archive: 2001 | Tulsans escape towers unhurt after 9/11 attacks",
+      "url": "https://tulsaworld.com/news/archives/article_f780f749-0e15-40cf-876c-3fe08b93297b.html",
+      "source": "tulsaworld.com",
+      "published": "2026-09-08T05:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s top picks: Adani Power, Trent, among 10 stocks rated ‘overweight’ by Wall Street giant",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanleys-top-picks-adani-power-trent-among-10-stocks-rated-overweight-by-wall-street-giant/slideshow/133907244.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-08T04:27:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Head-To-Head Contrast: Beacon Financial (BBT) vs. Its Rivals",
+      "url": "https://www.tickerreport.com/banking-finance/13576424/head-to-head-contrast-beacon-financial-bbt-vs-its-rivals.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-08T04:14:55+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Reviewing Beacon Financial (BBT) and The Competition",
+      "url": "https://www.tickerreport.com/banking-finance/13576423/reviewing-beacon-financial-bbt-and-the-competition.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-08T04:14:55+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JP Morgan's Anu Aiyengar on the global deal boom, India oversold, AI and more",
+      "url": "https://economictimes.indiatimes.com/news/videos/jp-morgans-anu-aiyengar-on-the-global-deal-boom-india-oversold-ai-and-more/videoshow/133905775.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-08T03:40:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Oil Price Forecast Adjusted by Goldman Sachs Amid Middle East Shipping Disruptions",
+      "url": "https://www.gurufocus.com/news/9069882/oil-price-forecast-adjusted-by-goldman-sachs-amid-middle-east-shipping-disruptions",
+      "source": "gurufocus.com",
+      "published": "2026-09-08T02:30:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Raises Oil Price Forecasts for 2026 and 2027",
+      "url": "https://www.gurufocus.com/news/9069874/goldman-sachs-raises-oil-price-forecasts-for-2026-and-2027",
+      "source": "gurufocus.com",
+      "published": "2026-09-08T01:50:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PlayStation profits to increase 3% after disc phase out, analyst predicts",
+      "url": "https://www.tweaktown.com/rss/click/news/113441/?c=news-mf",
+      "source": "tweaktown.com",
+      "published": "2026-09-08T00:37:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America estimates $50B rise in T-bill interest costs from Fed rate hikes",
+      "url": "https://cryptobriefing.com/bofa-50b-tbill-interest-costs/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-08T00:30:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "BNY Mellon Global Emerging Markets Fund Q2 2026 Commentary | $DGEAX $DGIEX $DGECX $DGEYX",
       "url": "https://seekingalpha.com/article/4943643-bny-mellon-global-emerging-markets-fund-q2-2026-commentary",
@@ -196,88 +280,6 @@
       "published": "2026-09-07T14:45:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Jamie Dimon and AT&T CEO John Stankey shared 4 tips for crushing your career",
-      "url": "https://www.businessinsider.com/jamie-dimon-john-stankey-career-strategy-advice-ai-work-tech-2026-9",
-      "source": "businessinsider.com",
-      "published": "2026-09-07T14:43:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Is U.S. Bancorp Stock Outperforming the Dow?",
-      "url": "https://www.barchart.com/story/news/4475148/is-u-s-bancorp-stock-outperforming-the-dow?.tsrc=rss",
-      "source": "barchart.com",
-      "published": "2026-09-07T14:39:42+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Ryanair (RYAAY) Stock: How Strategic Fuel Hedging Creates Competitive Advantage Amid Industry Turbulence",
-      "url": "https://blockonomi.com/ryanair-ryaay-stock-how-strategic-fuel-hedging-creates-competitive-advantage-amid-industry-turbulence/",
-      "source": "blockonomi.com",
-      "published": "2026-09-07T14:11:12+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi backs AstraZeneca sentiment boost after Etcamah wins accelerated FDA approval",
-      "url": "https://www.proactiveinvestors.com/companies/news/1098167/citi-backs-astrazeneca-sentiment-boost-after-etcamah-wins-accelerated-fda-approval-1098167.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-09-07T14:03:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America boosts its stake in Abivax",
-      "url": "https://www.marketscreener.com/news/bank-of-america-boosts-its-stake-in-abivax-ce785bdbd18ff624",
-      "source": "marketscreener.com",
-      "published": "2026-09-07T13:32:18+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Global reinsurance sector expected to remain well capitalised despite softer pricing: S&P",
-      "url": "https://www.reinsurancene.ws/global-reinsurance-sector-expected-to-remain-well-capitalised-despite-softer-pricing-sp/",
-      "source": "reinsurancene.ws",
-      "published": "2026-09-07T13:30:51+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman says higher interest rates could dent this real-estate firm",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-says-higher-interest-rates-could-dent-this-realestate-firm-4890652",
-      "source": "investing.com",
-      "published": "2026-09-07T13:10:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Investors Heavily Search Morgan Stanley (MS): Here is What You Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-morgan-stanley-130003740.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-07T13:00:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Says Oil Could Hit $120 as Middle East Risk Builds",
-      "url": "https://www.gurufocus.com/news/9069681/goldman-sachs-says-oil-could-hit-120-as-middle-east-risk-builds",
-      "source": "gurufocus.com",
-      "published": "2026-09-07T12:47:09+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
