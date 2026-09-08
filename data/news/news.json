@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-09-07T22:43:22.659709+00:00",
+  "last_updated": "2026-09-08T01:04:52.151803+00:00",
   "headlines": [
+    {
+      "title": "BNY Mellon Global Emerging Markets Fund Q2 2026 Commentary | $DGEAX $DGIEX $DGECX $DGEYX",
+      "url": "https://seekingalpha.com/article/4943643-bny-mellon-global-emerging-markets-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T00:05:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "DBS and Citi Just Settled a Weekend Cross-Border Payment in Minutes – and the Implications Go Beyond Banking Hours",
+      "url": "https://forkast.news/dbs-and-citi-just-settled-a-weekend-cross-border-payment-in-minutes-and-the-implications-go-beyond-banking-hours/",
+      "source": "forkast.news",
+      "published": "2026-09-07T22:39:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo Just Raised its Bets on These 2 Refining Giants",
+      "url": "https://www.insidermonkey.com/blog/wells-fargo-just-raised-its-bets-on-these-2-refining-giants-1826833/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-07T22:26:36+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Morgan Stanley Just Drew a Sharp Line Between Oracle and Adobe",
       "url": "https://www.gurufocus.com/news/9069770/morgan-stanley-just-drew-a-sharp-line-between-oracle-and-adobe",
@@ -250,35 +278,6 @@
       "published": "2026-09-07T12:47:09+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan puts France’s Legrand on ’Positive Catalyst Watch’",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-frances-legrand-on-positive-catalyst-watch-4890640",
-      "source": "investing.com",
-      "published": "2026-09-07T12:39:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Spain mandates new 20-year green bond syndication, seeks to raise €4 billion",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/spain-mandates-new-20-year-green-bond-syndication-seeks-to-raise-4-billion/articleshow/133881336.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-07T12:30:36+00:00",
-      "tickers": [
-        "JPM",
-        "MS"
-      ]
-    },
-    {
-      "title": "Nordex gains momentum after BofA upgrade",
-      "url": "https://www.marketscreener.com/news/nordex-gains-momentum-after-bofa-upgrade-ce785bdbd188f32c",
-      "source": "marketscreener.com",
-      "published": "2026-09-07T12:17:19+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
