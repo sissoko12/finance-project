@@ -1,282 +1,274 @@
 {
-  "last_updated": "2026-09-08T11:40:25.918701+00:00",
+  "last_updated": "2026-09-08T16:28:32.491333+00:00",
   "headlines": [
     {
-      "title": "The Prodigy Problem - In the fall of 2007, as the American housing market began to ...",
-      "url": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/?utm_source=feed",
-      "source": "theatlantic.com",
-      "published": "2026-09-08T11:00:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Canada Goose Announces Participation in Goldman Sachs 33rd Annual Global Consumer & Retail Conference",
-      "url": "https://www.newspressnow.com/sports/chiefs/canada-goose-announces-participation-in-goldman-sachs-33rd-annual-global-consumer-retail-conference/article_9e6d5182-8ba4-5064-85f4-83ed8e3b0e0b.html",
-      "source": "newspressnow.com",
-      "published": "2026-09-08T11:00:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "U.S. Bank Introduces Private Waterfall Engine to Automate Alternative Fund Calculations",
-      "url": "http://www.businesswire.com/news/home/20260908677534/en/U.S.-Bank-Introduces-Private-Waterfall-Engine-to-Automate-Alternative-Fund-Calculations/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-09-08T11:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Atea Pharmaceuticals to Present at the Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "https://www.globenewswire.com/en/news-release/2026/09/08/3357480/0/en/atea-pharmaceuticals-to-present-at-the-morgan-stanley-24th-annual-global-healthcare-conference.html",
-      "source": "globenewswire.com",
-      "published": "2026-09-08T11:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Beneath the surface, the next market leaders are getting ready to break out, says Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-08T10:56:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Merck to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "https://www.newspressnow.com/sports/chiefs/merck-to-participate-in-the-morgan-stanley-24th-annual-global-healthcare-conference/article_c10ec8b3-5b7b-5078-8ce6-b822cec0b658.html",
-      "source": "newspressnow.com",
-      "published": "2026-09-08T10:47:09+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "M&T Bank stock rating upgraded by Morgan Stanley on NII outlook",
-      "url": "https://www.investing.com/news/analyst-ratings/mt-bank-stock-rating-upgraded-by-morgan-stanley-on-nii-outlook-93CH-4891258",
-      "source": "investing.com",
-      "published": "2026-09-08T10:36:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA reiterates Buy on Apple stock ahead of iPhone 18 launch",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-apple-stock-ahead-of-iphone-18-launch-93CH-4891257",
-      "source": "investing.com",
-      "published": "2026-09-08T10:36:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA raises Abbvie stock price target on Apogee deal close",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-abbvie-stock-price-target-on-apogee-deal-close-93CH-4891254",
-      "source": "investing.com",
-      "published": "2026-09-08T10:36:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs maintains neutral stance amid market shifts",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-maintains-neutral-stance-amid-market-shifts-93CH-4891232",
-      "source": "investing.com",
-      "published": "2026-09-08T10:29:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Epstein 'Jane Doe' Finally Reveals Her Identity After Claiming Late Financier Controlled Her Body, Money and Life",
-      "url": "https://www.ibtimes.co.uk/julia-molchanova-epstein-lawsuit-1818452",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-08T10:24:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "After an 18% summer selloff in chip stocks, Citi asks what comes next",
-      "url": "https://www.investing.com/news/stock-market-news/after-an-18-summer-selloff-in-chip-stocks-citi-asks-what-comes-next-4891224",
-      "source": "investing.com",
-      "published": "2026-09-08T10:24:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs AI chief warns against ruling out open models",
-      "url": "https://cryptobriefing.com/goldman-sachs-ai-open-models/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-08T10:08:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Memory stocks awaken from summer doldrums - Goldman",
-      "url": "https://seekingalpha.com/news/4640658-memory-stocks-awaken-from-summer-doldrums-goldman",
+      "title": "Universal Health Services, Inc. (UHS) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $UHS",
+      "url": "https://seekingalpha.com/article/4943859-universal-health-services-inc-uhs-presents-at-wells-fargo-21st-annual-healthcare-conference",
       "source": "seekingalpha.com",
-      "published": "2026-09-08T10:02:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman sees oil upside capped as Gulf exports run above visible flows",
-      "url": "https://seekingalpha.com/news/4640659-goldman-sees-oil-upside-capped-as-gulf-exports-run-above-visible-flows",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T09:56:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA raises Scorpio Tankers stock price target on strong rates",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-scorpio-tankers-stock-price-target-on-strong-rates-93CH-4891153",
-      "source": "investing.com",
-      "published": "2026-09-08T09:50:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman's Wheeler Says Volume of AI Debt May Pressure Spreads",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-08/volume-of-ai-debt-may-pressure-spreads-goldman-sachs-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-08T09:33:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Standard Chartered (LON:STAN) Price Target Raised to GBX 2,470 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-standard-chartered-lon-stan-price-target-raised-to-gbx-2470-at-jpmorgan-chase-co-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T09:30:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Financials Surge: XLF Breaks Higher from Blue Box Zone",
-      "url": "https://elliottwave-forecast.com/bluebox-wins/financials-surge-xlf-breaks-higher-from-blue-box-zone/",
-      "source": "elliottwave-forecast.com",
-      "published": "2026-09-08T09:12:39+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "U.S. stocks usually stumble after Fed hikes, but these markets tend to climb, says Citi",
-      "url": "https://www.marketwatch.com/story/u-s-stocks-usually-stumble-after-fed-hikes-but-these-markets-tend-to-climb-says-citi-f031ca37?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-08T09:12:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman and Deutsche Bank Turn French Election Into Bond Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/goldman-and-deutsche-bank-turn-french-election-into-bond-trade",
-      "source": "bloomberg.com",
-      "published": "2026-09-08T09:09:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Saudi Central Bank Raises Stake in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-raises-stake-in-state-street-corporation-stt-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T09:05:21+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Goldman Sachs flips on oil-price forecasts and says $120 Brent could be next.",
-      "url": "https://www.marketwatch.com/story/goldman-sachs-reverses-engines-on-oil-price-forecasts-and-raises-the-specter-of-120-per-barrel-crude-d8da110c?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-08T09:02:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Meta stock jumps 4% after Muse Spark 1.3: why BofA still sees 32% upside",
-      "url": "https://invezz.com/news/2026/09/08/meta-stock-muse-spark-1-3-bofa-32-upside/",
-      "source": "invezz.com",
-      "published": "2026-09-08T08:41:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi sees fading investor conviction as global equity flows deteriorate",
-      "url": "https://www.investing.com/news/stock-market-news/citi-sees-fading-investor-conviction-as-global-equity-flows-deteriorate-4890959",
-      "source": "investing.com",
-      "published": "2026-09-08T08:17:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "California State Teachers Retirement System Has $31.77 Billion Stock Position in Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-california-state-teachers-retirement-system-has-3177-billion-stock-position-in-wells-fargo-company-wfc-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T07:30:33+00:00",
+      "published": "2026-09-08T15:45:31+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "California State Teachers Retirement System Increases Stake in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-california-state-teachers-retirement-system-increases-stake-in-bank-of-america-corporation-bac-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T07:30:31+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013651/0000950103-26-013651-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-08T15:36:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HOOD Maintained by Goldman Sachs -- Price Target Raised to $142",
+      "url": "https://www.gurufocus.com/news/9070743/hood-maintained-by-goldman-sachs-price-target-raised-to-142",
+      "source": "gurufocus.com",
+      "published": "2026-09-08T15:33:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SAIC Maintains by Goldman Sachs -- Price Target Raised to $103",
+      "url": "https://www.gurufocus.com/news/9070744/saic-maintains-by-goldman-sachs-price-target-raised-to-103",
+      "source": "gurufocus.com",
+      "published": "2026-09-08T15:33:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JBL Maintained by Goldman Sachs -- Price Target Lowered to $375",
+      "url": "https://www.gurufocus.com/news/9070741/jbl-maintained-by-goldman-sachs-price-target-lowered-to-375",
+      "source": "gurufocus.com",
+      "published": "2026-09-08T15:33:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "IONS Maintained by Goldman Sachs -- Price Target Lowered to $56",
+      "url": "https://www.gurufocus.com/news/9070745/ions-maintained-by-goldman-sachs-price-target-lowered-to-56",
+      "source": "gurufocus.com",
+      "published": "2026-09-08T15:33:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Kyndryl Holdings, Inc. (KD) Presents at Citi's 2026 Global TMT Conference Transcript | $KD",
+      "url": "https://seekingalpha.com/article/4943918-kyndryl-holdings-inc-kd-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T15:25:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Applied Materials, Inc. (AMAT) Presents at Citi's 2026 Global TMT Conference Transcript | $AMAT",
+      "url": "https://seekingalpha.com/article/4943867-applied-materials-inc-amat-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T15:25:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326013649/0000950103-26-013649-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-08T15:16:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Raises Its Oil Price Forecasts for Late 2026 and 2027",
+      "url": "https://www.marketscreener.com/quote/commodity/BRENT-CRUDE-OIL-SPOT-4948/news/BofA-Raises-Its-Oil-Price-Forecasts-for-Late-2026-and-2027-54226995/",
+      "source": "marketscreener.com",
+      "published": "2026-09-08T15:07:33+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "California State Teachers Retirement System Acquires 171,739,810 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-california-state-teachers-retirement-system-acquires-171739810-shares-of-capital-one-financial-corporation-cof-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T07:30:25+00:00",
+      "title": "Goldman expands in Canada via asset management deal with IG",
+      "url": "https://financialpost.com/fp-finance/goldman-expands-canada-asset-management-deal",
+      "source": "financialpost.com",
+      "published": "2026-09-08T15:01:52+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "GS"
       ]
     },
     {
-      "title": "2,876 Shares in JPMorgan Chase & Co. $JPM Bought by Caitong International Asset Management Co. Ltd",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-2876-shares-in-jpmorgan-chase-co-jpm-bought-by-caitong-international-asset-management-co-ltd-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T07:30:22+00:00",
+      "title": "Secretive DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits, Pulling Them Over",
+      "url": "https://news.slashdot.org/story/26/09/08/1458257/secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-pulling-them-over?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "source": "slashdot.org",
+      "published": "2026-09-08T15:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Structured Products B.V. 2026 Interim Financial Statements",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/08/3357924/0/en/j-p-morgan-structured-products-b-v-2026-interim-financial-statements.html",
+      "source": "globenewswire.com",
+      "published": "2026-09-08T15:00:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Apple’s foldable iPhone could add $14 billion: why Wall Street still fears a selloff",
-      "url": "https://invezz.com/news/2026/09/08/apple-foldable-iphone-14-billion-wall-street-selloff-risk/",
-      "source": "invezz.com",
-      "published": "2026-09-08T07:29:00+00:00",
+      "title": "Charles Schwab: Hold For Existing Holders; A Buy For New Money On A Pullback | $IBKR $SCHW",
+      "url": "https://seekingalpha.com/article/4943855-charles-schwab-hold-for-existing-holders-a-buy-for-new-money-on-a-pullback",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T14:59:59+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Harbor Mid Cap Value Fund Trimmed State Street (STT) Following Appreciation",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/harbor-mid-cap-value-fund-145808947.html",
+      "source": "yahoo.com",
+      "published": "2026-09-08T14:58:08+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge",
+      "url": "https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/",
+      "source": "cbsnews.com",
+      "published": "2026-09-08T14:54:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley turns more selective on European chip stocks",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-turns-more-selective-on-european-chip-stocks-4892001",
+      "source": "investing.com",
+      "published": "2026-09-08T14:53:43+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "McKesson Corporation (MCK) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $MCK",
+      "url": "https://seekingalpha.com/article/4943833-mckesson-corporation-mck-presents-at-wells-fargo-21st-annual-healthcare-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T14:45:52+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Mellon Equity Income Fund Q2 2026 Commentary | $DQIAX $DQIYX $DQIRX $DQICX",
+      "url": "https://seekingalpha.com/article/4943872-bny-mellon-equity-income-fund-q2-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T14:30:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "UiPath (PATH) Stock Rebounds as Citi Analyst Spots Buying Opportunity Post-Selloff",
+      "url": "https://blockonomi.com/uipath-path-stock-rebounds-as-citi-analyst-spots-buying-opportunity-post-selloff/",
+      "source": "blockonomi.com",
+      "published": "2026-09-08T14:18:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "M&T Bank upgraded to Buy-equivalent at Morgan Stanley, named Top Pick",
+      "url": "https://seekingalpha.com/news/4640794-mt-bank-upgraded-to-buy-equivalent-at-morgan-stanley-named-top-pick",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T14:14:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "September CPI will decide Fed's next move - Wells Fargo",
+      "url": "https://seekingalpha.com/news/4640787-september-cpi-will-decide-feds-next-move---wells-fargo",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T14:13:19+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Applied Materials Says AI Boom Is Driving Semiconductor Equipment Demand Higher",
+      "url": "https://www.marketbeat.com/instant-alerts/event-applied-materials-says-ai-boom-is-driving-semiconductor-equipment-demand-higher-2026-09-08/",
+      "source": "marketbeat.com",
+      "published": "2026-09-08T14:03:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Banks Offer €2.8 Billion Debt Sale for Nestle Water Buyout",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/banks-offer-2-8-billion-debt-sale-for-nestle-water-buyout",
+      "source": "bloomberg.com",
+      "published": "2026-09-08T14:02:09+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA sticks with its Buy rating for Apple and $380 target",
+      "url": "https://www.ped30.com/2026/09/08/bofa-apple-foldable-walkup/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bofa-apple-foldable-walkup",
+      "source": "ped30.com",
+      "published": "2026-09-08T14:01:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "7 ways I'd redeem the 125,000-mile bonus on the Citi / AAdvantage Executive card",
+      "url": "https://thepointsguy.com/credit-cards/ways-to-use-aadvantage-executive-welcome-bonus/",
+      "source": "thepointsguy.com",
+      "published": "2026-09-08T14:00:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank introduces new campaign featuring San Francisco 49ers running back Christian McCaffrey",
+      "url": "http://www.businesswire.com/news/home/20260908350760/en/U.S.-Bank-introduces-new-campaign-featuring-San-Francisco-49ers-running-back-Christian-McCaffrey/?feedref=JjAwJuNHiystnCoBq_hl-RQLTaQWWm5oFQnjz70pu3jB1XY7Ia_QvRyPB3BquP7h6i8aU6mBhBCITifNTyOAv1ms7ezsDpv-ktIH1aXVMLPlO1Vfa6mRsXjGgHb0bJ8Y",
+      "source": "businesswire.com",
+      "published": "2026-09-08T14:00:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Pfizer Invites Public to Listen to Webcast of Pfizer Discussion at Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20260908074117/en/Pfizer-Invites-Public-to-Listen-to-Webcast-of-Pfizer-Discussion-at-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-bQQCakZDujohEJegUyaJwquReQ0P23MrIoWkrUSV24ZevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxbNWfZlBntHS6jpH5ROLXsTFMkl05DM8ABqeyBleEmzJA==",
+      "source": "businesswire.com",
+      "published": "2026-09-08T14:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America launches second local branch amid rapid Ohio expansion",
+      "url": "https://www.bizjournals.com/dayton/news/2026/09/08/bank-america-branch-daytonmall-expansion-ohio.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-09-08T13:48:12+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     }
   ]
