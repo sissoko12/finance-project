@@ -1,279 +1,250 @@
 {
-  "last_updated": "2026-09-08T19:32:31.725011+00:00",
+  "last_updated": "2026-09-08T22:30:48.532632+00:00",
   "headlines": [
     {
-      "title": "Cisco at Goldman Sachs Communacopia + Technology Conference: AI drives a network boom",
-      "url": "https://www.investing.com/news/transcripts/cisco-at-goldman-sachs-communacopia--technology-conference-ai-drives-a-network-boom-93CH-4892266",
-      "source": "investing.com",
-      "published": "2026-09-08T19:17:00+00:00",
+      "title": "Hewlett Packard Enterprise Company (HPE) Presents at Citi's 2026 Global TMT Conference Transcript | $HPE",
+      "url": "https://seekingalpha.com/article/4944059-hewlett-packard-enterprise-company-hpe-presents-at-citis-2026-global-tmt-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T22:15:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Rapid7, Inc. (RPD) Presents at Citi's 2026 Global TMT Conference Transcript | $RPD",
+      "url": "https://seekingalpha.com/article/4944058-rapid7-inc-rpd-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T22:15:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Cisco Systems, Inc. (CSCO) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $CSCO",
+      "url": "https://seekingalpha.com/article/4944049-cisco-systems-inc-csco-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:55:30+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "SAP at Goldman Sachs Communacopia + Technology Conference: ai drives growth",
-      "url": "https://www.investing.com/news/transcripts/sap-at-goldman-sachs-communacopia--technology-conference-ai-drives-growth-93CH-4892265",
-      "source": "investing.com",
-      "published": "2026-09-08T19:16:29+00:00",
+      "title": "U.S. Bancorp Announces Quarterly Dividends",
+      "url": "http://www.businesswire.com/news/home/20260908218327/en/U.S.-Bancorp-Announces-Quarterly-Dividends/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-09-08T21:55:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Sandisk Corporation (SNDK) Presents at Citi's 2026 Global TMT Conference Transcript | $SNDK",
+      "url": "https://seekingalpha.com/article/4944001-sandisk-corporation-sndk-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:45:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "AvePoint, Inc. (AVPT) Presents at Citi's 2026 Global TMT Conference Transcript | $AVPT",
+      "url": "https://seekingalpha.com/article/4944010-avepoint-inc-avpt-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:45:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Taboola.com Ltd. (TBLA) Presents at Citi's 2026 Global TMT Conference Transcript | $TBLA",
+      "url": "https://seekingalpha.com/article/4944042-taboola-com-ltd-tbla-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:45:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fortinet, Inc. (FTNT) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $FTNT",
+      "url": "https://seekingalpha.com/article/4944044-fortinet-inc-ftnt-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:45:30+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "GoDaddy Inc. (GDDY) Presents at Citi's 2026 Global TMT Conference Transcript | $GDDY",
-      "url": "https://seekingalpha.com/article/4943981-godaddy-inc-gddy-presents-at-citis-2026-global-tmt-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T19:15:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "eBay at Goldman Sachs Communacopia + Technology Conference: growth shift",
-      "url": "https://www.investing.com/news/transcripts/ebay-at-goldman-sachs-communacopia--technology-conference-growth-shift-93CH-4892260",
-      "source": "investing.com",
-      "published": "2026-09-08T19:13:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "TKO Group Holdings, Inc. (TKO) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $TKO",
-      "url": "https://seekingalpha.com/article/4943988-tko-group-holdings-inc-tko-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T19:05:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Stryker Corporation (SYK) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $SYK",
-      "url": "https://seekingalpha.com/article/4944017-stryker-corporation-syk-presents-at-wells-fargo-21st-annual-healthcare-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T19:05:30+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "People Incorporated (PPLI) Presents at Citi's 2026 Global TMT Conference Transcript | $PPLI",
-      "url": "https://seekingalpha.com/article/4943955-people-incorporated-ppli-presents-at-citis-2026-global-tmt-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:55:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Exelixis, Inc. (EXEL) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $EXEL",
-      "url": "https://seekingalpha.com/article/4944012-exelixis-inc-exel-presents-at-wells-fargo-21st-annual-healthcare-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:55:31+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ford Motor Company (F) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $F",
-      "url": "https://seekingalpha.com/article/4943961-ford-motor-company-f-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:45:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BRP (TSE:DOO) Price Target Raised to C$110.00 at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-brp-tse-doo-price-target-raised-to-c11000-at-citigroup-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T18:42:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Cenovus Energy (TSE:CVE) Stock Rating Upgraded by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cenovus-energy-tse-cve-stock-rating-upgraded-by-jpmorgan-chase-co-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T18:42:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "DBS and Citi Complete Weekend Singapore–US Dollar Payment Using Tokenized Deposits",
-      "url": "https://www.crowdfundinsider.com/2026/09/307845-dbs-and-citi-complete-weekend-singapore-us-dollar-payment-using-tokenized-deposits/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-09-08T18:40:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Adds to Investment Bank With Insurance, Healthcare Hires",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/truist-adds-to-investment-bank-with-insurance-healthcare-hires",
-      "source": "bloomberg.com",
-      "published": "2026-09-08T18:38:05+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Weekly Ratings Updates for IREN (IREN)",
-      "url": "https://www.tickerreport.com/banking-finance/13577147/research-analysts-weekly-ratings-updates-for-iren-iren.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-08T18:26:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "United Therapeutics Corporation (UTHR) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $UTHR",
-      "url": "https://seekingalpha.com/article/4943946-united-therapeutics-corporation-uthr-presents-at-wells-fargo-21st-annual-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:25:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CDW Corporation (CDW) Presents at Citi's 2026 Global TMT Conference Transcript | $CDW",
-      "url": "https://seekingalpha.com/article/4943939-cdw-corporation-cdw-presents-at-citis-2026-global-tmt-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:25:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "XPO Maintained by Citigroup -- Price Target Lowered to $220",
-      "url": "https://www.gurufocus.com/news/9070960/xpo-maintained-by-citigroup-price-target-lowered-to-220",
-      "source": "gurufocus.com",
-      "published": "2026-09-08T18:24:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HOG Maintained by Citigroup -- Price Target Raised to $31.00",
-      "url": "https://www.gurufocus.com/news/9070962/hog-maintained-by-citigroup-price-target-raised-to-3100",
-      "source": "gurufocus.com",
-      "published": "2026-09-08T18:24:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Middle East Clashes Again Push Oil Toward $100. Goldman Sachs Raises Forecasts a Path To $120.",
-      "url": "https://www.ibtimes.com/middle-east-clashes-again-push-oil-toward-100-goldman-sachs-raises-forecasts-path-120-3807243",
-      "source": "ibtimes.com",
-      "published": "2026-09-08T18:21:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Increases Valley National Bancorp (NASDAQ:VLY) Price Target to $17.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-increases-valley-national-bancorp-nasdaq-vly-price-target-to-1700-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T18:18:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Arista Networks, Inc. (ANET) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $ANET",
-      "url": "https://seekingalpha.com/article/4943964-arista-networks-inc-anet-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:15:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "QUALCOMM Incorporated (QCOM) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $QCOM",
-      "url": "https://seekingalpha.com/article/4943960-qualcomm-incorporated-qcom-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-08T18:15:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Navitas Semiconductor at Citi’s 2026 Global TMT Conference: pivot to ai power",
-      "url": "https://www.investing.com/news/transcripts/navitas-semiconductor-at-citis-2026-global-tmt-conference-pivot-to-ai-power-93CH-4892203",
-      "source": "investing.com",
-      "published": "2026-09-08T18:07:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AvePoint at Citi’s 2026 Global TMT Conference: ai governance push",
-      "url": "https://www.investing.com/news/transcripts/avepoint-at-citis-2026-global-tmt-conference-ai-governance-push-93CH-4892202",
-      "source": "investing.com",
-      "published": "2026-09-08T18:06:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Nexxen at Citi’s 2026 Global TMT Conference: full-funnel push",
-      "url": "https://www.investing.com/news/transcripts/nexxen-at-citis-2026-global-tmt-conference-fullfunnel-push-93CH-4892200",
-      "source": "investing.com",
-      "published": "2026-09-08T18:05:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "40 Under 40 Citi executive in Tampa shares the leadership lesson that shaped his career",
-      "url": "https://www.bizjournals.com/tampabay/news/2026/09/08/40-u40-cam-henson.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-08T18:04:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Qualcomm Calls Amazon Pact a Landmark Deal, Backs $15B Data-Center Goal",
-      "url": "https://www.marketbeat.com/instant-alerts/event-qualcomm-calls-amazon-pact-a-landmark-deal-backs-15b-data-center-goal-2026-09-08/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T18:02:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi boosts chip sector outlook as semiconductor stocks rally",
-      "url": "https://www.investing.com/news/stock-market-news/citi-boosts-chip-sector-outlook-as-semiconductor-stocks-rally-93CH-4892192",
-      "source": "investing.com",
-      "published": "2026-09-08T17:56:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America expanding Tunnels to Towers partnership, 9/11 memorials ahead of 25th anniversary",
-      "url": "https://nypost.com/2026/09/08/business/bank-of-america-expanding-partnership-with-tunnels-to-towers-9-11-memorials-ahead-of-25th-anniversary/",
-      "source": "nypost.com",
-      "published": "2026-09-08T17:54:24+00:00",
+      "title": "Camden Property Trust Announces Participation in Upcoming Real Estate Conferences and Provides Third Quarter 2026 Operating Update",
+      "url": "http://www.businesswire.com/news/home/20260908175115/en/Camden-Property-Trust-Announces-Participation-in-Upcoming-Real-Estate-Conferences-and-Provides-Third-Quarter-2026-Operating-Update/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-09-08T21:43:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley Eyes Good Things Ahead for Meta After $18 Billion Legal Settlement",
-      "url": "https://www.marketbeat.com/articles/morgan-stanley-eyes-good-things-ahead-for-meta-after-18-billion-legal-settlement/",
-      "source": "marketbeat.com",
-      "published": "2026-09-08T17:50:00+00:00",
+      "title": "Feb 3, 2026; Washington, District of Columbia, USA; New York Knicks forward Dillon Jones (1) attempts a jump shot in front of Washington Wizards guard AJ Johnson (4) and guard Sharife Cooper (13) during the fourth quarter at Capital One Arena. Mandatory C",
+      "url": "https://greensboro.com/image_00c07c46-97df-5e72-94dd-895011c85a9a.html",
+      "source": "greensboro.com",
+      "published": "2026-09-08T21:42:40+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526385384/0001193125-26-385384-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-08T21:28:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426026815/0001918704-26-026815-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-08T21:25:40+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Vertiv Holdings Co (VRT) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $VRT",
+      "url": "https://seekingalpha.com/article/4944026-vertiv-holdings-co-vrt-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:25:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SAP SE (SAP) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $SAP $SAPGF",
+      "url": "https://seekingalpha.com/article/4944048-sap-se-sap-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:25:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.5% - Time to Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-down-15-time-to-sell-2026-09-08/",
+      "source": "marketbeat.com",
+      "published": "2026-09-08T21:20:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "DigitalOcean Holdings, Inc. (DOCN) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $DOCN",
+      "url": "https://seekingalpha.com/article/4943966-digitalocean-holdings-inc-docn-presents-at-goldman-sachs-communacopia-technology-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:15:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "NetApp, Inc. (NTAP) Presents at Citi's 2026 Global TMT Conference Transcript | $NTAP",
+      "url": "https://seekingalpha.com/article/4944033-netapp-inc-ntap-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:15:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Nexxen International Ltd. (NEXN) Presents at Citi's 2026 Global TMT Conference Transcript | $NEXN",
+      "url": "https://seekingalpha.com/article/4944011-nexxen-international-ltd-nexn-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:15:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Iron Mountain Incorporated (IRM) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $IRM",
+      "url": "https://seekingalpha.com/article/4944043-iron-mountain-incorporated-irm-presents-at-goldman-sachs-communacopia-technology-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:15:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Pegasystems Inc. (PEGA) Presents at Citi's 2026 Global TMT Conference Transcript | $PEGA",
+      "url": "https://seekingalpha.com/article/4944029-pegasystems-inc-pega-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:15:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Is Paying $2.25 Billion for the Firm Behind This Bitcoin Income Fund",
+      "url": "https://247wallst.com/investing/etf/2026/09/08/goldman-is-paying-2-25-billion-for-the-firm-behind-this-bitcoin-income-fund/",
+      "source": "247wallst.com",
+      "published": "2026-09-08T21:05:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "News Corporation (NWSA) Presents at Citi's 2026 Global TMT Conference Transcript | $NWSA $NWS $NWSLL",
+      "url": "https://seekingalpha.com/article/4943951-news-corporation-nwsa-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T21:05:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips",
+      "url": "https://www.marketbeat.com/instant-alerts/event-broadcom-ceo-sees-ai-value-flowing-to-frontier-models-and-custom-chips-2026-09-08/",
+      "source": "marketbeat.com",
+      "published": "2026-09-08T21:02:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Super Micro Computer, Inc. (SMCI) Presents at Citi's 2026 Global TMT Conference Transcript | $SMCI $SMCIP",
+      "url": "https://seekingalpha.com/article/4944045-super-micro-computer-inc-smci-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T20:55:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "OUTFRONT Media Inc. (OUT) Presents at Citi's 2026 Global TMT Conference Transcript | $OUT",
+      "url": "https://seekingalpha.com/article/4944067-outfront-media-inc-out-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T20:55:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Navitas Semiconductor Corporation (NVTS) Presents at Citi's 2026 Global TMT Conference Transcript | $NVTS",
+      "url": "https://seekingalpha.com/article/4944032-navitas-semiconductor-corporation-nvts-presents-at-citis-2026-global-tmt-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-08T20:55:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Rocket Lab (RKLB) Stock:Surge as New IMM Apex Solar Cell Targets Space Power Growth",
+      "url": "https://blockonomi.com/rocket-lab-rklb-stocksurge-as-new-imm-apex-solar-cell-targets-space-power-growth/",
+      "source": "blockonomi.com",
+      "published": "2026-09-08T20:52:42+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
