@@ -1,275 +1,282 @@
 {
-  "last_updated": "2026-09-09T19:39:30.014540+00:00",
+  "last_updated": "2026-09-09T22:25:23.889882+00:00",
   "headlines": [
     {
-      "title": "Universal Display Corporation (OLED) Presents at Citi's 2026 Global TMT Conference Transcript | $OLED",
-      "url": "https://seekingalpha.com/article/4944560-universal-display-corporation-oled-presents-at-citis-2026-global-tmt-conference-transcript",
+      "title": "BlackLine, Inc. (BL) Presents at Citi's 2026 Global TMT Conference Transcript | $BL",
+      "url": "https://seekingalpha.com/article/4944658-blackline-inc-bl-presents-at-citis-2026-global-tmt-conference-transcript",
       "source": "seekingalpha.com",
-      "published": "2026-09-09T19:17:26+00:00",
+      "published": "2026-09-09T22:07:04+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Jade Biosciences, Inc. (JBIO) Presents at Citigroup's Biopharma Back to School Summit 2026 Transcript | $JBIO",
-      "url": "https://seekingalpha.com/article/4944618-jade-biosciences-inc-jbio-presents-at-citigroups-biopharma-back-to-school-summit-2026",
+      "title": "TE Connectivity plc (TEL) Presents at Citi's 2026 Global TMT Conference Transcript | $TEL",
+      "url": "https://seekingalpha.com/article/4944666-te-connectivity-plc-tel-presents-at-citis-2026-global-tmt-conference-transcript",
       "source": "seekingalpha.com",
-      "published": "2026-09-09T19:17:06+00:00",
+      "published": "2026-09-09T21:57:17+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Verizon Says Turnaround Is Gaining Speed as Broadband, AI Opportunities Expand",
-      "url": "https://www.marketbeat.com/instant-alerts/event-verizon-says-turnaround-is-gaining-speed-as-broadband-ai-opportunities-expand-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:02:23+00:00",
+      "title": "Exelixis, Inc. (EXEL) Presents at Citigroup's Biopharma Back to School Summit 2026 Transcript | $EXEL",
+      "url": "https://seekingalpha.com/article/4944713-exelixis-inc-exel-presents-at-citigroups-biopharma-back-to-school-summit-2026-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:57:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Dell Technologies Inc. (DELL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $DELL",
+      "url": "https://seekingalpha.com/article/4944683-dell-technologies-inc-dell-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:47:34+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Cuts Commercial Metals (NYSE:CMC) Price Target to $83.00",
-      "url": "https://www.tickerreport.com/banking-finance/13578639/jpmorgan-chase-co-cuts-commercial-metals-nysecmc-price-target-to-83-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-09T19:01:02+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Nucor (NYSE:NUE) Price Target Raised to $308.00",
-      "url": "https://www.tickerreport.com/banking-finance/13578637/nucor-nysenue-price-target-raised-to-308-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-09T19:01:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Reliance (NYSE:RS) Price Target to $390.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-reliance-nyse-rs-price-target-to-39000-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Portland General Electric (NYSE:POR) Price Target Cut to $53.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-portland-general-electric-nyse-por-price-target-cut-to-5300-by-analysts-at-jpmorgan-chase-co-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for OGE Energy (NYSE:OGE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-oge-energy-nyse-oge-stock-price-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NorthWestern (NASDAQ:NWE) Given New $73.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-northwestern-nasdaq-nwe-given-new-7300-price-target-at-jpmorgan-chase-co-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Braze (NASDAQ:BRZE) Price Target Cut to $34.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-braze-nasdaq-brze-price-target-cut-to-3400-by-analysts-at-jpmorgan-chase-co-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Piedmont Realty Trust (NYSE:PDM) Price Target Raised to $11.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-piedmont-realty-trust-nyse-pdm-price-target-raised-to-1100-at-jpmorgan-chase-co-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Steel Dynamics (NASDAQ:STLD) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-steel-dynamics-nasdaq-stld-stock-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Nucor (NYSE:NUE) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-nucor-nyse-nue-stock-price-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Ormat Technologies (NYSE:ORA) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ormat-technologies-nyse-ora-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EPR Properties (NYSE:EPR) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-epr-properties-nyse-epr-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Douglas Emmett (NYSE:DEI) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-douglas-emmett-nyse-dei-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T19:00:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GoDaddy Inc. (GDDY) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $GDDY",
-      "url": "https://seekingalpha.com/article/4944608-godaddy-inc-gddy-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
+      "title": "Cytokinetics, Incorporated (CYTK) Presents at Citigroup's Biopharma Back to School Summit 2026 Transcript | $CYTK",
+      "url": "https://seekingalpha.com/article/4944706-cytokinetics-incorporated-cytk-presents-at-citigroups-biopharma-back-to-school-summit-2026",
       "source": "seekingalpha.com",
-      "published": "2026-09-09T18:57:10+00:00",
+      "published": "2026-09-09T21:47:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Automatic Data Processing, Inc. (ADP) Presents at Citi's 2026 Global TMT Conference Transcript | $ADP",
+      "url": "https://seekingalpha.com/article/4944672-automatic-data-processing-inc-adp-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:47:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Comcast Plunges As CFO Warns Broadband Subscriber Bleeding Won't Stop",
+      "url": "https://awesomecapital.blogspot.com/2026/09/comcast-plunges-as-cfo-warns-broadband.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-09T21:40:54+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Lithium Americas jumps as J.P. Morgan upgrades on improved long-term lithium outlook",
-      "url": "https://seekingalpha.com/news/4641327-lithium-americas-jumps-as-j-p-morgan-upgrades-on-improved-long-term-lithium-outlook",
+      "title": "Lumentum Holdings Inc. (LITE) Presents at Citi's 2026 Global TMT Conference Transcript | $LITE",
+      "url": "https://seekingalpha.com/article/4944644-lumentum-holdings-inc-lite-presents-at-citis-2026-global-tmt-conference-transcript",
       "source": "seekingalpha.com",
-      "published": "2026-09-09T18:55:11+00:00",
+      "published": "2026-09-09T21:37:07+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "NXP Semiconductors N.V. (NXPI) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $NXPI",
-      "url": "https://seekingalpha.com/article/4944585-nxp-semiconductors-n-v-nxpi-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "title": "Insulet Corporation (PODD) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $PODD",
+      "url": "https://seekingalpha.com/article/4944660-insulet-corporation-podd-presents-at-wells-fargo-21st-annual-healthcare-conference-transcript",
       "source": "seekingalpha.com",
-      "published": "2026-09-09T18:47:11+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Tenet Healthcare Corporation (THC) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $THC",
-      "url": "https://seekingalpha.com/article/4944575-tenet-healthcare-corporation-thc-presents-at-wells-fargo-21st-annual-healthcare-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:47:07+00:00",
+      "published": "2026-09-09T21:27:09+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Roper Technologies, Inc. (ROP) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $ROP",
-      "url": "https://seekingalpha.com/article/4944501-roper-technologies-inc-rop-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "title": "T-Mobile US, Inc. (TMUS) Presents at Citi's 2026 Global TMT Conference Transcript | $TMUS",
+      "url": "https://seekingalpha.com/article/4944679-t-mobile-us-inc-tmus-presents-at-citis-2026-global-tmt-conference-transcript",
       "source": "seekingalpha.com",
-      "published": "2026-09-09T18:47:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Asana, Inc. (ASAN) Presents at Citi's 2026 Global TMT Conference Transcript | $ASAN",
-      "url": "https://seekingalpha.com/article/4944463-asana-inc-asan-presents-at-citis-2026-global-tmt-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:47:04+00:00",
+      "published": "2026-09-09T21:27:07+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Boosts Cleveland-Cliffs (NYSE:CLF) Price Target to $13.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-boosts-cleveland-cliffs-nyse-clf-price-target-to-1300-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T18:42:28+00:00",
+      "title": "Seagate Technology Holdings plc (STX) Presents at Citi's 2026 Global TMT Conference Transcript | $STX",
+      "url": "https://seekingalpha.com/article/4944491-seagate-technology-holdings-plc-stx-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:27:06+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SPS Commerce, Inc. (SPSC) Presents at Citi's 2026 Global TMT Conference Transcript | $SPSC",
+      "url": "https://seekingalpha.com/article/4944690-sps-commerce-inc-spsc-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:27:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426027026/0001918704-26-027026-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-09T21:21:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Walmart Inc. (WMT) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $WMT",
+      "url": "https://seekingalpha.com/article/4944647-walmart-inc-wmt-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:17:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Neutron Holdings, Inc. (LIME) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $LIME",
+      "url": "https://seekingalpha.com/article/4944637-neutron-holdings-inc-lime-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:17:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Sinclair, Inc. (SBGI) Presents at Citi's 2026 Global TMT Conference Transcript | $SBGI",
+      "url": "https://seekingalpha.com/article/4944642-sinclair-inc-sbgi-presents-at-citis-2026-global-tmt-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:17:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Merck & Co., Inc. (MRK) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $MRK",
+      "url": "https://seekingalpha.com/article/4944633-merck-and-co-inc-mrk-presents-at-wells-fargo-21st-annual-healthcare-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:17:08+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "AptarGroup, Inc. (ATR) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $ATR",
+      "url": "https://seekingalpha.com/article/4944566-aptargroup-inc-atr-presents-at-wells-fargo-21st-annual-healthcare-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:17:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Nexstar Media Group, Inc. (NXST) Presents at Bank of America 2026 Media,Communications & Entertainment Conference Transcript | $NXST",
+      "url": "https://seekingalpha.com/article/4944507-nexstar-media-group-inc-nxst-presents-at-bank-of-america-2026-media-communications-and",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T21:17:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426027025/0001918704-26-027025-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-09T21:15:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Card - Building a Real-Time Global Network Before Anyone Had the Words ...",
+      "url": "https://dev.to/davidevlops/the-card-a20",
+      "source": "dev.to",
+      "published": "2026-09-09T21:05:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Allegion to Attend 2026 Morgan Stanley Annual Laguna Conference",
+      "url": "http://www.businesswire.com/news/home/20260909332423/en/Allegion-to-Attend-2026-Morgan-Stanley-Annual-Laguna-Conference/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA==",
+      "source": "businesswire.com",
+      "published": "2026-09-09T21:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Sotera Health Company (SHC) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript | $SHC",
+      "url": "https://seekingalpha.com/article/4944607-sotera-health-company-shc-presents-at-wells-fargo-21st-annual-healthcare-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T20:57:10+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lexicon Pharmaceuticals, Inc. (LXRX) Presents at Citigroup's Biopharma Back to School Summit 2026 Transcript | $LXRX",
+      "url": "https://seekingalpha.com/article/4944680-lexicon-pharmaceuticals-inc-lxrx-presents-at-citigroups-biopharma-back-to-school-summit-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T20:57:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Comcast Corporation (CMCSA) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $CMCSA",
+      "url": "https://seekingalpha.com/article/4944518-comcast-corporation-cmcsa-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T20:57:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Walt Disney Company (DIS) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $DIS",
+      "url": "https://seekingalpha.com/article/4944640-the-walt-disney-company-dis-presents-at-goldman-sachs-communacopia-technology-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-09T20:57:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Verizon Waves Off Starlink, Bets On Cities And Old Phone Buildings",
+      "url": "https://stocktwits.com/news-articles/markets/equity/verizon-waves-off-starlink-bets-on-cities-and-old-phone-buildings/cZt7idaRJCG?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-09-09T20:56:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Lithium Americas (LAC) Rises 5.2% After J.P. Morgan Upgrade Amid Strong Lithium Market Outlook",
+      "url": "https://www.gurufocus.com/news/9073422/lithium-americas-lac-rises-52-after-jp-morgan-upgrade-amid-strong-lithium-market-outlook",
+      "source": "gurufocus.com",
+      "published": "2026-09-09T20:55:37+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citigroup Issues Pessimistic Forecast for lululemon athletica (NASDAQ:LULU) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-lululemon-athletica-nasdaq-lulu-stock-price-2026-09-09/",
-      "source": "marketbeat.com",
-      "published": "2026-09-09T18:42:27+00:00",
+      "title": "Glaukos at Wells Fargo conference: launch ramps, reimbursement risks",
+      "url": "https://www.investing.com/news/transcripts/glaukos-at-wells-fargo-conference-launch-ramps-reimbursement-risks-93CH-4894581",
+      "source": "investing.com",
+      "published": "2026-09-09T20:54:32+00:00",
       "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Verizon Communications Inc. (VZ) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript | $VZ",
-      "url": "https://seekingalpha.com/article/4944525-verizon-communications-inc-vz-presents-at-goldman-sachs-communacopia-technology-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:37:26+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Duolingo, Inc. (DUOL) Presents at Citi's 2026 Global TMT Conference Transcript | $DUOL",
-      "url": "https://seekingalpha.com/article/4944578-duolingo-inc-duol-presents-at-citis-2026-global-tmt-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:27:08+00:00",
+      "title": "STMicroelectronics at Citi’s 2026 Global TMT Conference: margin lift ahead",
+      "url": "https://www.investing.com/news/transcripts/stmicroelectronics-at-citis-2026-global-tmt-conference-margin-lift-ahead-93CH-4894576",
+      "source": "investing.com",
+      "published": "2026-09-09T20:49:20+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "BioAge Labs, Inc. (BIOA) Presents at Citigroup's Biopharma Back to School Summit 2026 Transcript | $BIOA",
-      "url": "https://seekingalpha.com/article/4944550-bioage-labs-inc-bioa-presents-at-citigroups-biopharma-back-to-school-summit-2026-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:17:10+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Spyre Therapeutics, Inc. (SYRE) Presents at Citigroup's Biopharma Back to School Summit 2026 Transcript | $SYRE",
-      "url": "https://seekingalpha.com/article/4944572-spyre-therapeutics-inc-syre-presents-at-citigroups-biopharma-back-to-school-summit-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:17:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Verizon Communications Inc. (VZ) Presents at Citi's 2026 Global TMT Conference Transcript | $VZ",
-      "url": "https://seekingalpha.com/article/4944366-verizon-communications-inc-vz-presents-at-citis-2026-global-tmt-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-09T18:17:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Jim Cramer Dismisses Fintech Wave, Backs Morgan Stanley as Quiet Execution Winner",
-      "url": "https://247wallst.com/investing/2026/09/09/jim-cramer-dismisses-fintech-wave-backs-morgan-stanley-as-quiet-execution-winner/",
-      "source": "247wallst.com",
-      "published": "2026-09-09T18:05:42+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
