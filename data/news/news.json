@@ -1,205 +1,284 @@
 {
-  "last_updated": "2026-09-12T16:59:35.682035+00:00",
+  "last_updated": "2026-09-12T19:13:03.907179+00:00",
   "headlines": [
     {
-      "title": "J.P. Morgan initiates Getty Images, Yelp, and Angi Inc. with Underweight rating",
-      "url": "https://seekingalpha.com/news/4642098-jp-morgan-initiates-getty-images-yelp-and-angi-inc-with-underweight-rating",
-      "source": "seekingalpha.com",
-      "published": "2026-09-11T15:53:57+00:00",
+      "title": "Goldman Sachs Flips to a Rate Hike as Bitcoin’s Price Stalls Under $80,000",
+      "url": "https://news.bitcoin.com/crypto-news/goldman-fed-rate-hike-september-bitcoin-golden-cross/",
+      "source": "bitcoin.com",
+      "published": "2026-09-12T18:15:34+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426027248/0001918704-26-027248-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-11T15:34:40+00:00",
+      "title": "Short Interest in Goldman Sachs ActiveBeta Japan Equity ETF (NYSEARCA:GSJY) Expands By 1,074.1%",
+      "url": "https://www.tickerreport.com/banking-finance/13583025/short-interest-in-goldman-sachs-activebeta-japan-equity-etf-nysearcagsjy-expands-by-1074-1.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-12T16:41:06+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226045044/0001839882-26-045044-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-11T15:25:04+00:00",
+      "title": "Bank Stocks To Consider - September 12th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-consider-september-12th-2026-09-12/",
+      "source": "marketbeat.com",
+      "published": "2026-09-12T16:01:57+00:00",
       "tickers": [
-        "WFC",
+        "JPM",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Novo Nordisk Stock Falls as Morgan Stanley Doubts the Offset",
-      "url": "https://www.gurufocus.com/news/9077602/novo-nordisk-stock-falls-as-morgan-stanley-doubts-the-offset",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T15:12:27+00:00",
+      "title": "What happens to your mutual fund units if an AMC shuts down? Franklin Templeton and Morgan Stanley cases offer answers",
+      "url": "https://www.livemint.com/money/personal-finance/what-happens-to-your-mutual-fund-units-if-an-amc-shuts-down-franklin-templeton-and-morgan-stanley-cases-offer-answers-11789150572953.html",
+      "source": "livemint.com",
+      "published": "2026-09-12T15:59:03+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "When Companies Get Bigger, Customers Get Smaller",
-      "url": "https://medium.com/age-of-awareness/when-companies-get-bigger-customers-get-smaller-f4f4380da089?source=rss----e7040e67514c---4",
-      "source": "medium.com",
-      "published": "2026-09-11T15:05:13+00:00",
+      "title": "Energy Driven Inflation Complicates Fed Rate Call",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-12/energy-driven-inflation-complicates-fed-rate-call-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-12T15:11:38+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Dell Technologies: AI Orders Surge as Storage Growth Builds and Supply Tightens",
+      "url": "https://www.marketbeat.com/instant-alerts/event-dell-technologies-ai-orders-surge-as-storage-growth-builds-and-supply-tightens-2026-09-12/",
+      "source": "marketbeat.com",
+      "published": "2026-09-12T15:01:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Shrinks JPMorgan Teams to 5-10 Like Navy SEALs for AI-Driven Productivity Gains",
+      "url": "https://www.webpronews.com/jamie-dimon-shrinks-jpmorgan-teams-to-5-10-like-navy-seals-for-ai-driven-productivity-gains/",
+      "source": "webpronews.com",
+      "published": "2026-09-12T14:52:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley delivers blunt message to America’s pet owners",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
+      "source": "yahoo.com",
+      "published": "2026-09-12T14:37:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "3 High-Yield Dividend Stocks Worth Loading Up On This Month",
+      "url": "https://www.fool.com/investing/2026/09/12/3-high-yield-dividend-stocks-worth-loading-up-on-t/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-12T14:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SailPoint at Goldman Sachs Communacopia + Technology Conference: agentic push",
+      "url": "https://www.investing.com/news/transcripts/sailpoint-at-goldman-sachs-communacopia--technology-conference-agentic-push-93CH-4898660",
+      "source": "investing.com",
+      "published": "2026-09-12T14:14:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Chase’s Dallas Airport Lounge Beats Amex And Capital One—The Food Is Worth Changing Terminals For",
+      "url": "https://viewfromthewing.com/chases-dallas-airport-lounge-beats-amex-and-capital-one-the-food-is-worth-changing-terminals-for/",
+      "source": "viewfromthewing.com",
+      "published": "2026-09-12T14:04:36+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "ATO Downgraded by JP Morgan -- Price Target Lowered to $180",
-      "url": "https://www.gurufocus.com/news/9077749/ato-downgraded-by-jp-morgan-price-target-lowered-to-180",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T15:00:22+00:00",
+      "title": "MiB: Seth Bernstein, Chief Executive Officer of AllianceBernstein",
+      "url": "https://ritholtz.com/2026/09/mib-seth-bernstein/",
+      "source": "ritholtz.com",
+      "published": "2026-09-12T14:00:50+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526388779/0001193125-26-388779-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-11T14:42:44+00:00",
+      "title": "Blue Owl, FactSet in losers; Wells Fargo, CleanSpark in gainers: week's financials wrap",
+      "url": "https://seekingalpha.com/news/4642162-blue-owl-factset-in-losers-wells-fargo-cleanspark-in-gainers-weeks-financials-wrap",
+      "source": "seekingalpha.com",
+      "published": "2026-09-12T14:00:12+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman: Material Upside Risks as Central Bank Buying Grows Again",
+      "url": "https://vblgoldfix.substack.com/p/goldman-material-upside-risks-as",
+      "source": "substack.com",
+      "published": "2026-09-12T13:53:18+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "ANGI Assumes Underweight by JP Morgan",
-      "url": "https://www.gurufocus.com/news/9077724/angi-assumes-underweight-by-jp-morgan",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T14:35:49+00:00",
+      "title": "Morgan Stanley expects yen to decline as traders rebuild carry trades",
+      "url": "https://cryptobriefing.com/morgan-stanley-yen-carry-trade-decline/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-12T13:42:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Jamie Dimon runs JPMorgan’s 300,000 employees—but says it beats rivals by fighting in Navy SEAL-sized teams",
+      "url": "https://fortune.com/article/jamie-dimon-jpmorgan-small-teams-navy-seals-delta-force-social-loafing-ai-workplace-productivity-management-leadership/",
+      "source": "fortune.com",
+      "published": "2026-09-12T13:25:34+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "GETY Assumed by JP Morgan -- Rating Set to Underweight",
-      "url": "https://www.gurufocus.com/news/9077723/gety-assumed-by-jp-morgan-rating-set-to-underweight",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T14:35:28+00:00",
+      "title": "Blacklane car service: How it works and the best ways to save",
+      "url": "https://thepointsguy.com/travel/blacklane-car-service/",
+      "source": "thepointsguy.com",
+      "published": "2026-09-12T13:00:10+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "ZD Assumed by JP Morgan -- Rating Set to Neutral",
-      "url": "https://www.gurufocus.com/news/9077722/zd-assumed-by-jp-morgan-rating-set-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T14:35:10+00:00",
+      "title": "BNY Mellon Strategic Municipal Bond Fund, Inc. (NYSE:DSM) to Issue $0.03 Monthly Dividend",
+      "url": "https://www.marketbeat.com/instant-alerts/dividend-bny-mellon-strategic-municipal-bond-fund-inc-nyse-dsm-to-issue-003-monthly-dividend-2026-09-12/",
+      "source": "marketbeat.com",
+      "published": "2026-09-12T12:50:21+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "BFH Initiates Coverage On Wells Fargo -- Rating Set to Equal-Weight",
-      "url": "https://www.gurufocus.com/news/9077717/bfh-initiates-coverage-on-wells-fargo-rating-set-to-equalweight",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T14:33:30+00:00",
+      "title": "Scammers Drain $20,000 From Texas Woman’s Wells Fargo Account: Report",
+      "url": "https://dailyhodl.com/2026/09/12/scammers-drain-20000-from-texas-womans-wells-fargo-account-report/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-12T12:45:32+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426027225/0001918704-26-027225-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-11T14:33:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "YELP Assumes Underweight by JP Morgan -- Price Target Set at $19.00",
-      "url": "https://www.gurufocus.com/news/9077701/yelp-assumes-underweight-by-jp-morgan-price-target-set-at-1900",
-      "source": "gurufocus.com",
-      "published": "2026-09-11T14:30:20+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bread Financial initiated with Hold equivalent at Wells Fargo",
-      "url": "https://seekingalpha.com/news/4642090-bread-financial-initiated-with-hold-equivalent-at-wells-fargo",
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026) | $WFC $NWG $CAIXY $ARCC $V",
+      "url": "https://seekingalpha.com/article/4944065-5-relatively-secure-and-cheap-dividend-stocks-yields-8-percent-september-2026",
       "source": "seekingalpha.com",
-      "published": "2026-09-11T14:30:04+00:00",
+      "published": "2026-09-12T12:10:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Packaging Corporation of America (NYSE:PKG) Price Target Cut to $260.00 by Analysts at Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13581566/packaging-corporation-of-america-nysepkg-price-target-cut-to-260-00-by-analysts-at-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-11T14:24:45+00:00",
+      "title": "OpenAI’s ChatGPT for Financial Services Takes Aim at Wall Street’s Junior Bankers",
+      "url": "https://www.webpronews.com/openais-chatgpt-for-financial-services-takes-aim-at-wall-streets-junior-bankers/",
+      "source": "webpronews.com",
+      "published": "2026-09-12T12:02:16+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Bank of America Cuts Packaging Corporation of America (NYSE:PKG) Price Target to $260.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-cuts-packaging-corporation-of-america-nyse-pkg-price-target-to-26000-2026-09-11/",
+      "title": "MLPX vs XOP: Which Energy ETF Fits Your Portfolio?",
+      "url": "https://www.fool.com/coverage/etfs/2026/09/12/mlpx-vs-xop-which-energy-etf-fits-your-portfolio/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-12T11:48:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Strategist Mike Wilson Warning Of S&P 500 Correction Within 30 Days",
+      "url": "https://dailyhodl.com/2026/09/12/morgan-stanley-strategist-mike-wilson-warning-of-sp-500-correction-within-30-days/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-12T11:45:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Says Rising Bond Yields Unlikely to Derail Equities as Earnings Momentum Continues",
+      "url": "https://investorshub.advfn.com/market-news/article/36133/jpmorgan-says-rising-bond-yields-unlikely-to-derail-equities-as-earnings-momentum-continues?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-09-12T11:22:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Vertex Pharmaceuticals Highlights Catalyst-Rich Pipeline Beyond Cystic Fibrosis",
+      "url": "https://www.marketbeat.com/instant-alerts/event-vertex-pharmaceuticals-highlights-catalyst-rich-pipeline-beyond-cystic-fibrosis-2026-09-12/",
       "source": "marketbeat.com",
-      "published": "2026-09-11T14:24:30+00:00",
+      "published": "2026-09-12T11:01:59+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi sees Fed delivering \"a dovish hike\" next week",
+      "url": "https://www.investing.com/news/economy-news/citi-sees-fed-delivering-a-dovish-hike-next-week-4898646",
+      "source": "investing.com",
+      "published": "2026-09-12T10:57:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "T-Mobile questions Starlink Mobile launch: can't even get through a Tesla windshield",
+      "url": "https://www.notebookcheck.net/T-Mobile-questions-Starlink-Mobile-launch-can-t-even-get-through-a-Tesla-windshield.1397696.0.html",
+      "source": "notebookcheck.net",
+      "published": "2026-09-12T10:40:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "T-Mobile slams Starlink Mobile strategy: can't even get through a Tesla windshield",
+      "url": "https://www.notebookcheck.net/T-Mobile-slams-Starlink-Mobile-strategy-can-t-even-get-through-a-Tesla-windshield.1397696.0.html",
+      "source": "notebookcheck.net",
+      "published": "2026-09-12T10:40:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Woman Loses $73,000 After Bank of America Fraud-Unit Impersonators Direct Massive Wire Transfer: Report",
+      "url": "https://dailyhodl.com/2026/09/12/woman-loses-73000-after-bank-of-america-fraud-unit-impersonators-direct-massive-wire-transfer-report/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-12T10:15:28+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Issues Pessimistic Forecast for AeroVironment (NASDAQ:AVAV) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-issues-pessimistic-forecast-for-aerovironment-nasdaq-avav-stock-price-2026-09-11/",
+      "title": "The Manufacturers Life Insurance Company Sells 154,903 Shares of Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-sells-154903-shares-of-truist-financial-corporation-tfc-2026-09-12/",
       "source": "marketbeat.com",
-      "published": "2026-09-11T14:24:30+00:00",
+      "published": "2026-09-12T09:13:42+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Issues Pessimistic Forecast for Graphic Packaging (NYSE:GPK) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-issues-pessimistic-forecast-for-graphic-packaging-nyse-gpk-stock-price-2026-09-11/",
-      "source": "marketbeat.com",
-      "published": "2026-09-11T14:24:29+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Raises Clearwater Paper (NYSE:CLW) Price Target to $25.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-raises-clearwater-paper-nyse-clw-price-target-to-2500-2026-09-11/",
-      "source": "marketbeat.com",
-      "published": "2026-09-11T14:24:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "'Blasé markets' are ignoring record diesel prices, BofA warns",
-      "url": "https://seekingalpha.com/news/4642081-blase-markets-are-ignoring-record-diesel-prices-bofa-warns",
-      "source": "seekingalpha.com",
-      "published": "2026-09-11T14:20:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Financial Survey: Bank of America (NYSE:BAC) versus CNB Financial (NASDAQ:CCNE)",
-      "url": "https://www.tickerreport.com/banking-finance/13581547/financial-survey-bank-of-america-nysebac-versus-cnb-financial-nasdaqccne.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-11T14:14:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
+        "C",
+        "TFC"
       ]
     }
   ]
