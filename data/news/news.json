@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-09-12T19:13:03.907179+00:00",
+  "last_updated": "2026-09-12T21:34:45.470377+00:00",
   "headlines": [
+    {
+      "title": "Biogen Sees Pivotal Pipeline Moment as It Expands Beyond Neurology",
+      "url": "https://www.marketbeat.com/instant-alerts/event-biogen-sees-pivotal-pipeline-moment-as-it-expands-beyond-neurology-2026-09-12/",
+      "source": "marketbeat.com",
+      "published": "2026-09-12T21:01:58+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "How Low Can Bitcoin Go? - Peter Brandt, Arthur Hayes, Citi, and NYDIG have all published ...",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/how-low-can-bitcoin-go/",
+      "source": "247wallst.com",
+      "published": "2026-09-12T20:29:56+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference",
+      "url": "https://www.marketbeat.com/instant-alerts/event-zscaler-ceo-highlights-ai-security-surge-zero-trust-momentum-at-citi-conference-2026-09-12/",
+      "source": "marketbeat.com",
+      "published": "2026-09-12T19:01:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Goldman Sachs Flips to a Rate Hike as Bitcoin’s Price Stalls Under $80,000",
       "url": "https://news.bitcoin.com/crypto-news/goldman-fed-rate-hike-september-bitcoin-golden-cross/",
@@ -8,6 +36,16 @@
       "published": "2026-09-12T18:15:34+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Associated Banc (NYSE:ASB) & Beacon Financial (NYSE:BBT) Critical Contrast",
+      "url": "https://www.tickerreport.com/banking-finance/13583066/associated-banc-nyseasb-beacon-financial-nysebbt-critical-contrast.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-12T18:14:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -74,6 +112,15 @@
       "published": "2026-09-12T14:37:00+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "HDFC Bank CEO Race: Nuvama Backs Bharucha Over External Bets",
+      "url": "https://www.ndtvprofit.com/business/hdfc-bank-ceo-race-nuvama-backs-bharucha-over-external-bets-12038000",
+      "source": "ndtvprofit.com",
+      "published": "2026-09-12T14:16:38+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -232,53 +279,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Citi sees Fed delivering \"a dovish hike\" next week",
-      "url": "https://www.investing.com/news/economy-news/citi-sees-fed-delivering-a-dovish-hike-next-week-4898646",
-      "source": "investing.com",
-      "published": "2026-09-12T10:57:57+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "T-Mobile questions Starlink Mobile launch: can't even get through a Tesla windshield",
-      "url": "https://www.notebookcheck.net/T-Mobile-questions-Starlink-Mobile-launch-can-t-even-get-through-a-Tesla-windshield.1397696.0.html",
-      "source": "notebookcheck.net",
-      "published": "2026-09-12T10:40:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "T-Mobile slams Starlink Mobile strategy: can't even get through a Tesla windshield",
-      "url": "https://www.notebookcheck.net/T-Mobile-slams-Starlink-Mobile-strategy-can-t-even-get-through-a-Tesla-windshield.1397696.0.html",
-      "source": "notebookcheck.net",
-      "published": "2026-09-12T10:40:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Woman Loses $73,000 After Bank of America Fraud-Unit Impersonators Direct Massive Wire Transfer: Report",
-      "url": "https://dailyhodl.com/2026/09/12/woman-loses-73000-after-bank-of-america-fraud-unit-impersonators-direct-massive-wire-transfer-report/",
-      "source": "dailyhodl.com",
-      "published": "2026-09-12T10:15:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Manufacturers Life Insurance Company Sells 154,903 Shares of Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-sells-154903-shares-of-truist-financial-corporation-tfc-2026-09-12/",
-      "source": "marketbeat.com",
-      "published": "2026-09-12T09:13:42+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
