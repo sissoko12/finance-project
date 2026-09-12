@@ -1,13 +1,49 @@
 {
-  "last_updated": "2026-09-12T21:34:45.470377+00:00",
+  "last_updated": "2026-09-12T23:53:42.789276+00:00",
   "headlines": [
     {
+      "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
+      "url": "https://www.insidermonkey.com/blog/u-s-bancorp-usbs-dividend-increase-has-more-behind-it-1836855/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-12T22:16:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Closes $1.1B US Industrial Net Lease Fund",
+      "url": "https://finance.yahoo.com/real-estate/articles/j-p-morgan-closes-1-213149032.html",
+      "source": "yahoo.com",
+      "published": "2026-09-12T21:31:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley revamps Oracle stock price target",
+      "url": "https://www.thestreet.com/investing/stocks/orcl-oracle-stock-price-target-morgan-stanley-maintains-equal-weight-after-q1-fiscal-2027-earnings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-12T21:03:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Biogen Sees Pivotal Pipeline Moment as It Expands Beyond Neurology",
-      "url": "https://www.marketbeat.com/instant-alerts/event-biogen-sees-pivotal-pipeline-moment-as-it-expands-beyond-neurology-2026-09-12/",
+      "url": "https://www.marketbeat.com/instant-alerts/event-biogen-sees-pivotal-pipeline-moment-as-it-expands-beyond-neurology-2026-09-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "marketbeat.com",
       "published": "2026-09-12T21:01:58+00:00",
       "tickers": [
         "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi’s Dovish Hike Call Tests a Hawkish Fed as September Decision Looms",
+      "url": "https://www.webpronews.com/citis-dovish-hike-call-tests-a-hawkish-fed-as-september-decision-looms/",
+      "source": "webpronews.com",
+      "published": "2026-09-12T20:32:14+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -89,7 +125,7 @@
     },
     {
       "title": "Dell Technologies: AI Orders Surge as Storage Growth Builds and Supply Tightens",
-      "url": "https://www.marketbeat.com/instant-alerts/event-dell-technologies-ai-orders-surge-as-storage-growth-builds-and-supply-tightens-2026-09-12/",
+      "url": "https://www.marketbeat.com/instant-alerts/event-dell-technologies-ai-orders-surge-as-storage-growth-builds-and-supply-tightens-2026-09-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "marketbeat.com",
       "published": "2026-09-12T15:01:59+00:00",
       "tickers": [
@@ -107,8 +143,8 @@
     },
     {
       "title": "Morgan Stanley delivers blunt message to America’s pet owners",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
-      "source": "yahoo.com",
+      "url": "https://www.thestreet.com/investing/stocks/chwy-chewy-stock-price-target-morgan-stanley-pet-owners-resilient-spending?.tsrc=rss",
+      "source": "thestreet.com",
       "published": "2026-09-12T14:37:00+00:00",
       "tickers": [
         "MS"
@@ -207,6 +243,16 @@
       ]
     },
     {
+      "title": "Goldman Sachs Is Bullish. Here Are 3 Reasons AFRM Stock Could Climb 69%.",
+      "url": "https://www.barchart.com/story/news/4572918/goldman-sachs-is-bullish-here-are-3-reasons-afrm-stock-could-climb-69?.tsrc=rss",
+      "source": "barchart.com",
+      "published": "2026-09-12T13:00:03+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
       "title": "BNY Mellon Strategic Municipal Bond Fund, Inc. (NYSE:DSM) to Issue $0.03 Monthly Dividend",
       "url": "https://www.marketbeat.com/instant-alerts/dividend-bny-mellon-strategic-municipal-bond-fund-inc-nyse-dsm-to-issue-003-monthly-dividend-2026-09-12/",
       "source": "marketbeat.com",
@@ -230,52 +276,6 @@
       "url": "https://seekingalpha.com/article/4944065-5-relatively-secure-and-cheap-dividend-stocks-yields-8-percent-september-2026",
       "source": "seekingalpha.com",
       "published": "2026-09-12T12:10:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "OpenAI’s ChatGPT for Financial Services Takes Aim at Wall Street’s Junior Bankers",
-      "url": "https://www.webpronews.com/openais-chatgpt-for-financial-services-takes-aim-at-wall-streets-junior-bankers/",
-      "source": "webpronews.com",
-      "published": "2026-09-12T12:02:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MLPX vs XOP: Which Energy ETF Fits Your Portfolio?",
-      "url": "https://www.fool.com/coverage/etfs/2026/09/12/mlpx-vs-xop-which-energy-etf-fits-your-portfolio/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-12T11:48:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Strategist Mike Wilson Warning Of S&P 500 Correction Within 30 Days",
-      "url": "https://dailyhodl.com/2026/09/12/morgan-stanley-strategist-mike-wilson-warning-of-sp-500-correction-within-30-days/",
-      "source": "dailyhodl.com",
-      "published": "2026-09-12T11:45:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Says Rising Bond Yields Unlikely to Derail Equities as Earnings Momentum Continues",
-      "url": "https://investorshub.advfn.com/market-news/article/36133/jpmorgan-says-rising-bond-yields-unlikely-to-derail-equities-as-earnings-momentum-continues?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-09-12T11:22:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Vertex Pharmaceuticals Highlights Catalyst-Rich Pipeline Beyond Cystic Fibrosis",
-      "url": "https://www.marketbeat.com/instant-alerts/event-vertex-pharmaceuticals-highlights-catalyst-rich-pipeline-beyond-cystic-fibrosis-2026-09-12/",
-      "source": "marketbeat.com",
-      "published": "2026-09-12T11:01:59+00:00",
       "tickers": [
         "WFC",
         "C"
