@@ -1,6 +1,164 @@
 {
-  "last_updated": "2026-09-13T09:41:39.074793+00:00",
+  "last_updated": "2026-09-13T14:12:54.313832+00:00",
   "headlines": [
+    {
+      "title": "Seagate Sees Storage Demand Outpacing Supply as AI and Cloud Drive HDD Growth",
+      "url": "https://www.marketbeat.com/instant-alerts/event-seagate-sees-storage-demand-outpacing-supply-as-ai-and-cloud-drive-hdd-growth-2026-09-13/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T13:01:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Gives Huge Stock Market Crash Warning in 30 Days",
+      "url": "https://beincrypto.com/morgan-stanley-stock-market-crash-warning/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-09-13T13:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup (C) vs. Its Competitors Financial Survey",
+      "url": "https://www.tickerreport.com/banking-finance/13583704/citigroup-c-vs-its-competitors-financial-survey.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-13T12:45:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman picks China healthcare stocks for a post-AI trade",
+      "url": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
+      "source": "cnbc.com",
+      "published": "2026-09-13T11:54:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America, Goldman Sachs, HSBC and More Raising Brent Oil Price Forecasts Amid Persistent Gulf Shipping Disruptions",
+      "url": "https://dailyhodl.com/2026/09/13/bank-of-america-goldman-sachs-hsbc-and-more-raising-brent-oil-price-forecasts-amid-persistent-gulf-shipping-disruptions/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-13T11:45:26+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "BNY Mellon Strategic Municipal Bond Fund, Inc. (NYSE:DSM) Sees Large Increase in Short Interest",
+      "url": "https://www.marketbeat.com/instant-alerts/options-bny-mellon-strategic-municipal-bond-fund-inc-nyse-dsm-sees-large-increase-in-short-interest-2026-09-13/",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T10:20:32+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Best CD rates today, Sunday, September 13, 2026: Lock in up to 4.35% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-100000271.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-13T10:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Don't Let Your Teen Learn Investing Alone: 7 Ways Parents Can Lead the Way",
+      "url": "https://www.kiplinger.com/investing/how-to-help-teens-learn-to-invest?.tsrc=rss",
+      "source": "kiplinger.com",
+      "published": "2026-09-13T10:00:00+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Uber CEO Says 3,300 Layoffs Will Fund Lower Prices for Customers",
+      "url": "https://www.ghacks.net/2026/09/13/uber-ceo-says-3300-layoffs-will-fund-lower-prices-for-customers/",
+      "source": "ghacks.net",
+      "published": "2026-09-13T09:55:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI",
+      "url": "https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-13T09:20:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "I visited Capital One's lounge at LaGuardia. I loved the free steak and shrimp, but I'll do 1 thing differently next time.",
+      "url": "https://www.businessinsider.com/laguardia-capital-one-landing-airport-lounge-experience-credit-card-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-13T09:15:01+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Datadog Conference: CEO Says AI and Enterprise Growth Are Accelerating",
+      "url": "https://www.marketbeat.com/instant-alerts/event-datadog-conference-ceo-says-ai-and-enterprise-growth-are-accelerating-2026-09-13/",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T09:01:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The 5 market worries investors can’t ignore, according to Citi",
+      "url": "https://www.investing.com/news/stock-market-news/the-5-market-worries-investors-cant-ignore-according-to-citi-4898719",
+      "source": "investing.com",
+      "published": "2026-09-13T08:41:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Invests $1.12 Million in Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-invests-112-million-in-wells-fargo-company-wfc-2026-09-13/",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T08:41:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Tidal Investments LLC Reduces Stock Holdings in State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tidal-investments-llc-reduces-stock-holdings-in-state-street-corporation-stt-2026-09-13/",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T08:25:10+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Integrated Wealth Concepts LLC Sells 39,888 Shares of U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-integrated-wealth-concepts-llc-sells-39888-shares-of-us-bancorp-usb-2026-09-13/",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T08:09:06+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Corient Private Wealth LP Sells 62,908 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-corient-private-wealth-lp-sells-62908-shares-of-citigroup-inc-c-2026-09-13/",
+      "source": "marketbeat.com",
+      "published": "2026-09-13T08:08:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Ameritas Advisory Services LLC Sells 6,026 Shares of Capital One Financial Corporation $COF",
       "url": "https://www.marketbeat.com/instant-alerts/filing-ameritas-advisory-services-llc-sells-6026-shares-of-capital-one-financial-corporation-cof-2026-09-13/",
@@ -13,9 +171,9 @@
     },
     {
       "title": "Better Artificial Intelligence ETF: Roundhill's CHAT vs. State Street's XLK",
-      "url": "https://www.fool.com/coverage/etfs/2026/09/13/better-artificial-intelligence-etf-roundhill-s-chat-vs-state-street-s-xlk/",
+      "url": "https://www.fool.com/coverage/etfs/2026/09/13/better-artificial-intelligence-etf-roundhill-s-chat-vs-state-street-s-xlk/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-09-13T06:37:28+00:00",
+      "published": "2026-09-13T06:17:28+00:00",
       "tickers": [
         "STT"
       ]
@@ -76,6 +234,16 @@
       ]
     },
     {
+      "title": "Jio Financial says BoFA's Rs 18k cr to come by Dec; Jio Credit's product plans, strategy to be redrawn",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/jio-financial-says-bofas-rs-18k-cr-to-come-by-dec-jio-credits-product-plans-strategy-to-be-redrawn/articleshow/134189986.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-13T03:33:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "STMicroelectronics Sees AI Data-Center Revenue Surging Past $2 Billion in 2027",
       "url": "https://www.marketbeat.com/instant-alerts/event-stmicroelectronics-sees-ai-data-center-revenue-surging-past-2-billion-in-2027-2026-09-12/",
       "source": "marketbeat.com",
@@ -104,180 +272,13 @@
       ]
     },
     {
-      "title": "Merrill, Tatis homer and Miller gets save as Padres fend off Giants 7-6",
-      "url": "https://www.bozemandailychronicle.com/wire/sports/merrill-tatis-homer-and-miller-gets-save-as-padres-fend-off-giants-7-6/article_bc2a9fcf-46c3-56a2-9ab7-cc88a1845af2.html",
-      "source": "bozemandailychronicle.com",
-      "published": "2026-09-12T23:44:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Exclusive: Frank Bisignano Recalls 9/11 at Citigroup as 'a Different Type of First Responder'",
-      "url": "https://www.breitbart.com/radio/2026/09/12/frank-bisignano-recalls-9-11-citigroup-different-first-responder/",
-      "source": "breitbart.com",
-      "published": "2026-09-12T23:05:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "url": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "source": "investing.com",
-      "published": "2026-09-12T22:52:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
-      "source": "yahoo.com",
-      "published": "2026-09-12T22:16:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Closes $1.1B US Industrial Net Lease Fund",
-      "url": "https://finance.yahoo.com/real-estate/articles/j-p-morgan-closes-1-213149032.html",
-      "source": "yahoo.com",
-      "published": "2026-09-12T21:31:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley revamps Oracle stock price target",
-      "url": "https://www.thestreet.com/investing/stocks/orcl-oracle-stock-price-target-morgan-stanley-maintains-equal-weight-after-q1-fiscal-2027-earnings?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-12T21:03:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Biogen Sees Pivotal Pipeline Moment as It Expands Beyond Neurology",
-      "url": "https://www.marketbeat.com/instant-alerts/event-biogen-sees-pivotal-pipeline-moment-as-it-expands-beyond-neurology-2026-09-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "marketbeat.com",
-      "published": "2026-09-12T21:01:58+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi’s Dovish Hike Call Tests a Hawkish Fed as September Decision Looms",
-      "url": "https://www.webpronews.com/citis-dovish-hike-call-tests-a-hawkish-fed-as-september-decision-looms/",
-      "source": "webpronews.com",
-      "published": "2026-09-12T20:32:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "How Low Can Bitcoin Go? - Peter Brandt, Arthur Hayes, Citi, and NYDIG have all published ...",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/how-low-can-bitcoin-go/",
-      "source": "247wallst.com",
-      "published": "2026-09-12T20:29:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference",
-      "url": "https://www.marketbeat.com/instant-alerts/event-zscaler-ceo-highlights-ai-security-surge-zero-trust-momentum-at-citi-conference-2026-09-12/",
-      "source": "marketbeat.com",
-      "published": "2026-09-12T19:01:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Flips to a Rate Hike as Bitcoin’s Price Stalls Under $80,000",
-      "url": "https://news.bitcoin.com/crypto-news/goldman-fed-rate-hike-september-bitcoin-golden-cross/",
-      "source": "bitcoin.com",
-      "published": "2026-09-12T18:15:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Associated Banc (NYSE:ASB) & Beacon Financial (NYSE:BBT) Critical Contrast",
-      "url": "https://www.tickerreport.com/banking-finance/13583066/associated-banc-nyseasb-beacon-financial-nysebbt-critical-contrast.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-12T18:14:51+00:00",
+      "title": "Nike Price Forecast: Can NKE Recover After Becoming the Dow’s Worst Stock?",
+      "url": "https://beincrypto.com/nike-price-prediction-dow-worst-stock/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-09-12T23:53:11+00:00",
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Short Interest in Goldman Sachs ActiveBeta Japan Equity ETF (NYSEARCA:GSJY) Expands By 1,074.1%",
-      "url": "https://www.tickerreport.com/banking-finance/13583025/short-interest-in-goldman-sachs-activebeta-japan-equity-etf-nysearcagsjy-expands-by-1074-1.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-12T16:41:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Consider - September 12th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-consider-september-12th-2026-09-12/",
-      "source": "marketbeat.com",
-      "published": "2026-09-12T16:01:57+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "What happens to your mutual fund units if an AMC shuts down? Franklin Templeton and Morgan Stanley cases offer answers",
-      "url": "https://www.livemint.com/money/personal-finance/what-happens-to-your-mutual-fund-units-if-an-amc-shuts-down-franklin-templeton-and-morgan-stanley-cases-offer-answers-11789150572953.html",
-      "source": "livemint.com",
-      "published": "2026-09-12T15:59:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Energy Driven Inflation Complicates Fed Rate Call",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-12/energy-driven-inflation-complicates-fed-rate-call-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-12T15:11:38+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Dell Technologies: AI Orders Surge as Storage Growth Builds and Supply Tightens",
-      "url": "https://www.marketbeat.com/instant-alerts/event-dell-technologies-ai-orders-surge-as-storage-growth-builds-and-supply-tightens-2026-09-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "marketbeat.com",
-      "published": "2026-09-12T15:01:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Shrinks JPMorgan Teams to 5-10 Like Navy SEALs for AI-Driven Productivity Gains",
-      "url": "https://www.webpronews.com/jamie-dimon-shrinks-jpmorgan-teams-to-5-10-like-navy-seals-for-ai-driven-productivity-gains/",
-      "source": "webpronews.com",
-      "published": "2026-09-12T14:52:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley delivers blunt message to America’s pet owners",
-      "url": "https://www.thestreet.com/investing/stocks/chwy-chewy-stock-price-target-morgan-stanley-pet-owners-resilient-spending?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-12T14:37:00+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
