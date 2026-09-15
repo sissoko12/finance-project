@@ -1,279 +1,289 @@
 {
-  "last_updated": "2026-09-15T06:35:47.716306+00:00",
+  "last_updated": "2026-09-15T12:35:32.728937+00:00",
   "headlines": [
     {
-      "title": "Goldman, Templeton, Fidelity Said to Plan Buying Into NSE IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-15/goldman-templeton-fidelity-said-to-plan-buying-into-nse-ipo",
-      "source": "bloomberg.com",
-      "published": "2026-09-15T05:11:29+00:00",
+      "title": "Wells Fargo Series DD Vs. AA Pfds, With The Latter A Buy | $WFC",
+      "url": "https://seekingalpha.com/article/4946175-wells-fargo-series-dd-vs-aa-pfds-with-the-latter-a-buy",
+      "source": "seekingalpha.com",
+      "published": "2026-09-15T12:00:00+00:00",
       "tickers": [
-        "GS"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "Asian banks fall after BofA warns of weaker trading, dealmaking revenue",
-      "url": "https://www.investing.com/news/stock-market-news/asian-banks-fall-after-bofa-warns-of-weaker-trading-dealmaking-revenue-4900773",
-      "source": "investing.com",
-      "published": "2026-09-15T04:48:24+00:00",
+      "title": "Goldman, JPMorgan, BofA, Morgan Stanley and More Expect a Fed Hike Tomorrow",
+      "url": "https://news.bitcoin.com/featured/fed-rate-hike-banks-morgan-stanley-bitcoin-price/",
+      "source": "bitcoin.com",
+      "published": "2026-09-15T11:30:57+00:00",
       "tickers": [
+        "JPM",
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA flags weak Q3 investment banking fees: one-off warning or sectoral alarm?",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-flags-weak-q3-investment-banking-fees-oneoff-warning-or-sectoral-alarm-93CH-4900770",
-      "source": "investing.com",
-      "published": "2026-09-15T04:26:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Immunocore Holdings plc (IMCR) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $IMCR",
-      "url": "https://seekingalpha.com/article/4946193-immunocore-holdings-plc-imcr-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T04:02:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Biogen Eyes Wave of Phase III Readouts as It Expands Beyond Neuroscience",
-      "url": "https://www.marketbeat.com/instant-alerts/event-biogen-eyes-wave-of-phase-iii-readouts-as-it-expands-beyond-neuroscience-2026-09-14/",
-      "source": "marketbeat.com",
-      "published": "2026-09-15T04:02:05+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "COPT Defense Properties (CDP) Presents at BofA NY Global Real Estate Conference 2026 - Slideshow | $CDP",
-      "url": "https://seekingalpha.com/article/4946292-copt-defense-properties-cdp-presents-at-bofa-ny-global-real-estate-conference-2026-slideshow",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T03:31:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Viking Therapeutics Advances VK2735 Obesity Drug Into Phase 3 After 15% Weight Loss",
-      "url": "https://www.marketbeat.com/instant-alerts/event-viking-therapeutics-advances-vk2735-obesity-drug-into-phase-3-after-15-weight-loss-2026-09-14/",
-      "source": "marketbeat.com",
-      "published": "2026-09-15T03:01:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Abbey Mastracco: Pete Alonso’s emotional Citi Field return proves Mets made wrong move",
-      "url": "https://thebrunswicknews.com/sports/national_sports/abbey-mastracco-pete-alonso-s-emotional-citi-field-return-proves-mets-made-wrong-move/article_e1b7fb2a-877f-5c8f-a9b9-6072bc8d44e1.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-09-15T02:55:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "INTELLIA THERAPEUTICS, INC. at Morgan Stanley Global Healthcare Conference Transcript",
-      "url": "https://www.gurufocus.com/news/9080553/intellia-therapeutics-inc-at-morgan-stanley-global-healthcare-conference-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-09-15T02:32:06+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kyverna Therapeutics, Inc. (KYTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $KYTX",
-      "url": "https://seekingalpha.com/article/4946232-kyverna-therapeutics-inc-kytx-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T02:31:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Alonso hitless in return to Queens but Henderson's homer eliminates Mets as Orioles win 2-1",
-      "url": "https://www.wdtimes.com/sports/national_sports/alonso-hitless-in-return-to-queens-but-hendersons-homer-eliminates-mets-as-orioles-win-2/article_b4cd8a8a-d342-5f8b-8c30-1daaf8bc29e4.html",
-      "source": "wdtimes.com",
-      "published": "2026-09-15T02:30:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Regeneron Highlights Dupixent Growth, Cemdisiran Catalysts and EYLEA HD Momentum",
-      "url": "https://www.marketbeat.com/instant-alerts/event-regeneron-highlights-dupixent-growth-cemdisiran-catalysts-and-eylea-hd-momentum-2026-09-14/",
-      "source": "marketbeat.com",
-      "published": "2026-09-15T02:02:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation (BAC) Presents at Barclays 24th Annual Global Financial Services Conference Transcript | $BAC $BACRP",
-      "url": "https://seekingalpha.com/article/4946170-bank-of-america-corporation-bac-presents-at-barclays-24th-annual-global-financial-services",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T02:01:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "4D Molecular Therapeutics, Inc. (FDMT) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $FDMT",
-      "url": "https://seekingalpha.com/article/4946254-4d-molecular-therapeutics-inc-fdmt-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T02:01:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. at Barclays Global Financial Services Conference Transcript",
-      "url": "https://www.gurufocus.com/news/9080525/citigroup-inc-at-barclays-global-financial-services-conference-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-09-15T02:00:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Moelis Adds Greg Guest as Managing Director in Private Capital Advisory",
-      "url": "https://peprofessional.com/2026/09/moelis-adds-greg-guest-as-managing-director-in-private-capital-advisory/",
-      "source": "peprofessional.com",
-      "published": "2026-09-15T01:54:50+00:00",
-      "tickers": [
+        "WFC",
         "C",
-        "COF"
+        "GS",
+        "MS"
       ]
     },
     {
-      "title": "Zenas BioPharma, Inc. (ZBIO) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $ZBIO",
-      "url": "https://seekingalpha.com/article/4946235-zenas-biopharma-inc-zbio-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
+      "title": "Morgan Stanley Direct Lending: 0.75x P/NAV, 12% Yield Not Enough To Pull The Trigger | $MS $CSWC $TRIN $ARCC $MSDL",
+      "url": "https://seekingalpha.com/article/4946176-morgan-stanley-direct-lending-0-75x-pnav-12-percent-yield-not-enough-to-pull-the-trigger",
       "source": "seekingalpha.com",
-      "published": "2026-09-15T01:01:54+00:00",
+      "published": "2026-09-15T11:15:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Goldman Sachs Pays $154M For Davie Apartments: The South Florida Deal Sheet",
-      "url": "https://www.bisnow.com/news/south-florida/deal-sheet/goldman-sachs-pays-154m-davie-apartments-south-florida-deal-sheet",
-      "source": "bisnow.com",
-      "published": "2026-09-15T00:51:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Pete Alonso steps up to the plate for his first at-bat as an opposing player at Citi Field!",
-      "url": "https://www.youtube.com/shorts/NQSZ6qoxI9Y",
-      "source": "youtube.com",
-      "published": "2026-09-15T00:48:48+00:00",
+      "title": "Citi Raises Price Target for Acumen Pharmaceuticals (ABOS) to $5 Amid Phase 2 Catalyst Watch",
+      "url": "https://www.gurufocus.com/news/9081396/citi-raises-price-target-for-acumen-pharmaceuticals-abos-to-5-amid-phase-2-catalyst-watch",
+      "source": "gurufocus.com",
+      "published": "2026-09-15T11:11:59+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Paymentus Scales Bill Payment Platform Across Additional Sectors",
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/paymentus-scales-bill-payment-platform-across-additional-sectors/",
-      "source": "pymnts.com",
-      "published": "2026-09-15T00:41:42+00:00",
+      "title": "“Blinked and Seven Years Went By”: Baltimore’s Pete Alonso Reflects on Tribute Video at Mets Game",
+      "url": "https://www.essentiallysports.com/mlb-baseball-news-blinked-and-seven-years-went-by-baltimores-pete-alonso-reflects-on-tribute-video-at-mets-game/",
+      "source": "essentiallysports.com",
+      "published": "2026-09-15T11:00:00+00:00",
       "tickers": [
-        "GS"
+        "C"
       ]
     },
     {
-      "title": "Sana Biotechnology, Inc. (SANA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $SANA",
-      "url": "https://seekingalpha.com/article/4946244-sana-biotechnology-inc-sana-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T00:41:37+00:00",
+      "title": "BofA’s Hartnett says investor bullishness is fading as cash levels rise",
+      "url": "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-investor-bullishness-is-fading-as-cash-levels-rise-4901253",
+      "source": "investing.com",
+      "published": "2026-09-15T10:45:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Says the Market Is Due for a Drop. Half of Bear-Market Warning Signs Are Flashing.",
+      "url": "https://www.ibtimes.com/bank-america-says-market-due-drop-half-bear-market-warning-signs-are-flashing-3807432",
+      "source": "ibtimes.com",
+      "published": "2026-09-15T10:44:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+      "url": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-09-15T10:37:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Reiterates Buy Rating for Apple (NASDAQ:AAPL)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-reiterates-buy-rating-for-apple-nasdaq-aapl-2026-09-14/",
+      "title": "Wells Fargo downgrades US technology sector to equal weight",
+      "url": "https://cryptobriefing.com/wells-fargo-downgrades-us-tech-sector-equal-weight/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-15T10:30:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Raises Lloyds Banking Group (LON:LLOY) Price Target to GBX 123",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-raises-lloyds-banking-group-lon-lloy-price-target-to-gbx-123-2026-09-15/",
       "source": "marketbeat.com",
-      "published": "2026-09-15T00:36:29+00:00",
+      "published": "2026-09-15T10:24:40+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Insmed Incorporated (INSM) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $INSM",
-      "url": "https://seekingalpha.com/article/4946194-insmed-incorporated-insm-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
+      "title": "JPMorgan Chase & Co. Cuts GlobalData (LON:DATA) Price Target to GBX 90",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-cuts-globaldata-lon-data-price-target-to-gbx-90-2026-09-15/",
+      "source": "marketbeat.com",
+      "published": "2026-09-15T10:24:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Raises Barclays (LON:BARC) Price Target to GBX 620",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-raises-barclays-lon-barc-price-target-to-gbx-620-2026-09-15/",
+      "source": "marketbeat.com",
+      "published": "2026-09-15T10:24:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley: The Franchise Is Strong, The Valuation Leaves Little Upside | $MS",
+      "url": "https://seekingalpha.com/article/4946376-morgan-stanley-the-franchise-is-strong-the-valuation-leaves-little-upside",
       "source": "seekingalpha.com",
-      "published": "2026-09-15T00:31:40+00:00",
+      "published": "2026-09-15T10:18:44+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Regeneron Pharmaceuticals, Inc. (REGN) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $REGN",
-      "url": "https://seekingalpha.com/article/4946169-regeneron-pharmaceuticals-inc-regn-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T00:31:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Zentalis Pharmaceuticals, Inc. (ZNTL) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $ZNTL",
-      "url": "https://seekingalpha.com/article/4946201-zentalis-pharmaceuticals-inc-zntl-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T00:11:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Fractyl Health, Inc. (GUTS) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $GUTS",
-      "url": "https://seekingalpha.com/article/4946255-fractyl-health-inc-guts-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T00:01:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CG Oncology, Inc. (CGON) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $CGON",
-      "url": "https://seekingalpha.com/article/4946242-cg-oncology-inc-cgon-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-15T00:01:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SWIFT Initiates Blockchain Ledger Trials with Citi and MUFG for 24-Hour Payments",
-      "url": "https://robottoday.com/industry-briefing/swift-initiates-blockchain-ledger-trials-with-citi-and-mufg-for-24-hour-payments/12968",
-      "source": "robottoday.com",
-      "published": "2026-09-15T00:00:00+00:00",
+      "title": "US called on to unfreeze $43–44M in Belarusian Citibank funds amid diplomatic talks",
+      "url": "https://cryptobriefing.com/us-banks-unfreeze-belarus-frozen-assets/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-15T10:09:26+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Mastercard CFO Outlines Growth Strategy Driven by Stablecoins and Value-Added Services",
-      "url": "https://www.pymnts.com/mastercard/2026/mastercard-cfo-outlines-growth-strategy-driven-by-stablecoins-and-value-added-services/",
-      "source": "pymnts.com",
-      "published": "2026-09-14T23:53:37+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426027534/0001918704-26-027534-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-15T10:05:22+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi says AI labs push pacing to shape regulation before crisis",
+      "url": "https://www.investing.com/news/stock-market-news/citi-says-ai-labs-push-pacing-to-shape-regulation-before-crisis-93CH-4901125",
+      "source": "investing.com",
+      "published": "2026-09-15T10:02:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi cuts gold exposure on hawkish Fed outlook",
+      "url": "https://www.investing.com/news/stock-market-news/citi-cuts-gold-exposure-on-hawkish-fed-outlook-93CH-4901115",
+      "source": "investing.com",
+      "published": "2026-09-15T10:01:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "UK Interest Rate Predictions Adjusted by Goldman Sachs and Citigroup",
+      "url": "https://www.gurufocus.com/news/9081302/uk-interest-rate-predictions-adjusted-by-goldman-sachs-and-citigroup",
+      "source": "gurufocus.com",
+      "published": "2026-09-15T09:50:55+00:00",
+      "tickers": [
+        "C",
         "GS"
       ]
     },
     {
-      "title": "United Therapeutics Corporation (UTHR) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $UTHR",
-      "url": "https://seekingalpha.com/article/4946245-united-therapeutics-corporation-uthr-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-14T23:41:56+00:00",
+      "title": "BASF mandates investment banks for planned IPO of Agricultural Solutions",
+      "url": "https://business-review.eu/money/stock-exchange/basf-mandates-investment-banks-for-planned-ipo-of-agricultural-solutions-300456",
+      "source": "business-review.eu",
+      "published": "2026-09-15T09:43:43+00:00",
+      "tickers": [
+        "JPM",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Global Market: Morgan Stanley turns hawkish, sees two Fed rate hikes in 2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-morgan-stanley-turns-hawkish-sees-two-fed-rate-hikes-in-2026/articleshow/134257695.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-15T09:34:32+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Zevra Therapeutics, Inc. (ZVRA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $ZVRA",
+      "url": "https://seekingalpha.com/article/4946250-zevra-therapeutics-inc-zvra-presents-at-morgan-stanley-24th-annual-global-healthcare",
+      "source": "seekingalpha.com",
+      "published": "2026-09-15T09:31:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Crescent Biopharma, Inc. (CBIO) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript | $CBIO",
+      "url": "https://seekingalpha.com/article/4946251-crescent-biopharma-inc-cbio-presents-at-morgan-stanley-24th-annual-global-healthcare",
+      "source": "seekingalpha.com",
+      "published": "2026-09-15T09:11:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi warns Tokyo Electron stock faces risk from Kioxia listing",
+      "url": "https://www.investing.com/news/stock-market-news/citi-warns-tokyo-electron-stock-faces-risk-from-kioxia-listing-93CH-4901009",
+      "source": "investing.com",
+      "published": "2026-09-15T09:10:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+      "url": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-09-15T09:05:00+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Starts Heavily Accumulating Bitcoin (BTC)",
+      "url": "https://watcher.guru/news/morgan-stanley-starts-heavily-accumulating-bitcoin-btc",
+      "source": "watcher.guru",
+      "published": "2026-09-15T09:05:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BofA Says Risk of Disorderly Bond Move Trims Excess Bullishness",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/bofa-says-risk-of-disorderly-bond-move-trims-excess-bullishness",
+      "source": "bloomberg.com",
+      "published": "2026-09-15T09:02:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Flags $150 Oil Risk as Saudi Pipeline Looms",
+      "url": "https://nai500.com/blog/2026/09/bofa-flags-150-oil-risk-as-saudi-pipeline-looms/",
+      "source": "nai500.com",
+      "published": "2026-09-15T08:55:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Markets are braced for one Fed hike: Morgan Stanley is looking much further ahead",
+      "url": "https://invezz.com/news/2026/09/15/markets-are-braced-for-one-fed-hike-morgan-stanley-is-looking-much-further-ahead/",
+      "source": "invezz.com",
+      "published": "2026-09-15T08:10:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move",
+      "url": "https://www.investing.com/news/economy-news/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-and-ecb-move-4900912",
+      "source": "investing.com",
+      "published": "2026-09-15T07:42:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Crescent Grove Advisors LLC Cuts Stock Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-crescent-grove-advisors-llc-cuts-stock-position-in-jpmorgan-chase-co-jpm-2026-09-15/",
+      "source": "marketbeat.com",
+      "published": "2026-09-15T07:29:30+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
