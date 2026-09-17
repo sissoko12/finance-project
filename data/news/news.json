@@ -1,284 +1,287 @@
 {
-  "last_updated": "2026-09-17T10:20:15.128768+00:00",
+  "last_updated": "2026-09-17T15:15:41.640095+00:00",
   "headlines": [
     {
-      "title": "Eaton Sees Best Years Ahead as Data Center Demand Powers Growth",
-      "url": "https://www.marketbeat.com/instant-alerts/event-eaton-sees-best-years-ahead-as-data-center-demand-powers-growth-2026-09-17/",
+      "title": "Analyst recommendations: ExxonMobil, Blackstone, Goldman Sachs, Salesforce, Boeing…",
+      "url": "https://www.marketscreener.com/news/analyst-recommendations-exxonmobil-blackstone-goldman-sachs-salesforce-boeinga--ce785bd3df88f323",
+      "source": "marketscreener.com",
+      "published": "2026-09-17T14:39:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Haemonetics upgraded to Buy at BofA on supply deal with CSL",
+      "url": "https://seekingalpha.com/news/4643806-haemonetics-stock-upgraded-bank-america",
+      "source": "seekingalpha.com",
+      "published": "2026-09-17T14:16:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "This Goldman Sachs Indicator Hit 0 Only 4 Other Times in the Last 20 Years. History Says Big Tech Rallies Followed",
+      "url": "https://247wallst.com/investing/2026/09/17/this-goldman-sachs-indicator-hit-0-only-4-other-times-in-the-last-20-years-history-says-big-tech-rallies-followed/",
+      "source": "247wallst.com",
+      "published": "2026-09-17T14:14:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "McDonald's (NYSE:MCD) Price Target Cut to $310.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-mcdonalds-nyse-mcd-price-target-cut-to-31000-by-analysts-at-citigroup-2026-09-17/",
       "source": "marketbeat.com",
-      "published": "2026-09-17T09:02:10+00:00",
+      "published": "2026-09-17T14:00:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Viant (DSP) files for a secondary offering led by Evercore ISI and Wells Fargo, with an underwriter option for 1.28M shares",
+      "url": "https://marketchameleon.com/Blogpost/2026/09/17/dsp-public-offering-class-a-common-stock-underwriter-option",
+      "source": "marketchameleon.com",
+      "published": "2026-09-17T13:27:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Boosts Ciena (CIEN) Price Target to $450 Following Strong Q1 Performance",
+      "url": "https://blockonomi.com/morgan-stanley-boosts-ciena-cien-price-target-to-450-following-strong-q1-performance/",
+      "source": "blockonomi.com",
+      "published": "2026-09-17T13:19:27+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Lowers WH Smith (LON:SMWH) Price Target to GBX 550",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-wh-smith-lon-smwh-price-target-to-gbx-550-2026-09-17/",
+      "title": "Apple iPhone Demand Should Hold Up On Higher Carrier Incentives, BofA Says",
+      "url": "https://stocktwits.com/news-articles/markets/equity/apple-iphone-demand-should-hold-up-on-higher-carrier-incentives-bofa-says/cZtroUxRBdG?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-09-17T13:12:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312526393849/0001193125-26-393849-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-17T13:02:18+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Big Wall Street Insider Says Buy META Before September 23",
+      "url": "https://247wallst.com/investing/2026/09/17/big-wall-street-insider-says-buy-meta-before-september-23/",
+      "source": "247wallst.com",
+      "published": "2026-09-17T13:00:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "L3Harris Technologies, Inc. (LHX) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $LHX",
+      "url": "https://seekingalpha.com/article/4947280-l3harris-technologies-inc-lhx-presents-at-morgan-stanleys-14th-annual-laguna-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-17T12:48:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "First Credit Card Much Help - I recently just graduated college and am looking to get a credit ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wit2nn/first_credit_card_much_help/",
+      "source": "reddit.com",
+      "published": "2026-09-17T12:48:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Raises Base Lending Rate to 7.00%, Effective September 17, 2026",
+      "url": "https://marketchameleon.com/Blogpost/2026/09/17/c-base-lending-rate-700-effective-sept-17-2026",
+      "source": "marketchameleon.com",
+      "published": "2026-09-17T12:43:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CORZ Stock Gets AMD Boost, While HUT, CIFR, WULF Shares Win Tenant Nod As Wells Fargo Backs Bitcoin Miners’ AI Pivot",
+      "url": "https://stocktwits.com/news-articles/markets/equity/corz-stock-gets-amd-boost-while-hut-cifr-wulf-shares-win-tenant-nod/cZtr82HRB5y?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-09-17T12:41:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Revises Fed Outlook After Hawkish Meeting, Flags October Rate Increase",
+      "url": "https://www.crowdfundinsider.com/2026/09/310827-goldman-sachs-revises-fed-outlook-after-hawkish-meeting-flags-october-rate-increase/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-09-17T12:31:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Initiates Coverage on Prelude Therapeutics (NASDAQ:PRLD)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-prelude-therapeutics-nasdaq-prld-2026-09-17/",
       "source": "marketbeat.com",
-      "published": "2026-09-17T09:00:34+00:00",
+      "published": "2026-09-17T12:24:30+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "BofA favors these stocks as UK insurance yields stay attractive",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-favors-these-stocks-as-uk-insurance-yields-stay-attractive-4905027",
-      "source": "investing.com",
-      "published": "2026-09-17T08:54:28+00:00",
+      "title": "3 Top-Ranked Diversified Bond Mutual Funds to Buy for Reliable Growth",
+      "url": "https://finance.yahoo.com/markets/options/articles/3-top-ranked-diversified-bond-122400200.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-17T12:24:00+00:00",
       "tickers": [
-        "BAC",
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi adds upside 90-day catalyst watch as Wingstop's NFL promos to drive traffic",
+      "url": "https://seekingalpha.com/news/4643735-citi-adds-upside-90-day-catalyst-watch-as-wingstops-nfl-promos-to-drive-traffic",
+      "source": "seekingalpha.com",
+      "published": "2026-09-17T12:21:22+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp Makes New $187,000 Investment in Alight, Inc. $ALIT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-187000-investment-in-alight-inc-alit-2026-09-17/",
-      "source": "marketbeat.com",
-      "published": "2026-09-17T08:09:02+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "European Companies Shift Treasury to Mobile With Bank of America CashPro",
-      "url": "https://www.pymnts.com/news/payment-methods/mobile-payments/2026/european-companies-shift-treasury-to-mobile-with-bank-of-america-cashpro/",
-      "source": "pymnts.com",
-      "published": "2026-09-17T08:00:59+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA's CashPro App facilitates more than €100 billion in payments approved European companies",
-      "url": "https://www.prnewswire.com/news-releases/bofas-cashpro-app-facilitates-more-than-100-billion-in-payments-approved-european-companies-302881220.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-17T08:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "State Street Says Any Tech Weakness Is Chance to Rebuild",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/state-street-says-any-tech-weakness-is-chance-to-rebuild-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-17T07:37:59+00:00",
+      "title": "How Does This ESG Fund Compare to the Vanguard Total World Stock ETF?",
+      "url": "https://www.fool.com/coverage/etfs/2026/09/17/how-does-this-esg-fund-compare-to-the-vanguard-total-world-stock-etf/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-17T12:16:01+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Will the BOE Keep the Option Open for a Rate Hike?",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-17/will-the-boe-keep-the-option-open-for-a-hike-video",
+      "title": "Sumitomo Financial Group Is Now An Interesting Value And Growth Play In The Banking Sector | $SPY $GS $BCS $JPM $HSBC",
+      "url": "https://seekingalpha.com/article/4947357-sumitomo-financial-group-is-now-an-interesting-value-and-growth-play-in-the-banking-sector",
+      "source": "seekingalpha.com",
+      "published": "2026-09-17T12:15:00+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
+      "title": "Stocks Are Overdue for a Pullback, Warns BofA’s Subramanian",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-17/stocks-overdue-for-a-pullback-warns-bofa-s-subramanian-video",
       "source": "bloomberg.com",
-      "published": "2026-09-17T07:32:11+00:00",
+      "published": "2026-09-17T12:11:21+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "NFJ Investment Group LLC Has $55 Million Stock Holdings in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nfj-investment-group-llc-has-55-million-stock-holdings-in-jpmorgan-chase-co-jpm-2026-09-17/",
+      "title": "Grupo Cibest's (CIB) Neutral Rating Reiterated at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-grupo-cibests-cib-neutral-rating-reiterated-at-jpmorgan-chase-co-2026-09-17/",
       "source": "marketbeat.com",
-      "published": "2026-09-17T07:29:47+00:00",
+      "published": "2026-09-17T12:06:35+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Oxford Financial Group LTD. LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-oxford-financial-group-ltd-llc-2026-09-17/",
+      "title": "HawkEye 360 (NYSE:HAWK) Stock Rating Upgraded by Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hawkeye-360-nyse-hawk-stock-rating-upgraded-by-bank-of-america-2026-09-17/",
       "source": "marketbeat.com",
-      "published": "2026-09-17T07:29:38+00:00",
+      "published": "2026-09-17T12:06:33+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Corient Private Wealth LP Has $9.51 Million Stake in Truist Financial Corporation $TFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-corient-private-wealth-lp-has-951-million-stake-in-truist-financial-corporation-tfc-2026-09-17/",
+      "title": "Ciena (NYSE:CIEN) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ciena-nyse-cien-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-09-17/",
       "source": "marketbeat.com",
-      "published": "2026-09-17T07:29:21+00:00",
+      "published": "2026-09-17T12:06:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Truist Financial Initiates Coverage on Comstock Resources (NYSE:CRK)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-initiates-coverage-on-comstock-resources-nyse-crk-2026-09-17/",
+      "source": "marketbeat.com",
+      "published": "2026-09-17T12:06:30+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Engineers Gate Manager LP Has $1.76 Million Stock Holdings in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-engineers-gate-manager-lp-has-176-million-stock-holdings-in-bank-of-america-corporation-bac-2026-09-17/",
+      "title": "Western Midstream Partners (NYSE:WES) Coverage Initiated at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-western-midstream-partners-nyse-wes-coverage-initiated-at-truist-financial-2026-09-17/",
       "source": "marketbeat.com",
-      "published": "2026-09-17T07:29:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman spotted something in the Fed’s message that markets may be missing",
-      "url": "https://invezz.com/news/2026/09/17/goldman-spotted-something-in-the-feds-message-that-markets-may-be-missing/",
-      "source": "invezz.com",
-      "published": "2026-09-17T07:02:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc (NYSE:PNC) Given Consensus Rating of \"Moderate Buy\" by Analysts",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-the-pnc-financial-services-group-inc-nyse-pnc-given-consensus-rating-of-moderate-buy-by-analysts-2026-09-17/",
-      "source": "marketbeat.com",
-      "published": "2026-09-17T06:44:18+00:00",
+      "published": "2026-09-17T12:06:30+00:00",
       "tickers": [
         "C",
-        "PNC"
+        "TFC"
       ]
     },
     {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - September 17",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---september-17/article_a8c7b610-4dc7-57bf-98ee-0373c2ab8bff.html",
-      "source": "newspressnow.com",
-      "published": "2026-09-17T06:02:13+00:00",
+      "title": "Crescent Energy (NYSE:CRGY) Earns Buy Rating from Analysts at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-crescent-energy-nyse-crgy-earns-buy-rating-from-analysts-at-truist-financial-2026-09-17/",
+      "source": "marketbeat.com",
+      "published": "2026-09-17T12:06:29+00:00",
       "tickers": [
-        "GS"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "ALL Accor’s Two New Conversion Partners: U.S. Bank & Maximize",
-      "url": "https://loyaltylobby.com/2026/09/17/all-accors-two-new-conversion-partners-u-s-bank-maximize/?omhide=true",
-      "source": "loyaltylobby.com",
-      "published": "2026-09-17T05:57:26+00:00",
+      "title": "Celcuity (NASDAQ:CELC) Now Covered by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-celcuity-nasdaq-celc-now-covered-by-analysts-at-jpmorgan-chase-co-2026-09-17/",
+      "source": "marketbeat.com",
+      "published": "2026-09-17T12:06:27+00:00",
       "tickers": [
-        "USB"
+        "JPM"
       ]
     },
     {
-      "title": "Bank of America Cuts Lennar (NYSE:LEN) Price Target to $70.00",
-      "url": "https://www.tickerreport.com/banking-finance/13587014/bank-of-america-cuts-lennar-nyselen-price-target-to-70-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-17T05:54:49+00:00",
+      "title": "Pegasystems (NASDAQ:PEGA) Given Neutral Rating at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-pegasystems-nasdaq-pega-given-neutral-rating-at-jpmorgan-chase-co-2026-09-17/",
+      "source": "marketbeat.com",
+      "published": "2026-09-17T12:06:27+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Bank of America sees US semi industry doubling in four years",
-      "url": "https://www.electronicsweekly.com/news/bank-of-america-sees-us-semi-industry-doubling-in-four-years-2026-09/",
-      "source": "electronicsweekly.com",
-      "published": "2026-09-17T05:14:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "First Abu Dhabi Bank Executes Landmark Live Tokenized Deposit Settlement with Citi via Swift Ledger",
-      "url": "https://thefintechtimes.com/first-abu-dhabi-bank-executes-landmark-live-tokenized-deposit-settlement-with-citi-via-swift-ledger/",
-      "source": "thefintechtimes.com",
-      "published": "2026-09-17T05:00:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Either Meta Glasses are selling extremely well or this Citi survey might have some issues",
-      "url": "https://www.ft.com/content/2739954a-816a-465a-ae21-7d846bb70365",
-      "source": "ft.com",
-      "published": "2026-09-17T05:00:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "US Market: Goldman Sachs sees Fed raising rates again in October",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-goldman-sachs-sees-fed-raising-rates-again-in-october/articleshow/134301512.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-17T04:19:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Pivots to Gasoline From Diesel as Fuel Tightness Spreads",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/goldman-pivots-to-gasoline-from-diesel-as-fuel-tightness-spreads",
-      "source": "bloomberg.com",
-      "published": "2026-09-17T04:14:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Samsung stock gives up post-Fed gains but Goldman still sees 93% upside",
-      "url": "https://invezz.com/news/2026/09/17/samsung-stock-gives-up-post-fed-gains-but-goldman-still-sees-93-upside/",
-      "source": "invezz.com",
-      "published": "2026-09-17T03:37:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Believes Global Memory Supply Tightness Will Persist Until 2031, and the Price Increase Cycle Is Expected to Remain Strong",
-      "url": "https://nai500.com/blog/2026/09/citi-believes-global-memory-supply-tightness-will-persist-until-2031-and-the-price-increase-cycle-is-expected-to-remain-strong/",
-      "source": "nai500.com",
-      "published": "2026-09-17T03:31:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs (GS) Faces Stock Decline Amid Mixed Q3 Performance Outlook",
-      "url": "https://www.gurufocus.com/news/9085135/goldman-sachs-gs-faces-stock-decline-amid-mixed-q3-performance-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-09-17T03:30:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "EastGroup Properties at BofA real estate conference: growth, discipline",
-      "url": "https://www.investing.com/news/transcripts/eastgroup-properties-at-bofa-real-estate-conference-growth-discipline-93CH-4904776",
-      "source": "investing.com",
-      "published": "2026-09-17T02:52:45+00:00",
+      "title": "Elanco to Participate in BofA Securities Global Healthcare Conference 2026",
+      "url": "https://finance.yahoo.com/healthcare/articles/elanco-participate-bofa-securities-global-115700013.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-17T11:57:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Schenectady man flees police before facing felony gun, drug charges",
-      "url": "https://www.news10.com/news/crime/schenectady-man-flees-police-before-facing-felony-gun-drug-charges/",
-      "source": "news10.com",
-      "published": "2026-09-17T02:51:58+00:00",
+      "title": "JPMorgan CEO Jamie Dimon Says It’s Not Clear Inflation Has Been Slayed After Fed Rate Hike",
+      "url": "https://dailyhodl.com/2026/09/17/jpmorgan-ceo-jamie-dimon-says-its-not-clear-inflation-has-been-slayed-after-fed-rate-hike/",
+      "source": "dailyhodl.com",
+      "published": "2026-09-17T11:45:58+00:00",
       "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Another Fed hike to follow? Goldman Sachs says US Federal ‌Reserve could raise interest rates again in October",
-      "url": "https://www.livemint.com/news/us-news/another-fed-hike-to-follow-goldman-sachs-says-us-federal-reserve-could-raise-interest-rates-again-in-october-11789612511201.html",
-      "source": "livemint.com",
-      "published": "2026-09-17T02:44:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Watsco, Inc. (WSO) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $WSO",
-      "url": "https://seekingalpha.com/article/4947283-watsco-inc-wso-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-17T02:41:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Pete Alonso homers against Mets again as Orioles win 7-1 to finish sweep at Citi Field",
-      "url": "https://www.wdtimes.com/sports/national_sports/pete-alonso-homers-against-mets-again-as-orioles-win-7-1-to-finish-sweep-at/article_5cb0370a-fd7e-5bdc-8d96-1dfcaca889af.html",
-      "source": "wdtimes.com",
-      "published": "2026-09-17T02:38:18+00:00",
-      "tickers": [
-        "C"
+        "JPM"
       ]
     }
   ]
