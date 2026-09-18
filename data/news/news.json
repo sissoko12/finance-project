@@ -1,289 +1,279 @@
 {
-  "last_updated": "2026-09-18T15:06:08.950665+00:00",
+  "last_updated": "2026-09-18T18:36:33.985816+00:00",
   "headlines": [
     {
-      "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
-      "url": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-09-18T14:12:56+00:00",
+      "title": "JPMorgan chief Jamie Dimon set to attend Trump's state dinner for China's Xi - report",
+      "url": "https://seekingalpha.com/news/4644486-jpmorgan-chief-jamie-dimon-set-to-attend-trumps-state-dinner-for-chinas-xi---report",
+      "source": "seekingalpha.com",
+      "published": "2026-09-18T17:18:04+00:00",
       "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Einhorn: Gold to Sharply Outperform Nasdaq Over 3–5 Years",
-      "url": "https://nai500.com/blog/2026/09/einhorn-gold-to-sharply-outperform-nasdaq-over-3-5-years/",
-      "source": "nai500.com",
-      "published": "2026-09-18T13:56:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wall Street hangout that became a post-9/11 destination is open again after major revamp",
-      "url": "https://nypost.com/2026/09/18/business/wall-street-hangout-san-pietro-that-became-a-post-9-11-destination-is-open-again-after-major-revamp/",
-      "source": "nypost.com",
-      "published": "2026-09-18T13:51:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226046161/0001839882-26-046161-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T13:49:01+00:00",
-      "tickers": [
-        "WFC",
-        "C"
+        "JPM"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014169/0000950103-26-014169-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426028102/0001918704-26-028102-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-18T13:40:35+00:00",
+      "published": "2026-09-18T17:14:25+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000119312526395137/0001193125-26-395137-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T13:33:36+00:00",
+      "title": "'Hike Doesn't Change Fundamentals,' says Cetera's Goldman",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-18/-hike-doesn-t-change-fundamentals-says-cetera-s-goldman",
+      "source": "bloomberg.com",
+      "published": "2026-09-18T17:12:16+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Bankr brings crypto wallets and onchain financial activity to Meta’s Muse agents",
-      "url": "https://finbold.com/bankr-brings-crypto-wallets-and-onchain-financial-activity-to-metas-muse-agents/",
-      "source": "finbold.com",
-      "published": "2026-09-18T13:24:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The HBM Bottleneck: 3 Tech Companies Have Locked Up 85% of the Supply of AI's Scarcest Asset",
-      "url": "https://www.fool.com/investing/2026/09/18/the-hbm-bottleneck-3-stocks-that-have-locked-up-85/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-18T13:13:00+00:00",
+      "title": "OGE Maintained by Morgan Stanley -- Price Target Lowered to $46",
+      "url": "https://www.gurufocus.com/news/9088344/oge-maintained-by-morgan-stanley-price-target-lowered-to-46",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:06:20+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Insider Buying: Truist Financial (NYSE:TFC) CEO Buys 21,000 Shares of Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-truist-financial-nyse-tfc-ceo-buys-21000-shares-of-stock-2026-09-18/",
+      "title": "SGML Initiates Coverage On JP Morgan -- Rating Set to Overweight",
+      "url": "https://www.gurufocus.com/news/9088342/sgml-initiates-coverage-on-jp-morgan-rating-set-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:05:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CAAP Maintained by JP Morgan -- Price Target Lowered to $32.00",
+      "url": "https://www.gurufocus.com/news/9088340/caap-maintained-by-jp-morgan-price-target-lowered-to-3200",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:04:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SQM Maintained by JP Morgan -- Price Target Lowered to $88",
+      "url": "https://www.gurufocus.com/news/9088339/sqm-maintained-by-jp-morgan-price-target-lowered-to-88",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:04:20+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NRG Maintained by Morgan Stanley -- Price Target Lowered to $159",
+      "url": "https://www.gurufocus.com/news/9088338/nrg-maintained-by-morgan-stanley-price-target-lowered-to-159",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:03:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CCK Upgraded by JP Morgan -- Rating Raised to Overweight",
+      "url": "https://www.gurufocus.com/news/9088337/cck-upgraded-by-jp-morgan-rating-raised-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:03:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BioMarin Targets Amicus Synergies as VOXZOGO Nears $1B Milestone",
+      "url": "https://www.marketbeat.com/instant-alerts/event-biomarin-targets-amicus-synergies-as-voxzogo-nears-1b-milestone-2026-09-18/",
       "source": "marketbeat.com",
-      "published": "2026-09-18T13:08:05+00:00",
+      "published": "2026-09-18T17:02:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Promising Financial Stocks To Research - September 18th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-promising-financial-stocks-to-research-september-18th-2026-09-18/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T17:02:10+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "NEE Maintained by Morgan Stanley -- Price Target Lowered to $111",
+      "url": "https://www.gurufocus.com/news/9088334/nee-maintained-by-morgan-stanley-price-target-lowered-to-111",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:02:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TSN Upgraded by JP Morgan -- Price Target Lowered to $63.00",
+      "url": "https://www.gurufocus.com/news/9088333/tsn-upgraded-by-jp-morgan-price-target-lowered-to-6300",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:01:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Netflix (NFLX) Stock Trades Down, Here Is Why",
+      "url": "https://stockstory.org/us/stocks/nasdaq/nflx/news/why-up-down/netflix-nflx-stock-trades-down-here-is-why",
+      "source": "stockstory.org",
+      "published": "2026-09-18T17:00:39+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Intuit (NASDAQ:INTU) Earns \"Hold\" Rating from Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-intuit-nasdaq-intu-earns-hold-rating-from-truist-financial-2026-09-18/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T17:00:31+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Sigma Lithium (NASDAQ:SGML) Coverage Initiated at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-sigma-lithium-nasdaq-sgml-coverage-initiated-at-jpmorgan-chase-co-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-18T13:06:55+00:00",
+      "title": "GNRC Maintained by JP Morgan -- Price Target Raised to $265",
+      "url": "https://www.gurufocus.com/news/9088328/gnrc-maintained-by-jp-morgan-price-target-raised-to-265",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T17:00:30+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Tyson Foods (NYSE:TSN) Raised to \"Overweight\" at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-tyson-foods-nyse-tsn-raised-to-overweight-at-jpmorgan-chase-co-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-18T13:06:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Equinor ASA (NYSE:EQNR) Upgraded to \"Buy\" at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-equinor-asa-nyse-eqnr-upgraded-to-buy-at-bank-of-america-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-18T13:06:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Crown (NYSE:CCK) Rating Increased to Overweight at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-crown-nyse-cck-rating-increased-to-overweight-at-jpmorgan-chase-co-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-18T13:06:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Upgrades Ball (NYSE:BALL) to Overweight",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-upgrades-ball-nyse-ball-to-overweight-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-18T13:06:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges",
-      "url": "https://247wallst.com/investing/2026/09/18/netflix-falls-4-as-wells-fargo-cuts-rating-to-underweight-with-57-target-disney-barely-budges/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-09-18T13:06:06+00:00",
+      "title": "Charlotte’s Allspring on block for perhaps $4B, FT says",
+      "url": "https://businessnc.com/charlottes-allspring-on-block-for-perhaps-4b-ft-says/",
+      "source": "businessnc.com",
+      "published": "2026-09-18T16:42:47+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Wells Fargo Hikes Amazon Stock Price Target",
-      "url": "https://watcher.guru/news/wells-fargo-hikes-amazon-stock-price-target",
-      "source": "watcher.guru",
-      "published": "2026-09-18T13:05:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Glanbia shares slide as analyst warns of reversal in ‘proteinmaxxing’ trend",
-      "url": "https://www.irishtimes.com/business/2026/09/18/glanbia-shares-slide-as-analyst-warns-of-reversal-in-proteinmaxxing-trend/",
-      "source": "irishtimes.com",
-      "published": "2026-09-18T12:55:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Turkish Fund’s Goldman Dreams Collapse in ‘Ponzi-Like Scheme’",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/turkish-fund-s-goldman-dreams-collapse-in-ponzi-like-scheme",
-      "source": "bloomberg.com",
-      "published": "2026-09-18T12:51:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo downgrades Netflix to underweight on engagement risks",
-      "url": "https://seekingalpha.com/news/4644248-wells-fargo-downgrades-netflix-to-underweight-on-engagement-risks",
-      "source": "seekingalpha.com",
-      "published": "2026-09-18T12:36:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Tyson's beef and chicken headwinds may be dissipating -- J.P. Morgan",
-      "url": "https://seekingalpha.com/news/4644277-tysons-beef-and-chicken-headwinds-may-be-dissipating---jp-morgan",
-      "source": "seekingalpha.com",
-      "published": "2026-09-18T12:34:16+00:00",
+      "title": "KMX Maintained by JP Morgan -- Price Target Raised to $70",
+      "url": "https://www.gurufocus.com/news/9088295/kmx-maintained-by-jp-morgan-price-target-raised-to-70",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:38:46+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Truist announces third quarter 2026 earnings call details",
-      "url": "https://www.prnewswire.com/news-releases/truist-announces-third-quarter-2026-earnings-call-details-302882423.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-18T12:30:00+00:00",
+      "title": "CAVA Maintained by JP Morgan -- Price Target Lowered to $80",
+      "url": "https://www.gurufocus.com/news/9088294/cava-maintained-by-jp-morgan-price-target-lowered-to-80",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:38:17+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
       ]
     },
     {
-      "title": "Walmart Inc. (WMT) Presents at Goldman Sachs Global Consumer and Retail Conference Transcript | $WMT",
-      "url": "https://seekingalpha.com/article/4947846-walmart-inc-wmt-presents-at-goldman-sachs-global-consumer-and-retail-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-18T12:28:47+00:00",
+      "title": "MKC Maintained by JP Morgan -- Price Target Lowered to $62.00",
+      "url": "https://www.gurufocus.com/news/9088293/mkc-maintained-by-jp-morgan-price-target-lowered-to-6200",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:37:47+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Truist Financial president & CEO Michael Lyons buys $1m in stock",
-      "url": "https://www.investing.com/news/insider-trading-news/truist-financial-president--ceo-michael-lyons-buys-1m-in-stock-93CH-4907249",
-      "source": "investing.com",
-      "published": "2026-09-18T12:16:05+00:00",
+      "title": "STLD Maintains Neutral Rating by JP Morgan -- Price Target Lowered to $272",
+      "url": "https://www.gurufocus.com/news/9088292/stld-maintains-neutral-rating-by-jp-morgan-price-target-lowered-to-272",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:37:14+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
       ]
     },
     {
-      "title": "Natural Grocers by Vitamin Cottage (NYSE:NGVC) Now Covered by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-natural-grocers-by-vitamin-cottage-nyse-ngvc-now-covered-by-bank-of-america-2026-09-18/",
+      "title": "Public Service Enterprise Group (NYSE:PEG) Price Target Lowered to $88.00 at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-public-service-enterprise-group-nyse-peg-price-target-lowered-to-8800-at-morgan-stanley-2026-09-18/",
       "source": "marketbeat.com",
-      "published": "2026-09-18T12:06:40+00:00",
+      "published": "2026-09-18T16:36:29+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "JPMorgan AWM operations head Julie Harris to retire in 2027 – report",
-      "url": "https://www.privatebankerinternational.com/news/jpmorgan-awm-head-julie-harris-retire/?.tsrc=rss",
-      "source": "privatebankerinternational.com",
-      "published": "2026-09-18T12:05:13+00:00",
+      "title": "Morgan Stanley Lowers Sempra Energy (NYSE:SRE) Price Target to $100.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-lowers-sempra-energy-nyse-sre-price-target-to-10000-2026-09-18/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T16:36:29+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "The Shifting Role of Wearables in Healthcare",
-      "url": "https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
-      "source": "medcitynews.com",
-      "published": "2026-09-18T11:58:08+00:00",
+      "title": "Southern (NYSE:SO) Price Target Lowered to $85.00 at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-southern-nyse-so-price-target-lowered-to-8500-at-morgan-stanley-2026-09-18/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T16:36:28+00:00",
       "tickers": [
-        "USB"
+        "MS"
       ]
     },
     {
-      "title": "Friday Market Update: Crypto Surge, Buffett’s Exit, and Netflix Decline Dominate Headlines",
-      "url": "https://blockonomi.com/friday-market-update-crypto-surge-buffetts-exit-and-netflix-decline-dominate-headlines/",
-      "source": "blockonomi.com",
-      "published": "2026-09-18T11:56:21+00:00",
+      "title": "Ultragenyx Pharmaceutical (NASDAQ:RARE) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ultragenyx-pharmaceutical-nasdaq-rare-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-09-18/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T16:36:27+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "JPMorgan drops Iran war oil forecast as redlines are crossed",
-      "url": "https://qz.com/jpmorgan-iran-war-oil-forecast-endgame-091826?.tsrc=rss",
-      "source": "qz.com",
-      "published": "2026-09-18T11:54:16+00:00",
+      "title": "MGEE Maintained by Morgan Stanley -- Price Target Lowered to $71",
+      "url": "https://www.gurufocus.com/news/9088289/mgee-maintained-by-morgan-stanley-price-target-lowered-to-71",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:35:49+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "Netflix (NFLX) Stock Drops After Wells Fargo Issues Rare Sell Rating",
-      "url": "https://blockonomi.com/netflix-nflx-stock-drops-after-wells-fargo-issues-rare-sell-rating/",
-      "source": "blockonomi.com",
-      "published": "2026-09-18T11:49:02+00:00",
+      "title": "MARA Maintained by Morgan Stanley -- Price Target Raised to $11.00",
+      "url": "https://www.gurufocus.com/news/9088288/mara-maintained-by-morgan-stanley-price-target-raised-to-1100",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:35:20+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028033/0001918704-26-028033-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T11:47:35+00:00",
+      "title": "XEL Maintained by Morgan Stanley -- Price Target Lowered to $83.00",
+      "url": "https://www.gurufocus.com/news/9088287/xel-maintained-by-morgan-stanley-price-target-lowered-to-8300",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:34:46+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
+      ]
+    },
+    {
+      "title": "FE Maintained by Morgan Stanley -- Price Target Lowered to $49",
+      "url": "https://www.gurufocus.com/news/9088282/fe-maintained-by-morgan-stanley-price-target-lowered-to-49",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:32:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "EXC Maintained by Morgan Stanley -- Price Target Lowered to $50.00",
+      "url": "https://www.gurufocus.com/news/9088278/exc-maintained-by-morgan-stanley-price-target-lowered-to-5000",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T16:30:31+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
