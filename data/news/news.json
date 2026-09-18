@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-09-17T22:23:22.854192+00:00",
+  "last_updated": "2026-09-18T00:42:59.481827+00:00",
   "headlines": [
+    {
+      "title": "Sell Yen Against USD Before BOJ Decision, Says Wells Fargo",
+      "url": "https://www.gurufocus.com/news/9087200/sell-yen-against-usd-before-boj-decision-says-wells-fargo",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T00:16:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Air Canada (AC:CA) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $ACDVF",
+      "url": "https://seekingalpha.com/article/4947661-air-canada-ac-ca-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-18T00:08:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Capital One Sees Resilient Consumers as Discover Integration Targets 2027 Finish",
+      "url": "https://www.marketbeat.com/instant-alerts/event-capital-one-sees-resilient-consumers-as-discover-integration-targets-2027-finish-2026-09-17/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T00:02:03+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Super Micro Computer stock rises on AI server optimism",
+      "url": "https://www.reddit.com/r/stocks/comments/1wj9kbc/super_micro_computer_stock_rises_on_ai_server/",
+      "source": "reddit.com",
+      "published": "2026-09-17T23:16:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "ATI Inc. (ATI) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $ATI",
+      "url": "https://seekingalpha.com/article/4947653-ati-inc-ati-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-17T22:58:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Amazon's big, new delivery push targets Walmart's biggest advantage, Bank of America says",
+      "url": "https://www.businessinsider.com/amazons1000-hub-same-day-delivery-bet-catching-walmart-bofa-analyst-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-17T22:05:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ford Motor Co at Morgan Stanley Laguna Conference Transcript",
+      "url": "https://www.gurufocus.com/news/9086896/ford-motor-co-at-morgan-stanley-laguna-conference-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-09-17T22:00:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "General Electric Company at Morgan Stanley Laguna Conference Transcript",
+      "url": "https://www.gurufocus.com/news/9086892/general-electric-company-at-morgan-stanley-laguna-conference-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-09-17T22:00:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Otis Worldwide Corporation (OTIS) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $OTIS",
       "url": "https://seekingalpha.com/article/4947647-otis-worldwide-corporation-otis-presents-at-morgan-stanleys-14th-annual-laguna-conference",
@@ -8,6 +83,15 @@
       "published": "2026-09-17T21:59:05+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Citi Group (C) to Raise $12 Billion in Record Bond Issuance",
+      "url": "https://www.gurufocus.com/news/9086831/citi-group-c-to-raise-12-billion-in-record-bond-issuance",
+      "source": "gurufocus.com",
+      "published": "2026-09-17T21:51:15+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -67,6 +151,16 @@
       ]
     },
     {
+      "title": "Weekly Research Analysts’ Ratings Changes for Sempra Energy (SRE)",
+      "url": "https://www.tickerreport.com/banking-finance/13588213/weekly-research-analysts-ratings-changes-for-sempra-energy-sre.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-17T21:26:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
       "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
       "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
       "source": "marketwatch.com",
@@ -95,6 +189,24 @@
       ]
     },
     {
+      "title": "Goldman Sachs opens engineering office in Bellevue",
+      "url": "https://www.bizjournals.com/seattle/news/2026/09/17/goldman-sachs-bellevue-office-david-solomon.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-09-17T21:12:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Can you earn a Citi / AAdvantage Executive Mastercard welcome bonus more than once?",
+      "url": "https://thepointsguy.com/credit-cards/earn-citi-aadvantage-executive-welcome-bonus-multiple-times/",
+      "source": "thepointsguy.com",
+      "published": "2026-09-17T21:00:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Stanley Black & Decker, Inc. (SWK) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $SWK",
       "url": "https://seekingalpha.com/article/4947632-stanley-black-and-decker-inc-swk-presents-at-morgan-stanleys-14th-annual-laguna-conference",
       "source": "seekingalpha.com",
@@ -113,6 +225,15 @@
       ]
     },
     {
+      "title": "Research Analysts’ Recent Ratings Changes for Chord Energy (CHRD)",
+      "url": "https://www.tickerreport.com/banking-finance/13588140/research-analysts-recent-ratings-changes-for-chord-energy-chrd.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-17T20:26:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "JPMorganChase to Host Third-Quarter 2026 Earnings Call",
       "url": "http://www.businesswire.com/news/home/20260917326544/en/JPMorganChase-to-Host-Third-Quarter-2026-Earnings-Call/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
       "source": "businesswire.com",
@@ -128,82 +249,6 @@
       "published": "2026-09-17T20:18:51+00:00",
       "tickers": [
         "USB"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000469/0000070858-26-000469-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-17T20:15:16+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist announces redemption of subordinated notes due October 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-announces-redemption-subordinated-notes-201500223.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-17T20:15:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form SCHEDULE 13D/A [Amend] - General Statement of Acquisition of Beneficial Ownership",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000468/0000070858-26-000468-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-17T20:09:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ingersoll Rand Inc. (IR) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $IR",
-      "url": "https://seekingalpha.com/article/4947612-ingersoll-rand-inc-ir-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-17T19:58:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "United Rentals (URI) – Investment Analysts’ Weekly Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13588083/united-rentals-uri-investment-analysts-weekly-ratings-updates.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-17T19:56:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Q&A: State Street Goes Live With Custody Offering",
-      "url": "https://www.wealthmanagement.com/ria-news/state-street-launches-new-ria-custody-business?.tsrc=rss",
-      "source": "wealthmanagement.com",
-      "published": "2026-09-17T19:49:05+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Lincoln Electric Holdings, Inc. (LECO) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $LECO",
-      "url": "https://seekingalpha.com/article/4947585-lincoln-electric-holdings-inc-leco-presents-at-morgan-stanleys-14th-annual-laguna-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-17T19:48:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA reiterates ‘Buy’ rating, $370 price target on Apple as carrier incentives cover iPhone price increases",
-      "url": "https://macdailynews.com/2026/09/17/bofa-reiterates-buy-rating-370-price-target-on-apple-as-carrier-incentives-cover-iphone-price-increases/",
-      "source": "macdailynews.com",
-      "published": "2026-09-17T19:45:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
