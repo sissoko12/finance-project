@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-09-18T00:42:59.481827+00:00",
+  "last_updated": "2026-09-18T05:44:45.936703+00:00",
   "headlines": [
+    {
+      "title": "Zoetis Stands by Guidance as Pet-Care Weakness and Competition Pressure Sales",
+      "url": "https://www.marketbeat.com/instant-alerts/event-zoetis-stands-by-guidance-as-pet-care-weakness-and-competition-pressure-sales-2026-09-18/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T05:02:09+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Global Market: J.P. Morgan sees BoE rates rising amid renewed inflation risks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-j-p-morgan-sees-boe-rates-rising-amid-renewed-inflation-risks/articleshow/134326027.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-18T04:40:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Canada reportedly taps Morgan Stanley, CIBC for major airport concession sale",
+      "url": "https://seekingalpha.com/news/4644152-canada-reportedly-taps-morgan-stanley-cibc-for-major-airport-concession-sale",
+      "source": "seekingalpha.com",
+      "published": "2026-09-18T04:27:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Best BofA starting credit card?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjd1bl/best_bofa_starting_credit_card/",
+      "source": "reddit.com",
+      "published": "2026-09-18T01:54:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist auto lending exit to eliminate 253 N.C. jobs",
+      "url": "https://www.bizjournals.com/triangle/news/2026/09/17/truist-regional-acceptance-corp-greenville-layoffs.html#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-09-18T01:21:47+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Debit cards and banking - Since Capital One bought out Discover and started issuing their ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjcaf7/debit_cards_and_banking/",
+      "source": "reddit.com",
+      "published": "2026-09-18T01:19:34+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Analyst Warns of Potential Earnings Bubble in Tech Stocks",
+      "url": "https://www.gurufocus.com/news/9087287/goldman-sachs-analyst-warns-of-potential-earnings-bubble-in-tech-stocks",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T01:11:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Gold Price Forecast: Goldman Sachs Predicts $5400/oz by 2027",
+      "url": "https://www.gurufocus.com/news/9087286/gold-price-forecast-goldman-sachs-predicts-5400oz-by-2027",
+      "source": "gurufocus.com",
+      "published": "2026-09-18T01:10:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Mets' first baseman Jared Young carted off field after colliding with pitcher Nolan McLean",
+      "url": "https://abc7ny.com/post/mets-first-baseman-jared-young-carted-off-field-colliding-nolan-mclean-during-game-phillies/19845265/",
+      "source": "abc7ny.com",
+      "published": "2026-09-18T01:03:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp Sees Strong Quarter as Fees, Deposits and Capital Markets Accelerate",
+      "url": "https://www.marketbeat.com/instant-alerts/event-us-bancorp-sees-strong-quarter-as-fees-deposits-and-capital-markets-accelerate-2026-09-17/",
+      "source": "marketbeat.com",
+      "published": "2026-09-18T01:02:05+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Centuri Holdings, Inc. (CTRI) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $CTRI",
+      "url": "https://seekingalpha.com/article/4947660-centuri-holdings-inc-ctri-presents-at-morgan-stanleys-14th-annual-laguna-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-09-18T00:58:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi Launches Mastercard Subscription Management Tool in UAE",
+      "url": "https://www.pymnts.com/mastercard/2026/citi-launches-mastercard-subscription-management-tool-in-uae/",
+      "source": "pymnts.com",
+      "published": "2026-09-18T00:47:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Commits $750 Billion to Rebuilding America’s Housing Supply",
+      "url": "https://www.insidermonkey.com/news/jpmorgan-chase-jpm-commits-750-billion-to-rebuilding-americas-housing-supply-1837742/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-18T00:39:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Sell Yen Against USD Before BOJ Decision, Says Wells Fargo",
       "url": "https://www.gurufocus.com/news/9087200/sell-yen-against-usd-before-boj-decision-says-wells-fargo",
@@ -8,6 +128,15 @@
       "published": "2026-09-18T00:16:16+00:00",
       "tickers": [
         "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi’s Korea Trading Head Says Buy Won Near 1,400 Per Dollar",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/citi-s-korea-trading-head-says-buy-won-near-1-400-per-dollar",
+      "source": "bloomberg.com",
+      "published": "2026-09-18T00:13:25+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -28,6 +157,15 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Kodiak AI (KDK) – Research Analysts’ Weekly Ratings Updates",
+      "url": "https://www.tickerreport.com/banking-finance/13588349/kodiak-ai-kdk-research-analysts-weekly-ratings-updates.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-17T23:56:45+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -139,116 +277,6 @@
       "published": "2026-09-17T21:33:26+00:00",
       "tickers": [
         "BK"
-      ]
-    },
-    {
-      "title": "Morgan Stanley asks advisors to produce more to keep same pay",
-      "url": "https://www.americanbanker.com/news/morgan-stanley-asks-advisors-to-produce-a-bit-more-to-keep-same-pay",
-      "source": "americanbanker.com",
-      "published": "2026-09-17T21:28:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Weekly Research Analysts’ Ratings Changes for Sempra Energy (SRE)",
-      "url": "https://www.tickerreport.com/banking-finance/13588213/weekly-research-analysts-ratings-changes-for-sempra-energy-sre.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-17T21:26:51+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-17T21:22:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "$10,000 in a high-yield savings account or $10,000 in a CD: Which one will earn more in one year?",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/10000-high-yield-savings-account-vs-cd-earnings-one-year-211941165.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-17T21:19:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028028/0001918704-26-028028-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-17T21:18:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs opens engineering office in Bellevue",
-      "url": "https://www.bizjournals.com/seattle/news/2026/09/17/goldman-sachs-bellevue-office-david-solomon.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-17T21:12:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Can you earn a Citi / AAdvantage Executive Mastercard welcome bonus more than once?",
-      "url": "https://thepointsguy.com/credit-cards/earn-citi-aadvantage-executive-welcome-bonus-multiple-times/",
-      "source": "thepointsguy.com",
-      "published": "2026-09-17T21:00:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Stanley Black & Decker, Inc. (SWK) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $SWK",
-      "url": "https://seekingalpha.com/article/4947632-stanley-black-and-decker-inc-swk-presents-at-morgan-stanleys-14th-annual-laguna-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-17T20:58:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "General Electric Company (GE) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript | $GE",
-      "url": "https://seekingalpha.com/article/4947578-general-electric-company-ge-presents-at-morgan-stanleys-14th-annual-laguna-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-17T20:28:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Recent Ratings Changes for Chord Energy (CHRD)",
-      "url": "https://www.tickerreport.com/banking-finance/13588140/research-analysts-recent-ratings-changes-for-chord-energy-chrd.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-17T20:26:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorganChase to Host Third-Quarter 2026 Earnings Call",
-      "url": "http://www.businesswire.com/news/home/20260917326544/en/JPMorganChase-to-Host-Third-Quarter-2026-Earnings-Call/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-09-17T20:22:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The market is ready for a few more rate hikes",
-      "url": "https://finance.yahoo.com/video/market-ready-few-more-rate-201851030.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-17T20:18:51+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
