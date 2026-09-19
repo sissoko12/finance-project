@@ -1,6 +1,228 @@
 {
-  "last_updated": "2026-09-19T09:20:27.296508+00:00",
+  "last_updated": "2026-09-19T13:19:14.021064+00:00",
   "headlines": [
+    {
+      "title": "Our Top 10 High Growth Dividend Stocks - September 2026 | $UGP $UNCRY $STT $DELL $ATEYY",
+      "url": "https://seekingalpha.com/article/4946708-our-top-10-high-growth-dividend-stocks-september-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-19T12:05:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "source": "coindesk.com",
+      "published": "2026-09-19T12:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wednesday's Fed Funds Rate Hike Is No Panacea | $BAC $XLF $SPX $DJI $NDX",
+      "url": "https://seekingalpha.com/article/4947958-wednesday-fed-funds-rate-hike-no-panacea",
+      "source": "seekingalpha.com",
+      "published": "2026-09-19T12:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Reviewing Citigroup (C) and Its Competitors",
+      "url": "https://www.tickerreport.com/banking-finance/13590435/reviewing-citigroup-c-and-its-competitors.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-19T11:58:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Keeps Its $5,400 Gold Target After the Fed Hike But...",
+      "url": "https://vblgoldfix.substack.com/p/goldman-keeps-its-5400-gold-target",
+      "source": "substack.com",
+      "published": "2026-09-19T11:49:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (NYSE:MS) Downgraded to Hold Rating by Erste Group Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-nyse-ms-downgraded-to-hold-rating-by-erste-group-bank-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-19T11:00:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AI investment, government borrowing drive global cost of capital higher: Goldman Sachs",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs/articleshow/134352343.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-19T10:43:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "United Rentals Sees Large-Project Pipeline Accelerate as Specialty Demand Stays Strong",
+      "url": "https://www.marketbeat.com/instant-alerts/event-united-rentals-sees-large-project-pipeline-accelerate-as-specialty-demand-stays-strong-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-19T10:02:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why BofA is going against the herd and calling for 2 more rate hikes in 2026",
+      "url": "https://www.businessinsider.com/fed-rate-hikes-kevin-warsh-trump-stocks-oil-prices-inflation-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-19T09:45:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The AI capex boom won't sustain S&P 500 earnings much longer, Goldman says",
+      "url": "https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-19T09:30:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Chicago Bears head coach Ben Johnson looks on against the Carolina Panthers in the fourth quarter at Bank of America Stadium on Sept. 13, 2026, in Charlotte, North Carolina.",
+      "url": "https://thebrunswicknews.com/sports/national_sports/chicago-bears-head-coach-ben-johnson-looks-on-against-the-carolina-panthers-in-the-fourth/image_97b66930-4f09-5b4d-b8f0-429ca7488140.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-09-19T09:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Ionis Pharmaceuticals Eyes TRYNGOLZA Growth as Pipeline Faces Cardio Setbacks",
+      "url": "https://www.marketbeat.com/instant-alerts/event-ionis-pharmaceuticals-eyes-tryngolza-growth-as-pipeline-faces-cardio-setbacks-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-19T09:02:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Rep. C. Scott Franklin Sells Off JPMorgan Chase & Co. (NYSE:JPM) Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/congress-rep-c-scott-franklin-sells-off-jpmorgan-chase-co-nyse-jpm-shares-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-19T09:01:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "VOO vs. SPY: Is There Actually a Difference?",
+      "url": "https://www.fool.com/investing/2026/09/19/voo-vs-spy-is-there-actually-a-difference/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-19T08:15:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Is Affirm Holdings, Inc. (AFRM) Stock a Buy After Goldman Sachs Raised Its Price Target?",
+      "url": "https://www.insidermonkey.com/news/is-affirm-holdings-inc-afrm-stock-a-buy-after-goldman-sachs-raised-its-price-target-1839109/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-19T08:08:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Can Accenture (ACN) Turn Its AI Strategy Into Sustainable Growth?",
+      "url": "https://www.insidermonkey.com/news/can-accenture-acn-turn-its-ai-strategy-into-sustainable-growth-1838859/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-19T08:06:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/a-goldman-m-a-banker-helped-bring-the-olympics-to-los-angeles",
+      "source": "bloomberg.com",
+      "published": "2026-09-19T08:00:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Odd Lots: Goldman’s Sykes on the 2028 Olympics Deal (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-09-19/odd-lots-goldman-s-sykes-on-the-2028-olympics-deal-podcast",
+      "source": "bloomberg.com",
+      "published": "2026-09-19T08:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "171,519 Shares in Capital One Financial Corporation $COF Bought by Nykredit A S",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-171519-shares-in-capital-one-financial-corporation-cof-bought-by-nykredit-a-s-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-19T07:55:04+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Nykredit A S Buys Shares of 136,188 The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-shares-of-136188-the-pnc-financial-services-group-inc-pnc-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-19T07:44:40+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "U.S. Bank’s New Points-to-Miles Conversion Partner: Avianca Lifemiles",
+      "url": "https://loyaltylobby.com/2026/09/19/u-s-banks-new-points-to-miles-conversion-partner-avianca-lifemiles/?omhide=true",
+      "source": "loyaltylobby.com",
+      "published": "2026-09-19T07:44:37+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Taboola acquires Dianomi, adding 600+ finance advertisers to its network",
+      "url": "https://ppc.land/taboola-acquires-dianomi-adding-600-finance-advertisers-to-its-network/",
+      "source": "ppc.land",
+      "published": "2026-09-19T07:41:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts $420 Billion Debt Issuance from Tech Giants Amid AI Expansion",
+      "url": "https://www.gurufocus.com/news/9089158/goldman-sachs-predicts-420-billion-debt-issuance-from-tech-giants-amid-ai-expansion",
+      "source": "gurufocus.com",
+      "published": "2026-09-19T07:20:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "HFCL, Polycab India among 7 companies that are Goldman Sachs’ AI enablers. See full list",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-polycab-india-among-7-companies-that-are-goldman-sachs-ai-enablers-see-full-list/slideshow/134349968.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-19T07:18:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Agentic AI Moves Toward Action-Oriented Assistants as Global Consumer Spending Could Reach $30 Trillion",
       "url": "https://nai500.com/blog/2026/09/agentic-ai-moves-toward-action-oriented-assistants-as-global-consumer-spending-could-reach-30-trillion/",
@@ -29,6 +251,16 @@
       ]
     },
     {
+      "title": "AI cloud firm Nscale files for US IPO",
+      "url": "https://economictimes.indiatimes.com/ai/ai-cloud-firm-nscale-files-for-us-ipo/articleshow/134350946.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-19T03:46:58+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
       "title": "Jeff Bezos, Elon Musk and Sam Altman score invites to White House state dinner for Xi: ‘Hottest ticket in town’",
       "url": "https://nypost.com/2026/09/18/us-news/jeff-bezos-elon-musk-and-sam-altman-score-invites-to-white-house-state-dinner-for-xi-hottest-ticket-in-town/",
       "source": "nypost.com",
@@ -45,209 +277,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "BioCryst Eyes $1B Rare-Disease Future Through External Innovation",
-      "url": "https://www.marketbeat.com/instant-alerts/event-biocryst-eyes-1b-rare-disease-future-through-external-innovation-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-19T02:01:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley limits redemptions at $7B private credit fund for third straight quarter",
-      "url": "https://cryptobriefing.com/morgan-stanley-private-credit-fund-redemption-limits/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-19T01:43:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley caps private credit fund withdrawals again as 11% seek exits",
-      "url": "https://www.investing.com/news/company-news/morgan-stanley-caps-private-credit-fund-withdrawals-again-as-11-seek-exits-4908013",
-      "source": "investing.com",
-      "published": "2026-09-19T00:43:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Arrowhead Pharmaceuticals Spotlights Dual-Target RNAi Data, Plozasiran Launch Progress",
-      "url": "https://www.marketbeat.com/instant-alerts/event-arrowhead-pharmaceuticals-spotlights-dual-target-rnai-data-plozasiran-launch-progress-2026-09-18/",
-      "source": "marketbeat.com",
-      "published": "2026-09-19T00:02:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Jim Cramer Wished He’d Worked At This Firm Instead Of Goldman Sachs",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-wished-hed-worked-at-this-firm-instead-of-goldman-sachs-1839482/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-18T23:18:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jim Cramer Remains Optimistic About Bank of America Corporation (NYSE:BAC) After Recent Drop",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-remains-optimistic-about-bank-of-america-corporation-nysebac-after-recent-drop-1839510/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-18T23:17:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley private credit fund redemptions remain elevated in Q3",
-      "url": "https://awesomecapital.blogspot.com/2026/09/morgan-stanley-private-credit-fund.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-18T23:11:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA: Sweet trade-ins are a tailwind for the iPhone 18 Pro series",
-      "url": "https://www.ped30.com/2026/09/18/apple-iphone18-carrier-tradein/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-iphone18-carrier-tradein",
-      "source": "ped30.com",
-      "published": "2026-09-18T22:50:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. (C) Presents at Barclays 24th Annual Global Financial Services Conference Transcript | $C",
-      "url": "https://seekingalpha.com/article/4947980-citigroup-inc-c-presents-at-barclays-24th-annual-global-financial-services-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-09-18T22:48:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dividend Champion, Contender, And Challenger Highlights: Week September 20 | $FAF $FFMR $FITB $INGR $JPM",
-      "url": "https://seekingalpha.com/article/4947975-dividend-champion-contender-and-challenger-highlights-week-september-20",
-      "source": "seekingalpha.com",
-      "published": "2026-09-18T22:14:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley private credit fund redemptions remain elevated in third quarter",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-private-credit-fund-redemptions-remain-elevated-in-third-quarter-4907950",
-      "source": "investing.com",
-      "published": "2026-09-18T22:06:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Carney Pursues EU Partnership, Investment Boom to Reduce US Dependence",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-18/carney-pursues-eu-partnership-investment-boom-to-reduce-us-dependence",
-      "source": "bloomberg.com",
-      "published": "2026-09-18T21:47:15+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bridging the Gap Between Employer and Employees on Financial Wellness",
-      "url": "https://phoenixchamber.com/2026/09/18/bridging-the-gap-between-employer-and-employees-on-financial-wellness/",
-      "source": "phoenixchamber.com",
-      "published": "2026-09-18T21:40:09+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BASEBALL-MLB-NYM-PHI/ - New York Mets first baseman Jared Young receives medical attention ...",
-      "url": "https://richmond.com/image_3e4e460e-306a-54f6-bfb2-5d09c69235a6.html",
-      "source": "richmond.com",
-      "published": "2026-09-18T21:36:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028133/0001918704-26-028133-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T21:24:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028132/0001918704-26-028132-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T21:23:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014218/0000950103-26-014218-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T21:22:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526395719/0001193125-26-395719-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T21:15:30+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "When Building Wealth, Don't Be A Hedge Fund: BNY's Levine",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-18/when-building-wealth-don-t-be-a-hedge-fund-levine-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-18T21:08:37+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026101486/0001213900-26-101486-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-18T21:07:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Diversify Capital & 'Let It Run': BNY's Levine",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-18/diversify-capital-let-it-run-bny-s-levine-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-18T21:04:42+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Emerging Mrkt Domestic Debt Fd Inc declares $0.21 dividend",
-      "url": "https://seekingalpha.com/news/4644544-morgan-stanley-emerging-mrkt-domestic-debt-fd-inc-declares-0_21-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-09-18T21:03:45+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
