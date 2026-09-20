@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-09-20T00:01:57.081725+00:00",
+  "last_updated": "2026-09-20T05:17:18.438299+00:00",
   "headlines": [
+    {
+      "title": "West Virginia beats No. 25 Virginia 38-27 in the Duke’s Mayo Classic",
+      "url": "https://www.bozemandailychronicle.com/wire/sports/west-virginia-beats-no-25-virginia-38-27-in-the-duke-s-mayo-classic/article_accf534a-71b9-5b21-9bb9-719bbd5d240a.html",
+      "source": "bozemandailychronicle.com",
+      "published": "2026-09-20T03:07:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Rockwell Automation Sees Data Centers, Labor Crunch Fueling Automation Demand",
+      "url": "https://www.marketbeat.com/instant-alerts/event-rockwell-automation-sees-data-centers-labor-crunch-fueling-automation-demand-2026-09-19/",
+      "source": "marketbeat.com",
+      "published": "2026-09-20T03:02:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+      "url": "https://awesomecapital.blogspot.com/2026/09/bessent-chinas-he-to-meet-on-sunday-at.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-20T00:43:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Couches burn on State Street after Kentucky takes down No. 9 Texas A&M - On3",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXpKLUJJLXczdHdkMW1URnpQUVQ1QlR3ZWJhMzBSZXR4NVpjM2s0N29vb3JYU0ZlUGNmaW1GSmh3cks5emM1NTNfUkp1bHZ6UmlCenVZdE5lcTkzZ196TW52dnREREtwUFQ5T2J2RmgtZ0xkc2NqNF9keVNTT0VZZTNVNHVxRGxxVmZMN3NQYWd1TGZ2em1hWEdBWmV1SF9jWjRPZzViMEE1aUtQRGVXYXZBeDE2VjhEV3c?oc=5",
+      "source": "google.com",
+      "published": "2026-09-19T23:38:38+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Bank of America survey shows semiconductors remain top crowded trade for fourth straight month",
       "url": "https://cryptobriefing.com/bofa-survey-semiconductors-crowded-trade/",
@@ -242,43 +279,6 @@
       "url": "https://investorshub.advfn.com/market-news/article/36526/citi-forecasts-widening-memory-chip-shortages-through-2031-as-ai-demand-expands?.tsrc=rss",
       "source": "advfn.com",
       "published": "2026-09-19T14:54:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GS Goes Long June 2027 Gasoline, Says Diesel To Squeeze Pricing",
-      "url": "https://vblgoldfix.substack.com/p/bank-buying-and-recommending-gasoline",
-      "source": "substack.com",
-      "published": "2026-09-19T14:45:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Netflix stock tumbles: Wells Fargo cuts target, says streamer giant needs ‘breakout hits'",
-      "url": "https://www.livemint.com/companies/news/netflix-stock-tumbles-wells-fargo-cuts-target-says-streamer-giant-needs-breakout-hits-11789824110933.html",
-      "source": "livemint.com",
-      "published": "2026-09-19T14:38:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Crypto names climb after SEC prepares for stock tokenization, TradFi names weaken: Financials week | $XLF $GS $LAZ $RIOT $MARA",
-      "url": "https://seekingalpha.com/news/4644527-crypto-names-climb-after-sec-prepares-for-stock-tokenization-tradfi-names-weaken-financials-week",
-      "source": "seekingalpha.com",
-      "published": "2026-09-19T14:17:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "StubHub (STUB) Stock May Be Below Fair Value After Citi Upgrade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stubhub-stub-stock-may-below-141135538.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-19T14:11:35+00:00",
       "tickers": [
         "C"
       ]
