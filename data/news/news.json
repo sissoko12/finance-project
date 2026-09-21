@@ -1,289 +1,211 @@
 {
-  "last_updated": "2026-09-21T14:28:44.545976+00:00",
+  "last_updated": "2026-09-21T19:42:06.050091+00:00",
   "headlines": [
     {
-      "title": "Outlier Bank of America Sees Two South Africa Rate Hikes in 2026",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/outlier-bank-of-america-sees-two-south-africa-rate-hikes-in-2026",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T13:26:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SAP stock up on Bank of America comments",
-      "url": "https://www.marketscreener.com/news/sap-stock-up-on-bank-of-america-comments-ce785adbdc8df526",
-      "source": "marketscreener.com",
-      "published": "2026-09-21T13:21:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Reaffirms Buy Rating for Magnolia Oil & Gas (NYSE:MGY)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-reaffirms-buy-rating-for-magnolia-oil-gas-nyse-mgy-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Raises Quest Diagnostics (NYSE:DGX) Price Target to $260.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-raises-quest-diagnostics-nyse-dgx-price-target-to-26000-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Labcorp (NYSE:LH) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-labcorp-nyse-lh-stock-price-expected-to-rise-truist-financial-analyst-says-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:29+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for RLJ Lodging Trust (NYSE:RLJ) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-positive-forecast-for-rlj-lodging-trust-nyse-rlj-stock-price-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Targa Resources (NYSE:TRGP) Receives \"Buy\" Rating from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-targa-resources-nyse-trgp-receives-buy-rating-from-truist-financial-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:28+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "ODDITY Tech (NASDAQ:ODD) Earns \"Neutral\" Rating from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-oddity-tech-nasdaq-odd-earns-neutral-rating-from-jpmorgan-chase-co-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Vornado Realty Trust (NYSE:VNO) Given New $35.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-vornado-realty-trust-nyse-vno-given-new-3500-price-target-at-truist-financial-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:18:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "APA (NASDAQ:APA) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-apa-nasdaq-apa-stock-price-expected-to-rise-truist-financial-analyst-says-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:06:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "HubSpot (NYSE:HUBS) Price Target Raised to $275.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-hubspot-nyse-hubs-price-target-raised-to-27500-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:06:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Guardian Pharmacy Services (NYSE:GRDN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-positive-forecast-for-guardian-pharmacy-services-nyse-grdn-stock-price-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:06:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Zacks Market Edge Highlights: ExxonMobil, JPMorgan Chase and NVIDIA",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-exxonmobil-130200702.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T13:02:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Investors Expect AI Growth to Continue, BofA Survey Shows",
-      "url": "https://finance.yahoo.com/m/7e35677c-2d0a-37d8-8fbb-85b649ad5a2a/investors-expect-ai-growth-to.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T13:00:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AON (NYSE:AON) Given Buy Rating at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-aon-nyse-aon-given-buy-rating-at-citigroup-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T13:00:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "J.P. Morgan and Qatar Investment Authority ink $20B partnership",
-      "url": "https://seekingalpha.com/news/4644742-j-p-morgan-and-qatar-investment-authority-ink-20b-partnership",
+      "title": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF declares quarterly distribution of $0.0440",
+      "url": "https://seekingalpha.com/news/4645119-state-street-spdr-uc-investments-9010-endowment-strategy-index-etf-declares-quarterly-distribution-of-00440",
       "source": "seekingalpha.com",
-      "published": "2026-09-21T13:00:19+00:00",
+      "published": "2026-09-21T18:58:09+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street SPDR Portfolio Nasdaq 100 ETF declares quarterly distribution of $0.0272",
+      "url": "https://seekingalpha.com/news/4645118-state-street-spdr-portfolio-nasdaq-100-etf-declares-quarterly-distribution-of-00272",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T18:57:32+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "NexGen Energy (TSE:NXE) Given a C$19.00 Price Target by JPMorgan Chase & Co. Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nexgen-energy-tse-nxe-given-a-c1900-price-target-by-jpmorgan-chase-co-analysts-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T18:42:35+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Investors Heavily Search JPMorgan Chase & Co. (JPM): Here is What You Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-jpmorgan-chase-130003199.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T13:00:03+00:00",
+      "title": "State Street Financial Sel Sec SPDR ETF declares quarterly distribution of $0.1965",
+      "url": "https://seekingalpha.com/news/4645045-state-street-financial-sel-sec-spdr-etf-declares-quarterly-distribution-of-01965",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T18:26:37+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "Will JPMorgan's Selective M&A Strategy Expand Growth Runway?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-selective-m-strategy-expand-125700194.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T12:57:00+00:00",
+      "title": "State Street Energy Select Sector SPDR ETF declares quarterly distribution of $0.3803",
+      "url": "https://seekingalpha.com/news/4645043-state-street-energy-select-sector-spdr-etf-declares-quarterly-distribution-of-03803",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T18:25:46+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "Our top 10 things to watch in the stock market Monday",
-      "url": "https://www.cnbc.com/2026/09/21/our-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source": "cnbc.com",
-      "published": "2026-09-21T12:56:57+00:00",
+      "title": "State Street Com Svc Sel Sec SPDR ETF declares quarterly distribution of $0.3641",
+      "url": "https://seekingalpha.com/news/4645041-state-street-com-svc-sel-sec-spdr-etf-declares-quarterly-distribution-of-03641",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T18:25:25+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Materials Select Sector SPDR ETF declares quarterly distribution of $0.2286",
+      "url": "https://seekingalpha.com/news/4645040-state-street-materials-select-sector-spdr-etf-declares-quarterly-distribution-of-02286",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T18:25:04+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Meta Stock Jumps as Wells Fargo Underwrites the AI Story",
+      "url": "https://www.gurufocus.com/news/9090091/meta-stock-jumps-as-wells-fargo-underwrites-the-ai-story",
+      "source": "gurufocus.com",
+      "published": "2026-09-21T18:13:33+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for T-Mobile US (NASDAQ:TMUS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-t-mobile-us-nasdaq-tmus-stock-price-2026-09-21/",
+      "title": "Agios Pharmaceuticals (NASDAQ:AGIO) Stock Price Expected to Rise, Bank of America Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-agios-pharmaceuticals-nasdaq-agio-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-09-21/",
       "source": "marketbeat.com",
-      "published": "2026-09-21T12:48:27+00:00",
+      "published": "2026-09-21T17:54:29+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Meta Heads Into Connect With Fresh Wells Fargo Bull Case As Muse Gains Traction — Analyst Says Company ‘Now Has A Story To Tell’",
-      "url": "https://stocktwits.com/news-articles/markets/equity/meta-heads-into-connect-with-fresh-wells-fargo-bull-case-as-muse-gains-traction-analyst-says-company-now-has-a-story-to-tell/cZMRimZRB4x?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-09-21T12:37:38+00:00",
+      "title": "Bank of America Issues Positive Forecast for Krystal Biotech (NASDAQ:KRYS) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-issues-positive-forecast-for-krystal-biotech-nasdaq-krys-stock-price-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T17:54:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Xencor (NASDAQ:XNCR) Price Target Raised to $26.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-xencor-nasdaq-xncr-price-target-raised-to-2600-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T17:54:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Meta Platforms (META) Stock Surges 7% on Muse AI Success and Analyst Upgrade",
+      "url": "https://blockonomi.com/meta-platforms-meta-stock-surges-7-on-muse-ai-success-and-analyst-upgrade/",
+      "source": "blockonomi.com",
+      "published": "2026-09-21T17:54:21+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Begins Coverage on NexGen Energy (NYSE:NXE)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-begins-coverage-on-nexgen-energy-nyse-nxe-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:29+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226046467/0001839882-26-046467-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-21T17:49:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Candel upgraded at BofA on prostate cancer gene therapy | $CADL",
+      "url": "https://seekingalpha.com/news/4644970-candel-upgraded-bofa-prostate-cancer-gene-therapy",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T17:43:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226046465/0001839882-26-046465-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-21T17:40:08+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Bankrolls AI Ventures After Initial Skepticism",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-bankrolls-ai-ventures-after-initial-skepticism/",
+      "source": "pymnts.com",
+      "published": "2026-09-21T17:24:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Howie Rose Says Goodbye During Last Mets Broadcast.",
+      "url": "https://www.insideradio.com/free/howie-rose-says-goodbye-during-last-mets-broadcast/article_3818e31e-d075-460b-a371-7e690f15f9ae.html",
+      "source": "insideradio.com",
+      "published": "2026-09-21T17:13:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Greek Banks Emerge From Crisis Shadows With Strong Earnings and Fresh Market Tailwinds",
+      "url": "https://www.webpronews.com/greek-banks-emerge-from-crisis-shadows-with-strong-earnings-and-fresh-market-tailwinds/",
+      "source": "webpronews.com",
+      "published": "2026-09-21T17:12:15+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Scholar Rock (NASDAQ:SRRK) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-scholar-rock-nasdaq-srrk-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:29+00:00",
+      "title": "Tesla Opens Roadster Preorders; More SpaceX Merger Talks Surface",
+      "url": "https://www.investors.com/news/tesla-spacex-merger-elon-musk-roadster-ai-artificial-intelligence-grok/",
+      "source": "investors.com",
+      "published": "2026-09-21T16:53:37+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "Extra Space Storage (NYSE:EXR) Given New $153.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-extra-space-storage-nyse-exr-given-new-15300-price-target-at-jpmorgan-chase-co-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:28+00:00",
+      "title": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees",
+      "url": "https://247wallst.com/investing/2026/09/21/we-think-meta-could-keep-soaring-higher-and-wells-fargo-agrees/",
+      "source": "247wallst.com",
+      "published": "2026-09-21T16:45:35+00:00",
       "tickers": [
-        "JPM"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Smartstop Self Storage REIT (NYSE:SMA) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-smartstop-self-storage-reit-nyse-sma-stock-price-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:28+00:00",
+      "title": "Delivery times for iPhone 18 Pro and Pro Max 'slightly higher' than last year, Citi says",
+      "url": "https://seekingalpha.com/news/4644947-delivery-times-for-iphone-18-pro-and-pro-max-slightly-higher-than-last-year-citi-says",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T16:42:45+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Wabtec (NYSE:WAB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-wabtec-nyse-wab-stock-price-2026-09-21/",
+      "title": "Beacon Financial (NYSE:BBT) Sees Unusually-High Trading Volume - Should You Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-beacon-financial-nyse-bbt-sees-unusually-high-trading-volume-should-you-buy-2026-09-21/",
       "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Noah (NYSE:NOAH) Price Target to $9.70",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-noah-nyse-noah-price-target-to-970-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Lowers Public Storage (NYSE:PSA) Price Target to $330.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-public-storage-nyse-psa-price-target-to-33000-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T12:36:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Beacon Financial Corporation Announces CEO Transition: Sean A. Gray Appointed Chief Executive Officer; Paul A. Perrault to Retire",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beacon-financial-corporation-announces-ceo-123000466.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T12:30:00+00:00",
+      "published": "2026-09-21T16:20:35+00:00",
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Jamie Dimon’s Life Advice: ““I made a lot of mistakes. I don’t want to echo the secret sauce. Admit your flaws quick...” — JPMorgan Chase CEO's masterclass in grit, humility, learning from failure and knowing when to change course",
-      "url": "https://economictimes.indiatimes.com/news/international/us/jamie-dimons-life-advice-i-made-a-lot-of-mistakes-i-dont-want-to-echo-the-secret-sauce-admit-your-flaws-quick-jpmorgan-chase-ceos-masterclass-in-grit-humility-learning-from-failure-and-knowing-when-to-change-course/articleshow/134388733.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-21T12:07:22+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
