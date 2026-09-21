@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-09-21T01:29:03.387664+00:00",
+  "last_updated": "2026-09-21T07:02:38.776495+00:00",
   "headlines": [
+    {
+      "title": "Merz Fights For Survival, Citi Warns of AI Risks, More",
+      "url": "https://www.bloomberg.com/news/audio/2026-09-21/merz-fights-for-survival-citi-warns-of-ai-risks-more",
+      "source": "bloomberg.com",
+      "published": "2026-09-21T06:44:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Why Goldman Sachs still prefers AI infrastructure to 5% Treasurys",
+      "url": "https://www.businessinsider.com/bond-market-interest-rate-us-treasury-ai-trade-goldman-sachs-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-21T05:28:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Erste Group Bank Comments on Bank of America FY2026 Earnings",
+      "url": "https://www.marketbeat.com/instant-alerts/estimates-erste-group-bank-comments-on-bank-of-america-fy2026-earnings-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T05:12:59+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sees SARB Rate Hike to Keep Inflation on 3% Path",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/morgan-stanley-sees-sarb-rate-hike-to-keep-inflation-on-3-path",
+      "source": "bloomberg.com",
+      "published": "2026-09-21T04:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs names 5 power generation stocks that are AI enablers amid soaring demand",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-5-power-generation-stocks-that-are-ai-enablers-amid-soaring-demand/slideshow/134379684.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-21T04:13:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA's Cabana: Front-End Yields Face Repricing Risk",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-21T03:46:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BlackRock's Vavrek: AI Hardware to Drive EM",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/blackrock-s-vavrek-ai-hardware-to-drive-em-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-21T03:44:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA's Oberoi on Markets, AI Trade, Central Bank Policy",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-oberoi-on-markets-ai-trade-central-bank-policy-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-21T03:39:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "- CEO’s Morgan Stanley pricing outlook extends Tempus AI rally ...",
+      "url": "https://awesomecapital.blogspot.com/2026/09/ceos-morgan-pricing-outlook-extends.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-21T03:30:57+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AI-Driven Cybersecurity Concerns Heighten, Says Citigroup CEO (C)",
+      "url": "https://www.gurufocus.com/news/9089344/aidriven-cybersecurity-concerns-heighten-says-citigroup-ceo-c",
+      "source": "gurufocus.com",
+      "published": "2026-09-21T02:30:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NeoGenomics Highlights NGS, MRD Growth Strategy at Morgan Stanley Conference",
+      "url": "https://www.marketbeat.com/instant-alerts/event-neogenomics-highlights-ngs-mrd-growth-strategy-at-morgan-stanley-conference-2026-09-20/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T02:02:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "USA-CHINA/ - U.S. Treasury Secretary Scott Bessent walks with U.S. Trade ...",
+      "url": "https://morganton.com/image_2fcc843e-9867-5afb-97f1-71c5109c0d62.html",
+      "source": "morganton.com",
+      "published": "2026-09-21T01:41:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "USA-CHINA/ - U.S. Treasury Secretary Scott Bessent stands next to U.S. Trade ...",
+      "url": "https://www.stltoday.com/image_991fce00-6d66-519a-a647-cf40f5bd4577.html",
+      "source": "stltoday.com",
+      "published": "2026-09-21T01:41:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA cuts to the chase on AI data center demand",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-says-ai-data-center-demand-strong?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-21T01:37:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Colorectal Cancer Alliance Adds Goldman Sachs, McKinsey, And Latham Leaders To Board To Advance Cancer Research",
+      "url": "https://pulse2.com/colorectal-cancer-alliance-adds-goldman-sachs-mckinsey-and-latham-leaders-to-board-to-advance-cancer-research/",
+      "source": "pulse2.com",
+      "published": "2026-09-21T01:34:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Dividend Announcements: September 12-18, 2026 | $FAF $FITB $IDA $INGR $JPM",
       "url": "https://seekingalpha.com/article/4948167-dividend-announcements-september-12-18-2026",
@@ -8,6 +148,15 @@
       "published": "2026-09-21T01:07:19+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Recursion Pharmaceuticals Highlights AI Drug Platform, FAP Progress at Morgan Stanley Conference",
+      "url": "https://www.marketbeat.com/instant-alerts/event-recursion-pharmaceuticals-highlights-ai-drug-platform-fap-progress-at-morgan-stanley-conference-2026-09-20/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T01:02:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -19,6 +168,24 @@
         "C",
         "COF",
         "SCHW"
+      ]
+    },
+    {
+      "title": "Goldman and Citizens Analysts Name Coinbase, Robinhood and Circle as Early Winners of SEC Tokenized-Stock Push",
+      "url": "https://insidebitcoins.com/news/sec-tokenized-stocks-coinbase-robinhood-circle-winners",
+      "source": "insidebitcoins.com",
+      "published": "2026-09-21T00:45:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Zoom CEO Eric Yuan Joins Tech Titans in Forecasting AI-Driven Three-Day Workweek",
+      "url": "https://www.webpronews.com/zoom-ceo-eric-yuan-joins-tech-titans-in-forecasting-ai-driven-three-day-workweek/",
+      "source": "webpronews.com",
+      "published": "2026-09-21T00:32:14+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -109,175 +276,6 @@
       "published": "2026-09-20T21:15:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "WW International Eyes Cash Flow Turnaround as GLP-1 Care Gains Momentum",
-      "url": "https://www.marketbeat.com/instant-alerts/event-ww-international-eyes-cash-flow-turnaround-as-glp-1-care-gains-momentum-2026-09-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "marketbeat.com",
-      "published": "2026-09-20T21:01:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "HYSA or CD? Capital One accounts.",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wlsdsx/hysa_or_cd_capital_one_accounts/",
-      "source": "reddit.com",
-      "published": "2026-09-20T20:44:53+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Value Stocks To Add to Your Watchlist - September 20th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-value-stocks-to-add-to-your-watchlist-september-20th-2026-09-20/",
-      "source": "marketbeat.com",
-      "published": "2026-09-20T20:02:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cash Management Stocks Like BNY Mellon Gain Attention As Short Term Yields Stay High",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cash-management-stocks-bny-mellon-191204376.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-20T19:12:04+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Michael Hawkins midair - Quarterback Michael Hawkins Jr. (3) scores a rushing touchdown ...",
-      "url": "https://www.times-news.com/michael-hawkins-midair/image_1444be67-6266-423f-bf96-407b3cdfe08a.html",
-      "source": "times-news.com",
-      "published": "2026-09-20T18:45:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ML Brokerage Questions (and Advisor Questions in general)",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wlp3i9/ml_brokerage_questions_and_advisor_questions_in/",
-      "source": "reddit.com",
-      "published": "2026-09-20T18:41:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley questions Federal Reserve’s approach to price stability under Warsh",
-      "url": "https://cryptobriefing.com/morgan-stanley-questions-fed-warsh-price-stability/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-20T18:35:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) and PhenixFIN (NYSE:PFX) Critical Comparison",
-      "url": "https://www.tickerreport.com/banking-finance/13590889/state-street-nysestt-and-phenixfin-nysepfx-critical-comparison.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-20T18:17:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Crypto Scammers Stole 82-Year-Old’s $1.7M — Now Charles Schwab Must Pay",
-      "url": "https://www.ccn.com/news/crypto/crypto-scammers-82-year-old-1-7m-charles-schwab-paying/?.tsrc=rss",
-      "source": "ccn.com",
-      "published": "2026-09-20T17:51:47+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Harvard's Judgment Professor: The Curse of Optionality, and the One Habit That Builds Better Judgment",
-      "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML8844899694.mp3",
-      "source": "podtrac.com",
-      "published": "2026-09-20T17:45:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "What Bank/Bank Account To Use For Storing My Income in One Place? Mix of Bank of America and Ally?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wlnak3/what_bankbank_account_to_use_for_storing_my/",
-      "source": "reddit.com",
-      "published": "2026-09-20T17:33:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Best Financial Stocks To Consider - September 20th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-best-financial-stocks-to-consider-september-20th-2026-09-20/",
-      "source": "marketbeat.com",
-      "published": "2026-09-20T17:01:58+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-20T16:53:18+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup CEO Jane Fraser warns of rising cyber risks from AI",
-      "url": "https://cryptobriefing.com/citigroup-jane-fraser-ai-cyber-risks/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-20T16:39:15+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "QIA, Apollo & Goldman CEOs on Global Capital",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-20/qia-apollo-goldman-ceos-on-global-capital-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-20T16:34:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Qatar, Citi on Capital Discipline and Resilience",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-citi-on-capital-discipline-and-resilience-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-20T16:15:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Is Terex (TEX) Still Undervalued Following Its Morgan Stanley Laguna Conference Appearance?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/terex-tex-still-undervalued-following-161322075.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-20T16:13:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "United Rentals (URI) Lifted Guidance On Stronger Demand, Is It Still Below Fair Value?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-uri-lifted-guidance-161247492.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-20T16:12:47+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
