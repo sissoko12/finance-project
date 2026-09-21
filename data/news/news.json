@@ -1,279 +1,287 @@
 {
-  "last_updated": "2026-09-21T07:02:38.776495+00:00",
+  "last_updated": "2026-09-21T14:28:44.545976+00:00",
   "headlines": [
     {
-      "title": "Merz Fights For Survival, Citi Warns of AI Risks, More",
-      "url": "https://www.bloomberg.com/news/audio/2026-09-21/merz-fights-for-survival-citi-warns-of-ai-risks-more",
+      "title": "Outlier Bank of America Sees Two South Africa Rate Hikes in 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/outlier-bank-of-america-sees-two-south-africa-rate-hikes-in-2026",
       "source": "bloomberg.com",
-      "published": "2026-09-21T06:44:40+00:00",
+      "published": "2026-09-21T13:26:37+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Why Goldman Sachs still prefers AI infrastructure to 5% Treasurys",
-      "url": "https://www.businessinsider.com/bond-market-interest-rate-us-treasury-ai-trade-goldman-sachs-2026-9",
-      "source": "businessinsider.com",
-      "published": "2026-09-21T05:28:42+00:00",
+      "title": "SAP stock up on Bank of America comments",
+      "url": "https://www.marketscreener.com/news/sap-stock-up-on-bank-of-america-comments-ce785adbdc8df526",
+      "source": "marketscreener.com",
+      "published": "2026-09-21T13:21:32+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Erste Group Bank Comments on Bank of America FY2026 Earnings",
-      "url": "https://www.marketbeat.com/instant-alerts/estimates-erste-group-bank-comments-on-bank-of-america-fy2026-earnings-2026-09-21/",
+      "title": "Truist Financial Reaffirms Buy Rating for Magnolia Oil & Gas (NYSE:MGY)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-reaffirms-buy-rating-for-magnolia-oil-gas-nyse-mgy-2026-09-21/",
       "source": "marketbeat.com",
-      "published": "2026-09-21T05:12:59+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees SARB Rate Hike to Keep Inflation on 3% Path",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/morgan-stanley-sees-sarb-rate-hike-to-keep-inflation-on-3-path",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T04:30:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs names 5 power generation stocks that are AI enablers amid soaring demand",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-5-power-generation-stocks-that-are-ai-enablers-amid-soaring-demand/slideshow/134379684.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-21T04:13:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T03:46:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BlackRock's Vavrek: AI Hardware to Drive EM",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/blackrock-s-vavrek-ai-hardware-to-drive-em-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T03:44:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA's Oberoi on Markets, AI Trade, Central Bank Policy",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-oberoi-on-markets-ai-trade-central-bank-policy-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T03:39:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "- CEO’s Morgan Stanley pricing outlook extends Tempus AI rally ...",
-      "url": "https://awesomecapital.blogspot.com/2026/09/ceos-morgan-pricing-outlook-extends.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-21T03:30:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AI-Driven Cybersecurity Concerns Heighten, Says Citigroup CEO (C)",
-      "url": "https://www.gurufocus.com/news/9089344/aidriven-cybersecurity-concerns-heighten-says-citigroup-ceo-c",
-      "source": "gurufocus.com",
-      "published": "2026-09-21T02:30:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NeoGenomics Highlights NGS, MRD Growth Strategy at Morgan Stanley Conference",
-      "url": "https://www.marketbeat.com/instant-alerts/event-neogenomics-highlights-ngs-mrd-growth-strategy-at-morgan-stanley-conference-2026-09-20/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T02:02:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "USA-CHINA/ - U.S. Treasury Secretary Scott Bessent walks with U.S. Trade ...",
-      "url": "https://morganton.com/image_2fcc843e-9867-5afb-97f1-71c5109c0d62.html",
-      "source": "morganton.com",
-      "published": "2026-09-21T01:41:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "USA-CHINA/ - U.S. Treasury Secretary Scott Bessent stands next to U.S. Trade ...",
-      "url": "https://www.stltoday.com/image_991fce00-6d66-519a-a647-cf40f5bd4577.html",
-      "source": "stltoday.com",
-      "published": "2026-09-21T01:41:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA cuts to the chase on AI data center demand",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-says-ai-data-center-demand-strong?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-21T01:37:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Colorectal Cancer Alliance Adds Goldman Sachs, McKinsey, And Latham Leaders To Board To Advance Cancer Research",
-      "url": "https://pulse2.com/colorectal-cancer-alliance-adds-goldman-sachs-mckinsey-and-latham-leaders-to-board-to-advance-cancer-research/",
-      "source": "pulse2.com",
-      "published": "2026-09-21T01:34:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Dividend Announcements: September 12-18, 2026 | $FAF $FITB $IDA $INGR $JPM",
-      "url": "https://seekingalpha.com/article/4948167-dividend-announcements-september-12-18-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-21T01:07:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Recursion Pharmaceuticals Highlights AI Drug Platform, FAP Progress at Morgan Stanley Conference",
-      "url": "https://www.marketbeat.com/instant-alerts/event-recursion-pharmaceuticals-highlights-ai-drug-platform-fap-progress-at-morgan-stanley-conference-2026-09-20/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T01:02:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Tracking William Nygren's Harris Associates Portfolio - Q2 2026 Update | $COF $SCHW $ICE $MRSH $SYY",
-      "url": "https://seekingalpha.com/article/4948164-william-nygren-harris-associates-portfolio-q2-2026-update",
-      "source": "seekingalpha.com",
-      "published": "2026-09-21T00:50:28+00:00",
+      "published": "2026-09-21T13:18:29+00:00",
       "tickers": [
         "C",
-        "COF",
-        "SCHW"
+        "TFC"
       ]
     },
     {
-      "title": "Goldman and Citizens Analysts Name Coinbase, Robinhood and Circle as Early Winners of SEC Tokenized-Stock Push",
-      "url": "https://insidebitcoins.com/news/sec-tokenized-stocks-coinbase-robinhood-circle-winners",
-      "source": "insidebitcoins.com",
-      "published": "2026-09-21T00:45:12+00:00",
+      "title": "Truist Financial Raises Quest Diagnostics (NYSE:DGX) Price Target to $260.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-raises-quest-diagnostics-nyse-dgx-price-target-to-26000-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:18:29+00:00",
       "tickers": [
-        "GS"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Zoom CEO Eric Yuan Joins Tech Titans in Forecasting AI-Driven Three-Day Workweek",
-      "url": "https://www.webpronews.com/zoom-ceo-eric-yuan-joins-tech-titans-in-forecasting-ai-driven-three-day-workweek/",
-      "source": "webpronews.com",
-      "published": "2026-09-21T00:32:14+00:00",
+      "title": "Labcorp (NYSE:LH) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-labcorp-nyse-lh-stock-price-expected-to-rise-truist-financial-analyst-says-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:18:29+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for RLJ Lodging Trust (NYSE:RLJ) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-positive-forecast-for-rlj-lodging-trust-nyse-rlj-stock-price-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:18:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Targa Resources (NYSE:TRGP) Receives \"Buy\" Rating from Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-targa-resources-nyse-trgp-receives-buy-rating-from-truist-financial-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:18:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "ODDITY Tech (NASDAQ:ODD) Earns \"Neutral\" Rating from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-oddity-tech-nasdaq-odd-earns-neutral-rating-from-jpmorgan-chase-co-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:18:27+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Sees Upside to Its Already Hawkish 3.75% BOK Rate Call",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/jpmorgan-sees-upside-to-its-already-hawkish-3-75-bok-rate-call",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T00:12:35+00:00",
+      "title": "Vornado Realty Trust (NYSE:VNO) Given New $35.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-vornado-realty-trust-nyse-vno-given-new-3500-price-target-at-truist-financial-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:18:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "APA (NASDAQ:APA) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-apa-nasdaq-apa-stock-price-expected-to-rise-truist-financial-analyst-says-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:06:38+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "HubSpot (NYSE:HUBS) Price Target Raised to $275.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hubspot-nyse-hubs-price-target-raised-to-27500-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:06:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Positive Forecast for Guardian Pharmacy Services (NYSE:GRDN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-positive-forecast-for-guardian-pharmacy-services-nyse-grdn-stock-price-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:06:35+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Zacks Market Edge Highlights: ExxonMobil, JPMorgan Chase and NVIDIA",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-exxonmobil-130200702.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-21T13:02:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citi CEO Says Companies Scrambling to Launch AI Cyber Defenses",
-      "url": "https://www.pymnts.com/cybersecurity/2026/citi-ceo-says-companies-scrambling-to-launch-ai-cyber-defenses/",
-      "source": "pymnts.com",
-      "published": "2026-09-20T23:51:57+00:00",
+      "title": "Investors Expect AI Growth to Continue, BofA Survey Shows",
+      "url": "https://finance.yahoo.com/m/7e35677c-2d0a-37d8-8fbb-85b649ad5a2a/investors-expect-ai-growth-to.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-21T13:00:37+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AON (NYSE:AON) Given Buy Rating at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-aon-nyse-aon-given-buy-rating-at-citigroup-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T13:00:29+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Partners Capital Names Jennifer Fox Bensimon As Head Of Co-Investments",
-      "url": "https://pulse2.com/partners-capital-names-jennifer-fox-bensimon-as-head-of-co-investments/",
-      "source": "pulse2.com",
-      "published": "2026-09-20T23:34:47+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?",
-      "url": "https://www.fool.com/investing/2026/09/20/should-you-buy-goldman-sachs-stock-after-a-28-run/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-20T23:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Uh Oh: Citi Strata Cards Get New Bonus Eligibility Rules (Lifetime Replaces 48 Months)",
-      "url": "https://onemileatatime.com/news/citi-strata-card-new-bonus-eligibility-rules/",
-      "source": "onemileatatime.com",
-      "published": "2026-09-20T23:23:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Semaglutide Cliff vs. a 10x Multiple: Is Novo Nordisk (NVO) a Value Trap or a Bargain?",
-      "url": "https://www.insidermonkey.com/news/the-semaglutide-cliff-vs-a-10x-multiple-is-novo-nordisk-nvo-a-value-trap-or-a-bargain-1837342/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-20T23:23:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
-      "url": "https://www.marketbeat.com/instant-alerts/event-aurora-innovation-targets-20-driverless-trucks-a-week-as-daas-shift-takes-shape-2026-09-20/",
-      "source": "marketbeat.com",
-      "published": "2026-09-20T23:01:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Jazz Pharmaceuticals Targets $5B Zanidatamab Opportunity as Oncology Revenue Tops $1B",
-      "url": "https://www.marketbeat.com/instant-alerts/event-jazz-pharmaceuticals-targets-5b-zanidatamab-opportunity-as-oncology-revenue-tops-1b-2026-09-20/",
-      "source": "marketbeat.com",
-      "published": "2026-09-20T22:02:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Scott Bessent huddles with Chinese vice premier on trade ahead of Trump’s meeting with Xi Jinping",
-      "url": "https://nypost.com/2026/09/20/us-news/scott-bessent-huddles-with-chinese-vice-premier-on-trade-ahead-of-trumps-meeting-with-xi-jinping/",
-      "source": "nypost.com",
-      "published": "2026-09-20T21:16:10+00:00",
+      "title": "J.P. Morgan and Qatar Investment Authority ink $20B partnership",
+      "url": "https://seekingalpha.com/news/4644742-j-p-morgan-and-qatar-investment-authority-ink-20b-partnership",
+      "source": "seekingalpha.com",
+      "published": "2026-09-21T13:00:19+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
-      "url": "https://www.fool.com/investing/2026/09/20/the-ultimate-dividend-growth-stock-to-buy-with-100/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-20T21:15:00+00:00",
+      "title": "Investors Heavily Search JPMorgan Chase & Co. (JPM): Here is What You Need to Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-jpmorgan-chase-130003199.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-21T13:00:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Will JPMorgan's Selective M&A Strategy Expand Growth Runway?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-selective-m-strategy-expand-125700194.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-21T12:57:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Monday",
+      "url": "https://www.cnbc.com/2026/09/21/our-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "cnbc.com",
+      "published": "2026-09-21T12:56:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for T-Mobile US (NASDAQ:TMUS) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-t-mobile-us-nasdaq-tmus-stock-price-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:48:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Meta Heads Into Connect With Fresh Wells Fargo Bull Case As Muse Gains Traction — Analyst Says Company ‘Now Has A Story To Tell’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/meta-heads-into-connect-with-fresh-wells-fargo-bull-case-as-muse-gains-traction-analyst-says-company-now-has-a-story-to-tell/cZMRimZRB4x?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-09-21T12:37:38+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Begins Coverage on NexGen Energy (NYSE:NXE)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-begins-coverage-on-nexgen-energy-nyse-nxe-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Scholar Rock (NASDAQ:SRRK) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-scholar-rock-nasdaq-srrk-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Extra Space Storage (NYSE:EXR) Given New $153.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-extra-space-storage-nyse-exr-given-new-15300-price-target-at-jpmorgan-chase-co-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Smartstop Self Storage REIT (NYSE:SMA) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-smartstop-self-storage-reit-nyse-sma-stock-price-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Wabtec (NYSE:WAB) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-wabtec-nyse-wab-stock-price-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Noah (NYSE:NOAH) Price Target to $9.70",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-noah-nyse-noah-price-target-to-970-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Lowers Public Storage (NYSE:PSA) Price Target to $330.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-lowers-public-storage-nyse-psa-price-target-to-33000-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T12:36:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Beacon Financial Corporation Announces CEO Transition: Sean A. Gray Appointed Chief Executive Officer; Paul A. Perrault to Retire",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beacon-financial-corporation-announces-ceo-123000466.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-21T12:30:00+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Jamie Dimon’s Life Advice: ““I made a lot of mistakes. I don’t want to echo the secret sauce. Admit your flaws quick...” — JPMorgan Chase CEO's masterclass in grit, humility, learning from failure and knowing when to change course",
+      "url": "https://economictimes.indiatimes.com/news/international/us/jamie-dimons-life-advice-i-made-a-lot-of-mistakes-i-dont-want-to-echo-the-secret-sauce-admit-your-flaws-quick-jpmorgan-chase-ceos-masterclass-in-grit-humility-learning-from-failure-and-knowing-when-to-change-course/articleshow/134388733.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-21T12:07:22+00:00",
       "tickers": [
         "JPM"
       ]
