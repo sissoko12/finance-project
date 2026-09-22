@@ -1,279 +1,288 @@
 {
-  "last_updated": "2026-09-22T07:36:15.145597+00:00",
+  "last_updated": "2026-09-22T13:19:05.120193+00:00",
   "headlines": [
     {
-      "title": "JPM: AI Investment Surge May Reach $1 Trillion, Says JPMorgan CEO Jamie Dimon",
-      "url": "https://www.gurufocus.com/news/9091131/jpm-ai-investment-surge-may-reach-1-trillion-says-jpmorgan-ceo-jamie-dimon",
-      "source": "gurufocus.com",
-      "published": "2026-09-22T06:21:41+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026101992/0001213900-26-101992-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-22T12:36:47+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Barclays Hires Wee Yee Yeong from Morgan Stanley for Wealth Management",
-      "url": "https://www.gurufocus.com/news/9091134/barclays-hires-wee-yee-yeong-from-morgan-stanley-for-wealth-management",
-      "source": "gurufocus.com",
-      "published": "2026-09-22T06:21:41+00:00",
+      "title": "Lazard: High-Dividend Yield Is Offset By M&A Weakness | $SPY $MS $TROW $IVZ $LAZ",
+      "url": "https://seekingalpha.com/article/4948482-lazard-stock-high-dividend-yield-offset-by-ma-weakness",
+      "source": "seekingalpha.com",
+      "published": "2026-09-22T12:30:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "The next big question for AI agents is how they'll make money, Goldman says",
-      "url": "https://www.businessinsider.com/meta-muse-ai-agent-how-ai-agents-make-money-goldman-2026-9",
-      "source": "businessinsider.com",
-      "published": "2026-09-22T06:20:34+00:00",
+      "title": "European defense: BofA names its top picks",
+      "url": "https://www.marketscreener.com/news/european-defense-bofa-names-its-top-picks-ce785ad8da8ef321",
+      "source": "marketscreener.com",
+      "published": "2026-09-22T12:20:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The ABC of financial analysis: The different ways a listed company can raise funds",
+      "url": "https://www.marketscreener.com/news/the-abc-of-financial-analysis-the-different-ways-a-listed-company-can-raise-funds-ce785ad8da8bff2d",
+      "source": "marketscreener.com",
+      "published": "2026-09-22T12:18:24+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Meta added $194B on Monday. That's more than all of Disney",
+      "url": "https://www.reddit.com/r/stocks/comments/1wn7pdn/meta_added_194b_on_monday_thats_more_than_all_of/",
+      "source": "reddit.com",
+      "published": "2026-09-22T12:08:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Eldorado Gold (NYSE:EGO) Stock Rating Upgraded by Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-eldorado-gold-nyse-ego-stock-rating-upgraded-by-bank-of-america-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T12:06:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Warner Bros. Discovery (NASDAQ:WBD) Price Target Raised to $31.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-warner-bros-discovery-nasdaq-wbd-price-target-raised-to-3100-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T12:06:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Has Lowered Expectations for RxSight (NASDAQ:RXST) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-has-lowered-expectations-for-rxsight-nasdaq-rxst-stock-price-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T12:06:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GCG Advisory Partners Exceeds 5 Billion in AUM and Builds Out Ultra-High-Net-Worth and Family Office with Former Wells Fargo FiNet Advisor Team",
+      "url": "https://www.prnewswire.com/news-releases/gcg-advisory-partners-exceeds-5-billion-in-aum-and-builds-out-ultra-high-net-worth-and-family-office-with-former-wells-fargo-finet-advisor-team-302884831.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-22T12:04:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Fifth Third Bancorp raised to Buy at Citi on Comerica integration, higher rate setup",
+      "url": "https://seekingalpha.com/news/4645331-fifth-third-bancorp-raised-to-buy-at-citi-on-comerica-integration-higher-rate-setup",
+      "source": "seekingalpha.com",
+      "published": "2026-09-22T12:01:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Amid Growing Demand for Financial Guidance, Wells Fargo Launches Get Money Ready",
+      "url": "http://www.businesswire.com/news/home/20260922621047/en/Amid-Growing-Demand-for-Financial-Guidance-Wells-Fargo-Launches-Get-Money-Ready/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
+      "source": "businesswire.com",
+      "published": "2026-09-22T12:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Thunes Powers J.P. Morgan Payments' Xpedite Remit Solution to Accelerate Global Payouts",
+      "url": "https://en.prnasia.com/story/549007-0.shtml",
+      "source": "prnasia.com",
+      "published": "2026-09-22T12:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "With Mr. Buffett retiring I would like to make myself known",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1wn7e2x/with_mr_buffett_retiring_i_would_like_to_make/",
+      "source": "reddit.com",
+      "published": "2026-09-22T11:54:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX (SPCX) Stock: Morgan Stanley Highlights Power Infrastructure as Key AI Differentiator",
+      "url": "https://blockonomi.com/spacex-spcx-stock-morgan-stanley-highlights-power-infrastructure-as-key-ai-differentiator/",
+      "source": "blockonomi.com",
+      "published": "2026-09-22T11:53:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AXA SA (AXA:CA) Presents at Bank of America 31st Annual Financials CEO Conference Transcript | $AXAHY $AXAHF",
+      "url": "https://seekingalpha.com/article/4948578-axa-sa-axa-ca-presents-at-bank-of-america-31st-annual-financials-ceo-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-22T11:29:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lloyds Banking Group plc (LYG) Presents at Bank of America 31st Annual Financials CEO Conference Transcript | $LYG $LLDTF $LLOBF",
+      "url": "https://seekingalpha.com/article/4948563-lloyds-banking-group-plc-lyg-presents-at-bank-of-america-31st-annual-financials-ceo",
+      "source": "seekingalpha.com",
+      "published": "2026-09-22T11:29:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Oil could top $150 a barrel amid Middle East conflict: Bank of America",
+      "url": "https://cryptobriefing.com/oil-could-top-150-a-barrel-amid-middle-east-conflict-bank-of-america/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-22T11:29:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
+      "url": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-09-22T11:26:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jamie Dimon warned that AI infrastructure spending could hit $1 trillion next year",
+      "url": "https://qz.com/jamie-dimon-jpmorgan-ai-spending-trillion-092226",
+      "source": "qz.com",
+      "published": "2026-09-22T11:22:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cyera Announces $400 Million Investment from Goldman Sachs to Build the Trust Layer for the Agentic Enterprise",
+      "url": "http://www.businesswire.com/news/home/20260922497312/en/Cyera-Announces-400-Million-Investment-from-Goldman-Sachs-to-Build-the-Trust-Layer-for-the-Agentic-Enterprise/?feedref=JjAwJuNHiystnCoBq_hl-aWOJSq7maz1kUlsOIrkZM4xz5QOdfJiTifxwfmkU5A67fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2KQOELXF1Klv27yoigQe38g==",
+      "source": "businesswire.com",
+      "published": "2026-09-22T11:15:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "China’s offshore trust tax crackdown could impact single stocks, BofA says",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-offshore-trust-tax-crackdown-could-impact-single-stocks-bofa-says-4909865",
+      "title": "Sanofi Reviews Pipeline, Broadens Deal Hunt as It Rebuilds Research Engine",
+      "url": "https://www.marketbeat.com/instant-alerts/event-sanofi-reviews-pipeline-broadens-deal-hunt-as-it-rebuilds-research-engine-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T11:02:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Dimon Says US Shouldn’t Punish India Over Russian Oil: CNBC TV18",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/dimon-says-us-shouldn-t-punish-india-over-russian-oil-cnbc-tv18",
+      "source": "bloomberg.com",
+      "published": "2026-09-22T10:57:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA Securities Names Top Biotech Stock Amid Sector Rally",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-biotech-stock-amid-sector-rally-93CH-4910385",
       "source": "investing.com",
-      "published": "2026-09-22T05:06:53+00:00",
+      "published": "2026-09-22T10:53:40+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Tenant exit and flat rents weigh on €300m Dublin office portfolio",
-      "url": "https://www.irishtimes.com/business/2026/09/22/tenant-exit-and-flat-rents-weigh-on-300m-dublin-office-portfolio/",
-      "source": "irishtimes.com",
-      "published": "2026-09-22T05:00:01+00:00",
+      "title": "Jamie Dimon Bets Big on India’s Tripling Economy While Warning on AI Costs, Geopolitics",
+      "url": "https://www.webpronews.com/jamie-dimon-bets-big-on-indias-tripling-economy-while-warning-on-ai-costs-geopolitics/",
+      "source": "webpronews.com",
+      "published": "2026-09-22T10:42:14+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Goldman's Drayton: APAC Deals Boom May Last to '27",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-22/goldman-s-drayton-apac-deals-boom-may-last-to-27-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-22T04:53:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Coal India share price climbs 3% after Morgan Stanley upgrades, raises target price",
-      "url": "https://www.livemint.com/market/stock-market-news/coal-india-share-price-climbs-3-after-morgan-stanley-upgrades-raises-target-price-11790051736506.html",
-      "source": "livemint.com",
-      "published": "2026-09-22T04:47:01+00:00",
+      "title": "U.S. Stocks Are Just Below Their Record High. Morgan Stanley Sees A Risk Of A 7% Drop.",
+      "url": "https://www.ibtimes.com/us-stocks-are-just-below-their-record-high-morgan-stanley-sees-risk-7-drop-3807683",
+      "source": "ibtimes.com",
+      "published": "2026-09-22T10:40:01+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Barclays Hires Morgan Stanley Executive for Asia Private Bank",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/barclays-hires-morgan-stanley-executive-for-asia-private-bank",
-      "source": "bloomberg.com",
-      "published": "2026-09-22T04:34:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Former Lloyds Banking Group exec Enrique Del Rio named President at customer engagement firm Reward",
-      "url": "https://retailtechinnovationhub.com/home/2026/9/21/former-lloyds-banking-group-executive-enrique-del-rio-appointed-president-at-reward",
-      "source": "retailtechinnovationhub.com",
-      "published": "2026-09-22T04:30:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA at Odds With Barclays on Nigeria Rate Path: Decision Guide",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/bofa-at-odds-with-barclays-on-nigeria-rate-path-decision-guide",
-      "source": "bloomberg.com",
-      "published": "2026-09-22T04:30:00+00:00",
+      "title": "Bank of America and other major banks warn AI shopping agents are outpacing fraud protections",
+      "url": "https://cryptobriefing.com/bank-of-america-banks-warn-ai-shopping-agent-risks/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-22T10:37:56+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "India’s Prospects Bright But Tax Rules a Worry, Jamie Dimon Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/india-s-prospects-bright-but-tax-rules-a-worry-jamie-dimon-says",
-      "source": "bloomberg.com",
-      "published": "2026-09-22T04:24:39+00:00",
+      "title": "Morgan Stanley Names Some Of Its Buys as Wall Street Spots Opportunity in Beaten-Down Stocks",
+      "url": "https://www.ibtimes.com/morgan-stanley-names-some-its-buys-wall-street-spots-opportunity-beaten-down-stocks-3807698",
+      "source": "ibtimes.com",
+      "published": "2026-09-22T10:34:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Jamie Dimon’s Stark Retirement Warning: Why the American Dream Slips Further From Reach",
+      "url": "https://www.webpronews.com/jamie-dimons-stark-retirement-warning-why-the-american-dream-slips-further-from-reach/",
+      "source": "webpronews.com",
+      "published": "2026-09-22T10:32:13+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Aramark Sees Data Center Hospitality Fueling Growth, Margin Expansion",
-      "url": "https://www.marketbeat.com/instant-alerts/event-aramark-sees-data-center-hospitality-fueling-growth-margin-expansion-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-22T04:02:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "How a Russian forgery scheme evaded sanctions",
-      "url": "https://www.ft.com/content/bf1e2747-d7b6-46ea-8a39-3d35c25de270?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-09-22T04:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Finds AI Is Already Reshaping Hiring Process, Junior Workers Worst Hit",
-      "url": "https://www.ibtimes.sg/goldman-sachs-finds-ai-already-reshaping-hiring-process-junior-workers-worst-hit-94057",
-      "source": "ibtimes.sg",
-      "published": "2026-09-22T02:56:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Just Said 8 Words Warning the American Dream Is \"Slipping Out of Reach for Too Many People.\" Here's the Retirement Wave Behind His Warning and What It Means for the Economy JPMorgan Serves.",
-      "url": "https://www.fool.com/investing/2026/09/21/jamie-dimon-just-said-8-words-warning-the-american/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-22T02:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Highlights Investment Challenges in India",
-      "url": "https://www.gurufocus.com/news/9090828/jpm-jamie-dimon-highlights-investment-challenges-in-india",
+      "title": "ERIC Downgraded by Morgan Stanley -- Price Target Lowered to $9.00",
+      "url": "https://www.gurufocus.com/news/9091232/eric-downgraded-by-morgan-stanley-price-target-lowered-to-900",
       "source": "gurufocus.com",
-      "published": "2026-09-22T02:11:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Union Pacific (UNP) Sees Truck-to-Rail Shift as Diesel Prices Surge",
-      "url": "https://www.insidermonkey.com/news/union-pacific-unp-sees-truck-to-rail-shift-as-diesel-prices-surge-1841693/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-22T01:56:12+00:00",
+      "published": "2026-09-22T10:30:26+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMorgan Raises its Dividend: A Look at Yield, Capital, and Shareholder Returns",
-      "url": "https://www.insidermonkey.com/news/jpmorgan-raises-its-dividend-a-look-at-yield-capital-and-shareholder-returns-1841700/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-22T01:53:32+00:00",
+      "title": "Tata Group conflict: JPMorganChase CEO Jamie Dimon hails N Chandrasekaran, flags board tensions",
+      "url": "https://www.livemint.com/companies/news/tata-group-conflict-jpmorganchase-ceo-jamie-dimon-hails-n-chandrasekaran-flags-board-tensions-11790072666279.html",
+      "source": "livemint.com",
+      "published": "2026-09-22T10:30:15+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Dimon Backs Chandrasekaran, Warns Tata Rift Could Hit Investment",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/dimon-backs-chandrasekaran-warns-tata-rift-could-hit-investment",
-      "source": "bloomberg.com",
-      "published": "2026-09-22T01:50:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-      "source": "cnbc.com",
-      "published": "2026-09-22T01:30:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Varmora Granito raises Rs 212.4 crore from anchor investors ahead of Rs 708 crore IPO",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-raises-rs-212-4-crore-from-anchor-investors-ahead-of-rs-708-crore-ipo/articleshow/134399926.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-22T00:59:14+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Tempus AI Sees Pricing, Data Growth Fueling Long-Term Expansion",
-      "url": "https://www.marketbeat.com/instant-alerts/event-tempus-ai-sees-pricing-data-growth-fueling-long-term-expansion-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-22T00:02:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Silicon Valley Capital Partners Boosts Holdings in Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF $GSLC",
-      "url": "https://www.tickerreport.com/banking-finance/13591461/silicon-valley-capital-partners-boosts-holdings-in-goldman-sachs-activebeta-u-s-large-cap-equity-etf-gslc.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-21T23:05:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Silicon Valley Capital Partners Boosts Position in The Charles Schwab Corporation $SCHW",
-      "url": "https://www.tickerreport.com/banking-finance/13591460/silicon-valley-capital-partners-boosts-position-in-the-charles-schwab-corporation-schw.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-21T23:05:10+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Silicon Valley Capital Partners Acquires 27,283 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-silicon-valley-capital-partners-acquires-27283-shares-of-bank-of-america-corporation-bac-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T23:04:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Cencora Sees Specialty Strategy Fueling Growth Into Fiscal 2027",
-      "url": "https://www.marketbeat.com/instant-alerts/event-cencora-sees-specialty-strategy-fueling-growth-into-fiscal-2027-2026-09-21/",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T23:02:08+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs raises target on a stock that has already surged over 140% this year. Do you own it?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-raises-target-on-a-stock-that-has-already-surged-over-140-this-year-do-you-own-it/articleshow/134402171.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-21T22:51:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "PNC's Denver market share rank revealed following FirstBank acquisition",
-      "url": "https://www.bizjournals.com/denver/news/2026/09/21/denver-colorado-bank-market-shares-deposits-2026.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-21T22:27:23+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts Expedia (EXPE) to Underweight as Rivals Pull Ahead on Users",
-      "url": "https://www.insidermonkey.com/news/morgan-stanley-cuts-expedia-expe-to-underweight-as-rivals-pull-ahead-on-users-1841378/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-21T21:58:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VOO’s 0.03% Fee Hides the Real Cost: State Street Now Sells the Same 500 Stocks for a Third Less",
-      "url": "https://247wallst.com/investing/etf/2026/09/21/voos-0-03-fee-hides-the-real-cost-state-street-now-sells-the-same-500-stocks-for-a-third-less/",
-      "source": "247wallst.com",
-      "published": "2026-09-21T21:55:50+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
