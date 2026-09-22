@@ -1,239 +1,92 @@
 {
-  "last_updated": "2026-09-22T21:09:36.583297+00:00",
+  "last_updated": "2026-09-22T23:45:08.285576+00:00",
   "headlines": [
     {
-      "title": "Cyera raises another $400M amid AI agent security push",
-      "url": "https://siliconangle.com/2026/09/22/cyera-raises-another-400m-amid-ai-agent-security-push/",
-      "source": "siliconangle.com",
-      "published": "2026-09-22T20:23:28+00:00",
+      "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260922/p55#a260922p55",
+      "source": "techmeme.com",
+      "published": "2026-09-22T22:35:02+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "New Member Joins American Indian College Fund Board of Trustees",
-      "url": "https://www.globenewswire.com/en/news-release/2026/09/22/3366888/0/en/new-member-joins-american-indian-college-fund-board-of-trustees.html",
-      "source": "globenewswire.com",
-      "published": "2026-09-22T20:12:00+00:00",
+      "title": "AppleCare refund went to paid off installment plan",
+      "url": "https://www.reddit.com/r/iphone/comments/1wnnqrj/applecare_refund_went_to_paid_off_installment_plan/",
+      "source": "reddit.com",
+      "published": "2026-09-22T22:13:55+00:00",
       "tickers": [
-        "USB"
+        "GS"
       ]
     },
     {
-      "title": "LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus Stocks Trade Down, What You Need To Know",
-      "url": "https://stockstory.org/us/stocks/nasdaq/lpla/news/why-up-down/lpl-financial-northern-trust-ameriprise-financial-morgan-stanley-and-paymentus-stocks-trade-down-what-you-need-to-know",
-      "source": "stockstory.org",
-      "published": "2026-09-22T19:30:51+00:00",
+      "title": "Bank of America (NYSE:BAC) Stock Price Down 3% - Time to Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-price-down-3-time-to-sell-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T21:41:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 3.3% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-33-heres-why-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T21:41:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226046791/0001839882-26-046791-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-22T21:24:08+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Cyera Raises $400 Million From Goldman Sachs At Over $12 Billion Valuation",
-      "url": "https://pulse2.com/cyera-raises-400-million-from-goldman-sachs-at-over-12-billion-valuation/",
-      "source": "pulse2.com",
-      "published": "2026-09-22T19:16:50+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028462/0001918704-26-028462-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-22T21:22:02+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Wells Fargo regains ground in Twin Cities banking market",
-      "url": "https://www.bizjournals.com/twincities/news/2026/09/22/largest-twin-cities-banks-in-2026.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-22T19:12:26+00:00",
+      "title": "Elanco Animal Health Incorporated (ELAN) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $ELAN",
+      "url": "https://seekingalpha.com/article/4948672-elanco-animal-health-incorporated-elan-presents-at-bank-of-america-global-healthcare",
+      "source": "seekingalpha.com",
+      "published": "2026-09-22T21:09:48+00:00",
       "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Fund Sells Wellington Apartments For $105M",
+      "url": "https://www.bisnow.com/news/south-florida/multifamily/jpmorgan-asset-management-polo-lakes-ta-realty",
+      "source": "bisnow.com",
+      "published": "2026-09-22T21:07:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Brookfield's GGP Lines Up $800M CMBS Refi Of 2.4M SF Suburban Chicago Mall",
+      "url": "https://www.bisnow.com/news/chicago/retail/brookfield-ggp-lines-up-800m-refi-of-suburban-chicago-mall",
+      "source": "bisnow.com",
+      "published": "2026-09-22T20:54:38+00:00",
+      "tickers": [
+        "BAC",
         "WFC",
         "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "Amy's Pastelillos plans new location after winning 76ers business competition",
-      "url": "https://www.bizjournals.com/philadelphia/news/2026/09/22/amys-patelillos-76ers-bank-of-america-puerto-rico.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-22T19:09:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Value Stocks To Watch Today - September 22nd",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-value-stocks-to-watch-today-september-22nd-2026-09-22/",
-      "source": "marketbeat.com",
-      "published": "2026-09-22T19:02:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Barclays PLC at Bank of America Global Research Financials CEO Conference Transcript",
-      "url": "https://www.gurufocus.com/news/9092198/barclays-plc-at-bank-of-america-global-research-financials-ceo-conference-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-09-22T19:00:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Eldorado Gold double-upgraded to Buy at BofA as Skouries starts concentrate production",
-      "url": "https://seekingalpha.com/news/4645640-eldorado-gold-double-upgraded-to-buy-at-bofa-as-skouries-starts-concentrate-production",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T18:56:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Falls 2% While Chinese AI Keeps Paying Wall Street",
-      "url": "https://www.gurufocus.com/news/9092033/goldman-falls-2-while-chinese-ai-keeps-paying-wall-street",
-      "source": "gurufocus.com",
-      "published": "2026-09-22T18:51:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Why is JPMorgan Chase stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-jpmorgan-chase-stock-sliding-today-93CH-4911467",
-      "source": "investing.com",
-      "published": "2026-09-22T18:42:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Eldorado Gold (TSE:ELD) Upgraded to \"Buy\" at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-eldorado-gold-tse-eld-upgraded-to-buy-at-bank-of-america-2026-09-22/",
-      "source": "marketbeat.com",
-      "published": "2026-09-22T18:42:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Roivant Sciences Ltd. (ROIV) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $ROIV",
-      "url": "https://seekingalpha.com/article/4948644-roivant-sciences-ltd-roiv-presents-at-bank-of-america-global-healthcare-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T18:29:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bruker Corporation (BRKR) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $BRKR $BRKRP",
-      "url": "https://seekingalpha.com/article/4948607-bruker-corporation-brkr-presents-at-bank-of-america-global-healthcare-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T18:29:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "DraftKings Inc. (DKNG) Presents at Wells Fargo 9th Annual Consumer Conference Transcript | $DKNG",
-      "url": "https://seekingalpha.com/article/4948727-draftkings-inc-dkng-presents-at-wells-fargo-9th-annual-consumer-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T18:29:51+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326014320/0000950103-26-014320-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T18:22:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Howie Rose and the Joy of Sound",
-      "url": "https://www.nationalreview.com/2026/09/howie-rose-and-the-joy-of-sound/",
-      "source": "nationalreview.com",
-      "published": "2026-09-22T18:08:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Names Top AI Stock Pick",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-ai-stock-pick-93CH-4911438",
-      "source": "investing.com",
-      "published": "2026-09-22T18:06:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan’s $750bn Housing Pledge: What it Means for Renters",
-      "url": "https://thefintechtimes.com/jpmorgans-750bn-housing-pledge-what-it-means-for-renters/",
-      "source": "thefintechtimes.com",
-      "published": "2026-09-22T18:00:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Just Raised the Bar for S&P 500",
-      "url": "https://www.gurufocus.com/news/9091550/goldman-sachs-just-raised-the-bar-for-sp-500",
-      "source": "gurufocus.com",
-      "published": "2026-09-22T17:45:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon has a message for India: Don’t make foreign capital work harder",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/jamie-dimon-has-a-message-for-india-dont-make-foreign-capital-work-harder/articleshow/134417978.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-22T17:42:59+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Sector Update: Tech Stocks Higher in Afternoon Trading",
-      "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-higher-afternoon-173912528.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-22T17:39:12+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014316/0000950103-26-014316-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T17:16:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LoanCare names Amy Jones chief information officer",
-      "url": "https://www.housingwire.com/articles/loancare-amy-jones-chief-information/",
-      "source": "housingwire.com",
-      "published": "2026-09-22T17:15:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Stake Increased by Andra AP fonden",
-      "url": "https://www.tickerreport.com/banking-finance/13591880/citigroup-inc-c-stake-increased-by-andra-ap-fonden.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-22T17:09:36+00:00",
-      "tickers": [
-        "C"
+        "GS",
+        "MS"
       ]
     }
   ]
