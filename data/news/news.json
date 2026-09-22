@@ -1,288 +1,280 @@
 {
-  "last_updated": "2026-09-22T13:19:05.120193+00:00",
+  "last_updated": "2026-09-22T17:43:38.926862+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026101992/0001213900-26-101992-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T12:36:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Lazard: High-Dividend Yield Is Offset By M&A Weakness | $SPY $MS $TROW $IVZ $LAZ",
-      "url": "https://seekingalpha.com/article/4948482-lazard-stock-high-dividend-yield-offset-by-ma-weakness",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T12:30:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "European defense: BofA names its top picks",
-      "url": "https://www.marketscreener.com/news/european-defense-bofa-names-its-top-picks-ce785ad8da8ef321",
-      "source": "marketscreener.com",
-      "published": "2026-09-22T12:20:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The ABC of financial analysis: The different ways a listed company can raise funds",
-      "url": "https://www.marketscreener.com/news/the-abc-of-financial-analysis-the-different-ways-a-listed-company-can-raise-funds-ce785ad8da8bff2d",
-      "source": "marketscreener.com",
-      "published": "2026-09-22T12:18:24+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Meta added $194B on Monday. That's more than all of Disney",
-      "url": "https://www.reddit.com/r/stocks/comments/1wn7pdn/meta_added_194b_on_monday_thats_more_than_all_of/",
-      "source": "reddit.com",
-      "published": "2026-09-22T12:08:49+00:00",
+      "title": "LoanCare names Amy Jones chief information officer",
+      "url": "https://www.housingwire.com/articles/loancare-amy-jones-chief-information/",
+      "source": "housingwire.com",
+      "published": "2026-09-22T17:15:45+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Eldorado Gold (NYSE:EGO) Stock Rating Upgraded by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-eldorado-gold-nyse-ego-stock-rating-upgraded-by-bank-of-america-2026-09-22/",
+      "title": "Citigroup Inc. $C Stake Increased by Andra AP fonden",
+      "url": "https://www.tickerreport.com/banking-finance/13591880/citigroup-inc-c-stake-increased-by-andra-ap-fonden.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-22T17:09:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "State Street Corp Increases Stock Holdings in Marvell Technology, Inc. $MRVL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-stock-holdings-in-marvell-technology-inc-mrvl-2026-09-22/",
       "source": "marketbeat.com",
-      "published": "2026-09-22T12:06:34+00:00",
+      "published": "2026-09-22T17:06:28+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Warner Bros. Discovery (NASDAQ:WBD) Price Target Raised to $31.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-warner-bros-discovery-nasdaq-wbd-price-target-raised-to-3100-2026-09-22/",
+      "title": "State Street Corp Acquires 50,116,727 Shares of ConocoPhillips $COP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-50116727-shares-of-conocophillips-cop-2026-09-22/",
       "source": "marketbeat.com",
-      "published": "2026-09-22T12:06:31+00:00",
+      "published": "2026-09-22T17:06:27+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "Bank of America Has Lowered Expectations for RxSight (NASDAQ:RXST) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-has-lowered-expectations-for-rxsight-nasdaq-rxst-stock-price-2026-09-22/",
+      "title": "Palantir Technologies Inc. $PLTR Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-palantir-technologies-inc-pltr-shares-purchased-by-state-street-corp-2026-09-22/",
       "source": "marketbeat.com",
-      "published": "2026-09-22T12:06:31+00:00",
+      "published": "2026-09-22T17:06:24+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "GCG Advisory Partners Exceeds 5 Billion in AUM and Builds Out Ultra-High-Net-Worth and Family Office with Former Wells Fargo FiNet Advisor Team",
-      "url": "https://www.prnewswire.com/news-releases/gcg-advisory-partners-exceeds-5-billion-in-aum-and-builds-out-ultra-high-net-worth-and-family-office-with-former-wells-fargo-finet-advisor-team-302884831.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-22T12:04:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Fifth Third Bancorp raised to Buy at Citi on Comerica integration, higher rate setup",
-      "url": "https://seekingalpha.com/news/4645331-fifth-third-bancorp-raised-to-buy-at-citi-on-comerica-integration-higher-rate-setup",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T12:01:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Amid Growing Demand for Financial Guidance, Wells Fargo Launches Get Money Ready",
-      "url": "http://www.businesswire.com/news/home/20260922621047/en/Amid-Growing-Demand-for-Financial-Guidance-Wells-Fargo-Launches-Get-Money-Ready/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-09-22T12:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Thunes Powers J.P. Morgan Payments' Xpedite Remit Solution to Accelerate Global Payouts",
-      "url": "https://en.prnasia.com/story/549007-0.shtml",
-      "source": "prnasia.com",
-      "published": "2026-09-22T12:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "With Mr. Buffett retiring I would like to make myself known",
-      "url": "https://www.reddit.com/r/wallstreetbets/comments/1wn7e2x/with_mr_buffett_retiring_i_would_like_to_make/",
-      "source": "reddit.com",
-      "published": "2026-09-22T11:54:19+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX (SPCX) Stock: Morgan Stanley Highlights Power Infrastructure as Key AI Differentiator",
-      "url": "https://blockonomi.com/spacex-spcx-stock-morgan-stanley-highlights-power-infrastructure-as-key-ai-differentiator/",
-      "source": "blockonomi.com",
-      "published": "2026-09-22T11:53:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "AXA SA (AXA:CA) Presents at Bank of America 31st Annual Financials CEO Conference Transcript | $AXAHY $AXAHF",
-      "url": "https://seekingalpha.com/article/4948578-axa-sa-axa-ca-presents-at-bank-of-america-31st-annual-financials-ceo-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T11:29:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Lloyds Banking Group plc (LYG) Presents at Bank of America 31st Annual Financials CEO Conference Transcript | $LYG $LLDTF $LLOBF",
-      "url": "https://seekingalpha.com/article/4948563-lloyds-banking-group-plc-lyg-presents-at-bank-of-america-31st-annual-financials-ceo",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T11:29:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Oil could top $150 a barrel amid Middle East conflict: Bank of America",
-      "url": "https://cryptobriefing.com/oil-could-top-150-a-barrel-amid-middle-east-conflict-bank-of-america/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-22T11:29:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
-      "url": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-22T11:26:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jamie Dimon warned that AI infrastructure spending could hit $1 trillion next year",
-      "url": "https://qz.com/jamie-dimon-jpmorgan-ai-spending-trillion-092226",
-      "source": "qz.com",
-      "published": "2026-09-22T11:22:12+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cyera Announces $400 Million Investment from Goldman Sachs to Build the Trust Layer for the Agentic Enterprise",
-      "url": "http://www.businesswire.com/news/home/20260922497312/en/Cyera-Announces-400-Million-Investment-from-Goldman-Sachs-to-Build-the-Trust-Layer-for-the-Agentic-Enterprise/?feedref=JjAwJuNHiystnCoBq_hl-aWOJSq7maz1kUlsOIrkZM4xz5QOdfJiTifxwfmkU5A67fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2KQOELXF1Klv27yoigQe38g==",
-      "source": "businesswire.com",
-      "published": "2026-09-22T11:15:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Sanofi Reviews Pipeline, Broadens Deal Hunt as It Rebuilds Research Engine",
-      "url": "https://www.marketbeat.com/instant-alerts/event-sanofi-reviews-pipeline-broadens-deal-hunt-as-it-rebuilds-research-engine-2026-09-22/",
+      "title": "Capital One Financial Corporation $COF Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-purchased-by-state-street-corp-2026-09-22/",
       "source": "marketbeat.com",
-      "published": "2026-09-22T11:02:11+00:00",
+      "published": "2026-09-22T17:06:20+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "C",
+        "COF",
+        "STT"
       ]
     },
     {
-      "title": "Dimon Says US Shouldn’t Punish India Over Russian Oil: CNBC TV18",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/dimon-says-us-shouldn-t-punish-india-over-russian-oil-cnbc-tv18",
-      "source": "bloomberg.com",
-      "published": "2026-09-22T10:57:31+00:00",
+      "title": "State Street Corp Raises Stock Holdings in Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-stock-holdings-in-citigroup-inc-c-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:05+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "STT"
       ]
     },
     {
-      "title": "BofA Securities Names Top Biotech Stock Amid Sector Rally",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-biotech-stock-amid-sector-rally-93CH-4910385",
-      "source": "investing.com",
-      "published": "2026-09-22T10:53:40+00:00",
+      "title": "Air Products and Chemicals, Inc. $APD Shares Acquired by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-air-products-and-chemicals-inc-apd-shares-acquired-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:05+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Jamie Dimon Bets Big on India’s Tripling Economy While Warning on AI Costs, Geopolitics",
-      "url": "https://www.webpronews.com/jamie-dimon-bets-big-on-indias-tripling-economy-while-warning-on-ai-costs-geopolitics/",
-      "source": "webpronews.com",
-      "published": "2026-09-22T10:42:14+00:00",
+      "title": "State Street Corp Has $10.56 Billion Holdings in Linde PLC $LIN",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-1056-billion-holdings-in-linde-plc-lin-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:04+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "U.S. Stocks Are Just Below Their Record High. Morgan Stanley Sees A Risk Of A 7% Drop.",
-      "url": "https://www.ibtimes.com/us-stocks-are-just-below-their-record-high-morgan-stanley-sees-risk-7-drop-3807683",
-      "source": "ibtimes.com",
-      "published": "2026-09-22T10:40:01+00:00",
+      "title": "Corning Incorporated $GLW Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-corning-incorporated-glw-shares-purchased-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:04+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "Bank of America and other major banks warn AI shopping agents are outpacing fraud protections",
-      "url": "https://cryptobriefing.com/bank-of-america-banks-warn-ai-shopping-agent-risks/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-22T10:37:56+00:00",
+      "title": "Philip Morris International Inc. $PM Holdings Lifted by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-philip-morris-international-inc-pm-holdings-lifted-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:03+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "Morgan Stanley Names Some Of Its Buys as Wall Street Spots Opportunity in Beaten-Down Stocks",
-      "url": "https://www.ibtimes.com/morgan-stanley-names-some-its-buys-wall-street-spots-opportunity-beaten-down-stocks-3807698",
-      "source": "ibtimes.com",
-      "published": "2026-09-22T10:34:01+00:00",
+      "title": "State Street Corp Purchases 671,537 Shares of Qualcomm Incorporated $QCOM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-671537-shares-of-qualcomm-incorporated-qcom-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:02+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "Jamie Dimon’s Stark Retirement Warning: Why the American Dream Slips Further From Reach",
-      "url": "https://www.webpronews.com/jamie-dimons-stark-retirement-warning-why-the-american-dream-slips-further-from-reach/",
-      "source": "webpronews.com",
-      "published": "2026-09-22T10:32:13+00:00",
+      "title": "State Street Corp Raises Position in McDonald's Corporation $MCD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-position-in-mcdonalds-corporation-mcd-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:02+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "ERIC Downgraded by Morgan Stanley -- Price Target Lowered to $9.00",
-      "url": "https://www.gurufocus.com/news/9091232/eric-downgraded-by-morgan-stanley-price-target-lowered-to-900",
-      "source": "gurufocus.com",
-      "published": "2026-09-22T10:30:26+00:00",
+      "title": "State Street Corp Has $9.56 Billion Holdings in Welltower Inc. $WELL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-956-billion-holdings-in-welltower-inc-well-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:02+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "Tata Group conflict: JPMorganChase CEO Jamie Dimon hails N Chandrasekaran, flags board tensions",
-      "url": "https://www.livemint.com/companies/news/tata-group-conflict-jpmorganchase-ceo-jamie-dimon-hails-n-chandrasekaran-flags-board-tensions-11790072666279.html",
-      "source": "livemint.com",
-      "published": "2026-09-22T10:30:15+00:00",
+      "title": "Parker-Hannifin Corporation $PH Shares Acquired by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-parker-hannifin-corporation-ph-shares-acquired-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:02+00:00",
       "tickers": [
-        "JPM"
+        "STT"
+      ]
+    },
+    {
+      "title": "Colgate-Palmolive Company $CL Shares Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-colgate-palmolive-company-cl-shares-bought-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Sells 5,177,454 Shares of Verizon Communications Inc. $VZ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-5177454-shares-of-verizon-communications-inc-vz-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Has $7.78 Billion Stock Holdings in AppLovin Corporation $APP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-778-billion-stock-holdings-in-applovin-corporation-app-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Boosts Stake in CVS Health Corporation $CVS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-stake-in-cvs-health-corporation-cvs-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Buys 987,582 Shares of PepsiCo, Inc. $PEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-987582-shares-of-pepsico-inc-pep-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:06:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Cincinnati Financial Corporation $CINF Shares Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cincinnati-financial-corporation-cinf-shares-bought-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:59+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Raises Position in Gilead Sciences, Inc. $GILD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-position-in-gilead-sciences-inc-gild-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:59+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Purchases 1,658,301 Shares of Medtronic PLC $MDT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1658301-shares-of-medtronic-plc-mdt-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:59+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Decreases Stake in Valero Energy Corporation $VLO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-decreases-stake-in-valero-energy-corporation-vlo-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:58+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Stryker Corporation $SYK Shares Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-stryker-corporation-syk-shares-bought-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:58+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Grows Holdings in ServiceNow, Inc. $NOW",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-grows-holdings-in-servicenow-inc-now-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:57+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Buys 1,565,716 Shares of Newmont Corporation $NEM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-1565716-shares-of-newmont-corporation-nem-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:57+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Quanta Services, Inc. $PWR Stock Holdings Lifted by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-quanta-services-inc-pwr-stock-holdings-lifted-by-state-street-corp-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:56+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Reduces Stock Position in Simon Property Group, Inc. $SPG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-reduces-stock-position-in-simon-property-group-inc-spg-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:55+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Raises Stock Holdings in The PNC Financial Services Group, Inc $PNC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-stock-holdings-in-the-pnc-financial-services-group-inc-pnc-2026-09-22/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T17:05:55+00:00",
+      "tickers": [
+        "C",
+        "PNC",
+        "STT"
       ]
     }
   ]
