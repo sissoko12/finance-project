@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-09-22T01:45:38.368585+00:00",
+  "last_updated": "2026-09-22T07:36:15.145597+00:00",
   "headlines": [
+    {
+      "title": "JPM: AI Investment Surge May Reach $1 Trillion, Says JPMorgan CEO Jamie Dimon",
+      "url": "https://www.gurufocus.com/news/9091131/jpm-ai-investment-surge-may-reach-1-trillion-says-jpmorgan-ceo-jamie-dimon",
+      "source": "gurufocus.com",
+      "published": "2026-09-22T06:21:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Barclays Hires Wee Yee Yeong from Morgan Stanley for Wealth Management",
+      "url": "https://www.gurufocus.com/news/9091134/barclays-hires-wee-yee-yeong-from-morgan-stanley-for-wealth-management",
+      "source": "gurufocus.com",
+      "published": "2026-09-22T06:21:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The next big question for AI agents is how they'll make money, Goldman says",
+      "url": "https://www.businessinsider.com/meta-muse-ai-agent-how-ai-agents-make-money-goldman-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-22T06:20:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "China’s offshore trust tax crackdown could impact single stocks, BofA says",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-offshore-trust-tax-crackdown-could-impact-single-stocks-bofa-says-4909865",
+      "source": "investing.com",
+      "published": "2026-09-22T05:06:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Tenant exit and flat rents weigh on €300m Dublin office portfolio",
+      "url": "https://www.irishtimes.com/business/2026/09/22/tenant-exit-and-flat-rents-weigh-on-300m-dublin-office-portfolio/",
+      "source": "irishtimes.com",
+      "published": "2026-09-22T05:00:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman's Drayton: APAC Deals Boom May Last to '27",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-22/goldman-s-drayton-apac-deals-boom-may-last-to-27-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-22T04:53:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Coal India share price climbs 3% after Morgan Stanley upgrades, raises target price",
+      "url": "https://www.livemint.com/market/stock-market-news/coal-india-share-price-climbs-3-after-morgan-stanley-upgrades-raises-target-price-11790051736506.html",
+      "source": "livemint.com",
+      "published": "2026-09-22T04:47:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Barclays Hires Morgan Stanley Executive for Asia Private Bank",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/barclays-hires-morgan-stanley-executive-for-asia-private-bank",
+      "source": "bloomberg.com",
+      "published": "2026-09-22T04:34:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Former Lloyds Banking Group exec Enrique Del Rio named President at customer engagement firm Reward",
+      "url": "https://retailtechinnovationhub.com/home/2026/9/21/former-lloyds-banking-group-executive-enrique-del-rio-appointed-president-at-reward",
+      "source": "retailtechinnovationhub.com",
+      "published": "2026-09-22T04:30:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA at Odds With Barclays on Nigeria Rate Path: Decision Guide",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/bofa-at-odds-with-barclays-on-nigeria-rate-path-decision-guide",
+      "source": "bloomberg.com",
+      "published": "2026-09-22T04:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "India’s Prospects Bright But Tax Rules a Worry, Jamie Dimon Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/india-s-prospects-bright-but-tax-rules-a-worry-jamie-dimon-says",
+      "source": "bloomberg.com",
+      "published": "2026-09-22T04:24:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Aramark Sees Data Center Hospitality Fueling Growth, Margin Expansion",
+      "url": "https://www.marketbeat.com/instant-alerts/event-aramark-sees-data-center-hospitality-fueling-growth-margin-expansion-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T04:02:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "How a Russian forgery scheme evaded sanctions",
+      "url": "https://www.ft.com/content/bf1e2747-d7b6-46ea-8a39-3d35c25de270?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-09-22T04:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Finds AI Is Already Reshaping Hiring Process, Junior Workers Worst Hit",
+      "url": "https://www.ibtimes.sg/goldman-sachs-finds-ai-already-reshaping-hiring-process-junior-workers-worst-hit-94057",
+      "source": "ibtimes.sg",
+      "published": "2026-09-22T02:56:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Just Said 8 Words Warning the American Dream Is \"Slipping Out of Reach for Too Many People.\" Here's the Retirement Wave Behind His Warning and What It Means for the Economy JPMorgan Serves.",
+      "url": "https://www.fool.com/investing/2026/09/21/jamie-dimon-just-said-8-words-warning-the-american/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-22T02:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPM, Jamie Dimon Highlights Investment Challenges in India",
+      "url": "https://www.gurufocus.com/news/9090828/jpm-jamie-dimon-highlights-investment-challenges-in-india",
+      "source": "gurufocus.com",
+      "published": "2026-09-22T02:11:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Union Pacific (UNP) Sees Truck-to-Rail Shift as Diesel Prices Surge",
+      "url": "https://www.insidermonkey.com/news/union-pacific-unp-sees-truck-to-rail-shift-as-diesel-prices-surge-1841693/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-22T01:56:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Raises its Dividend: A Look at Yield, Capital, and Shareholder Returns",
+      "url": "https://www.insidermonkey.com/news/jpmorgan-raises-its-dividend-a-look-at-yield-capital-and-shareholder-returns-1841700/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-22T01:53:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Dimon Backs Chandrasekaran, Warns Tata Rift Could Hit Investment",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/dimon-backs-chandrasekaran-warns-tata-rift-could-hit-investment",
+      "source": "bloomberg.com",
+      "published": "2026-09-22T01:50:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "cnbc.com",
+      "published": "2026-09-22T01:30:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Varmora Granito raises Rs 212.4 crore from anchor investors ahead of Rs 708 crore IPO",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-raises-rs-212-4-crore-from-anchor-investors-ahead-of-rs-708-crore-ipo/articleshow/134399926.cms",
@@ -58,6 +240,15 @@
       ]
     },
     {
+      "title": "Goldman Sachs raises target on a stock that has already surged over 140% this year. Do you own it?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-raises-target-on-a-stock-that-has-already-surged-over-140-this-year-do-you-own-it/articleshow/134402171.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-21T22:51:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "PNC's Denver market share rank revealed following FirstBank acquisition",
       "url": "https://www.bizjournals.com/denver/news/2026/09/21/denver-colorado-bank-market-shares-deposits-2026.html?ana=brss_1543",
       "source": "bizjournals.com",
@@ -83,149 +274,6 @@
       "published": "2026-09-21T21:55:50+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "CoreWeave-Tied Data Center Project Kicks Off Junk-Bond Offering",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/coreweave-tied-data-center-project-kicks-off-junk-bond-offering",
-      "source": "bloomberg.com",
-      "published": "2026-09-21T21:40:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BOA returns broad copper intercepts at Ricci Lee",
-      "url": "https://mining.com.au/boa-returns-broad-copper-intercepts-at-ricci-lee/",
-      "source": "mining.com.au",
-      "published": "2026-09-21T21:37:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026101859/0001213900-26-101859-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-21T21:27:17+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PNC president makes the case for organic growth strategy",
-      "url": "https://www.bizjournals.com/pittsburgh/news/2026/09/21/pnc-president-talks-organic-growth-strategy.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-21T21:24:28+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/21/stock-market-today-sept-21-meta-surges-on-excitement-over-muse-personal-ai-agent/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-21T21:23:56+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028260/0001918704-26-028260-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-21T21:22:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Is the Capital One Spark Cash Plus worth the annual fee?",
-      "url": "https://thepointsguy.com/credit-cards/capital-one-spark-cash-plus-worth-annual-fee/",
-      "source": "thepointsguy.com",
-      "published": "2026-09-21T21:00:20+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "TTM Technologies (TTMI) Stock Trades Up, Here Is Why",
-      "url": "https://stockstory.org/us/stocks/nasdaq/ttmi/news/why-up-down/ttm-technologies-ttmi-stock-trades-up-here-is-why-5",
-      "source": "stockstory.org",
-      "published": "2026-09-21T20:55:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ASX Names Keir Barnes As CFO And Adds Mark Peterson And Elaine Vaisanen To Executive Leadership Team",
-      "url": "https://pulse2.com/asx-names-keir-barnes-as-cfo-and-adds-mark-peterson-and-elaine-vaisanen-to-executive-leadership-team/",
-      "source": "pulse2.com",
-      "published": "2026-09-21T20:53:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo Cuts Netflix (NFLX) to Underweight as its 2026 Slide Deepens",
-      "url": "https://www.insidermonkey.com/news/wells-fargo-cuts-netflix-nflx-to-underweight-as-its-2026-slide-deepens-1841150/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-21T20:53:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Arcana Names Former Goldman Sachs Executive Rhys Williams As Head Of EMEA As Platform Serves $20 Trillion In Institutional Assets",
-      "url": "https://pulse2.com/arcana-names-former-goldman-sachs-executive-rhys-williams-as-head-of-emea-as-platform-serves-20-trillion-in-institutional-assets/",
-      "source": "pulse2.com",
-      "published": "2026-09-21T20:51:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "FOOTBALL-NFL-MIN-GB/ - Minnesota Vikings quarterback Kyler Murray is checked over after ...",
-      "url": "https://morganton.com/image_2f4315b6-33db-5afa-bbe7-c87fd6fd6dc7.html",
-      "source": "morganton.com",
-      "published": "2026-09-21T20:45:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Xcel Energy (NASDAQ:XEL) Reaches New 12-Month Low Following Analyst Downgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13591408/xcel-energy-nasdaqxel-reaches-new-12-month-low-following-analyst-downgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-21T20:40:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028244/0001918704-26-028244-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-21T20:37:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi adds an exciting new airline transfer partner — with a 30% bonus",
-      "url": "https://thepointsguy.com/news/citi-japan-airlines-transfer-partner/",
-      "source": "thepointsguy.com",
-      "published": "2026-09-21T20:35:29+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
