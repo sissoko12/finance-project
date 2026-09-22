@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-09-21T23:08:44.078454+00:00",
+  "last_updated": "2026-09-22T01:45:38.368585+00:00",
   "headlines": [
+    {
+      "title": "Varmora Granito raises Rs 212.4 crore from anchor investors ahead of Rs 708 crore IPO",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-raises-rs-212-4-crore-from-anchor-investors-ahead-of-rs-708-crore-ipo/articleshow/134399926.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-22T00:59:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Tempus AI Sees Pricing, Data Growth Fueling Long-Term Expansion",
+      "url": "https://www.marketbeat.com/instant-alerts/event-tempus-ai-sees-pricing-data-growth-fueling-long-term-expansion-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-22T00:02:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Silicon Valley Capital Partners Boosts Holdings in Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF $GSLC",
+      "url": "https://www.tickerreport.com/banking-finance/13591461/silicon-valley-capital-partners-boosts-holdings-in-goldman-sachs-activebeta-u-s-large-cap-equity-etf-gslc.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-21T23:05:10+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Silicon Valley Capital Partners Boosts Position in The Charles Schwab Corporation $SCHW",
+      "url": "https://www.tickerreport.com/banking-finance/13591460/silicon-valley-capital-partners-boosts-position-in-the-charles-schwab-corporation-schw.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-21T23:05:10+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Silicon Valley Capital Partners Acquires 27,283 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-silicon-valley-capital-partners-acquires-27283-shares-of-bank-of-america-corporation-bac-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T23:04:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Cencora Sees Specialty Strategy Fueling Growth Into Fiscal 2027",
+      "url": "https://www.marketbeat.com/instant-alerts/event-cencora-sees-specialty-strategy-fueling-growth-into-fiscal-2027-2026-09-21/",
+      "source": "marketbeat.com",
+      "published": "2026-09-21T23:02:08+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PNC's Denver market share rank revealed following FirstBank acquisition",
+      "url": "https://www.bizjournals.com/denver/news/2026/09/21/denver-colorado-bank-market-shares-deposits-2026.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-09-21T22:27:23+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Cuts Expedia (EXPE) to Underweight as Rivals Pull Ahead on Users",
+      "url": "https://www.insidermonkey.com/news/morgan-stanley-cuts-expedia-expe-to-underweight-as-rivals-pull-ahead-on-users-1841378/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-21T21:58:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "VOO’s 0.03% Fee Hides the Real Cost: State Street Now Sells the Same 500 Stocks for a Third Less",
       "url": "https://247wallst.com/investing/etf/2026/09/21/voos-0-03-fee-hides-the-real-cost-state-street-now-sells-the-same-500-stocks-for-a-third-less/",
@@ -27,6 +102,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026101859/0001213900-26-101859-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-21T21:27:17+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -60,12 +144,13 @@
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426028253/0001918704-26-028253-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-21T20:57:35+00:00",
+      "title": "Is the Capital One Spark Cash Plus worth the annual fee?",
+      "url": "https://thepointsguy.com/credit-cards/capital-one-spark-cash-plus-worth-annual-fee/",
+      "source": "thepointsguy.com",
+      "published": "2026-09-21T21:00:20+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "COF"
       ]
     },
     {
@@ -85,6 +170,16 @@
       "published": "2026-09-21T20:53:35+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo Cuts Netflix (NFLX) to Underweight as its 2026 Slide Deepens",
+      "url": "https://www.insidermonkey.com/news/wells-fargo-cuts-netflix-nflx-to-underweight-as-its-2026-slide-deepens-1841150/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-21T20:53:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     },
     {
@@ -125,75 +220,10 @@
       ]
     },
     {
-      "title": "Nutrien (TSX:NTR) Heads To Laguna With Fair Value Still Up For Debate",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nutrien-tsx-ntr-heads-laguna-201427001.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T20:14:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One Financial (COF) Completes €750 Million Twin Euro Bond Offerings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-financial-cof-completes-201247508.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-21T20:12:47+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Meta Stock Soars More Than 10% as Wells Fargo Lifts Target to $796 and Muse AI Tops Apple's US App Store",
-      "url": "https://www.ibtimes.co.uk/meta-shares-rise-wells-fargo-muse-ai-meta-connect-1821084",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-21T20:11:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "STATE STREET CORP: Form 3 - Initial statement of beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000582/0000093751-26-000582-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-21T20:11:04+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ResMed Targets 12%-14% EPS Growth as GLP-1 Patients Lift Sleep Therapy Demand",
-      "url": "https://www.marketbeat.com/instant-alerts/event-resmed-targets-12-14-eps-growth-as-glp-1-patients-lift-sleep-therapy-demand-2026-09-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "marketbeat.com",
-      "published": "2026-09-21T20:02:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "America’s power grid is running out of juice — and these stocks stand to gain",
-      "url": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-21T20:02:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "NexGen Energy (NXE) Rises on J.P. Morgan Upgrade Amid Mixed Valuation Signals",
-      "url": "https://www.gurufocus.com/news/9090393/nexgen-energy-nxe-rises-on-jp-morgan-upgrade-amid-mixed-valuation-signals",
-      "source": "gurufocus.com",
-      "published": "2026-09-21T20:00:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
-      "url": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-09-21T20:00:08+00:00",
+      "title": "Citi adds an exciting new airline transfer partner — with a 30% bonus",
+      "url": "https://thepointsguy.com/news/citi-japan-airlines-transfer-partner/",
+      "source": "thepointsguy.com",
+      "published": "2026-09-21T20:35:29+00:00",
       "tickers": [
         "C"
       ]
