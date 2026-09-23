@@ -1,6 +1,110 @@
 {
-  "last_updated": "2026-09-22T23:45:08.285576+00:00",
+  "last_updated": "2026-09-23T04:26:40.861075+00:00",
   "headlines": [
+    {
+      "title": "BofA's Irigoyen on Fed Policy, Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/bofa-s-irigoyen-on-fed-policy-inflation-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-23T02:52:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sees China Oil Imports Staying Subdued in Fourth Quarter",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/goldman-sees-china-oil-imports-staying-subdued-in-fourth-quarter",
+      "source": "bloomberg.com",
+      "published": "2026-09-23T02:19:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Hartford council reviews conceptual subdivision plan",
+      "url": "https://discoverhometown.com/hartford-council-reviews-conceptual-subdivision-plan/",
+      "source": "discoverhometown.com",
+      "published": "2026-09-23T02:12:09+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Alibaba (BABA) Plans Major Data Center Expansion, Citi Adjusts Capex Forecast",
+      "url": "https://www.gurufocus.com/news/9092705/alibaba-baba-plans-major-data-center-expansion-citi-adjusts-capex-forecast",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T02:10:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wise transfer from USA to CAD bank",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wnrkmo/wise_transfer_from_usa_to_cad_bank/",
+      "source": "reddit.com",
+      "published": "2026-09-23T00:59:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon (BNY) Eliminates Series F Preferred Stock Designations Following Full ...",
+      "url": "https://www.gurufocus.com/news/9092610/bank-of-new-york-mellon-bny-eliminates-series-f-preferred-stock-designations-following-full-redemption",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T00:27:54+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA",
+      "url": "https://www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa?utm_source=rss_feed",
+      "source": "scmp.com",
+      "published": "2026-09-23T00:00:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo Starts Applied Digital (APLD) at Overweight and Calls it a Top Idea",
+      "url": "https://www.insidermonkey.com/news/wells-fargo-starts-applied-digital-apld-at-overweight-and-calls-it-a-top-idea-1842270/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-22T23:09:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Claude Opus 5.5 on Snowflake Cortex AI",
+      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-5-5-cortex-ai",
+      "source": "snowflake.com",
+      "published": "2026-09-22T23:09:47+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Cancom SE (CCCMF) Presents at Berenberg and Goldman Sachs 15th German Corporate Conference 2026 - Slideshow | $CCCMF",
+      "url": "https://seekingalpha.com/article/4948815-cancom-se-cccmf-presents-at-berenberg-and-goldman-sachs-15th-german-corporate-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-22T23:02:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Advice on financial plan for mid-20s?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wnonjf/advice_on_financial_plan_for_mid20s/",
+      "source": "reddit.com",
+      "published": "2026-09-22T22:51:45+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
       "url": "https://www.techmeme.com/260922/p55#a260922p55",
@@ -17,6 +121,15 @@
       "published": "2026-09-22T22:13:55+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Payments Selects Thunes to Power Global Payout Solution",
+      "url": "https://finovate.com/j-p-morgan-payments-selects-thunes-to-power-global-payout-solution/",
+      "source": "finovate.com",
+      "published": "2026-09-22T21:46:57+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -39,12 +152,30 @@
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226046791/0001839882-26-046791-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526398146/0001193125-26-398146-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-22T21:24:08+00:00",
+      "published": "2026-09-22T21:27:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226046792/0001839882-26-046792-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-22T21:26:21+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026102273/0001213900-26-102273-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-22T21:24:48+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -55,38 +186,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Elanco Animal Health Incorporated (ELAN) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $ELAN",
-      "url": "https://seekingalpha.com/article/4948672-elanco-animal-health-incorporated-elan-presents-at-bank-of-america-global-healthcare",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T21:09:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Fund Sells Wellington Apartments For $105M",
-      "url": "https://www.bisnow.com/news/south-florida/multifamily/jpmorgan-asset-management-polo-lakes-ta-realty",
-      "source": "bisnow.com",
-      "published": "2026-09-22T21:07:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Brookfield's GGP Lines Up $800M CMBS Refi Of 2.4M SF Suburban Chicago Mall",
-      "url": "https://www.bisnow.com/news/chicago/retail/brookfield-ggp-lines-up-800m-refi-of-suburban-chicago-mall",
-      "source": "bisnow.com",
-      "published": "2026-09-22T20:54:38+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C",
-        "GS",
-        "MS"
       ]
     }
   ]
