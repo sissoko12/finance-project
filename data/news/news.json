@@ -1,277 +1,276 @@
 {
-  "last_updated": "2026-09-23T14:23:08.954135+00:00",
+  "last_updated": "2026-09-23T18:33:49.339234+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley accidentally leaks details on over 100 investment banking deals - report",
-      "url": "https://seekingalpha.com/news/4646000-morgan-stanley-accidentally-leaks-details-on-over-100-investment-banking-deals---report",
-      "source": "seekingalpha.com",
-      "published": "2026-09-23T13:26:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA clients resumed buying stocks last week after big de-risking",
-      "url": "https://seekingalpha.com/news/4645994-bofa-clients-resumed-buying-stocks-last-week-after-big-de-risking",
-      "source": "seekingalpha.com",
-      "published": "2026-09-23T13:21:53+00:00",
+      "title": "A Hawkish Fed Is Bad News for Borrowers. It’s Good News for This Bank.",
+      "url": "https://247wallst.com/investing/2026/09/23/a-hawkish-fed-is-bad-news-for-borrowers-its-good-news-for-this-bank/",
+      "source": "247wallst.com",
+      "published": "2026-09-23T17:42:01+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "KLC Maintained by Morgan Stanley -- Price Target Lowered to $2.00",
-      "url": "https://www.gurufocus.com/news/9093399/klc-maintained-by-morgan-stanley-price-target-lowered-to-200",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:11:25+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BFAM Maintained by Morgan Stanley -- Price Target Lowered to $66.00",
-      "url": "https://www.gurufocus.com/news/9093405/bfam-maintained-by-morgan-stanley-price-target-lowered-to-6600",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:11:24+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GPK Upgraded by JP Morgan -- Price Target Lowered to $11.50",
-      "url": "https://www.gurufocus.com/news/9093423/gpk-upgraded-by-jp-morgan-price-target-lowered-to-1150",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:11:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WVE Downgraded by JP Morgan -- Rating Changed to Neutral",
-      "url": "https://www.gurufocus.com/news/9093425/wve-downgraded-by-jp-morgan-rating-changed-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:11:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Just Put a $54 Target on This AI-Pivoting Bitcoin Miner. Amazon Is Already a Customer",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-just-put-54-130939928.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-23T13:09:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "TotalEnergies (NYSE:TTE) Stock Rating Lowered by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-totalenergies-nyse-tte-stock-rating-lowered-by-jpmorgan-chase-co-2026-09-23/",
+      "title": "Apple (NASDAQ:AAPL) Earns \"Buy\" Rating from Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-apple-nasdaq-aapl-earns-buy-rating-from-bank-of-america-2026-09-23/",
       "source": "marketbeat.com",
-      "published": "2026-09-23T13:06:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Micron in focus as Citi ups estimates on better-than-expected DRAM pricing",
-      "url": "https://seekingalpha.com/news/4645988-micron-in-focus-as-citi-ups-estimates-on-better-than-expected-dram-pricing",
-      "source": "seekingalpha.com",
-      "published": "2026-09-23T13:03:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CLDX Maintained by Morgan Stanley -- Price Target Raised to $57.00",
-      "url": "https://www.gurufocus.com/news/9093373/cldx-maintained-by-morgan-stanley-price-target-raised-to-5700",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:01:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "KMX Maintained by Morgan Stanley -- Price Target Raised to $47",
-      "url": "https://www.gurufocus.com/news/9093371/kmx-maintained-by-morgan-stanley-price-target-raised-to-47",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:01:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VLO Maintained by Goldman Sachs -- Price Target Raised to $457",
-      "url": "https://www.gurufocus.com/news/9093369/vlo-maintained-by-goldman-sachs-price-target-raised-to-457",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T13:01:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "European Corporate Treasury Pivots to Mobile as Bank of America’s CashPro Surpasses €100B in Approved Payments",
-      "url": "https://thefintechtimes.com/european-corporate-treasury-pivots-to-mobile-as-bank-of-americas-cashpro-surpasses-e100b-in-approved-payments/",
-      "source": "thefintechtimes.com",
-      "published": "2026-09-23T13:00:53+00:00",
+      "published": "2026-09-23T17:30:27+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "GSK plc (GSK) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $GSK $GLAXF",
-      "url": "https://seekingalpha.com/article/4948941-gsk-plc-gsk-presents-at-bank-of-america-global-healthcare-conference-2026-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-09-23T12:59:29+00:00",
+      "title": "Micron Price Target Raised to $1,300 by Citi on Stronger DRAM Pricing, Undersupply",
+      "url": "https://247wallst.com/investing/2026/09/23/micron-price-target-raised-to-1300-by-citi-on-stronger-dram-pricing-undersupply/",
+      "source": "247wallst.com",
+      "published": "2026-09-23T17:15:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Microsoft, BofA, Macquarie on AI Infrastructure",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/microsoft-bofa-macquarie-on-ai-infrastructure-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-23T17:12:49+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Shokz Returns to the Bank of America Chicago Marathon with Co-Branded Limited Edition OpenRun Pro 2 and Expanded Race Week Experiences",
-      "url": "https://www.newspressnow.com/news/national_news/business/shokz-returns-to-the-bank-of-america-chicago-marathon-with-co-branded-limited-edition-openrun/article_9e541333-bef4-5d58-bade-4ac0a6199490.html",
-      "source": "newspressnow.com",
-      "published": "2026-09-23T12:59:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPM Uses DTCC’s Central Trade Matching Platform (CTM)",
-      "url": "https://www.crowdfundinsider.com/2026/09/312349-jpm-uses-dtccs-central-trade-matching-platform-ctm/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-09-23T12:57:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "First Lady Melania Trump at NYSE to Headline IMPERIA Summit: NYSE Content Update",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-lady-melania-trump-nyse-125500103.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-23T12:55:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Morgan Stanley employee leaks Asia deal pipeline document - Bloomberg",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-employee-leaks-asia-deal-pipeline-document--bloomberg-93CH-4913080",
-      "source": "investing.com",
-      "published": "2026-09-23T12:51:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA backs SigmaRoc on lime pricing strength and acquisition potential",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-backs-sigmaroc-on-lime-pricing-strength-and-acquisition-potential-4913075",
-      "source": "investing.com",
-      "published": "2026-09-23T12:50:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "International Paper (NYSE:IP) Given New $62.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-international-paper-nyse-ip-given-new-6200-price-target-at-jpmorgan-chase-co-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T12:42:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Packaging Corporation of America (NYSE:PKG) Price Target Raised to $320.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-packaging-corporation-of-america-nyse-pkg-price-target-raised-to-32000-at-jpmorgan-chase-co-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T12:42:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Smurfit Westrock (NYSE:SW) Price Target Raised to $69.00 at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-smurfit-westrock-nyse-sw-price-target-raised-to-6900-at-jpmorgan-chase-co-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T12:42:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cummins (NYSE:CMI) Price Target Cut to $600.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cummins-nyse-cmi-price-target-cut-to-60000-by-analysts-at-jpmorgan-chase-co-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T12:42:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cineplex Puts Up “For Sale” Sign as It Names New CEO",
-      "url": "https://www.hollywoodreporter.com/business/business-news/cineplex-for-sale-sign-new-ceo-1236708288/",
-      "source": "hollywoodreporter.com",
-      "published": "2026-09-23T12:41:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Alibaba in focus as Citi weighs in accelerating AI momentum, ups spending forecast",
-      "url": "https://seekingalpha.com/news/4645969-alibaba-in-focus-as-citi-weighs-in-accelerating-ai-momentum-ups-spending-forecast",
-      "source": "seekingalpha.com",
-      "published": "2026-09-23T12:40:02+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley says AI agents could boost, not threaten, call-center firms",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-says-ai-agents-could-boost-not-threaten-callcenter-firms-4913004",
-      "source": "investing.com",
-      "published": "2026-09-23T12:33:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi is jumping into the ad business and entering a fast-growing and competitive market",
-      "url": "https://www.businessinsider.com/citi-is-jumping-into-the-advertising-business-2026-9",
-      "source": "businessinsider.com",
-      "published": "2026-09-23T12:30:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Unveils Citi Commerce Media to Deliver More Personalized Experiences for Customers and Brands",
-      "url": "https://finance.yahoo.com/media-advertising/articles/citi-unveils-citi-commerce-media-123000907.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-23T12:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "State Street Investment Management Expands MyIncome Suite as Assets Top $1 Billion",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-investment-management-expands-123000047.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-23T12:30:00+00:00",
+      "title": "If a Recession Is Coming, This Dividend ETF Could Be the Smartest Long-Term Buy Right Now",
+      "url": "https://www.fool.com/investing/2026/09/23/if-a-recession-is-coming-this-dividend-etf-could/",
+      "source": "fool.com",
+      "published": "2026-09-23T17:05:00+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Citigroup Announces €1.5 Billion Redemption of 0.500% Fixed Rate / Floating Rate Notes Due 2027",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-announces-1-5-billion-123000394.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-23T12:30:00+00:00",
+      "title": "Goldman Sachs finds AI driving measurable profits at tech firms",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-finds-ai-driving-measurable-profits-at-tech-firms-93CH-4913618",
+      "source": "investing.com",
+      "published": "2026-09-23T16:42:10+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Apple Card Savings Account Rate Rises to 3.5% APY",
+      "url": "https://www.ithinkdiff.com/apple-card-savings-account-rate-rises-to-3-5-apy/",
+      "source": "ithinkdiff.com",
+      "published": "2026-09-23T16:41:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley investment-bank list leaked in email misfire",
+      "url": "https://financialpost.com/cybersecurity/morgan-stanley-investment-bank-list-leaked",
+      "source": "financialpost.com",
+      "published": "2026-09-23T16:30:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026102491/0001213900-26-102491-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-23T16:24:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist Financial Lowers KB Home (NYSE:KBH) Price Target to $50.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-lowers-kb-home-nyse-kbh-price-target-to-5000-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T16:24:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "KeyCorp (NYSE:KEY) Price Target Cut to $23.00 by Analysts at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-keycorp-nyse-key-price-target-cut-to-2300-by-analysts-at-truist-financial-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T16:24:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Financial Stocks Worth Watching - September 23rd",
+      "url": "https://www.marketbeat.com/instant-alerts/list-financial-stocks-worth-watching-september-23rd-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T16:03:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Top Bank Stocks To Add to Your Watchlist - September 23rd",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-add-to-your-watchlist-september-23rd-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T16:03:29+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America plans to double AI budget next year",
+      "url": "https://www.bankingdive.com/news/bank-of-america-ai-spending-roi-headcount-moynihan/831159/",
+      "source": "bankingdive.com",
+      "published": "2026-09-23T15:56:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MiniMed Group, Inc. (MMED) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $MMED",
+      "url": "https://seekingalpha.com/article/4948969-minimed-group-inc-mmed-presents-at-bank-of-america-global-healthcare-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-09-23T15:49:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426028523/0001918704-26-028523-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-23T15:47:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "KinderCare Learning, Bright Horizons Facing Affordability Concerns: Morgan Stanley",
+      "url": "https://awesomecapital.blogspot.com/2026/09/kindercare-learning-bright-horizons.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-23T15:45:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi Launches Commerce Media Platform Ahead of Pending Kard Acquisition",
+      "url": "https://www.pymnts.com/credit-cards/2026/citi-launches-commerce-media-platform-before-pending-kard-acquisition/",
+      "source": "pymnts.com",
+      "published": "2026-09-23T15:40:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for Ligand Pharmaceuticals (NASDAQ:LGND) Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13592604/citigroup-forecasts-strong-price-appreciation-for-ligand-pharmaceuticals-nasdaqlgnd-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-23T15:36:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ligand Pharmaceuticals (NASDAQ:LGND) Given New $397.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ligand-pharmaceuticals-nasdaq-lgnd-given-new-39700-price-target-at-citigroup-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T15:36:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts The Goldman Sachs Group (NYSE:GS) Price Target to $1,050.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-cuts-the-goldman-sachs-group-nyse-gs-price-target-to-105000-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T15:36:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial Has Lowered Expectations for Ally Financial (NYSE:ALLY) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-ally-financial-nyse-ally-stock-price-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T15:36:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "American Express (NYSE:AXP) Price Target Cut to $370.00 by Analysts at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-american-express-nyse-axp-price-target-cut-to-37000-by-analysts-at-truist-financial-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T15:36:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Recent Investment Analysts’ Ratings Changes for Xencor (XNCR)",
+      "url": "https://www.tickerreport.com/banking-finance/13592603/recent-investment-analysts-ratings-changes-for-xencor-xncr.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-23T15:26:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BP Upgraded by JP Morgan -- Rating Raised to Overweight",
+      "url": "https://www.gurufocus.com/news/9093786/bp-upgraded-by-jp-morgan-rating-raised-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T15:23:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "TTE Downgraded by JP Morgan -- Rating Changed to Neutral",
+      "url": "https://www.gurufocus.com/news/9093787/tte-downgraded-by-jp-morgan-rating-changed-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T15:23:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Royal Caribbean (RCL) to Acquire 50% Stake in Sandals and Beaches Resorts for $3 Billion",
+      "url": "https://www.gurufocus.com/news/9093776/royal-caribbean-rcl-to-acquire-50-stake-in-sandals-and-beaches-resorts-for-3-billion",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T15:23:57+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Apollo Global Management, Inc. at Bank of America Global Research Financials CEO Conference ...",
+      "url": "https://www.gurufocus.com/news/9093827/apollo-global-management-inc-at-bank-of-america-global-research-financials-ceo-conference-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T15:23:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "'Citi launches Citi Commerce Media'",
+      "url": "https://awesomecapital.blogspot.com/2026/09/citi-launches-citi-commerce-media.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-23T15:21:34+00:00",
       "tickers": [
         "C"
       ]
