@@ -1,191 +1,274 @@
 {
-  "last_updated": "2026-09-23T04:26:40.861075+00:00",
+  "last_updated": "2026-09-23T09:29:02.222406+00:00",
   "headlines": [
     {
-      "title": "BofA's Irigoyen on Fed Policy, Inflation",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-23/bofa-s-irigoyen-on-fed-policy-inflation-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-23T02:52:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sees China Oil Imports Staying Subdued in Fourth Quarter",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/goldman-sees-china-oil-imports-staying-subdued-in-fourth-quarter",
-      "source": "bloomberg.com",
-      "published": "2026-09-23T02:19:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Hartford council reviews conceptual subdivision plan",
-      "url": "https://discoverhometown.com/hartford-council-reviews-conceptual-subdivision-plan/",
-      "source": "discoverhometown.com",
-      "published": "2026-09-23T02:12:09+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Alibaba (BABA) Plans Major Data Center Expansion, Citi Adjusts Capex Forecast",
-      "url": "https://www.gurufocus.com/news/9092705/alibaba-baba-plans-major-data-center-expansion-citi-adjusts-capex-forecast",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T02:10:29+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wise transfer from USA to CAD bank",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wnrkmo/wise_transfer_from_usa_to_cad_bank/",
-      "source": "reddit.com",
-      "published": "2026-09-23T00:59:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon (BNY) Eliminates Series F Preferred Stock Designations Following Full ...",
-      "url": "https://www.gurufocus.com/news/9092610/bank-of-new-york-mellon-bny-eliminates-series-f-preferred-stock-designations-following-full-redemption",
-      "source": "gurufocus.com",
-      "published": "2026-09-23T00:27:54+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA",
-      "url": "https://www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa?utm_source=rss_feed",
-      "source": "scmp.com",
-      "published": "2026-09-23T00:00:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Starts Applied Digital (APLD) at Overweight and Calls it a Top Idea",
-      "url": "https://www.insidermonkey.com/news/wells-fargo-starts-applied-digital-apld-at-overweight-and-calls-it-a-top-idea-1842270/",
-      "source": "insidermonkey.com",
-      "published": "2026-09-22T23:09:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Claude Opus 5.5 on Snowflake Cortex AI",
-      "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-5-5-cortex-ai",
-      "source": "snowflake.com",
-      "published": "2026-09-22T23:09:47+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Cancom SE (CCCMF) Presents at Berenberg and Goldman Sachs 15th German Corporate Conference 2026 - Slideshow | $CCCMF",
-      "url": "https://seekingalpha.com/article/4948815-cancom-se-cccmf-presents-at-berenberg-and-goldman-sachs-15th-german-corporate-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-09-22T23:02:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Advice on financial plan for mid-20s?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wnonjf/advice_on_financial_plan_for_mid20s/",
-      "source": "reddit.com",
-      "published": "2026-09-22T22:51:45+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260922/p55#a260922p55",
-      "source": "techmeme.com",
-      "published": "2026-09-22T22:35:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "AppleCare refund went to paid off installment plan",
-      "url": "https://www.reddit.com/r/iphone/comments/1wnnqrj/applecare_refund_went_to_paid_off_installment_plan/",
-      "source": "reddit.com",
-      "published": "2026-09-22T22:13:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Payments Selects Thunes to Power Global Payout Solution",
-      "url": "https://finovate.com/j-p-morgan-payments-selects-thunes-to-power-global-payout-solution/",
-      "source": "finovate.com",
-      "published": "2026-09-22T21:46:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Price Down 3% - Time to Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-price-down-3-time-to-sell-2026-09-22/",
+      "title": "ATI Targets $1.35B EBITDA Run Rate as Aerospace, Defense Near 70% of Sales",
+      "url": "https://www.marketbeat.com/instant-alerts/event-ati-targets-135b-ebitda-run-rate-as-aerospace-defense-near-70-of-sales-2026-09-23/",
       "source": "marketbeat.com",
-      "published": "2026-09-22T21:41:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 3.3% - Here's Why",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-33-heres-why-2026-09-22/",
-      "source": "marketbeat.com",
-      "published": "2026-09-22T21:41:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526398146/0001193125-26-398146-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T21:27:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226046792/0001839882-26-046792-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T21:26:21+00:00",
+      "published": "2026-09-23T08:02:21+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026102273/0001213900-26-102273-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T21:24:48+00:00",
+      "title": "Targa Resources, Inc. $TRGP Position Increased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-targa-resources-inc-trgp-position-increased-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:52+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426028462/0001918704-26-028462-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-22T21:22:02+00:00",
+      "title": "State Street Corp Buys 3,164,551 Shares of Sterling Infrastructure, Inc. $STRL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-3164551-shares-of-sterling-infrastructure-inc-strl-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:51+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Increases Position in Teradyne, Inc. $TER",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-position-in-teradyne-inc-ter-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:51+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Buys 42,490 Shares of Transdigm Group Incorporated $TDG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-42490-shares-of-transdigm-group-incorporated-tdg-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:50+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Boosts Position in NXP Semiconductors N.V. $NXPI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-position-in-nxp-semiconductors-nv-nxpi-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:49+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Public Storage $PSA Shares Sold by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-public-storage-psa-shares-sold-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:48+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Monolithic Power Systems, Inc. $MPWR Stock Position Raised by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-monolithic-power-systems-inc-mpwr-stock-position-raised-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:47+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Boosts Stock Position in Ross Stores, Inc. $ROST",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-stock-position-in-ross-stores-inc-rost-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:46+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Purchases 1,770,356 Shares of Xcel Energy Inc. $XEL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1770356-shares-of-xcel-energy-inc-xel-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:46+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Increases Holdings in Regeneron Pharmaceuticals, Inc. $REGN",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-holdings-in-regeneron-pharmaceuticals-inc-regn-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:45+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Takes Position in Honeywell Aerospace $HONA",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-takes-position-in-honeywell-aerospace-hona-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:44+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Take-Two Interactive Software, Inc. $TTWO Shares Sold by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-take-two-interactive-software-inc-ttwo-shares-sold-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:43+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Purchases 869,793 Shares of Fastenal Company $FAST",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-869793-shares-of-fastenal-company-fast-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Vistra Corp. $VST Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vistra-corp-vst-shares-purchased-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:41+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Has $2.64 Billion Stock Holdings in L3Harris Technologies Inc $LHX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-264-billion-stock-holdings-in-l3harris-technologies-inc-lhx-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:40+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Purchases 4,052,428 Shares of NIKE, Inc. $NKE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-4052428-shares-of-nike-inc-nke-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:39+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Has $2.63 Billion Position in Microchip Technology Incorporated $MCHP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-263-billion-position-in-microchip-technology-incorporated-mchp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:39+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Sells 567,268 Shares of Kimberly-Clark Corporation $KMB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-567268-shares-of-kimberly-clark-corporation-kmb-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:38+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corporation $STT Stock Holdings Boosted by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corporation-stt-stock-holdings-boosted-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:37+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Raises Holdings in Diamondback Energy, Inc. $FANG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-holdings-in-diamondback-energy-inc-fang-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:36+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Humana Inc. $HUM Shares Acquired by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-humana-inc-hum-shares-acquired-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:36+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Has $2.13 Billion Stake in Wabtec $WAB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-213-billion-stake-in-wabtec-wab-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:35+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Carvana Co. $CVNA Holdings Lifted by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-carvana-co-cvna-holdings-lifted-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:35+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Takes Position in SpaceX $SPCX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-takes-position-in-spacex-spcx-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:34+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Purchases 196,969 Shares of American International Group, Inc. $AIG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-196969-shares-of-american-international-group-inc-aig-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:34+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Prudential Financial, Inc. $PRU Position Increased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-prudential-financial-inc-pru-position-increased-by-state-street-corp-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:33+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Has $1.70 Billion Holdings in Steel Dynamics, Inc. $STLD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-170-billion-holdings-in-steel-dynamics-inc-stld-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:32+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Sells 3,169,816 Shares of Omnicom Group Inc. $OMC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-3169816-shares-of-omnicom-group-inc-omc-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:32+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Trims Stock Holdings in M&T Bank Corporation $MTB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-trims-stock-holdings-in-mt-bank-corporation-mtb-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T07:37:32+00:00",
+      "tickers": [
+        "STT"
       ]
     }
   ]
