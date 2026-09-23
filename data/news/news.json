@@ -1,274 +1,279 @@
 {
-  "last_updated": "2026-09-23T09:29:02.222406+00:00",
+  "last_updated": "2026-09-23T14:23:08.954135+00:00",
   "headlines": [
     {
-      "title": "ATI Targets $1.35B EBITDA Run Rate as Aerospace, Defense Near 70% of Sales",
-      "url": "https://www.marketbeat.com/instant-alerts/event-ati-targets-135b-ebitda-run-rate-as-aerospace-defense-near-70-of-sales-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T08:02:21+00:00",
+      "title": "Morgan Stanley accidentally leaks details on over 100 investment banking deals - report",
+      "url": "https://seekingalpha.com/news/4646000-morgan-stanley-accidentally-leaks-details-on-over-100-investment-banking-deals---report",
+      "source": "seekingalpha.com",
+      "published": "2026-09-23T13:26:17+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Targa Resources, Inc. $TRGP Position Increased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-targa-resources-inc-trgp-position-increased-by-state-street-corp-2026-09-23/",
+      "title": "BofA clients resumed buying stocks last week after big de-risking",
+      "url": "https://seekingalpha.com/news/4645994-bofa-clients-resumed-buying-stocks-last-week-after-big-de-risking",
+      "source": "seekingalpha.com",
+      "published": "2026-09-23T13:21:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "KLC Maintained by Morgan Stanley -- Price Target Lowered to $2.00",
+      "url": "https://www.gurufocus.com/news/9093399/klc-maintained-by-morgan-stanley-price-target-lowered-to-200",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:11:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BFAM Maintained by Morgan Stanley -- Price Target Lowered to $66.00",
+      "url": "https://www.gurufocus.com/news/9093405/bfam-maintained-by-morgan-stanley-price-target-lowered-to-6600",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:11:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GPK Upgraded by JP Morgan -- Price Target Lowered to $11.50",
+      "url": "https://www.gurufocus.com/news/9093423/gpk-upgraded-by-jp-morgan-price-target-lowered-to-1150",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:11:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WVE Downgraded by JP Morgan -- Rating Changed to Neutral",
+      "url": "https://www.gurufocus.com/news/9093425/wve-downgraded-by-jp-morgan-rating-changed-to-neutral",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:11:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Just Put a $54 Target on This AI-Pivoting Bitcoin Miner. Amazon Is Already a Customer",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-just-put-54-130939928.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-23T13:09:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TotalEnergies (NYSE:TTE) Stock Rating Lowered by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-totalenergies-nyse-tte-stock-rating-lowered-by-jpmorgan-chase-co-2026-09-23/",
       "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:52+00:00",
+      "published": "2026-09-23T13:06:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Micron in focus as Citi ups estimates on better-than-expected DRAM pricing",
+      "url": "https://seekingalpha.com/news/4645988-micron-in-focus-as-citi-ups-estimates-on-better-than-expected-dram-pricing",
+      "source": "seekingalpha.com",
+      "published": "2026-09-23T13:03:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CLDX Maintained by Morgan Stanley -- Price Target Raised to $57.00",
+      "url": "https://www.gurufocus.com/news/9093373/cldx-maintained-by-morgan-stanley-price-target-raised-to-5700",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:01:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "KMX Maintained by Morgan Stanley -- Price Target Raised to $47",
+      "url": "https://www.gurufocus.com/news/9093371/kmx-maintained-by-morgan-stanley-price-target-raised-to-47",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:01:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "VLO Maintained by Goldman Sachs -- Price Target Raised to $457",
+      "url": "https://www.gurufocus.com/news/9093369/vlo-maintained-by-goldman-sachs-price-target-raised-to-457",
+      "source": "gurufocus.com",
+      "published": "2026-09-23T13:01:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "European Corporate Treasury Pivots to Mobile as Bank of America’s CashPro Surpasses €100B in Approved Payments",
+      "url": "https://thefintechtimes.com/european-corporate-treasury-pivots-to-mobile-as-bank-of-americas-cashpro-surpasses-e100b-in-approved-payments/",
+      "source": "thefintechtimes.com",
+      "published": "2026-09-23T13:00:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GSK plc (GSK) Presents at Bank of America Global Healthcare Conference 2026 Transcript | $GSK $GLAXF",
+      "url": "https://seekingalpha.com/article/4948941-gsk-plc-gsk-presents-at-bank-of-america-global-healthcare-conference-2026-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-09-23T12:59:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Shokz Returns to the Bank of America Chicago Marathon with Co-Branded Limited Edition OpenRun Pro 2 and Expanded Race Week Experiences",
+      "url": "https://www.newspressnow.com/news/national_news/business/shokz-returns-to-the-bank-of-america-chicago-marathon-with-co-branded-limited-edition-openrun/article_9e541333-bef4-5d58-bade-4ac0a6199490.html",
+      "source": "newspressnow.com",
+      "published": "2026-09-23T12:59:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPM Uses DTCC’s Central Trade Matching Platform (CTM)",
+      "url": "https://www.crowdfundinsider.com/2026/09/312349-jpm-uses-dtccs-central-trade-matching-platform-ctm/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-09-23T12:57:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "First Lady Melania Trump at NYSE to Headline IMPERIA Summit: NYSE Content Update",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-lady-melania-trump-nyse-125500103.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-23T12:55:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Morgan Stanley employee leaks Asia deal pipeline document - Bloomberg",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-employee-leaks-asia-deal-pipeline-document--bloomberg-93CH-4913080",
+      "source": "investing.com",
+      "published": "2026-09-23T12:51:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BofA backs SigmaRoc on lime pricing strength and acquisition potential",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-backs-sigmaroc-on-lime-pricing-strength-and-acquisition-potential-4913075",
+      "source": "investing.com",
+      "published": "2026-09-23T12:50:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "International Paper (NYSE:IP) Given New $62.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-international-paper-nyse-ip-given-new-6200-price-target-at-jpmorgan-chase-co-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T12:42:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Packaging Corporation of America (NYSE:PKG) Price Target Raised to $320.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-packaging-corporation-of-america-nyse-pkg-price-target-raised-to-32000-at-jpmorgan-chase-co-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T12:42:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Smurfit Westrock (NYSE:SW) Price Target Raised to $69.00 at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-smurfit-westrock-nyse-sw-price-target-raised-to-6900-at-jpmorgan-chase-co-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T12:42:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cummins (NYSE:CMI) Price Target Cut to $600.00 by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cummins-nyse-cmi-price-target-cut-to-60000-by-analysts-at-jpmorgan-chase-co-2026-09-23/",
+      "source": "marketbeat.com",
+      "published": "2026-09-23T12:42:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cineplex Puts Up “For Sale” Sign as It Names New CEO",
+      "url": "https://www.hollywoodreporter.com/business/business-news/cineplex-for-sale-sign-new-ceo-1236708288/",
+      "source": "hollywoodreporter.com",
+      "published": "2026-09-23T12:41:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Alibaba in focus as Citi weighs in accelerating AI momentum, ups spending forecast",
+      "url": "https://seekingalpha.com/news/4645969-alibaba-in-focus-as-citi-weighs-in-accelerating-ai-momentum-ups-spending-forecast",
+      "source": "seekingalpha.com",
+      "published": "2026-09-23T12:40:02+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley says AI agents could boost, not threaten, call-center firms",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-says-ai-agents-could-boost-not-threaten-callcenter-firms-4913004",
+      "source": "investing.com",
+      "published": "2026-09-23T12:33:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi is jumping into the ad business and entering a fast-growing and competitive market",
+      "url": "https://www.businessinsider.com/citi-is-jumping-into-the-advertising-business-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-23T12:30:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Unveils Citi Commerce Media to Deliver More Personalized Experiences for Customers and Brands",
+      "url": "https://finance.yahoo.com/media-advertising/articles/citi-unveils-citi-commerce-media-123000907.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-23T12:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "State Street Investment Management Expands MyIncome Suite as Assets Top $1 Billion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-investment-management-expands-123000047.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-23T12:30:00+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "State Street Corp Buys 3,164,551 Shares of Sterling Infrastructure, Inc. $STRL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-3164551-shares-of-sterling-infrastructure-inc-strl-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:51+00:00",
+      "title": "Citigroup Announces €1.5 Billion Redemption of 0.500% Fixed Rate / Floating Rate Notes Due 2027",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-announces-1-5-billion-123000394.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-23T12:30:00+00:00",
       "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Increases Position in Teradyne, Inc. $TER",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-position-in-teradyne-inc-ter-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:51+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Buys 42,490 Shares of Transdigm Group Incorporated $TDG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-42490-shares-of-transdigm-group-incorporated-tdg-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:50+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Boosts Position in NXP Semiconductors N.V. $NXPI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-position-in-nxp-semiconductors-nv-nxpi-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:49+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Public Storage $PSA Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-public-storage-psa-shares-sold-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:48+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Monolithic Power Systems, Inc. $MPWR Stock Position Raised by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-monolithic-power-systems-inc-mpwr-stock-position-raised-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:47+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Boosts Stock Position in Ross Stores, Inc. $ROST",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-stock-position-in-ross-stores-inc-rost-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:46+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Purchases 1,770,356 Shares of Xcel Energy Inc. $XEL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1770356-shares-of-xcel-energy-inc-xel-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:46+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Increases Holdings in Regeneron Pharmaceuticals, Inc. $REGN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-holdings-in-regeneron-pharmaceuticals-inc-regn-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:45+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Takes Position in Honeywell Aerospace $HONA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-takes-position-in-honeywell-aerospace-hona-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:44+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Take-Two Interactive Software, Inc. $TTWO Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-take-two-interactive-software-inc-ttwo-shares-sold-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:43+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Purchases 869,793 Shares of Fastenal Company $FAST",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-869793-shares-of-fastenal-company-fast-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:42+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Vistra Corp. $VST Shares Purchased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vistra-corp-vst-shares-purchased-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:41+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Has $2.64 Billion Stock Holdings in L3Harris Technologies Inc $LHX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-264-billion-stock-holdings-in-l3harris-technologies-inc-lhx-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:40+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Purchases 4,052,428 Shares of NIKE, Inc. $NKE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-4052428-shares-of-nike-inc-nke-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:39+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Has $2.63 Billion Position in Microchip Technology Incorporated $MCHP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-263-billion-position-in-microchip-technology-incorporated-mchp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:39+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Sells 567,268 Shares of Kimberly-Clark Corporation $KMB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-567268-shares-of-kimberly-clark-corporation-kmb-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:38+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corporation $STT Stock Holdings Boosted by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corporation-stt-stock-holdings-boosted-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:37+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Raises Holdings in Diamondback Energy, Inc. $FANG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-holdings-in-diamondback-energy-inc-fang-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:36+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Humana Inc. $HUM Shares Acquired by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-humana-inc-hum-shares-acquired-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:36+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Has $2.13 Billion Stake in Wabtec $WAB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-213-billion-stake-in-wabtec-wab-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:35+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Carvana Co. $CVNA Holdings Lifted by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-carvana-co-cvna-holdings-lifted-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:35+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Takes Position in SpaceX $SPCX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-takes-position-in-spacex-spcx-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:34+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Purchases 196,969 Shares of American International Group, Inc. $AIG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-196969-shares-of-american-international-group-inc-aig-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:34+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Prudential Financial, Inc. $PRU Position Increased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-prudential-financial-inc-pru-position-increased-by-state-street-corp-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:33+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Has $1.70 Billion Holdings in Steel Dynamics, Inc. $STLD",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-has-170-billion-holdings-in-steel-dynamics-inc-stld-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:32+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Sells 3,169,816 Shares of Omnicom Group Inc. $OMC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-3169816-shares-of-omnicom-group-inc-omc-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:32+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Trims Stock Holdings in M&T Bank Corporation $MTB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-trims-stock-holdings-in-mt-bank-corporation-mtb-2026-09-23/",
-      "source": "marketbeat.com",
-      "published": "2026-09-23T07:37:32+00:00",
-      "tickers": [
-        "STT"
+        "C"
       ]
     }
   ]
