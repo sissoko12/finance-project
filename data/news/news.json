@@ -1,274 +1,288 @@
 {
-  "last_updated": "2026-09-25T10:06:18.526472+00:00",
+  "last_updated": "2026-09-25T15:27:49.533052+00:00",
   "headlines": [
     {
-      "title": "Citi sees yen strengthening on reduced foreign investment",
-      "url": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-on-reduced-foreign-investment-93CH-4916952",
-      "source": "investing.com",
-      "published": "2026-09-25T09:06:41+00:00",
+      "title": "Comcast (CMCSA) Stock Plummets to 13-Year Low Amid Analyst Downgrades",
+      "url": "https://blockonomi.com/comcast-cmcsa-stock-plummets-to-13-year-low-amid-analyst-downgrades/",
+      "source": "blockonomi.com",
+      "published": "2026-09-25T14:27:17+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley changes BoE rate call, sees hikes in Nov and Feb",
-      "url": "https://www.investing.com/news/economy-news/morgan-stanley-changes-boe-rate-call-sees-hikes-in-nov-and-feb-4916903",
-      "source": "investing.com",
-      "published": "2026-09-25T08:42:34+00:00",
+      "title": "Constellation Brands (NYSE:STZ) Given New $133.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-constellation-brands-nyse-stz-given-new-13300-price-target-at-jpmorgan-chase-co-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T14:24:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist Financial Has Lowered Expectations for Bank of New York Mellon (NYSE:BNY) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-bank-of-new-york-mellon-nyse-bny-stock-price-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T14:24:30+00:00",
+      "tickers": [
+        "C",
+        "TFC",
+        "BK"
+      ]
+    },
+    {
+      "title": "Accenture (NYSE:ACN) Stock Price Target Raised at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-accenture-nyse-acn-stock-price-target-raised-at-jpmorgan-chase-co-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T14:24:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist Financial Cuts Costco Wholesale (NASDAQ:COST) Price Target to $955.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-cuts-costco-wholesale-nasdaq-cost-price-target-to-95500-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T14:24:28+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Costco Wholesale (NASDAQ:COST) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-costco-wholesale-nasdaq-cost-stock-price-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T14:24:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Akamai Technologies (NASDAQ:AKAM) Given New $167.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-akamai-technologies-nasdaq-akam-given-new-16700-price-target-at-jpmorgan-chase-co-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T14:24:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Preferreds: The Temptation Of A 54% Redemption Upside | $JPM",
+      "url": "https://seekingalpha.com/article/4949766-jp-morgan-preferreds-the-temptation-of-a-54-percent-redemption-upside",
+      "source": "seekingalpha.com",
+      "published": "2026-09-25T14:21:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Keystone To Launch India Business With Bengaluru As First Hub, Plans To Hire Talent & Increase Workforce Over Next Two Years",
+      "url": "https://www.prnewswire.com/news-releases/keystone-to-launch-india-business-with-bengaluru-as-first-hub-plans-to-hire-talent--increase-workforce-over-next-two-years-302889844.html",
+      "source": "prnewswire.com",
+      "published": "2026-09-25T14:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Olivia Rodrigo, Sombr, Katseye Lead iHeartMedia ‘Jingle Ball’ Lineups",
+      "url": "https://variety.com/2026/music/news/iheartmedia-jingle-ball-2026-olivia-rodrigo-sombr-katseye-1236875552/",
+      "source": "variety.com",
+      "published": "2026-09-25T14:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "iHeartMedia Rings in the Holiday Season with the Iconic 2026 National ‘iHeartRadio Jingle Ball Tour Presented by Capital One’",
+      "url": "http://www.businesswire.com/news/home/20260925915136/en/iHeartMedia-Rings-in-the-Holiday-Season-with-the-Iconic-2026-National-%E2%80%98iHeartRadio-Jingle-Ball-Tour-Presented-by-Capital-One%E2%80%99/?feedref=JjAwJuNHiystnCoBq_hl-VR1qQy58h1AHJBM3Uf2eiaYn-g-Is8qwEv7xHaDWsZ9gLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTXDww4-Utg8ArvdMXWv8MH5BSvR87oUDgbHejiywQBpbg==",
+      "source": "businesswire.com",
+      "published": "2026-09-25T14:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Truist Financial Cuts Camden Property Trust (NYSE:CPT) Price Target to $108.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-cuts-camden-property-trust-nyse-cpt-price-target-to-10800-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T13:54:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Andersen Group (NYSE:ANDG) Stock Price Expected to Rise, Truist Financial Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-andersen-group-nyse-andg-stock-price-expected-to-rise-truist-financial-analyst-says-2026-09-25/",
+      "source": "marketbeat.com",
+      "published": "2026-09-25T13:54:27+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "BofA’s Hartnett flags deleveraging risk as bond-market volatility spikes",
+      "url": "https://seekingalpha.com/news/4647146-bofa-s-hartnett-flags-deleveraging-risk-as-bond-market-volatility-spikes",
+      "source": "seekingalpha.com",
+      "published": "2026-09-25T13:49:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Nike Pulls Back on Bank of America Downgrade and $30 Price Objective; Dick’s Ticks Up, On Holding Holds Flat",
+      "url": "https://247wallst.com/investing/2026/09/25/nike-pulls-back-on-bank-of-america-downgrade-and-30-price-objective-dicks-ticks-up-on-holding-holds-flat/",
+      "source": "247wallst.com",
+      "published": "2026-09-25T13:42:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Three Major Analysts Bet on Meta’s AI Pivot With Price Targets Approaching $920",
+      "url": "https://247wallst.com/investing/2026/09/25/three-major-analysts-bet-on-metas-ai-pivot-with-price-targets-approaching-920/",
+      "source": "247wallst.com",
+      "published": "2026-09-25T13:30:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sector Update: Healthcare Stocks Edge Higher Premarket Friday",
+      "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-edge-higher-131933210.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T13:19:33+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+      "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+      "source": "decrypt.co",
+      "published": "2026-09-25T13:16:03+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "The Stack: AI Enters Everything",
-      "url": "https://www.exchangewire.com/blog/2026/09/25/the-stack-ai-enters-everything/",
-      "source": "exchangewire.com",
-      "published": "2026-09-25T08:00:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426028767/0001918704-26-028767-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-25T13:15:32+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "OneMain Holdings, Inc. $OMF Shares Purchased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-onemain-holdings-inc-omf-shares-purchased-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:46+00:00",
+      "title": "Genius Sports (NYSE:GENI) Stock Picked Up by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13595898/genius-sports-nysegeni-stock-picked-up-by-analysts-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-25T13:06:58+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "State Street Corp Acquires 122,327 Shares of Central Garden & Pet Company $CENTA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-122327-shares-of-central-garden-pet-company-centa-2026-09-25/",
+      "title": "Lionsgate Studios (NYSE:LION) Stock Rated Underweight in New Coverage at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-lionsgate-studios-nyse-lion-stock-rated-underweight-in-new-coverage-at-jpmorgan-chase-co-2026-09-25/",
       "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:45+00:00",
+      "published": "2026-09-25T13:06:34+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Itau Unibanco Holding S.A. $ITUB Holdings Lowered by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-itau-unibanco-holding-sa-itub-holdings-lowered-by-state-street-corp-2026-09-25/",
+      "title": "Cardinal Infrastructure Group (NASDAQ:CDNL) Now Covered by Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cardinal-infrastructure-group-nasdaq-cdnl-now-covered-by-truist-financial-2026-09-25/",
       "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:45+00:00",
+      "published": "2026-09-25T13:06:32+00:00",
       "tickers": [
-        "STT"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "State Street Corp Makes New Investment in Ryerson Holding $RYZ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-makes-new-investment-in-ryerson-holding-ryz-2026-09-25/",
+      "title": "JPMorgan Chase & Co. Begins Coverage on Genius Sports (NYSE:GENI)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-begins-coverage-on-genius-sports-nyse-geni-2026-09-25/",
       "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:44+00:00",
+      "published": "2026-09-25T13:06:32+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Ellington Financial Inc. $EFC Stake Boosted by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ellington-financial-inc-efc-stake-boosted-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:44+00:00",
+      "title": "IBD's 30 Most Trusted Financial Companies — See The 2026 List",
+      "url": "https://finance.yahoo.com/m/dd97497b-bf7b-31b5-b1ff-be3cb46957d6/ibd%27s-30-most-trusted.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T13:01:28+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Qiagen N.V. $QGEN Holdings Raised by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-qiagen-nv-qgen-holdings-raised-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:44+00:00",
+      "title": "Best Banks: Ensuring Privacy And Security Wins Customer Trust",
+      "url": "https://finance.yahoo.com/m/909b0c34-ba29-343a-bd23-ca2c3ba99fd9/best-banks%3A-ensuring-privacy.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T13:01:07+00:00",
       "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "State Street Corp Acquires New Shares in Agilon Health, Inc. $AGL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-new-shares-in-agilon-health-inc-agl-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:43+00:00",
+      "title": "Schwab, Fidelity, E-Trade Top Investing Rankings In IBD Trust Survey",
+      "url": "https://finance.yahoo.com/m/ea2d56bb-7cf1-3a80-bea4-9605ac8ca18d/schwab%2C-fidelity%2C-e-trade-top.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T13:00:50+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "Trump Media & Technology Group Corp. $DJT Position Raised by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-trump-media-technology-group-corp-djt-position-raised-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:43+00:00",
+      "title": "Credit Card Companies Woo Shoppers With New Perks, Services",
+      "url": "https://finance.yahoo.com/m/1a2601c6-c420-3c15-9ae7-f4f14b7b8091/credit-card-companies-woo.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T13:00:40+00:00",
       "tickers": [
-        "STT"
+        "JPM"
       ]
     },
     {
-      "title": "State Street Corp Buys 183,902 Shares of United States Lime & Minerals, Inc. $USLM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-183902-shares-of-united-states-lime-minerals-inc-uslm-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:43+00:00",
+      "title": "IBD's Seventh Annual Survey Of The Most Trusted Financial Companies",
+      "url": "https://finance.yahoo.com/m/575d0183-8373-3595-81a6-2322a7c8fb77/ibd%27s-seventh-annual-survey.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T13:00:29+00:00",
       "tickers": [
-        "STT"
+        "C",
+        "SCHW"
       ]
     },
     {
-      "title": "992,179 Shares of Brookfield Business Corp $BBUC Purchased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-992179-shares-of-brookfield-business-corp-bbuc-purchased-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:42+00:00",
+      "title": "Goldman Sachs Warns on Big Tech AI Debt Flood",
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-warns-big-tech-125826122.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-25T12:58:26+00:00",
       "tickers": [
-        "STT"
+        "GS"
       ]
     },
     {
-      "title": "State Street Corp Purchases 746,719 Shares of Farmers National Banc Corp. $FMNB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-746719-shares-of-farmers-national-banc-corp-fmnb-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:33+00:00",
+      "title": "Until yields bite growth, BofA sees a tech climax—and more bond pain",
+      "url": "https://seekingalpha.com/news/4647093-until-yields-bite-growth-bofa-sees-a-tech-climax-and-more-bond-pain",
+      "source": "seekingalpha.com",
+      "published": "2026-09-25T12:53:33+00:00",
       "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Buys 1,512,896 Shares of First Tracks Biotherapeutics $TRAX",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-1512896-shares-of-first-tracks-biotherapeutics-trax-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:33+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Liberty Global Ltd $LBTYA Stock Purchased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-liberty-global-ltd-lbtya-stock-purchased-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:33+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Under Armour, Inc. $UAA Stake Boosted by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-under-armour-inc-uaa-stake-boosted-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:32+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Purchases 1,913,688 Shares of Galaxy Digital Inc. $GLXY",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1913688-shares-of-galaxy-digital-inc-glxy-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:32+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Grows Holdings in Aehr Test Systems $AEHR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-grows-holdings-in-aehr-test-systems-aehr-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:32+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Increases Holdings in Plug Power, Inc. $PLUG",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-holdings-in-plug-power-inc-plug-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:31+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Wingstop Inc. $WING Stock Position Lifted by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wingstop-inc-wing-stock-position-lifted-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:44:31+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "QRG Capital Management Inc. Acquires 6,420 Shares of State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-acquires-6420-shares-of-state-street-corporation-stt-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:39+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Chimera Investment Corporation $CIM Stock Position Increased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-chimera-investment-corporation-cim-stock-position-increased-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:23+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Increases Stake in PureCycle Technologies, Inc. $PCT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-stake-in-purecycle-technologies-inc-pct-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:23+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Liberty Media Corporation - Liberty Formula One Series A $FWONA Stock Holdings Trimmed by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-liberty-media-corporation-liberty-formula-one-series-a-fwona-stock-holdings-trimmed-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:22+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Grows Stock Holdings in Ladder Capital Corp $LADR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-grows-stock-holdings-in-ladder-capital-corp-ladr-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:21+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "NB Bancorp, Inc. $NBBK Stake Increased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nb-bancorp-inc-nbbk-stake-increased-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:21+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Koppers Holdings Inc. $KOP Stock Holdings Boosted by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-koppers-holdings-inc-kop-stock-holdings-boosted-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:20+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "James Hardie Industries PLC. $JHX Stock Position Reduced by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-james-hardie-industries-plc-jhx-stock-position-reduced-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:20+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ZIM Integrated Shipping Services Ltd. $ZIM Stock Bought by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-zim-integrated-shipping-services-ltd-zim-stock-bought-by-state-street-corp-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T07:37:19+00:00",
-      "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     }
   ]
