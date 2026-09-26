@@ -1,6 +1,269 @@
 {
-  "last_updated": "2026-09-26T06:32:56.485576+00:00",
+  "last_updated": "2026-09-26T12:09:33.721612+00:00",
   "headlines": [
+    {
+      "title": "2 Data Center Stocks That Could Help Make You a Fortune",
+      "url": "https://www.fool.com/investing/2026/09/26/2-data-center-stocks-make-fortune/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-26T10:15:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Elanco Animal Health Eyes Growth, Deleveraging as Quattro and Zenrelia Gain Ground",
+      "url": "https://www.marketbeat.com/instant-alerts/event-elanco-animal-health-eyes-growth-deleveraging-as-quattro-and-zenrelia-gain-ground-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T10:02:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Stock Now Rated \"Moderate Buy\" by Wall Street Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-us-bancorp-nyse-usb-stock-now-rated-moderate-buy-by-wall-street-analysts-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T08:44:21+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "798,842 Truist Financial Corporation $TFC Shares Sold by Envestnet Asset Management Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-798842-truist-financial-corporation-tfc-shares-sold-by-envestnet-asset-management-inc-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:38:18+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Levi Strauss & Co. $LEVI Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-levi-strauss-co-levi-shares-purchased-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:40+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Omeros Corporation $OMER Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-omeros-corporation-omer-shares-purchased-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:39+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Vanda Pharmaceuticals Inc. $VNDA Stock Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vanda-pharmaceuticals-inc-vnda-stock-purchased-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:37+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Grows Stock Holdings in Eastman Kodak Company $KODK",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-grows-stock-holdings-in-eastman-kodak-company-kodk-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:37+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Saul Centers, Inc. $BFS Position Raised by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saul-centers-inc-bfs-position-raised-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:36+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "81,996 JOYY Inc. Sponsored ADR $JOYY Shares Sold by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-81996-joyy-inc-sponsored-adr-joyy-shares-sold-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:35+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Acquires 48,614 Shares of Plains GP Holdings, L.P. $PAGP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-48614-shares-of-plains-gp-holdings-lp-pagp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:32+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Universal Health Realty Income Trust $UHT Shares Sold by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-universal-health-realty-income-trust-uht-shares-sold-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:32+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Solid Power, Inc. $SLDP Shares Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-solid-power-inc-sldp-shares-purchased-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:31+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Hess Midstream Partners LP $HESM Stock Acquired by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hess-midstream-partners-lp-hesm-stock-acquired-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:30+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Atlanta Braves Holdings, Inc. $BATRA Shares Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-atlanta-braves-holdings-inc-batra-shares-bought-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:29+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "37,097 Hippo Holdings Inc. $HIPO Shares Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-37097-hippo-holdings-inc-hipo-shares-bought-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Boosts Holdings in Bel Fuse Inc. $BELFA",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-holdings-in-bel-fuse-inc-belfa-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Makes New $10.50 Million Investment in Avalyn Pharma Inc. $AVLN",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-makes-new-1050-million-investment-in-avalyn-pharma-inc-avln-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:26+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Novartis AG $NVS Shares Sold by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-novartis-ag-nvs-shares-sold-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:25+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Grows Stock Position in Falcon's Beyond Global, Inc. $FBYD",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-grows-stock-position-in-falcons-beyond-global-inc-fbyd-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:24+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "1,552,917 Shares in Oncology Institute, Inc. $STLN Purchased by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-1552917-shares-in-oncology-institute-inc-stln-purchased-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:23+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Buys New Shares in X-Energy, Inc. $XE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-buys-new-shares-in-x-energy-inc-xe-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:22+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Serve Robotics Inc. $SERV Shares Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-serve-robotics-inc-serv-shares-bought-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:21+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Purchases 145,992 Shares of MFA Financial, Inc. $MFA",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-145992-shares-of-mfa-financial-inc-mfa-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:37:20+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Corp Increases Stock Holdings in Honda Motor Co., Ltd. $HMC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-stock-holdings-in-honda-motor-co-ltd-hmc-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:31:24+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "fuboTV Inc. $FUBO Shares Newly Bought by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-fubotv-inc-fubo-shares-newly-bought-by-state-street-corp-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:31:23+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Acquired by Nwam LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-acquired-by-nwam-llc-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:14:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NS Partners Ltd Decreases Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ns-partners-ltd-decreases-position-in-jpmorgan-chase-co-jpm-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:14:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Newly Acquired by Keeler Thomas Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-newly-acquired-by-keeler-thomas-management-llc-2026-09-26/",
+      "source": "marketbeat.com",
+      "published": "2026-09-26T07:13:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Bank of America Cuts KB Home (NYSE:KBH) Price Target to $54.00",
       "url": "https://www.tickerreport.com/banking-finance/13597530/bank-of-america-cuts-kb-home-nysekbh-price-target-to-54-00.html",
@@ -9,265 +272,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts Cummins (NYSE:CMI) Price Target to $600.00",
-      "url": "https://www.tickerreport.com/banking-finance/13597527/jpmorgan-chase-co-cuts-cummins-nysecmi-price-target-to-600-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-26T06:01:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Tracking Lone Pine Capital Portfolio - Q2 2026 Update | $VST $TLN $COF $CVNA $APP",
-      "url": "https://seekingalpha.com/article/4949890-tracking-lone-pine-capital-portfolio-q2-2026-update",
-      "source": "seekingalpha.com",
-      "published": "2026-09-26T02:20:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Credit Card Debt Advice Needed",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wqefv9/credit_card_debt_advice_needed/",
-      "source": "reddit.com",
-      "published": "2026-09-26T02:04:01+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA explains how telecom companies can evolve to be AI winners",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-explains-how-telecom-companies-can-evolve-to-be-ai-winners-4918374",
-      "source": "investing.com",
-      "published": "2026-09-26T01:21:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-public-finance-cohead-zach-solomon-leaves-for-td--bloomberg-4918353",
-      "source": "investing.com",
-      "published": "2026-09-26T00:43:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Analysts’ Weekly Ratings Updates for Booking (BKNG)",
-      "url": "https://www.tickerreport.com/banking-finance/13597251/analysts-weekly-ratings-updates-for-booking-bkng.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-25T23:56:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup targets over $3 billion Banamex IPO for January - Bloomberg",
-      "url": "https://www.investing.com/news/stock-market-news/citigroup-targets-over-3-billion-banamex-ipo-for-january--bloomberg-4918315",
-      "source": "investing.com",
-      "published": "2026-09-25T23:31:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Prepares $3B IPO for Banamex, Eyes Growth in Mexico",
-      "url": "https://www.gurufocus.com/news/9098091/citigroup-c-prepares-3b-ipo-for-banamex-eyes-growth-in-mexico",
-      "source": "gurufocus.com",
-      "published": "2026-09-25T23:25:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The AI Boom Faces a $300 Billion a Year Test. Goldman Sachs Says Hyperscalers Still Have a Long Way to Go.",
-      "url": "https://www.ibtimes.com/ai-boom-faces-300-billion-year-test-goldman-sachs-says-hyperscalers-still-have-long-way-go-3807904",
-      "source": "ibtimes.com",
-      "published": "2026-09-25T23:06:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman warns declining token prices may hinder investment growth",
-      "url": "https://cryptobriefing.com/goldman-warns-declining-token-prices-investment-growth/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-25T22:17:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Nike stock still hasn't bottomed, analyst warns",
-      "url": "https://invezz.com/news/2026/09/25/nike-stock-still-hasnt-bottomed-analyst-warns/",
-      "source": "invezz.com",
-      "published": "2026-09-25T22:10:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex",
-      "url": "https://cryptobriefing.com/goldman-sachs-hyperscaler-capex-ai-revenue/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-25T22:05:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason",
-      "url": "https://247wallst.com/investing/etf/2026/09/25/goldman-sachs-outweighs-microsoft-in-this-popular-dow-etf-and-share-price-is-the-only-reason/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-09-25T22:00:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-close-9-25-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-25T21:52:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Opening cards for cash back SUB",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wq90bp/opening_cards_for_cash_back_sub/",
-      "source": "reddit.com",
-      "published": "2026-09-25T21:51:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Invesco S&P 500 Equal Weight ETF (RSP) Adds Morgan Stanley, Trims NVR on Sept. 23",
-      "url": "https://www.gurufocus.com/news/9097875/invesco-sp-500-equal-weight-etf-rsp-adds-morgan-stanley-trims-nvr-on-sept-23",
-      "source": "gurufocus.com",
-      "published": "2026-09-25T21:47:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "What SPDR Dow Jones Industrial Average ETF (DIA) Sold: Goldman Leads on Sept. 23",
-      "url": "https://www.gurufocus.com/news/9097874/what-spdr-dow-jones-industrial-average-etf-dia-sold-goldman-leads-on-sept-23",
-      "source": "gurufocus.com",
-      "published": "2026-09-25T21:47:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: NVDA Leads on Sept. 23",
-      "url": "https://www.gurufocus.com/news/9097872/what-state-street-spdr-portfolio-sp-500-etf-spym-bought-nvda-leads-on-sept-23",
-      "source": "gurufocus.com",
-      "published": "2026-09-25T21:47:10+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street SPDR S&P 500 ETF (SPY) Adds NVDA and AAPL on Sept. 23",
-      "url": "https://www.gurufocus.com/news/9097860/state-street-spdr-sp-500-etf-spy-adds-nvda-and-aapl-on-sept-23",
-      "source": "gurufocus.com",
-      "published": "2026-09-25T21:46:07+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ETFs Bought $251.8 Million of JPMorgan (JPM) on Sept. 23",
-      "url": "https://www.gurufocus.com/news/9097837/etfs-bought-2518-million-of-jpmorgan-jpm-on-sept-23",
-      "source": "gurufocus.com",
-      "published": "2026-09-25T21:44:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426028903/0001918704-26-028903-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-25T21:30:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526403002/0001193125-26-403002-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-25T21:28:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426028899/0001918704-26-028899-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-25T21:27:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226047381/0001839882-26-047381-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-25T21:23:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.3% - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-up-13-whats-next-2026-09-25/",
-      "source": "marketbeat.com",
-      "published": "2026-09-25T21:21:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Says Stocks Are Overdue for a Pullback. These 2 Financial Stocks Are Built for One.",
-      "url": "https://www.fool.com/investing/2026/09/25/bank-of-america-says-stocks-are-overdue-for-a-pull/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-25T21:15:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/316709/000156156326000023/0001561563-26-000023-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-25T21:14:51+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526402972/0001193125-26-402972-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-25T21:12:40+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
