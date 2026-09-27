@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-09-27T21:13:03.524363+00:00",
+  "last_updated": "2026-09-27T23:53:25.304064+00:00",
   "headlines": [
+    {
+      "title": "Chase, Amex And Citi Pay You To Shop—But A Discount Doesn’t Mean The Merchant Made More Money",
+      "url": "https://viewfromthewing.com/chase-amex-and-citi-pay-you-to-shop-but-a-discount-doesnt-mean-the-merchant-made-more-money/",
+      "source": "viewfromthewing.com",
+      "published": "2026-09-27T21:04:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America raises Okta stock target on major AI opportunity",
+      "url": "https://www.thestreet.com/technology/bank-of-america-raises-okta-stock-target-on-major-ai-opportunity?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-27T21:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Looks to Deepen its Footprint in Credit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-looks-deepen-footprint-203606451.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-27T20:36:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Lines Up a $3 Billion Banamex IPO for January",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-lines-3-billion-202731590.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-27T20:27:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "ThredUp Posts Record Q2, Navigates More Price-Sensitive Shoppers",
       "url": "https://www.marketbeat.com/instant-alerts/event-thredup-posts-record-q2-navigates-more-price-sensitive-shoppers-2026-09-27/",
@@ -9,6 +46,24 @@
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "JPMorgan doubles down on diesel as record prices test inflation",
+      "url": "https://www.thestreet.com/markets/jpmorgan-doubles-down-on-diesel-as-record-prices-test-inflation?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-27T19:37:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What United Therapeutics (UTHR)'s Goldman Sell Call Amid Bold Pipeline And Buyback Means For Shareholders",
+      "url": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-uthr-goldman-sell-191015542.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-27T19:10:15+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -40,6 +95,16 @@
       "published": "2026-09-27T16:25:27+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Bank of America drops bombshell verdict on Nike stock",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-drops-bombshell-verdict-on-nike-stock?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-27T16:17:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -81,6 +146,15 @@
       ]
     },
     {
+      "title": "United Therapeutics (UTHR) Falls On Goldman Sell Call, Is It Still 29% Undervalued?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/united-therapeutics-uthr-falls-goldman-140825617.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-27T14:08:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Founders: Diesel Restrictions are Bullish Gasoline Prices",
       "url": "https://vblgoldfix.substack.com/p/founders-diesel-restrictions-are",
       "source": "substack.com",
@@ -96,6 +170,15 @@
       "published": "2026-09-27T13:55:24+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Citi Expects Limited S&P 500 Fundamental Impact From U.S. Midterm Election",
+      "url": "https://investorshub.advfn.com/market-news/article/36890/citi-expects-limited-sp-500-fundamental-impact-from-u-s-midterm-election?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-09-27T13:25:00+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -200,87 +283,6 @@
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "Why a 7.5% Mortgage Rate Today Is Very Different From an 18% Rate in the 1980s",
-      "url": "https://thepeopleseconomist.substack.com/p/why-a-75-mortgage-rate-today-is-very",
-      "source": "substack.com",
-      "published": "2026-09-27T07:40:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi says 77% of institutions eye tokenized collateral",
-      "url": "https://crypto.news/citi-says-77-of-institutions-eye-tokenized-collateral/",
-      "source": "crypto.news",
-      "published": "2026-09-27T07:32:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "165,782 Shares of Once Upon A Farm $OFRM Bought by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-165782-shares-of-once-upon-a-farm-ofrm-bought-by-state-street-corp-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:31+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Acquires 180,974 Shares of First Northern Community Bancorp $FNRN",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-acquires-180974-shares-of-first-northern-community-bancorp-fnrn-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:31+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Makes New $2.83 Million Investment in HMH Holding Inc $HMH",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-makes-new-283-million-investment-in-hmh-holding-inc-hmh-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:30+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "76,900 Shares in Hemab Therapeutics Holdings, Inc. $COAG Bought by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-76900-shares-in-hemab-therapeutics-holdings-inc-coag-bought-by-state-street-corp-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:30+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "133,738 Shares in Elmet Group Co. $ELMT Bought by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-133738-shares-in-elmet-group-co-elmt-bought-by-state-street-corp-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:29+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Ring Energy, Inc. $REI Holdings Increased by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ring-energy-inc-rei-holdings-increased-by-state-street-corp-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:29+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "134,521 Shares in Anadarko Petroleum Co. $APC Bought by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-134521-shares-in-anadarko-petroleum-co-apc-bought-by-state-street-corp-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T07:29:26+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
