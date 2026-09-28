@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-09-27T23:53:25.304064+00:00",
+  "last_updated": "2026-09-28T05:00:21.002091+00:00",
   "headlines": [
+    {
+      "title": "Hedge Funds Moving to Athens Could Be a Heavy Loss for City of London",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-28/hedge-funds-moving-to-athens-could-be-a-heavy-loss-for-city-of-london",
+      "source": "bloomberg.com",
+      "published": "2026-09-28T04:00:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Chipotle YOLO - DD: I spent $3k there last year so I'm basically an insider. ...",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1ws2x86/chipotle_yolo/",
+      "source": "reddit.com",
+      "published": "2026-09-28T02:42:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "TCS In Focus: Citi Cuts Target, Keeps 'Sell' Rating Amid Sector Challenges - Details Here",
+      "url": "https://www.ndtvprofit.com/markets/tcs-share-price-today-citi-cuts-target-price-retains-sell-rating-sector-challenges-key-details-inside-tcs-jaguar-deal-12107095",
+      "source": "ndtvprofit.com",
+      "published": "2026-09-28T02:34:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TD Synnex: Morgan Stanley lifts price target after strong quarter",
+      "url": "https://www.investing.com/news/stock-market-news/td-synnex-morgan-stanley-lifts-price-target-after-strong-quarter-4919274",
+      "source": "investing.com",
+      "published": "2026-09-28T02:21:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Memo - 28/Sep/2026 - Claude Opus 5.5, Figure Helix 2.5, Jev, and much more! To: US ...",
+      "url": "https://lifearchitect.substack.com/p/the-memo-28sep2026",
+      "source": "substack.com",
+      "published": "2026-09-28T01:12:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs ActiveBeta U.S. Small Cap Equity ETF (NYSEARCA:GSSC) Stock Short Interest Rises 129.6%",
+      "url": "https://www.tickerreport.com/banking-finance/13598719/goldman-sachs-activebeta-u-s-small-cap-equity-etf-nysearcagssc-stock-short-interest-rises-129-6.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-28T00:41:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "India's AI enablers surge as data centre buildout gathers pace",
+      "url": "https://www.livemint.com/market/stock-market-news/ai-stocks-india-data-centres-semiconductors-11790480876598.html",
+      "source": "livemint.com",
+      "published": "2026-09-28T00:31:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Chase, Amex And Citi Pay You To Shop—But A Discount Doesn’t Mean The Merchant Made More Money",
       "url": "https://viewfromthewing.com/chase-amex-and-citi-pay-you-to-shop-but-a-discount-doesnt-mean-the-merchant-made-more-money/",
@@ -213,73 +277,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/first-financial-bancorp-ffbc-could-120905259.html?.tsrc=rss",
       "source": "yahoo.com",
       "published": "2026-09-27T12:09:05+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Top 4 Stocks For Q4: Buy The September Dip | $WDC $BAC $LMT $ICHR",
-      "url": "https://seekingalpha.com/article/4949876-top-4-stocks-for-q4-buy-the-september-dip",
-      "source": "seekingalpha.com",
-      "published": "2026-09-27T12:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stellar’s Stablecoin Boom Raises a Tough Question: Does XLM Actually Benefit?",
-      "url": "https://blockonomi.com/stellars-stablecoin-boom-raises-a-tough-question-does-xlm-actually-benefit/",
-      "source": "blockonomi.com",
-      "published": "2026-09-27T10:57:43+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Fed Hike: Selling These 2 Winners, And Replacing With These 2 High Yield Stocks | $MS $GS $ITUB $PBR",
-      "url": "https://seekingalpha.com/article/4950031-fed-hike-selling-these-2-winners-and-replacing-with-these-2-high-yield-stocks",
-      "source": "seekingalpha.com",
-      "published": "2026-09-27T10:57:27+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Lagged Its Peers After UBS Merger Talk and a Target Cut. Here’s What the Stock Already Prices In",
-      "url": "https://www.tikr.com/blog/morgan-stanley-lagged-its-peers-after-ubs-merger-talk-and-a-target-cut-heres-what-the-stock-already-prices-in?ref=yahoofinance&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-09-27T09:44:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bond Volatility Has Charles Schwab Stock And MarketAxess In Focus",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bond-volatility-charles-schwab-stock-090907864.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T09:09:07+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Smiths Group (LSE:SMIN) Stock Gets Fair Value Bump On Split Analyst Revisions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/smiths-group-lse-smin-stock-090750877.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T09:07:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Truist remains No. 1 in Winston-Salem deposits as market grows more competitive",
-      "url": "https://greensboro.com/news/local/business/article_c6e21657-5873-554c-ac9e-fdd178f23a2b.html",
-      "source": "greensboro.com",
-      "published": "2026-09-27T09:00:00+00:00",
       "tickers": [
         "C",
         "TFC"
