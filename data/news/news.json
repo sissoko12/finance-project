@@ -1,285 +1,279 @@
 {
-  "last_updated": "2026-09-28T05:00:21.002091+00:00",
+  "last_updated": "2026-09-28T11:55:07.769183+00:00",
   "headlines": [
     {
-      "title": "Hedge Funds Moving to Athens Could Be a Heavy Loss for City of London",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-28/hedge-funds-moving-to-athens-could-be-a-heavy-loss-for-city-of-london",
-      "source": "bloomberg.com",
-      "published": "2026-09-28T04:00:17+00:00",
+      "title": "Global AI trade could revive after recent pullback, JP Morgan says",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-trade-could-revive-after-recent-pullback-jp-morgan-says/articleshow/134540810.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-28T11:19:53+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Chipotle YOLO - DD: I spent $3k there last year so I'm basically an insider. ...",
-      "url": "https://www.reddit.com/r/wallstreetbets/comments/1ws2x86/chipotle_yolo/",
-      "source": "reddit.com",
-      "published": "2026-09-28T02:42:19+00:00",
+      "title": "What State Street Materials Select Sector SPDR (XLB) Sold: Linde Leads on Thursday",
+      "url": "https://www.gurufocus.com/news/9099446/what-state-street-materials-select-sector-spdr-xlb-sold-linde-leads-on-thursday",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T11:06:42+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "TCS In Focus: Citi Cuts Target, Keeps 'Sell' Rating Amid Sector Challenges - Details Here",
-      "url": "https://www.ndtvprofit.com/markets/tcs-share-price-today-citi-cuts-target-price-retains-sell-rating-sector-challenges-key-details-inside-tcs-jaguar-deal-12107095",
-      "source": "ndtvprofit.com",
-      "published": "2026-09-28T02:34:11+00:00",
+      "title": "State Street Utilities Select Sector SPDR (XLU) Adds NEE and SO on Sept. 24",
+      "url": "https://www.gurufocus.com/news/9099435/state-street-utilities-select-sector-spdr-xlu-adds-nee-and-so-on-sept-24",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T11:05:29+00:00",
       "tickers": [
-        "C"
+        "STT"
       ]
     },
     {
-      "title": "TD Synnex: Morgan Stanley lifts price target after strong quarter",
-      "url": "https://www.investing.com/news/stock-market-news/td-synnex-morgan-stanley-lifts-price-target-after-strong-quarter-4919274",
+      "title": "What will it take to fix the market’s weak breadth? Morgan Stanley weighs in",
+      "url": "https://www.investing.com/news/stock-market-news/what-will-it-take-to-fix-the-markets-weak-breadth-morgan-stanley-weighs-in-4919901",
       "source": "investing.com",
-      "published": "2026-09-28T02:21:41+00:00",
+      "published": "2026-09-28T11:05:10+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "The Memo - 28/Sep/2026 - Claude Opus 5.5, Figure Helix 2.5, Jev, and much more! To: US ...",
-      "url": "https://lifearchitect.substack.com/p/the-memo-28sep2026",
-      "source": "substack.com",
-      "published": "2026-09-28T01:12:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs ActiveBeta U.S. Small Cap Equity ETF (NYSEARCA:GSSC) Stock Short Interest Rises 129.6%",
-      "url": "https://www.tickerreport.com/banking-finance/13598719/goldman-sachs-activebeta-u-s-small-cap-equity-etf-nysearcagssc-stock-short-interest-rises-129-6.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-28T00:41:01+00:00",
+      "title": "SPDR Dow Jones Industrial Average ETF (DIA) Sells Goldman Sachs, Caterpillar on Sept. 24",
+      "url": "https://www.gurufocus.com/news/9099430/spdr-dow-jones-industrial-average-etf-dia-sells-goldman-sachs-caterpillar-on-sept-24",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T11:04:48+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "India's AI enablers surge as data centre buildout gathers pace",
-      "url": "https://www.livemint.com/market/stock-market-news/ai-stocks-india-data-centres-semiconductors-11790480876598.html",
-      "source": "livemint.com",
-      "published": "2026-09-28T00:31:17+00:00",
+      "title": "State Street SPDR S&P 500 ETF (SPY) Sells NVIDIA and Apple on Sept. 24",
+      "url": "https://www.gurufocus.com/news/9099425/state-street-spdr-sp-500-etf-spy-sells-nvidia-and-apple-on-sept-24",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T11:04:28+00:00",
       "tickers": [
-        "GS"
+        "STT"
       ]
     },
     {
-      "title": "Chase, Amex And Citi Pay You To Shop—But A Discount Doesn’t Mean The Merchant Made More Money",
-      "url": "https://viewfromthewing.com/chase-amex-and-citi-pay-you-to-shop-but-a-discount-doesnt-mean-the-merchant-made-more-money/",
-      "source": "viewfromthewing.com",
-      "published": "2026-09-27T21:04:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America raises Okta stock target on major AI opportunity",
-      "url": "https://www.thestreet.com/technology/bank-of-america-raises-okta-stock-target-on-major-ai-opportunity?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-27T21:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Looks to Deepen its Footprint in Credit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-looks-deepen-footprint-203606451.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T20:36:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Lines Up a $3 Billion Banamex IPO for January",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-lines-3-billion-202731590.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T20:27:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ThredUp Posts Record Q2, Navigates More Price-Sensitive Shoppers",
-      "url": "https://www.marketbeat.com/instant-alerts/event-thredup-posts-record-q2-navigates-more-price-sensitive-shoppers-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T20:02:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan doubles down on diesel as record prices test inflation",
-      "url": "https://www.thestreet.com/markets/jpmorgan-doubles-down-on-diesel-as-record-prices-test-inflation?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-27T19:37:00+00:00",
+      "title": "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Thursday",
+      "url": "https://www.gurufocus.com/news/9099420/etfs-are-net-sellers-of-jpmorgan-chase-jpm-on-thursday",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T11:03:51+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "What United Therapeutics (UTHR)'s Goldman Sell Call Amid Bold Pipeline And Buyback Means For Shareholders",
-      "url": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-uthr-goldman-sell-191015542.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T19:10:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "This Is the No. 1 Move Investors Should Make Before Buying Stocks Right Now.",
-      "url": "https://www.fool.com/investing/2026/09/27/this-is-the-no-1-move-investors-should-make-before/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-09-27T18:15:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Watch Now - September 27th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-watch-now-september-27th-2026-09-27/",
-      "source": "marketbeat.com",
-      "published": "2026-09-27T17:01:56+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The AI gold rush is fueling a record tech bond boom",
-      "url": "https://awesomecapital.blogspot.com/2026/09/the-ai-gold-rush-is-fueling-record-tech.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-27T16:25:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America drops bombshell verdict on Nike stock",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-drops-bombshell-verdict-on-nike-stock?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-27T16:17:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Highlights Divergence in U.S. Market Sentiment Despite SPY's 14% YTD Gain",
-      "url": "https://www.gurufocus.com/news/9099183/goldman-sachs-highlights-divergence-in-us-market-sentiment-despite-spys-14-ytd-gain",
+      "title": "ETFs Are Net Sellers of Goldman Sachs (GS) on Sept. 24",
+      "url": "https://www.gurufocus.com/news/9099417/etfs-are-net-sellers-of-goldman-sachs-gs-on-sept-24",
       "source": "gurufocus.com",
-      "published": "2026-09-27T15:55:42+00:00",
+      "published": "2026-09-28T11:03:23+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "A Decade of JPMorgan Chase Delivered 572% Returns but This Year Tells a Different Story",
-      "url": "https://247wallst.com/investing/2026/09/27/a-decade-of-jpmorgan-chase-delivered-572-returns-but-this-year-tells-a-different-story/",
-      "source": "247wallst.com",
-      "published": "2026-09-27T15:28:56+00:00",
+      "title": "Citi Raises Estimates for Micron Ahead of Earnings. How to Play MU Stock Now.",
+      "url": "https://www.barchart.com/story/news/4829137/citi-raises-estimates-for-micron-ahead-of-earnings-how-to-play-mu-stock-now",
+      "source": "barchart.com",
+      "published": "2026-09-28T11:00:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts MakeMyTrip stock price target on weak travel demand",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-makemytrip-stock-price-target-on-weak-travel-demand-93CH-4919818",
+      "source": "investing.com",
+      "published": "2026-09-28T10:50:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JP Morgan planning outdoor gym and terrace at Bournemouth office",
+      "url": "https://www.business-live.co.uk/commercial-property/jp-morgan-planning-outdoor-gym-34681816",
+      "source": "business-live.co.uk",
+      "published": "2026-09-28T10:43:47+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "PNC vs. U.S. Bancorp: Which Regional Bank Dividend Belongs in Your Portfolio?",
-      "url": "https://247wallst.com/investing/2026/09/27/pnc-vs-u-s-bancorp-which-regional-bank-dividend-belongs-in-your-portfolio/",
-      "source": "247wallst.com",
-      "published": "2026-09-27T15:04:40+00:00",
-      "tickers": [
-        "C",
-        "USB",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees room for S&P 500 gains as investor positioning sinks",
-      "url": "https://seekingalpha.com/news/4647394-goldman-sachs-sees-room-for-s-and-p-500-gains-as-investor-positioning-sinks",
-      "source": "seekingalpha.com",
-      "published": "2026-09-27T14:08:38+00:00",
+      "title": "S&P 500 breadth hits lowest level since dot-com bubble, Goldman says",
+      "url": "https://www.investing.com/news/stock-market-news/sp-500-breadth-hits-lowest-level-since-dotcom-bubble-goldman-says-4919770",
+      "source": "investing.com",
+      "published": "2026-09-28T10:35:08+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "United Therapeutics (UTHR) Falls On Goldman Sell Call, Is It Still 29% Undervalued?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/united-therapeutics-uthr-falls-goldman-140825617.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T14:08:25+00:00",
+      "title": "NetEase shares climb in Hong Kong after Morgan Stanley Top Pick designation",
+      "url": "https://www.investing.com/news/stock-market-news/netease-shares-climb-in-hong-kong-after-morgan-stanley-top-pick-designation-93CH-4919769",
+      "source": "investing.com",
+      "published": "2026-09-28T10:34:25+00:00",
       "tickers": [
-        "GS"
+        "MS"
       ]
     },
     {
-      "title": "Founders: Diesel Restrictions are Bullish Gasoline Prices",
-      "url": "https://vblgoldfix.substack.com/p/founders-diesel-restrictions-are",
-      "source": "substack.com",
-      "published": "2026-09-27T14:00:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Highlights SPCX Among Russell 1000 Stocks with Strong Revenue Growth Potential",
-      "url": "https://www.gurufocus.com/news/9099174/goldman-sachs-highlights-spcx-among-russell-1000-stocks-with-strong-revenue-growth-potential",
-      "source": "gurufocus.com",
-      "published": "2026-09-27T13:55:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Expects Limited S&P 500 Fundamental Impact From U.S. Midterm Election",
-      "url": "https://investorshub.advfn.com/market-news/article/36890/citi-expects-limited-sp-500-fundamental-impact-from-u-s-midterm-election?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-09-27T13:25:00+00:00",
+      "title": "Citi sees Japan yen intervention likely near 160 per dollar",
+      "url": "https://www.investing.com/news/forex-news/citi-sees-japan-yen-intervention-likely-near-160-per-dollar-93CH-4919746",
+      "source": "investing.com",
+      "published": "2026-09-28T10:18:17+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "“Blow Off Your Socks”- Alexandra Eala’s Grand Slam Potential Hinges on One Weapon, Warns Legendary Coach",
-      "url": "https://www.essentiallysports.com/tennis-news-blow-off-your-socks-alexandra-ealas-grand-slam-potential-hinges-on-one-weapon-warns-legendary-coach/",
-      "source": "essentiallysports.com",
-      "published": "2026-09-27T13:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi tells clients to buy the next stock market dip as AI trade gathers momentum ahead of midterms",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-tells-clients-buy-next-123000956.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T12:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Find alpha in the revenue growth fog - Goldman",
-      "url": "https://seekingalpha.com/news/4647387-find-alpha-in-the-revenue-growth-fog-goldman",
-      "source": "seekingalpha.com",
-      "published": "2026-09-27T12:18:13+00:00",
+      "title": "Goldman Sachs updates networking sector outlook on AI demand",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-updates-networking-sector-outlook-on-ai-demand-93CH-4919713",
+      "source": "investing.com",
+      "published": "2026-09-28T10:06:48+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "First Financial Bancorp (FFBC) Could Be 14% Undervalued As Efficiency Narrative Builds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-financial-bancorp-ffbc-could-120905259.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-27T12:09:05+00:00",
+      "title": "Goldman Sachs lowers Disney stock price target to $140 on EBITDA",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-disney-stock-price-target-to-140-on-ebitda-93CH-4919711",
+      "source": "investing.com",
+      "published": "2026-09-28T10:06:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Detecting Notes of . . . Citi Field?",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/detecting-notes-of-citi-field",
+      "source": "newyorker.com",
+      "published": "2026-09-28T10:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan’s Matejka Says Tech Stocks Look Ripe for Re-Engagement",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/jpmorgan-s-matejka-says-tech-stocks-look-ripe-for-re-engagement",
+      "source": "bloomberg.com",
+      "published": "2026-09-28T09:37:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+      "url": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-09-28T09:32:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley shares 12 AI bottleneck stocks with at least 40% upside as Big Tech capex continues to boom",
+      "url": "https://www.businessinsider.com/ai-stock-picks-to-buy-data-center-bottleneck-high-upside-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-28T09:30:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JP Morgan Answers: What’s the Fed’s Next Move?",
+      "url": "https://www.investing.com/analysis/jp-morgan-answers-whats-the-feds-next-move-200688498",
+      "source": "investing.com",
+      "published": "2026-09-28T09:30:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist maintains solid grip on Greensboro-High Point deposits market share lead",
+      "url": "https://greensboro.com/article_9eec28e6-ed51-4dd8-874e-afbbae193290.html",
+      "source": "greensboro.com",
+      "published": "2026-09-28T09:00:00+00:00",
       "tickers": [
         "C",
         "TFC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Says Bond Selloff 'Nowhere Near Problematic'",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-28/morgan-stanley-says-bond-selloff-nowhere-near-problematic",
+      "source": "bloomberg.com",
+      "published": "2026-09-28T08:37:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TD Synnex (TDY) Target Price Raised to $359 by Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9099314/td-synnex-tdy-target-price-raised-to-359-by-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T08:30:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Nike stock is near a 12-year low: here’s why earnings could change the story",
+      "url": "https://invezz.com/news/2026/09/28/nike-stock-is-near-a-12-year-low-heres-why-earnings-could-change-the-story/",
+      "source": "invezz.com",
+      "published": "2026-09-28T08:30:09+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "TD Waterhouse Canada Inc. Buys 24,393 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-td-waterhouse-canada-inc-buys-24393-shares-of-jpmorgan-chase-co-jpm-2026-09-28/",
+      "source": "marketbeat.com",
+      "published": "2026-09-28T07:28:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "National investment institute seeks more capital",
+      "url": "https://bits-chips.com/article/national-investment-institute-seeks-more-capital/",
+      "source": "bits-chips.com",
+      "published": "2026-09-28T07:16:50+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Three years after SVB's implosion brought down his hedge fund, Adam Levinson's Graticule is back to managing $3 billion",
+      "url": "https://www.businessinsider.com/adam-levinson-back-svb-collapse-forced-graticule-hedge-fund-close-2026-9",
+      "source": "businessinsider.com",
+      "published": "2026-09-28T07:00:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Nike's losing streak continues as BofA downgrades the stock",
+      "url": "https://www.marketscreener.com/news/nike-s-losing-streak-continues-as-bofa-downgrades-the-stock-ce785adfde8eff2d",
+      "source": "marketscreener.com",
+      "published": "2026-09-28T06:53:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation (NYSE:BAC) Stock Has Consensus Price Target of $63.88 According to Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-bank-of-america-corporation-nyse-bac-stock-has-consensus-price-target-of-6388-according-to-brokerages-2026-09-28/",
+      "source": "marketbeat.com",
+      "published": "2026-09-28T06:44:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     }
   ]
