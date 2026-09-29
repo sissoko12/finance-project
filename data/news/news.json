@@ -1,173 +1,117 @@
 {
-  "last_updated": "2026-09-29T18:49:00.604331+00:00",
+  "last_updated": "2026-09-29T22:54:28.618215+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029358/0001918704-26-029358-index.htm",
+      "title": "JPMorgan Chase expands Seattle tech center as bank targets AI and cloud talent",
+      "url": "https://www.bizjournals.com/seattle/news/2026/09/29/jpmorgan-chase-ture-armas-kristine-baker-bank.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-09-29T21:58:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA Securities Lifts Magnite (MGNI) Price Target 50% Amid DOJ Findings on Ad-Tech Monopoly",
+      "url": "https://www.gurufocus.com/news/9102123/bofa-securities-lifts-magnite-mgni-price-target-50-amid-doj-findings-on-adtech-monopoly",
+      "source": "gurufocus.com",
+      "published": "2026-09-29T21:56:41+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "My Journey Building AI Agents, RAG Systems, and AI-Powered Applications",
+      "url": "https://dev.to/unni_ta_1bf8d143dac1c4a0/my-journey-building-ai-agents-rag-systems-and-ai-powered-applications-4424",
+      "source": "dev.to",
+      "published": "2026-09-29T21:52:55+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026104763/0001213900-26-104763-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-29T18:07:42+00:00",
+      "published": "2026-09-29T21:26:31+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226047957/0001839882-26-047957-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T18:06:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Cornell Gang Rape Accused Diego Sarabia Fired by Wells Fargo as Prosecutors Reopen Investigation Into Alleged Attack",
-      "url": "https://www.ibtimes.co.uk/wells-fargo-employee-cornell-rape-case-reopened-1822712",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-29T18:03:01+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Kimco Realty (NYSE:KIM) Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13601025/morgan-stanley-forecasts-strong-price-appreciation-for-kimco-realty-nysekim-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-29T17:42:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Rollins (NYSE:ROL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-rollins-nyse-rol-stock-price-2026-09-29/",
-      "source": "marketbeat.com",
-      "published": "2026-09-29T17:42:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Okta (NASDAQ:OKTA) Price Target Raised to $245.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-okta-nasdaq-okta-price-target-raised-to-24500-2026-09-29/",
-      "source": "marketbeat.com",
-      "published": "2026-09-29T17:42:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kimco Realty (NYSE:KIM) Price Target Raised to $25.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-kimco-realty-nyse-kim-price-target-raised-to-2500-2026-09-29/",
-      "source": "marketbeat.com",
-      "published": "2026-09-29T17:42:31+00:00",
-      "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029341/0001918704-26-029341-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029613/0001918704-26-029613-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-29T17:31:18+00:00",
+      "published": "2026-09-29T21:25:57+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Jamie Dimon Urges Economic Reforms to Prevent Decline of Western Democracies",
-      "url": "https://www.pymnts.com/economy/2026/jamie-dimon-urges-economic-reforms-prevent-decline-western-democracies/",
-      "source": "pymnts.com",
-      "published": "2026-09-29T17:27:00+00:00",
+      "title": "Morgan Stanley's new lab to test Wall Street's future",
+      "url": "https://www.thestreet.com/crypto/innovation/morgan-stanleys-new-lab-to-test-wall-streets-future?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-09-29T21:10:33+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029338/0001918704-26-029338-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048128/0001839882-26-048128-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-29T17:21:27+00:00",
+      "published": "2026-09-29T21:10:28+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Promising Financial Stocks To Follow Today – September 29th",
-      "url": "https://www.tickerreport.com/banking-finance/13600953/promising-financial-stocks-to-follow-today-september-29th.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-29T17:04:06+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-      "url": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-09-29T16:59:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Launches Multi-Market Instant Payments Service Enhancing Cross-Border Banking",
-      "url": "https://www.gurufocus.com/news/9101857/citigroup-c-launches-multimarket-instant-payments-service-enhancing-crossborder-banking",
-      "source": "gurufocus.com",
-      "published": "2026-09-29T16:56:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029325/0001918704-26-029325-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526407802/0001193125-26-407802-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-29T16:56:06+00:00",
+      "published": "2026-09-29T21:10:26+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Wells Fargo Updates 2027 Rate Outlook, WFC Dividend Remains Attractive Amid Market Shifts",
-      "url": "https://www.gurufocus.com/news/9101854/wells-fargo-updates-2027-rate-outlook-wfc-dividend-remains-attractive-amid-market-shifts",
-      "source": "gurufocus.com",
-      "published": "2026-09-29T16:55:47+00:00",
+      "title": "S&P upgrades Wells Fargo to A- following risk management overhauls",
+      "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-wells-fargo-to-a-following-risk-management-overhauls-4923630",
+      "source": "investing.com",
+      "published": "2026-09-29T21:09:28+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Jamie Dimon Proposes Sweeping US-Europe Free Trade Deal — But Only If Europe Fixes Its Capital Markets First",
-      "url": "https://www.barchart.com/story/news/4861357/jamie-dimon-proposes-sweeping-us-europe-free-trade-deal-but-only-if-europe-fixes-its-capital-markets-first",
-      "source": "barchart.com",
-      "published": "2026-09-29T16:55:02+00:00",
+      "title": "Bank Of America Points Will Transfer To Alaska Airlines—But Your Miles Could Be Worth Less",
+      "url": "https://viewfromthewing.com/bank-of-america-points-will-transfer-to-alaska-airlines-but-your-miles-could-be-worth-less/",
+      "source": "viewfromthewing.com",
+      "published": "2026-09-29T21:04:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026104745/0001213900-26-104745-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-29T21:03:55+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPM, Jamie Dimon Advocates for European Economic Reforms",
-      "url": "https://www.gurufocus.com/news/9101851/jpm-jamie-dimon-advocates-for-european-economic-reforms",
-      "source": "gurufocus.com",
-      "published": "2026-09-29T16:50:45+00:00",
+      "title": "Walt Disney to Benefit From Strong Theme Park Attendance, Cruise Fleet Expansion, BofA Says",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-benefit-strong-theme-205457705.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-29T20:54:57+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Market AI Risks Rattle Wall Street",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/open-interest-9-29-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-29T16:47:37+00:00",
-      "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     }
   ]
