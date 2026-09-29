@@ -1,6 +1,220 @@
 {
-  "last_updated": "2026-09-29T00:18:03.843498+00:00",
+  "last_updated": "2026-09-29T06:03:10.763280+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs projects $1.2T in AI infrastructure capex by 2027 as energy becomes key bottleneck",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-infrastructure-capex-2027/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-29T03:51:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Recommends Buying on Dips as Semiconductor Earnings Expectations Are Sharply Revised Upward",
+      "url": "https://nai500.com/blog/2026/09/jpmorgan-recommends-buying-on-dips-as-semiconductor-earnings-expectations-are-sharply-revised-upward/",
+      "source": "nai500.com",
+      "published": "2026-09-29T03:09:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees Eternal achieving $1 billion EBITDA by FY29; raises target price",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-sees-eternal-achieving-1-billion-ebitda-by-fy29-raises-target-price/articleshow/134554650.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-29T03:00:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs considers naming COO John Waldron as next CEO: WSJ",
+      "url": "https://seekingalpha.com/news/4647827-goldman-sachs-considers-naming-coo-john-waldron-next-ceo",
+      "source": "seekingalpha.com",
+      "published": "2026-09-29T02:36:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "‘No definitive timeline’ for Solomon to step down as CEO, says Goldman",
+      "url": "https://www.ft.com/content/b8733b38-a94e-464e-9df7-dfcc757a58f0?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-09-29T02:28:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "IonQ (IONQ): BofA Sees Upside as Quantum Roadmap Gains Commercial Traction",
+      "url": "https://www.insidermonkey.com/news/ionq-ionq-bofa-sees-upside-as-quantum-roadmap-gains-commercial-traction-1846090/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-29T02:06:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "United Therapeutics (UTHR): Goldman Says Sell As The Base Business Shrinks, But 2027 Holds Real Catalysts",
+      "url": "https://www.insidermonkey.com/news/united-therapeutics-uthr-goldman-says-sell-as-the-base-business-shrinks-but-2027-holds-real-catalysts-1845850/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-29T01:44:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "President of Baseball Operations David Stearns of the New York Mets listens to a question from the media prior to a game against the Philadelphia Phillies at Citi Field on June 26, 2026, in New York City.",
+      "url": "https://thebrunswicknews.com/sports/national_sports/president-of-baseball-operations-david-stearns-of-the-new-york-mets-listens-to-a-question/image_a2ce32e0-eb11-5549-b645-9a9e570a03ab.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-09-29T01:39:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vertiv (VRT): A $1.45 Billion Power Bet Lands As Wells Fargo Defends A Premium Multiple",
+      "url": "https://www.insidermonkey.com/news/vertiv-vrt-a-1-45-billion-power-bet-lands-as-wells-fargo-defends-a-premium-multiple-1845863/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-29T01:33:03+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank Launches Cards to Meet Small Business Rewards Demand",
+      "url": "https://www.pymnts.com/credit-cards/2026/u-s-bank-launches-cards-to-meet-small-business-rewards-demand/",
+      "source": "pymnts.com",
+      "published": "2026-09-29T01:32:04+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Amgen (AMGN) Has a New Growth Opportunity. But How Much Is It Really Worth?",
+      "url": "https://www.insidermonkey.com/news/amgen-amgn-has-a-new-growth-opportunity-but-how-much-is-it-really-worth-1845557/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-29T01:27:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Truist CEO Mike Lyons Buys $1 Million of Bank Shares Two Days After Its $5.5 Billion Auto-Loan Exit",
+      "url": "https://www.ibtimes.co.uk/truist-ceo-buys-shares-after-auto-loan-sale-1822313",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-29T01:24:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "GE Vernova (GEV) Has a $176 Billion Backlog. Can It Turn Demand Into Durable Growth?",
+      "url": "https://www.insidermonkey.com/news/ge-vernova-gev-has-a-176-billion-backlog-can-it-turn-demand-into-durable-growth-1845545/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-29T01:22:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO Transition: David Solomon to Be Succeeded by John Waldron",
+      "url": "https://www.gurufocus.com/news/9100785/goldman-sachs-ceo-transition-david-solomon-to-be-succeeded-by-john-waldron",
+      "source": "gurufocus.com",
+      "published": "2026-09-29T01:11:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Arthur J. Gallagher (AJG): Pricing Is Cooling. Can Acquisitions Carry the Growth Story?",
+      "url": "https://www.insidermonkey.com/news/arthur-j-gallagher-ajg-pricing-is-cooling-can-acquisitions-carry-the-growth-story-1845858/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-29T01:09:36+00:00",
+      "tickers": [
+        "WFC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO Transition: John Waldron Set to Succeed David Solomon",
+      "url": "https://www.gurufocus.com/news/9100741/goldman-sachs-ceo-transition-john-waldron-set-to-succeed-david-solomon",
+      "source": "gurufocus.com",
+      "published": "2026-09-29T00:51:33+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs identifies 42 Indian stocks riding AI build-out",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-identifies-42-indian-stocks-riding-ai-build-out/articleshow/134553363.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-29T00:30:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) Board Discusses CEO Transition Amid Strong Dividend Profile",
+      "url": "https://www.gurufocus.com/news/9100704/goldman-sachs-gs-board-discusses-ceo-transition-amid-strong-dividend-profile",
+      "source": "gurufocus.com",
+      "published": "2026-09-29T00:25:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs discusses plan to name John Waldron next CEO, succeeding David Solomon: report",
+      "url": "https://nypost.com/2026/09/28/business/goldman-sachs-discusses-plan-to-name-john-waldron-next-ceo-succeeding-david-solomon-report/",
+      "source": "nypost.com",
+      "published": "2026-09-29T00:09:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Cornell Student Diego Sarabia Loses Wells Fargo Job Amid Alleged Sexual Assault Case",
+      "url": "https://www.tmz.com/2026/09/28/accused-cornell-fraternity-brother-diego-sarabia-no-longer-at-wells-fargo/",
+      "source": "tmz.com",
+      "published": "2026-09-29T00:07:36+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman’s board has discussed plan to name John Waldron as next CEO, WSJ reports",
+      "url": "https://www.investing.com/news/stock-market-news/goldmans-board-has-discussed-plan-to-name-john-waldron-as-next-ceo-wsj-reports-4921367",
+      "source": "investing.com",
+      "published": "2026-09-29T00:07:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs board discussed plan to name Waldron as next CEO- WSJ",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-board-discussed-plan-to-name-waldron-as-next-ceo-wsj-4921389",
+      "source": "investing.com",
+      "published": "2026-09-28T23:24:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) is Investing for Growth. Can Its Earnings Keep the Pace?",
+      "url": "https://www.insidermonkey.com/news/bank-of-america-bac-is-investing-for-growth-can-its-earnings-keep-the-pace-1845460/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-28T23:05:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "CocaCola (NYSE:KO) Stock Rating Reaffirmed as Buy by JPMorgan Chase & Co.",
       "url": "https://www.marketbeat.com/instant-alerts/analyst-cocacola-nyse-ko-stock-rating-reaffirmed-as-buy-by-jpmorgan-chase-co-2026-09-28/",
@@ -30,254 +244,40 @@
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.8% - Should You Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-down-18-should-you-sell-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T21:20:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Plans 3,800 Dallas Jobs as Zohran Mamdani Pushes NYC Tax Changes",
-      "url": "https://firstformoney.com/morgan-stanley-plans-3800-dallas-jobs-as-zohran-mamdani-pushes-nyc-tax-changes/?.tsrc=rss",
-      "source": "firstformoney.com",
-      "published": "2026-09-28T21:13:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BNY pay-to-wallet service expands cross-border payments for banks",
-      "url": "https://www.bizjournals.com/pittsburgh/news/2026/09/28/bny-pay-to-wallet-capability.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-28T20:58:32+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "WATCH: NYPD bodycam captures tense standoff after Bank of America exec fatally stabbed in Times Square",
-      "url": "https://www.foxnews.com/us/watch-nypd-bodycam-captures-tense-standoff-bank-america-exec-fatally-stabbed-times-square",
-      "source": "foxnews.com",
-      "published": "2026-09-28T20:55:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226047632/0001839882-26-047632-index.htm",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029153/0001918704-26-029153-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-28T20:51:09+00:00",
+      "published": "2026-09-28T21:26:17+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-      "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-      "source": "decrypt.co",
-      "published": "2026-09-28T20:36:03+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014634/0000950103-26-014634-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-28T21:25:09+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Goldman Says High-Yield Debt Deluge Overwhelming Investors",
-      "url": "https://www.livemint.com/market/goldman-says-high-yield-debt-deluge-overwhelming-investors-11790627459317.html",
-      "source": "livemint.com",
-      "published": "2026-09-28T20:30:58+00:00",
+      "title": "Colgate-Palmolive (CL) is Making Room for Its Stronger Growth Engines. Will it Pay Off?",
+      "url": "https://www.insidermonkey.com/news/colgate-palmolive-cl-is-making-room-for-its-stronger-growth-engines-will-it-pay-off-1845317/",
+      "source": "insidermonkey.com",
+      "published": "2026-09-28T21:24:21+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Gay JPMorgan worker claims boss warned ‘DEI is not going to save you’ before bank forced him to resign",
-      "url": "https://nypost.com/2026/09/28/business/gay-jpmorgan-worker-claims-boss-warned-dei-is-not-going-to-save-you-before-bank-forced-him-to-resign/",
-      "source": "nypost.com",
-      "published": "2026-09-28T20:29:13+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Vikings: Justin Jefferson avoids long-term injury, Josh Oliver has torn bicep",
-      "url": "https://www.fox9.com/sports/vikings-justin-jefferson-avoids-long-term-injury-josh-oliver-has-torn-bicep",
-      "source": "fox9.com",
-      "published": "2026-09-28T20:29:10+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Dallas Mayor Eric Johnson confirms Morgan Stanley expansion amid Wall Street exodus from Mamdani’s NYC",
-      "url": "https://nypost.com/2026/09/28/business/giddyup-dallas-mayor-eric-johnson-confirms-morgan-stanley-expansion-amid-wall-street-exodus-from-mamdanis-nyc/",
-      "source": "nypost.com",
-      "published": "2026-09-28T20:28:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "23 Things to Do in the DC Area This Week and Weekend",
-      "url": "https://washingtonian.com/2026/09/28/things-to-do-in-the-dc-area-september-28-october-4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=things-to-do-in-the-dc-area-september-28-october-4-2026",
-      "source": "washingtonian.com",
-      "published": "2026-09-28T20:20:28+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs brings $100B Treasury fund to Avalanche via Lynq",
-      "url": "https://cryptobriefing.com/goldman-sachs-treasury-fund-avalanche-lynq/",
-      "source": "cryptobriefing.com",
-      "published": "2026-09-28T20:10:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Update: Market Chatter: Citigroup Eyes $3 Billion IPO for Mexico's Banamex",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-citigroup-eyes-3-200202270.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-28T20:02:02+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029147/0001918704-26-029147-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-28T21:21:49+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "State grant awarded to Morgan Stanley ranks among largest ever",
-      "url": "https://www.bizjournals.com/dallas/news/2026/09/28/morgan-stanley-record-texas-grant-dallas.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-28T19:56:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Can JPMorgan’s $20 Billion QIA Partnership Strengthen its Global Asset Management Business?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-20-billion-qia-partnership-195318126.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-28T19:53:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley To Invest $684M In New Regional Hub In Dallas",
-      "url": "https://www.bisnow.com/news/dallas-ft-worth/office/morgan-stanley-to-invest-684m-in-new-regional-hub-in-dallas",
-      "source": "bisnow.com",
-      "published": "2026-09-28T19:52:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Quantum Stocks Have Pulled Back Lately. Bank of America Says It’s Time to Buy This One",
-      "url": "https://www.investopedia.com/market-update-quantum-stocks-have-pulled-back-lately-bank-of-america-says-it-is-time-to-buy-this-one-ionq-12145920?.tsrc=rss",
-      "source": "investopedia.com",
-      "published": "2026-09-28T19:50:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi and Coinbase Working Together To Build Stablecoin Infrastructure for Businesses",
-      "url": "https://bitcoinmagazine.com/news/citi-coinbases-stablecoin-project",
-      "source": "bitcoinmagazine.com",
-      "published": "2026-09-28T19:36:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NTES Reiterates by Morgan Stanley -- Price Target Maintained at $163",
-      "url": "https://www.gurufocus.com/news/9100308/ntes-reiterates-by-morgan-stanley-price-target-maintained-at-163",
-      "source": "gurufocus.com",
-      "published": "2026-09-28T19:31:05+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "McDonald's US Comparable Sales Seen Pressured Through Year-End Amid Tough Comparisons, Morgan Stanley Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-apos-us-comparable-sales-193100785.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-28T19:31:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Expands in Dallas, Aiming for 3,800 Jobs",
-      "url": "https://www.gurufocus.com/news/9100304/morgan-stanley-expands-in-dallas-aiming-for-3800-jobs",
-      "source": "gurufocus.com",
-      "published": "2026-09-28T19:30:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "IonQ Shares Rise After BofA Starts Coverage at Buy",
-      "url": "https://www.gurufocus.com/news/9099949/ionq-shares-rise-after-bofa-starts-coverage-at-buy",
-      "source": "gurufocus.com",
-      "published": "2026-09-28T19:19:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Banking Giant Citi Taps Coinbase to Turn Stablecoins Into Cash",
-      "url": "https://news.bitcoin.com/finance/banking-giant-citi-taps-coinbase-turn-stablecoins-cash/",
-      "source": "bitcoin.com",
-      "published": "2026-09-28T19:15:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "tZERO Partners on Goldman Sachs Financial Square Treasury Instruments Fund (FTIXX)",
-      "url": "https://www.crowdfundinsider.com/2026/09/313906-tzero-partners-on-goldman-sachs-financial-square-treasury-instruments-fund-ftixx/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-09-28T19:15:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Elder millennials are driving a hobby renaissance in 2026, but ‘funflation’ could ruin the party",
-      "url": "https://www.fastcompany.com/91614109/elder-millennials-are-driving-a-hobby-renaissance-in-2026-but-funflation-could-ruin-the-party?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "source": "fastcompany.com",
-      "published": "2026-09-28T19:13:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Royal Caribbean upgraded to Buy at Bank of America as selloff creates entry point",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099248/royal-caribbean-upgraded-to-buy-at-bank-of-america-as-selloff-creates-entry-point-1099248.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-09-28T19:12:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Does Wells Fargo’s New Digital Tools and AI-Era Deposit Mobility Strategy Reshape The Bull Case For WFC?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-wells-fargo-digital-tools-190814067.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-28T19:08:14+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
