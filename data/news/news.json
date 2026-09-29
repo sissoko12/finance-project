@@ -1,282 +1,283 @@
 {
-  "last_updated": "2026-09-28T19:32:39.261038+00:00",
+  "last_updated": "2026-09-29T00:18:03.843498+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley officially picks Dallas – not Alpharetta – for new regional headquarters",
-      "url": "https://www.bizjournals.com/atlanta/news/2026/09/28/morgan-stanley-dallas-regional-hq.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-28T18:38:02+00:00",
+      "title": "CocaCola (NYSE:KO) Stock Rating Reaffirmed as Buy by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cocacola-nyse-ko-stock-rating-reaffirmed-as-buy-by-jpmorgan-chase-co-2026-09-28/",
+      "source": "marketbeat.com",
+      "published": "2026-09-28T22:42:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist: Solid Credit And Renewed Focus Creates Opportunity (Upgrade) | $TFC",
+      "url": "https://seekingalpha.com/article/4950407-truist-solid-credit-and-renewed-focus-creates-opportunity-upgrade",
+      "source": "seekingalpha.com",
+      "published": "2026-09-28T22:07:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Brings $100B Treasury Fund to Crypto’s Institutional Rails",
+      "url": "https://www.youtube.com/watch?v=aqRy66RxRqU",
+      "source": "youtube.com",
+      "published": "2026-09-28T21:54:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.8% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-down-18-should-you-sell-2026-09-28/",
+      "source": "marketbeat.com",
+      "published": "2026-09-28T21:20:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Plans 3,800 Dallas Jobs as Zohran Mamdani Pushes NYC Tax Changes",
+      "url": "https://firstformoney.com/morgan-stanley-plans-3800-dallas-jobs-as-zohran-mamdani-pushes-nyc-tax-changes/?.tsrc=rss",
+      "source": "firstformoney.com",
+      "published": "2026-09-28T21:13:33+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BNY Aims to Bring Cross-Border Bank Payments to Digital Wallets",
-      "url": "https://www.pymnts.com/news/cross-border-payments/2026/bny-aims-to-bring-cross-border-bank-payments-to-digital-wallets/",
-      "source": "pymnts.com",
-      "published": "2026-09-28T18:30:50+00:00",
+      "title": "BNY pay-to-wallet service expands cross-border payments for banks",
+      "url": "https://www.bizjournals.com/pittsburgh/news/2026/09/28/bny-pay-to-wallet-capability.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-09-28T20:58:32+00:00",
       "tickers": [
         "BK"
       ]
     },
     {
-      "title": "PNC hires new head of ATM banking from Huntington",
-      "url": "https://www.bizjournals.com/pittsburgh/news/2026/09/28/pnc-new-head-atm-huntington.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-28T18:14:09+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Americans are splurging on hobbies even as 'funflation' pushes leisure costs higher",
-      "url": "https://qz.com/americans-hobby-spending-funflation-leisure-costs-092826",
-      "source": "qz.com",
-      "published": "2026-09-28T18:10:42+00:00",
+      "title": "WATCH: NYPD bodycam captures tense standoff after Bank of America exec fatally stabbed in Times Square",
+      "url": "https://www.foxnews.com/us/watch-nypd-bodycam-captures-tense-standoff-bank-america-exec-fatally-stabbed-times-square",
+      "source": "foxnews.com",
+      "published": "2026-09-28T20:55:05+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-      "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-      "source": "coindesk.com",
-      "published": "2026-09-28T18:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Incyte (NASDAQ:INCY) Stock Gets Price Target Bump from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-incyte-nasdaq-incy-stock-gets-price-target-bump-from-jpmorgan-chase-co-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T17:54:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Optics Stocks Slide Despite Citi’s $11B Switching Forecast: Coherent and Applied Optoelectronics Drop 5%, Corning Falls 3%",
-      "url": "https://247wallst.com/investing/2026/09/28/optics-stocks-slide-despite-citis-11b-switching-forecast-coherent-and-applied-optoelectronics-drop-5-corning-falls-3/",
-      "source": "247wallst.com",
-      "published": "2026-09-28T17:52:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Rising bond yields require a rethink of stock investing, Wells Fargo says",
-      "url": "https://financialpost.com/investing/bond-yields-require-rethink-stock-investing-wells-fargo",
-      "source": "financialpost.com",
-      "published": "2026-09-28T17:50:28+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226047632/0001839882-26-047632-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-28T20:51:09+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
-      "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
-      "source": "theblock.co",
-      "published": "2026-09-28T17:22:06+00:00",
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "source": "decrypt.co",
+      "published": "2026-09-28T20:36:03+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Manifest Joins Chainguard's Athena Coalition to Find Open-Source Risk Inside Software Products",
-      "url": "http://www.businesswire.com/news/home/20260928244061/en/Manifest-Joins-Chainguards-Athena-Coalition-to-Find-Open-Source-Risk-Inside-Software-Products/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
-      "source": "businesswire.com",
-      "published": "2026-09-28T17:15:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (MS) Launches $684M Dallas Hub, Eyes 3,800 Jobs Amid Dividend Strength",
-      "url": "https://www.gurufocus.com/news/9100141/morgan-stanley-ms-launches-684m-dallas-hub-eyes-3800-jobs-amid-dividend-strength",
-      "source": "gurufocus.com",
-      "published": "2026-09-28T17:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi lowers Group 1 Automotive EPS estimates on higher borrowing costs, store closures",
-      "url": "https://seekingalpha.com/news/4647704-citi-lowers-group-1-automotive-eps-estimates-on-higher-borrowing-costs-store-closures",
-      "source": "seekingalpha.com",
-      "published": "2026-09-28T16:50:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Micron Technology (MU) Poised for Q3 Earnings with Morgan Stanley Optimistic on Demand",
-      "url": "https://www.gurufocus.com/news/9100123/micron-technology-mu-poised-for-q3-earnings-with-morgan-stanley-optimistic-on-demand",
-      "source": "gurufocus.com",
-      "published": "2026-09-28T16:50:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Drew the Map. The Territory Is Bigger.",
-      "url": "https://betatoalpha.substack.com/p/goldman-drew-the-map-the-territory",
-      "source": "substack.com",
-      "published": "2026-09-28T16:49:53+00:00",
+      "title": "Goldman Says High-Yield Debt Deluge Overwhelming Investors",
+      "url": "https://www.livemint.com/market/goldman-says-high-yield-debt-deluge-overwhelming-investors-11790627459317.html",
+      "source": "livemint.com",
+      "published": "2026-09-28T20:30:58+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Citi and Coinbase Unlock Merchant Stablecoin Payments With Fiat Settlement",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/citi-coinbase-unlock-merchant-stablecoin-payments-with-fiat-settlement/",
-      "source": "pymnts.com",
-      "published": "2026-09-28T16:49:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "H. B. Fuller (NYSE:FUL) Price Target Cut to $66.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13599294/h-b-fuller-nyseful-price-target-cut-to-66-00-by-analysts-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-09-28T16:48:45+00:00",
+      "title": "Gay JPMorgan worker claims boss warned ‘DEI is not going to save you’ before bank forced him to resign",
+      "url": "https://nypost.com/2026/09/28/business/gay-jpmorgan-worker-claims-boss-warned-dei-is-not-going-to-save-you-before-bank-forced-him-to-resign/",
+      "source": "nypost.com",
+      "published": "2026-09-28T20:29:13+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for H. B. Fuller (NYSE:FUL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-h-b-fuller-nyse-ful-stock-price-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T16:48:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "U.S. Bank Launches New Credit Cards for Small Business Owners with Jessica Alba as Spokesperson",
-      "url": "http://www.businesswire.com/news/home/20260927514978/en/U.S.-Bank-Launches-New-Credit-Cards-for-Small-Business-Owners-with-Jessica-Alba-as-Spokesperson/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-09-28T16:21:00+00:00",
+      "title": "Vikings: Justin Jefferson avoids long-term injury, Josh Oliver has torn bicep",
+      "url": "https://www.fox9.com/sports/vikings-justin-jefferson-avoids-long-term-injury-josh-oliver-has-torn-bicep",
+      "source": "fox9.com",
+      "published": "2026-09-28T20:29:10+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "Royal Caribbean (RCL) Stock Receives Dual Upgrades Before Carnival Reports Q3 Results",
-      "url": "https://blockonomi.com/royal-caribbean-rcl-stock-receives-dual-upgrades-before-carnival-reports-q3-results/",
-      "source": "blockonomi.com",
-      "published": "2026-09-28T16:19:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The 3.75% Yield That Makes Citi’s Stablecoin Play Work",
-      "url": "https://forkast.news/the-3-75-yield-that-makes-citis-stablecoin-play-work/",
-      "source": "forkast.news",
-      "published": "2026-09-28T16:06:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Reinsurance Group of America (NYSE:RGA) Stock Rating Raised to \"Overweight\" at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-reinsurance-group-of-america-nyse-rga-stock-rating-raised-to-overweight-at-morgan-stanley-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T16:06:32+00:00",
+      "title": "Dallas Mayor Eric Johnson confirms Morgan Stanley expansion amid Wall Street exodus from Mamdani’s NYC",
+      "url": "https://nypost.com/2026/09/28/business/giddyup-dallas-mayor-eric-johnson-confirms-morgan-stanley-expansion-amid-wall-street-exodus-from-mamdanis-nyc/",
+      "source": "nypost.com",
+      "published": "2026-09-28T20:28:34+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Bank of America Corporation (BAC) Stock: AskGPS Intelligence Hub Debuts",
-      "url": "https://blockonomi.com/bank-of-america-corporation-bac-stock-askgps-intelligence-hub-debuts/",
-      "source": "blockonomi.com",
-      "published": "2026-09-28T16:03:28+00:00",
+      "title": "23 Things to Do in the DC Area This Week and Weekend",
+      "url": "https://washingtonian.com/2026/09/28/things-to-do-in-the-dc-area-september-28-october-4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=things-to-do-in-the-dc-area-september-28-october-4-2026",
+      "source": "washingtonian.com",
+      "published": "2026-09-28T20:20:28+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "Best Financial Stocks To Keep An Eye On - September 28th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-best-financial-stocks-to-keep-an-eye-on-september-28th-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T16:03:12+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Best Bank Stocks To Watch Now - September 28th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-best-bank-stocks-to-watch-now-september-28th-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T16:02:59+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Adviser links: risks worth taking",
-      "url": "https://abnormalreturns.com/2026/09/28/adviser-links-risks-worth-taking/",
-      "source": "abnormalreturns.com",
-      "published": "2026-09-28T16:01:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase Navigates Dividend Sustainability Amid Tech Sector Valuation Reset",
-      "url": "https://www.gurufocus.com/news/9100035/jpmorgan-chase-navigates-dividend-sustainability-amid-tech-sector-valuation-reset",
-      "source": "gurufocus.com",
-      "published": "2026-09-28T15:59:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman warns high-yield bond supply surge pressuring markets",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-warns-highyield-bond-supply-surge-pressuring-markets-4920854",
-      "source": "investing.com",
-      "published": "2026-09-28T15:56:09+00:00",
+      "title": "Goldman Sachs brings $100B Treasury fund to Avalanche via Lynq",
+      "url": "https://cryptobriefing.com/goldman-sachs-treasury-fund-avalanche-lynq/",
+      "source": "cryptobriefing.com",
+      "published": "2026-09-28T20:10:37+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "H. B. Fuller (NYSE:FUL) Price Target Cut to $63.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-h-b-fuller-nyse-ful-price-target-cut-to-6300-by-analysts-at-citigroup-2026-09-28/",
-      "source": "marketbeat.com",
-      "published": "2026-09-28T15:54:31+00:00",
+      "title": "Update: Market Chatter: Citigroup Eyes $3 Billion IPO for Mexico's Banamex",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-citigroup-eyes-3-200202270.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-28T20:02:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State grant awarded to Morgan Stanley ranks among largest ever",
+      "url": "https://www.bizjournals.com/dallas/news/2026/09/28/morgan-stanley-record-texas-grant-dallas.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-09-28T19:56:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Can JPMorgan’s $20 Billion QIA Partnership Strengthen its Global Asset Management Business?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-20-billion-qia-partnership-195318126.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-28T19:53:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley To Invest $684M In New Regional Hub In Dallas",
+      "url": "https://www.bisnow.com/news/dallas-ft-worth/office/morgan-stanley-to-invest-684m-in-new-regional-hub-in-dallas",
+      "source": "bisnow.com",
+      "published": "2026-09-28T19:52:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Quantum Stocks Have Pulled Back Lately. Bank of America Says It’s Time to Buy This One",
+      "url": "https://www.investopedia.com/market-update-quantum-stocks-have-pulled-back-lately-bank-of-america-says-it-is-time-to-buy-this-one-ionq-12145920?.tsrc=rss",
+      "source": "investopedia.com",
+      "published": "2026-09-28T19:50:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi and Coinbase Working Together To Build Stablecoin Infrastructure for Businesses",
+      "url": "https://bitcoinmagazine.com/news/citi-coinbases-stablecoin-project",
+      "source": "bitcoinmagazine.com",
+      "published": "2026-09-28T19:36:21+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citigroup (C) Stock: Drops as Coinbase Deal Targets Stablecoin Payments",
-      "url": "https://blockonomi.com/citigroup-c-stock-drops-as-coinbase-deal-targets-stablecoin-payments/",
-      "source": "blockonomi.com",
-      "published": "2026-09-28T15:48:09+00:00",
+      "title": "NTES Reiterates by Morgan Stanley -- Price Target Maintained at $163",
+      "url": "https://www.gurufocus.com/news/9100308/ntes-reiterates-by-morgan-stanley-price-target-maintained-at-163",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T19:31:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "McDonald's US Comparable Sales Seen Pressured Through Year-End Amid Tough Comparisons, Morgan Stanley Says",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-apos-us-comparable-sales-193100785.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-28T19:31:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Expands in Dallas, Aiming for 3,800 Jobs",
+      "url": "https://www.gurufocus.com/news/9100304/morgan-stanley-expands-in-dallas-aiming-for-3800-jobs",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T19:30:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "IonQ Shares Rise After BofA Starts Coverage at Buy",
+      "url": "https://www.gurufocus.com/news/9099949/ionq-shares-rise-after-bofa-starts-coverage-at-buy",
+      "source": "gurufocus.com",
+      "published": "2026-09-28T19:19:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Banking Giant Citi Taps Coinbase to Turn Stablecoins Into Cash",
+      "url": "https://news.bitcoin.com/finance/banking-giant-citi-taps-coinbase-turn-stablecoins-cash/",
+      "source": "bitcoin.com",
+      "published": "2026-09-28T19:15:41+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citi® Token Services Expands Global Footprint Into Japan and UAE",
-      "url": "http://www.businesswire.com/news/home/20260928170461/en/Citi%C2%AE-Token-Services-Expands-Global-Footprint-Into-Japan-and-UAE/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-09-28T15:45:00+00:00",
+      "title": "tZERO Partners on Goldman Sachs Financial Square Treasury Instruments Fund (FTIXX)",
+      "url": "https://www.crowdfundinsider.com/2026/09/313906-tzero-partners-on-goldman-sachs-financial-square-treasury-instruments-fund-ftixx/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-09-28T19:15:33+00:00",
       "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Elder millennials are driving a hobby renaissance in 2026, but ‘funflation’ could ruin the party",
+      "url": "https://www.fastcompany.com/91614109/elder-millennials-are-driving-a-hobby-renaissance-in-2026-but-funflation-could-ruin-the-party?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "fastcompany.com",
+      "published": "2026-09-28T19:13:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Royal Caribbean upgraded to Buy at Bank of America as selloff creates entry point",
+      "url": "https://www.proactiveinvestors.com/companies/news/1099248/royal-caribbean-upgraded-to-buy-at-bank-of-america-as-selloff-creates-entry-point-1099248.html?.tsrc=rss",
+      "source": "proactiveinvestors.com",
+      "published": "2026-09-28T19:12:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Does Wells Fargo’s New Digital Tools and AI-Era Deposit Mobility Strategy Reshape The Bull Case For WFC?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-wells-fargo-digital-tools-190814067.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-28T19:08:14+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     }
