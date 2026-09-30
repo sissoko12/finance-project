@@ -1,48 +1,20 @@
 {
-  "last_updated": "2026-09-30T15:11:23.199775+00:00",
+  "last_updated": "2026-09-30T20:14:59.367808+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029641/0001918704-26-029641-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526409008/0001193125-26-409008-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-30T13:30:49+00:00",
+      "published": "2026-09-30T19:43:52+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Sector Update: Energy Stocks Advance Pre-Bell Wednesday",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-pre-132904056.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T13:29:04+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029635/0001918704-26-029635-index.htm",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029774/0001918704-26-029774-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-30T13:25:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Tata Group stock! BofA turns bullish on Trent, initiates coverage with Buy, pegs 17% upside",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stock-bofa-turns-bullish-on-trent-initiates-coverage-with-buy-pegs-17-upside/articleshow/134595513.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-30T13:18:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "/C O R R E C T I O N -- Bank of America Corporation/",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-study-finds-gen-z-and-millennial-donors-bring-new-approach-to-giving-302893901.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-30T13:17:00+00:00",
+      "published": "2026-09-30T19:32:18+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -50,179 +22,93 @@
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029630/0001918704-26-029630-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029773/0001918704-26-029773-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-30T13:12:39+00:00",
+      "published": "2026-09-30T19:31:19+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Citigroup Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-capital-one-financial-nyse-cof-stock-price-2026-09-30/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T13:12:34+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048387/0001839882-26-048387-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T19:23:01+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "MS"
       ]
     },
     {
-      "title": "Goldman Sachs (GS) Maps CEO Handover to John Waldron by 2028",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-maps-ceo-130940870.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T13:09:40+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014863/0000950103-26-014863-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T19:14:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Liberty Energy (NYSE:LBRT) Price Target to $27.50",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-cuts-liberty-energy-nyse-lbrt-price-target-to-2750-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T19:12:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Levi Strauss & Co. (NYSE:LEVI) Given New $22.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-levi-strauss-co-nyse-levi-given-new-2200-price-target-at-citigroup-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T19:12:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NOV (NYSE:NOV) Price Target Cut to $21.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nov-nyse-nov-price-target-cut-to-2100-by-analysts-at-citigroup-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T19:12:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Deutsche Bank Makes a Contrarian Call on Netflix—What Does It Mean for Investors?",
+      "url": "https://www.marketbeat.com/articles/deutsche-bank-makes-a-contrarian-call-on-netflixwhat-does-it-mean-for-investors/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T19:05:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman pushes Fed rate hike to December after cooler inflation",
+      "url": "https://www.investing.com/news/economy-news/goldman-pushes-fed-rate-hike-to-december-after-cooler-inflation-4925743",
+      "source": "investing.com",
+      "published": "2026-09-30T19:03:29+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Fair Isaac (NYSE:FICO) Rating Lowered to Neutral at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-fair-isaac-nyse-fico-rating-lowered-to-neutral-at-bank-of-america-2026-09-30/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T13:06:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Moderna Shares Slump As Citi Downgrades To 'Sell’ After Cancer Vaccine Rally",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/30/moderna-shares-slump-as-citi-downgrades-to-sell-after-cancer-vaccine-rally/",
-      "source": "forbes.com",
-      "published": "2026-09-30T13:03:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan revamps Micron stock price target before earnings",
-      "url": "https://www.thestreet.com/investing/stocks/mu-micron-stock-price-target-jpmorgan-september-2026?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-30T13:03:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi Challenges Crypto Payment Rails as Token Services Expand to Japan and UAE Across Seven Markets",
-      "url": "https://www.ccn.com/news/crypto/citi-token-services-blockchain-payments-japan-uae-crypto/?.tsrc=rss",
-      "source": "ccn.com",
-      "published": "2026-09-30T13:02:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AppLovin (APP) Stock Drops Following Wells Fargo’s Cautious E-Commerce Assessment",
-      "url": "https://blockonomi.com/applovin-app-stock-drops-following-wells-fargos-cautious-e-commerce-assessment/",
+      "title": "JPMorgan Chase (JPM) Stock: AI Collaboration Gains Attention Amid Market Pressure",
+      "url": "https://blockonomi.com/jpmorgan-chase-jpm-stock-ai-collaboration-gains-attention-amid-market-pressure/",
       "source": "blockonomi.com",
-      "published": "2026-09-30T13:02:07+00:00",
+      "published": "2026-09-30T19:01:54+00:00",
       "tickers": [
-        "WFC",
+        "JPM",
         "C"
       ]
     },
     {
-      "title": "Bank of America to Report Third Quarter 2026 Financial Results and Host Investor Conference Call on October 14",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-report-third-quarter-130000815.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T13:00:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014862/0000950103-26-014862-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T18:58:02+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NetApp’s AI Opportunity Can Support Higher Growth, Says BofA — Raises Target After INSIGHT Event",
-      "url": "https://stocktwits.com/news-articles/markets/equity/net-app-s-ai-opportunity-can-support-higher-growth-says-bof-a-raises-target-after-insight-event/cZMFeeiRBhn?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-09-30T12:50:13+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Robinhood Unveiled In-App AI Trading Agents. Here’s Where the Stock Could Go by 2030",
-      "url": "https://www.tikr.com/blog/robinhood-unveiled-in-app-ai-trading-agents-heres-where-the-stock-could-go-by-2030?ref=yahoofinance&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-09-30T12:34:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "First Look: Disney Layoffs, Apple Smart Home Launch, Goldman CEO Talks",
-      "url": "https://www.gurufocus.com/news/9103201/first-look-disney-layoffs-apple-smart-home-launch-goldman-ceo-talks",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T12:32:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Moderna (MRNA) Shares Fall Premarket After Citi Downgrades to Sell",
-      "url": "https://www.gurufocus.com/news/9103215/moderna-mrna-shares-fall-premarket-after-citi-downgrades-to-sell",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T12:32:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JKHY Maintained by Morgan Stanley -- Price Target Lowered to $158",
-      "url": "https://www.gurufocus.com/news/9103196/jkhy-maintained-by-morgan-stanley-price-target-lowered-to-158",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T12:31:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Good Soil Forum Returns to Award $500,000 to Entrepreneurs and Founders Ready for Growth",
-      "url": "https://www.prnewswire.com/news-releases/good-soil-forum-returns-to-award-500-000-to-entrepreneurs-and-founders-ready-for-growth-302893714.html",
-      "source": "prnewswire.com",
-      "published": "2026-09-30T12:30:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Okta Stock Rises After Morgan Stanley Raises Price Target to $245",
-      "url": "https://www.gurufocus.com/news/9101850/okta-stock-rises-after-morgan-stanley-raises-price-target-to-245",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T12:29:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Oracle Has 50% Upside--So Why Won't Morgan Stanley Say Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-50-upside-why-wont-122818115.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T12:28:18+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-      "url": "https://finance.yahoo.com/m/4bdd5ba7-148b-30be-95f8-d0edd5fdb9f1/moderna-stock-has-run-too.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T12:28:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Flags Surprising Risk to Apple Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-surprising-risk-122636874.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T12:26:36+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
