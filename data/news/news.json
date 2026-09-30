@@ -1,6 +1,228 @@
 {
-  "last_updated": "2026-09-30T01:57:26.102818+00:00",
+  "last_updated": "2026-09-30T08:20:54.289492+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Boosted by Saudi Central Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-boosted-by-saudi-central-bank-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T07:28:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Rose Capital Advisors LLC Purchases 3,234 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rose-capital-advisors-llc-purchases-3234-shares-of-jpmorgan-chase-co-jpm-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T07:28:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "POM Investment Strategies LLC Reduces Stock Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pom-investment-strategies-llc-reduces-stock-position-in-jpmorgan-chase-co-jpm-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T07:23:07+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Operose Advisors LLC Acquires New Holdings in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-operose-advisors-llc-acquires-new-holdings-in-jpmorgan-chase-co-jpm-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T07:23:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "11,166 Shares of JPMorgan Chase & Co. $JPM Purchased by NBH Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-11166-shares-of-jpmorgan-chase-co-jpm-purchased-by-nbh-bank-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T07:12:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "11,737 Shares in JPMorgan Chase & Co. $JPM Purchased by Compass Financial Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-11737-shares-in-jpmorgan-chase-co-jpm-purchased-by-compass-financial-management-llc-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T07:05:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "As E-Bikes and Scooters Surge on New York Streets, So Do Fatal Crashes",
+      "url": "https://www.nytimes.com/2026/09/30/nyregion/e-bike-scooter-deaths-safety.html",
+      "source": "nytimes.com",
+      "published": "2026-09-30T07:00:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Financial Earnings Preview: What to Expect",
+      "url": "https://www.barchart.com/story/news/4871605/capital-one-financial-earnings-preview-what-to-expect",
+      "source": "barchart.com",
+      "published": "2026-09-30T06:53:46+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Gold prices have pulled back — but a Morgan Stanley strategist sees 3 key reasons to hold the precious metal",
+      "url": "https://www.cnbc.com/2026/09/30/gold-price-metal-bullion.html",
+      "source": "cnbc.com",
+      "published": "2026-09-30T06:53:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Latham Advises on RoboTechnik’s HK$5.18 Billion IPO",
+      "url": "https://legaldesire.com/latham-advises-on-robotechniks-hk5-18-billion-ipo/",
+      "source": "legaldesire.com",
+      "published": "2026-09-30T06:15:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank OZK (NASDAQ:OZK) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.tickerreport.com/banking-finance/13601791/bank-ozk-nasdaqozk-stock-price-expected-to-rise-morgan-stanley-analyst-says.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-30T06:03:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - September 30",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---september-30/article_9376997d-2ba3-5c7e-b14f-fcc41875451a.html",
+      "source": "newspressnow.com",
+      "published": "2026-09-30T06:02:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "AutoZone (NYSE:AZO) Stock Price Target Cut by JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13601779/autozone-nyseazo-stock-price-target-cut-by-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-30T05:36:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan, Goldman See Mideast Oil Flows Near Pre-War Levels",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-30/jpmorgan-goldman-mideast-oil-flows-near-pre-war-levels-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-30T05:24:02+00:00",
+      "tickers": [
+        "JPM",
+        "GS"
+      ]
+    },
+    {
+      "title": "Dutch Bros (NYSE:BROS) Hits New 1-Year Low After Analyst Downgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13601768/dutch-bros-nysebros-hits-new-1-year-low-after-analyst-downgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-30T05:21:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Philippines tightens digital bank rules as payments evolve",
+      "url": "https://coingeek.com/philippines-tightens-digital-bank-rules-as-payments-evolve/",
+      "source": "coingeek.com",
+      "published": "2026-09-30T05:00:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Citi and Coinbase automate stablecoin-to-fiat conversion for institutional clients",
+      "url": "https://insidebitcoins.com/news/citi-and-coinbase-automate-stablecoin-to-fiat-conversion-for-institutional-clients",
+      "source": "insidebitcoins.com",
+      "published": "2026-09-30T04:10:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Virginia CEO pay continues to shatter records",
+      "url": "https://virginiabusiness.com/virginia-ceo-compensation-record-capital-one-dxc-technology/",
+      "source": "virginiabusiness.com",
+      "published": "2026-09-30T03:56:34+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Wells Fargo Upgrades Pinnacle Financial Partners (PNFP) to Overweight on Merger Progress",
+      "url": "https://www.gurufocus.com/news/9102547/wells-fargo-upgrades-pinnacle-financial-partners-pnfp-to-overweight-on-merger-progress",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T03:25:25+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Warns Meta’s Muse Could Hurt Apple’s Services Money",
+      "url": "https://www.macobserver.com/news/bank-of-america-warns-metas-muse-could-hurt-apples-services-money/?utm_source=macobserver&utm_medium=rss&utm_campaign=rss_everything",
+      "source": "macobserver.com",
+      "published": "2026-09-30T02:45:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo Downgrades BankUnited (BKU) to Equal Weight, Cuts Price Target to $47",
+      "url": "https://www.gurufocus.com/news/9102537/wells-fargo-downgrades-bankunited-bku-to-equal-weight-cuts-price-target-to-47",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T02:24:59+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "AI Agents in E-Commerce Enter Reality, Shopify Seen as a Potential Beneficiary",
+      "url": "https://nai500.com/blog/2026/09/ai-agents-in-e-commerce-enter-reality-shopify-seen-as-a-potential-beneficiary/",
+      "source": "nai500.com",
+      "published": "2026-09-30T02:20:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup Inc (C) Stock Down 0.4% but Still Overvalued -- GF Score: 77/100",
+      "url": "https://www.gurufocus.com/news/9102515/citigroup-inc-c-stock-down-04-but-still-overvalued-gf-score-77100",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T01:14:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group Inc (GS) Shares Fall 0% -- What GF Score of 83 Tells Investors",
+      "url": "https://www.gurufocus.com/news/9102502/the-goldman-sachs-group-inc-gs-shares-fall-0-what-gf-score-of-83-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T01:03:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs S&P 500 Core Premium Income ETF (NASDAQ:GPIX) Shares Shorted: Short Interest Down 53.3% in September",
       "url": "https://www.tickerreport.com/banking-finance/13601640/goldman-sachs-sp-500-core-premium-income-etf-nasdaqgpix-shares-shorted-short-interest-down-53-3-in-september.html",
@@ -11,187 +233,50 @@
       ]
     },
     {
+      "title": "Morgan Stanley (MS) Shares Fall 0.5% -- What GF Score of 84 Tells Investors",
+      "url": "https://www.gurufocus.com/news/9102467/morgan-stanley-ms-shares-fall-05-what-gf-score-of-84-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T00:55:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "A Look at Bank of America Corp (BAC) After 0.9% Decline -- GF Value $53.79 vs Price $54.96",
+      "url": "https://www.gurufocus.com/news/9102455/a-look-at-bank-of-america-corp-bac-after-09-decline-gf-value-5379-vs-price-5496",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T00:47:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America says Meta’s Muse highlights a new risk for Apple’s services revenue",
+      "url": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/",
+      "source": "9to5mac.com",
+      "published": "2026-09-30T00:41:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co (JPM) Shares Fall 0.5% -- What GF Score of 85 Tells Investors",
+      "url": "https://www.gurufocus.com/news/9102442/jpmorgan-chase-co-jpm-shares-fall-05-what-gf-score-of-85-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T00:35:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "The Market Just Hit a Risky Milestone. History Says Investors Should Make This 1 Move.",
       "url": "https://www.fool.com/investing/2026/09/29/the-market-just-hit-a-risky-milestone-history-says/?source=iedfolrf0000001",
       "source": "fool.com",
       "published": "2026-09-30T00:15:00+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Gay JPMorgan Worker Says Boss Told Him 'DEI Is Not Going to Save You' Before He Was Forced to Resign",
-      "url": "https://www.ibtimes.co.uk/former-jpmorgan-employee-alleges-discrimination-retaliation-1822629",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-30T00:08:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Running for office wasn’t part of this UW chemistry professor’s equation",
-      "url": "https://www.washington.edu/news/2026/09/29/running-for-office-wasnt-part-of-this-uw-chemistry-professors-equation/",
-      "source": "washington.edu",
-      "published": "2026-09-29T23:36:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Merrill Lynch Fined $7.5M After Its System Flagged Suspicious Transactions That Were Never Investigated by Humans",
-      "url": "https://www.ibtimes.co.uk/merrill-lynch-7-5-million-fine-risk-scoring-software-1822597",
-      "source": "ibtimes.co.uk",
-      "published": "2026-09-29T23:31:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bank teller accused of stealing nearly $41K, fleeing to Bahamas: Charges",
-      "url": "https://www.fox9.com/news/u-s-bank-teller-accused-stealing-nearly-41k-fleeing-bahamas-charges",
-      "source": "fox9.com",
-      "published": "2026-09-29T23:21:44+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Forget SPY’s Dividend. Here Is What $100,000 in State Street’s High-Dividend Version Pays",
-      "url": "https://247wallst.com/investing/etf/2026/09/29/forget-spys-dividend-here-is-what-100000-in-state-streets-high-dividend-version-pays/",
-      "source": "247wallst.com",
-      "published": "2026-09-29T23:06:47+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Citi Rewires Global Payments Through Single Swift Connection",
-      "url": "https://www.pymnts.com/news/cross-border-payments/2026/citi-rewires-global-payments-through-single-swift-connection/",
-      "source": "pymnts.com",
-      "published": "2026-09-29T23:05:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Newly Acquired by Cim Investment Management Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-newly-acquired-by-cim-investment-management-inc-2026-09-29/",
-      "source": "marketbeat.com",
-      "published": "2026-09-29T23:04:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Cim Investment Management Inc. Raises Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-cim-investment-management-inc-raises-position-in-bank-of-america-corporation-bac-2026-09-29/",
-      "source": "marketbeat.com",
-      "published": "2026-09-29T23:04:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline",
-      "url": "https://www.cnbc.com/2026/09/29/morgan-stanleys-deal-leak-mandates-.html",
-      "source": "cnbc.com",
-      "published": "2026-09-29T23:00:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Bank Analyst Graseck to Retire After 40 Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-bank-analyst-graseck-to-retire-after-40-years",
-      "source": "bloomberg.com",
-      "published": "2026-09-29T22:59:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman private credit fund defies industry elevated withdrawal trend yet again",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-private-credit-fund-defies-industry-elevated-withdrawal-trend-again-yet-again-4923801",
-      "source": "investing.com",
-      "published": "2026-09-29T22:54:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase expands Seattle tech center as bank targets AI and cloud talent",
-      "url": "https://www.bizjournals.com/seattle/news/2026/09/29/jpmorgan-chase-ture-armas-kristine-baker-bank.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-09-29T21:58:12+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA Securities Lifts Magnite (MGNI) Price Target 50% Amid DOJ Findings on Ad-Tech Monopoly",
-      "url": "https://www.gurufocus.com/news/9102123/bofa-securities-lifts-magnite-mgni-price-target-50-amid-doj-findings-on-adtech-monopoly",
-      "source": "gurufocus.com",
-      "published": "2026-09-29T21:56:41+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "My Journey Building AI Agents, RAG Systems, and AI-Powered Applications",
-      "url": "https://dev.to/unni_ta_1bf8d143dac1c4a0/my-journey-building-ai-agents-rag-systems-and-ai-powered-applications-4424",
-      "source": "dev.to",
-      "published": "2026-09-29T21:52:55+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014797/0000950103-26-014797-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:26:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026104763/0001213900-26-104763-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:26:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029614/0001918704-26-029614-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:26:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029613/0001918704-26-029613-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:25:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526407831/0001193125-26-407831-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:24:22+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
