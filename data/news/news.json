@@ -1,6 +1,125 @@
 {
-  "last_updated": "2026-09-29T22:54:28.618215+00:00",
+  "last_updated": "2026-09-30T01:57:26.102818+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs S&P 500 Core Premium Income ETF (NASDAQ:GPIX) Shares Shorted: Short Interest Down 53.3% in September",
+      "url": "https://www.tickerreport.com/banking-finance/13601640/goldman-sachs-sp-500-core-premium-income-etf-nasdaqgpix-shares-shorted-short-interest-down-53-3-in-september.html",
+      "source": "tickerreport.com",
+      "published": "2026-09-30T01:00:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Market Just Hit a Risky Milestone. History Says Investors Should Make This 1 Move.",
+      "url": "https://www.fool.com/investing/2026/09/29/the-market-just-hit-a-risky-milestone-history-says/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-09-30T00:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Gay JPMorgan Worker Says Boss Told Him 'DEI Is Not Going to Save You' Before He Was Forced to Resign",
+      "url": "https://www.ibtimes.co.uk/former-jpmorgan-employee-alleges-discrimination-retaliation-1822629",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-30T00:08:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Running for office wasn’t part of this UW chemistry professor’s equation",
+      "url": "https://www.washington.edu/news/2026/09/29/running-for-office-wasnt-part-of-this-uw-chemistry-professors-equation/",
+      "source": "washington.edu",
+      "published": "2026-09-29T23:36:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Merrill Lynch Fined $7.5M After Its System Flagged Suspicious Transactions That Were Never Investigated by Humans",
+      "url": "https://www.ibtimes.co.uk/merrill-lynch-7-5-million-fine-risk-scoring-software-1822597",
+      "source": "ibtimes.co.uk",
+      "published": "2026-09-29T23:31:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank teller accused of stealing nearly $41K, fleeing to Bahamas: Charges",
+      "url": "https://www.fox9.com/news/u-s-bank-teller-accused-stealing-nearly-41k-fleeing-bahamas-charges",
+      "source": "fox9.com",
+      "published": "2026-09-29T23:21:44+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Forget SPY’s Dividend. Here Is What $100,000 in State Street’s High-Dividend Version Pays",
+      "url": "https://247wallst.com/investing/etf/2026/09/29/forget-spys-dividend-here-is-what-100000-in-state-streets-high-dividend-version-pays/",
+      "source": "247wallst.com",
+      "published": "2026-09-29T23:06:47+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citi Rewires Global Payments Through Single Swift Connection",
+      "url": "https://www.pymnts.com/news/cross-border-payments/2026/citi-rewires-global-payments-through-single-swift-connection/",
+      "source": "pymnts.com",
+      "published": "2026-09-29T23:05:56+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Shares Newly Acquired by Cim Investment Management Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-newly-acquired-by-cim-investment-management-inc-2026-09-29/",
+      "source": "marketbeat.com",
+      "published": "2026-09-29T23:04:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Cim Investment Management Inc. Raises Position in Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cim-investment-management-inc-raises-position-in-bank-of-america-corporation-bac-2026-09-29/",
+      "source": "marketbeat.com",
+      "published": "2026-09-29T23:04:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline",
+      "url": "https://www.cnbc.com/2026/09/29/morgan-stanleys-deal-leak-mandates-.html",
+      "source": "cnbc.com",
+      "published": "2026-09-29T23:00:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Bank Analyst Graseck to Retire After 40 Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-bank-analyst-graseck-to-retire-after-40-years",
+      "source": "bloomberg.com",
+      "published": "2026-09-29T22:59:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman private credit fund defies industry elevated withdrawal trend yet again",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-private-credit-fund-defies-industry-elevated-withdrawal-trend-again-yet-again-4923801",
+      "source": "investing.com",
+      "published": "2026-09-29T22:54:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "JPMorgan Chase expands Seattle tech center as bank targets AI and cloud talent",
       "url": "https://www.bizjournals.com/seattle/news/2026/09/29/jpmorgan-chase-ture-armas-kristine-baker-bank.html?ana=brss_1543",
@@ -30,12 +149,30 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014797/0000950103-26-014797-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-29T21:26:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026104763/0001213900-26-104763-index.htm",
       "source": "sec.gov",
       "published": "2026-09-29T21:26:31+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029614/0001918704-26-029614-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-29T21:26:25+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -49,69 +186,12 @@
       ]
     },
     {
-      "title": "Morgan Stanley's new lab to test Wall Street's future",
-      "url": "https://www.thestreet.com/crypto/innovation/morgan-stanleys-new-lab-to-test-wall-streets-future?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-09-29T21:10:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048128/0001839882-26-048128-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:10:28+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526407802/0001193125-26-407802-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526407831/0001193125-26-407831-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-29T21:10:26+00:00",
+      "published": "2026-09-29T21:24:22+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "S&P upgrades Wells Fargo to A- following risk management overhauls",
-      "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-wells-fargo-to-a-following-risk-management-overhauls-4923630",
-      "source": "investing.com",
-      "published": "2026-09-29T21:09:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank Of America Points Will Transfer To Alaska Airlines—But Your Miles Could Be Worth Less",
-      "url": "https://viewfromthewing.com/bank-of-america-points-will-transfer-to-alaska-airlines-but-your-miles-could-be-worth-less/",
-      "source": "viewfromthewing.com",
-      "published": "2026-09-29T21:04:16+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026104745/0001213900-26-104745-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-29T21:03:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Walt Disney to Benefit From Strong Theme Park Attendance, Cruise Fleet Expansion, BofA Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-benefit-strong-theme-205457705.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-29T20:54:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
