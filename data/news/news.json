@@ -1,20 +1,58 @@
 {
-  "last_updated": "2026-10-01T19:23:46.769446+00:00",
+  "last_updated": "2026-10-01T23:22:26.526428+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029903/0001918704-26-029903-index.htm",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048994/0001839882-26-048994-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-01T18:34:53+00:00",
+      "published": "2026-10-01T21:30:36+00:00",
       "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030025/0001918704-26-030025-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T21:30:29+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "BP upgraded, Exxon downgraded at Wells Fargo as relative valuation favors BP",
-      "url": "https://seekingalpha.com/news/4649393-bp-upgraded-exxon-downgraded-at-wells-fargo-as-relative-valuation-favors-bp",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526410873/0001193125-26-410873-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T21:30:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Gold prices at risk of sliding below $4,000 in Q4, BofA warns",
+      "url": "https://seekingalpha.com/news/4649576-gold-prices-at-risk-of-sliding-below-4000-in-q4-bofa-warns",
       "source": "seekingalpha.com",
-      "published": "2026-10-01T18:34:38+00:00",
+      "published": "2026-10-01T21:30:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526410871/0001193125-26-410871-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T21:29:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226048973/0001839882-26-048973-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T21:23:21+00:00",
       "tickers": [
         "WFC",
         "C"
@@ -22,111 +60,9 @@
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029900/0001918704-26-029900-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014968/0000950103-26-014968-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-01T18:30:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "How John Waldron could make his mark as Goldman's next CEO",
-      "url": "https://www.americanbanker.com/news/how-john-waldron-could-make-his-mark-as-goldmans-next-ceo",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T18:27:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048751/0001839882-26-048751-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T18:27:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) Price Target Raised to $92.00",
-      "url": "https://www.tickerreport.com/banking-finance/13604713/hewlett-packard-enterprise-nysehpe-price-target-raised-to-92-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-01T18:12:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029890/0001918704-26-029890-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T18:05:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Spyre draws new Overweight at J.P. Morgan on IBD potential | $SYRE",
-      "url": "https://seekingalpha.com/news/4649325-spyre-stock-draws-new-overweight-jp-morgan",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T18:04:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup raises one year Bitcoin forecast to $113,000",
-      "url": "https://fortune.com/2026/10/01/citigroup-one-year-bitcoin-forecast-113000/",
-      "source": "fortune.com",
-      "published": "2026-10-01T18:02:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Boston Children's Hospital Receives $10 Million Gift from Bank of America to Support New Behavioral Health Campus",
-      "url": "https://www.prnewswire.com/news-releases/boston-childrens-hospital-receives-10-million-gift-from-bank-of-america-to-support-new-behavioral-health-campus-302896292.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-01T18:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029880/0001918704-26-029880-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T17:47:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SPDR Wells Fargo Preferred Stock ETF declares monthly distribution of $0.1600",
-      "url": "https://seekingalpha.com/news/4649323-spdr-wells-fargo-preferred-stock-etf-declares-monthly-distribution-of-01600",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T17:40:56+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Just Upgraded Rocket Lab Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/4912581/citi-just-upgraded-rocket-lab-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-10-01T17:36:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SanDisk stock rises as Citi sees 20% upside after Micron earnings, tight NAND market",
-      "url": "https://invezz.com/news/2026/10/01/sandisk-stock-rises-as-citi-sees-20-upside-after-micron-earnings-tight-nand-market/",
-      "source": "invezz.com",
-      "published": "2026-10-01T17:34:01+00:00",
+      "published": "2026-10-01T21:19:13+00:00",
       "tickers": [
         "C"
       ]
