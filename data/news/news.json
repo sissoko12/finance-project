@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-10-01T00:06:55.691483+00:00",
+  "last_updated": "2026-10-01T06:25:51.925945+00:00",
   "headlines": [
+    {
+      "title": "HSBC’s New Trading Floor Offers Less Headroom Than UBS, Goldman Rivals",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/hsbc-s-new-city-trading-floor-is-far-shorter-than-banking-rivals",
+      "source": "bloomberg.com",
+      "published": "2026-10-01T05:15:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs shifts second Fed hike forecast to December",
+      "url": "https://crypto.news/goldman-sachs-shifts-second-fed-hike-forecast-december/",
+      "source": "crypto.news",
+      "published": "2026-10-01T04:04:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sees Gold Breaking $5,000 in 2027 Despite Q3 Weakness",
+      "url": "https://nai500.com/blog/2026/09/morgan-stanley-sees-gold-breaking-5000-in-2027-despite-q3-weakness/",
+      "source": "nai500.com",
+      "published": "2026-10-01T02:12:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Merrill Lynch to Pay $39 Million in Settlement Over Low Interest Rates",
+      "url": "https://www.gurufocus.com/news/9104594/merrill-lynch-to-pay-39-million-in-settlement-over-low-interest-rates",
+      "source": "gurufocus.com",
+      "published": "2026-10-01T01:10:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Elevated Doug Petno and Troy Rohrbaugh to Co-Presidents as Jamie Dimon's Board Accelerates Succession Planning. Here's What That Reshuffle Signals for JPMorgan's Next Chapter.",
+      "url": "https://www.fool.com/investing/2026/09/30/jpmorgan-elevated-doug-petno-and-troy-rohrbaugh-to/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-01T00:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Reaffirms Neutral on Micron (MU) After Q4 Beat, Sets $1,100 Target",
+      "url": "https://www.gurufocus.com/news/9104545/goldman-sachs-reaffirms-neutral-on-micron-mu-after-q4-beat-sets-1100-target",
+      "source": "gurufocus.com",
+      "published": "2026-10-01T00:14:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Federal Reserve Renovation Review Highlights Management Issues Amid JPMorgan Chase Dividend ...",
+      "url": "https://www.gurufocus.com/news/9104554/federal-reserve-renovation-review-highlights-management-issues-amid-jpmorgan-chase-dividend-focus-jpm",
+      "source": "gurufocus.com",
+      "published": "2026-10-01T00:14:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Benchmaxxed: Google's New Gemini 4 Aces SAT, Struggles With Actual Job, \"Skeptical Employees\" Admit",
+      "url": "https://awesomecapital.blogspot.com/2026/09/benchmaxxed-googles-new-gemini-4-aces.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-09-30T23:37:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "WDIV - State Street SPDR S&P Global Dividend ETF",
+      "url": "https://www.aussiestockforums.com/threads/wdiv-state-street-spdr-s-p-global-dividend-etf.39026/?utm_source=rss&utm_medium=rss",
+      "source": "aussiestockforums.com",
+      "published": "2026-09-30T23:10:07+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Bank of America to pay $39 million to settle customer claims over low interest rates on cash",
       "url": "https://www.investing.com/news/economy-news/bank-of-america-to-pay-39-million-to-settle-customer-claims-over-low-interest-rates-on-cash-4926055",
@@ -9,6 +91,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs pushes Fed rate hike forecast to December",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december/articleshow/134607820.cms",
+      "source": "indiatimes.com",
+      "published": "2026-09-30T22:44:34+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -114,6 +205,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526409255/0001193125-26-409255-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:17:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Coinbase Global (COIN) Opens Regulated Stablecoin Payments To Merchants",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-opens-regulated-211637977.html?.tsrc=rss",
       "source": "yahoo.com",
@@ -156,24 +256,6 @@
       "published": "2026-09-30T20:58:30+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "OpenAI Explores IPO at $30 Billion Valuation in Talks With Goldman Sachs",
-      "url": "https://www.webpronews.com/openai-explores-ipo-at-30-billion-valuation-in-talks-with-goldman-sachs/",
-      "source": "webpronews.com",
-      "published": "2026-09-30T20:52:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs private credit BDC redemptions come in below 5% again in Q3",
-      "url": "https://pitchbook.com/news/articles/goldman-sachs-private-credit-bdc-redemptions-come-in-below-5-again-in-q3?.tsrc=rss",
-      "source": "pitchbook.com",
-      "published": "2026-09-30T20:50:42+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
