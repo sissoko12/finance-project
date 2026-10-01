@@ -1,261 +1,286 @@
 {
-  "last_updated": "2026-10-01T06:25:51.925945+00:00",
+  "last_updated": "2026-10-01T13:48:09.192346+00:00",
   "headlines": [
     {
-      "title": "HSBC’s New Trading Floor Offers Less Headroom Than UBS, Goldman Rivals",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/hsbc-s-new-city-trading-floor-is-far-shorter-than-banking-rivals",
-      "source": "bloomberg.com",
-      "published": "2026-10-01T05:15:08+00:00",
+      "title": "Raven Capital Appoints Thad Sharrett Senior Managing Director",
+      "url": "https://www.newspressnow.com/sports/chiefs/raven-capital-appoints-thad-sharrett-senior-managing-director/article_db21d061-b35f-544f-a98e-727a3757bc71.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-01T12:31:12+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs S&P 500 Premium Income ETF declares $0.397 dividend",
+      "url": "https://seekingalpha.com/news/4648992-goldman-sachs-s-and-p-500-premium-income-etf-declares-0_397-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T12:25:36+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Goldman Sachs shifts second Fed hike forecast to December",
-      "url": "https://crypto.news/goldman-sachs-shifts-second-fed-hike-forecast-december/",
+      "title": "Goldman Sachs Nasdaq-100 Premium Income ETF declares $0.5088 dividend",
+      "url": "https://seekingalpha.com/news/4648991-goldman-sachs-nasdaqminus-100-premium-income-etf-declares-0_5088-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T12:25:18+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bitcoin to $113,000? Citi raises forecast as ETF demand returns",
+      "url": "https://crypto.news/bitcoin-to-113000-citi-raises-forecast-as-etf-demand-returns/",
       "source": "crypto.news",
-      "published": "2026-10-01T04:04:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees Gold Breaking $5,000 in 2027 Despite Q3 Weakness",
-      "url": "https://nai500.com/blog/2026/09/morgan-stanley-sees-gold-breaking-5000-in-2027-despite-q3-weakness/",
-      "source": "nai500.com",
-      "published": "2026-10-01T02:12:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Merrill Lynch to Pay $39 Million in Settlement Over Low Interest Rates",
-      "url": "https://www.gurufocus.com/news/9104594/merrill-lynch-to-pay-39-million-in-settlement-over-low-interest-rates",
-      "source": "gurufocus.com",
-      "published": "2026-10-01T01:10:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Elevated Doug Petno and Troy Rohrbaugh to Co-Presidents as Jamie Dimon's Board Accelerates Succession Planning. Here's What That Reshuffle Signals for JPMorgan's Next Chapter.",
-      "url": "https://www.fool.com/investing/2026/09/30/jpmorgan-elevated-doug-petno-and-troy-rohrbaugh-to/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-01T00:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Reaffirms Neutral on Micron (MU) After Q4 Beat, Sets $1,100 Target",
-      "url": "https://www.gurufocus.com/news/9104545/goldman-sachs-reaffirms-neutral-on-micron-mu-after-q4-beat-sets-1100-target",
-      "source": "gurufocus.com",
-      "published": "2026-10-01T00:14:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Federal Reserve Renovation Review Highlights Management Issues Amid JPMorgan Chase Dividend ...",
-      "url": "https://www.gurufocus.com/news/9104554/federal-reserve-renovation-review-highlights-management-issues-amid-jpmorgan-chase-dividend-focus-jpm",
-      "source": "gurufocus.com",
-      "published": "2026-10-01T00:14:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Benchmaxxed: Google's New Gemini 4 Aces SAT, Struggles With Actual Job, \"Skeptical Employees\" Admit",
-      "url": "https://awesomecapital.blogspot.com/2026/09/benchmaxxed-googles-new-gemini-4-aces.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-09-30T23:37:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WDIV - State Street SPDR S&P Global Dividend ETF",
-      "url": "https://www.aussiestockforums.com/threads/wdiv-state-street-spdr-s-p-global-dividend-etf.39026/?utm_source=rss&utm_medium=rss",
-      "source": "aussiestockforums.com",
-      "published": "2026-09-30T23:10:07+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Bank of America to pay $39 million to settle customer claims over low interest rates on cash",
-      "url": "https://www.investing.com/news/economy-news/bank-of-america-to-pay-39-million-to-settle-customer-claims-over-low-interest-rates-on-cash-4926055",
-      "source": "investing.com",
-      "published": "2026-09-30T22:54:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs pushes Fed rate hike forecast to December",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december/articleshow/134607820.cms",
-      "source": "indiatimes.com",
-      "published": "2026-09-30T22:44:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Restarts Coverage on Enbridge (ENB) with Neutral Rating, $50 Target",
-      "url": "https://www.gurufocus.com/news/9104280/goldman-sachs-restarts-coverage-on-enbridge-enb-with-neutral-rating-50-target",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T22:14:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "ZBIO Maintained by Citigroup -- Price Target Raised to $48",
-      "url": "https://www.gurufocus.com/news/9104235/zbio-maintained-by-citigroup-price-target-raised-to-48",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T22:00:44+00:00",
+      "published": "2026-10-01T12:24:50+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs Upgrades TC Energy (TRP) to Buy, Raises Price Target to $71",
-      "url": "https://www.gurufocus.com/news/9104140/goldman-sachs-upgrades-tc-energy-trp-to-buy-raises-price-target-to-71",
-      "source": "gurufocus.com",
-      "published": "2026-09-30T21:57:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Adds Japan and UAE to 24/7 Tokenized Deposit Network",
-      "url": "https://www.crowdfundinsider.com/2026/09/314361-citi-adds-japan-and-uae-to-24-7-tokenized-deposit-network/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-09-30T21:44:32+00:00",
+      "title": "HPE in spotlight as Citi ups price target after investor event",
+      "url": "https://seekingalpha.com/news/4648988-hpe-in-spotlight-as-citi-ups-price-target-after-investor-event",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T12:24:11+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226048442/0001839882-26-048442-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:30:57+00:00",
+      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "source": "decrypt.co",
+      "published": "2026-10-01T12:23:15+00:00",
       "tickers": [
-        "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226048437/0001839882-26-048437-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:28:34+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026105349/0001213900-26-105349-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:26:09+00:00",
-      "tickers": [
-        "JPM"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029805/0001918704-26-029805-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029814/0001918704-26-029814-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-30T21:23:39+00:00",
+      "published": "2026-10-01T12:13:41+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 1.1% - Should You Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-11-should-you-sell-2026-09-30/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T21:20:47+00:00",
+      "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
+      "url": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-10-01T12:12:00+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "Morgan Stanley’s Hochfelder: Industrials Is Next Growth Area",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-30/why-morgan-stanley-sees-industrials-as-next-growth-wave-video",
-      "source": "bloomberg.com",
-      "published": "2026-09-30T21:20:21+00:00",
+      "title": "Morgan Stanley Initiates Coverage on Toll Brothers (NYSE:TOL)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-initiates-coverage-on-toll-brothers-nyse-tol-2026-10-01/",
+      "source": "marketbeat.com",
+      "published": "2026-10-01T12:06:37+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029804/0001918704-26-029804-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:19:28+00:00",
+      "title": "Nvidia vs. SpaceX: BofA Sees SPCX Up 61%, Nvidia Joins $668M AI Deal",
+      "url": "https://watcher.guru/news/nvidia-vs-spacex-bofa-sees-spcx-up-61-nvidia-joins-668m-ai-deal",
+      "source": "watcher.guru",
+      "published": "2026-10-01T12:02:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526409255/0001193125-26-409255-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:17:22+00:00",
+      "title": "Sibos 2026 day two: banks put AI agents to work, but keep the judgement for people",
+      "url": "https://thefintechtimes.com/sibos-2026-day-two-banks-put-ai-agents-to-work-but-keep-the-judgement-for-people/",
+      "source": "thefintechtimes.com",
+      "published": "2026-10-01T12:00:30+00:00",
       "tickers": [
-        "GS"
+        "C",
+        "BK"
       ]
     },
     {
-      "title": "Coinbase Global (COIN) Opens Regulated Stablecoin Payments To Merchants",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-opens-regulated-211637977.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-09-30T21:16:37+00:00",
+      "title": "Crypto News: Remittix Reveals RTX Launch Date as Bitcoin Price Prediction Tracks Citi’s $113,000 Target and Quant Secures Clearing House Deal",
+      "url": "https://www.globenewswire.com/en/news-release/2026/10/01/3372851/0/en/crypto-news-remittix-reveals-rtx-launch-date-as-bitcoin-price-prediction-tracks-citi-s-113-000-target-and-quant-secures-clearing-house-deal.html",
+      "source": "globenewswire.com",
+      "published": "2026-10-01T12:00:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029803/0001918704-26-029803-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:16:14+00:00",
+      "title": "Bank of America unit to pay $39M to settle low interest ‌rates lawsuit - report",
+      "url": "https://seekingalpha.com/news/4648959-bank-of-america-unit-to-pay-39m-to-settle-low-interest-rates-lawsuit---report",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T11:58:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "C.H. Robinson Worldwide is added to Wells Fargo's Tactical Ideas List",
+      "url": "https://seekingalpha.com/news/4648956-c-h-robinson-worldwide-is-added-to-wells-fargos-tactical-ideas-list",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T11:46:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Turkish Defense Firm Aselsan Extends Gains as BofA Says Buy",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/turkish-defense-firm-aselsan-extends-gains-as-bofa-says-buy",
+      "source": "bloomberg.com",
+      "published": "2026-10-01T11:21:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "These 5 AI chip stocks are must-own into Q4, BofA says",
+      "url": "https://www.investing.com/news/stock-market-news/these-5-ai-chip-stocks-are-mustown-into-q4-bofa-says-4927145",
+      "source": "investing.com",
+      "published": "2026-10-01T11:16:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA opens positive on Fincantieri on underwater, naval growth potential; stock up",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-opens-positive-on-fincantieri-on-underwater-naval-growth-potential-stock-up-4927132",
+      "source": "investing.com",
+      "published": "2026-10-01T11:14:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Most Powerful Women in Banking, #1 Jane Fraser, Citi",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-1-jane-fraser-citi",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T11:02:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Most Powerful Women in Banking, #2, Gunjan Kedia, U.S Bancorp",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-2-gunjan-kedia-u-s-bancorp",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T11:01:56+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Citi Raises Bitcoin Price Target to $113K, but What Changed?",
+      "url": "https://blockonomi.com/citi-raises-bitcoin-price-target-to-113k-but-what-changed/",
+      "source": "blockonomi.com",
+      "published": "2026-10-01T11:01:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Most Powerful Women in Banking, #4, Jennifer Piepszak, JPMorganChase",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-4-jennifer-piepszak-jpmorganchase",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T11:01:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman Sachs resumes Enbridge stock coverage with neutral rating",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-resumes-enbridge-stock-coverage-with-neutral-rating-93CH-4925946",
+      "title": "BofA cuts Concentrix stock price target on macro headwinds",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-concentrix-stock-price-target-on-macro-headwinds-93CH-4926974",
       "source": "investing.com",
-      "published": "2026-09-30T21:02:54+00:00",
+      "published": "2026-10-01T10:50:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA bullish on Dassault as Rafale orders could extend backlog visibility",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-bullish-on-dassault-as-rafale-orders-could-extend-backlog-visibility-4926970",
+      "source": "investing.com",
+      "published": "2026-10-01T10:50:10+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Amazon and these four U.S. stocks are latest additions to Goldman’s flagship list",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-and-these-four-us-stocks-are-latest-additions-to-goldmans-flagship-list-4926888",
+      "source": "investing.com",
+      "published": "2026-10-01T10:31:01+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048427/0001839882-26-048427-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T21:00:38+00:00",
+      "title": "Comparing X Financial (NYSE:XYF) & Capital One Financial (NYSE:COF)",
+      "url": "https://www.tickerreport.com/banking-finance/13603797/comparing-x-financial-nysexyf-capital-one-financial-nysecof.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-01T10:28:58+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "The Most Powerful Women in Banking NEXT, #1, Ambreen Sayed, Morgan Stanley",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-1-ambreen-sayed-morgan-stanley",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T10:28:38+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048426/0001839882-26-048426-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T20:58:30+00:00",
+      "title": "The Most Powerful Women in Banking NEXT, #2, Anne-Victoire Auriault, Goldman Sachs",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-2-anne-victoire-auriault-goldman-sachs",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T10:28:18+00:00",
       "tickers": [
-        "MS"
+        "GS"
+      ]
+    },
+    {
+      "title": "The Most Powerful Women in Banking NEXT, #22, Lauren Portnoi, Citi",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-22-lauren-portnoi-citi",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T10:21:06+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Most Powerful Women in Banking NEXT, #24, Nathalie Leclef, J.P. Morgan",
+      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-24-nathalie-leclef-j-p-morgan",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T10:20:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Beacon Financial Corporation (NYSE:BBT) Stock Has Average Target Price of $32.50 According to Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-beacon-financial-corporation-nyse-bbt-stock-has-average-target-price-of-3250-according-to-brokerages-2026-10-01/",
+      "source": "marketbeat.com",
+      "published": "2026-10-01T10:14:35+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     }
   ]
