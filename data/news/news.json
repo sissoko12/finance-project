@@ -1,115 +1,179 @@
 {
-  "last_updated": "2026-09-30T20:14:59.367808+00:00",
+  "last_updated": "2026-10-01T00:06:55.691483+00:00",
   "headlines": [
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526409008/0001193125-26-409008-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T19:43:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029774/0001918704-26-029774-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T19:32:18+00:00",
+      "title": "Bank of America to pay $39 million to settle customer claims over low interest rates on cash",
+      "url": "https://www.investing.com/news/economy-news/bank-of-america-to-pay-39-million-to-settle-customer-claims-over-low-interest-rates-on-cash-4926055",
+      "source": "investing.com",
+      "published": "2026-09-30T22:54:32+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029773/0001918704-26-029773-index.htm",
+      "title": "Goldman Sachs Restarts Coverage on Enbridge (ENB) with Neutral Rating, $50 Target",
+      "url": "https://www.gurufocus.com/news/9104280/goldman-sachs-restarts-coverage-on-enbridge-enb-with-neutral-rating-50-target",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T22:14:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "ZBIO Maintained by Citigroup -- Price Target Raised to $48",
+      "url": "https://www.gurufocus.com/news/9104235/zbio-maintained-by-citigroup-price-target-raised-to-48",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T22:00:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Upgrades TC Energy (TRP) to Buy, Raises Price Target to $71",
+      "url": "https://www.gurufocus.com/news/9104140/goldman-sachs-upgrades-tc-energy-trp-to-buy-raises-price-target-to-71",
+      "source": "gurufocus.com",
+      "published": "2026-09-30T21:57:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi Adds Japan and UAE to 24/7 Tokenized Deposit Network",
+      "url": "https://www.crowdfundinsider.com/2026/09/314361-citi-adds-japan-and-uae-to-24-7-tokenized-deposit-network/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-09-30T21:44:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226048442/0001839882-26-048442-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-30T19:31:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048387/0001839882-26-048387-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T19:23:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014863/0000950103-26-014863-index.htm",
-      "source": "sec.gov",
-      "published": "2026-09-30T19:14:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Liberty Energy (NYSE:LBRT) Price Target to $27.50",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-cuts-liberty-energy-nyse-lbrt-price-target-to-2750-2026-09-30/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T19:12:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Levi Strauss & Co. (NYSE:LEVI) Given New $22.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-levi-strauss-co-nyse-levi-given-new-2200-price-target-at-citigroup-2026-09-30/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T19:12:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NOV (NYSE:NOV) Price Target Cut to $21.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nov-nyse-nov-price-target-cut-to-2100-by-analysts-at-citigroup-2026-09-30/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T19:12:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Deutsche Bank Makes a Contrarian Call on Netflix—What Does It Mean for Investors?",
-      "url": "https://www.marketbeat.com/articles/deutsche-bank-makes-a-contrarian-call-on-netflixwhat-does-it-mean-for-investors/",
-      "source": "marketbeat.com",
-      "published": "2026-09-30T19:05:00+00:00",
+      "published": "2026-09-30T21:30:57+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Goldman pushes Fed rate hike to December after cooler inflation",
-      "url": "https://www.investing.com/news/economy-news/goldman-pushes-fed-rate-hike-to-december-after-cooler-inflation-4925743",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226048437/0001839882-26-048437-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:28:34+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026105349/0001213900-26-105349-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:26:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029805/0001918704-26-029805-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:23:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 1.1% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-11-should-you-sell-2026-09-30/",
+      "source": "marketbeat.com",
+      "published": "2026-09-30T21:20:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s Hochfelder: Industrials Is Next Growth Area",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-30/why-morgan-stanley-sees-industrials-as-next-growth-wave-video",
+      "source": "bloomberg.com",
+      "published": "2026-09-30T21:20:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029804/0001918704-26-029804-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:19:28+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Coinbase Global (COIN) Opens Regulated Stablecoin Payments To Merchants",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-opens-regulated-211637977.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-09-30T21:16:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029803/0001918704-26-029803-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:16:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs resumes Enbridge stock coverage with neutral rating",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-resumes-enbridge-stock-coverage-with-neutral-rating-93CH-4925946",
       "source": "investing.com",
-      "published": "2026-09-30T19:03:29+00:00",
+      "published": "2026-09-30T21:02:54+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase (JPM) Stock: AI Collaboration Gains Attention Amid Market Pressure",
-      "url": "https://blockonomi.com/jpmorgan-chase-jpm-stock-ai-collaboration-gains-attention-amid-market-pressure/",
-      "source": "blockonomi.com",
-      "published": "2026-09-30T19:01:54+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048427/0001839882-26-048427-index.htm",
+      "source": "sec.gov",
+      "published": "2026-09-30T21:00:38+00:00",
       "tickers": [
-        "JPM",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326014862/0000950103-26-014862-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048426/0001839882-26-048426-index.htm",
       "source": "sec.gov",
-      "published": "2026-09-30T18:58:02+00:00",
+      "published": "2026-09-30T20:58:30+00:00",
       "tickers": [
-        "C"
+        "MS"
+      ]
+    },
+    {
+      "title": "OpenAI Explores IPO at $30 Billion Valuation in Talks With Goldman Sachs",
+      "url": "https://www.webpronews.com/openai-explores-ipo-at-30-billion-valuation-in-talks-with-goldman-sachs/",
+      "source": "webpronews.com",
+      "published": "2026-09-30T20:52:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs private credit BDC redemptions come in below 5% again in Q3",
+      "url": "https://pitchbook.com/news/articles/goldman-sachs-private-credit-bdc-redemptions-come-in-below-5-again-in-q3?.tsrc=rss",
+      "source": "pitchbook.com",
+      "published": "2026-09-30T20:50:42+00:00",
+      "tickers": [
+        "GS"
       ]
     }
   ]
