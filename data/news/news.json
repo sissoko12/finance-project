@@ -1,286 +1,134 @@
 {
-  "last_updated": "2026-10-01T13:48:09.192346+00:00",
+  "last_updated": "2026-10-01T19:23:46.769446+00:00",
   "headlines": [
     {
-      "title": "Raven Capital Appoints Thad Sharrett Senior Managing Director",
-      "url": "https://www.newspressnow.com/sports/chiefs/raven-capital-appoints-thad-sharrett-senior-managing-director/article_db21d061-b35f-544f-a98e-727a3757bc71.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-01T12:31:12+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029903/0001918704-26-029903-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T18:34:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BP upgraded, Exxon downgraded at Wells Fargo as relative valuation favors BP",
+      "url": "https://seekingalpha.com/news/4649393-bp-upgraded-exxon-downgraded-at-wells-fargo-as-relative-valuation-favors-bp",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T18:34:38+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs S&P 500 Premium Income ETF declares $0.397 dividend",
-      "url": "https://seekingalpha.com/news/4648992-goldman-sachs-s-and-p-500-premium-income-etf-declares-0_397-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T12:25:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Nasdaq-100 Premium Income ETF declares $0.5088 dividend",
-      "url": "https://seekingalpha.com/news/4648991-goldman-sachs-nasdaqminus-100-premium-income-etf-declares-0_5088-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T12:25:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bitcoin to $113,000? Citi raises forecast as ETF demand returns",
-      "url": "https://crypto.news/bitcoin-to-113000-citi-raises-forecast-as-etf-demand-returns/",
-      "source": "crypto.news",
-      "published": "2026-10-01T12:24:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HPE in spotlight as Citi ups price target after investor event",
-      "url": "https://seekingalpha.com/news/4648988-hpe-in-spotlight-as-citi-ups-price-target-after-investor-event",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T12:24:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-      "source": "decrypt.co",
-      "published": "2026-10-01T12:23:15+00:00",
-      "tickers": [
         "C"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029814/0001918704-26-029814-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426029900/0001918704-26-029900-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-01T12:13:41+00:00",
+      "published": "2026-10-01T18:30:31+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
-      "url": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-10-01T12:12:00+00:00",
+      "title": "How John Waldron could make his mark as Goldman's next CEO",
+      "url": "https://www.americanbanker.com/news/how-john-waldron-could-make-his-mark-as-goldmans-next-ceo",
+      "source": "americanbanker.com",
+      "published": "2026-10-01T18:27:24+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Morgan Stanley Initiates Coverage on Toll Brothers (NYSE:TOL)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-initiates-coverage-on-toll-brothers-nyse-tol-2026-10-01/",
-      "source": "marketbeat.com",
-      "published": "2026-10-01T12:06:37+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048751/0001839882-26-048751-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T18:27:20+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Nvidia vs. SpaceX: BofA Sees SPCX Up 61%, Nvidia Joins $668M AI Deal",
-      "url": "https://watcher.guru/news/nvidia-vs-spacex-bofa-sees-spcx-up-61-nvidia-joins-668m-ai-deal",
-      "source": "watcher.guru",
-      "published": "2026-10-01T12:02:00+00:00",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Price Target Raised to $92.00",
+      "url": "https://www.tickerreport.com/banking-finance/13604713/hewlett-packard-enterprise-nysehpe-price-target-raised-to-92-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-01T18:12:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426029890/0001918704-26-029890-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T18:05:44+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Sibos 2026 day two: banks put AI agents to work, but keep the judgement for people",
-      "url": "https://thefintechtimes.com/sibos-2026-day-two-banks-put-ai-agents-to-work-but-keep-the-judgement-for-people/",
-      "source": "thefintechtimes.com",
-      "published": "2026-10-01T12:00:30+00:00",
+      "title": "Spyre draws new Overweight at J.P. Morgan on IBD potential | $SYRE",
+      "url": "https://seekingalpha.com/news/4649325-spyre-stock-draws-new-overweight-jp-morgan",
+      "source": "seekingalpha.com",
+      "published": "2026-10-01T18:04:55+00:00",
       "tickers": [
-        "C",
-        "BK"
+        "JPM"
       ]
     },
     {
-      "title": "Crypto News: Remittix Reveals RTX Launch Date as Bitcoin Price Prediction Tracks Citi’s $113,000 Target and Quant Secures Clearing House Deal",
-      "url": "https://www.globenewswire.com/en/news-release/2026/10/01/3372851/0/en/crypto-news-remittix-reveals-rtx-launch-date-as-bitcoin-price-prediction-tracks-citi-s-113-000-target-and-quant-secures-clearing-house-deal.html",
-      "source": "globenewswire.com",
-      "published": "2026-10-01T12:00:00+00:00",
+      "title": "Citigroup raises one year Bitcoin forecast to $113,000",
+      "url": "https://fortune.com/2026/10/01/citigroup-one-year-bitcoin-forecast-113000/",
+      "source": "fortune.com",
+      "published": "2026-10-01T18:02:47+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Bank of America unit to pay $39M to settle low interest ‌rates lawsuit - report",
-      "url": "https://seekingalpha.com/news/4648959-bank-of-america-unit-to-pay-39m-to-settle-low-interest-rates-lawsuit---report",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T11:58:25+00:00",
+      "title": "Boston Children's Hospital Receives $10 Million Gift from Bank of America to Support New Behavioral Health Campus",
+      "url": "https://www.prnewswire.com/news-releases/boston-childrens-hospital-receives-10-million-gift-from-bank-of-america-to-support-new-behavioral-health-campus-302896292.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-01T18:00:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "C.H. Robinson Worldwide is added to Wells Fargo's Tactical Ideas List",
-      "url": "https://seekingalpha.com/news/4648956-c-h-robinson-worldwide-is-added-to-wells-fargos-tactical-ideas-list",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426029880/0001918704-26-029880-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-01T17:47:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SPDR Wells Fargo Preferred Stock ETF declares monthly distribution of $0.1600",
+      "url": "https://seekingalpha.com/news/4649323-spdr-wells-fargo-preferred-stock-etf-declares-monthly-distribution-of-01600",
       "source": "seekingalpha.com",
-      "published": "2026-10-01T11:46:11+00:00",
+      "published": "2026-10-01T17:40:56+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Turkish Defense Firm Aselsan Extends Gains as BofA Says Buy",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/turkish-defense-firm-aselsan-extends-gains-as-bofa-says-buy",
-      "source": "bloomberg.com",
-      "published": "2026-10-01T11:21:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "These 5 AI chip stocks are must-own into Q4, BofA says",
-      "url": "https://www.investing.com/news/stock-market-news/these-5-ai-chip-stocks-are-mustown-into-q4-bofa-says-4927145",
-      "source": "investing.com",
-      "published": "2026-10-01T11:16:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA opens positive on Fincantieri on underwater, naval growth potential; stock up",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-opens-positive-on-fincantieri-on-underwater-naval-growth-potential-stock-up-4927132",
-      "source": "investing.com",
-      "published": "2026-10-01T11:14:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Most Powerful Women in Banking, #1 Jane Fraser, Citi",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-1-jane-fraser-citi",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T11:02:14+00:00",
+      "title": "Citi Just Upgraded Rocket Lab Stock. Here's Why.",
+      "url": "https://www.barchart.com/story/news/4912581/citi-just-upgraded-rocket-lab-stock-here-s-why",
+      "source": "barchart.com",
+      "published": "2026-10-01T17:36:46+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "The Most Powerful Women in Banking, #2, Gunjan Kedia, U.S Bancorp",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-2-gunjan-kedia-u-s-bancorp",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T11:01:56+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Citi Raises Bitcoin Price Target to $113K, but What Changed?",
-      "url": "https://blockonomi.com/citi-raises-bitcoin-price-target-to-113k-but-what-changed/",
-      "source": "blockonomi.com",
-      "published": "2026-10-01T11:01:42+00:00",
+      "title": "SanDisk stock rises as Citi sees 20% upside after Micron earnings, tight NAND market",
+      "url": "https://invezz.com/news/2026/10/01/sandisk-stock-rises-as-citi-sees-20-upside-after-micron-earnings-tight-nand-market/",
+      "source": "invezz.com",
+      "published": "2026-10-01T17:34:01+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "The Most Powerful Women in Banking, #4, Jennifer Piepszak, JPMorganChase",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-4-jennifer-piepszak-jpmorganchase",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T11:01:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA cuts Concentrix stock price target on macro headwinds",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-concentrix-stock-price-target-on-macro-headwinds-93CH-4926974",
-      "source": "investing.com",
-      "published": "2026-10-01T10:50:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA bullish on Dassault as Rafale orders could extend backlog visibility",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-bullish-on-dassault-as-rafale-orders-could-extend-backlog-visibility-4926970",
-      "source": "investing.com",
-      "published": "2026-10-01T10:50:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Amazon and these four U.S. stocks are latest additions to Goldman’s flagship list",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-and-these-four-us-stocks-are-latest-additions-to-goldmans-flagship-list-4926888",
-      "source": "investing.com",
-      "published": "2026-10-01T10:31:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Comparing X Financial (NYSE:XYF) & Capital One Financial (NYSE:COF)",
-      "url": "https://www.tickerreport.com/banking-finance/13603797/comparing-x-financial-nysexyf-capital-one-financial-nysecof.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-01T10:28:58+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "The Most Powerful Women in Banking NEXT, #1, Ambreen Sayed, Morgan Stanley",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-1-ambreen-sayed-morgan-stanley",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T10:28:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "The Most Powerful Women in Banking NEXT, #2, Anne-Victoire Auriault, Goldman Sachs",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-2-anne-victoire-auriault-goldman-sachs",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T10:28:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The Most Powerful Women in Banking NEXT, #22, Lauren Portnoi, Citi",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-22-lauren-portnoi-citi",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T10:21:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Most Powerful Women in Banking NEXT, #24, Nathalie Leclef, J.P. Morgan",
-      "url": "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-banking-next-24-nathalie-leclef-j-p-morgan",
-      "source": "americanbanker.com",
-      "published": "2026-10-01T10:20:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Beacon Financial Corporation (NYSE:BBT) Stock Has Average Target Price of $32.50 According to Brokerages",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-beacon-financial-corporation-nyse-bbt-stock-has-average-target-price-of-3250-according-to-brokerages-2026-10-01/",
-      "source": "marketbeat.com",
-      "published": "2026-10-01T10:14:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
       ]
     }
   ]
