@@ -1,6 +1,208 @@
 {
-  "last_updated": "2026-10-02T02:30:36.135635+00:00",
+  "last_updated": "2026-10-02T09:35:26.072627+00:00",
   "headlines": [
+    {
+      "title": "BofA eyes 10% fall in European stocks, but upgrades defense names Dassault and Saab",
+      "url": "https://seekingalpha.com/news/4649729-bofa-eyes-10-fall-in-european-stocks-but-upgrades-defense-names-dassault-and-saab",
+      "source": "seekingalpha.com",
+      "published": "2026-10-02T07:33:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Meta Platforms, Inc. $META Stock Acquired by State Street Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-meta-platforms-inc-meta-stock-acquired-by-state-street-corp-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:28:34+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Bought by RFG Advisory LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bought-by-rfg-advisory-llc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:28:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Bought by West Family Investments Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bought-by-west-family-investments-inc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:28:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "114,144 JPMorgan Chase & Co. $JPM Shares Acquired by Waverly Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-114144-jpmorgan-chase-co-jpm-shares-acquired-by-waverly-advisors-llc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:28:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "709,840 Shares in JPMorgan Chase & Co. $JPM Purchased by Nykredit A S",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-709840-shares-in-jpmorgan-chase-co-jpm-purchased-by-nykredit-a-s-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:20:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "20,510 JPMorgan Chase & Co. $JPM Shares Purchased by NewEdge Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-20510-jpmorgan-chase-co-jpm-shares-purchased-by-newedge-advisors-llc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:20:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Position Raised by Empirical Finance LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-position-raised-by-empirical-finance-llc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:05:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Acquired by Baird Financial Group Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-acquired-by-baird-financial-group-inc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:04:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Decreased by Anchor Capital Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-decreased-by-anchor-capital-advisors-llc-2026-10-02/",
+      "source": "marketbeat.com",
+      "published": "2026-10-02T07:04:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Names Top China Battery Stocks",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-battery-stocks-4928909",
+      "source": "investing.com",
+      "published": "2026-10-02T06:12:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Argan (NYSE:AGX) Price Target to $785.00",
+      "url": "https://www.tickerreport.com/banking-finance/13605593/jpmorgan-chase-co-cuts-argan-nyseagx-price-target-to-785-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-02T06:01:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Cuts Rollins (NYSE:ROL) Price Target to $45.00",
+      "url": "https://www.tickerreport.com/banking-finance/13605587/morgan-stanley-cuts-rollins-nyserol-price-target-to-45-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-02T05:54:49+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "monday.com (NASDAQ:MNDY) Cut to Neutral at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13605589/monday-com-nasdaqmndy-cut-to-neutral-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-02T05:54:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ASX Runners of the Week: Dateline, Mamba, Image Resources & BOA",
+      "url": "https://www.smh.com.au/business/companies/asx-runners-of-the-week-dateline-mamba-image-resources-and-boa-20261002-p612f1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "source": "smh.com.au",
+      "published": "2026-10-02T05:19:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Cuts Shake Shack (NYSE:SHAK) Price Target to $75.00",
+      "url": "https://www.tickerreport.com/banking-finance/13605552/jpmorgan-chase-co-cuts-shake-shack-nyseshak-price-target-to-75-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-02T05:06:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "More aggressive China stimulus unlikely for now, BofA says",
+      "url": "https://www.investing.com/news/economy-news/more-aggressive-china-stimulus-unlikely-for-now-bofa-says-4928874",
+      "source": "investing.com",
+      "published": "2026-10-02T04:03:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Detroit Pistons' Jalen Duren controls the ball against the Washington Wizards' Justin Champagnie during the second half at Capital One Arena on Tuesday, March 17, 2026, in Washington, D.C..",
+      "url": "https://thebrunswicknews.com/news/business/the-detroit-pistons-jalen-duren-controls-the-ball-against-the-washington-wizards-justin-champagnie-during/image_13d05d82-48b7-51c9-91cd-3e7534911388.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-10-02T03:23:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "State Street Blackstone High Income ETF declares $0.1645 dividend",
+      "url": "https://seekingalpha.com/news/4649702-state-street-blackstone-high-income-etf-declares-0_1645-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-02T03:22:34+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street Loomis Sayles Opportunistic Bond ETF declares $0.1505 dividend",
+      "url": "https://seekingalpha.com/news/4649700-state-street-loomis-sayles-opportunistic-bond-etf-declares-0_1505-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-02T03:21:44+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street US Eqty Prem Inc ETF declares $0.0724 dividend",
+      "url": "https://seekingalpha.com/news/4649699-state-street-us-eqty-prem-inc-etf-declares-0_0724-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-02T03:21:28+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street DoubleLine Short Duration Total Return Tactical ETF declares $0.1737 dividend",
+      "url": "https://seekingalpha.com/news/4649698-state-street-doubleline-short-duration-total-return-tactical-etf-declares-0_1737-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-02T03:21:10+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Workday (WDAY) Secures $1.5 Billion Revolving Credit Facility, Replacing Prior $1 Billion Agreement",
       "url": "https://www.gurufocus.com/news/9106710/workday-wday-secures-15-billion-revolving-credit-facility-replacing-prior-1-billion-agreement",
@@ -77,121 +279,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America Stocks Drop as AI Agents Challenge Deposit Inertia",
-      "url": "https://www.gurufocus.com/news/9106194/bank-of-america-stocks-drop-as-ai-agents-challenge-deposit-inertia",
-      "source": "gurufocus.com",
-      "published": "2026-10-01T23:05:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Shares Bought by Doliver Advisors LP",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-bought-by-doliver-advisors-lp-2026-10-01/",
-      "source": "marketbeat.com",
-      "published": "2026-10-01T23:04:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Woman goes to a restaurant to grab a $15 to-go order, and leaves without tipping. Then she hears from her bank: ‘A 266% TIP?!’",
-      "url": "https://attackofthefanboy.com/news/woman-goes-to-a-restaurant-to-grab-a-15-to-go-order-and-leaves-without-tipping-then-she-hears-from-her-bank-a-266-tip/",
-      "source": "attackofthefanboy.com",
-      "published": "2026-10-01T22:45:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "BNY Mellon Strategic Municipal Bond Fund, Inc. (NYSE:DSM) Short Interest Update",
-      "url": "https://www.marketbeat.com/instant-alerts/options-bny-mellon-strategic-municipal-bond-fund-inc-nyse-dsm-short-interest-update-2026-10-01/",
-      "source": "marketbeat.com",
-      "published": "2026-10-01T22:40:31+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Tennessee Banker Faces Felony Charges After Allegedly Draining Over $139,000 From Elderly Customers",
-      "url": "https://dailyhodl.com/2026/10/01/tennessee-banker-faces-felony-charges-after-allegedly-draining-over-139000-from-elderly-customers/",
-      "source": "dailyhodl.com",
-      "published": "2026-10-01T22:05:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226048994/0001839882-26-048994-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T21:30:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030025/0001918704-26-030025-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T21:30:29+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526410873/0001193125-26-410873-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T21:30:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Gold prices at risk of sliding below $4,000 in Q4, BofA warns",
-      "url": "https://seekingalpha.com/news/4649576-gold-prices-at-risk-of-sliding-below-4000-in-q4-bofa-warns",
-      "source": "seekingalpha.com",
-      "published": "2026-10-01T21:30:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526410871/0001193125-26-410871-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T21:29:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226048973/0001839882-26-048973-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T21:23:21+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026105911/0001213900-26-105911-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-01T21:21:52+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
