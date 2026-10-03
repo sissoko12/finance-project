@@ -1,6 +1,199 @@
 {
-  "last_updated": "2026-10-03T05:38:16.854000+00:00",
+  "last_updated": "2026-10-03T11:29:01.005466+00:00",
   "headlines": [
+    {
+      "title": "Rocket Lab (NASDAQ:RKLB) Upgraded at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-rocket-lab-nasdaq-rklb-upgraded-at-citigroup-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T10:00:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "These 3 Greensboro area schools just won a Wells Fargo Cup for athletics",
+      "url": "https://greensboro.com/sports/high-school/article_a0873e49-fcae-48f8-bd59-13f0dfd80f12.html",
+      "source": "greensboro.com",
+      "published": "2026-10-03T10:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation (NYSE:BAC) Stock Has Consensus Target Price of $63.88",
+      "url": "https://www.tickerreport.com/banking-finance/13607641/bank-of-america-corporation-nysebac-stock-has-consensus-target-price-of-63-88.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-03T09:15:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Crypto Markets Rally on Fed Rate Pause Hopes While Regulators Advance Custody Framework",
+      "url": "https://blockonomi.com/crypto-markets-rally-on-fed-rate-pause-hopes-while-regulators-advance-custody-framework/",
+      "source": "blockonomi.com",
+      "published": "2026-10-03T09:10:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs names four 'must own' European stocks for 2027",
+      "url": "https://invezz.com/news/2026/10/03/goldman-sachs-names-four-must-own-european-stocks-for-2027/",
+      "source": "invezz.com",
+      "published": "2026-10-03T09:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
+      "url": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
+      "source": "investing.com",
+      "published": "2026-10-03T08:45:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon (NYSE:BNY) VP Sells $523,740.80 in Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13607628/bank-of-new-york-mellon-nysebny-vp-sells-523740-80-in-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-03T08:22:50+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "The Manufacturers Life Insurance Company Reduces Stake in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-reduces-stake-in-jpmorgan-chase-co-jpm-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:23:07+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SVB Wealth LLC Cuts Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-svb-wealth-llc-cuts-position-in-jpmorgan-chase-co-jpm-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:23:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CX Institutional Sells 8,811 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cx-institutional-sells-8811-shares-of-the-goldman-sachs-group-inc-gs-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:14:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Purchased by National Pension Service",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-purchased-by-national-pension-service-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:13:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Archford Capital Strategies LLC Decreases Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-archford-capital-strategies-llc-decreases-position-in-jpmorgan-chase-co-jpm-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:12:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Position Raised by Integrated Wealth Concepts LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-raised-by-integrated-wealth-concepts-llc-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:08:55+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Engineers Gate Manager LP Cuts Stock Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-engineers-gate-manager-lp-cuts-stock-position-in-jpmorgan-chase-co-jpm-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:08:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Levi Strauss & Co. (NYSE:LEVI) Price Target to $22.00",
+      "url": "https://www.tickerreport.com/banking-finance/13607594/citigroup-cuts-levi-strauss-co-nyselevi-price-target-to-22-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-03T07:06:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stake Cut by BlueCrest Capital Management Ltd",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stake-cut-by-bluecrest-capital-management-ltd-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T07:05:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Nuvation Bio (NYSE:NUVB) Research Coverage Started at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13607584/nuvation-bio-nysenuvb-research-coverage-started-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-03T06:38:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Calls For Much Higher BTC, NEAR ETF Goes Live, And More – Weekly Recap",
+      "url": "https://news.bitcoin.com/featured/citi-calls-for-much-higher-btc-near-etf-goes-live-and-more-weekly-recap/",
+      "source": "bitcoin.com",
+      "published": "2026-10-03T06:30:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Jazz Pharmaceuticals (NASDAQ:JAZZ) Stock Rated Buy in New Coverage at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13607574/jazz-pharmaceuticals-nasdaqjazz-stock-rated-buy-in-new-coverage-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-03T06:12:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Sale Disclosed by Sen. Sheldon Whitehouse",
+      "url": "https://www.marketbeat.com/instant-alerts/congress-jpmorgan-chase-co-nyse-jpm-stock-sale-disclosed-by-sen-sheldon-whitehouse-2026-10-03/",
+      "source": "marketbeat.com",
+      "published": "2026-10-03T06:02:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Both the US Dollar and US Treasury Yields Soar, BofA Strategist Warns That Selling Pressure on Risk Assets Has Not Subsided",
+      "url": "https://nai500.com/blog/2026/10/both-the-us-dollar-and-us-treasury-yields-soar-bofa-strategist-warns-that-selling-pressure-on-risk-assets-has-not-subsided/",
+      "source": "nai500.com",
+      "published": "2026-10-03T02:53:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Credit union vs my online bank",
       "url": "https://www.reddit.com/r/personalfinance/comments/1wwam83/credit_union_vs_my_online_bank/",
@@ -83,53 +276,6 @@
       "published": "2026-10-02T21:24:51+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106548/0001213900-26-106548-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T21:22:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030484/0001918704-26-030484-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T21:20:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030480/0001918704-26-030480-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T21:17:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AP Entertainment SummaryBrief at 5:14 p.m. EDT",
-      "url": "https://www.newspressnow.com/news/national_news/business/ap-entertainment-summarybrief-at-5-14-p-m-edt/article_73a3c8c9-6f4d-5d39-80ca-806711801557.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-02T21:14:53+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030474/0001918704-26-030474-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T21:12:34+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
