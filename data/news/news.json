@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-10-03T00:20:08.021240+00:00",
+  "last_updated": "2026-10-03T05:38:16.854000+00:00",
   "headlines": [
+    {
+      "title": "Credit union vs my online bank",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wwam83/credit_union_vs_my_online_bank/",
+      "source": "reddit.com",
+      "published": "2026-10-03T01:19:01+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "When Your Own Server Becomes the Attacker",
+      "url": "https://dev.to/alihaider_dev/when-your-own-server-becomes-the-attacker-jgb",
+      "source": "dev.to",
+      "published": "2026-10-03T00:17:53+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "BNY and Kraken Parent Payward Eye Global Financial Infrastructure Partnership",
+      "url": "https://www.pymnts.com/partnerships/2026/bny-and-kraken-parent-payward-eye-global-financial-infrastructure-partnership/",
+      "source": "pymnts.com",
+      "published": "2026-10-02T23:42:09+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
     {
       "title": "Research Analysts’ Recent Ratings Changes for CarMax (KMX)",
       "url": "https://www.tickerreport.com/banking-finance/13607240/research-analysts-recent-ratings-changes-for-carmax-kmx.html",
@@ -101,26 +130,6 @@
       "published": "2026-10-02T21:12:34+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226049462/0001839882-26-049462-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T21:11:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Kennedy Center Honors are the Capital One Arena Honors this year",
-      "url": "https://www.avclub.com/kennedy-center-honors-new-venue-capital-one-arena",
-      "source": "avclub.com",
-      "published": "2026-10-02T21:10:28+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
