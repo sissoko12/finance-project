@@ -1,11 +1,94 @@
 {
-  "last_updated": "2026-10-02T20:53:17.574226+00:00",
+  "last_updated": "2026-10-03T00:20:08.021240+00:00",
   "headlines": [
     {
-      "title": "AP Entertainment SummaryBrief at 3:59 p.m. EDT",
-      "url": "https://www.newspressnow.com/news/national_news/business/ap-entertainment-summarybrief-at-3-59-p-m-edt/article_73a3c8c9-6f4d-5d39-80ca-806711801557.html",
+      "title": "Research Analysts’ Recent Ratings Changes for CarMax (KMX)",
+      "url": "https://www.tickerreport.com/banking-finance/13607240/research-analysts-recent-ratings-changes-for-carmax-kmx.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-02T22:56:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "What a McKinsey partner’s commentary on women CEOs reveals",
+      "url": "https://www.fastcompany.com/91617576/what-a-mckinsey-partners-commentary-on-women-ceos-reveals",
+      "source": "fastcompany.com",
+      "published": "2026-10-02T22:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley's Nike Analyst on quarterly earnings",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-02/morgan-stanley-s-nike-analyst-on-quarterly-earnings-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-02T21:55:08+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106556/0001213900-26-106556-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-02T21:27:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106554/0001213900-26-106554-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-02T21:26:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526412616/0001193125-26-412616-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-02T21:24:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106548/0001213900-26-106548-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-02T21:22:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030484/0001918704-26-030484-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-02T21:20:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030480/0001918704-26-030480-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-02T21:17:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "AP Entertainment SummaryBrief at 5:14 p.m. EDT",
+      "url": "https://www.newspressnow.com/news/national_news/business/ap-entertainment-summarybrief-at-5-14-p-m-edt/article_73a3c8c9-6f4d-5d39-80ca-806711801557.html",
       "source": "newspressnow.com",
-      "published": "2026-10-02T19:59:02+00:00",
+      "published": "2026-10-02T21:14:53+00:00",
       "tickers": [
         "C",
         "COF"
@@ -13,55 +96,28 @@
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030402/0001918704-26-030402-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030474/0001918704-26-030474-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-02T19:49:45+00:00",
+      "published": "2026-10-02T21:12:34+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049404/0001839882-26-049404-index.htm",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226049462/0001839882-26-049462-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-02T19:45:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Tesla Just Lined Up $30 Billion in Credit: What It Means for AI, Capex, and the Investment Case",
-      "url": "https://www.fool.com/investing/2026/10/02/tesla-just-lined-up-30-billion-in-credit-what-it-m/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-02T19:30:00+00:00",
+      "published": "2026-10-02T21:11:00+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030384/0001918704-26-030384-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T19:25:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049379/0001839882-26-049379-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-02T19:23:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kennedy Center Honors won’t be held at namesake venue amid bitter battle over adding Trump name",
-      "url": "https://nypost.com/2026/10/02/us-news/kennedy-center-honors-wont-be-held-at-namesake-venue-amid-bitter-battle-over-adding-trump-name/",
-      "source": "nypost.com",
-      "published": "2026-10-02T19:22:59+00:00",
+      "title": "The Kennedy Center Honors are the Capital One Arena Honors this year",
+      "url": "https://www.avclub.com/kennedy-center-honors-new-venue-capital-one-arena",
+      "source": "avclub.com",
+      "published": "2026-10-02T21:10:28+00:00",
       "tickers": [
         "C",
         "COF"
