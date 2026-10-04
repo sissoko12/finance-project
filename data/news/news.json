@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-03T22:04:45.112084+00:00",
+  "last_updated": "2026-10-04T01:55:53.978833+00:00",
   "headlines": [
+    {
+      "title": "Better Small-Cap ETF: State Street SPSM vs. JPMorgan BBSC",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/03/better-small-cap-etf-state-street-spsm-vs-jpmorgan-bbsc/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-03T21:08:24+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "9 insights from ‘Private Tech Trailblazers’: Vertical AI becomes the growth engine",
       "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
@@ -40,6 +49,24 @@
       ]
     },
     {
+      "title": "Analyst warns Nike's best quarter this year may be behind it",
+      "url": "https://www.thestreet.com/investing/nike-stock-morgan-stanley-downgrade-earnings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-03T16:26:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bitcoin ETFs Took In $6.3 Billion in Q3 and Are Up Only $1 Billion for 2026. Where Did the First Half’s Money Go?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/03/bitcoin-etfs-took-in-6-3-billion-in-q3-and-are-up-only-1-billion-for-2026-where-did-the-first-halfs-money-go/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-03T16:11:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Citi Analysts Highlight HDD Supply Shortage Despite Toshiba Expansion; Seagate (STX) Shares React",
       "url": "https://www.gurufocus.com/news/9108793/citi-analysts-highlight-hdd-supply-shortage-despite-toshiba-expansion-seagate-stx-shares-react",
       "source": "gurufocus.com",
@@ -56,6 +83,25 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Expects S&P 500 and Market Breadth Gap to Narrow",
+      "url": "https://investorshub.advfn.com/market-news/article/37354/morgan-stanley-expects-sp-500-and-market-breadth-gap-to-narrow?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-10-03T14:43:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America resets Micron stock forecast as AI ‘memory tax’ rises",
+      "url": "https://www.thestreet.com/investing/stocks/micron-stock-bofa-top-ai-pick-memory-forecast?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-03T14:07:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -230,51 +276,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-purchased-by-national-pension-service-2026-10-03/",
       "source": "marketbeat.com",
       "published": "2026-10-03T07:13:17+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Archford Capital Strategies LLC Decreases Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-archford-capital-strategies-llc-decreases-position-in-jpmorgan-chase-co-jpm-2026-10-03/",
-      "source": "marketbeat.com",
-      "published": "2026-10-03T07:12:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Position Raised by Integrated Wealth Concepts LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-raised-by-integrated-wealth-concepts-llc-2026-10-03/",
-      "source": "marketbeat.com",
-      "published": "2026-10-03T07:08:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Engineers Gate Manager LP Cuts Stock Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-engineers-gate-manager-lp-cuts-stock-position-in-jpmorgan-chase-co-jpm-2026-10-03/",
-      "source": "marketbeat.com",
-      "published": "2026-10-03T07:08:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Levi Strauss & Co. (NYSE:LEVI) Price Target to $22.00",
-      "url": "https://www.tickerreport.com/banking-finance/13607594/citigroup-cuts-levi-strauss-co-nyselevi-price-target-to-22-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-03T07:06:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stake Cut by BlueCrest Capital Management Ltd",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stake-cut-by-bluecrest-capital-management-ltd-2026-10-03/",
-      "source": "marketbeat.com",
-      "published": "2026-10-03T07:05:14+00:00",
       "tickers": [
         "JPM"
       ]
