@@ -1,299 +1,190 @@
 {
-  "last_updated": "2026-10-05T15:48:41.771878+00:00",
+  "last_updated": "2026-10-05T22:28:14.808686+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049567/0001839882-26-049567-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106899/0001213900-26-106899-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-05T15:20:11+00:00",
+      "published": "2026-10-05T21:30:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106898/0001213900-26-106898-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:29:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030616/0001918704-26-030616-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:23:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015222/0000950103-26-015222-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:15:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015220/0000950103-26-015220-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:13:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form SCHEDULE 13D/A [Amend] - General Statement of Acquisition of Beneficial Ownership",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000474/0000070858-26-000474-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:12:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226049644/0001839882-26-049644-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:10:58+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BAX Maintained by Citigroup -- Price Target Lowered to $27.00",
+      "url": "https://www.gurufocus.com/news/9110037/bax-maintained-by-citigroup-price-target-lowered-to-2700",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:03:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "STT Maintains Buy Rating by Citigroup -- Price Target Raised to $212",
+      "url": "https://www.gurufocus.com/news/9110036/stt-maintains-buy-rating-by-citigroup-price-target-raised-to-212",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:03:29+00:00",
+      "tickers": [
+        "C",
+        "STT"
+      ]
+    },
+    {
+      "title": "NTRS Maintains Neutral Rating -- Price Target Raised to $186.00 by Citigroup",
+      "url": "https://www.gurufocus.com/news/9110035/ntrs-maintains-neutral-rating-price-target-raised-to-18600-by-citigroup",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:03:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Maintained by Citigroup -- Price Target Lowered to $160",
+      "url": "https://www.gurufocus.com/news/9110034/bny-maintained-by-citigroup-price-target-lowered-to-160",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:02:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "FCX Maintained by Citigroup -- Price Target Raised to $84.00",
+      "url": "https://www.gurufocus.com/news/9110033/fcx-maintained-by-citigroup-price-target-raised-to-8400",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:02:06+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WY Maintained by Citigroup -- Price Target Lowered to $21.00",
+      "url": "https://www.gurufocus.com/news/9110032/wy-maintained-by-citigroup-price-target-lowered-to-2100",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:01:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "RYN Maintained by Citigroup -- Price Target Lowered to $19.00",
+      "url": "https://www.gurufocus.com/news/9110031/ryn-maintained-by-citigroup-price-target-lowered-to-1900",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:01:13+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "KYMR Maintained by Citigroup -- Price Target Raised to $150",
+      "url": "https://www.gurufocus.com/news/9110029/kymr-maintained-by-citigroup-price-target-raised-to-150",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T21:00:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Says Investors Are Overplaying AI and Underestimating Consumers",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-says-investors-are-overplaying-ai-underestimating-consumers/",
+      "source": "pymnts.com",
+      "published": "2026-10-05T21:00:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Upgrades Wells Fargo (WFC) to Overweight on Stronger Balance Sheet and Earnings ...",
+      "url": "https://www.gurufocus.com/news/9110021/morgan-stanley-upgrades-wells-fargo-wfc-to-overweight-on-stronger-balance-sheet-and-earnings-outlook",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T20:57:42+00:00",
+      "tickers": [
+        "WFC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Instacart (CART) Stock Is Trading Up Today",
+      "url": "https://stockstory.org/us/stocks/nasdaq/cart/news/why-up-down/why-instacart-cart-stock-is-trading-up-today",
+      "source": "stockstory.org",
+      "published": "2026-10-05T20:55:43+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX stock closes up 7.6% after Morgan Stanley called SPCX \"cheap\", reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)",
+      "url": "https://www.techmeme.com/261005/p32#a261005p32",
+      "source": "techmeme.com",
+      "published": "2026-10-05T20:45:01+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "EPC Maintained by Wells Fargo -- Price Target Lowered to $30",
-      "url": "https://www.gurufocus.com/news/9109627/epc-maintained-by-wells-fargo-price-target-lowered-to-30",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "POST Maintained by Wells Fargo -- Price Target Lowered to $79.00",
-      "url": "https://www.gurufocus.com/news/9109642/post-maintained-by-wells-fargo-price-target-lowered-to-7900",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MCD Maintained by Wells Fargo -- Price Target Lowered to $270",
-      "url": "https://www.gurufocus.com/news/9109634/mcd-maintained-by-wells-fargo-price-target-lowered-to-270",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CL Maintained by Wells Fargo -- Price Target Lowered to $90",
-      "url": "https://www.gurufocus.com/news/9109625/cl-maintained-by-wells-fargo-price-target-lowered-to-90",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CLX Maintains by Wells Fargo -- Price Target Lowered to $85",
-      "url": "https://www.gurufocus.com/news/9109630/clx-maintains-by-wells-fargo-price-target-lowered-to-85",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MGPI Maintained by Wells Fargo -- Price Target Lowered to $17.00",
-      "url": "https://www.gurufocus.com/news/9109635/mgpi-maintained-by-wells-fargo-price-target-lowered-to-1700",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SPB Maintained by Wells Fargo -- Price Target Lowered to $85",
-      "url": "https://www.gurufocus.com/news/9109629/spb-maintained-by-wells-fargo-price-target-lowered-to-85",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MDLZ Maintained by Wells Fargo -- Price Target Lowered to $65",
-      "url": "https://www.gurufocus.com/news/9109621/mdlz-maintained-by-wells-fargo-price-target-lowered-to-65",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CHD Maintained by Wells Fargo -- Price Target Lowered to $105",
-      "url": "https://www.gurufocus.com/news/9109623/chd-maintained-by-wells-fargo-price-target-lowered-to-105",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "HSY Maintains by Wells Fargo -- Price Target Lowered to $170",
-      "url": "https://www.gurufocus.com/news/9109622/hsy-maintains-by-wells-fargo-price-target-lowered-to-170",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "KMB Maintained by Wells Fargo -- Price Target Lowered to $100",
-      "url": "https://www.gurufocus.com/news/9109628/kmb-maintained-by-wells-fargo-price-target-lowered-to-100",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "FRPT Maintained by Wells Fargo -- Price Target Lowered to $77",
-      "url": "https://www.gurufocus.com/news/9109637/frpt-maintained-by-wells-fargo-price-target-lowered-to-77",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "COCO Maintains by Wells Fargo -- Price Target Lowered to $65",
-      "url": "https://www.gurufocus.com/news/9109616/coco-maintains-by-wells-fargo-price-target-lowered-to-65",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "KHC Maintained by Wells Fargo -- Price Target Lowered to $23",
-      "url": "https://www.gurufocus.com/news/9109617/khc-maintained-by-wells-fargo-price-target-lowered-to-23",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "EL Maintained by Wells Fargo -- Price Target Lowered to $95",
-      "url": "https://www.gurufocus.com/news/9109631/el-maintained-by-wells-fargo-price-target-lowered-to-95",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "LW Maintained by Wells Fargo -- Price Target Lowered to $54.00",
-      "url": "https://www.gurufocus.com/news/9109641/lw-maintained-by-wells-fargo-price-target-lowered-to-5400",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SMG Maintained by Wells Fargo -- Price Target Lowered to $60",
-      "url": "https://www.gurufocus.com/news/9109632/smg-maintained-by-wells-fargo-price-target-lowered-to-60",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX (SPCX) Stock Rises 4% After Morgan Stanley Maintains Overweight Rating",
-      "url": "https://www.gurufocus.com/news/9109655/spacex-spcx-stock-rises-4-after-morgan-stanley-maintains-overweight-rating",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VMC Maintains Underweight Rating by Wells Fargo -- Price Target Lowered to $249",
-      "url": "https://www.gurufocus.com/news/9109705/vmc-maintains-underweight-rating-by-wells-fargo-price-target-lowered-to-249",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "FICO Maintained by Wells Fargo -- Price Target Lowered to $800",
-      "url": "https://www.gurufocus.com/news/9109688/fico-maintained-by-wells-fargo-price-target-lowered-to-800",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CRH Maintained by Wells Fargo -- Price Target Lowered to $106",
-      "url": "https://www.gurufocus.com/news/9109698/crh-maintained-by-wells-fargo-price-target-lowered-to-106",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MLM Maintained by Wells Fargo -- Price Target Lowered to $579",
-      "url": "https://www.gurufocus.com/news/9109704/mlm-maintained-by-wells-fargo-price-target-lowered-to-579",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "EXP Maintained by Wells Fargo -- Price Target Lowered to $188",
-      "url": "https://www.gurufocus.com/news/9109700/exp-maintained-by-wells-fargo-price-target-lowered-to-188",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "AMRZ Maintained by Wells Fargo -- Price Target Lowered to $40.00",
-      "url": "https://www.gurufocus.com/news/9109694/amrz-maintained-by-wells-fargo-price-target-lowered-to-4000",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "RPM Maintained by Wells Fargo -- Price Target Lowered to $130",
-      "url": "https://www.gurufocus.com/news/9109690/rpm-maintained-by-wells-fargo-price-target-lowered-to-130",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "FRT Maintained by Wells Fargo -- Price Target Lowered to $126",
-      "url": "https://www.gurufocus.com/news/9109706/frt-maintained-by-wells-fargo-price-target-lowered-to-126",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:14:14+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "PEP Maintained by Wells Fargo -- Price Target Lowered to $135",
-      "url": "https://www.gurufocus.com/news/9109597/pep-maintained-by-wells-fargo-price-target-lowered-to-135",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:06:06+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MNST Maintained by Wells Fargo -- Price Target Lowered to $48",
-      "url": "https://www.gurufocus.com/news/9109594/mnst-maintained-by-wells-fargo-price-target-lowered-to-48",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:05:12+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "TAP Maintained by Wells Fargo -- Price Target Lowered to $38.00",
-      "url": "https://www.gurufocus.com/news/9109588/tap-maintained-by-wells-fargo-price-target-lowered-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T15:02:48+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000315/0000072971-26-000315-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T20:37:10+00:00",
       "tickers": [
         "WFC",
         "C"
