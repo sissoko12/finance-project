@@ -1,12 +1,95 @@
 {
-  "last_updated": "2026-10-04T21:50:30.509261+00:00",
+  "last_updated": "2026-10-05T00:40:03.161894+00:00",
   "headlines": [
+    {
+      "title": "Minnesota Vikings tight end T.J. Hockenson runs the ball past Miami Dolphins inside linebacker Jordyn Brooks in the second quarter Sunday, Oct. 4, 2026 at U.S. Bank Stadium in Minneapolis.",
+      "url": "https://thebrunswicknews.com/news/national_news/minnesota-vikings-tight-end-t-j-hockenson-runs-the-ball-past-miami-dolphins-inside-linebacker/image_9b3cb22e-0cff-5f29-9e0a-c58d32ff61a3.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-10-04T23:36:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "U.S. Bank Stadium set to host large marching band competition",
+      "url": "https://www.fox9.com/video/fmc-zkqh3xirducubs2r",
+      "source": "fox9.com",
+      "published": "2026-10-04T22:59:47+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Has One of Banking’s Best Moats. Here’s What the Stock is Worth",
+      "url": "https://www.insidermonkey.com/news/jpmorgan-chase-has-one-of-bankings-best-moats-heres-what-the-stock-is-worth-1848452/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-04T22:58:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Marriott Vacations Worldwide (VAC) Stock Sees Modest Fair Value Lift After Analyst Target Split",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-vacations-worldwide-vac-stock-210842061.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-04T21:08:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Daqo New Energy (DQ) Stock Sees Fair Value Cut After Split Analyst Calls",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/daqo-energy-dq-stock-sees-210731785.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-04T21:07:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What is Morgan Stanley’s (MS) Economic Moat, and is it Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-morgan-stanleys-ms-economic-moat-and-is-it-widening-or-narrowing-1848242/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-04T21:06:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Jim Cramer on Goldman Sachs (GS): “It’s Come Down Greatly”",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-goldman-sachs-gs-210220503.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-04T21:02:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "What is Wells Fargo’s (WFC) Economic Moat, and is it Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-wells-fargos-wfc-economic-moat-and-is-it-widening-or-narrowing-1848234/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-04T20:37:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Moderna (MRNA) Shares Surge on Cancer Vaccine Optimism Despite Citigroup Downgrade",
       "url": "https://www.gurufocus.com/news/9108898/moderna-mrna-shares-surge-on-cancer-vaccine-optimism-despite-citigroup-downgrade",
       "source": "gurufocus.com",
       "published": "2026-10-04T18:55:40+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Walmart's CEO tells BofA where his retail chain is headed next",
+      "url": "https://www.thestreet.com/retail/walmarts-ceo-tells-bofa-where-his-retail-chain-is-headed-next?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-04T17:17:00+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -29,6 +112,16 @@
       "tickers": [
         "JPM",
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Coinbase Stock Got a $200 Target From Wells Fargo. Here’s How Its CFO’s Cost Pledge Changes the Math",
+      "url": "https://www.tikr.com/blog/coinbase-stock-got-a-200-target-from-wells-fargo-heres-how-its-cfos-cost-pledge-changes-the-math?ref=yahoofinance&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-04T15:41:57+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -67,6 +160,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Who’s Rich, Anyway? - The answer usually depends on your circumstances more than your ...",
+      "url": "https://finance.yahoo.com/m/d8ba4203-739f-3843-bd0e-711200763427/who%E2%80%99s-rich%2C-anyway%3F.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-04T13:50:00+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -178,108 +280,6 @@
       "tickers": [
         "C",
         "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts Valley National Bancorp (NASDAQ:VLY) Price Target to $15.50",
-      "url": "https://www.tickerreport.com/banking-finance/13608173/jpmorgan-chase-co-cuts-valley-national-bancorp-nasdaqvly-price-target-to-15-50.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-04T06:12:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Kura Oncology (NASDAQ:KURA) Research Coverage Started at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13608168/kura-oncology-nasdaqkura-research-coverage-started-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-04T05:54:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts TWFG (NASDAQ:TWFG) Price Target to $26.00",
-      "url": "https://www.tickerreport.com/banking-finance/13608167/jpmorgan-chase-co-cuts-twfg-nasdaqtwfg-price-target-to-26-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-04T05:54:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Better State Street Healthcare ETF: XBI's Biotech Focus vs. XPH Targeting Pharmaceuticals",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/04/better-state-street-healthcare-etf-xbi-s-biotech-focus-vs-xph-targeting-pharmaceuticals/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-04T04:50:57+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Best way to simplify my finances?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1wx6zxz/best_way_to_simplify_my_finances/",
-      "source": "reddit.com",
-      "published": "2026-10-04T04:50:02+00:00",
-      "tickers": [
-        "WFC",
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citi explains why home improvement stocks are lagging in 2026",
-      "url": "https://www.investing.com/news/stock-market-news/citi-explains-why-home-improvement-stocks-are-lagging-in-2026-4930904",
-      "source": "investing.com",
-      "published": "2026-10-04T04:37:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts Upside in 5 Stocks",
-      "url": "https://beincrypto.com/goldman-sachs-five-stocks-earnings/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-10-04T04:09:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage?",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-turn-citi-stablecoin-020924540.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-04T02:09:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "American Airlines (AAL) Stock Fair Value Edges Lower As Analysts Reassess Fuel Costs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-stock-fair-010913993.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-04T01:09:13+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-still-004250845.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-04T00:42:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "214-year-old bank sees 50% upside in beaten-down stock",
-      "url": "https://www.thestreet.com/crypto/markets/214-year-old-bank-sees-50-upside-in-beaten-down-stock?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-10-03T22:15:08+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
