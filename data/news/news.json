@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-10-05T22:28:14.808686+00:00",
+  "last_updated": "2026-10-06T02:27:47.046000+00:00",
   "headlines": [
+    {
+      "title": "Google, JPMorgan and two governments fixed the same MCP flaw",
+      "url": "https://thenextweb.com/news/mcp-flaw-ssrf-google-jpmorgan-dinum-protocol-pivoting",
+      "source": "thenextweb.com",
+      "published": "2026-10-06T00:00:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NVIDIA (NVDA) Hits Record High as Morgan Stanley Maintains Buy Rating",
+      "url": "https://www.gurufocus.com/news/9110374/nvidia-nvda-hits-record-high-as-morgan-stanley-maintains-buy-rating",
+      "source": "gurufocus.com",
+      "published": "2026-10-05T23:23:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wall Street banks said to issue record $60B AI chip deal",
+      "url": "https://awesomecapital.blogspot.com/2026/10/wall-street-banks-said-to-issue-record.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-10-05T23:15:51+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Forget JEPQ: Goldman’s Nasdaq Income Fund Raised Its October Payout While JPMorgan Cut Its Own",
+      "url": "https://247wallst.com/investing/etf/2026/10/05/forget-jepq-goldmans-nasdaq-income-fund-raised-its-october-payout-while-jpmorgan-cut-its-own/",
+      "source": "247wallst.com",
+      "published": "2026-10-05T23:03:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "How is Sallie Mae as a bank? Specifically their money market accounts.",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wymy59/how_is_sallie_mae_as_a_bank_specifically_their/",
+      "source": "reddit.com",
+      "published": "2026-10-05T22:59:32+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs and Morgan Stanley dissect the AI debt binge as the credit party cools",
+      "url": "https://cryptobriefing.com/goldman-morgan-stanley-ai-debt-binge/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-05T22:06:43+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026106899/0001213900-26-106899-index.htm",
@@ -20,6 +78,15 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526414494/0001193125-26-414494-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:29:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030616/0001918704-26-030616-index.htm",
       "source": "sec.gov",
@@ -27,6 +94,16 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "PNC FINANCIAL SERVICES GROUP, INC.: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026065067/0001628280-26-065067-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-05T21:18:54+00:00",
+      "tickers": [
+        "C",
+        "PNC"
       ]
     },
     {
@@ -147,46 +224,6 @@
       "published": "2026-10-05T21:00:27+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Upgrades Wells Fargo (WFC) to Overweight on Stronger Balance Sheet and Earnings ...",
-      "url": "https://www.gurufocus.com/news/9110021/morgan-stanley-upgrades-wells-fargo-wfc-to-overweight-on-stronger-balance-sheet-and-earnings-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-10-05T20:57:42+00:00",
-      "tickers": [
-        "WFC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Why Instacart (CART) Stock Is Trading Up Today",
-      "url": "https://stockstory.org/us/stocks/nasdaq/cart/news/why-up-down/why-instacart-cart-stock-is-trading-up-today",
-      "source": "stockstory.org",
-      "published": "2026-10-05T20:55:43+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX stock closes up 7.6% after Morgan Stanley called SPCX \"cheap\", reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)",
-      "url": "https://www.techmeme.com/261005/p32#a261005p32",
-      "source": "techmeme.com",
-      "published": "2026-10-05T20:45:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000315/0000072971-26-000315-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-05T20:37:10+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
