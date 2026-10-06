@@ -1,271 +1,126 @@
 {
-  "last_updated": "2026-10-06T16:11:33.448054+00:00",
+  "last_updated": "2026-10-06T21:09:31.479860+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107067/0001213900-26-107067-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049844/0001839882-26-049844-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-06T15:35:48+00:00",
+      "published": "2026-10-06T20:40:16+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "AMD hits new highs, boosted by Citi optimism",
-      "url": "https://www.marketscreener.com/news/amd-hits-new-highs-boosted-by-citi-optimism-ce785dd9db81ff27",
-      "source": "marketscreener.com",
-      "published": "2026-10-06T15:32:07+00:00",
+      "title": "Blue Bird Secures $600 Million Credit Facility Led By BMO And Bank Of America",
+      "url": "https://pulse2.com/blue-bird-secures-600-million-credit-facility-led-by-bmo-and-bank-of-america/",
+      "source": "pulse2.com",
+      "published": "2026-10-06T20:38:34+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase: Expect Q3 Earnings To Reinforce Buy Thesis | $JPM",
-      "url": "https://seekingalpha.com/article/4952259-jpmorgan-chase-expect-q3-earnings-to-reinforce-buy-thesis",
-      "source": "seekingalpha.com",
-      "published": "2026-10-06T15:30:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FOOTBALL-NFL-MIN-MIA/ - Minnesota Vikings kicker Will Reichard makes a field goal during ...",
-      "url": "https://greensboro.com/sports/professional/nfl/image_738065ba-a574-50b0-b303-de70ee3c6b4f.html",
-      "source": "greensboro.com",
-      "published": "2026-10-06T15:28:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase CEO Warns of AI Cybersecurity Risks as JPM Retains Top AI Bank Ranking (JPM)",
-      "url": "https://www.gurufocus.com/news/9111608/jpmorgan-chase-ceo-warns-of-ai-cybersecurity-risks-as-jpm-retains-top-ai-bank-ranking-jpm",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:21:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One: The Discover Deal Could Reprice The Stock | $COF",
-      "url": "https://seekingalpha.com/article/4952253-capital-one-the-discover-deal-could-reprice-the-stock",
-      "source": "seekingalpha.com",
-      "published": "2026-10-06T15:17:13+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMorganChase still tops AI ranking as big-bank lead widens",
-      "url": "https://www.americanbanker.com/news/jpmorganchase-still-tops-ai-ranking-as-big-bank-lead-widens",
-      "source": "americanbanker.com",
-      "published": "2026-10-06T15:14:18+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Banco De Chile (NYSE:BCH) Given New $44.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-banco-de-chile-nyse-bch-given-new-4400-price-target-at-jpmorgan-chase-co-2026-10-06/",
-      "source": "marketbeat.com",
-      "published": "2026-10-06T15:06:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Banco Santander Chile (NYSE:BSAC) Stock Price Target Lowered at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-banco-santander-chile-nyse-bsac-stock-price-target-lowered-at-jpmorgan-chase-co-2026-10-06/",
-      "source": "marketbeat.com",
-      "published": "2026-10-06T15:06:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "META Maintained by Wells Fargo -- Price Target Raised to $1000",
-      "url": "https://www.gurufocus.com/news/9111551/meta-maintained-by-wells-fargo-price-target-raised-to-1000",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:05:08+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOOGL Maintained by Wells Fargo -- Price Target Raised to $417",
-      "url": "https://www.gurufocus.com/news/9111549/googl-maintained-by-wells-fargo-price-target-raised-to-417",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:04:40+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "TX Maintains by Wells Fargo -- Price Target Raised to $56.00",
-      "url": "https://www.gurufocus.com/news/9111547/tx-maintains-by-wells-fargo-price-target-raised-to-5600",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:04:13+00:00",
-      "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030662/0001918704-26-030662-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030779/0001918704-26-030779-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-06T15:04:08+00:00",
+      "published": "2026-10-06T20:35:36+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CMC Maintained by Wells Fargo -- Price Target Lowered to $68.00",
-      "url": "https://www.gurufocus.com/news/9111545/cmc-maintained-by-wells-fargo-price-target-lowered-to-6800",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:03:44+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030778/0001918704-26-030778-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T20:34:38+00:00",
       "tickers": [
-        "WFC",
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank OZK (OZK) Shares Slip 2.48% Amid Citi Concerns Over RaDD Loan Extension",
+      "url": "https://www.gurufocus.com/news/9111955/bank-ozk-ozk-shares-slip-248-amid-citi-concerns-over-radd-loan-extension",
+      "source": "gurufocus.com",
+      "published": "2026-10-06T20:33:54+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "MT Maintained by Wells Fargo -- Price Target Lowered to $64.00",
-      "url": "https://www.gurufocus.com/news/9111544/mt-maintained-by-wells-fargo-price-target-lowered-to-6400",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:03:19+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group (NYSE:GS) Stock Purchase Disclosed by Rep. Michael A. Rulli",
-      "url": "https://www.tickerreport.com/banking-finance/13609904/the-goldman-sachs-group-nysegs-stock-purchase-disclosed-by-rep-michael-a-rulli.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-06T15:02:51+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526415643/0001193125-26-415643-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T20:33:43+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank of America Suspends Rating on RXO Inc. (RXO) Following C.H. Robinson Acquisition Announcement",
-      "url": "https://www.gurufocus.com/news/9111542/bank-of-america-suspends-rating-on-rxo-inc-rxo-following-ch-robinson-acquisition-announcement",
+      "title": "AN Maintained by JP Morgan -- Price Target Lowered to $185",
+      "url": "https://www.gurufocus.com/news/9111952/an-maintained-by-jp-morgan-price-target-lowered-to-185",
       "source": "gurufocus.com",
-      "published": "2026-10-06T15:02:48+00:00",
+      "published": "2026-10-06T20:31:36+00:00",
       "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BBD Upgraded by JP Morgan -- Rating Raised to Overweight",
+      "url": "https://www.gurufocus.com/news/9111950/bbd-upgraded-by-jp-morgan-rating-raised-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-10-06T20:30:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015284/0000950103-26-015284-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T20:30:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 (Meir Orbach/CTech)",
+      "url": "https://www.techmeme.com/261006/p37#a261006p37",
+      "source": "techmeme.com",
+      "published": "2026-10-06T20:25:01+00:00",
+      "tickers": [
+        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "SCCO Maintained by Wells Fargo -- Price Target Raised to $190",
-      "url": "https://www.gurufocus.com/news/9111541/scco-maintained-by-wells-fargo-price-target-raised-to-190",
+      "title": "Wells Fargo Mobile App Can Personalize Debit Card With Photo",
+      "url": "https://www.pymnts.com/mobile/2026/wells-fargo-mobile-app-can-personalize-debit-card-with-photo/",
+      "source": "pymnts.com",
+      "published": "2026-10-06T20:18:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Resets AMD Stock Price Target For 2026",
+      "url": "https://www.gurufocus.com/news/9111415/citi-resets-amd-stock-price-target-for-2026",
       "source": "gurufocus.com",
-      "published": "2026-10-06T15:02:46+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi, Standard Chartered and Bernstein All Cut Their Bitcoin Targets in 2026. Citi Sees $113,000, Standard Chartered $100,000 and Bernstein $125,000.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/06/citi-standard-chartered-and-bernstein-all-cut-their-bitcoin-targets-in-2026-citi-sees-113000-standard-chartered-100000-and-bernstein-125000/",
-      "source": "247wallst.com",
-      "published": "2026-10-06T15:02:00+00:00",
+      "published": "2026-10-06T20:16:13+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "FCX Maintained by Wells Fargo -- Price Target Raised to $87.00",
-      "url": "https://www.gurufocus.com/news/9111534/fcx-maintained-by-wells-fargo-price-target-raised-to-8700",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:01:51+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049837/0001839882-26-049837-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T20:06:04+00:00",
       "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "HUN Maintained by Wells Fargo -- Price Target Lowered to $9.00",
-      "url": "https://www.gurufocus.com/news/9111531/hun-maintained-by-wells-fargo-price-target-lowered-to-900",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:01:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "WERN Maintained by Wells Fargo -- Price Target Lowered to $37",
-      "url": "https://www.gurufocus.com/news/9111528/wern-maintained-by-wells-fargo-price-target-lowered-to-37",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:00:57+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Regeneron Pharmaceuticals (NASDAQ:REGN) Given New $950.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-regeneron-pharmaceuticals-nasdaq-regn-given-new-95000-price-target-at-jpmorgan-chase-co-2026-10-06/",
-      "source": "marketbeat.com",
-      "published": "2026-10-06T15:00:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Shopify (NASDAQ:SHOP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-shopify-nasdaq-shop-stock-price-2026-10-06/",
-      "source": "marketbeat.com",
-      "published": "2026-10-06T15:00:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BlackRock (NYSE:BLK) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-blackrock-nyse-blk-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-10-06/",
-      "source": "marketbeat.com",
-      "published": "2026-10-06T15:00:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Price Target Cut to $72.00 by Analysts at Raymond James Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-us-bancorp-nyse-usb-price-target-cut-to-7200-by-analysts-at-raymond-james-financial-2026-10-06/",
-      "source": "marketbeat.com",
-      "published": "2026-10-06T15:00:34+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "SNDR Maintained by Wells Fargo -- Price Target Lowered to $35.00",
-      "url": "https://www.gurufocus.com/news/9111525/sndr-maintained-by-wells-fargo-price-target-lowered-to-3500",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T15:00:30+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Preparing for health emergencies: Your financial readiness",
-      "url": "https://www.purdueexponent.org/lifestyles/health/preparing-for-health-emergencies-your-financial-readiness/article_80ae3433-e1bd-5872-8257-600ecbbf83c4.html",
-      "source": "purdueexponent.org",
-      "published": "2026-10-06T15:00:04+00:00",
-      "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     }
   ]
