@@ -1,279 +1,252 @@
 {
-  "last_updated": "2026-10-07T14:41:22.002168+00:00",
+  "last_updated": "2026-10-07T20:31:30.800826+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030808/0001918704-26-030808-index.htm",
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000172727726000020/0001727277-26-000020-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-07T13:32:04+00:00",
+      "published": "2026-10-07T20:09:09+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "Founders AM: GSTrader on Materials",
-      "url": "https://vblgoldfix.substack.com/p/founders-am-gstrader-on-materials",
-      "source": "substack.com",
-      "published": "2026-10-07T13:30:10+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526416955/0001193125-26-416955-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-07T20:02:45+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Sector Update: Financial Stocks Decline Pre-Bell Wednesday",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-pre-132422984.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-07T13:24:22+00:00",
+      "title": "International Flavors & Fragrances (NYSE:IFF) Price Target Cut to $100.00 by Analysts at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13611497/international-flavors-fragrances-nyseiff-price-target-cut-to-100-00-by-analysts-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-07T20:01:05+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030802/0001918704-26-030802-index.htm",
+      "title": "Citigroup Has Lowered Expectations for United Parcel Service (NYSE:UPS) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13611480/citigroup-has-lowered-expectations-for-united-parcel-service-nyseups-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-07T19:54:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Knight-Swift Transportation (NYSE:KNX) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13611481/citigroup-has-lowered-expectations-for-knight-swift-transportation-nyseknx-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-07T19:54:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526416942/0001193125-26-416942-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-07T13:18:33+00:00",
+      "published": "2026-10-07T19:44:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for FedEx (NYSE:FDX) Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13611468/citigroup-forecasts-strong-price-appreciation-for-fedex-nysefdx-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-07T19:36:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi's Talent Fight with PE, Boots Deal, LIV's Lifeline",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-07/bloomberg-deals-10-7-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-07T19:32:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049995/0001839882-26-049995-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-07T19:30:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo reportedly in talks with Kraken parent Payward over crypto trading liquidity",
+      "url": "https://cryptobriefing.com/wells-fargo-payward-kraken-crypto-liquidity-talks/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-07T19:09:18+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049990/0001839882-26-049990-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-07T19:08:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TFI International (NYSE:TFII) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-tfi-international-nyse-tfii-stock-price-target-cut-by-citigroup-2026-10-07/",
+      "source": "marketbeat.com",
+      "published": "2026-10-07T19:06:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Canadian Pacific Kansas City (NYSE:CP) Price Target Cut to $102.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-canadian-pacific-kansas-city-nyse-cp-price-target-cut-to-10200-by-analysts-at-citigroup-2026-10-07/",
+      "source": "marketbeat.com",
+      "published": "2026-10-07T19:06:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Canadian National Railway (NYSE:CNI) Price Target to $143.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-cuts-canadian-national-railway-nyse-cni-price-target-to-14300-2026-10-07/",
+      "source": "marketbeat.com",
+      "published": "2026-10-07T19:06:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PE Isn’t Slowing its Poaching of Bankers: Friedland",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-07/pe-isn-t-slowing-its-poaching-of-bankers-friedland-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-07T19:05:15+00:00",
       "tickers": [
         "C"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015299/0000950103-26-015299-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030892/0001918704-26-030892-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-07T13:17:27+00:00",
+      "published": "2026-10-07T19:02:01+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107438/0001213900-26-107438-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-07T13:12:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Why Does XRP Follow Bitcoin? Understanding the Correlation",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/07/why-does-xrp-follow-bitcoin-understanding-the-correlation/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-07T13:00:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Banks Got Punished for Missing Money Laundering. Now They Get Punished for Catching It",
-      "url": "https://247wallst.com/investing/2026/10/07/banks-got-punished-for-missing-money-laundering-now-they-get-punished-for-catching-it/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-07T13:00:05+00:00",
-      "tickers": [
-        "JPM",
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "J.P. Morgan expands Retirement Link with in-plan income access after a survey found 91% participant interest",
-      "url": "https://marketchameleon.com/Blogpost/2026/10/07/jpm-retirement-link-in-plan-income-empower-2026",
-      "source": "marketchameleon.com",
-      "published": "2026-10-07T12:41:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs client data exposed in EY hack earlier this year",
-      "url": "https://qz.com/goldman-sachs-ey-data-breach-100726",
-      "source": "qz.com",
-      "published": "2026-10-07T12:41:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs client data exposed in EY data breach",
-      "url": "https://qz.com/goldman-sachs-ey-data-breach-100726?.tsrc=rss",
-      "source": "qz.com",
-      "published": "2026-10-07T12:41:16+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Ambev (NYSE:ABEV) Stock Keeps \"Underperform\" Rating at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ambev-nyse-abev-earns-underperform-rating-from-bank-of-america-2026-10-07/",
+      "title": "Option Care Health's (OPCH) Neutral Rating Reaffirmed at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-option-care-healths-opch-neutral-rating-reaffirmed-at-jpmorgan-chase-co-2026-10-07/",
       "source": "marketbeat.com",
-      "published": "2026-10-07T12:36:44+00:00",
+      "published": "2026-10-07T19:00:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030890/0001918704-26-030890-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-07T18:57:30+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "NetDiligence Announces 2026 Toby Merrill Award Recipients",
-      "url": "https://www.prnewswire.com/news-releases/netdiligence-announces-2026-toby-merrill-award-recipients-302900536.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-07T12:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BrightView (NYSE:BV) Upgraded to Hold at Zacks Research",
-      "url": "https://www.tickerreport.com/banking-finance/13610832/brightview-nysebv-upgraded-to-hold-at-zacks-research.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-07T12:32:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "America’s Trade Deficit Just Hit $105.6 Billion, the Widest Since Before the Tariffs",
-      "url": "https://247wallst.com/investing/2026/10/07/americas-trade-deficit-just-hit-105-6-billion-the-widest-since-before-the-tariffs/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-07T12:30:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "iShares U.S. Financials ETF vs State Street SPDR Bank ETF: Which Is the Better Buy?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/07/ishares-u-s-financials-etf-vs-state-street-spdr-bank-etf-which-is-the-better-buy/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-07T12:30:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Goldman Sachs: Selloff Makes Stock A Value Play | $GS",
-      "url": "https://seekingalpha.com/article/4952439-goldman-sachs-selloff-makes-stock-a-value-play",
+      "title": "Nexa Resources raised at Morgan Stanley on compelling valuation, Boliden tender offer",
+      "url": "https://seekingalpha.com/news/4651120-nexa-resources-raised-at-morgan-stanley-on-compelling-valuation-boliden-tender-offer",
       "source": "seekingalpha.com",
-      "published": "2026-10-07T12:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "HM Treasury Appoints Barclays, HSBC, Lloyds, Morgan Stanley, Others for Digital Gilt Instrument Pilot (DIGIT)",
-      "url": "https://www.crowdfundinsider.com/2026/10/316304-hm-treasury-appoints-barclays-hsbc-lloyds-morgan-stanley-others-for-digital-gilt-instrument-pilot-digit/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-10-07T12:29:49+00:00",
+      "published": "2026-10-07T18:53:53+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Afya (NASDAQ:AFYA) Stock Rating Upgraded by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-afya-nasdaq-afya-stock-rating-upgraded-by-jpmorgan-chase-co-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T12:12:42+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030888/0001918704-26-030888-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-07T18:49:22+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Savara (NASDAQ:SVRA) Coverage Initiated by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-savara-nasdaq-svra-coverage-initiated-by-analysts-at-jpmorgan-chase-co-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T12:12:39+00:00",
+      "title": "J.P. Morgan Retirement Expert Warns the 4% Rule May Leave Savers With Too Much Money",
+      "url": "https://www.ibtimes.co.uk/4-percent-retirement-rule-underspending-risk-1824261",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-07T18:47:43+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley Cuts Moody’s (NYSE:MCO) Price Target to $470.00",
-      "url": "https://www.tickerreport.com/banking-finance/13610773/morgan-stanley-cuts-moodys-nysemco-price-target-to-470-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-07T12:07:10+00:00",
+      "title": "Announced Activity In Market Is Slower: Friedland",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-07/announced-activity-in-market-is-slower-friedland-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-07T18:43:08+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Moody's (NYSE:MCO) Given New $470.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-moodys-nyse-mco-given-new-47000-price-target-at-morgan-stanley-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T12:06:46+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226049987/0001839882-26-049987-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-07T18:41:11+00:00",
       "tickers": [
-        "MS"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "Morgan Stanley Has Lowered Expectations for S&P Global (NYSE:SPGI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-has-lowered-expectations-for-sp-global-nyse-spgi-stock-price-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T12:06:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for Zscaler (NASDAQ:ZS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-zscaler-nasdaq-zs-stock-price-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T12:06:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PNC's new regional president says new Charlotte branches are beating deposit expectations",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/10/07/pnc-bank-western-carolinas-bobby-chesney-branches.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-07T12:02:24+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Akebia Therapeutics to Conduct Investor Meetings at the Virtual U.S. Bancorp I BTIG Kidney Health Forum",
-      "url": "https://finance.yahoo.com/healthcare/articles/akebia-therapeutics-conduct-investor-meetings-120000560.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-07T12:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "ASML could signal stronger-than-expected 2027 outlook, JP Morgan says",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099725/asml-could-signal-stronger-than-expected-2027-outlook-jp-morgan-says-1099725.html?.tsrc=rss",
-      "source": "proactiveinvestors.com",
-      "published": "2026-10-07T12:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi Raises TSMC (TSM) Price Target Amid Optimism on Q3 Results",
-      "url": "https://www.gurufocus.com/news/9112955/citi-raises-tsmc-tsm-price-target-amid-optimism-on-q3-results",
+      "title": "Meta Stocks Fall 2.11% Despite Wells Fargo's $1,000 AI Target",
+      "url": "https://www.gurufocus.com/news/9113504/meta-stocks-fall-211-despite-wells-fargos-1000-ai-target",
       "source": "gurufocus.com",
-      "published": "2026-10-07T11:51:59+00:00",
+      "published": "2026-10-07T18:40:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi stays constructive on AI, calling the cycle early-to-middle stage",
+      "url": "https://seekingalpha.com/news/4651119-citi-stays-constructive-on-ai-calling-the-cycle-early-to-middle-stage",
+      "source": "seekingalpha.com",
+      "published": "2026-10-07T18:36:02+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Uptown office rents were already soaring. Then Morgan Stanley announced new hub.",
-      "url": "https://www.bizjournals.com/dallas/news/2026/10/07/morgan-stanley-decision-impact-uptown-office-rents.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-07T11:40:59+00:00",
+      "title": "IE Maintained by JP Morgan -- Price Target Lowered to $15.00",
+      "url": "https://www.gurufocus.com/news/9113833/ie-maintained-by-jp-morgan-price-target-lowered-to-1500",
+      "source": "gurufocus.com",
+      "published": "2026-10-07T18:32:12+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Ethereum Price Targets: From Citi’s $3,028 to VanEck’s $6,000. Currently, ETH Is at $2,617. Which Target Makes Sense?",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/07/ethereum-price-targets-from-citis-3028-to-vanecks-6000-currently-eth-is-at-2617-which-target-makes-sense/",
-      "source": "247wallst.com",
-      "published": "2026-10-07T11:38:38+00:00",
+      "title": "AA Maintained by JP Morgan -- Price Target Lowered to $50.00",
+      "url": "https://www.gurufocus.com/news/9113832/aa-maintained-by-jp-morgan-price-target-lowered-to-5000",
+      "source": "gurufocus.com",
+      "published": "2026-10-07T18:31:41+00:00",
       "tickers": [
-        "C"
+        "JPM"
       ]
     }
   ]
