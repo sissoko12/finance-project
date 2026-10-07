@@ -1,30 +1,58 @@
 {
-  "last_updated": "2026-10-06T21:09:31.479860+00:00",
+  "last_updated": "2026-10-07T00:57:25.885380+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049844/0001839882-26-049844-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-06T20:40:16+00:00",
+      "title": "JPMorgan Chase & Co. $JPM Stock Position Raised by Congress Asset Management Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-raised-by-congress-asset-management-co-2026-10-06/",
+      "source": "marketbeat.com",
+      "published": "2026-10-06T23:04:55+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Blue Bird Secures $600 Million Credit Facility Led By BMO And Bank Of America",
-      "url": "https://pulse2.com/blue-bird-secures-600-million-credit-facility-led-by-bmo-and-bank-of-america/",
-      "source": "pulse2.com",
-      "published": "2026-10-06T20:38:34+00:00",
+      "title": "The Goldman Sachs Group, Inc. $GS Position Cut by Congress Asset Management Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-position-cut-by-congress-asset-management-co-2026-10-06/",
+      "source": "marketbeat.com",
+      "published": "2026-10-06T23:04:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Auto Dealers Pull Banking Into Their Operating Software",
+      "url": "https://www.pymnts.com/transportation/2026/auto-dealers-pull-banking-into-their-operating-software/",
+      "source": "pymnts.com",
+      "published": "2026-10-06T23:02:12+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030779/0001918704-26-030779-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-06T20:35:36+00:00",
+      "title": "LPL Recruits $1.1B Praxis Team From Wells Fargo’s Independent Channel",
+      "url": "https://altswire.com/lpl-recruits-1-1b-praxis-team-from-wells-fargos-independent-channel/",
+      "source": "altswire.com",
+      "published": "2026-10-06T22:01:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Securities LLC Investment Attorney",
+      "url": "https://www.securitieslawyersblog.com/j-p-morgan-securities-llc-investment-attorney/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-10-06T21:30:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Merrill Lynch, Pierce, Fenner & Smith Incorporated Investor Attorney",
+      "url": "https://www.securitieslawyersblog.com/merrill-lynch-pierce-fenner-smith-incorporated-investor-attorney/",
+      "source": "securitieslawyersblog.com",
+      "published": "2026-10-06T21:29:58+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -32,95 +60,122 @@
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030778/0001918704-26-030778-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107306/0001213900-26-107306-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-06T20:34:38+00:00",
+      "published": "2026-10-06T21:25:49+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Bank OZK (OZK) Shares Slip 2.48% Amid Citi Concerns Over RaDD Loan Extension",
-      "url": "https://www.gurufocus.com/news/9111955/bank-ozk-ozk-shares-slip-248-amid-citi-concerns-over-radd-loan-extension",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T20:33:54+00:00",
+      "title": "Is A Tech Bubble Brewing? BofA Analysts Think So; Advises To Buy QQQ Options As A Hedge",
+      "url": "https://stocktwits.com/news-articles/markets/equity/is-a-tech-bubble-brewing-bof-a-analysts-think-so-advises-to-buy-qqq-options-as-a-hedge/cZDt0zGRBl1?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-10-06T21:21:30+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526415643/0001193125-26-415643-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-06T20:33:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "AN Maintained by JP Morgan -- Price Target Lowered to $185",
-      "url": "https://www.gurufocus.com/news/9111952/an-maintained-by-jp-morgan-price-target-lowered-to-185",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T20:31:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BBD Upgraded by JP Morgan -- Rating Raised to Overweight",
-      "url": "https://www.gurufocus.com/news/9111950/bbd-upgraded-by-jp-morgan-rating-raised-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T20:30:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015284/0000950103-26-015284-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-06T20:30:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 (Meir Orbach/CTech)",
-      "url": "https://www.techmeme.com/261006/p37#a261006p37",
-      "source": "techmeme.com",
-      "published": "2026-10-06T20:25:01+00:00",
-      "tickers": [
-        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Wells Fargo Mobile App Can Personalize Debit Card With Photo",
-      "url": "https://www.pymnts.com/mobile/2026/wells-fargo-mobile-app-can-personalize-debit-card-with-photo/",
-      "source": "pymnts.com",
-      "published": "2026-10-06T20:18:57+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049850/0001839882-26-049850-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T21:20:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526415805/0001193125-26-415805-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T21:15:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226049849/0001839882-26-049849-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T21:15:44+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Citi Resets AMD Stock Price Target For 2026",
-      "url": "https://www.gurufocus.com/news/9111415/citi-resets-amd-stock-price-target-for-2026",
-      "source": "gurufocus.com",
-      "published": "2026-10-06T20:16:13+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049848/0001839882-26-049848-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T21:15:00+00:00",
       "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Better Dividend Stock: U.S. Bancorp vs. Truist",
+      "url": "https://www.tikr.com/blog/better-dividend-stock-u-s-bancorp-vs-truist?ref=yahoofinance&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-06T21:14:51+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426030790/0001918704-26-030790-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T21:13:28+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226049837/0001839882-26-049837-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-06T20:06:04+00:00",
+      "title": "Goldman Sachs Ensnared in EY Data Breach Earlier This Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/goldman-sachs-ensnared-in-ey-data-breach-earlier-this-year",
+      "source": "bloomberg.com",
+      "published": "2026-10-06T21:05:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "UK names six banks to lead first digital gilt issuance in early 2027",
+      "url": "https://crypto.news/uk-names-six-banks-to-lead-first-digital-gilt-issuance/",
+      "source": "crypto.news",
+      "published": "2026-10-06T21:00:57+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Recent Analysts’ Ratings Changes for monday.com (MNDY)",
+      "url": "https://www.tickerreport.com/banking-finance/13610241/recent-analysts-ratings-changes-for-monday-com-mndy.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-06T20:56:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526415720/0001193125-26-415720-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T20:53:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030786/0001918704-26-030786-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-06T20:52:37+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
