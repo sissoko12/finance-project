@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-10-08T00:53:41.233557+00:00",
+  "last_updated": "2026-10-08T07:12:48.670337+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Client Data Affected By EY Hack",
+      "url": "https://www.silicon.co.uk/cybersecurity/goldman-ey-hack-631811",
+      "source": "silicon.co.uk",
+      "published": "2026-10-08T06:40:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs upgrades Rocket Pharmaceuticals stock rating on Danon disease drug progress",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-rocket-pharmaceuticals-stock-rating-on-danon-disease-drug-progress-93CH-4937945",
+      "source": "investing.com",
+      "published": "2026-10-08T06:16:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Parsons (NYSE:PSN) Upgraded at Zacks Research",
+      "url": "https://www.tickerreport.com/banking-finance/13611938/parsons-nysepsn-upgraded-at-zacks-research.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-08T06:06:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Corteva (NYSE:CTVA) Stock Rating Upgraded by JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13611936/corteva-nysectva-stock-rating-upgraded-by-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-08T06:03:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 08",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-08/article_e8df0066-d6ee-5d68-b454-88a3e638952e.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-08T06:03:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup Cuts Boston Scientific (NYSE:BSX) Price Target to $48.00",
+      "url": "https://www.tickerreport.com/banking-finance/13611910/citigroup-cuts-boston-scientific-nysebsx-price-target-to-48-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-08T05:30:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo talks with Kraken parent about crypto trading",
+      "url": "https://crypto.news/wells-fargo-talks-with-kraken-parent-about-crypto-trading/",
+      "source": "crypto.news",
+      "published": "2026-10-08T05:19:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Metro One Development (OTCMKTS:MTRO) Upgraded at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13611888/metro-one-development-otcmktsmtro-upgraded-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-08T05:13:13+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group (PNC) Expected to Release Quarterly Earnings on Thursday",
+      "url": "https://www.marketbeat.com/instant-alerts/upcoming-the-pnc-financial-services-group-pnc-expected-to-release-quarterly-earnings-on-thursday-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T05:11:27+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (USB) Projected to Announce Earnings on Thursday",
+      "url": "https://www.marketbeat.com/instant-alerts/upcoming-us-bancorp-usb-projected-to-announce-earnings-on-thursday-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T05:11:26+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report",
+      "url": "https://seekingalpha.com/news/4651210-sk-hynixs-solidigm-selects-goldman-morgan-stanley-to-lead-100b-us-listing-report",
+      "source": "seekingalpha.com",
+      "published": "2026-10-08T04:41:29+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "TSM: Citi Analysts Project Over 40% Revenue Growth for TSMC by 2027",
+      "url": "https://www.gurufocus.com/news/9114529/tsm-citi-analysts-project-over-40-revenue-growth-for-tsmc-by-2027",
+      "source": "gurufocus.com",
+      "published": "2026-10-08T04:10:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Young Bankers to Manage AI Agents From Start, Goldman Exec Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
+      "source": "bloomberg.com",
+      "published": "2026-10-08T04:01:50+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Microsoft readies Windows for AI agents as third-party agents such as Meta's Muse spread",
+      "url": "https://www.digitimes.com/news/a20261008VL212/microsoft-windows-meta-hardware-apple.html",
+      "source": "digitimes.com",
+      "published": "2026-10-08T03:47:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Pittsburgh Penguins' Sidney Crosby skates with the puck against the Washington Capitals during the first period at Capital One Arena on Wednesday, Oct. 7, 2026, in Washington, D.C..",
+      "url": "https://thebrunswicknews.com/sports/national_sports/the-pittsburgh-penguins-sidney-crosby-skates-with-the-puck-against-the-washington-capitals-during-the/image_bd4406eb-1c1b-56e4-9a99-5560da01a07d.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-10-08T02:57:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "What Happened To The Banks | $WFC $JPM $BAC $C $GS",
+      "url": "https://seekingalpha.com/article/4952646-what-happened-to-banks",
+      "source": "seekingalpha.com",
+      "published": "2026-10-08T02:20:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Singapore Banks’ Hot Rally Stutters Over Surging Bond Yields",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
+      "source": "bloomberg.com",
+      "published": "2026-10-08T02:03:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Anyflo emerges from stealth with acquisition of Native, to simplify stablecoin payments for enterprises",
+      "url": "https://www.prnewswire.com/news-releases/anyflo-emerges-from-stealth-with-acquisition-of-native-to-simplify-stablecoin-payments-for-enterprises-302901053.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-08T01:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Advice on Savings acc. - Where should I look into opening a savings account at? I'm with ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x0ddp8/advice_on_savings_acc/",
+      "source": "reddit.com",
+      "published": "2026-10-08T00:48:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Capital One Financial Corporation $COF Stock Holdings Lifted by Venture Visionary Partners LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-holdings-lifted-by-venture-visionary-partners-llc-2026-10-07/",
@@ -80,6 +262,15 @@
       ]
     },
     {
+      "title": "US Bank Keeps Workers' Break Suit In Seattle Federal Court",
+      "url": "https://www.law360.com/banking/articles/2535328?utm_source=rss&utm_medium=rss&utm_campaign=section",
+      "source": "law360.com",
+      "published": "2026-10-07T22:31:47+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
       "title": "Wells Fargo (WFC) Stock: Drops as Kraken Parent Eyes Crypto Liquidity Deal",
       "url": "https://blockonomi.com/wells-fargo-wfc-stock-drops-as-kraken-parent-eyes-crypto-liquidity-deal/",
       "source": "blockonomi.com",
@@ -90,198 +281,12 @@
       ]
     },
     {
-      "title": "Jim Cramer Backs Morgan Stanley (MS) After Its Pullback",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-backs-morgan-stanley-ms-after-its-pullback-1849072/",
-      "source": "insidermonkey.com",
-      "published": "2026-10-07T22:05:45+00:00",
+      "title": "Lenders Cap Software Exposure at First Eagle BDC, Cut Facility Spread",
+      "url": "https://altswire.com/lenders-cap-software-exposure-at-first-eagle-bdc-cut-facility-spread/",
+      "source": "altswire.com",
+      "published": "2026-10-07T22:13:44+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "HUD Launches Investigation Into Wells Fargo's Efforts To Support Black Homeownership",
-      "url": "https://www.bisnow.com/news/national/capital-markets/hud-launches-investigation-into-wells-fargo-s-efforts-to-support-black-homeownership",
-      "source": "bisnow.com",
-      "published": "2026-10-07T21:45:36+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase (Wall Street Journal)",
-      "url": "https://www.techmeme.com/261007/p37#a261007p37",
-      "source": "techmeme.com",
-      "published": "2026-10-07T21:45:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Trump Administration Investigates Wells Fargo for Race-Based Lending",
-      "url": "https://www.nytimes.com/2026/10/07/business/trump-hud-wells-fargo.html",
-      "source": "nytimes.com",
-      "published": "2026-10-07T21:40:27+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Wants to Convert Nearly $10 Billion in Municipal Mutual Funds Into ETFs. Shareholders Must Approve First",
-      "url": "https://247wallst.com/investing/etf/2026/10/07/morgan-stanley-wants-to-convert-nearly-10-billion-in-municipal-mutual-funds-into-etfs-shareholders-must-approve-first/",
-      "source": "247wallst.com",
-      "published": "2026-10-07T21:33:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "NXT Maintained by Citigroup -- Price Target Lowered to $121",
-      "url": "https://www.gurufocus.com/news/9114015/nxt-maintained-by-citigroup-price-target-lowered-to-121",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LIN Maintained by Citigroup -- Price Target Lowered to $560",
-      "url": "https://www.gurufocus.com/news/9114013/lin-maintained-by-citigroup-price-target-lowered-to-560",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CW Maintains Rating by Citigroup -- Price Target Lowered to $622",
-      "url": "https://www.gurufocus.com/news/9114018/cw-maintains-rating-by-citigroup-price-target-lowered-to-622",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TXT Maintained by Citigroup -- Price Target Lowered to $86.00",
-      "url": "https://www.gurufocus.com/news/9114021/txt-maintained-by-citigroup-price-target-lowered-to-8600",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CACI Maintains Neutral Rating by Citigroup -- Price Target Raised to $689",
-      "url": "https://www.gurufocus.com/news/9114017/caci-maintains-neutral-rating-by-citigroup-price-target-raised-to-689",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GD Maintained by Citigroup -- Price Target Lowered to $374",
-      "url": "https://www.gurufocus.com/news/9114019/gd-maintained-by-citigroup-price-target-lowered-to-374",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LDOS Maintained by Citigroup -- Price Target Lowered to $141",
-      "url": "https://www.gurufocus.com/news/9114020/ldos-maintained-by-citigroup-price-target-lowered-to-141",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BAH Maintained by Citigroup -- Price Target Lowered to $77.00",
-      "url": "https://www.gurufocus.com/news/9114016/bah-maintained-by-citigroup-price-target-lowered-to-7700",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (BAC) Options Activity Signals Cautious Sentiment Ahead of Earnings",
-      "url": "https://www.gurufocus.com/news/9114163/bank-of-america-bac-options-activity-signals-cautious-sentiment-ahead-of-earnings",
-      "source": "gurufocus.com",
-      "published": "2026-10-07T21:31:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050018/0001839882-26-050018-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-07T21:29:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050017/0001839882-26-050017-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-07T21:24:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Trump administration investigating Wells Fargo over minority homeownership efforts",
-      "url": "https://thebrunswicknews.com/news/national_news/trump-administration-investigating-wells-fargo-over-minority-homeownership-efforts/article_413426ef-b270-5c45-89ca-41b37f1e309f.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-07T21:23:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107617/0001213900-26-107617-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-07T21:22:59+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226050014/0001839882-26-050014-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-07T21:19:43+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030957/0001918704-26-030957-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-07T21:12:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Stock: Insider Matthew Cooper Sells 3,500 Shares",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-stock-insider-matthew-cooper-sells-3500-shares-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T21:08:16+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
