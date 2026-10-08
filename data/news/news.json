@@ -1,243 +1,216 @@
 {
-  "last_updated": "2026-10-08T14:50:36.040845+00:00",
+  "last_updated": "2026-10-08T20:37:34.693036+00:00",
   "headlines": [
     {
-      "title": "Waymo borrows $5 billion for robotaxi expansion.",
-      "url": "https://www.theverge.com/transportation/1007831/waymo-borrows-5-billion-for-robotaxi-expansion",
-      "source": "theverge.com",
-      "published": "2026-10-08T13:58:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Special Bonus Pool for Goldman Executives to Top $500 Million",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-08/goldman-executives-set-to-receive-special-bonus-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-08T13:52:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030997/0001918704-26-030997-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107978/0001213900-26-107978-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-08T13:50:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon (NYSE:BNY) Stock Keeps \"Hold\" Rating at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-new-york-mellon-nyse-bny-stock-keeps-hold-rating-at-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:48:43+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Stock Keeps Buy Rating at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-state-street-nyse-stt-stock-keeps-buy-rating-at-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:48:42+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Now Covered by TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-stock-rating-reaffirmed-as-hold-by-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:48:37+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Truist Financial (NYSE:TFC) Stock Picked Up by Analysts at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-nyse-tfc-earns-hold-rating-from-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:48:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Coverage Initiated by Analysts at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-us-bancorp-nyse-usb-stock-keeps-buy-rating-at-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:48:33+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030996/0001918704-26-030996-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-08T13:44:39+00:00",
+      "published": "2026-10-08T20:15:50+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030994/0001918704-26-030994-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107968/0001213900-26-107968-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-08T13:42:27+00:00",
+      "published": "2026-10-08T20:09:28+00:00",
       "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "India’s cotton sector calls for price stability and assured supply",
+      "url": "https://www.fibre2fashion.com/news/textile-news/india-s-cotton-sector-calls-for-price-stability-and-assured-supply-314093-newsdetails.htm",
+      "source": "fibre2fashion.com",
+      "published": "2026-10-08T19:53:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo upgrades Editas to Overweight, lifts target to $6",
+      "url": "https://awesomecapital.blogspot.com/2026/10/wells-fargo-upgrades-editas-to.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-10-08T19:52:37+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Neurogene started at Overweight by JP Morgan",
+      "url": "https://awesomecapital.blogspot.com/2026/10/neurogene-started-at-overweight-by-jp.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-10-08T19:48:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050217/0001839882-26-050217-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T19:46:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase CEO Jamie Dimon Just Issued a Blunt Warning About Artificial Intelligence",
+      "url": "https://www.fool.com/investing/2026/10/08/jpmorgan-chase-ceo-jamie-dimon-just-issued-a-blunt/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-08T19:43:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Why Gartner (IT) Stock Is Up Today",
+      "url": "https://stockstory.org/us/stocks/nyse/it/news/why-up-down/why-gartner-it-stock-is-up-today-2",
+      "source": "stockstory.org",
+      "published": "2026-10-08T19:40:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Leidos downgraded by J.P. Morgan as defense stocks face rocky earnings season",
+      "url": "https://seekingalpha.com/news/4651531-leidos-downgraded-by-j-p-morgan-as-defense-stocks-face-rocky-earnings-season",
+      "source": "seekingalpha.com",
+      "published": "2026-10-08T19:18:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015378/0000950103-26-015378-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T19:13:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031078/0001918704-26-031078-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T19:10:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226050209/0001839882-26-050209-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T19:10:50+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "AI darlings, defence shares most at risk as U.S. midterms near",
+      "url": "https://financialpost.com/investing/ai-darlings-defence-shares-risk-midterms-near",
+      "source": "financialpost.com",
+      "published": "2026-10-08T19:08:46+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030990/0001918704-26-030990-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026107911/0001213900-26-107911-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-08T13:40:06+00:00",
+      "published": "2026-10-08T19:03:48+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Stord secures $400M credit facility led by Citi",
-      "url": "https://www.investing.com/news/company-news/stord-secures-400m-credit-facility-led-by-citi-93CH-4939243",
-      "source": "investing.com",
-      "published": "2026-10-08T13:36:39+00:00",
+      "title": "Pro-Iran groups behind foiled attack on Bank of America in Paris, FBI finds",
+      "url": "https://www.lemonde.fr/en/france/article/2026/10/08/pro-iran-groups-behind-foiled-attack-on-bank-of-america-in-paris-fbi-finds_6758400_7.html",
+      "source": "lemonde.fr",
+      "published": "2026-10-08T19:03:45+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Stord Secures $400 Million Credit Facility Led by Citi to Scale Its Network, Robotics, and AI Investment, Expands Leadership Team",
-      "url": "https://www.prnewswire.com/news-releases/stord-secures-400-million-credit-facility-led-by-citi-to-scale-its-network-robotics-and-ai-investment-expands-leadership-team-302902244.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-08T13:30:00+00:00",
+      "title": "How on-chain payments are evolving",
+      "url": "https://www.americanbanker.com/payments/video/how-on-chain-payments-are-evolving",
+      "source": "americanbanker.com",
+      "published": "2026-10-08T18:50:06+00:00",
       "tickers": [
-        "C",
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Palantir Advances 3% as Goldman Sachs Upgrades to Buy With $230 Target; Salesforce and ServiceNow Hold Steady",
-      "url": "https://247wallst.com/investing/2026/10/08/palantir-advances-2-as-goldman-sachs-upgrades-to-buy-with-230-target-salesforce-and-servicenow-hold-steady/",
+      "title": "The future of payments - Max Neukirchen, Global Co-Head of J.P. Morgan Payments, sits ...",
+      "url": "https://www.americanbanker.com/payments/video/the-future-of-payments",
+      "source": "americanbanker.com",
+      "published": "2026-10-08T18:49:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Payments at scale - Max Neukirchen, Global Co-Head of J.P. Morgan Payments, talks ...",
+      "url": "https://www.americanbanker.com/payments/video/payments-at-scale-max-neukirchen-j-p-morgan-payments-global-co-head",
+      "source": "americanbanker.com",
+      "published": "2026-10-08T18:49:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Where AI and payments intersect",
+      "url": "https://www.americanbanker.com/payments/video/where-ai-and-payments-intersect",
+      "source": "americanbanker.com",
+      "published": "2026-10-08T18:49:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "DraftKings Is Down 19% in a Month: Did Bank of America Just Call the Bottom?",
+      "url": "https://247wallst.com/investing/2026/10/08/draftkings-is-down-19-in-a-month-did-bank-of-america-just-call-the-bottom/",
       "source": "247wallst.com",
-      "published": "2026-10-08T13:28:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Sector Update: Financial Stocks Lean Lower Pre-Bell Thursday",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lean-lower-132448725.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-08T13:24:48+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Citigroup's (C) \"Buy\" Rating Reaffirmed at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroups-c-buy-rating-reaffirmed-at-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:24:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Rating Reaffirmed as \"Hold\" by TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-nyse-jpm-stock-rating-reaffirmed-as-hold-by-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:24:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Keeps \"Hold\" Rating at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-nyse-bac-stock-keeps-hold-rating-at-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:24:43+00:00",
+      "published": "2026-10-08T18:47:58+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "The Goldman Sachs Group (NYSE:GS) Coverage Initiated by Analysts at TD Cowen",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-goldman-sachs-group-nyse-gs-coverage-initiated-by-analysts-at-td-cowen-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:24:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Sector Update: Energy Stocks Rise Pre-Bell Thursday",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-132438884.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-08T13:24:38+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Brazil Election: Flávio Bolsonaro Surge Attracts Top Finance Minister Names",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-flavio-bolsonaro-surge-attracts-top-finance-minister-names",
-      "source": "bloomberg.com",
-      "published": "2026-10-08T13:24:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs warns AI boom is running into a cost-of-capital problem",
-      "url": "https://cryptobriefing.com/goldman-sachs-ai-boom-cost-of-capital/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-08T13:18:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Bond Veteran Is Bullish for First Time in Decade",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/morgan-stanley-bond-veteran-is-bullish-for-first-time-in-decade",
-      "source": "bloomberg.com",
-      "published": "2026-10-08T13:11:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Initiates Coverage on Neurogene (NASDAQ:NGNE)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-neurogene-nasdaq-ngne-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:06:38+00:00",
+      "title": "AI's Impact on Jobs: Jamie Dimon's Insights on Workforce Transformation",
+      "url": "https://www.gurufocus.com/news/9115922/ais-impact-on-jobs-jamie-dimons-insights-on-workforce-transformation",
+      "source": "gurufocus.com",
+      "published": "2026-10-08T18:31:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Marriott Vacations Worldwide (NYSE:VAC) Now Covered by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-marriott-vacations-worldwide-nyse-vac-now-covered-by-analysts-at-jpmorgan-chase-co-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:06:37+00:00",
+      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015366/0000950103-26-015366-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T18:31:22+00:00",
       "tickers": [
-        "JPM"
+        "C"
       ]
     },
     {
-      "title": "Ryder System (NYSE:R) Raised to Buy at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ryder-system-nyse-r-raised-to-buy-at-citigroup-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T13:06:36+00:00",
+      "title": "Waymo closed a $5 billion term loan, its first debt financing",
+      "url": "https://qz.com/waymo-5-billion-term-loan-debt-financing-robotaxi-100826",
+      "source": "qz.com",
+      "published": "2026-10-08T18:30:26+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     }
   ]
