@@ -1,292 +1,243 @@
 {
-  "last_updated": "2026-10-08T07:12:48.670337+00:00",
+  "last_updated": "2026-10-08T14:50:36.040845+00:00",
   "headlines": [
     {
-      "title": "Goldman Sachs Client Data Affected By EY Hack",
-      "url": "https://www.silicon.co.uk/cybersecurity/goldman-ey-hack-631811",
-      "source": "silicon.co.uk",
-      "published": "2026-10-08T06:40:56+00:00",
+      "title": "Waymo borrows $5 billion for robotaxi expansion.",
+      "url": "https://www.theverge.com/transportation/1007831/waymo-borrows-5-billion-for-robotaxi-expansion",
+      "source": "theverge.com",
+      "published": "2026-10-08T13:58:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Goldman Sachs upgrades Rocket Pharmaceuticals stock rating on Danon disease drug progress",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-rocket-pharmaceuticals-stock-rating-on-danon-disease-drug-progress-93CH-4937945",
-      "source": "investing.com",
-      "published": "2026-10-08T06:16:56+00:00",
+      "title": "Special Bonus Pool for Goldman Executives to Top $500 Million",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-08/goldman-executives-set-to-receive-special-bonus-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-08T13:52:18+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Parsons (NYSE:PSN) Upgraded at Zacks Research",
-      "url": "https://www.tickerreport.com/banking-finance/13611938/parsons-nysepsn-upgraded-at-zacks-research.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-08T06:06:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Corteva (NYSE:CTVA) Stock Rating Upgraded by JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13611936/corteva-nysectva-stock-rating-upgraded-by-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-08T06:03:10+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 08",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-08/article_e8df0066-d6ee-5d68-b454-88a3e638952e.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-08T06:03:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup Cuts Boston Scientific (NYSE:BSX) Price Target to $48.00",
-      "url": "https://www.tickerreport.com/banking-finance/13611910/citigroup-cuts-boston-scientific-nysebsx-price-target-to-48-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-08T05:30:49+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030997/0001918704-26-030997-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T13:50:51+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Wells Fargo talks with Kraken parent about crypto trading",
-      "url": "https://crypto.news/wells-fargo-talks-with-kraken-parent-about-crypto-trading/",
-      "source": "crypto.news",
-      "published": "2026-10-08T05:19:40+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Metro One Development (OTCMKTS:MTRO) Upgraded at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13611888/metro-one-development-otcmktsmtro-upgraded-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-08T05:13:13+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group (PNC) Expected to Release Quarterly Earnings on Thursday",
-      "url": "https://www.marketbeat.com/instant-alerts/upcoming-the-pnc-financial-services-group-pnc-expected-to-release-quarterly-earnings-on-thursday-2026-10-08/",
+      "title": "Bank of New York Mellon (NYSE:BNY) Stock Keeps \"Hold\" Rating at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-new-york-mellon-nyse-bny-stock-keeps-hold-rating-at-td-cowen-2026-10-08/",
       "source": "marketbeat.com",
-      "published": "2026-10-08T05:11:27+00:00",
+      "published": "2026-10-08T13:48:43+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "State Street (NYSE:STT) Stock Keeps Buy Rating at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-state-street-nyse-stt-stock-keeps-buy-rating-at-td-cowen-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:48:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group (NYSE:PNC) Now Covered by TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-stock-rating-reaffirmed-as-hold-by-td-cowen-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:48:37+00:00",
       "tickers": [
         "C",
         "PNC"
       ]
     },
     {
-      "title": "U.S. Bancorp (USB) Projected to Announce Earnings on Thursday",
-      "url": "https://www.marketbeat.com/instant-alerts/upcoming-us-bancorp-usb-projected-to-announce-earnings-on-thursday-2026-10-08/",
+      "title": "Truist Financial (NYSE:TFC) Stock Picked Up by Analysts at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-nyse-tfc-earns-hold-rating-from-td-cowen-2026-10-08/",
       "source": "marketbeat.com",
-      "published": "2026-10-08T05:11:26+00:00",
+      "published": "2026-10-08T13:48:35+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Coverage Initiated by Analysts at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-us-bancorp-nyse-usb-stock-keeps-buy-rating-at-td-cowen-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:48:33+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report",
-      "url": "https://seekingalpha.com/news/4651210-sk-hynixs-solidigm-selects-goldman-morgan-stanley-to-lead-100b-us-listing-report",
-      "source": "seekingalpha.com",
-      "published": "2026-10-08T04:41:29+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "TSM: Citi Analysts Project Over 40% Revenue Growth for TSMC by 2027",
-      "url": "https://www.gurufocus.com/news/9114529/tsm-citi-analysts-project-over-40-revenue-growth-for-tsmc-by-2027",
-      "source": "gurufocus.com",
-      "published": "2026-10-08T04:10:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Young Bankers to Manage AI Agents From Start, Goldman Exec Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
-      "source": "bloomberg.com",
-      "published": "2026-10-08T04:01:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Microsoft readies Windows for AI agents as third-party agents such as Meta's Muse spread",
-      "url": "https://www.digitimes.com/news/a20261008VL212/microsoft-windows-meta-hardware-apple.html",
-      "source": "digitimes.com",
-      "published": "2026-10-08T03:47:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Pittsburgh Penguins' Sidney Crosby skates with the puck against the Washington Capitals during the first period at Capital One Arena on Wednesday, Oct. 7, 2026, in Washington, D.C..",
-      "url": "https://thebrunswicknews.com/sports/national_sports/the-pittsburgh-penguins-sidney-crosby-skates-with-the-puck-against-the-washington-capitals-during-the/image_bd4406eb-1c1b-56e4-9a99-5560da01a07d.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-08T02:57:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "What Happened To The Banks | $WFC $JPM $BAC $C $GS",
-      "url": "https://seekingalpha.com/article/4952646-what-happened-to-banks",
-      "source": "seekingalpha.com",
-      "published": "2026-10-08T02:20:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Singapore Banks’ Hot Rally Stutters Over Surging Bond Yields",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
-      "source": "bloomberg.com",
-      "published": "2026-10-08T02:03:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Anyflo emerges from stealth with acquisition of Native, to simplify stablecoin payments for enterprises",
-      "url": "https://www.prnewswire.com/news-releases/anyflo-emerges-from-stealth-with-acquisition-of-native-to-simplify-stablecoin-payments-for-enterprises-302901053.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-08T01:00:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Advice on Savings acc. - Where should I look into opening a savings account at? I'm with ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x0ddp8/advice_on_savings_acc/",
-      "source": "reddit.com",
-      "published": "2026-10-08T00:48:57+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Stock Holdings Lifted by Venture Visionary Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-holdings-lifted-by-venture-visionary-partners-llc-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T23:52:42+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Venture Visionary Partners LLC Purchases 110,071 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-venture-visionary-partners-llc-purchases-110071-shares-of-bank-of-america-corporation-bac-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T23:44:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000526/0000886982-26-000526-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030996/0001918704-26-030996-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-07T23:37:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo faces potential probe over black homeownership commitments: Report",
-      "url": "https://www.straitstimes.com/world/united-states/wells-fargo-faces-potential-probe-over-black-homeownership-commitments-report",
-      "source": "straitstimes.com",
-      "published": "2026-10-07T23:35:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Cooper Financial Group Grows Stock Position in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-cooper-financial-group-grows-stock-position-in-bank-of-america-corporation-bac-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T23:28:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "15,006 Shares in Bank of America Corporation $BAC Acquired by Canandaigua National Trust Co of Florida",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-15006-shares-in-bank-of-america-corporation-bac-acquired-by-canandaigua-national-trust-co-of-florida-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T23:05:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Newly Acquired by Canandaigua National Trust Co of Florida",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-newly-acquired-by-canandaigua-national-trust-co-of-florida-2026-10-07/",
-      "source": "marketbeat.com",
-      "published": "2026-10-07T23:04:58+00:00",
+      "published": "2026-10-08T13:44:39+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Stock Bought by Canandaigua National Bank & Trust Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-bought-by-canandaigua-national-bank-trust-co-2026-10-07/",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426030994/0001918704-26-030994-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T13:42:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426030990/0001918704-26-030990-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-08T13:40:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Stord secures $400M credit facility led by Citi",
+      "url": "https://www.investing.com/news/company-news/stord-secures-400m-credit-facility-led-by-citi-93CH-4939243",
+      "source": "investing.com",
+      "published": "2026-10-08T13:36:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Stord Secures $400 Million Credit Facility Led by Citi to Scale Its Network, Robotics, and AI Investment, Expands Leadership Team",
+      "url": "https://www.prnewswire.com/news-releases/stord-secures-400-million-credit-facility-led-by-citi-to-scale-its-network-robotics-and-ai-investment-expands-leadership-team-302902244.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-08T13:30:00+00:00",
+      "tickers": [
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Palantir Advances 3% as Goldman Sachs Upgrades to Buy With $230 Target; Salesforce and ServiceNow Hold Steady",
+      "url": "https://247wallst.com/investing/2026/10/08/palantir-advances-2-as-goldman-sachs-upgrades-to-buy-with-230-target-salesforce-and-servicenow-hold-steady/",
+      "source": "247wallst.com",
+      "published": "2026-10-08T13:28:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Sector Update: Financial Stocks Lean Lower Pre-Bell Thursday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lean-lower-132448725.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-08T13:24:48+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citigroup's (C) \"Buy\" Rating Reaffirmed at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroups-c-buy-rating-reaffirmed-at-td-cowen-2026-10-08/",
       "source": "marketbeat.com",
-      "published": "2026-10-07T23:04:48+00:00",
+      "published": "2026-10-08T13:24:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Rating Reaffirmed as \"Hold\" by TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-nyse-jpm-stock-rating-reaffirmed-as-hold-by-td-cowen-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:24:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Stock Keeps \"Hold\" Rating at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-nyse-bac-stock-keeps-hold-rating-at-td-cowen-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:24:43+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "US Bank Keeps Workers' Break Suit In Seattle Federal Court",
-      "url": "https://www.law360.com/banking/articles/2535328?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-10-07T22:31:47+00:00",
+      "title": "The Goldman Sachs Group (NYSE:GS) Coverage Initiated by Analysts at TD Cowen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-goldman-sachs-group-nyse-gs-coverage-initiated-by-analysts-at-td-cowen-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:24:41+00:00",
       "tickers": [
-        "USB"
+        "GS"
       ]
     },
     {
-      "title": "Wells Fargo (WFC) Stock: Drops as Kraken Parent Eyes Crypto Liquidity Deal",
-      "url": "https://blockonomi.com/wells-fargo-wfc-stock-drops-as-kraken-parent-eyes-crypto-liquidity-deal/",
-      "source": "blockonomi.com",
-      "published": "2026-10-07T22:19:48+00:00",
+      "title": "Sector Update: Energy Stocks Rise Pre-Bell Thursday",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-132438884.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-08T13:24:38+00:00",
       "tickers": [
-        "WFC",
+        "STT"
+      ]
+    },
+    {
+      "title": "Brazil Election: Flávio Bolsonaro Surge Attracts Top Finance Minister Names",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-flavio-bolsonaro-surge-attracts-top-finance-minister-names",
+      "source": "bloomberg.com",
+      "published": "2026-10-08T13:24:28+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Lenders Cap Software Exposure at First Eagle BDC, Cut Facility Spread",
-      "url": "https://altswire.com/lenders-cap-software-exposure-at-first-eagle-bdc-cut-facility-spread/",
-      "source": "altswire.com",
-      "published": "2026-10-07T22:13:44+00:00",
+      "title": "Goldman Sachs warns AI boom is running into a cost-of-capital problem",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-boom-cost-of-capital/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-08T13:18:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Bond Veteran Is Bullish for First Time in Decade",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/morgan-stanley-bond-veteran-is-bullish-for-first-time-in-decade",
+      "source": "bloomberg.com",
+      "published": "2026-10-08T13:11:10+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Initiates Coverage on Neurogene (NASDAQ:NGNE)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-neurogene-nasdaq-ngne-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:06:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Marriott Vacations Worldwide (NYSE:VAC) Now Covered by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-marriott-vacations-worldwide-nyse-vac-now-covered-by-analysts-at-jpmorgan-chase-co-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:06:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Ryder System (NYSE:R) Raised to Buy at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ryder-system-nyse-r-raised-to-buy-at-citigroup-2026-10-08/",
+      "source": "marketbeat.com",
+      "published": "2026-10-08T13:06:36+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
