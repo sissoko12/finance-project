@@ -1,283 +1,246 @@
 {
-  "last_updated": "2026-10-09T07:55:35.684195+00:00",
+  "last_updated": "2026-10-09T15:12:06.092262+00:00",
   "headlines": [
     {
-      "title": "Diversified Management Inc. Buys 14,480 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-diversified-management-inc-buys-14480-shares-of-capital-one-financial-corporation-cof-2026-10-09/",
-      "source": "marketbeat.com",
-      "published": "2026-10-09T07:13:29+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Shares Purchased by Diversified Management Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-purchased-by-diversified-management-inc-2026-10-09/",
-      "source": "marketbeat.com",
-      "published": "2026-10-09T07:13:25+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "BofA deposit scam??? Help!!! - So starting at the beginning of last month I noticed a bunch ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x1eppx/bofa_deposit_scam_help/",
-      "source": "reddit.com",
-      "published": "2026-10-09T07:11:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Zscaler (NASDAQ:ZS) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.tickerreport.com/banking-finance/13613329/zscaler-nasdaqzs-stock-price-expected-to-rise-morgan-stanley-analyst-says.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-09T06:36:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi sees limited upside for EUR/JPY amid intervention expectations",
-      "url": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
-      "source": "investing.com",
-      "published": "2026-10-09T06:20:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts Allstate (NYSE:ALL) Price Target to $240.00",
-      "url": "https://www.tickerreport.com/banking-finance/13613309/morgan-stanley-cuts-allstate-nyseall-price-target-to-240-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-09T06:13:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Novo Nordisk stock target cut at Citi on lack of margin growth",
-      "url": "https://www.investing.com/news/stock-market-news/novo-nordisk-stock-target-cut-at-citi-on-lack-of-margin-growth-4940246",
-      "source": "investing.com",
-      "published": "2026-10-09T06:06:13+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group (NYSE:GS) Stock Unloaded by Rep. Maria Elvira Salazar",
-      "url": "https://www.marketbeat.com/instant-alerts/congress-the-goldman-sachs-group-nyse-gs-stock-unloaded-by-rep-maria-elvira-salazar-2026-10-09/",
-      "source": "marketbeat.com",
-      "published": "2026-10-09T06:01:20+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup (NYSE:C) Stock Unloaded by Rep. Maria Elvira Salazar",
-      "url": "https://www.marketbeat.com/instant-alerts/congress-citigroup-nyse-c-stock-unloaded-by-rep-maria-elvira-salazar-2026-10-09/",
-      "source": "marketbeat.com",
-      "published": "2026-10-09T06:01:03+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Cuts American International Group (NYSE:AIG) Price Target to $80.00",
-      "url": "https://www.tickerreport.com/banking-finance/13613293/morgan-stanley-cuts-american-international-group-nyseaig-price-target-to-80-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-09T05:50:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Cuts ONEOK (NYSE:OKE) Price Target to $100.00",
-      "url": "https://www.tickerreport.com/banking-finance/13613281/jpmorgan-chase-co-cuts-oneok-nyseoke-price-target-to-100-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-09T05:37:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Truist Financial (TFC) Projected to Announce Earnings on Friday",
-      "url": "https://www.marketbeat.com/instant-alerts/upcoming-truist-financial-tfc-projected-to-announce-earnings-on-friday-2026-10-09/",
-      "source": "marketbeat.com",
-      "published": "2026-10-09T05:11:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "TCS shares jump 4% after Q2 results. What are Goldman Sachs, Nomura, others saying?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-4-after-q2-results-what-are-goldman-sachs-nomura-others-saying/articleshow/134806449.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-09T04:06:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Supply Chain by the Numbers for Oct. 9, 2026",
-      "url": "https://www.scdigest.com/assets/newsviews/26-10-09.php?CID=24220",
-      "source": "scdigest.com",
-      "published": "2026-10-09T03:54:32+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Single-family homes on a stretch of formerly vacant lots on Oct. 7, 2026, in the Back of the Yards neighborhood whose development was funded in part by JPMorgan Chase through its support of the Reclaiming Chicago initiative.",
-      "url": "https://thebrunswicknews.com/news/national_news/single-family-homes-on-a-stretch-of-formerly-vacant-lots-on-oct-7-2026-in/image_927e67c9-e8f8-5d59-a1c4-452ead9c770f.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-09T02:34:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase reports 10-year return on $200 million in Chicago philanthropic investments",
-      "url": "https://thebrunswicknews.com/news/national_news/jpmorgan-chase-reports-10-year-return-on-200-million-in-chicago-philanthropic-investments/article_34eb05da-c57a-5e59-88c4-deea44575b0c.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-09T02:34:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "How treasury management is changing",
-      "url": "https://www.americanbanker.com/payments/video/how-treasury-management-is-changing",
-      "source": "americanbanker.com",
-      "published": "2026-10-09T01:39:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Real-time payments: where they're headed next",
-      "url": "https://www.americanbanker.com/payments/video/real-time-payments-where-theyre-headed-next",
-      "source": "americanbanker.com",
-      "published": "2026-10-09T01:39:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AI and humans together - Matthew Davies, Head of Global Payments Solutions, EMEA, at ...",
-      "url": "https://www.americanbanker.com/payments/video/ai-and-humans-together",
-      "source": "americanbanker.com",
-      "published": "2026-10-09T01:38:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Adds Burlington Stores Inc (BURL) -- Shares Look 10% Undervalued on GF Value",
-      "url": "https://www.gurufocus.com/news/9116602/jpmorgan-chase-co-adds-burlington-stores-inc-burl-shares-look-10-undervalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T01:22:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Position Lifted by Professional Advisory Services Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-position-lifted-by-professional-advisory-services-inc-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T23:37:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Sapient Capital LLC Acquires 24,533 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sapient-capital-llc-acquires-24533-shares-of-bank-of-america-corporation-bac-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T23:36:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CFOs Risk Losing Control of Working Capital One Sales Contract at a Time",
-      "url": "https://www.pymnts.com/loans/working-capital/2026/cfos-risk-losing-control-of-working-capital-one-sales-contract-at-a-time/",
-      "source": "pymnts.com",
-      "published": "2026-10-08T23:27:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Polestar Automotive Holding UK PLC (PSNY) Presents at Bank of America's 2026 Future Car Conference - Slideshow | $PSNY $PSNYW $PLSAY",
-      "url": "https://seekingalpha.com/article/4952932-polestar-automotive-holding-uk-plc-psny-presents-at-bank-of-americas-2026-future-car",
+      "title": "Cboe Global double upgraded at Morgan Stanley; Gemini Space Station downgraded",
+      "url": "https://seekingalpha.com/news/4651775-cboe-global-double-upgraded-at-morgan-stanley-gemini-space-station-downgraded",
       "source": "seekingalpha.com",
-      "published": "2026-10-08T23:05:23+00:00",
+      "published": "2026-10-09T14:37:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031111/0001918704-26-031111-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-09T14:29:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America initiates buy rating on Penguin Solutions amid AI boom",
+      "url": "https://cryptobriefing.com/bank-of-america-buy-rating-penguin-solutions/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-09T14:15:53+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Farther Finance Advisors LLC Buys 33,495 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-farther-finance-advisors-llc-buys-33495-shares-of-jpmorgan-chase-co-jpm-2026-10-08/",
-      "source": "marketbeat.com",
-      "published": "2026-10-08T23:05:06+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015422/0000950103-26-015422-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-09T14:09:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226050294/0001839882-26-050294-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-09T14:05:38+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo, State Street among financial stocks with A+ EPS revision grades",
+      "url": "https://seekingalpha.com/news/4651696-wells-fargo-state-street-among-financial-stocks-with-a-eps-revision-grades",
+      "source": "seekingalpha.com",
+      "published": "2026-10-09T14:05:06+00:00",
+      "tickers": [
+        "WFC",
+        "C",
+        "STT"
+      ]
+    },
+    {
+      "title": "SpaceX Stock Price Target Raised to $230 by Sacks: Cramer Reacts",
+      "url": "https://watcher.guru/news/spacex-stock-price-target-raised-to-230-by-sacks-cramer-reacts",
+      "source": "watcher.guru",
+      "published": "2026-10-09T14:03:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426031106/0001918704-26-031106-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-09T14:01:05+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "BABA Maintained by Citigroup -- Price Target Raised to $193.00",
-      "url": "https://www.gurufocus.com/news/9116396/baba-maintained-by-citigroup-price-target-raised-to-19300",
+      "title": "Bank of America Names Jeff Crabtree President of Sarasota/Manatee",
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-names-jeff-crabtree-president-of-sarasotamanatee-302903520.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-09T14:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wall Street Banks Eye $19B in Q3 Stock Trading Revenue; Goldman Sachs (GS) Leads",
+      "url": "https://www.gurufocus.com/news/9117198/wall-street-banks-eye-19b-in-q3-stock-trading-revenue-goldman-sachs-gs-leads",
       "source": "gurufocus.com",
-      "published": "2026-10-08T23:03:15+00:00",
+      "published": "2026-10-09T13:58:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi Research Downgrades Pershing Square (PS) to Sell Citing Valuation Concerns",
+      "url": "https://www.gurufocus.com/news/9117195/citi-research-downgrades-pershing-square-ps-to-sell-citing-valuation-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:57:35+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "CNP Maintained by Citigroup -- Price Target Lowered to $43.00",
-      "url": "https://www.gurufocus.com/news/9116395/cnp-maintained-by-citigroup-price-target-lowered-to-4300",
+      "title": "Bank of America Initiates Buy on Penguin Solutions (PENG) with $100 Target",
+      "url": "https://www.gurufocus.com/news/9117189/bank-of-america-initiates-buy-on-penguin-solutions-peng-with-100-target",
       "source": "gurufocus.com",
-      "published": "2026-10-08T23:02:55+00:00",
+      "published": "2026-10-09T13:55:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026108262/0001213900-26-108262-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-09T13:39:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SCHW Maintained by Morgan Stanley -- Price Target Raised to $141",
+      "url": "https://www.gurufocus.com/news/9117174/schw-maintained-by-morgan-stanley-price-target-raised-to-141",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:34:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "RJF Maintained by Morgan Stanley -- Price Target Lowered to $171",
+      "url": "https://www.gurufocus.com/news/9117171/rjf-maintained-by-morgan-stanley-price-target-lowered-to-171",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:33:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LPLA Maintained by Morgan Stanley -- Price Target Raised to $393",
+      "url": "https://www.gurufocus.com/news/9117170/lpla-maintained-by-morgan-stanley-price-target-raised-to-393",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:33:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "HOOD Maintained by Morgan Stanley -- Price Target Raised to $160",
+      "url": "https://www.gurufocus.com/news/9117169/hood-maintained-by-morgan-stanley-price-target-raised-to-160",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:32:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AMP Maintained by Morgan Stanley -- Price Target Lowered to $483",
+      "url": "https://www.gurufocus.com/news/9117167/amp-maintained-by-morgan-stanley-price-target-lowered-to-483",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:31:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi Downgrades Pershing Square Inc (PS) to Sell Amid Valuation Concerns",
+      "url": "https://www.gurufocus.com/news/9117156/citi-downgrades-pershing-square-inc-ps-to-sell-amid-valuation-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T13:27:09+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "PRKS Maintained by Citigroup -- Price Target Lowered to $34",
-      "url": "https://www.gurufocus.com/news/9116393/prks-maintained-by-citigroup-price-target-lowered-to-34",
-      "source": "gurufocus.com",
-      "published": "2026-10-08T23:02:34+00:00",
+      "title": "DELL Stock Hits $580 as Goldman Sachs Maintains Buy Rating Despite Trump’s Share Sales",
+      "url": "https://blockonomi.com/dell-stock-hits-580-as-goldman-sachs-maintains-buy-rating-despite-trumps-share-sales/",
+      "source": "blockonomi.com",
+      "published": "2026-10-09T13:27:01+00:00",
       "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Milos Maricic: listen for the AI number on next week’s bank calls",
+      "url": "https://fortune.com/2026/10/09/ai-savings-banks-wont-say-it-in-earnings/",
+      "source": "fortune.com",
+      "published": "2026-10-09T13:20:43+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "FUN Maintained by Citigroup -- Price Target Lowered to $13.00",
-      "url": "https://www.gurufocus.com/news/9116391/fun-maintained-by-citigroup-price-target-lowered-to-1300",
-      "source": "gurufocus.com",
-      "published": "2026-10-08T23:02:11+00:00",
+      "title": "Money market funds log biggest weekly inflow since pandemic - BofA",
+      "url": "https://seekingalpha.com/news/4651742-money-market-funds-log-biggest-weekly-inflow-since-pandemic---bofa",
+      "source": "seekingalpha.com",
+      "published": "2026-10-09T13:19:42+00:00",
       "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "SMCI Maintained by Citigroup -- Price Target Raised to $45",
-      "url": "https://www.gurufocus.com/news/9116388/smci-maintained-by-citigroup-price-target-raised-to-45",
-      "source": "gurufocus.com",
-      "published": "2026-10-08T23:01:52+00:00",
+      "title": "BofA downgrades Alignment Healthcare stock rating on star rating drop",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-downgrades-alignment-healthcare-stock-rating-on-star-rating-drop-93CH-4941240",
+      "source": "investing.com",
+      "published": "2026-10-09T13:16:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BMO Capital initiates coverage of American Express, Capital One, Synchrony",
+      "url": "https://seekingalpha.com/news/4651737-bmo-capital-initiates-coverage-of-american-express-capital-one-synchrony",
+      "source": "seekingalpha.com",
+      "published": "2026-10-09T13:14:30+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Sector Update: Tech Stocks Advance Premarket Friday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-advance-premarket-131351667.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-09T13:13:51+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "NXP Semiconductors (NXPI) Is Back In The Spotlight, What Is Driving Attention Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-back-spotlight-131019956.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-09T13:10:19+00:00",
       "tickers": [
         "C"
       ]
