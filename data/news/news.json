@@ -1,154 +1,278 @@
 {
-  "last_updated": "2026-10-09T20:16:55.223761+00:00",
+  "last_updated": "2026-10-10T00:15:54.294972+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050397/0001839882-26-050397-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-09T19:30:52+00:00",
+      "title": "21,476 Citigroup Inc. $C Shares Sold by Sound Income Strategies LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-21476-citigroup-inc-c-shares-sold-by-sound-income-strategies-llc-2026-10-09/",
+      "source": "marketbeat.com",
+      "published": "2026-10-09T23:28:47+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226050395/0001839882-26-050395-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-09T19:25:13+00:00",
+      "title": "Castle Rock Wealth Management LLC Sells 1,220 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-castle-rock-wealth-management-llc-sells-1220-shares-of-the-goldman-sachs-group-inc-gs-2026-10-09/",
+      "source": "marketbeat.com",
+      "published": "2026-10-09T23:12:57+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "130,689 Bank of America Corporation $BAC Shares Acquired by Avity Investment Management Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-130689-bank-of-america-corporation-bac-shares-acquired-by-avity-investment-management-inc-2026-10-09/",
+      "source": "marketbeat.com",
+      "published": "2026-10-09T23:04:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Stock Position Increased by Avity Investment Management Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-position-increased-by-avity-investment-management-inc-2026-10-09/",
+      "source": "marketbeat.com",
+      "published": "2026-10-09T23:04:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-10-09T22:53:11+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031163/0001918704-26-031163-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-09T19:24:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ICON upgraded at BofA on better CRO demand, improved 2027 visibility | $ICLR",
-      "url": "https://seekingalpha.com/news/4651844-icon-upgraded-bofa-better-cro-demand-improved-2027-visibility",
-      "source": "seekingalpha.com",
-      "published": "2026-10-09T19:22:22+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026108423/0001213900-26-108423-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-09T19:12:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for JBS (NYSE:JBS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-jbs-nyse-jbs-stock-price-2026-10-09/",
-      "source": "marketbeat.com",
-      "published": "2026-10-09T19:12:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526418963/0001193125-26-418963-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-09T19:08:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bloomberg Daybreak Weekend: US Bank Earnings (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-10-09/bloomberg-daybreak-weekend-us-bank-earnings-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-10-09T18:59:27+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050388/0001839882-26-050388-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-09T18:55:35+00:00",
-      "tickers": [
+        "C",
         "MS"
       ]
     },
     {
-      "title": "Vanguard VEA vs. State Street SPDW: Which Developed Markets ETF Wins This Tight Race?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/09/vanguard-vea-vs-state-street-spdw-which-developed-markets-etf-wins-this-tight-race/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-09T18:55:02+00:00",
+      "title": "Bessent Will Likely Cut US Long Bond Sales Next Month, Says Citi",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/bessent-will-likely-cut-us-long-bond-sales-next-month-says-citi",
+      "source": "bloomberg.com",
+      "published": "2026-10-09T22:40:53+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "Investors Poured $166 Billion Into Cash Funds in Just One Week. BofA Says They Aren't Ready To Leave.",
-      "url": "https://www.ibtimes.com/investors-poured-166-billion-cash-funds-just-one-week-bofa-says-they-arent-ready-leave-3808426",
-      "source": "ibtimes.com",
-      "published": "2026-10-09T18:54:42+00:00",
+      "title": "RUN Maintained by Citigroup -- Price Target Lowered to $14.00",
+      "url": "https://www.gurufocus.com/news/9117907/run-maintained-by-citigroup-price-target-lowered-to-1400",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:02:19+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VNOM Maintains Buy Rating by Citigroup -- Price Target Lowered to $52",
+      "url": "https://www.gurufocus.com/news/9117905/vnom-maintains-buy-rating-by-citigroup-price-target-lowered-to-52",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:01:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PEP Maintained by Citigroup -- Price Target Lowered to $135",
+      "url": "https://www.gurufocus.com/news/9117903/pep-maintained-by-citigroup-price-target-lowered-to-135",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:01:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "KGS Maintained by Citigroup -- Price Target Lowered to $82.00",
+      "url": "https://www.gurufocus.com/news/9117900/kgs-maintained-by-citigroup-price-target-lowered-to-8200",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:01:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PS Downgraded by Citigroup -- Rating Changed to Sell",
+      "url": "https://www.gurufocus.com/news/9117898/ps-downgraded-by-citigroup-rating-changed-to-sell",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:00:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Downgrades DuPont (DD) Amid Industrial Demand Concerns",
+      "url": "https://www.gurufocus.com/news/9117897/jp-morgan-downgrades-dupont-dd-amid-industrial-demand-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:00:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FBIN Initiated Coverage by Citigroup -- Rating Upgraded to Buy",
+      "url": "https://www.gurufocus.com/news/9117896/fbin-initiated-coverage-by-citigroup-rating-upgraded-to-buy",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T22:00:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract",
+      "url": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract",
+      "source": "seekingalpha.com",
+      "published": "2026-10-09T21:59:09+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Credit card and/or high yield savings WITHOUT aggressive upselling",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x1tmpd/credit_card_andor_high_yield_savings_without/",
-      "source": "reddit.com",
-      "published": "2026-10-09T18:52:05+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-09T18:48:08+00:00",
+      "title": "STLD Maintained by JP Morgan -- Price Target Lowered to $260",
+      "url": "https://www.gurufocus.com/news/9117830/stld-maintained-by-jp-morgan-price-target-lowered-to-260",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:36:52+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Week Ahead: JPMorgan, Goldman Sachs, & Bank of America (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-10-09/week-ahead-jpmorgan-goldman-sachs-bank-of-america-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-10-09T18:45:58+00:00",
+      "title": "RNR Maintained by JP Morgan -- Price Target Lowered to $355",
+      "url": "https://www.gurufocus.com/news/9117828/rnr-maintained-by-jp-morgan-price-target-lowered-to-355",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:36:10+00:00",
       "tickers": [
-        "BAC",
-        "C",
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Three Things to Watch From JPMorgan, Goldman and Other Big Bank Earnings",
-      "url": "https://www.youtube.com/shorts/Y9Vo7sIP1zI",
-      "source": "youtube.com",
-      "published": "2026-10-09T18:40:58+00:00",
+      "title": "RRX Maintained by JP Morgan -- Price Target Lowered to $196",
+      "url": "https://www.gurufocus.com/news/9117827/rrx-maintained-by-jp-morgan-price-target-lowered-to-196",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:35:47+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Why Goldman Sachs Thinks You Should Buy the Palantir Stock Dip",
-      "url": "https://www.barchart.com/story/news/5449838/why-goldman-sachs-thinks-you-should-buy-the-palantir-stock-dip",
-      "source": "barchart.com",
-      "published": "2026-10-09T18:36:35+00:00",
+      "title": "PEP Maintained by JP Morgan -- Price Target Lowered to $137",
+      "url": "https://www.gurufocus.com/news/9117826/pep-maintained-by-jp-morgan-price-target-lowered-to-137",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:35:29+00:00",
       "tickers": [
-        "GS"
+        "JPM"
+      ]
+    },
+    {
+      "title": "PH Maintained by JP Morgan -- Price Target Lowered to $1131",
+      "url": "https://www.gurufocus.com/news/9117825/ph-maintained-by-jp-morgan-price-target-lowered-to-1131",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:35:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PLMR Maintained by JP Morgan -- Price Target Lowered to $156",
+      "url": "https://www.gurufocus.com/news/9117824/plmr-maintained-by-jp-morgan-price-target-lowered-to-156",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:34:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NUE Maintained by JP Morgan -- Price Target Lowered to $296",
+      "url": "https://www.gurufocus.com/news/9117823/nue-maintained-by-jp-morgan-price-target-lowered-to-296",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:34:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "LEGN Maintained by JP Morgan -- Price Target Lowered to $33",
+      "url": "https://www.gurufocus.com/news/9117822/legn-maintained-by-jp-morgan-price-target-lowered-to-33",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:34:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KNSL Maintained by JP Morgan -- Price Target Lowered to $375",
+      "url": "https://www.gurufocus.com/news/9117821/knsl-maintained-by-jp-morgan-price-target-lowered-to-375",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:33:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GEV Maintained by JP Morgan -- Price Target Lowered to $1150",
+      "url": "https://www.gurufocus.com/news/9117819/gev-maintained-by-jp-morgan-price-target-lowered-to-1150",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:33:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FTV Maintains Underweight Rating -- Price Target Lowered to $56.00 by JP Morgan",
+      "url": "https://www.gurufocus.com/news/9117818/ftv-maintains-underweight-rating-price-target-lowered-to-5600-by-jp-morgan",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:32:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FPS Maintains Overweight Rating by JP Morgan -- Price Target Lowered to $49",
+      "url": "https://www.gurufocus.com/news/9117817/fps-maintains-overweight-rating-by-jp-morgan-price-target-lowered-to-49",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:32:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CMC Maintained by JP Morgan -- Price Target Lowered to $80.00",
+      "url": "https://www.gurufocus.com/news/9117816/cmc-maintained-by-jp-morgan-price-target-lowered-to-8000",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:32:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CLF Maintained by JP Morgan -- Price Target Lowered to $12.00",
+      "url": "https://www.gurufocus.com/news/9117815/clf-maintained-by-jp-morgan-price-target-lowered-to-1200",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:31:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CB Maintained by JP Morgan -- Price Target Lowered to $371",
+      "url": "https://www.gurufocus.com/news/9117814/cb-maintained-by-jp-morgan-price-target-lowered-to-371",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:31:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ACGL Maintained by JP Morgan -- Price Target Lowered to $113.00",
+      "url": "https://www.gurufocus.com/news/9117813/acgl-maintained-by-jp-morgan-price-target-lowered-to-11300",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T21:31:10+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
