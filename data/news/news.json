@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-10-10T00:15:54.294972+00:00",
+  "last_updated": "2026-10-10T06:17:29.054229+00:00",
   "headlines": [
+    {
+      "title": "Visible Alpha Breakdown Of U.S. Banks' Q3 2026 Earnings Expectations | $JPM $BAC $C $WFC",
+      "url": "https://seekingalpha.com/article/4953201-visible-alpha-breakdown-of-us-banks-q3-2026-earnings-expectations",
+      "source": "seekingalpha.com",
+      "published": "2026-10-10T05:15:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SPDR SSgA Income Allocation ETF (NYSEARCA:INKM) Sees Significant Decline in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13614527/spdr-ssga-income-allocation-etf-nysearcainkm-sees-significant-decline-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-10T03:40:59+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "US Refining Industry Enters Earnings Season, Goldman Sachs Bullish on Three Buy-Rated Companies",
+      "url": "https://nai500.com/blog/2026/10/us-refining-industry-enters-earnings-season-goldman-sachs-bullish-on-three-buy-rated-companies/",
+      "source": "nai500.com",
+      "published": "2026-10-10T02:33:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Harley-Davidson (HOG) – Investment Analysts’ Recent Ratings Changes",
+      "url": "https://www.tickerreport.com/banking-finance/13614446/harley-davidson-hog-investment-analysts-recent-ratings-changes.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-10T00:56:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Zetwerk eyes ₹27,000 crore IPO valuation as over 30 investors weigh anchor book",
+      "url": "https://www.livemint.com/companies/news/zetwerk-eyes-27-000-crore-ipo-valuation-as-over-30-investors-weigh-anchor-book-11791532870989.html",
+      "source": "livemint.com",
+      "published": "2026-10-10T00:15:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi Predicts Potential Cuts to 20-Year Treasury Auctions",
+      "url": "https://www.gurufocus.com/news/9118128/citi-predicts-potential-cuts-to-20year-treasury-auctions",
+      "source": "gurufocus.com",
+      "published": "2026-10-10T00:08:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Downgrades Alignment Healthcare (ALHC) After CMS Star Rating Cut",
+      "url": "https://www.gurufocus.com/news/9118075/bofa-downgrades-alignment-healthcare-alhc-after-cms-star-rating-cut",
+      "source": "gurufocus.com",
+      "published": "2026-10-09T23:55:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "21,476 Citigroup Inc. $C Shares Sold by Sound Income Strategies LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-21476-citigroup-inc-c-shares-sold-by-sound-income-strategies-llc-2026-10-09/",
@@ -8,6 +75,15 @@
       "published": "2026-10-09T23:28:47+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "62,322 State Street SPDR Portfolio S&P 500 ETF $SPYM Shares Purchased by Balefire LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13614335/62322-state-street-spdr-portfolio-sp-500-etf-spym-shares-purchased-by-balefire-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-09T23:14:54+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -199,78 +275,6 @@
       "url": "https://www.gurufocus.com/news/9117822/legn-maintained-by-jp-morgan-price-target-lowered-to-33",
       "source": "gurufocus.com",
       "published": "2026-10-09T21:34:09+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KNSL Maintained by JP Morgan -- Price Target Lowered to $375",
-      "url": "https://www.gurufocus.com/news/9117821/knsl-maintained-by-jp-morgan-price-target-lowered-to-375",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:33:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GEV Maintained by JP Morgan -- Price Target Lowered to $1150",
-      "url": "https://www.gurufocus.com/news/9117819/gev-maintained-by-jp-morgan-price-target-lowered-to-1150",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:33:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FTV Maintains Underweight Rating -- Price Target Lowered to $56.00 by JP Morgan",
-      "url": "https://www.gurufocus.com/news/9117818/ftv-maintains-underweight-rating-price-target-lowered-to-5600-by-jp-morgan",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:32:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FPS Maintains Overweight Rating by JP Morgan -- Price Target Lowered to $49",
-      "url": "https://www.gurufocus.com/news/9117817/fps-maintains-overweight-rating-by-jp-morgan-price-target-lowered-to-49",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:32:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CMC Maintained by JP Morgan -- Price Target Lowered to $80.00",
-      "url": "https://www.gurufocus.com/news/9117816/cmc-maintained-by-jp-morgan-price-target-lowered-to-8000",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:32:10+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CLF Maintained by JP Morgan -- Price Target Lowered to $12.00",
-      "url": "https://www.gurufocus.com/news/9117815/clf-maintained-by-jp-morgan-price-target-lowered-to-1200",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:31:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CB Maintained by JP Morgan -- Price Target Lowered to $371",
-      "url": "https://www.gurufocus.com/news/9117814/cb-maintained-by-jp-morgan-price-target-lowered-to-371",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:31:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ACGL Maintained by JP Morgan -- Price Target Lowered to $113.00",
-      "url": "https://www.gurufocus.com/news/9117813/acgl-maintained-by-jp-morgan-price-target-lowered-to-11300",
-      "source": "gurufocus.com",
-      "published": "2026-10-09T21:31:10+00:00",
       "tickers": [
         "JPM"
       ]
