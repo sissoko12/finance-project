@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-10-10T17:46:19.785581+00:00",
+  "last_updated": "2026-10-10T21:28:19.269527+00:00",
   "headlines": [
+    {
+      "title": "Title: Looking to move savings out of Chase — is E*TRADE a good option?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x2p83p/title_looking_to_move_savings_out_of_chase_is/",
+      "source": "reddit.com",
+      "published": "2026-10-10T20:28:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Forget JEPI: Goldman’s Income Fund Held Its Payment Steady While JEPI’s Shrank",
+      "url": "https://247wallst.com/investing/etf/2026/10/10/forget-jepi-goldmans-income-fund-held-its-payment-steady-while-jepis-shrank/",
+      "source": "247wallst.com",
+      "published": "2026-10-10T20:03:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Dear Wells Fargo Stock Fans, Mark Your Calendars for October 13",
+      "url": "https://www.barchart.com/story/news/5766383/dear-wells-fargo-stock-fans-mark-your-calendars-for-october-13",
+      "source": "barchart.com",
+      "published": "2026-10-10T18:59:27+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Better Pharma ETF: iShares IHE vs. State Street XPH",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/10/better-pharma-etf-ishares-ihe-vs-state-street-xph/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-10T17:11:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Sachs resets Palantir Stock 12-month price target by 18% - TheStreet",
+      "url": "https://news.google.com/atom/articles/CBMi3gFBVV95cUxQVm9wWENFTEtabWJIQVBoZFBsQlQ2SmVzLVRXYkZyVHZQYnlKR1J2MXA4aDlQVnFZVFMxQlBWYnlzVHlPMEVTQU5pLVRmUVV0VUpIbHhGc0p6TkctOWhPV18xOUFlai1WMnpwX1AzTlVQWXhVUU4yc2JlVEFhQm1qVnRjTGg0Szd5NXlUR0RpMndwY0JXeHBSSV9zb1gzWHlNcUhTZVNhMnFrZjhyLXE4U0pRTUZwbkhUeE56Vkk5RWdoY2cyNWZXdGVrVEdxMGxMRGVIc09pNWNqNGF1NVE?oc=5",
+      "source": "google.com",
+      "published": "2026-10-10T17:07:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs Access Investment Grade Corporate Bond ETF (NYSEARCA:GIGB) Stock Short Interest Rises 450.3%",
       "url": "https://www.tickerreport.com/banking-finance/13615212/goldman-sachs-access-investment-grade-corporate-bond-etf-nysearcagigb-stock-short-interest-rises-450-3.html",
@@ -11,10 +57,19 @@
       ]
     },
     {
+      "title": "U.S. Bank Business Essentials Visa review: A solid choice for U.S. Bank customers",
+      "url": "https://thepointsguy.com/credit-cards/reviews/us-bank-business-essentials-visa-card/",
+      "source": "thepointsguy.com",
+      "published": "2026-10-10T17:00:32+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
       "title": "Better Healthcare ETF: VanEck's Biotech-Focused BBH vs. State Street's XPH Targeting Pharma",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/10/better-healthcare-etf-vaneck-s-biotech-focused-bbh-vs-state-street-s-xph-targeting-pharma/",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/10/better-healthcare-etf-vaneck-s-biotech-focused-bbh-vs-state-street-s-xph-targeting-pharma/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-10-10T16:39:50+00:00",
+      "published": "2026-10-10T16:19:50+00:00",
       "tickers": [
         "STT"
       ]
@@ -69,15 +124,6 @@
       ]
     },
     {
-      "title": "Which Growth-Focused ETF is the Better Fit? Vanguard Morningstar Growth (VUG) or SPDR Small Cap Growth ETF (SLYG)?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/10/which-growth-focused-etf-is-the-better-fit-vanguard-morningstar-growth-vug-or-spdr-small-cap-growth-etf-slyg/",
-      "source": "fool.com",
-      "published": "2026-10-10T15:05:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
       "title": "️ How Drew Cohen Picks Winners",
       "url": "https://yhamiltonblog.substack.com/p/how-drew-cohen-picks-winners",
       "source": "substack.com",
@@ -108,10 +154,10 @@
       ]
     },
     {
-      "title": "A Battle of REIT ETFs: Which REIT ETF Offers Better Value for Income-Oriented Investors?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/10/xlre-vs-icf-which-reit-etf-offers-better-value-for-income-investors/",
+      "title": "Which Growth-Focused ETF is the Better Fit? Vanguard Morningstar Growth (VUG) or SPDR Small Cap Growth ETF (SLYG)?",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/10/which-growth-focused-etf-is-the-better-fit-vanguard-morningstar-growth-vug-or-spdr-small-cap-growth-etf-slyg/?source=iedfolrf0000001",
       "source": "fool.com",
-      "published": "2026-10-10T14:30:02+00:00",
+      "published": "2026-10-10T14:45:01+00:00",
       "tickers": [
         "STT"
       ]
@@ -124,6 +170,15 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "A Battle of REIT ETFs: Which REIT ETF Offers Better Value for Income-Oriented Investors?",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/10/xlre-vs-icf-which-reit-etf-offers-better-value-for-income-investors/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-10T14:10:02+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -229,63 +284,6 @@
       "published": "2026-10-10T11:00:12+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Revealed 1 of the Biggest Risks to JPMorgan Chase, and This Stock Could Benefit",
-      "url": "https://www.fool.com/investing/2026/10/10/jamie-dimon-risks-jpmorgan-chase-this-stock-benefi/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-10T10:27:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street (STT) Stock May Trade Near Fair Value On Trump Accounts News",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-stt-stock-may-101724416.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-10T10:17:24+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Warren Buffett Held Wells Fargo Stock for More Than 30 Years Before Selling It. Here's the Lesson for Bank Stocks.",
-      "url": "https://www.fool.com/investing/2026/10/10/warren-buffett-held-wells-fargo-stock-for-more-tha/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-10T10:15:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Colgate-Palmolive (NYSE:CL) Stock Price Target Lowered at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-colgate-palmolive-nyse-cl-stock-price-target-lowered-at-bank-of-america-2026-10-10/",
-      "source": "marketbeat.com",
-      "published": "2026-10-10T09:54:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "‘It’s Just Going From One Pocket to the Other’: Chicago Fed Scholar on Why the 30-Year Pays 5.63%",
-      "url": "https://247wallst.com/personal-finance/2026/10/10/its-just-going-from-one-pocket-to-the-other-chicago-fed-scholar-on-why-the-30-year-pays-5-63/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-10T09:34:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Miami Dolphins quarterback Malik Willis huddles with the offense against the Minnesota Vikings during the second quarter at U.S. Bank Stadium on Oct. 4, 2026, in Minneapolis.",
-      "url": "https://thebrunswicknews.com/sports/national_sports/miami-dolphins-quarterback-malik-willis-huddles-with-the-offense-against-the-minnesota-vikings-during-the/image_067b67b0-3e7d-55a4-8226-60eb4cc1828e.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-10T09:30:00+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
