@@ -1,11 +1,38 @@
 {
-  "last_updated": "2026-10-11T00:24:31.944221+00:00",
+  "last_updated": "2026-10-11T06:17:16.553411+00:00",
   "headlines": [
     {
-      "title": "Ed Sheeran performs during iHeartRadio KISS108's Jingle Ball 2025 Presented By Capital One at TD Garden on Dec. 14, 2025, in Boston.",
-      "url": "https://thebrunswicknews.com/news/national_news/ed-sheeran-performs-during-iheartradio-kiss108s-jingle-ball-2025-presented-by-capital-one-at-td/image_197e2e97-3546-5582-87ca-7a491bffa141.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-10T21:53:00+00:00",
+      "title": "Citigroup (C) Set to Announce Earnings on Tuesday",
+      "url": "https://www.tickerreport.com/banking-finance/13615363/citigroup-c-set-to-announce-earnings-on-tuesday.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-11T05:10:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
+      "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
+      "source": "cnbc.com",
+      "published": "2026-10-11T05:00:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Major US Bank Branches Face Mixed Columbus Day Schedules as Some Payments and Transfers Could Be Delayed",
+      "url": "https://www.ibtimes.co.uk/us-banks-open-columbus-day-2026-payment-delays-1824848",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-11T04:49:40+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Matthew Cooper, Capital One general counsel, sells $686,770 in COF stock",
+      "url": "https://www.investing.com/news/insider-trading-news/matthew-cooper-capital-one-general-counsel-sells-686770-in-cof-stock-93CH-4942433",
+      "source": "investing.com",
+      "published": "2026-10-11T02:31:11+00:00",
       "tickers": [
         "C",
         "COF"
@@ -255,34 +282,6 @@
       "published": "2026-10-10T13:36:58+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Roblox's hottest new game is already cooling off",
-      "url": "https://www.thestreet.com/entertainment/robloxs-hottest-new-game-is-already-cooling-off?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-10-10T13:33:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Ex Goldman Sachs CEO got into Harvard University at 16 from public housing—and says higher education is the best way to break into the middle class",
-      "url": "https://fortune.com/article/former-goldman-sachs-ceo-lloyd-blankfein-got-into-harvard-at-16-from-brooklyn-public-housing-says-higher-education-best-way-break-into-middle-class/",
-      "source": "fortune.com",
-      "published": "2026-10-10T13:29:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Flex (FLEX) Moved Higher, What Is Behind The Fresh Attention?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/flex-flex-moved-higher-behind-131326564.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-10T13:13:26+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
