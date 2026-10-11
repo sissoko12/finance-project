@@ -1,6 +1,84 @@
 {
-  "last_updated": "2026-10-11T18:23:07.224412+00:00",
+  "last_updated": "2026-10-11T22:21:44.830278+00:00",
   "headlines": [
+    {
+      "title": "Renting Is Still Cheaper Than Buying — but JPMorgan Says US Housing Affordability Is Getting Worse: ‘Incomes Have Simply Failed to Keep Up’",
+      "url": "https://finance.yahoo.com/real-estate/articles/renting-still-cheaper-buying-jpmorgan-183005356.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-11T18:30:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Warren Buffett Bought These 4 Dividend Stocks Years Ago. Here's What $1,000 in Each Would Be Worth Today.",
+      "url": "https://www.fool.com/investing/2026/10/11/warren-buffett-bought-these-4-dividend-stocks-year/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-11T18:15:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stock Futures Kick Off New Week Ahead of Bank Reports",
+      "url": "https://finance.yahoo.com/m/acbd48df-f128-333b-bfb4-57cdd62f83bf/stock-futures-kick-off-new.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-11T18:11:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Cboe Global Markets (CBOE) Stock Sees Modest Fair Value Lift After S&P Deal Renewal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-global-markets-cboe-stock-180737932.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-11T18:07:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo, Bank of America, Domino’s, Johnson & Johnson, Inflation Data, and More to Watch This Week",
+      "url": "https://finance.yahoo.com/m/63470f09-0012-3664-9778-7a6e6caecb92/wells-fargo%2C-bank-of-america%2C.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-11T18:00:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan's CEO sends a stern warning to corporate America",
+      "url": "https://www.thestreet.com/investing/jpmorgans-ceo-sends-a-stern-warning-to-corporate-america?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-11T17:47:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo Advisors Recruits $410 Million Firm Strong Wealth Management",
+      "url": "https://pulse2.com/wells-fargo-advisors-recruits-410-million-firm-strong-wealth-management/",
+      "source": "pulse2.com",
+      "published": "2026-10-11T17:45:01+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs projects $600 billion in US equity issuance in 2027",
+      "url": "https://cryptobriefing.com/goldman-sachs-600-billion-equity-issuance-2027/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-11T17:34:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Wall Street Brunch: Start Your Earnings Engines | $JPM $KBE $WFC $C $MS",
       "url": "https://seekingalpha.com/article/4953361-wall-street-bruch-start-your-earnings-engines",
@@ -32,6 +110,15 @@
       ]
     },
     {
+      "title": "Savara Has Lost 30% Since December: JPMorgan Sees 146% Upside",
+      "url": "https://www.tikr.com/blog/savara-has-lost-30-since-december-jpmorgan-sees-146-upside?ref=yahoofinance&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-11T16:43:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Top Financial Stocks To Watch Now - October 11th",
       "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-watch-now-october-11th-2026-10-11/",
       "source": "marketbeat.com",
@@ -50,12 +137,41 @@
       ]
     },
     {
+      "title": "NovaGold Has Lost 55% Since March: Morgan Stanley Sees 104% Upside",
+      "url": "https://www.tikr.com/blog/novagold-has-lost-55-since-march-morgan-stanley-sees-104-upside?ref=yahoofinance&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-11T15:32:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "3 Big Bank Stocks Facing A Q3 Test As Treasury Yields Rise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-bank-stocks-facing-151046681.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-11T15:10:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs sees $600B U.S. equity issuance in 2027",
       "url": "https://seekingalpha.com/news/4651925-goldman-sachs-sees-record-600b-in-u-s-equity-issuance-in-2027",
       "source": "seekingalpha.com",
       "published": "2026-10-11T15:09:19+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "5 Historically Cheap High-Yield Dividend Stocks Ripe for Income Seekers Looking Beyond Tech",
+      "url": "https://247wallst.com/investing/2026/10/11/5-historically-cheap-high-yield-dividend-stocks-ripe-for-income-seekers-looking-beyond-tech/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-11T15:00:52+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -66,6 +182,15 @@
       "tickers": [
         "C",
         "TFC"
+      ]
+    },
+    {
+      "title": "US Luxury Spending Falls 6% in September as Third-Quarter Demand Declines, Citi Reports",
+      "url": "https://investorshub.advfn.com/market-news/article/37827/us-luxury-spending-falls-6-in-september-as-third-quarter-demand-declines-citi-reports?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-10-11T14:22:44+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -162,126 +287,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "‘You’re Now an Insurance Agent’: Ramsey to 21-Year-Old Whose Firm Bought Him a Series 7",
-      "url": "https://247wallst.com/personal-finance/2026/10/11/youre-now-an-insurance-agent-ramsey-to-21-year-old-whose-firm-bought-him-a-series-7/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-11T08:58:45+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Warren Buffett watches YouTube, David Solomon DJs, and this former NFL coach spent 12 years playing Minecraft",
-      "url": "https://fortune.com/2026/10/11/hobbies-part-of-secret-for-success-former-nfl-coach-mike-tomlin-built-twelve-year-minecraft-city/",
-      "source": "fortune.com",
-      "published": "2026-10-11T08:02:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Kennametal (NYSE:KMT) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13615396/kennametal-nysekmt-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:24:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Terex (NYSE:TEX) Stock Gets Price Target Reduction from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13615395/terex-nysetex-stock-gets-price-target-reduction-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:18:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Marsh & McLennan Companies (NYSE:MRSH) Stock Gets Price Target Cut from Evercore",
-      "url": "https://www.tickerreport.com/banking-finance/13615394/marsh-mclennan-companies-nysemrsh-stock-gets-price-target-cut-from-evercore.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:18:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Constellation Brands (NYSE:STZ) Stock Gets Price Target Trim from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13615390/constellation-brands-nysestz-stock-gets-price-target-trim-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:06:51+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Research Coverage Started at TD Cowen",
-      "url": "https://www.tickerreport.com/banking-finance/13615391/the-pnc-financial-services-group-nysepnc-research-coverage-started-at-td-cowen.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:06:51+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Enterprise Products Partners (NYSE:EPD) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13615388/enterprise-products-partners-nyseepd-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:01:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup (NYSE:C) Stock Rated “Buy” in New Coverage at TD Cowen",
-      "url": "https://www.tickerreport.com/banking-finance/13615387/citigroup-nysec-stock-rated-buy-in-new-coverage-at-td-cowen.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T06:01:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Set to Announce Earnings on Tuesday",
-      "url": "https://www.tickerreport.com/banking-finance/13615363/citigroup-c-set-to-announce-earnings-on-tuesday.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-11T05:10:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
-      "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
-      "source": "cnbc.com",
-      "published": "2026-10-11T05:00:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Major US Bank Branches Face Mixed Columbus Day Schedules as Some Payments and Transfers Could Be Delayed",
-      "url": "https://www.ibtimes.co.uk/us-banks-open-columbus-day-2026-payment-delays-1824848",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-11T04:49:40+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Matthew Cooper, Capital One general counsel, sells $686,770 in COF stock",
-      "url": "https://www.investing.com/news/insider-trading-news/matthew-cooper-capital-one-general-counsel-sells-686770-in-cof-stock-93CH-4942433",
-      "source": "investing.com",
-      "published": "2026-10-11T02:31:11+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
