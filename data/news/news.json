@@ -1,289 +1,281 @@
 {
-  "last_updated": "2026-10-12T01:39:05.396603+00:00",
+  "last_updated": "2026-10-12T08:59:51.713692+00:00",
   "headlines": [
     {
-      "title": "Which Global Real Estate ETF Is the Better Buy: State Street’s RWO or Xtrackers’ HAUZ?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/11/which-global-real-estate-etf-is-the-better-buy-state-street-s-rwo-or-xtrackers-hauz/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-12T00:02:27+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Chase Briscoe, driver of the #19 Freebird Spring Water Toyota, celebrates in victory lane after winning the NASCAR Cup Series Bank of America 400 at Charlotte Motor Speedway on Sunday, Oct. 11, 2026, in Concord, N.C..",
-      "url": "https://thebrunswicknews.com/sports/national_sports/chase-briscoe-driver-of-the-19-freebird-spring-water-toyota-celebrates-in-victory-lane-after/image_93f80195-815a-500f-905c-d27e52039b39.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-11T23:37:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Which Corporate Bond ETF Is the Better Buy: iShares’ LQD or State Street’s SPLB?",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/11/which-corporate-bond-etf-is-the-better-buy-ishares-lqd-or-state-street-s-splb/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-11T23:32:38+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "NASCAR Cup Series Bank of America 400 Results",
-      "url": "https://www.newspressnow.com/news/national_news/business/nascar-cup-series-bank-of-america-400-results/article_24f28abd-63c7-55e0-8790-5d465e57648b.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-11T22:28:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Renting Is Still Cheaper Than Buying — but JPMorgan Says US Housing Affordability Is Getting Worse: ‘Incomes Have Simply Failed to Keep Up’",
-      "url": "https://finance.yahoo.com/real-estate/articles/renting-still-cheaper-buying-jpmorgan-183005356.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-11T18:30:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Warren Buffett Bought These 4 Dividend Stocks Years Ago. Here's What $1,000 in Each Would Be Worth Today.",
-      "url": "https://www.fool.com/investing/2026/10/11/warren-buffett-bought-these-4-dividend-stocks-year/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-11T18:15:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stock Futures Kick Off New Week Ahead of Bank Reports",
-      "url": "https://finance.yahoo.com/m/acbd48df-f128-333b-bfb4-57cdd62f83bf/stock-futures-kick-off-new.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-11T18:11:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Cboe Global Markets (CBOE) Stock Sees Modest Fair Value Lift After S&P Deal Renewal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-global-markets-cboe-stock-180737932.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-11T18:07:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wells Fargo, Bank of America, Domino’s, Johnson & Johnson, Inflation Data, and More to Watch This Week",
-      "url": "https://finance.yahoo.com/m/63470f09-0012-3664-9778-7a6e6caecb92/wells-fargo%2C-bank-of-america%2C.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-11T18:00:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan's CEO sends a stern warning to corporate America",
-      "url": "https://www.thestreet.com/investing/jpmorgans-ceo-sends-a-stern-warning-to-corporate-america?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-10-11T17:47:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo Advisors Recruits $410 Million Firm Strong Wealth Management",
-      "url": "https://pulse2.com/wells-fargo-advisors-recruits-410-million-firm-strong-wealth-management/",
-      "source": "pulse2.com",
-      "published": "2026-10-11T17:45:01+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs projects $600 billion in US equity issuance in 2027",
-      "url": "https://cryptobriefing.com/goldman-sachs-600-billion-equity-issuance-2027/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-11T17:34:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wall Street Brunch: Start Your Earnings Engines | $JPM $KBE $WFC $C $MS",
-      "url": "https://seekingalpha.com/article/4953361-wall-street-bruch-start-your-earnings-engines",
-      "source": "seekingalpha.com",
-      "published": "2026-10-11T17:29:00+00:00",
-      "tickers": [
-        "JPM",
-        "WFC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Projects $600B Equity Raise in 2027 Amid AI Investment Surge (GS)",
-      "url": "https://www.gurufocus.com/news/9118588/goldman-sachs-projects-600b-equity-raise-in-2027-amid-ai-investment-surge-gs",
+      "title": "Pershing Square Inc. (PSH) Receives Downgrade from Citi Amid Valuation Concerns",
+      "url": "https://www.gurufocus.com/news/9118700/pershing-square-inc-psh-receives-downgrade-from-citi-amid-valuation-concerns",
       "source": "gurufocus.com",
-      "published": "2026-10-11T16:56:04+00:00",
+      "published": "2026-10-12T07:11:04+00:00",
       "tickers": [
-        "GS"
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Chase (JPM) Poised for Q3 Earnings Growth Amid Solid Dividend Outlook",
-      "url": "https://www.gurufocus.com/news/9118587/jpmorgan-chase-jpm-poised-for-q3-earnings-growth-amid-solid-dividend-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-10-11T16:55:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Savara Has Lost 30% Since December: JPMorgan Sees 146% Upside",
-      "url": "https://www.tikr.com/blog/savara-has-lost-30-since-december-jpmorgan-sees-146-upside?ref=yahoofinance&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-10-11T16:43:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Watch Now - October 11th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-watch-now-october-11th-2026-10-11/",
+      "title": "The PNC Financial Services Group, Inc (NYSE:PNC) Stock Has Average Price Target of $270.11 According to Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-the-pnc-financial-services-group-inc-nyse-pnc-stock-has-average-price-target-of-27011-according-to-brokerages-2026-10-12/",
       "source": "marketbeat.com",
-      "published": "2026-10-11T16:01:54+00:00",
+      "published": "2026-10-12T06:44:18+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Pacira BioSciences (NASDAQ:PCRX) Cut to “Hold” at Truist Financial",
+      "url": "https://www.tickerreport.com/banking-finance/13615838/pacira-biosciences-nasdaqpcrx-cut-to-hold-at-truist-financial.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T06:12:53+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "GE Vernova (NYSE:GEV) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13615829/ge-vernova-nysegev-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T06:01:01+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase Aims to Double European AUM to $2 Trillion Amid Growing Demand (JPM)",
-      "url": "https://www.gurufocus.com/news/9118584/jpmorgan-chase-aims-to-double-european-aum-to-2-trillion-amid-growing-demand-jpm",
-      "source": "gurufocus.com",
-      "published": "2026-10-11T15:55:43+00:00",
+      "title": "Commercial Metals (NYSE:CMC) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13615828/commercial-metals-nysecmc-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T06:01:01+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "NovaGold Has Lost 55% Since March: Morgan Stanley Sees 104% Upside",
-      "url": "https://www.tikr.com/blog/novagold-has-lost-55-since-march-morgan-stanley-sees-104-upside?ref=yahoofinance&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-10-11T15:32:52+00:00",
+      "title": "ASGN (NYSE:EFOR) Price Target Raised to $45.00",
+      "url": "https://www.tickerreport.com/banking-finance/13615827/asgn-nyseefor-price-target-raised-to-45-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T06:00:58+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Regal Rexnord (NYSE:RRX) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13615814/regal-rexnord-nyserrx-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T05:42:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Nucor (NYSE:NUE) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13615812/nucor-nysenue-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T05:42:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Nasdaq (NASDAQ:NDAQ) Stock Gets Price Target Reduction from Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13615808/nasdaq-nasdaqndaq-stock-gets-price-target-reduction-from-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T05:36:51+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "3 Big Bank Stocks Facing A Q3 Test As Treasury Yields Rise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-bank-stocks-facing-151046681.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-11T15:10:46+00:00",
+      "title": "Carrier Global (NYSE:CARR) Stock Rated “Neutral” in New Coverage at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13615806/carrier-global-nysecarr-stock-rated-neutral-in-new-coverage-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T05:36:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Intercontinental Exchange (NYSE:ICE) Price Target Raised to $173.00",
+      "url": "https://www.tickerreport.com/banking-finance/13615804/intercontinental-exchange-nyseice-price-target-raised-to-173-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T05:30:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "FY2027 EPS Estimate for Morgan Stanley Boosted by Analyst",
+      "url": "https://www.marketbeat.com/instant-alerts/estimates-fy2027-eps-estimate-for-morgan-stanley-boosted-by-analyst-2026-10-12/",
+      "source": "marketbeat.com",
+      "published": "2026-10-12T05:12:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Alibaba: BofA reiterates Buy ahead of Sept qtr earnings",
+      "url": "https://www.investing.com/news/stock-market-news/alibaba-bofa-reiterates-buy-ahead-of-sept-qtr-earnings-4943098",
+      "source": "investing.com",
+      "published": "2026-10-12T05:07:09+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs sees $600B U.S. equity issuance in 2027",
-      "url": "https://seekingalpha.com/news/4651925-goldman-sachs-sees-record-600b-in-u-s-equity-issuance-in-2027",
-      "source": "seekingalpha.com",
-      "published": "2026-10-11T15:09:19+00:00",
+      "title": "Cboe Global Markets (BATS:CBOE) Upgraded at Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13615783/cboe-global-markets-batscboe-upgraded-at-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-12T05:06:56+00:00",
       "tickers": [
-        "GS"
+        "MS"
       ]
     },
     {
-      "title": "5 Historically Cheap High-Yield Dividend Stocks Ripe for Income Seekers Looking Beyond Tech",
-      "url": "https://247wallst.com/investing/2026/10/11/5-historically-cheap-high-yield-dividend-stocks-ripe-for-income-seekers-looking-beyond-tech/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-11T15:00:52+00:00",
+      "title": "Is Walt Disney (DIS) a Good or Bad Investment at Today’s Price?",
+      "url": "https://www.insidermonkey.com/news/is-walt-disney-dis-a-good-or-bad-investment-at-todays-price-1852355/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-12T05:02:01+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "STT"
       ]
     },
     {
-      "title": "Buy 9 S&P500 IDEAL \"Safer\" October Dividend Dogs | $HBAN $RF $T $TFC $F",
-      "url": "https://seekingalpha.com/article/4953341-buy-9-s-and-p500-ideal-safer-october-dividend-dogs",
-      "source": "seekingalpha.com",
-      "published": "2026-10-11T14:35:00+00:00",
+      "title": "Kraken Parent Entity Payward Strengthens Institutional Bridges as Wells Fargo Explores Crypto Liquidity Partnership",
+      "url": "https://www.crowdfundinsider.com/2026/10/317445-kraken-parent-entity-payward-strengthens-institutional-bridges-as-wells-fargo-explores-crypto-liquidity-partnership/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-10-12T04:35:27+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "US Luxury Spending Falls 6% in September as Third-Quarter Demand Declines, Citi Reports",
-      "url": "https://investorshub.advfn.com/market-news/article/37827/us-luxury-spending-falls-6-in-september-as-third-quarter-demand-declines-citi-reports?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-10-11T14:22:44+00:00",
+      "title": "Citi downgrades Bill Ackman’s Pershing Square to sell on valuation concerns",
+      "url": "https://www.investing.com/news/stock-market-news/citi-downgrades-bill-ackmans-pershing-square-to-sell-on-valuation-concerns-4943043",
+      "source": "investing.com",
+      "published": "2026-10-12T03:54:54+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "J.P. Morgan targets $2 trillion in European assets as ETF demand grows",
-      "url": "https://seekingalpha.com/news/4651924-j-p-morgan-targets-2-trillion-in-european-assets-as-etf-demand-grows",
-      "source": "seekingalpha.com",
-      "published": "2026-10-11T14:22:13+00:00",
+      "title": "Citi on Maneuvering Limited Government Fiscal Space",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-12/citi-on-maneuvering-limited-government-fiscal-space-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-12T03:47:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi opens 30-day downside catalyst watch on Volaris ahead of earnings",
+      "url": "https://www.investing.com/news/stock-market-news/citi-opens-30day-downside-catalyst-watch-on-volaris-ahead-of-earnings-4943037",
+      "source": "investing.com",
+      "published": "2026-10-12T03:43:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) To Report Earnings Tomorrow: Here Is What To Expect",
+      "url": "https://stockstory.org/us/stocks/nyse/gs/news/earnings/goldman-sachs-gs-to-report-earnings-tomorrow-here-is-what-to-expect",
+      "source": "stockstory.org",
+      "published": "2026-10-12T03:01:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "What To Expect From JPMorgan Chase’s (JPM) Q3 Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/jpm/news/earnings/what-to-expect-from-jpmorgan-chases-jpm-q3-earnings",
+      "source": "stockstory.org",
+      "published": "2026-10-12T03:00:48+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase (JPM) Set to Report Q3 2026 Earnings on October 13",
-      "url": "https://www.gurufocus.com/news/9118576/jpmorgan-chase-jpm-set-to-report-q3-2026-earnings-on-october-13",
+      "title": "Capitolis Raises $220 Million, Including $120 Million Series E At $1.9 Billion Valuation",
+      "url": "https://pulse2.com/capitolis-raises-220-million-including-120-million-series-e-at-1-9-billion-valuation/",
+      "source": "pulse2.com",
+      "published": "2026-10-12T02:58:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Raises Brent Oil Price Forecast to $90 Amid Middle East Supply Risks",
+      "url": "https://www.gurufocus.com/news/9118668/goldman-sachs-raises-brent-oil-price-forecast-to-90-amid-middle-east-supply-risks",
       "source": "gurufocus.com",
-      "published": "2026-10-11T13:55:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman resets PepsiCo stock target amid inflation and cost pressures",
-      "url": "https://www.thestreet.com/investing/stocks/goldman-cuts-pepsi-stock-price-target-inflation-cost-pressures?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-10-11T13:03:00+00:00",
+      "published": "2026-10-12T02:50:23+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Professional Dancers to Perform in Boca Ballet Theatre’s The Nutcracker",
-      "url": "https://www.bocaratontribune.com/bocaratonnews/2026/10/professional-dancers-to-perform-in-boca-ballet-theatres-the-nutcracker/",
-      "source": "bocaratontribune.com",
-      "published": "2026-10-11T12:33:00+00:00",
+      "title": "WATCH YOUR BIDS (s2026 e25) - Dan Niles is bearish, Paul Sankey’s cryptic message, Goldman ...",
+      "url": "https://posts.themacrotourist.com/p/watch-your-bids-s2026-e25",
+      "source": "themacrotourist.com",
+      "published": "2026-10-12T02:17:38+00:00",
       "tickers": [
+        "BAC",
         "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Hedge Funds Pile Into Magnificent 7 Stocks at Fastest Pace Since 2023, Pushing Exposure to 22%",
-      "url": "https://dailyhodl.com/2026/10/11/hedge-funds-pile-into-magnificent-7-stocks-at-fastest-pace-since-2023-pushing-exposure-to-22/",
-      "source": "dailyhodl.com",
-      "published": "2026-10-11T11:45:47+00:00",
-      "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank sees return on Chicago philanthropic investments",
-      "url": "https://www.stltoday.com/news/nation-world/business/economy/article_7bc5daac-c505-53f0-948f-6d6890b7e646.html",
-      "source": "stltoday.com",
-      "published": "2026-10-11T11:30:00+00:00",
+      "title": "Citigroup Lowers Target Price for Lao Pu Gold (LP) Amid Sales Recovery Concerns",
+      "url": "https://www.gurufocus.com/news/9118665/citigroup-lowers-target-price-for-lao-pu-gold-lp-amid-sales-recovery-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-10-12T02:11:24+00:00",
       "tickers": [
-        "JPM"
+        "C"
+      ]
+    },
+    {
+      "title": "What is SBA Communications’ (SBAC) Economic Moat, and is it Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-sba-communications-sbac-economic-moat-and-is-it-widening-or-narrowing-1852361/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-12T01:50:43+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "What is Copart’s (CPRT) Economic Moat, and is it Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-coparts-cprt-economic-moat-and-is-it-widening-or-narrowing-1852358/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-12T01:35:11+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win.",
+      "url": "https://www.fool.com/investing/2026/10/11/humanoid-robots-could-be-a-5-trillion-market-here/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-12T01:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "What is Domino’s (DPZ) Economic Moat, and is it Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-dominos-dpz-economic-moat-and-is-it-widening-or-narrowing-1852314/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-12T01:11:31+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "What is Philip Morris’ (PM) Economic Moat, and is it Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-philip-morris-pm-economic-moat-and-is-it-widening-or-narrowing-1852305/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-12T00:57:05+00:00",
+      "tickers": [
+        "STT"
       ]
     }
   ]
