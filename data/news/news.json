@@ -1,174 +1,281 @@
 {
-  "last_updated": "2026-10-13T16:19:53.420591+00:00",
+  "last_updated": "2026-10-13T21:28:29.372652+00:00",
   "headlines": [
     {
-      "title": "Salesforce (CRM) Stock Gains as Wall Street Rethinks AI Risks",
-      "url": "https://blockonomi.com/salesforce-crm-stock-gains-as-wall-street-rethinks-ai-risks216041-2/",
-      "source": "blockonomi.com",
-      "published": "2026-10-13T15:38:22+00:00",
+      "title": "Q3 2026 Citigroup Inc Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9121612/q3-2026-citigroup-inc-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T21:00:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Shares Slip Amid Steady Options Activity and Rising Volatility",
+      "url": "https://www.gurufocus.com/news/9121570/bank-of-america-bac-shares-slip-amid-steady-options-activity-and-rising-volatility",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:50:38+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Citigroup Inc. 2026 Q3 - Results - Earnings Call Presentation | $C",
-      "url": "https://seekingalpha.com/article/4953849-citigroup-inc-2026-q3-results-earnings-call-presentation",
+      "title": "Bank of America fined over $1.2B for anti-money laundering, sanctions violations",
+      "url": "https://seekingalpha.com/news/4652672-bank-of-america-fined-over-12b-for-anti-money-laundering-sanctions-violations",
       "source": "seekingalpha.com",
-      "published": "2026-10-13T15:31:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Breaking Down Big Bank Earnings",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-13/breaking-down-big-bank-earnings-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-13T15:30:28+00:00",
-      "tickers": [
-        "JPM",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031254/0001918704-26-031254-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-13T15:16:12+00:00",
+      "published": "2026-10-13T20:41:37+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050581/0001839882-26-050581-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-13T15:14:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526420013/0001193125-26-420013-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-13T15:13:36+00:00",
+      "title": "Goldman's Solomon wants 'clear human accountability' on AI",
+      "url": "https://www.americanbanker.com/news/goldmans-solomon-wants-clear-human-accountability-on-ai",
+      "source": "americanbanker.com",
+      "published": "2026-10-13T20:41:30+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Goldman Sachs Q3 2026 slides: record advisory fees drive strong beat",
-      "url": "https://www.investing.com/news/company-news/goldman-sachs-q3-2026-slides-record-advisory-fees-drive-strong-beat-93CH-4947187",
-      "source": "investing.com",
-      "published": "2026-10-13T15:04:20+00:00",
+      "title": "VMC Maintained by JP Morgan -- Price Target Lowered to $300",
+      "url": "https://www.gurufocus.com/news/9121569/vmc-maintained-by-jp-morgan-price-target-lowered-to-300",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:36:02+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "How to spot imposter scams - Wells Fargo reports imposter scams surged in 2024, costing $2.95 ...",
-      "url": "https://pantagraph.com/news/nation-world/business/article_5cc740f4-629f-59ba-a32d-c32f04252851.html",
-      "source": "pantagraph.com",
-      "published": "2026-10-13T15:00:06+00:00",
+      "title": "VRRM Maintained by JP Morgan -- Price Target Lowered to $5.00",
+      "url": "https://www.gurufocus.com/news/9121568/vrrm-maintained-by-jp-morgan-price-target-lowered-to-500",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:35:37+00:00",
       "tickers": [
-        "WFC",
+        "JPM"
+      ]
+    },
+    {
+      "title": "SO Maintains Rating by JP Morgan -- Price Target Lowered to $94",
+      "url": "https://www.gurufocus.com/news/9121567/so-maintains-rating-by-jp-morgan-price-target-lowered-to-94",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:35:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "TROW Maintained by JP Morgan -- Price Target Lowered to $106",
+      "url": "https://www.gurufocus.com/news/9121566/trow-maintained-by-jp-morgan-price-target-lowered-to-106",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:34:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank Of America Tops 300 Hires In Belfast As It Advances Toward 1,000-Job Commitment",
+      "url": "https://pulse2.com/bank-of-america-tops-300-hires-in-belfast-as-it-advances-toward-1000-job-commitment/",
+      "source": "pulse2.com",
+      "published": "2026-10-13T20:34:37+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Roivant Sciences added to Citi's 90-day catalyst watch",
-      "url": "https://seekingalpha.com/news/4652491-roivant-sciences-added-to-citi-90-day-catalyst-watch",
-      "source": "seekingalpha.com",
-      "published": "2026-10-13T14:56:52+00:00",
+      "title": "ROL Maintained by JP Morgan -- Price Target Lowered to $35",
+      "url": "https://www.gurufocus.com/news/9121565/rol-maintained-by-jp-morgan-price-target-lowered-to-35",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:34:26+00:00",
       "tickers": [
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "JPMorgan, Wells Fargo mortgage revenue falls in Q3",
-      "url": "https://www.housingwire.com/articles/q3-mortgage-revenue-decline/",
-      "source": "housingwire.com",
-      "published": "2026-10-13T14:44:54+00:00",
+      "title": "POWL Maintained by JP Morgan -- Price Target Lowered to $250",
+      "url": "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:34:05+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "JPM"
+      ]
+    },
+    {
+      "title": "PRM Maintained by JP Morgan -- Price Target Lowered to $40",
+      "url": "https://www.gurufocus.com/news/9121563/prm-maintained-by-jp-morgan-price-target-lowered-to-40",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:33:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ORN Maintained by JP Morgan -- Price Target Lowered to $14",
+      "url": "https://www.gurufocus.com/news/9121562/orn-maintained-by-jp-morgan-price-target-lowered-to-14",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:33:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MOG/A Maintained by JP Morgan -- Price Target Lowered to $480",
+      "url": "https://www.gurufocus.com/news/9121561/moga-maintained-by-jp-morgan-price-target-lowered-to-480",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:33:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MLM Maintained by JP Morgan -- Price Target Lowered to $650",
+      "url": "https://www.gurufocus.com/news/9121560/mlm-maintained-by-jp-morgan-price-target-lowered-to-650",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:32:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "LOGI Maintained by JP Morgan -- Price Target Lowered to $94.00",
+      "url": "https://www.gurufocus.com/news/9121559/logi-maintained-by-jp-morgan-price-target-lowered-to-9400",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:32:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KNF Maintained by JP Morgan -- Price Target Lowered to $63.00",
+      "url": "https://www.gurufocus.com/news/9121558/knf-maintained-by-jp-morgan-price-target-lowered-to-6300",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:32:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "ESE Maintained by JP Morgan -- Price Target Lowered to $350",
+      "url": "https://www.gurufocus.com/news/9121557/ese-maintained-by-jp-morgan-price-target-lowered-to-350",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:31:41+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015497/0000950103-26-015497-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031328/0001918704-26-031328-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-13T14:40:58+00:00",
+      "published": "2026-10-13T20:31:39+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Goldman’s CEO Solomon says to watch political volatility around data centers",
-      "url": "https://www.investing.com/news/economy-news/goldmans-ceo-solomon-says-to-watch-political-volatility-around-data-centers-4947151",
+      "title": "ETR Maintained by JP Morgan -- Price Target Lowered to $130",
+      "url": "https://www.gurufocus.com/news/9121556/etr-maintained-by-jp-morgan-price-target-lowered-to-130",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:31:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EROK Maintained by JP Morgan -- Price Target Lowered to $27",
+      "url": "https://www.gurufocus.com/news/9121555/erok-maintained-by-jp-morgan-price-target-lowered-to-27",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:30:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPM, Jamie Dimon Restricts AI Access to Customer Accounts",
+      "url": "https://www.gurufocus.com/news/9121554/jpm-jamie-dimon-restricts-ai-access-to-customer-accounts",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:30:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EXP Maintained by JP Morgan -- Price Target Lowered to $200",
+      "url": "https://www.gurufocus.com/news/9121553/exp-maintained-by-jp-morgan-price-target-lowered-to-200",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T20:30:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Meta stock pops again as its new Muse AI models enjoy a moment in the spotlight",
+      "url": "https://qz.com/meta-stock-muse-wonder-ai-model-launch-101326",
+      "source": "qz.com",
+      "published": "2026-10-13T20:30:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "More than a third of Americans earning over $500,000 say they’re living paycheck to paycheck, Goldman Sachs finds",
+      "url": "https://fortune.com/2026/10/13/500000-earners-paycheck-to-paycheck-goldman-sachs-retirement-survey/",
+      "source": "fortune.com",
+      "published": "2026-10-13T20:28:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi expects 2026 RoTCE above 11% with efficiency ratio below 60%",
+      "url": "https://seekingalpha.com/news/4652685-citi-expects-2026-rotce-above-11-percent-with-efficiency-ratio-below-60-percent",
+      "source": "seekingalpha.com",
+      "published": "2026-10-13T20:26:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Why Citigroup (C) Stock Is Trading Lower Today",
+      "url": "https://stockstory.org/us/stocks/nyse/c/news/why-up-down/why-citigroup-c-stock-is-trading-lower-today-3",
+      "source": "stockstory.org",
+      "published": "2026-10-13T20:25:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BofA fined $1.21B over AML - Bank of America failed to properly monitor trillions of dollars ...",
+      "url": "https://www.bankingdive.com/news/bofa-fined-1-21-billion-over-aml-bsa-occ-treasury/832915/",
+      "source": "bankingdive.com",
+      "published": "2026-10-13T20:25:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America fined $1.2 billion over anti-money laundering failures, FT reports",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-fined-12-billion-over-antimoney-laundering-failures-ft-reports-4947487",
       "source": "investing.com",
-      "published": "2026-10-13T14:39:12+00:00",
+      "published": "2026-10-13T20:24:08+00:00",
       "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "iPhone 18 Pro Demand Might Be Fine After All, Says JP Morgan",
-      "url": "https://www.androidheadlines.com/2026/10/iphone-18-pro-demand-might-be-fine-after-all-says-jp-morgan.html",
-      "source": "androidheadlines.com",
-      "published": "2026-10-13T14:36:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley stock selloff cools ahead of earnings, options market targets $205",
-      "url": "https://invezz.com/news/2026/10/13/morgan-stanley-stock-selloff-cools-ahead-of-earnings-options-market-targets-205/",
-      "source": "invezz.com",
-      "published": "2026-10-13T14:35:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "KOREA WAKES WALL STREET TO CHINA MEMORY THREAT; BROADCOM CEO EQUATES MOMO CROWD TO GAMBLERS; JPM WHIPSAWS",
-      "url": "https://blog.thearorareport.com/jpm-whipsaws-261013/",
-      "source": "thearorareport.com",
-      "published": "2026-10-13T14:34:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031249/0001918704-26-031249-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-13T14:34:42+00:00",
-      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Stock Movers: Goldman Sachs, UnitedHealth, Seagate (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-10-13/stock-movers-goldman-sachs-unitedhealth-seagate-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-10-13T14:33:53+00:00",
+      "title": "Solid consumer results at Wells Fargo propel larger profits",
+      "url": "https://www.americanbanker.com/news/solid-consumer-results-at-wells-fargo-propel-larger-profits",
+      "source": "americanbanker.com",
+      "published": "2026-10-13T20:22:33+00:00",
       "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "US Bank Earnings Put FICC Sales & Trading in Focus",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-13/us-bank-earnings-put-ficc-sales-trading-in-focus-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-13T14:33:46+00:00",
-      "tickers": [
-        "JPM",
-        "C",
-        "GS",
-        "USB"
+        "WFC",
+        "C"
       ]
     }
   ]
