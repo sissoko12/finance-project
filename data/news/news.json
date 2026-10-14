@@ -1,193 +1,42 @@
 {
-  "last_updated": "2026-10-14T11:42:19.548193+00:00",
+  "last_updated": "2026-10-14T16:58:49.605185+00:00",
   "headlines": [
     {
-      "title": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
-      "url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-10-14T11:18:00+00:00",
+      "title": "Bank of America Profits Fall 17% Following $1.2 Billion Money Laundering Fine",
+      "url": "https://www.pymnts.com/news/banking/2026/bank-of-america-profits-fall-17percent-following-1-billion-dollar-money-laundering-fine/",
+      "source": "pymnts.com",
+      "published": "2026-10-14T16:27:56+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Morgan Stanley is set to report earnings — here’s what to expect",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "source": "cnbc.com",
-      "published": "2026-10-14T11:16:28+00:00",
+      "title": "Bank of America Misses, CPI Lifts Fed Hike Bets, More",
+      "url": "https://www.bloomberg.com/news/audio/2026-10-14/bank-of-america-misses-cpi-lifts-fed-hike-bets-more",
+      "source": "bloomberg.com",
+      "published": "2026-10-14T16:23:56+00:00",
       "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America profits drop 17% after $1.2bn money laundering fine",
+      "url": "https://www.irishtimes.com/business/2026/10/14/bank-of-america-profits-drop-17-after-12bn-money-laundering-fine/",
+      "source": "irishtimes.com",
+      "published": "2026-10-14T16:23:08+00:00",
+      "tickers": [
+        "BAC",
+        "C",
         "MS"
       ]
     },
     {
-      "title": "Albertsons Companies slips after BofA warns of near-term earnings pressure",
-      "url": "https://seekingalpha.com/news/4652838-albertsons-companies-slips-after-bofa-warns-of-near-term-earnings-pressure",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T11:14:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Earnings Snapshot: Bank of America falls short of Q3 revenue and EPS estimates as provision for credit losses hits $1.30B",
-      "url": "https://seekingalpha.com/news/4652749-earnings-snapshot-bank-of-america-falls-short-of-q3-revenue-and-eps-estimates-as-provision-for-credit-losses-hits-130b",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T11:14:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "18,448 Bank of America Corporation $BAC Shares Acquired by KMG Fiduciary Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-18448-bank-of-america-corporation-bac-shares-acquired-by-kmg-fiduciary-partners-llc-2026-10-14/",
-      "source": "marketbeat.com",
-      "published": "2026-10-14T11:12:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "V.F. (NYSE:VFC) Raised to “Strong-Buy” at Truist Financial",
-      "url": "https://www.tickerreport.com/banking-finance/13618111/v-f-nysevfc-raised-to-strong-buy-at-truist-financial.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-14T11:07:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by KMG Fiduciary Partners LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13618109/jpmorgan-chase-co-jpm-shares-sold-by-kmg-fiduciary-partners-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-14T11:07:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees strong momentum in Asia driven by AI spending",
-      "url": "https://cryptobriefing.com/goldman-sachs-asia-ai-spending-momentum/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-14T11:04:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America in charts: Consumer banking revenue +4% Y/Y, global wealth and investment management +13%",
-      "url": "https://seekingalpha.com/news/4652836-bank-of-america-in-charts-consumer-banking-revenue-4-yy-global-wealth-and-investment-management-13",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T11:02:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "eGenesis to Participate in the Virtual U.S. Bancorp | BTIG Kidney Health Forum with Panel Discussion and Investor Meetings",
-      "url": "http://www.businesswire.com/news/home/20261014429611/en/eGenesis-to-Participate-in-the-Virtual-U.S.-Bancorp-BTIG-Kidney-Health-Forum-with-Panel-Discussion-and-Investor-Meetings/?feedref=JjAwJuNHiystnCoBq_hl-c_SXB-bY2T43rxUBWxEIvSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu61_izUl0FZkbDFZ7ZhSEmC",
+      "title": "BAC Investors with $100,000 in Losses Have Opportunity to Join Bank of America Corporation Fraud Investigation with SBS Law",
+      "url": "http://www.businesswire.com/news/home/20261014720768/en/BAC-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-Bank-of-America-Corporation-Fraud-Investigation-with-SBS-Law/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
       "source": "businesswire.com",
-      "published": "2026-10-14T11:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Bank of America stock falls after below-forecast earnings: markets live",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=3a08aa06-b8c6-4aba-9916-d65226133c3d&mod=mw_rss_bulletins",
-      "source": "marketwatch.com",
-      "published": "2026-10-14T10:59:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Non-GAAP EPS of $1.08 misses by $0.02, revenue of $30B misses by $540M",
-      "url": "https://seekingalpha.com/news/4652830-bank-of-america-non-gaap-eps-of-108-misses-by-002-revenue-of-30b-misses-by-540m",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T10:48:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley raises SpaceX stock price target on distributed inference potential",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-spacex-stock-price-target-on-distributed-inference-potential-93CH-4948701",
-      "source": "investing.com",
-      "published": "2026-10-14T10:46:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wall Street Breakfast Podcast: BofA's $1.2B Penalty Punch | $BAC $DELL $HP $ASML $NTAP",
-      "url": "https://seekingalpha.com/article/4954045-wall-street-breakfast-podcast-bofas-1-2b-penalty-punch",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T10:35:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records",
-      "url": "https://247wallst.com/investing/2026/10/14/jamie-dimon-warns-of-forces-that-continue-to-shift-under-the-surface-as-half-of-russell-3000-stocks-sit-in-a-bear-market-with-the-sp-500-near-records/",
-      "source": "247wallst.com",
-      "published": "2026-10-14T10:28:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Analysts’ Recent Ratings Updates for Coinbase Global (COIN)",
-      "url": "https://www.tickerreport.com/banking-finance/13618045/analysts-recent-ratings-updates-for-coinbase-global-coin.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-14T10:26:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Rs 6 lakh crore worth FII outflows since 2024 capital gains tax hike batter Dalal Street. Is a reversal on the cards?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-14T10:25:30+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Wells Fargo Earnings Beat Last Year as Bank Plans 2027 Stablecoin Launch",
-      "url": "https://blockonomi.com/wells-fargo-earnings-beat-last-year-as-bank-plans-2027-stablecoin-launch/",
-      "source": "blockonomi.com",
-      "published": "2026-10-14T10:19:26+00:00",
-      "tickers": [
-        "WFC",
-        "C",
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "cnbc.com",
-      "published": "2026-10-14T10:15:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America backed crypto AML rules but reported over $5 billion in suspicious activity late",
-      "url": "https://cryptoslate.com/bank-of-america-backed-strict-crypto-aml-rules-before-admitting-5-billion-reporting-failure/",
-      "source": "cryptoslate.com",
-      "published": "2026-10-14T10:10:28+00:00",
+      "published": "2026-10-14T16:22:00+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -195,94 +44,241 @@
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109202/0001213900-26-109202-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109310/0001213900-26-109310-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-14T10:05:29+00:00",
+      "published": "2026-10-14T16:08:12+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan Chase crosses 5% threshold in Central Asia Metals",
-      "url": "https://www.investing.com/news/company-news/jpmorgan-chase-crosses-5-threshold-in-central-asia-metals-93CH-4948548",
-      "source": "investing.com",
-      "published": "2026-10-14T10:02:53+00:00",
+      "title": "Financial Stocks To Watch Today - October 14th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-financial-stocks-to-watch-today-october-14th-2026-10-14/",
+      "source": "marketbeat.com",
+      "published": "2026-10-14T16:02:31+00:00",
       "tickers": [
-        "JPM"
+        "JPM",
+        "BAC",
+        "C",
+        "MS"
       ]
     },
     {
-      "title": "Wells Fargo cuts Domino’s Pizza stock price target on weaker comps",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-dominos-pizza-stock-price-target-on-weaker-comps-93CH-4948542",
-      "source": "investing.com",
-      "published": "2026-10-14T10:01:00+00:00",
+      "title": "Bank Stocks To Research - October 14th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-research-october-14th-2026-10-14/",
+      "source": "marketbeat.com",
+      "published": "2026-10-14T16:02:29+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "JPM",
+        "BAC",
+        "C",
+        "BK"
       ]
     },
     {
-      "title": "Wells Fargo raises Albertsons stock price target on Q2 beat",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-albertsons-stock-price-target-on-q2-beat-93CH-4948541",
-      "source": "investing.com",
-      "published": "2026-10-14T10:00:59+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Founders AM: CPI Prep— Hotter But Not",
-      "url": "https://vblgoldfix.substack.com/p/founders-am-cpi-prep-hotter-but-not",
-      "source": "substack.com",
-      "published": "2026-10-14T10:00:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "iShares vs State Street Small-Cap Growth ETF Showdown",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/14/ishares-vs-state-street-small-cap-growth-etf-showdown/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-14T10:00:02+00:00",
+      "title": "State Street (NYSE:STT) Shares Gap Down - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-state-street-nyse-stt-shares-gap-down-whats-next-2026-10-14/",
+      "source": "marketbeat.com",
+      "published": "2026-10-14T16:00:37+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "Morgan Stanley lifts MSCI Europe target on strong Q3 earnings outlook",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-lifts-msci-europe-target-on-strong-q3-earnings-outlook-4948531",
+      "title": "Crypto spending big but thinking small on the campaign trail",
+      "url": "https://www.americanbanker.com/news/crypto-spending-big-but-thinking-small-on-the-campaign-trail",
+      "source": "americanbanker.com",
+      "published": "2026-10-14T16:00:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Sheds $30 Billion in Value as Years of Lapses Come to Light",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-sheds-30-billion-in-value-as-years-of-lapses-come-to-light",
+      "source": "bloomberg.com",
+      "published": "2026-10-14T15:52:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Names Top Pick Amid 3Q26 Earnings",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-top-pick-amid-3q26-earnings-4949724",
       "source": "investing.com",
-      "published": "2026-10-14T09:55:22+00:00",
+      "published": "2026-10-14T15:48:05+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMorgan shut AI Agents out of Chase. Mercury let them in, and AI Assistants now recommend it 5 to 1 ; Stripe brings Privy wallets to the XRP ledger, where 14.3M agent payments moved $22K",
-      "url": "https://linas.substack.com/p/fintechpulse1138",
-      "source": "substack.com",
-      "published": "2026-10-14T09:44:24+00:00",
+      "title": "Morgan Stanley Direct Lending: Discount Is Attractive, But Credit Has Not Stabilized; Hold | $BIZD $PBDC $MSDL",
+      "url": "https://seekingalpha.com/article/4954154-morgan-stanley-direct-lending-discount-is-attractive-but-credit-has-not-stabilized-hold",
+      "source": "seekingalpha.com",
+      "published": "2026-10-14T15:47:09+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "‘The biggest financial institutions are not above the law’: Bessent hits BofA with $1.2 billion fine for money laundering—the third-largest in history",
+      "url": "https://fortune.com/2026/10/14/bessent-bank-of-america-1-2-billion-fine-money-laundering/",
+      "source": "fortune.com",
+      "published": "2026-10-14T15:44:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo (WFC) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/14/wells-fargo-wfc-q3-2026-earnings-call-transcript/",
+      "source": "fool.com",
+      "published": "2026-10-14T15:44:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Consumers Boost Spending 8% as Digital Banking Deepens",
+      "url": "https://www.pymnts.com/news/banking/2026/bank-of-america-consumers-boost-spending-8percent-digital-banking-deepens/",
+      "source": "pymnts.com",
+      "published": "2026-10-14T15:43:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America home loan volume falls 12% in Q3, raising questions about banks’ market share",
+      "url": "https://www.housingwire.com/articles/bofa-q3-home-loans-down-12/",
+      "source": "housingwire.com",
+      "published": "2026-10-14T15:39:25+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426031390/0001918704-26-031390-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-14T15:37:35+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman Sachs Access Inflation Protected USD Bond ETF (BATS:GTIP) Stock Short Interest Falls 48.5%",
-      "url": "https://www.tickerreport.com/banking-finance/13617981/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-stock-short-interest-falls-48-5.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-14T09:41:08+00:00",
+      "title": "Bank Of America Q3 Revenue Rises 3% To $30 Billion As Net Interest Income Climbs 8%",
+      "url": "https://pulse2.com/bank-of-america-q3-2026-results/",
+      "source": "pulse2.com",
+      "published": "2026-10-14T15:33:27+00:00",
       "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wall Street Lunch: Yields Surge On Hot Core CPI | $BAC $BLK $SKYD $NFLX",
+      "url": "https://seekingalpha.com/article/4954134-wall-street-lunch-yields-surge-on-hot-core-cpi",
+      "source": "seekingalpha.com",
+      "published": "2026-10-14T15:31:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226050766/0001839882-26-050766-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-14T15:29:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America shares plunge as profit misses and money laundering penalty",
+      "url": "https://www.independent.co.uk/us/money/bank-of-america-trading-revenue-profit-loss-b3066800.html",
+      "source": "independent.co.uk",
+      "published": "2026-10-14T15:27:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031388/0001918704-26-031388-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-14T15:21:42+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State Street Adds Former AXA COO Alexander Vollert to Board as It Scales AI and Tech Transformation",
+      "url": "https://marketchameleon.com/Blogpost/2026/10/14/stt-alexander-vollert-board-election-ai-technology-operations-risk-committee",
+      "source": "marketchameleon.com",
+      "published": "2026-10-14T15:21:27+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Bank of America Fined $1.2 Billion After Failing to Flag $5 Billion of Potential Cartel Money. Its Stock is Sinking.",
+      "url": "https://www.ibtimes.com/bank-america-fined-12-billion-after-failing-flag-5-billion-potential-cartel-money-its-stock-3808556",
+      "source": "ibtimes.com",
+      "published": "2026-10-14T15:20:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA Rewards leans into NYCWFF perks, offering early entry and 15% off Grand Tasting tickets for eligible cardholders",
+      "url": "https://marketchameleon.com/Blogpost/2026/10/14/bac-bofa-rewards-nycwff-early-entry-grand-tasting-discount-premier-dining",
+      "source": "marketchameleon.com",
+      "published": "2026-10-14T15:19:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Jim Cramer reveals his favourite post-earnings bank stocks",
+      "url": "https://invezz.com/news/2026/10/14/jim-cramer-reveals-his-favourite-post-earnings-bank-stocks/",
+      "source": "invezz.com",
+      "published": "2026-10-14T15:18:42+00:00",
+      "tickers": [
+        "WFC",
+        "C",
         "GS"
       ]
     },
     {
-      "title": "Why 3 days at work is the big AI promise that Bezos, Dimon, and Gates can't stop talking about",
-      "url": "https://www.businessinsider.com/bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment-2026-10",
-      "source": "businessinsider.com",
-      "published": "2026-10-14T09:38:26+00:00",
+      "title": "Global markets live: Apple, Bank of America, Nvidia, AT&T, Boeing…",
+      "url": "https://www.marketscreener.com/news/global-markets-live-apple-bank-of-america-nvidia-at-t-boeinga--ce785dd2de8dfe2d",
+      "source": "marketscreener.com",
+      "published": "2026-10-14T15:17:47+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stock Movers: Bending Spoons, BOA, Liquidia (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-10-14/stock-movers-bending-spoons-boa-liquidia-podcast",
+      "source": "bloomberg.com",
+      "published": "2026-10-14T15:17:40+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     }
   ]
