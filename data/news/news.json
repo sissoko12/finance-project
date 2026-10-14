@@ -1,281 +1,290 @@
 {
-  "last_updated": "2026-10-13T21:28:29.372652+00:00",
+  "last_updated": "2026-10-14T00:33:41.442392+00:00",
   "headlines": [
     {
-      "title": "Q3 2026 Citigroup Inc Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9121612/q3-2026-citigroup-inc-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T21:00:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (BAC) Shares Slip Amid Steady Options Activity and Rising Volatility",
-      "url": "https://www.gurufocus.com/news/9121570/bank-of-america-bac-shares-slip-amid-steady-options-activity-and-rising-volatility",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:50:38+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America fined over $1.2B for anti-money laundering, sanctions violations",
-      "url": "https://seekingalpha.com/news/4652672-bank-of-america-fined-over-12b-for-anti-money-laundering-sanctions-violations",
+      "title": "Banks And Tech Stocks Dominate | $JPM $GS $WFC $C $BAC",
+      "url": "https://seekingalpha.com/article/4953939-banks-tech-stocks-dominate",
       "source": "seekingalpha.com",
-      "published": "2026-10-13T20:41:37+00:00",
+      "published": "2026-10-13T23:30:00+00:00",
       "tickers": [
+        "JPM",
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman's Solomon wants 'clear human accountability' on AI",
-      "url": "https://www.americanbanker.com/news/goldmans-solomon-wants-clear-human-accountability-on-ai",
-      "source": "americanbanker.com",
-      "published": "2026-10-13T20:41:30+00:00",
-      "tickers": [
+        "WFC",
+        "C",
         "GS"
       ]
     },
     {
-      "title": "VMC Maintained by JP Morgan -- Price Target Lowered to $300",
-      "url": "https://www.gurufocus.com/news/9121569/vmc-maintained-by-jp-morgan-price-target-lowered-to-300",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:36:02+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "VRRM Maintained by JP Morgan -- Price Target Lowered to $5.00",
-      "url": "https://www.gurufocus.com/news/9121568/vrrm-maintained-by-jp-morgan-price-target-lowered-to-500",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:35:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SO Maintains Rating by JP Morgan -- Price Target Lowered to $94",
-      "url": "https://www.gurufocus.com/news/9121567/so-maintains-rating-by-jp-morgan-price-target-lowered-to-94",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:35:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TROW Maintained by JP Morgan -- Price Target Lowered to $106",
-      "url": "https://www.gurufocus.com/news/9121566/trow-maintained-by-jp-morgan-price-target-lowered-to-106",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:34:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank Of America Tops 300 Hires In Belfast As It Advances Toward 1,000-Job Commitment",
-      "url": "https://pulse2.com/bank-of-america-tops-300-hires-in-belfast-as-it-advances-toward-1000-job-commitment/",
-      "source": "pulse2.com",
-      "published": "2026-10-13T20:34:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ROL Maintained by JP Morgan -- Price Target Lowered to $35",
-      "url": "https://www.gurufocus.com/news/9121565/rol-maintained-by-jp-morgan-price-target-lowered-to-35",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:34:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "POWL Maintained by JP Morgan -- Price Target Lowered to $250",
-      "url": "https://www.gurufocus.com/news/9121564/powl-maintained-by-jp-morgan-price-target-lowered-to-250",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:34:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PRM Maintained by JP Morgan -- Price Target Lowered to $40",
-      "url": "https://www.gurufocus.com/news/9121563/prm-maintained-by-jp-morgan-price-target-lowered-to-40",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:33:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ORN Maintained by JP Morgan -- Price Target Lowered to $14",
-      "url": "https://www.gurufocus.com/news/9121562/orn-maintained-by-jp-morgan-price-target-lowered-to-14",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:33:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MOG/A Maintained by JP Morgan -- Price Target Lowered to $480",
-      "url": "https://www.gurufocus.com/news/9121561/moga-maintained-by-jp-morgan-price-target-lowered-to-480",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:33:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MLM Maintained by JP Morgan -- Price Target Lowered to $650",
-      "url": "https://www.gurufocus.com/news/9121560/mlm-maintained-by-jp-morgan-price-target-lowered-to-650",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:32:59+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "LOGI Maintained by JP Morgan -- Price Target Lowered to $94.00",
-      "url": "https://www.gurufocus.com/news/9121559/logi-maintained-by-jp-morgan-price-target-lowered-to-9400",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:32:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KNF Maintained by JP Morgan -- Price Target Lowered to $63.00",
-      "url": "https://www.gurufocus.com/news/9121558/knf-maintained-by-jp-morgan-price-target-lowered-to-6300",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:32:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ESE Maintained by JP Morgan -- Price Target Lowered to $350",
-      "url": "https://www.gurufocus.com/news/9121557/ese-maintained-by-jp-morgan-price-target-lowered-to-350",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:31:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031328/0001918704-26-031328-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-13T20:31:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ETR Maintained by JP Morgan -- Price Target Lowered to $130",
-      "url": "https://www.gurufocus.com/news/9121556/etr-maintained-by-jp-morgan-price-target-lowered-to-130",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:31:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EROK Maintained by JP Morgan -- Price Target Lowered to $27",
-      "url": "https://www.gurufocus.com/news/9121555/erok-maintained-by-jp-morgan-price-target-lowered-to-27",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:30:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPM, Jamie Dimon Restricts AI Access to Customer Accounts",
-      "url": "https://www.gurufocus.com/news/9121554/jpm-jamie-dimon-restricts-ai-access-to-customer-accounts",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:30:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EXP Maintained by JP Morgan -- Price Target Lowered to $200",
-      "url": "https://www.gurufocus.com/news/9121553/exp-maintained-by-jp-morgan-price-target-lowered-to-200",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T20:30:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Meta stock pops again as its new Muse AI models enjoy a moment in the spotlight",
-      "url": "https://qz.com/meta-stock-muse-wonder-ai-model-launch-101326",
-      "source": "qz.com",
-      "published": "2026-10-13T20:30:24+00:00",
+      "title": "California Court of Appeal Clarifies Liability Standard for Supervisor Harassment (US)",
+      "url": "https://natlawreview.com/article/california-court-appeal-clarifies-liability-standard-supervisor-harassment-us",
+      "source": "natlawreview.com",
+      "published": "2026-10-13T23:27:42+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "More than a third of Americans earning over $500,000 say they’re living paycheck to paycheck, Goldman Sachs finds",
-      "url": "https://fortune.com/2026/10/13/500000-earners-paycheck-to-paycheck-goldman-sachs-retirement-survey/",
-      "source": "fortune.com",
-      "published": "2026-10-13T20:28:14+00:00",
+      "title": "Bank of America Hit With $1.2 Billion Fine Over Failure to Report $5 Billion in Suspicious Transactions",
+      "url": "https://www.ibtimes.co.uk/bank-america-1-21bn-penalties-money-laundering-failures-1825459",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-13T23:27:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock: Lineweaver Wealth Advisors LLC Boosts Holdings",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-lineweaver-wealth-advisors-llc-boosts-holdings-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:21:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Forvis Mazars Wealth Advisors LLC Purchases 47,562 Shares of Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-forvis-mazars-wealth-advisors-llc-purchases-47562-shares-of-capital-one-financial-corporation-cof-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:21:08+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Purchased by Davis Rea LTD.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-purchased-by-davis-rea-ltd-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:21:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Flags $1.2B Charge Ahead of Q3 Earnings, Reinforces Compliance Efforts",
+      "url": "https://www.gurufocus.com/news/9121932/bank-of-america-bac-flags-12b-charge-ahead-of-q3-earnings-reinforces-compliance-efforts",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BOOT Maintained by Citigroup -- Price Target Lowered to $180",
+      "url": "https://www.gurufocus.com/news/9121936/boot-maintained-by-citigroup-price-target-lowered-to-180",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PSX Maintained by Citigroup -- Price Target Raised to $297",
+      "url": "https://www.gurufocus.com/news/9121951/psx-maintained-by-citigroup-price-target-raised-to-297",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TSCO Maintained by Citigroup -- Price Target Raised to $38.00",
+      "url": "https://www.gurufocus.com/news/9121939/tsco-maintained-by-citigroup-price-target-raised-to-3800",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MAT Maintained by Citigroup -- Price Target Raised to $17.00",
+      "url": "https://www.gurufocus.com/news/9121947/mat-maintained-by-citigroup-price-target-raised-to-1700",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CWH Maintained by Citigroup -- Price Target Lowered to $7.00",
+      "url": "https://www.gurufocus.com/news/9121942/cwh-maintained-by-citigroup-price-target-lowered-to-700",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HAS Maintains Rating by Citigroup -- Price Target Raised to $117",
+      "url": "https://www.gurufocus.com/news/9121946/has-maintains-rating-by-citigroup-price-target-raised-to-117",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "FND Maintained by Citigroup -- Price Target Lowered to $49",
+      "url": "https://www.gurufocus.com/news/9121938/fnd-maintained-by-citigroup-price-target-lowered-to-49",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "TRGP Maintained by Citigroup -- Price Target Raised to $325",
+      "url": "https://www.gurufocus.com/news/9121948/trgp-maintained-by-citigroup-price-target-raised-to-325",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HESM Maintained by Citigroup -- Price Target Lowered to $33.00",
+      "url": "https://www.gurufocus.com/news/9121940/hesm-maintained-by-citigroup-price-target-lowered-to-3300",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WGO Maintained by Citigroup -- Price Target Lowered to $24.00",
+      "url": "https://www.gurufocus.com/news/9121944/wgo-maintained-by-citigroup-price-target-lowered-to-2400",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "THO Maintained by Citigroup -- Price Target Lowered to $70",
+      "url": "https://www.gurufocus.com/news/9121943/tho-maintained-by-citigroup-price-target-lowered-to-70",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MPC Maintains by Citigroup -- Price Target Raised to $518",
+      "url": "https://www.gurufocus.com/news/9121950/mpc-maintains-by-citigroup-price-target-raised-to-518",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VLO Maintained by Citigroup -- Price Target Raised to $485",
+      "url": "https://www.gurufocus.com/news/9121952/vlo-maintained-by-citigroup-price-target-raised-to-485",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Earnings Preview Highlights Dividend Sustainability and Insider Trends",
+      "url": "https://www.gurufocus.com/news/9121983/bank-of-america-bac-earnings-preview-highlights-dividend-sustainability-and-insider-trends",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo (WFC) Posts Strong Q3 Results, Highlighting Dividend Sustainability and Solid Guru ...",
+      "url": "https://www.gurufocus.com/news/9121986/wells-fargo-wfc-posts-strong-q3-results-highlighting-dividend-sustainability-and-solid-guru-support",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Faces $1.21 Billion Penalty Over AML and Sanctions Violations",
+      "url": "https://www.gurufocus.com/news/9121970/bank-of-america-bac-faces-121-billion-penalty-over-aml-and-sanctions-violations",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:18:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Sold by Courier Capital LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13617478/bank-of-america-corporation-bac-stock-sold-by-courier-capital-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-13T23:13:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Charles Schwab Corporation $SCHW Shares Newly Purchased by Montrusco Bolton Investments Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-newly-purchased-by-montrusco-bolton-investments-inc-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:12:56+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "289,405 JPMorgan Chase & Co. $JPM Shares Sold by Montrusco Bolton Investments Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-289405-jpmorgan-chase-co-jpm-shares-sold-by-montrusco-bolton-investments-inc-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:12:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Stock: Courier Capital LLC Cuts Holdings",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-courier-capital-llc-cuts-holdings-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:12:49+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Citi expects 2026 RoTCE above 11% with efficiency ratio below 60%",
-      "url": "https://seekingalpha.com/news/4652685-citi-expects-2026-rotce-above-11-percent-with-efficiency-ratio-below-60-percent",
+      "title": "Capital One Financial Corporation $COF Shares Bought by Courier Capital LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-bought-by-courier-capital-llc-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:12:45+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citi (C) Delivers Strong Q3 Performance, Exceeds Analyst Expectations",
+      "url": "https://www.gurufocus.com/news/9121906/citi-c-delivers-strong-q3-performance-exceeds-analyst-expectations",
+      "source": "gurufocus.com",
+      "published": "2026-10-13T23:10:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Q3: The Business Deserves A Premium. The Stock Already Has One | $GS",
+      "url": "https://seekingalpha.com/article/4953934-goldman-sachs-q3-the-business-deserves-a-premium-the-stock-already-has-one",
       "source": "seekingalpha.com",
-      "published": "2026-10-13T20:26:27+00:00",
+      "published": "2026-10-13T23:09:53+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Why Citigroup (C) Stock Is Trading Lower Today",
-      "url": "https://stockstory.org/us/stocks/nyse/c/news/why-up-down/why-citigroup-c-stock-is-trading-lower-today-3",
-      "source": "stockstory.org",
-      "published": "2026-10-13T20:25:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA fined $1.21B over AML - Bank of America failed to properly monitor trillions of dollars ...",
-      "url": "https://www.bankingdive.com/news/bofa-fined-1-21-billion-over-aml-bsa-occ-treasury/832915/",
-      "source": "bankingdive.com",
-      "published": "2026-10-13T20:25:16+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America fined $1.2 billion over anti-money laundering failures, FT reports",
-      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-fined-12-billion-over-antimoney-laundering-failures-ft-reports-4947487",
-      "source": "investing.com",
-      "published": "2026-10-13T20:24:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Solid consumer results at Wells Fargo propel larger profits",
-      "url": "https://www.americanbanker.com/news/solid-consumer-results-at-wells-fargo-propel-larger-profits",
-      "source": "americanbanker.com",
-      "published": "2026-10-13T20:22:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
+        "GS"
       ]
     }
   ]
