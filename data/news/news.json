@@ -1,290 +1,293 @@
 {
-  "last_updated": "2026-10-14T00:33:41.442392+00:00",
+  "last_updated": "2026-10-14T05:58:49.460607+00:00",
   "headlines": [
     {
-      "title": "Banks And Tech Stocks Dominate | $JPM $GS $WFC $C $BAC",
-      "url": "https://seekingalpha.com/article/4953939-banks-tech-stocks-dominate",
+      "title": "The Treasury just fined BofA $1.2 billion, saying it didn't report Chinese money laundering networks",
+      "url": "https://www.businessinsider.com/treasury-fined-bank-of-america-1-2-billion-2026-10",
+      "source": "businessinsider.com",
+      "published": "2026-10-14T05:02:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA drops out of talks to arrange Moonshot AI's Hong Kong listing: report",
+      "url": "https://seekingalpha.com/news/4652741-bofa-drops-out-of-talks-to-arrange-moonshot-ais-hong-kong-listing-report",
       "source": "seekingalpha.com",
-      "published": "2026-10-13T23:30:00+00:00",
+      "published": "2026-10-14T04:58:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA No Longer in Talks to Arrange IPO of China’s Moonshot AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-no-longer-in-talks-to-arrange-ipo-of-china-s-moonshot-ai",
+      "source": "bloomberg.com",
+      "published": "2026-10-14T04:18:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Davis Polk Discusses SEC Clarification of Letter on Structured Notes Disclosure",
+      "url": "https://clsbluesky.law.columbia.edu/2026/10/14/davis-polk-discusses-sec-clarification-of-letter-on-structured-notes-disclosure/",
+      "source": "columbia.edu",
+      "published": "2026-10-14T04:01:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "“He Went to Every Guy in the Garage”- 23XI Insider Details Alex Bowman’s Class Act After Post-Crash Guilt",
+      "url": "https://www.essentiallysports.com/nascar-news-he-went-to-every-guy-in-the-garage-23xi-insider-details-alex-bowman-class-act-after-post-crash-guilt/",
+      "source": "essentiallysports.com",
+      "published": "2026-10-14T03:46:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AP Business SummaryBrief at 11:10 p.m. EDT",
+      "url": "https://www.newspressnow.com/sports/chiefs/ap-business-summarybrief-at-11-10-p-m-edt/article_2e56e7bf-83f5-574c-abb4-172055839594.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-14T03:10:17+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "What Dimon, Solomon Said in Bank Earnings Calls",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/what-dimon-solomon-said-in-bank-earnings-calls-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-14T03:02:40+00:00",
       "tickers": [
         "JPM",
-        "BAC",
-        "WFC",
-        "C",
         "GS"
       ]
     },
     {
-      "title": "California Court of Appeal Clarifies Liability Standard for Supervisor Harassment (US)",
-      "url": "https://natlawreview.com/article/california-court-appeal-clarifies-liability-standard-supervisor-harassment-us",
-      "source": "natlawreview.com",
-      "published": "2026-10-13T23:27:42+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Hit With $1.2 Billion Fine Over Failure to Report $5 Billion in Suspicious Transactions",
-      "url": "https://www.ibtimes.co.uk/bank-america-1-21bn-penalties-money-laundering-failures-1825459",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-13T23:27:24+00:00",
+      "title": "Treasury imposes $1.21B in penalties on Bank of America",
+      "url": "https://www.upi.com/Top_News/US/2026/10/13/Bank-of-American-Treasury-fines/3341791941940/",
+      "source": "upi.com",
+      "published": "2026-10-14T03:02:37+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Stock: Lineweaver Wealth Advisors LLC Boosts Holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-lineweaver-wealth-advisors-llc-boosts-holdings-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:21:17+00:00",
+      "title": "What To Expect From BNY’s (BNY) Q3 Earnings",
+      "url": "https://stockstory.org/us/stocks/nyse/bny/news/earnings/what-to-expect-from-bnys-bny-q3-earnings",
+      "source": "stockstory.org",
+      "published": "2026-10-14T03:01:59+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Forvis Mazars Wealth Advisors LLC Purchases 47,562 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-forvis-mazars-wealth-advisors-llc-purchases-47562-shares-of-capital-one-financial-corporation-cof-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:21:08+00:00",
+      "title": "PNC Financial Services Group (PNC) Q3 Earnings: What To Expect",
+      "url": "https://stockstory.org/us/stocks/nyse/pnc/news/earnings/pnc-financial-services-group-pnc-q3-earnings-what-to-expect",
+      "source": "stockstory.org",
+      "published": "2026-10-14T03:01:57+00:00",
       "tickers": [
         "C",
-        "COF"
+        "PNC"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Stock Purchased by Davis Rea LTD.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-purchased-by-davis-rea-ltd-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:21:02+00:00",
+      "title": "U.S. Bancorp Earnings: What To Look For From USB",
+      "url": "https://stockstory.org/us/stocks/nyse/usb/news/earnings/us-bancorp-earnings-what-to-look-for-from-usb-2",
+      "source": "stockstory.org",
+      "published": "2026-10-14T03:00:47+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Why do CD rates always feel like such a scam",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x5fx5v/why_do_cd_rates_always_feel_like_such_a_scam/",
+      "source": "reddit.com",
+      "published": "2026-10-14T02:36:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight - The New York Times",
+      "url": "https://news.google.com/atom/articles/CBMijwFBVV95cUxQWlJWZy1rVmtlUnF0TkUwd3VBUWtETTQ1MllYdmQxMUZqdkszNE84TTY1Zm5sU3pkYzFyZXFxeTJ0T2FCWkEyVTcwZXFwN0MyZXRFT1Z3VmNMNEFDczQteVItaWxZeDdEUEtBRE1MaXdHWGI5cklUbDM2elp2ZENjVndhTDV6aU9udm5xRk9Ldw?oc=5",
+      "source": "google.com",
+      "published": "2026-10-14T02:10:09+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America (BAC) Flags $1.2B Charge Ahead of Q3 Earnings, Reinforces Compliance Efforts",
-      "url": "https://www.gurufocus.com/news/9121932/bank-of-america-bac-flags-12b-charge-ahead-of-q3-earnings-reinforces-compliance-efforts",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:17+00:00",
+      "title": "Bank of America fined $1.2bn over failing to stop money laundering - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBULW5LeTJFX2xLUTlRLU01OFAyVm84dE5qODBzN1E3SDE2WnAzU2tKSEVQc3hJYm9PX2ZvUFRBRGNVZmYwWmVpQ0dZY2lTSWxZWldLdGhib3RQZWc?oc=5",
+      "source": "google.com",
+      "published": "2026-10-14T02:05:32+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BOOT Maintained by Citigroup -- Price Target Lowered to $180",
-      "url": "https://www.gurufocus.com/news/9121936/boot-maintained-by-citigroup-price-target-lowered-to-180",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:17+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PSX Maintained by Citigroup -- Price Target Raised to $297",
-      "url": "https://www.gurufocus.com/news/9121951/psx-maintained-by-citigroup-price-target-raised-to-297",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TSCO Maintained by Citigroup -- Price Target Raised to $38.00",
-      "url": "https://www.gurufocus.com/news/9121939/tsco-maintained-by-citigroup-price-target-raised-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MAT Maintained by Citigroup -- Price Target Raised to $17.00",
-      "url": "https://www.gurufocus.com/news/9121947/mat-maintained-by-citigroup-price-target-raised-to-1700",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CWH Maintained by Citigroup -- Price Target Lowered to $7.00",
-      "url": "https://www.gurufocus.com/news/9121942/cwh-maintained-by-citigroup-price-target-lowered-to-700",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HAS Maintains Rating by Citigroup -- Price Target Raised to $117",
-      "url": "https://www.gurufocus.com/news/9121946/has-maintains-rating-by-citigroup-price-target-raised-to-117",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FND Maintained by Citigroup -- Price Target Lowered to $49",
-      "url": "https://www.gurufocus.com/news/9121938/fnd-maintained-by-citigroup-price-target-lowered-to-49",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "TRGP Maintained by Citigroup -- Price Target Raised to $325",
-      "url": "https://www.gurufocus.com/news/9121948/trgp-maintained-by-citigroup-price-target-raised-to-325",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HESM Maintained by Citigroup -- Price Target Lowered to $33.00",
-      "url": "https://www.gurufocus.com/news/9121940/hesm-maintained-by-citigroup-price-target-lowered-to-3300",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WGO Maintained by Citigroup -- Price Target Lowered to $24.00",
-      "url": "https://www.gurufocus.com/news/9121944/wgo-maintained-by-citigroup-price-target-lowered-to-2400",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "THO Maintained by Citigroup -- Price Target Lowered to $70",
-      "url": "https://www.gurufocus.com/news/9121943/tho-maintained-by-citigroup-price-target-lowered-to-70",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MPC Maintains by Citigroup -- Price Target Raised to $518",
-      "url": "https://www.gurufocus.com/news/9121950/mpc-maintains-by-citigroup-price-target-raised-to-518",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "VLO Maintained by Citigroup -- Price Target Raised to $485",
-      "url": "https://www.gurufocus.com/news/9121952/vlo-maintained-by-citigroup-price-target-raised-to-485",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (BAC) Earnings Preview Highlights Dividend Sustainability and Insider Trends",
-      "url": "https://www.gurufocus.com/news/9121983/bank-of-america-bac-earnings-preview-highlights-dividend-sustainability-and-insider-trends",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:14+00:00",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.co.uk",
+      "published": "2026-10-14T02:05:32+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Wells Fargo (WFC) Posts Strong Q3 Results, Highlighting Dividend Sustainability and Solid Guru ...",
-      "url": "https://www.gurufocus.com/news/9121986/wells-fargo-wfc-posts-strong-q3-results-highlighting-dividend-sustainability-and-solid-guru-support",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:14+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (BAC) Faces $1.21 Billion Penalty Over AML and Sanctions Violations",
-      "url": "https://www.gurufocus.com/news/9121970/bank-of-america-bac-faces-121-billion-penalty-over-aml-and-sanctions-violations",
-      "source": "gurufocus.com",
-      "published": "2026-10-13T23:18:14+00:00",
+      "title": "Bank of America missed $5 billion in suspicious activity | Now it faces a $1.21 billion fine for money laundering",
+      "url": "https://www.livemint.com/industry/banking/bank-of-america-missed-5-billion-in-suspicious-activity-now-it-faces-a-1-21-billion-fine-for-money-laundering-11791938582025.html",
+      "source": "livemint.com",
+      "published": "2026-10-14T01:31:43+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Stock Sold by Courier Capital LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13617478/bank-of-america-corporation-bac-stock-sold-by-courier-capital-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-13T23:13:21+00:00",
+      "title": "US hits BofA with $1.2 bn money laundering fine",
+      "url": "https://economictimes.indiatimes.com/news/international/business/us-hits-bank-of-america-with-1-2-billion-fine-says-it-violated-money-laundering-sanctions-laws/articleshow/134929677.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-14T01:26:29+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "The Charles Schwab Corporation $SCHW Shares Newly Purchased by Montrusco Bolton Investments Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-newly-purchased-by-montrusco-bolton-investments-inc-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:12:56+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "289,405 JPMorgan Chase & Co. $JPM Shares Sold by Montrusco Bolton Investments Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-289405-jpmorgan-chase-co-jpm-shares-sold-by-montrusco-bolton-investments-inc-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:12:52+00:00",
+      "title": "JPMorgan Chase & Co (JPM) Stock Down 0.9% but Still Overvalued -- GF Score: 84/100",
+      "url": "https://www.gurufocus.com/news/9122101/jpmorgan-chase-co-jpm-stock-down-09-but-still-overvalued-gf-score-84100",
+      "source": "gurufocus.com",
+      "published": "2026-10-14T01:17:51+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "The Goldman Sachs Group, Inc. $GS Stock: Courier Capital LLC Cuts Holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-courier-capital-llc-cuts-holdings-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:12:49+00:00",
+      "title": "Citigroup Inc (C) (Q3 2026) Earnings Call Highlights: Best Q3 Revenue in a Decade as Net Income ...",
+      "url": "https://www.gurufocus.com/news/9122079/citigroup-inc-c-q3-2026-earnings-call-highlights-best-q3-revenue-in-a-decade-as-net-income-jumps-17",
+      "source": "gurufocus.com",
+      "published": "2026-10-14T01:00:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Earnings shake individual stocks as the S&P barely moves",
+      "url": "https://www.themarketbreakdown.com/p/earnings-shake-individual-stocks",
+      "source": "themarketbreakdown.com",
+      "published": "2026-10-14T00:55:49+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Capital One Financial Corporation $COF Shares Bought by Courier Capital LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-bought-by-courier-capital-llc-2026-10-13/",
-      "source": "marketbeat.com",
-      "published": "2026-10-13T23:12:45+00:00",
+      "title": "AP Business SummaryBrief at 8:48 p.m. EDT",
+      "url": "https://www.newspressnow.com/sports/chiefs/ap-business-summarybrief-at-8-48-p-m-edt/article_2e56e7bf-83f5-574c-abb4-172055839594.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-14T00:48:09+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "$27k CD maturing, what to do next?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x5deon/27k_cd_maturing_what_to_do_next/",
+      "source": "reddit.com",
+      "published": "2026-10-14T00:31:33+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Citi (C) Delivers Strong Q3 Performance, Exceeds Analyst Expectations",
-      "url": "https://www.gurufocus.com/news/9121906/citi-c-delivers-strong-q3-performance-exceeds-analyst-expectations",
+      "title": "Safest / cheapest way to send money from US to Ireland",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x5dbk6/safest_cheapest_way_to_send_money_from_us_to/",
+      "source": "reddit.com",
+      "published": "2026-10-14T00:27:30+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Faces $1.21 Billion Fine for Compliance Failures",
+      "url": "https://www.gurufocus.com/news/9122011/bank-of-america-faces-121-billion-fine-for-compliance-failures",
       "source": "gurufocus.com",
-      "published": "2026-10-13T23:10:35+00:00",
+      "published": "2026-10-14T00:10:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi (C) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/13/citi-c-q3-2026-earnings-call-transcript/",
+      "source": "fool.com",
+      "published": "2026-10-13T23:59:24+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs Q3: The Business Deserves A Premium. The Stock Already Has One | $GS",
-      "url": "https://seekingalpha.com/article/4953934-goldman-sachs-q3-the-business-deserves-a-premium-the-stock-already-has-one",
-      "source": "seekingalpha.com",
-      "published": "2026-10-13T23:09:53+00:00",
+      "title": "Goldman Sachs (GS) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/13/goldman-sachs-gs-q3-2026-earnings-call-transcript/",
+      "source": "fool.com",
+      "published": "2026-10-13T23:59:24+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/13/jpmorgan-chase-jpm-q3-2026-earnings-call-transcript/",
+      "source": "fool.com",
+      "published": "2026-10-13T23:59:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America Fined More Than $1.2 Billion for Money-Laundering",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-13/bofa-fined-more-than-1-2-billion-for-money-laundering-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-13T23:58:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "10,733 Shares in Citigroup Inc. $C Bought by Fluent Financial LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-10733-shares-in-citigroup-inc-c-bought-by-fluent-financial-llc-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:36:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "26,288 Bank of America Corporation $BAC Shares Acquired by Mechanics Bank Trust Department",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-26288-bank-of-america-corporation-bac-shares-acquired-by-mechanics-bank-trust-department-2026-10-13/",
+      "source": "marketbeat.com",
+      "published": "2026-10-13T23:36:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     }
   ]
