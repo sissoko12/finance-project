@@ -1,288 +1,287 @@
 {
-  "last_updated": "2026-10-15T09:19:23.250206+00:00",
+  "last_updated": "2026-10-15T14:20:58.115797+00:00",
   "headlines": [
     {
-      "title": "Q3 2026 Earnings Preview: Tech Dominance, Big Banks, And Rate Headwinds | $MU $JPM $WFC $C $GS",
-      "url": "https://seekingalpha.com/article/4954328-q3-2026-earnings-preview-tech-dominance-big-banks-rate-headwinds",
-      "source": "seekingalpha.com",
-      "published": "2026-10-15T07:55:00+00:00",
+      "title": "Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified",
+      "url": "https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275",
+      "source": "theregister.com",
+      "published": "2026-10-15T13:45:00+00:00",
       "tickers": [
-        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "PayPal reinstated at Sell equivalent at BofA; FIS, GPN, TOST reinstated at Buy",
+      "url": "https://seekingalpha.com/news/4653388-paypal-reinstated-at-sell-equivalent-at-bofa-fis-gpn-tost-reinstated-at-buy",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T13:44:15+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109630/0001213900-26-109630-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-15T13:35:55+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Bank of New York Mellon (BNY) Stock: Rebounds as Q3 Revenue Rises 12% and Earnings Jump 24%",
+      "url": "https://blockonomi.com/the-bank-of-new-york-mellon-bny-stock-rebounds-as-q3-revenue-rises-12-and-earnings-jump-24/",
+      "source": "blockonomi.com",
+      "published": "2026-10-15T13:26:56+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Why Great Earnings Are Being Punished Right Now",
+      "url": "https://247wallst.com/investing/2026/10/15/why-great-earnings-are-being-punished-right-now/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-15T13:25:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Sector Update: Energy Stocks Advance Pre-Bell Thursday",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-pre-132137510.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-15T13:21:37+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Big Banks Report Strong Earnings—So Why Are Shares Falling?",
+      "url": "https://www.marketbeat.com/articles/big-banks-report-strong-earningsso-why-are-shares-falling/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:15:00+00:00",
+      "tickers": [
         "WFC",
         "C",
         "GS"
       ]
     },
     {
-      "title": "The local unit of Barclays appoints Sonali Sharma as Managing Director and Head of Legal",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-local-unit-of-barclays-appoints-sonali-sharma-as-managing-director-and-head-of-legal/articleshow/134961074.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-15T07:35:38+00:00",
+      "title": "Olin (NYSE:OLN) Stock Lifted to Hold by Barclays",
+      "url": "https://www.tickerreport.com/banking-finance/13620191/olin-nyseoln-stock-lifted-to-hold-by-barclays.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T13:14:52+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "The Charles Schwab Corporation $SCHW Stock Purchased by First Citizens Bank & Trust Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-purchased-by-first-citizens-bank-trust-co-2026-10-15/",
+      "title": "Morgan Stanley (NYSE:MS) Earns \"Outperform\" Rating from Keefe, Bruyette & Woods",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-nyse-ms-earns-outperform-rating-from-keefe-bruyette-woods-2026-10-15/",
       "source": "marketbeat.com",
-      "published": "2026-10-15T07:22:18+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Stake Raised by First Citizens Bank & Trust Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stake-raised-by-first-citizens-bank-trust-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T07:22:08+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Stock: First Citizens Bank & Trust Co. Boosts Stake",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-first-citizens-bank-trust-co-boosts-stake-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T07:21:57+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Purchased by First Citizens Bank & Trust Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-purchased-by-first-citizens-bank-trust-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T07:21:36+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Acquired by First Citizens Bank & Trust Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-acquired-by-first-citizens-bank-trust-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T07:21:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citibank: Q3 Results Confirm The Turnaround And The Valuation Remains Attractive | $C",
-      "url": "https://seekingalpha.com/article/4954313-citibank-q3-results-confirm-the-turnaround-and-the-valuation-remains-attractive",
-      "source": "seekingalpha.com",
-      "published": "2026-10-15T07:13:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Promising Bank Stocks To Watch Today – October 12th",
-      "url": "https://www.tickerreport.com/banking-finance/13619509/promising-bank-stocks-to-watch-today-october-12th.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T07:07:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Global Market: Citi expects Fed to raise rates by 25 basis points in December after hot US inflation data",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-citi-expects-fed-to-raise-rates-by-25-basis-points-in-december-after-hot-us-inflation-data/articleshow/134960261.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-15T07:00:27+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street’s earnings split: Goldman’s $18.7 billion blowout quarter—and why JPMorgan and BofA fell short",
-      "url": "https://fortune.com/2026/10/15/what-jpmorgan-and-bofas-earnings-miss-and-goldmans-tk-blowout-quarter-say-about-the-state-of-the-economy/",
-      "source": "fortune.com",
-      "published": "2026-10-15T07:00:25+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Pacific Gas & Electric (NYSE:PCG) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13619481/pacific-gas-electric-nysepcg-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T06:43:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "American Express (NYSE:AXP) Stock Gets Price Target Reduction from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13619480/american-express-nyseaxp-stock-gets-price-target-reduction-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T06:43:17+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Names Top European Real Estate Stocks to Buy",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-european-real-estate-stocks-to-buy-4950651",
-      "source": "investing.com",
-      "published": "2026-10-15T06:42:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Darling Ingredients (NYSE:DAR) Price Target Raised to $83.00",
-      "url": "https://www.tickerreport.com/banking-finance/13619473/darling-ingredients-nysedar-price-target-raised-to-83-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T06:36:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Sovereign funds to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says",
-      "url": "https://www.investing.com/news/stock-market-news/sovereign-funds-to-turn-to-nondollar-bonds-amid-aidriven-liquidity-crunch-citi-banker-says-4950618",
-      "source": "investing.com",
-      "published": "2026-10-15T06:36:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13619466/archer-daniels-midland-nyseadm-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T06:24:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 15",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-15/article_e9b11821-9457-585a-a21d-8c3c575e8c24.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-15T06:02:15+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Timken (NYSE:TKR) Stock Gets Price Target Trim from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13619443/timken-nysetkr-stock-gets-price-target-trim-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T05:54:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EquipmentShare.com (NASDAQ:EQPT) Stock Gets Price Target Reduction from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13619440/equipmentshare-com-nasdaqeqpt-stock-gets-price-target-reduction-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T05:54:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-slide-over-6-after-q2-earnings-buy-sell-or-hold-the-state-lender/articleshow/134958573.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-15T05:50:13+00:00",
+      "published": "2026-10-15T13:12:35+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Bank of America hired contractors to protect its software from powerful rogue AI agents",
-      "url": "https://www.businessinsider.com/bank-of-america-hired-contractors-protect-software-rogue-ai-agents-2026-10",
-      "source": "businessinsider.com",
-      "published": "2026-10-15T05:14:05+00:00",
+      "title": "State Street (NYSE:STT) Stock Gets Price Target Boost from Keefe, Bruyette & Woods",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-state-street-nyse-stt-stock-gets-price-target-boost-from-keefe-bruyette-woods-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:12:34+00:00",
       "tickers": [
-        "BAC",
+        "STT"
+      ]
+    },
+    {
+      "title": "Citi: Tokenization is the Area They Are Most Excited About",
+      "url": "https://www.crowdfundinsider.com/2026/10/318632-citi-tokenization-is-the-area-they-are-most-excited-about/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-10-15T13:12:08+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "Bank of America Reaffirms “Underperform” Rating for Pershing Square (NYSE:PS)",
-      "url": "https://www.tickerreport.com/banking-finance/13619396/bank-of-america-reaffirms-underperform-rating-for-pershing-square-nyseps.html",
+      "title": "Bank of America (NYSE:BAC) Stock Bumped Up to “Outperform” by Robert W. Baird",
+      "url": "https://www.tickerreport.com/banking-finance/13620188/bank-of-america-nysebac-stock-bumped-up-to-outperform-by-robert-w-baird.html",
       "source": "tickerreport.com",
-      "published": "2026-10-15T05:06:51+00:00",
+      "published": "2026-10-15T13:10:53+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Asia Tech Selloff Shows China as Possible Bright Spot",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/asia-tech-selloff-shows-china-as-possible-bright-spot-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-15T04:10:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Tata Tech shares rally 8% after Q2 results, but Goldman Sachs and JM Financial stay bearish. Here's why",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-tech-shares-rally-8-after-q2-results-but-goldman-sachs-and-jm-financial-stay-bearish-heres-why/articleshow/134957050.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-15T04:04:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo cuts more than 3,000 jobs despite higher quarterly profits",
-      "url": "https://www.charlotteobserver.com/living/article317615590.html#storylink=cpy#new_tab",
-      "source": "charlotteobserver.com",
-      "published": "2026-10-15T03:05:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Earnings To Watch: Truist Financial (TFC) Reports Q3 Results Tomorrow",
-      "url": "https://stockstory.org/us/stocks/nyse/tfc/news/earnings/earnings-to-watch-truist-financial-tfc-reports-q3-results-tomorrow",
-      "source": "stockstory.org",
-      "published": "2026-10-15T03:02:06+00:00",
+      "title": "Charles Schwab (SCHW) Stock Gets Fair Value Trim As Analysts Weigh Growth Durability",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-stock-gets-131051417.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-15T13:10:51+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "JPMorgan's Dimon Says Federal Debt May Lead to Bond Volatility, Higher Rates",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/dimon-says-federal-debt-may-lead-to-bond-volatility-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-15T01:52:10+00:00",
+      "title": "Bank of America Corporation $BAC Holdings Increased by Nvwm LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13620186/bank-of-america-corporation-bac-holdings-increased-by-nvwm-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T13:10:50+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Morgan Stanley Pathway Small-Mid Cap Equity ETF (NYSEARCA:MSSM) Stock Short Interest Report for September",
-      "url": "https://www.tickerreport.com/banking-finance/13619305/morgan-stanley-pathway-small-mid-cap-equity-etf-nysearcamssm-stock-short-interest-report-for-september.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T01:40:52+00:00",
+      "title": "Quantinuum Stock Rises as Morgan Stanley Names It Top Quantum Pick",
+      "url": "https://www.gurufocus.com/news/9125342/quantinuum-stock-rises-as-morgan-stanley-names-it-top-quantum-pick",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T13:10:43+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMorgan's Dimon Sees Benefits From AI, Warns of Risks",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/jpmorgan-s-dimon-sees-benefits-from-ai-warns-of-risks-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-15T01:39:53+00:00",
+      "title": "Morgan Stanley Upgrades Quantinuum (QNT) as Top Quantum Computing Pick Despite Lower Price Target",
+      "url": "https://www.gurufocus.com/news/9125382/morgan-stanley-upgrades-quantinuum-qnt-as-top-quantum-computing-pick-despite-lower-price-target",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T13:10:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "American Axle & Manufacturing (NYSE:DCH) Rating Lowered to “Underperform” at Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13620173/american-axle-manufacturing-nysedch-rating-lowered-to-underperform-at-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T13:06:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Brighthouse Financial (NASDAQ:BHF) Upgraded to \"Neutral\" at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-brighthouse-financial-nasdaq-bhf-upgraded-to-neutral-at-jpmorgan-chase-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:41+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Hemab Therapeutics (NASDAQ:COAG) Stock Rated Overweight in New Coverage at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hemab-therapeutics-nasdaq-coag-stock-rated-overweight-in-new-coverage-at-jpmorgan-chase-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Initiates Coverage on MGE Energy (NASDAQ:MGEE)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-mge-energy-nasdaq-mgee-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Albertsons Companies (NYSE:ACI) Stock Gets Downgrade from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-albertsons-companies-nyse-aci-stock-gets-downgrade-from-jpmorgan-chase-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BorgWarner (NYSE:BWA) Upgraded at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-borgwarner-nyse-bwa-upgraded-at-bank-of-america-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CarMax (NYSE:KMX) Stock Moved Up to \"Buy\" by Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-carmax-nyse-kmx-stock-moved-up-to-buy-by-bank-of-america-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Enel Chile (NYSE:ENIC) Now Covered by Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-enel-chile-nyse-enic-now-covered-by-bank-of-america-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "ArcelorMittal (NYSE:MT) Stock Rating Raised to \"Overweight\" at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-arcelormittal-nyse-mt-stock-rating-raised-to-overweight-at-jpmorgan-chase-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T13:06:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Schwab Stock Falls Despite Beating Q3 Earnings Estimates",
+      "url": "https://finance.yahoo.com/m/9392195b-e1ad-3682-aeb9-5b892c102498/schwab-stock-falls-despite.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-15T13:03:05+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Morgan Stanley upgrades Quantinuum to Overweight on technology edge; shares rise",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-upgrades-quantinuum-to-overweight-on-technology-edge-shares-rise-4951781",
+      "source": "investing.com",
+      "published": "2026-10-15T13:02:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "VSNT Initiated Coverage by Morgan Stanley -- Price Target Announced at $38",
+      "url": "https://www.gurufocus.com/news/9125329/vsnt-initiated-coverage-by-morgan-stanley-price-target-announced-at-38",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T13:01:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BNY Surpasses Q3 Earnings Expectations, Shares Rise Premarket",
+      "url": "https://www.gurufocus.com/news/9125328/bny-surpasses-q3-earnings-expectations-shares-rise-premarket",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T13:00:55+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "DK Maintained by Goldman Sachs -- Price Target Raised to $97",
+      "url": "https://www.gurufocus.com/news/9125324/dk-maintained-by-goldman-sachs-price-target-raised-to-97",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T13:00:22+00:00",
+      "tickers": [
+        "GS"
       ]
     }
   ]
