@@ -1,287 +1,243 @@
 {
-  "last_updated": "2026-10-15T14:20:58.115797+00:00",
+  "last_updated": "2026-10-15T18:33:16.466836+00:00",
   "headlines": [
     {
-      "title": "Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified",
-      "url": "https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275",
-      "source": "theregister.com",
-      "published": "2026-10-15T13:45:00+00:00",
+      "title": "BNY stock pops on strong earnings — showing exactly why we like this bank in this market",
+      "url": "https://www.cnbc.com/investingclub/2026/10/15/bny-stock-pops-on-strong-earnings-showing-exactly-why-we-like-this-bank-in-this-market.html",
+      "source": "cnbc.com",
+      "published": "2026-10-15T18:16:41+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "PayPal reinstated at Sell equivalent at BofA; FIS, GPN, TOST reinstated at Buy",
-      "url": "https://seekingalpha.com/news/4653388-paypal-reinstated-at-sell-equivalent-at-bofa-fis-gpn-tost-reinstated-at-buy",
-      "source": "seekingalpha.com",
-      "published": "2026-10-15T13:44:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
+        "BK"
       ]
     },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109630/0001213900-26-109630-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109762/0001213900-26-109762-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-15T13:35:55+00:00",
+      "published": "2026-10-15T18:15:59+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "The Bank of New York Mellon (BNY) Stock: Rebounds as Q3 Revenue Rises 12% and Earnings Jump 24%",
-      "url": "https://blockonomi.com/the-bank-of-new-york-mellon-bny-stock-rebounds-as-q3-revenue-rises-12-and-earnings-jump-24/",
-      "source": "blockonomi.com",
-      "published": "2026-10-15T13:26:56+00:00",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109747/0001213900-26-109747-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-15T18:00:24+00:00",
       "tickers": [
-        "BK"
+        "JPM"
       ]
     },
     {
-      "title": "Why Great Earnings Are Being Punished Right Now",
-      "url": "https://247wallst.com/investing/2026/10/15/why-great-earnings-are-being-punished-right-now/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-15T13:25:23+00:00",
+      "title": "U.S. Bancorp (USB) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/15/us-bancorp-usb-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-15T17:53:11+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Pnc forecasts full-year 2026 average loan growth of approximately 13.5% as expansion markets drive client momentum",
+      "url": "https://seekingalpha.com/news/4653555-pnc-forecasts-full-year-2026-average-loan-growth-of-approximately-13_5-percent-as-expansion",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T17:46:35+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs: hedge funds are dumping AI stocks at a rapid clip",
+      "url": "https://cryptobriefing.com/goldman-hedge-funds-sell-ai-stocks/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-15T17:46:09+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Sector Update: Energy Stocks Advance Pre-Bell Thursday",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-pre-132137510.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-15T13:21:37+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Big Banks Report Strong Earnings—So Why Are Shares Falling?",
-      "url": "https://www.marketbeat.com/articles/big-banks-report-strong-earningsso-why-are-shares-falling/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:15:00+00:00",
-      "tickers": [
-        "WFC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Olin (NYSE:OLN) Stock Lifted to Hold by Barclays",
-      "url": "https://www.tickerreport.com/banking-finance/13620191/olin-nyseoln-stock-lifted-to-hold-by-barclays.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T13:14:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (NYSE:MS) Earns \"Outperform\" Rating from Keefe, Bruyette & Woods",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-nyse-ms-earns-outperform-rating-from-keefe-bruyette-woods-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:12:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Stock Gets Price Target Boost from Keefe, Bruyette & Woods",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-state-street-nyse-stt-stock-gets-price-target-boost-from-keefe-bruyette-woods-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:12:34+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Citi: Tokenization is the Area They Are Most Excited About",
-      "url": "https://www.crowdfundinsider.com/2026/10/318632-citi-tokenization-is-the-area-they-are-most-excited-about/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-10-15T13:12:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Bumped Up to “Outperform” by Robert W. Baird",
-      "url": "https://www.tickerreport.com/banking-finance/13620188/bank-of-america-nysebac-stock-bumped-up-to-outperform-by-robert-w-baird.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T13:10:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Charles Schwab (SCHW) Stock Gets Fair Value Trim As Analysts Weigh Growth Durability",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-stock-gets-131051417.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-15T13:10:51+00:00",
+      "title": "The PNC Financial Services Group, Inc. (PNC) Q3 2026 Earnings Call Transcript | $PNC",
+      "url": "https://seekingalpha.com/article/4954535-the-pnc-financial-services-group-inc-pnc-q3-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T17:44:42+00:00",
       "tickers": [
         "C",
-        "TFC"
+        "PNC"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Holdings Increased by Nvwm LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13620186/bank-of-america-corporation-bac-holdings-increased-by-nvwm-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T13:10:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Quantinuum Stock Rises as Morgan Stanley Names It Top Quantum Pick",
-      "url": "https://www.gurufocus.com/news/9125342/quantinuum-stock-rises-as-morgan-stanley-names-it-top-quantum-pick",
-      "source": "gurufocus.com",
-      "published": "2026-10-15T13:10:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Upgrades Quantinuum (QNT) as Top Quantum Computing Pick Despite Lower Price Target",
-      "url": "https://www.gurufocus.com/news/9125382/morgan-stanley-upgrades-quantinuum-qnt-as-top-quantum-computing-pick-despite-lower-price-target",
-      "source": "gurufocus.com",
-      "published": "2026-10-15T13:10:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "American Axle & Manufacturing (NYSE:DCH) Rating Lowered to “Underperform” at Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13620173/american-axle-manufacturing-nysedch-rating-lowered-to-underperform-at-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-15T13:06:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Brighthouse Financial (NASDAQ:BHF) Upgraded to \"Neutral\" at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-brighthouse-financial-nasdaq-bhf-upgraded-to-neutral-at-jpmorgan-chase-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Hemab Therapeutics (NASDAQ:COAG) Stock Rated Overweight in New Coverage at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-hemab-therapeutics-nasdaq-coag-stock-rated-overweight-in-new-coverage-at-jpmorgan-chase-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Initiates Coverage on MGE Energy (NASDAQ:MGEE)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-mge-energy-nasdaq-mgee-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Albertsons Companies (NYSE:ACI) Stock Gets Downgrade from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-albertsons-companies-nyse-aci-stock-gets-downgrade-from-jpmorgan-chase-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BorgWarner (NYSE:BWA) Upgraded at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-borgwarner-nyse-bwa-upgraded-at-bank-of-america-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CarMax (NYSE:KMX) Stock Moved Up to \"Buy\" by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-carmax-nyse-kmx-stock-moved-up-to-buy-by-bank-of-america-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Enel Chile (NYSE:ENIC) Now Covered by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-enel-chile-nyse-enic-now-covered-by-bank-of-america-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ArcelorMittal (NYSE:MT) Stock Rating Raised to \"Overweight\" at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-arcelormittal-nyse-mt-stock-rating-raised-to-overweight-at-jpmorgan-chase-co-2026-10-15/",
-      "source": "marketbeat.com",
-      "published": "2026-10-15T13:06:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Schwab Stock Falls Despite Beating Q3 Earnings Estimates",
-      "url": "https://finance.yahoo.com/m/9392195b-e1ad-3682-aeb9-5b892c102498/schwab-stock-falls-despite.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-15T13:03:05+00:00",
+      "title": "Charles Schwab Q3: A Quality Compounder Trading At 12x Earnings | $GS $SCHW",
+      "url": "https://seekingalpha.com/article/4954549-charles-schwab-q3-a-quality-compounder-trading-at-12x-earnings",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T17:42:35+00:00",
       "tickers": [
         "C",
+        "GS",
         "SCHW"
       ]
     },
     {
-      "title": "Morgan Stanley upgrades Quantinuum to Overweight on technology edge; shares rise",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-upgrades-quantinuum-to-overweight-on-technology-edge-shares-rise-4951781",
-      "source": "investing.com",
-      "published": "2026-10-15T13:02:38+00:00",
+      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000370/0000019617-26-000370-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-15T17:39:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cisco Systems leads in Morgan Stanley's CIO survey despite spending moderation",
+      "url": "https://seekingalpha.com/news/4653540-cisco-systems-leads-in-morgan-stanleys-cio-survey-despite-spending-moderation",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T17:39:34+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "VSNT Initiated Coverage by Morgan Stanley -- Price Target Announced at $38",
-      "url": "https://www.gurufocus.com/news/9125329/vsnt-initiated-coverage-by-morgan-stanley-price-target-announced-at-38",
+      "title": "BLK Maintained by Morgan Stanley -- Price Target Raised to $1531",
+      "url": "https://www.gurufocus.com/news/9126062/blk-maintained-by-morgan-stanley-price-target-raised-to-1531",
       "source": "gurufocus.com",
-      "published": "2026-10-15T13:01:05+00:00",
+      "published": "2026-10-15T17:37:21+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BNY Surpasses Q3 Earnings Expectations, Shares Rise Premarket",
-      "url": "https://www.gurufocus.com/news/9125328/bny-surpasses-q3-earnings-expectations-shares-rise-premarket",
+      "title": "CVX Maintained by Morgan Stanley -- Price Target Raised to $226",
+      "url": "https://www.gurufocus.com/news/9126064/cvx-maintained-by-morgan-stanley-price-target-raised-to-226",
       "source": "gurufocus.com",
-      "published": "2026-10-15T13:00:55+00:00",
+      "published": "2026-10-15T17:37:21+00:00",
       "tickers": [
-        "BK"
+        "MS"
       ]
     },
     {
-      "title": "DK Maintained by Goldman Sachs -- Price Target Raised to $97",
-      "url": "https://www.gurufocus.com/news/9125324/dk-maintained-by-goldman-sachs-price-target-raised-to-97",
+      "title": "CVNA Maintains by Morgan Stanley -- Price Target Lowered to $88",
+      "url": "https://www.gurufocus.com/news/9126063/cvna-maintains-by-morgan-stanley-price-target-lowered-to-88",
       "source": "gurufocus.com",
-      "published": "2026-10-15T13:00:22+00:00",
+      "published": "2026-10-15T17:37:21+00:00",
       "tickers": [
-        "GS"
+        "MS"
+      ]
+    },
+    {
+      "title": "CHRD Maintained by Morgan Stanley -- Price Target Raised to $178",
+      "url": "https://www.gurufocus.com/news/9126066/chrd-maintained-by-morgan-stanley-price-target-raised-to-178",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:37:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "VOYA Maintained by JP Morgan -- Price Target Lowered to $105",
+      "url": "https://www.gurufocus.com/news/9126061/voya-maintained-by-jp-morgan-price-target-lowered-to-105",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:37:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CMG Maintained by Morgan Stanley -- Price Target Raised to $40",
+      "url": "https://www.gurufocus.com/news/9126065/cmg-maintained-by-morgan-stanley-price-target-raised-to-40",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:37:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Reaffirms Buy on CoreWeave (CRWV) Amid Stock Drop and Raised Revenue Outlook",
+      "url": "https://www.gurufocus.com/news/9126082/bank-of-america-reaffirms-buy-on-coreweave-crwv-amid-stock-drop-and-raised-revenue-outlook",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:37:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "RYTM Maintained by JP Morgan -- Price Target Lowered to $145",
+      "url": "https://www.gurufocus.com/news/9126058/rytm-maintained-by-jp-morgan-price-target-lowered-to-145",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:37:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PRU Maintains by JP Morgan -- Price Target Lowered to $127",
+      "url": "https://www.gurufocus.com/news/9126056/pru-maintains-by-jp-morgan-price-target-lowered-to-127",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:36:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BAC Maintained by Morgan Stanley -- Price Target Lowered to $61.00",
+      "url": "https://www.gurufocus.com/news/9126055/bac-maintained-by-morgan-stanley-price-target-lowered-to-6100",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:36:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "APA Maintains by Morgan Stanley -- Price Target Raised to $43.00",
+      "url": "https://www.gurufocus.com/news/9126054/apa-maintains-by-morgan-stanley-price-target-raised-to-4300",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:35:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PFG Maintains by JP Morgan -- Price Target Lowered to $106.00",
+      "url": "https://www.gurufocus.com/news/9126053/pfg-maintains-by-jp-morgan-price-target-lowered-to-10600",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:35:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AR Maintained by Morgan Stanley -- Price Target Raised to $51",
+      "url": "https://www.gurufocus.com/news/9126052/ar-maintained-by-morgan-stanley-price-target-raised-to-51",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:34:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LINE Maintains Underweight by JP Morgan -- Price Target Lowered to $37",
+      "url": "https://www.gurufocus.com/news/9126046/line-maintains-underweight-by-jp-morgan-price-target-lowered-to-37",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:33:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "LNC Maintains Underweight by JP Morgan -- Price Target Lowered to $47",
+      "url": "https://www.gurufocus.com/news/9126043/lnc-maintains-underweight-by-jp-morgan-price-target-lowered-to-47",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:31:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "HSY Maintains Neutral by JP Morgan -- Price Target Lowered to $183",
+      "url": "https://www.gurufocus.com/news/9126042/hsy-maintains-neutral-by-jp-morgan-price-target-lowered-to-183",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T17:31:36+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
