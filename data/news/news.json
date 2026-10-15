@@ -1,6 +1,243 @@
 {
-  "last_updated": "2026-10-15T04:15:42.347982+00:00",
+  "last_updated": "2026-10-15T09:19:23.250206+00:00",
   "headlines": [
+    {
+      "title": "Q3 2026 Earnings Preview: Tech Dominance, Big Banks, And Rate Headwinds | $MU $JPM $WFC $C $GS",
+      "url": "https://seekingalpha.com/article/4954328-q3-2026-earnings-preview-tech-dominance-big-banks-rate-headwinds",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T07:55:00+00:00",
+      "tickers": [
+        "JPM",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "The local unit of Barclays appoints Sonali Sharma as Managing Director and Head of Legal",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-local-unit-of-barclays-appoints-sonali-sharma-as-managing-director-and-head-of-legal/articleshow/134961074.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-15T07:35:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Charles Schwab Corporation $SCHW Stock Purchased by First Citizens Bank & Trust Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-purchased-by-first-citizens-bank-trust-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T07:22:18+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation $COF Stake Raised by First Citizens Bank & Trust Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stake-raised-by-first-citizens-bank-trust-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T07:22:08+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Stock: First Citizens Bank & Trust Co. Boosts Stake",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-first-citizens-bank-trust-co-boosts-stake-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T07:21:57+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Shares Purchased by First Citizens Bank & Trust Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-purchased-by-first-citizens-bank-trust-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T07:21:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Acquired by First Citizens Bank & Trust Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-acquired-by-first-citizens-bank-trust-co-2026-10-15/",
+      "source": "marketbeat.com",
+      "published": "2026-10-15T07:21:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citibank: Q3 Results Confirm The Turnaround And The Valuation Remains Attractive | $C",
+      "url": "https://seekingalpha.com/article/4954313-citibank-q3-results-confirm-the-turnaround-and-the-valuation-remains-attractive",
+      "source": "seekingalpha.com",
+      "published": "2026-10-15T07:13:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Promising Bank Stocks To Watch Today – October 12th",
+      "url": "https://www.tickerreport.com/banking-finance/13619509/promising-bank-stocks-to-watch-today-october-12th.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T07:07:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Global Market: Citi expects Fed to raise rates by 25 basis points in December after hot US inflation data",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-citi-expects-fed-to-raise-rates-by-25-basis-points-in-december-after-hot-us-inflation-data/articleshow/134960261.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-15T07:00:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wall Street’s earnings split: Goldman’s $18.7 billion blowout quarter—and why JPMorgan and BofA fell short",
+      "url": "https://fortune.com/2026/10/15/what-jpmorgan-and-bofas-earnings-miss-and-goldmans-tk-blowout-quarter-say-about-the-state-of-the-economy/",
+      "source": "fortune.com",
+      "published": "2026-10-15T07:00:25+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Pacific Gas & Electric (NYSE:PCG) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13619481/pacific-gas-electric-nysepcg-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T06:43:27+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "American Express (NYSE:AXP) Stock Gets Price Target Reduction from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13619480/american-express-nyseaxp-stock-gets-price-target-reduction-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T06:43:17+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Names Top European Real Estate Stocks to Buy",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-european-real-estate-stocks-to-buy-4950651",
+      "source": "investing.com",
+      "published": "2026-10-15T06:42:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Darling Ingredients (NYSE:DAR) Price Target Raised to $83.00",
+      "url": "https://www.tickerreport.com/banking-finance/13619473/darling-ingredients-nysedar-price-target-raised-to-83-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T06:36:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Sovereign funds to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says",
+      "url": "https://www.investing.com/news/stock-market-news/sovereign-funds-to-turn-to-nondollar-bonds-amid-aidriven-liquidity-crunch-citi-banker-says-4950618",
+      "source": "investing.com",
+      "published": "2026-10-15T06:36:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13619466/archer-daniels-midland-nyseadm-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T06:24:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 15",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-15/article_e9b11821-9457-585a-a21d-8c3c575e8c24.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-15T06:02:15+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Timken (NYSE:TKR) Stock Gets Price Target Trim from Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13619443/timken-nysetkr-stock-gets-price-target-trim-from-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T05:54:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "EquipmentShare.com (NASDAQ:EQPT) Stock Gets Price Target Reduction from Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13619440/equipmentshare-com-nasdaqeqpt-stock-gets-price-target-reduction-from-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T05:54:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-slide-over-6-after-q2-earnings-buy-sell-or-hold-the-state-lender/articleshow/134958573.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-15T05:50:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America hired contractors to protect its software from powerful rogue AI agents",
+      "url": "https://www.businessinsider.com/bank-of-america-hired-contractors-protect-software-rogue-ai-agents-2026-10",
+      "source": "businessinsider.com",
+      "published": "2026-10-15T05:14:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Reaffirms “Underperform” Rating for Pershing Square (NYSE:PS)",
+      "url": "https://www.tickerreport.com/banking-finance/13619396/bank-of-america-reaffirms-underperform-rating-for-pershing-square-nyseps.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-15T05:06:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Asia Tech Selloff Shows China as Possible Bright Spot",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/asia-tech-selloff-shows-china-as-possible-bright-spot-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-15T04:10:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Tata Tech shares rally 8% after Q2 results, but Goldman Sachs and JM Financial stay bearish. Here's why",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-tech-shares-rally-8-after-q2-results-but-goldman-sachs-and-jm-financial-stay-bearish-heres-why/articleshow/134957050.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-15T04:04:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Wells Fargo cuts more than 3,000 jobs despite higher quarterly profits",
       "url": "https://www.charlotteobserver.com/living/article317615590.html#storylink=cpy#new_tab",
@@ -44,248 +281,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-10-15/jpmorgan-s-dimon-sees-benefits-from-ai-warns-of-risks-video",
       "source": "bloomberg.com",
       "published": "2026-10-15T01:39:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Rosen Law Firm Encourages Bank of America Corporation Investors to Inquire About Securities Class Action Investigation - BAC",
-      "url": "http://www.businesswire.com/news/home/20261014148002/en/Rosen-Law-Firm-Encourages-Bank-of-America-Corporation%C2%A0Investors-to-Inquire-About-Securities-Class-Action-Investigation---BAC/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
-      "source": "businesswire.com",
-      "published": "2026-10-15T00:53:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "State Street Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into State Street (STT)",
-      "url": "https://www.prnewswire.com/news-releases/state-street-investigation-notice-suewallst-notifies-investors-of-pending-investigation-into-state-street-stt-302909172.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-14T23:45:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by Western Financial Corp CA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-western-financial-corp-ca-2026-10-14/",
-      "source": "marketbeat.com",
-      "published": "2026-10-14T23:36:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "State Street SPDR Portfolio S&P 500 ETF $SPYM Stock: Mezzasalma Advisors LLC Boosts Holdings",
-      "url": "https://www.tickerreport.com/banking-finance/13619185/state-street-spdr-portfolio-sp-500-etf-spym-stock-mezzasalma-advisors-llc-boosts-holdings.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-14T23:29:18+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
-      "url": "https://www.fool.com/investing/2026/10/14/invesco-qqq-doesn-t-own-a-single-bank-and-that-s-not-the-only-thing-the-nasdaq-100-leaves-out/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-14T23:23:01+00:00",
-      "tickers": [
-        "JPM",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America: Huge Fine Makes Shares Slump | $JPM $WFC $C $BAC",
-      "url": "https://seekingalpha.com/article/4954251-bank-of-america-huge-fine-makes-shares-slump",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T23:06:44+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Follow the $10 Billion, Not the $1.5 Trillion: JPMorgan’s Security Bet, One Year In",
-      "url": "https://investornews.com/market-opinion/follow-the-10-billion-not-the-1-5-trillion-jpmorgans-security-bet-one-year-in/",
-      "source": "investornews.com",
-      "published": "2026-10-14T22:57:51+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Analysts’ Recent Ratings Updates for Merck & Co., Inc. (MRK)",
-      "url": "https://www.tickerreport.com/banking-finance/13619091/analysts-recent-ratings-updates-for-merck-co-inc-mrk.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-14T22:56:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hot September CPI Spurs Fed Rate Hike Fears",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-businessweek-daily-10-14-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-14T22:51:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank Of America Tumbles After Trading Miss Across The Board",
-      "url": "https://awesomecapital.blogspot.com/2026/10/ank-of-america-tumbles-after-trading.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-10-14T22:39:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Financial (PNC) Prepares to Report Q3 Earnings Amid Solid Dividend Fundamentals",
-      "url": "https://www.gurufocus.com/news/9123968/pnc-financial-pnc-prepares-to-report-q3-earnings-amid-solid-dividend-fundamentals",
-      "source": "gurufocus.com",
-      "published": "2026-10-14T21:56:45+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (USB) Prepares to Report Q3 Earnings Amid Solid Dividend Fundamentals",
-      "url": "https://www.gurufocus.com/news/9123967/us-bancorp-usb-prepares-to-report-q3-earnings-amid-solid-dividend-fundamentals",
-      "source": "gurufocus.com",
-      "published": "2026-10-14T21:56:26+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "State Street (STT) Reports Strong Q3 Earnings with 33% EPS Growth Amid Valuation Concerns",
-      "url": "https://www.gurufocus.com/news/9123965/state-street-stt-reports-strong-q3-earnings-with-33-eps-growth-amid-valuation-concerns",
-      "source": "gurufocus.com",
-      "published": "2026-10-14T21:55:47+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Keefe Bruyette Lowers Morgan Stanley (MS) Price Target to $230 Amid Market Volatility",
-      "url": "https://www.gurufocus.com/news/9123960/keefe-bruyette-lowers-morgan-stanley-ms-price-target-to-230-amid-market-volatility",
-      "source": "gurufocus.com",
-      "published": "2026-10-14T21:52:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America expects 2027 NII to rise 8% or more as it embeds $1.2B regulatory settlement costs",
-      "url": "https://seekingalpha.com/news/4653213-bank-of-america-expects-2027-nii-to-rise-8-percent-or-more-as-it-embeds-1_2b-regulatory",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T21:45:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation (BAC) Stock: Earnings Miss Sparks Selloff as Expenses Outpace Revenue Growth",
-      "url": "https://blockonomi.com/bank-of-america-corporation-bac-stock-earnings-miss-sparks-selloff-as-expenses-outpace-revenue-growth/",
-      "source": "blockonomi.com",
-      "published": "2026-10-14T21:44:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation (BAC) Q3 2026 Earnings Call Transcript | $BAC $BACRP",
-      "url": "https://seekingalpha.com/article/4954150-bank-of-america-corporation-bac-q3-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-10-14T21:44:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stock Market Today, Oct. 14: Bank of America Shares Fall 5% on Earnings Miss and Compliance Penalty",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/14/stock-market-today-oct-14-bank-of-america-shares-fall-5-on-earnings-miss-and-compliance-penalty/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-14T21:42:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CAI Maintained by JP Morgan -- Price Target Raised to $35",
-      "url": "https://www.gurufocus.com/news/9123952/cai-maintained-by-jp-morgan-price-target-raised-to-35",
-      "source": "gurufocus.com",
-      "published": "2026-10-14T21:33:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031480/0001918704-26-031480-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-14T21:29:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031479/0001918704-26-031479-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-14T21:29:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Downgrades Albertsons (ACI) to Neutral, Cuts Price Target to $13",
-      "url": "https://www.gurufocus.com/news/9123936/goldman-sachs-downgrades-albertsons-aci-to-neutral-cuts-price-target-to-13",
-      "source": "gurufocus.com",
-      "published": "2026-10-14T21:27:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "5 Things JPMorgan’s AI Agent Warning Means for Banking",
-      "url": "https://finovate.com/5-things-jpmorgans-ai-agent-warning-means-for-banking/",
-      "source": "finovate.com",
-      "published": "2026-10-14T21:25:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Sets a New Target For Gold Price By the End of 2026",
-      "url": "https://beincrypto.com/bank-of-america-gold-price-target-end-of-2026/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-10-14T21:19:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026109474/0001213900-26-109474-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-14T21:18:55+00:00",
       "tickers": [
         "JPM"
       ]
