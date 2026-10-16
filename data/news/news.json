@@ -1,256 +1,277 @@
 {
-  "last_updated": "2026-10-16T15:28:32.010069+00:00",
+  "last_updated": "2026-10-16T18:58:48.238108+00:00",
   "headlines": [
     {
-      "title": "PRAX Initiated Coverage by JP Morgan -- Rating Set to Overweight",
-      "url": "https://www.gurufocus.com/news/9127776/prax-initiated-coverage-by-jp-morgan-rating-set-to-overweight",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T15:04:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ECHO Upgraded by JP Morgan -- Price Target Announced at $144.00",
-      "url": "https://www.gurufocus.com/news/9127771/echo-upgraded-by-jp-morgan-price-target-announced-at-14400",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T15:03:13+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Highlights Market Oversold Conditions Amid Dividend Focus (BAC)",
-      "url": "https://www.gurufocus.com/news/9127764/bank-of-america-highlights-market-oversold-conditions-amid-dividend-focus-bac",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T15:01:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Reports Hedge Funds Selling Global AI Stocks Rapidly; AIQ Faces Valuation Pressure",
-      "url": "https://www.gurufocus.com/news/9127726/goldman-sachs-reports-hedge-funds-selling-global-ai-stocks-rapidly-aiq-faces-valuation-pressure",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T14:59:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America's Bull & Bear Indicator Drops, BAC Stock Reflects Dividend Strength Amid ...",
-      "url": "https://www.gurufocus.com/news/9127725/bank-of-americas-bull-bear-indicator-drops-bac-stock-reflects-dividend-strength-amid-market-shifts",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T14:58:10+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Securities Adopts Risk-Off Stance Amid Economic and Political Challenges (BAC)",
-      "url": "https://www.gurufocus.com/news/9127721/bank-of-america-securities-adopts-riskoff-stance-amid-economic-and-political-challenges-bac",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T14:56:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bank Partners with Updation to Enhance Dealership Financial Management (USB)",
-      "url": "https://www.gurufocus.com/news/9127710/us-bank-partners-with-updation-to-enhance-dealership-financial-management-usb",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T14:51:02+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031652/0001918704-26-031652-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T14:39:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Financial: 3 Key Takeaways for Long-Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/16/pnc-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-16T14:35:00+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031648/0001918704-26-031648-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T14:34:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "VRNS Downgraded by Wells Fargo -- Price Target Lowered to $49.75",
-      "url": "https://www.gurufocus.com/news/9127699/vrns-downgraded-by-wells-fargo-price-target-lowered-to-4975",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T14:31:27+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase CEO Jamie Dimon Warns That Inflation, Rising Asset Prices, and More \"Continue to Shift Under the Surface.\"",
-      "url": "https://www.fool.com/investing/2026/10/16/jpmorganchase-ceo-jamie-dimon-warns-that-inflation/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-16T14:23:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Beats on Earnings, But Shares Fall on Trading Mix",
-      "url": "https://www.marketbeat.com/articles/morgan-stanley-beats-on-earnings-but-shares-fall-on-trading-mix/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T14:15:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
-      "url": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-10-16T14:14:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi's Kaiser Isn't Ready to Step In on Chip Stocks",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-16/citi-s-kaiser-isn-t-ready-to-step-in-on-chip-stocks-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-16T14:12:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley sets Boeing stock price target",
-      "url": "https://finbold.com/morgan-stanley-sets-boeing-stock-price-target/",
-      "source": "finbold.com",
-      "published": "2026-10-16T14:10:16+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
-      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
-      "source": "securityweek.com",
-      "published": "2026-10-16T14:09:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Picks Top African Gold Miners on Growth, Cash Flow Outlook",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-picks-top-african-gold-miners-on-growth-cash-flow-outlook-4954386",
-      "source": "investing.com",
-      "published": "2026-10-16T14:08:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Moog (NYSE:MOG.A) Now Covered by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-moog-nyse-moga-now-covered-by-morgan-stanley-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T14:06:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "WEC Energy Group (NYSE:WEC) Stock Price Target Cut by Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-wec-energy-group-nyse-wec-stock-price-target-cut-by-truist-financial-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T14:06:39+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for Exelon (NASDAQ:EXC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-exelon-nasdaq-exc-stock-price-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T14:06:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "THE BUSINESS COUNCIL ANNOUNCES LEADERSHIP TRANSITION AS GOLDMAN SACHS CEO DAVID SOLOMON TAKES ...",
-      "url": "https://www.newspressnow.com/sports/chiefs/the-business-council-announces-leadership-transition-as-goldman-sachs-ceo-david-solomon-takes/article_ef92b758-c7d4-5a17-9957-2974e3a5fd34.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-16T14:02:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426031642/0001918704-26-031642-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026110178/0001213900-26-110178-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-16T13:58:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Echostar (NASDAQ:ECHO) Upgraded at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-echostar-nasdaq-echo-upgraded-at-jpmorgan-chase-co-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T13:50:35+00:00",
+      "published": "2026-10-16T18:26:33+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
       "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051053/0001839882-26-051053-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051144/0001839882-26-051144-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-16T13:45:57+00:00",
+      "published": "2026-10-16T18:11:53+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Navigating Financial ETFs: Why Fee Efficiency Wins, but Niche Yield Still Has a Place",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/16/navigating-financial-etfs-why-fee-efficiency-wins-but-niche-yield-still-has-a-place/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-16T13:45:02+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051142/0001839882-26-051142-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T18:04:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000390/0000019617-26-000390-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T18:01:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "He Lives Paycheck to Paycheck on $300,000, but a $4,152 Social Security Check Would Replace Less Than 17% of His Pay",
+      "url": "https://247wallst.com/personal-finance/social-security/2026/10/16/he-lives-paycheck-to-paycheck-on-300000-but-a-4152-social-security-check-would-replace-less-than-17-of-his-pay/",
+      "source": "247wallst.com",
+      "published": "2026-10-16T18:00:25+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "State Street Q3: Another Strong Quarter, But Macro Tailwinds May Be Fading | $STT",
+      "url": "https://seekingalpha.com/article/4954851-state-street-q3-another-strong-quarter-but-macro-tailwinds-may-be-fading",
+      "source": "seekingalpha.com",
+      "published": "2026-10-16T17:59:24+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
-      "title": "BofA's Hartnett leaning risk-off for next month",
-      "url": "https://seekingalpha.com/news/4653823-bofas-hartnett-leaning-risk-off-for-next-month",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031680/0001918704-26-031680-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T17:58:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526423795/0001193125-26-423795-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T17:40:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "IBP Maintains by Wells Fargo -- Price Target Lowered to $195",
+      "url": "https://www.gurufocus.com/news/9128015/ibp-maintains-by-wells-fargo-price-target-lowered-to-195",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BLDR Maintained by Wells Fargo -- Price Target Lowered to $55.00",
+      "url": "https://www.gurufocus.com/news/9128013/bldr-maintained-by-wells-fargo-price-target-lowered-to-5500",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "POOL Maintains Rating by Wells Fargo -- Price Target Lowered to $165",
+      "url": "https://www.gurufocus.com/news/9128016/pool-maintains-rating-by-wells-fargo-price-target-lowered-to-165",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "DHI Maintained by Wells Fargo -- Price Target Lowered to $140",
+      "url": "https://www.gurufocus.com/news/9128020/dhi-maintained-by-wells-fargo-price-target-lowered-to-140",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "QXO Maintained by Wells Fargo -- Price Target Lowered to $15.00",
+      "url": "https://www.gurufocus.com/news/9128019/qxo-maintained-by-wells-fargo-price-target-lowered-to-1500",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Boosts Confidence in Snowflake (SNOW) Amid Faster Data Migrations and New Lumen ...",
+      "url": "https://www.gurufocus.com/news/9128039/jp-morgan-boosts-confidence-in-snowflake-snow-amid-faster-data-migrations-and-new-lumen-partnership",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KBH Maintained by Wells Fargo -- Price Target Lowered to $42.00",
+      "url": "https://www.gurufocus.com/news/9128021/kbh-maintained-by-wells-fargo-price-target-lowered-to-4200",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:14+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "WHR Maintained by Wells Fargo -- Price Target Lowered to $30",
+      "url": "https://www.gurufocus.com/news/9128012/whr-maintained-by-wells-fargo-price-target-lowered-to-30",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:38:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Maintains Outperform Rating -- Price Target Lowered to $250",
+      "url": "https://www.gurufocus.com/news/9128011/pnc-maintains-outperform-rating-price-target-lowered-to-250",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:37:47+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "SWK Maintained by Wells Fargo -- Price Target Lowered to $90",
+      "url": "https://www.gurufocus.com/news/9128010/swk-maintained-by-wells-fargo-price-target-lowered-to-90",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:37:27+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JNJ Maintained by Wells Fargo -- Price Target Raised to $287",
+      "url": "https://www.gurufocus.com/news/9128006/jnj-maintained-by-wells-fargo-price-target-raised-to-287",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:36:03+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "SCHW Maintained by Wells Fargo -- Price Target Lowered to $103.00",
+      "url": "https://www.gurufocus.com/news/9128004/schw-maintained-by-wells-fargo-price-target-lowered-to-10300",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:35:22+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MRSH Maintained by Wells Fargo -- Price Target Raised to $197",
+      "url": "https://www.gurufocus.com/news/9128003/mrsh-maintained-by-wells-fargo-price-target-raised-to-197",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:34:58+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "WLK Maintained by JP Morgan -- Price Target Lowered to $65.00",
+      "url": "https://www.gurufocus.com/news/9128000/wlk-maintained-by-jp-morgan-price-target-lowered-to-6500",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:33:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp Upgraded After Stellar Q3, As Commercial And Consumer Credit Demand Shines | $USB",
+      "url": "https://seekingalpha.com/article/4954843-us-bancorp-upgraded-after-stellar-q3-as-commercial-and-consumer-credit-demand",
       "source": "seekingalpha.com",
-      "published": "2026-10-16T13:42:05+00:00",
+      "published": "2026-10-16T17:33:35+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JBHT Maintained by JP Morgan -- Price Target Lowered to $283",
+      "url": "https://www.gurufocus.com/news/9127995/jbht-maintained-by-jp-morgan-price-target-lowered-to-283",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:32:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "IDXX Maintains Overweight Rating with JP Morgan -- Price Target Lowered to $750",
+      "url": "https://www.gurufocus.com/news/9127994/idxx-maintains-overweight-rating-with-jp-morgan-price-target-lowered-to-750",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:31:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FHN Maintains by JP Morgan -- Price Target Lowered to $26",
+      "url": "https://www.gurufocus.com/news/9127992/fhn-maintains-by-jp-morgan-price-target-lowered-to-26",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:31:08+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "SCHW Maintained by JP Morgan -- Price Target Lowered to $147.00",
+      "url": "https://www.gurufocus.com/news/9127991/schw-maintained-by-jp-morgan-price-target-lowered-to-14700",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:30:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WSE Maintained by JP Morgan -- Price Target Raised to $17.70",
+      "url": "https://www.gurufocus.com/news/9127990/wse-maintained-by-jp-morgan-price-target-raised-to-1770",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T17:30:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America Stock Sell-Off Looks Like a Buying Opportunity",
+      "url": "https://www.marketbeat.com/articles/bank-of-america-stock-sell-off-looks-like-a-buying-opportunity/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T17:30:00+00:00",
       "tickers": [
         "BAC",
         "C"
