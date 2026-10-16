@@ -1,289 +1,258 @@
 {
-  "last_updated": "2026-10-16T11:09:51.526115+00:00",
+  "last_updated": "2026-10-16T15:28:32.010069+00:00",
   "headlines": [
     {
-      "title": "Truist Financial Non-GAAP EPS of $1.16 misses by $0.01, revenue of $5.3B misses by $60M",
-      "url": "https://seekingalpha.com/news/4653745-truist-financial-non-gaap-eps-of-116-misses-by-001-revenue-of-53b-misses-by-60m",
-      "source": "seekingalpha.com",
-      "published": "2026-10-16T10:33:44+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Upgrades Realty Income (NYSE:O) to Strong-Buy",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-upgrades-realty-income-nyse-o-to-strong-buy-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T10:30:44+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks (NASDAQ:PANW) Stock Rating Raised to \"Strong-Buy\" at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-palo-alto-networks-nasdaq-panw-stock-rating-raised-to-strong-buy-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T10:30:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Truist reports third quarter 2026 results",
-      "url": "https://www.prnewswire.com/news-releases/truist-reports-third-quarter-2026-results-302910523.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-16T10:30:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Carlyle Buys $7.7 Billion in Consumer Loans as Truist Revamps",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/carlyle-buys-7-7-billion-in-consumer-loans-as-truist-revamps",
-      "source": "bloomberg.com",
-      "published": "2026-10-16T10:30:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Goldman Sachs cuts Charles Schwab stock price target on NII outlook",
-      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-charles-schwab-stock-price-target-on-nii-outlook-93CH-4953594",
-      "source": "investing.com",
-      "published": "2026-10-16T10:14:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Marc Fischer - Marc Fischer Managing Director, Institutional Consulting Director, ...",
-      "url": "https://rbj.net/2026/10/16/marc-fischer-2/",
-      "source": "rbj.net",
-      "published": "2026-10-16T10:14:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Dave Ramsey Calls Bank of America a 'Cesspool', Tells Homeowner to Consider Walking Away From Loan",
-      "url": "https://www.ibtimes.co.uk/dave-ramsey-homeowner-100000-heloc-legal-risks-1826049",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-16T10:06:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "USD/KRW: Goldman Sachs sees Korean won strengthening",
-      "url": "https://www.investing.com/news/forex-news/usdkrw-goldman-sachs-sees-korean-won-strengthening-93CH-4953507",
-      "source": "investing.com",
-      "published": "2026-10-16T09:50:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Investors bought stocks and bonds, shed cash in past week, say BofA",
-      "url": "https://www.investing.com/news/economy-news/investors-bought-stocks-and-bonds-shed-cash-in-past-week-say-bofa-4953449",
-      "source": "investing.com",
-      "published": "2026-10-16T09:24:23+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America balance transfer sent to the wrong payee (Imprint Shell) — marked “Returned” for 2 months, but credit never restored. Has anyone experienced this?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x7bjrk/bank_of_america_balance_transfer_sent_to_the/",
-      "source": "reddit.com",
-      "published": "2026-10-16T09:22:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Weaver Capital Management LLC Acquires 10,612 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-weaver-capital-management-llc-acquires-10612-shares-of-bank-of-america-corporation-bac-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T09:20:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by Triasima Portfolio Management inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-triasima-portfolio-management-inc-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T09:20:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Ninety One UK Ltd Sells 230,751 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.tickerreport.com/banking-finance/13621635/ninety-one-uk-ltd-sells-230751-shares-of-the-goldman-sachs-group-inc-gs.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-16T09:15:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The ultra-rich are piling into Rolexes, rubies and Klimts as inflation hedges—but the real return may be about more than money",
-      "url": "https://fortune.com/2026/10/16/ultra-rich-family-offices-luxury-assets-art-watches-inflation-hedge/",
-      "source": "fortune.com",
-      "published": "2026-10-16T09:06:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
-      "url": "https://www.investing.com/news/forex-news/bofa-forecasts-eurusd-at-115-by-yearend-120-by-end2027-93CH-4953416",
-      "source": "investing.com",
-      "published": "2026-10-16T09:02:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley initiates Bandwidth stock coverage citing AI voice growth",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-bandwidth-stock-coverage-citing-ai-voice-growth-93CH-4953414",
-      "source": "investing.com",
-      "published": "2026-10-16T09:01:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley initiates Bandwidth stock coverage with equalweight rating",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-initiates-bandwidth-stock-coverage-with-equalweight-rating-93CH-4953413",
-      "source": "investing.com",
-      "published": "2026-10-16T09:01:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VOO, VTI, SPY, or IVV? How These 4 Index Funds Differ",
-      "url": "https://www.fool.com/investing/2026/10/16/voo-vti-spy-ivv-how-4-index-funds-differ/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-16T09:00:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by Strategy Asset Managers LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13621561/jpmorgan-chase-co-jpm-shares-sold-by-strategy-asset-managers-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-16T08:49:48+00:00",
+      "title": "PRAX Initiated Coverage by JP Morgan -- Rating Set to Overweight",
+      "url": "https://www.gurufocus.com/news/9127776/prax-initiated-coverage-by-jp-morgan-rating-set-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T15:04:46+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Stock Traders Buy High Volume of Put Options on State Street (NYSE:STT)",
-      "url": "https://www.tickerreport.com/banking-finance/13621542/stock-traders-buy-high-volume-of-put-options-on-state-street-nysestt.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-16T08:42:43+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Bought by Community Trust & Investment Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-bought-by-community-trust-investment-co-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T08:03:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Stock Sold by Curated Wealth Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-sold-by-curated-wealth-partners-llc-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T07:53:01+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Curated Wealth Partners LLC Sells 161,126 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-curated-wealth-partners-llc-sells-161126-shares-of-the-goldman-sachs-group-inc-gs-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T07:52:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "B.A. Schrock Wealth Management Inc. Makes New $2.30 Million Investment in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ba-schrock-wealth-management-inc-makes-new-230-million-investment-in-jpmorgan-chase-co-jpm-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T07:12:38+00:00",
+      "title": "ECHO Upgraded by JP Morgan -- Price Target Announced at $144.00",
+      "url": "https://www.gurufocus.com/news/9127771/echo-upgraded-by-jp-morgan-price-target-announced-at-14400",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T15:03:13+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Assenagon Asset Management S.A. Buys 17,130 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-assenagon-asset-management-sa-buys-17130-shares-of-capital-one-financial-corporation-cof-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T07:05:22+00:00",
+      "title": "Bank of America Highlights Market Oversold Conditions Amid Dividend Focus (BAC)",
+      "url": "https://www.gurufocus.com/news/9127764/bank-of-america-highlights-market-oversold-conditions-amid-dividend-focus-bac",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T15:01:43+00:00",
       "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Stock Position Raised by Assenagon Asset Management S.A.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-position-raised-by-assenagon-asset-management-sa-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T07:05:10+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase, Bank of America, Wells Fargo and Six Other Banks Debanked Customers Over Political and Religious Beliefs, Federal Regulator Finds",
-      "url": "https://dailyhodl.com/2026/10/16/jpmorgan-chase-bank-of-america-wells-fargo-and-six-other-banks-debanked-customers-over-political-and-religious-beliefs-federal-regulator-finds/",
-      "source": "dailyhodl.com",
-      "published": "2026-10-16T07:04:20+00:00",
-      "tickers": [
-        "JPM",
         "BAC",
-        "WFC",
         "C"
       ]
     },
     {
-      "title": "US Bancorp boosts Q3 net income 10%",
-      "url": "https://www.marketscreener.com/news/us-bancorp-boosts-q3-net-income-10-ce785dd3de8af223",
-      "source": "marketscreener.com",
-      "published": "2026-10-16T06:40:37+00:00",
+      "title": "Goldman Sachs Reports Hedge Funds Selling Global AI Stocks Rapidly; AIQ Faces Valuation Pressure",
+      "url": "https://www.gurufocus.com/news/9127726/goldman-sachs-reports-hedge-funds-selling-global-ai-stocks-rapidly-aiq-faces-valuation-pressure",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T14:59:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America's Bull & Bear Indicator Drops, BAC Stock Reflects Dividend Strength Amid ...",
+      "url": "https://www.gurufocus.com/news/9127725/bank-of-americas-bull-bear-indicator-drops-bac-stock-reflects-dividend-strength-amid-market-shifts",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T14:58:10+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Securities Adopts Risk-Off Stance Amid Economic and Political Challenges (BAC)",
+      "url": "https://www.gurufocus.com/news/9127721/bank-of-america-securities-adopts-riskoff-stance-amid-economic-and-political-challenges-bac",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T14:56:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "U.S. Bank Partners with Updation to Enhance Dealership Financial Management (USB)",
+      "url": "https://www.gurufocus.com/news/9127710/us-bank-partners-with-updation-to-enhance-dealership-financial-management-usb",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T14:51:02+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "Winnebago Industries (NYSE:WGO) Stock Gets Price Target Cut from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13621380/winnebago-industries-nysewgo-stock-gets-price-target-cut-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-16T06:19:01+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031652/0001918704-26-031652-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T14:39:27+00:00",
       "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Financial: 3 Key Takeaways for Long-Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/16/pnc-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-16T14:35:00+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426031648/0001918704-26-031648-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T14:34:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VRNS Downgraded by Wells Fargo -- Price Target Lowered to $49.75",
+      "url": "https://www.gurufocus.com/news/9127699/vrns-downgraded-by-wells-fargo-price-target-lowered-to-4975",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T14:31:27+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase CEO Jamie Dimon Warns That Inflation, Rising Asset Prices, and More \"Continue to Shift Under the Surface.\"",
+      "url": "https://www.fool.com/investing/2026/10/16/jpmorganchase-ceo-jamie-dimon-warns-that-inflation/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-16T14:23:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Beats on Earnings, But Shares Fall on Trading Mix",
+      "url": "https://www.marketbeat.com/articles/morgan-stanley-beats-on-earnings-but-shares-fall-on-trading-mix/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T14:15:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
+      "url": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-10-16T14:14:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi's Kaiser Isn't Ready to Step In on Chip Stocks",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-16/citi-s-kaiser-isn-t-ready-to-step-in-on-chip-stocks-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-16T14:12:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sets Boeing stock price target",
+      "url": "https://finbold.com/morgan-stanley-sets-boeing-stock-price-target/",
+      "source": "finbold.com",
+      "published": "2026-10-16T14:10:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "source": "securityweek.com",
+      "published": "2026-10-16T14:09:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Picks Top African Gold Miners on Growth, Cash Flow Outlook",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-picks-top-african-gold-miners-on-growth-cash-flow-outlook-4954386",
+      "source": "investing.com",
+      "published": "2026-10-16T14:08:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Moog (NYSE:MOG.A) Now Covered by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-moog-nyse-moga-now-covered-by-morgan-stanley-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T14:06:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "WEC Energy Group (NYSE:WEC) Stock Price Target Cut by Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-wec-energy-group-nyse-wec-stock-price-target-cut-by-truist-financial-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T14:06:39+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Exelon (NASDAQ:EXC) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-exelon-nasdaq-exc-stock-price-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T14:06:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "THE BUSINESS COUNCIL ANNOUNCES LEADERSHIP TRANSITION AS GOLDMAN SACHS CEO DAVID SOLOMON TAKES ...",
+      "url": "https://www.newspressnow.com/sports/chiefs/the-business-council-announces-leadership-transition-as-goldman-sachs-ceo-david-solomon-takes/article_ef92b758-c7d4-5a17-9957-2974e3a5fd34.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-16T14:02:19+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426031642/0001918704-26-031642-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T13:58:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Echostar (NASDAQ:ECHO) Upgraded at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-echostar-nasdaq-echo-upgraded-at-jpmorgan-chase-co-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T13:50:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051053/0001839882-26-051053-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T13:45:57+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Navigating Financial ETFs: Why Fee Efficiency Wins, but Niche Yield Still Has a Place",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/16/navigating-financial-etfs-why-fee-efficiency-wins-but-niche-yield-still-has-a-place/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-16T13:45:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BofA's Hartnett leaning risk-off for next month",
+      "url": "https://seekingalpha.com/news/4653823-bofas-hartnett-leaning-risk-off-for-next-month",
+      "source": "seekingalpha.com",
+      "published": "2026-10-16T13:42:05+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     }
