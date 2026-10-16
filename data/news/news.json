@@ -1,280 +1,287 @@
 {
-  "last_updated": "2026-10-16T18:58:48.238108+00:00",
+  "last_updated": "2026-10-16T22:01:02.717431+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026110178/0001213900-26-110178-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T18:26:33+00:00",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.2% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-up-12-whats-next-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T21:21:35+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051144/0001839882-26-051144-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T18:11:53+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051142/0001839882-26-051142-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T18:04:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000390/0000019617-26-000390-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T18:01:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "He Lives Paycheck to Paycheck on $300,000, but a $4,152 Social Security Check Would Replace Less Than 17% of His Pay",
-      "url": "https://247wallst.com/personal-finance/social-security/2026/10/16/he-lives-paycheck-to-paycheck-on-300000-but-a-4152-social-security-check-would-replace-less-than-17-of-his-pay/",
-      "source": "247wallst.com",
-      "published": "2026-10-16T18:00:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "State Street Q3: Another Strong Quarter, But Macro Tailwinds May Be Fading | $STT",
-      "url": "https://seekingalpha.com/article/4954851-state-street-q3-another-strong-quarter-but-macro-tailwinds-may-be-fading",
-      "source": "seekingalpha.com",
-      "published": "2026-10-16T17:59:24+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031680/0001918704-26-031680-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T17:58:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526423795/0001193125-26-423795-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T17:40:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "IBP Maintains by Wells Fargo -- Price Target Lowered to $195",
-      "url": "https://www.gurufocus.com/news/9128015/ibp-maintains-by-wells-fargo-price-target-lowered-to-195",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BLDR Maintained by Wells Fargo -- Price Target Lowered to $55.00",
-      "url": "https://www.gurufocus.com/news/9128013/bldr-maintained-by-wells-fargo-price-target-lowered-to-5500",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "POOL Maintains Rating by Wells Fargo -- Price Target Lowered to $165",
-      "url": "https://www.gurufocus.com/news/9128016/pool-maintains-rating-by-wells-fargo-price-target-lowered-to-165",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "DHI Maintained by Wells Fargo -- Price Target Lowered to $140",
-      "url": "https://www.gurufocus.com/news/9128020/dhi-maintained-by-wells-fargo-price-target-lowered-to-140",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:14+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "QXO Maintained by Wells Fargo -- Price Target Lowered to $15.00",
-      "url": "https://www.gurufocus.com/news/9128019/qxo-maintained-by-wells-fargo-price-target-lowered-to-1500",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:14+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Boosts Confidence in Snowflake (SNOW) Amid Faster Data Migrations and New Lumen ...",
-      "url": "https://www.gurufocus.com/news/9128039/jp-morgan-boosts-confidence-in-snowflake-snow-amid-faster-data-migrations-and-new-lumen-partnership",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KBH Maintained by Wells Fargo -- Price Target Lowered to $42.00",
-      "url": "https://www.gurufocus.com/news/9128021/kbh-maintained-by-wells-fargo-price-target-lowered-to-4200",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:14+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "WHR Maintained by Wells Fargo -- Price Target Lowered to $30",
-      "url": "https://www.gurufocus.com/news/9128012/whr-maintained-by-wells-fargo-price-target-lowered-to-30",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:38:11+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Maintains Outperform Rating -- Price Target Lowered to $250",
-      "url": "https://www.gurufocus.com/news/9128011/pnc-maintains-outperform-rating-price-target-lowered-to-250",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:37:47+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "SWK Maintained by Wells Fargo -- Price Target Lowered to $90",
-      "url": "https://www.gurufocus.com/news/9128010/swk-maintained-by-wells-fargo-price-target-lowered-to-90",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:37:27+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JNJ Maintained by Wells Fargo -- Price Target Raised to $287",
-      "url": "https://www.gurufocus.com/news/9128006/jnj-maintained-by-wells-fargo-price-target-raised-to-287",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:36:03+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SCHW Maintained by Wells Fargo -- Price Target Lowered to $103.00",
-      "url": "https://www.gurufocus.com/news/9128004/schw-maintained-by-wells-fargo-price-target-lowered-to-10300",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:35:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MRSH Maintained by Wells Fargo -- Price Target Raised to $197",
-      "url": "https://www.gurufocus.com/news/9128003/mrsh-maintained-by-wells-fargo-price-target-raised-to-197",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:34:58+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "WLK Maintained by JP Morgan -- Price Target Lowered to $65.00",
-      "url": "https://www.gurufocus.com/news/9128000/wlk-maintained-by-jp-morgan-price-target-lowered-to-6500",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:33:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp Upgraded After Stellar Q3, As Commercial And Consumer Credit Demand Shines | $USB",
-      "url": "https://seekingalpha.com/article/4954843-us-bancorp-upgraded-after-stellar-q3-as-commercial-and-consumer-credit-demand",
-      "source": "seekingalpha.com",
-      "published": "2026-10-16T17:33:35+00:00",
+      "title": "How Investors Are Reacting To U.S. Bancorp (USB) Earnings Beat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-u-bancorp-usb-211432723.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-16T21:14:32+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "JBHT Maintained by JP Morgan -- Price Target Lowered to $283",
-      "url": "https://www.gurufocus.com/news/9127995/jbht-maintained-by-jp-morgan-price-target-lowered-to-283",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:32:18+00:00",
+      "title": "Learn Why The Bull Case For Goldman Sachs Stock Could Change Following Earnings Beat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-goldman-211034659.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-16T21:10:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "American Airlines Makes You Watch Two Ads For “Free” Wi-Fi Every Flight—Even After You’ve Bought What They’re Selling",
+      "url": "https://viewfromthewing.com/american-airlines-makes-you-watch-two-ads-for-free-wi-fi-every-flight-even-after-youve-bought-what-theyre-selling/",
+      "source": "viewfromthewing.com",
+      "published": "2026-10-16T21:04:14+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase: The Place To Be When Storm Clouds Gather | $JPM",
+      "url": "https://seekingalpha.com/article/4954899-jpmorgan-chase-place-to-be-when-storm-clouds-gather",
+      "source": "seekingalpha.com",
+      "published": "2026-10-16T21:03:14+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "IDXX Maintains Overweight Rating with JP Morgan -- Price Target Lowered to $750",
-      "url": "https://www.gurufocus.com/news/9127994/idxx-maintains-overweight-rating-with-jp-morgan-price-target-lowered-to-750",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:31:58+00:00",
+      "title": "Lucid Group (NASDAQ:LCID) Shares Down 10.6% on Analyst Downgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13622879/lucid-group-nasdaqlcid-shares-down-10-6-on-analyst-downgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-16T21:00:56+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "FHN Maintains by JP Morgan -- Price Target Lowered to $26",
-      "url": "https://www.gurufocus.com/news/9127992/fhn-maintains-by-jp-morgan-price-target-lowered-to-26",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:31:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SCHW Maintained by JP Morgan -- Price Target Lowered to $147.00",
-      "url": "https://www.gurufocus.com/news/9127991/schw-maintained-by-jp-morgan-price-target-lowered-to-14700",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:30:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WSE Maintained by JP Morgan -- Price Target Raised to $17.70",
-      "url": "https://www.gurufocus.com/news/9127990/wse-maintained-by-jp-morgan-price-target-raised-to-1770",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T17:30:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Stock Sell-Off Looks Like a Buying Opportunity",
-      "url": "https://www.marketbeat.com/articles/bank-of-america-stock-sell-off-looks-like-a-buying-opportunity/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T17:30:00+00:00",
+      "title": "Bank of America warns of a disappointing old pattern",
+      "url": "https://www.thestreet.com/crypto/markets/bank-of-america-warns-of-a-disappointing-old-pattern?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-16T21:00:00+00:00",
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Housing Crisis, Inflation Worries, Midterms Loom",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-16/bloomberg-money-10-16-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-16T20:56:15+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Walt Disney (NYSE:DIS) Given New $140.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-walt-disney-nyse-dis-given-new-14000-price-target-at-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:42:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for J.B. Hunt Transport Services (NASDAQ:JBHT) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-jb-hunt-transport-services-nasdaq-jbht-stock-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:42:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wingstop (NASDAQ:WING) Price Target Cut to $191.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-wingstop-nasdaq-wing-price-target-cut-to-19100-by-analysts-at-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:42:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Varonis Systems (NASDAQ:VRNS) Stock Gets Price Target Increase from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-varonis-systems-nasdaq-vrns-stock-gets-price-target-increase-from-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:42:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051178/0001839882-26-051178-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T20:36:47+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Charles Schwab CEO: AI agents trading on your behalf need 'rules of the road'",
+      "url": "https://finance.yahoo.com/markets/article/charles-schwab-ceo-ai-agents-trading-on-your-behalf-need-rules-of-the-road-203402357.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-16T20:34:02+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "FHLB Dallas and Wells Fargo Celebrate the Grand Opening of Burleson Studios in Austin, Texas",
+      "url": "http://www.businesswire.com/news/home/20261016788039/en/FHLB-Dallas-and-Wells-Fargo-Celebrate-the-Grand-Opening-of-Burleson-Studios-in-Austin-Texas/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
+      "source": "businesswire.com",
+      "published": "2026-10-16T20:32:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Flags Major Warning for Stock Market",
+      "url": "https://www.gurufocus.com/news/9127779/bank-of-america-flags-major-warning-for-stock-market",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T20:27:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Why AI agents may not outperform markets",
+      "url": "https://finance.yahoo.com/video/why-ai-agents-may-not-outperform-markets-202621085.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-16T20:26:21+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Marsh & McLennan Companies (NYSE:MRSH) Price Target Raised to $203.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-marsh-mclennan-companies-nyse-mrsh-price-target-raised-to-20300-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:24:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fidelity National Information Services (NYSE:FIS) Given New $39.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-fidelity-national-information-services-nyse-fis-given-new-3900-price-target-at-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:24:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fiserv (NASDAQ:FISV) Price Target Cut to $53.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-fiserv-nasdaq-fisv-price-target-cut-to-5300-by-analysts-at-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:24:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015722/0000950103-26-015722-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T20:20:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031709/0001918704-26-031709-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T20:19:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp: Form 8-K/A [Amend] - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000106/0001390777-26-000106-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T20:19:01+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000195004726010284/0001950047-26-010284-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T20:15:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-16T20:15:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AML Penalty Could Be A Game Changer For Bank of America Stock (BAC)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aml-penalty-could-game-changer-201453006.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-16T20:14:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Where Cash Is Going Now In BNY Mellon Stock And Treasury Plays",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/where-cash-going-now-bny-201202919.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-16T20:12:02+00:00",
+      "tickers": [
+        "STT",
+        "BK"
+      ]
+    },
+    {
+      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "url": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-10-16T20:05:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street (NYSE:STT) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-state-street-nyse-stt-stock-price-target-lowered-at-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:00:35+00:00",
+      "tickers": [
+        "C",
+        "STT"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (NYSE:USB) Given New $70.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-us-bancorp-nyse-usb-given-new-7000-price-target-at-citigroup-2026-10-16/",
+      "source": "marketbeat.com",
+      "published": "2026-10-16T20:00:34+00:00",
+      "tickers": [
+        "C",
+        "USB"
       ]
     }
   ]
