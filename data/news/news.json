@@ -1,6 +1,179 @@
 {
-  "last_updated": "2026-10-16T00:38:52.324372+00:00",
+  "last_updated": "2026-10-16T05:42:20.378819+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF (BATS:GSEE) Shares Down 0.9% – Should You Sell?",
+      "url": "https://www.tickerreport.com/banking-finance/13621317/goldman-sachs-marketbeta-emerging-markets-equity-etf-batsgsee-shares-down-0-9-should-you-sell.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-16T05:01:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America CEO: ‘The good news is that the US consumer is still spending strongly’",
+      "url": "https://www.irishtimes.com/business/2026/10/16/bank-of-america-ceo-the-good-news-is-that-the-us-consumer-is-still-spending-strongly/",
+      "source": "irishtimes.com",
+      "published": "2026-10-16T05:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bulge Bracket Billions | $JPM $GS $BAC $MS $C",
+      "url": "https://seekingalpha.com/article/4954644-bulge-bracket-billions",
+      "source": "seekingalpha.com",
+      "published": "2026-10-16T04:30:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Wipro shares rise over 2% as Q2 revenue grows 9% YoY. What are Nomura, Goldman Sachs analysts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-rise-over-2-as-q2-revenue-grows-9-yoy-what-are-nomura-goldman-sachs-analysts-saying/articleshow/134982358.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-16T04:26:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Bank of New York Mellon Corporation 2026 Q3 - Results - Earnings Call Presentation | $BNY",
+      "url": "https://seekingalpha.com/article/4954657-the-bank-of-new-york-mellon-corporation-2026-q3-results-earnings-call-presentation",
+      "source": "seekingalpha.com",
+      "published": "2026-10-16T03:43:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of America: The $1.2 Billion Fine Changes My Rating, But The Upside Remains | $BAC",
+      "url": "https://seekingalpha.com/article/4954646-bank-of-america-1-2-billion-fine-changes-my-rating-but-upside-remains",
+      "source": "seekingalpha.com",
+      "published": "2026-10-16T03:18:21+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Polycab India Q2 Review: Jefferies, Citi Maintain Buy After Q2 Upbeat; JPMorgan Retains Ov",
+      "url": "https://www.ndtvprofit.com/markets/polycab-india-q2-review-jefferies-citi-maintain-buy-after-q2-earnings-beat-jpmorgan-retains-overweight-12192777",
+      "source": "ndtvprofit.com",
+      "published": "2026-10-16T03:09:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp (BNY) (Q3 2026) Earnings Call Highlights: EPS Jumps 24% as Revenue ...",
+      "url": "https://www.gurufocus.com/news/9126910/bank-of-new-york-mellon-corp-bny-q3-2026-earnings-call-highlights-eps-jumps-24-as-revenue-hits-57-billion-and-fullyear-outlook-raised",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T03:00:53+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "JPMorgan and Goldman Sachs sweeten terms on Volta’s $5 billion AI loan",
+      "url": "https://cryptobriefing.com/jpmorgan-goldman-volta-5b-ai-loan-2/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-16T02:23:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Memo - 16/Oct/2026 - Gemini 4 Argon, Muse Wonder Full, World Bank urges crisis-era ...",
+      "url": "https://lifearchitect.substack.com/p/the-memo-16oct2026",
+      "source": "substack.com",
+      "published": "2026-10-16T02:13:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi spots AI upside in two software stocks despite earnings and execution risks",
+      "url": "https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
+      "source": "investing.com",
+      "published": "2026-10-16T02:13:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Extends Reach Into Tokenized Funds and Pay-to-Wallet Service",
+      "url": "https://www.pymnts.com/earnings/2026/bny-extends-reach-into-tokenized-funds-and-pay-to-wallet-service/",
+      "source": "pymnts.com",
+      "published": "2026-10-16T01:59:49+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "‘It Is Truly a Cesspool’: Dave Ramsey Targets Bank of America After Its $1.2 Billion Fine",
+      "url": "https://247wallst.com/personal-finance/2026/10/15/it-is-truly-a-cesspool-dave-ramsey-targets-bank-of-america-after-its-1-2-billion-fine/",
+      "source": "247wallst.com",
+      "published": "2026-10-16T01:30:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "FinCEN Targets $17.5 Billion in Suspected Health Care Fraud",
+      "url": "https://natlawreview.com/article/fincen-targets-175-billion-suspected-health-care-fraud",
+      "source": "natlawreview.com",
+      "published": "2026-10-16T00:54:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group (PNC) Hosts Q3 2026 Earnings Conference Call",
+      "url": "https://www.gurufocus.com/news/9126779/pnc-financial-services-group-pnc-hosts-q3-2026-earnings-conference-call",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T00:23:52+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Truist Financial (TFC) Earnings Report Due October 16 Amid Dividend Focus",
+      "url": "https://www.gurufocus.com/news/9126729/truist-financial-tfc-earnings-report-due-october-16-amid-dividend-focus",
+      "source": "gurufocus.com",
+      "published": "2026-10-15T23:55:57+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Bank of America Mobilizes 4,000 Workers After Anthropic’s Mythos Exposes Vast Software Weaknesses",
+      "url": "https://www.webpronews.com/bank-of-america-mobilizes-4000-workers-after-anthropics-mythos-exposes-vast-software-weaknesses/",
+      "source": "webpronews.com",
+      "published": "2026-10-15T23:42:13+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stock Market Movers: Best and Worst Performers of 15 October 2026",
+      "url": "https://www.insidermonkey.com/news/stock-market-movers-best-and-worst-performers-of-15-october-2026-1855255/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-15T23:15:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Bank of America hires 1,000 contractors to address AI-exposed software vulnerabilities",
       "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html#new_tab",
@@ -112,158 +285,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015672/0000950103-26-015672-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-15T21:22:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326015670/0000950103-26-015670-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-15T21:21:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BAC Stock Alert: BFA Law Announces Securities Fraud and Breach of Fiduciary Duty Investigation into Bank of America Following 1.2 Billion Penalty",
-      "url": "http://www.businesswire.com/news/home/20261015391200/en/BAC-Stock-Alert-BFA-Law-Announces-Securities-Fraud-and-Breach-of-Fiduciary-Duty-Investigation-into-Bank-of-America-Following-1.2-Billion-Penalty/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-10-15T21:18:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist’s Virginia regional president departs",
-      "url": "https://virginiabusiness.com/truist-virginia-regional-president-departs-ransom/",
-      "source": "virginiabusiness.com",
-      "published": "2026-10-15T21:16:58+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526423026/0001193125-26-423026-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-15T21:14:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Update: CoreWeave Execution Outweighs Financing Worries, BofA Says",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-execution-outweighs-financing-worries-211401274.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-15T21:14:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why some banks are exploring 'bring your own AI agent'",
-      "url": "https://www.americanbanker.com/payments/news/why-some-banks-are-exploring-bring-your-own-ai-agent",
-      "source": "americanbanker.com",
-      "published": "2026-10-15T21:12:09+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (Oct 19): external-account payment disputes may need to go to the other bank",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x6xoxx/bank_of_america_oct_19_externalaccount_payment/",
-      "source": "reddit.com",
-      "published": "2026-10-15T21:09:07+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031608/0001918704-26-031608-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-15T21:09:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015664/0000950103-26-015664-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-15T21:07:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WCN Maintained by Citigroup -- Price Target Lowered to $175",
-      "url": "https://www.gurufocus.com/news/9126347/wcn-maintained-by-citigroup-price-target-lowered-to-175",
-      "source": "gurufocus.com",
-      "published": "2026-10-15T21:01:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Just Upgraded Quantinuum Stock. Here's Why.",
-      "url": "https://www.barchart.com/story/news/7970122/morgan-stanley-just-upgraded-quantinuum-stock-here-s-why",
-      "source": "barchart.com",
-      "published": "2026-10-15T21:01:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CLH Maintained by Citigroup -- Price Target Raised to $378",
-      "url": "https://www.gurufocus.com/news/9126343/clh-maintained-by-citigroup-price-target-raised-to-378",
-      "source": "gurufocus.com",
-      "published": "2026-10-15T21:01:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NOG Maintained by Citigroup -- Price Target Raised to $32.00",
-      "url": "https://www.gurufocus.com/news/9126342/nog-maintained-by-citigroup-price-target-raised-to-3200",
-      "source": "gurufocus.com",
-      "published": "2026-10-15T21:00:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Q3 2026 Bank of New York Mellon Corp Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9126341/q3-2026-bank-of-new-york-mellon-corp-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-10-15T21:00:25+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc. Q3 2026 Earnings Call Summary",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-pnc-financial-services-group-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "moby.co",
-      "published": "2026-10-15T21:00:18+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
