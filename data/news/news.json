@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-10-17T21:39:40.352977+00:00",
+  "last_updated": "2026-10-17T23:55:00.822248+00:00",
   "headlines": [
+    {
+      "title": "Citi Just Downgraded Bill Ackman's Pershing Square Stock to Sell, Citing a $45 Price Target Versus Its $60 Peak. Is PS Stock Overvalued After Its April IPO Rally?",
+      "url": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-17T23:05:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Schwab and JPMorgan Block Unauthorized AI Agents from Moving Money as Private Ordering Reaches Financial Core",
+      "url": "https://finance.yahoo.com/technology/ai/articles/schwab-jpmorgan-block-unauthorized-ai-211121084.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T21:11:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America CEO addresses a troubling banking problem",
+      "url": "https://www.thestreet.com/investing/stocks/bac-bank-of-america-ceo-moynihan-responds-to-1-2-billion-money-laundering-fine?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-17T21:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bond Markets Signal Growing Caution Over AI Infrastructure Debt",
+      "url": "https://www.webpronews.com/bond-markets-signal-growing-caution-over-ai-infrastructure-debt/",
+      "source": "webpronews.com",
+      "published": "2026-10-17T20:42:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Citi says interest rates may matter more for economy than stock valuations",
       "url": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
@@ -8,6 +45,25 @@
       "published": "2026-10-17T19:54:16+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "3 Undervalued Stocks Trading Up To 40% Below Fair Value",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-40-191248353.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T19:12:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "HF Sinclair (DINO) Stock Sees Fair Value Lift As Analysts Raise Refining Outlook",
+      "url": "https://finance.yahoo.com/energy/articles/hf-sinclair-dino-stock-sees-191032896.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T19:10:32+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -26,6 +82,15 @@
       "published": "2026-10-17T18:34:46+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "US Banks Block AI Agents From Moving Customer Funds",
+      "url": "https://www.webpronews.com/us-banks-block-ai-agents-from-moving-customer-funds/",
+      "source": "webpronews.com",
+      "published": "2026-10-17T18:32:13+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -215,73 +280,6 @@
       "published": "2026-10-17T16:00:37+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Earnings Scoreboard: 83% of S&P 500 early reporters beat EPS estimates as Y/Y profit growth hits 23 firms | $BAC $JPM $GS $C $JNJ",
-      "url": "https://seekingalpha.com/news/4653292-earnings-scoreboard-83-of-sp-500-early-reporters-beat-eps-estimates-as-yy-profit-growth-hits-23-firms",
-      "source": "seekingalpha.com",
-      "published": "2026-10-17T15:30:41+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Upgrades Salesforce (CRM) to Buy with $285 Price Target Amid AI Optimism",
-      "url": "https://www.gurufocus.com/news/9128923/bank-of-america-upgrades-salesforce-crm-to-buy-with-285-price-target-amid-ai-optimism",
-      "source": "gurufocus.com",
-      "published": "2026-10-17T15:16:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "State of Alaska Department of Revenue Sells 10,744 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13623554/state-of-alaska-department-of-revenue-sells-10744-shares-of-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T15:05:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Sold by Ninety One UK Ltd",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sold-by-ninety-one-uk-ltd-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T15:05:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Sold by State of Alaska Department of Revenue",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sold-by-state-of-alaska-department-of-revenue-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T15:04:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Lessened by InvesTrust",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-lessened-by-investrust-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T14:56:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
-      "source": "google.com",
-      "published": "2026-10-17T14:27:13+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
