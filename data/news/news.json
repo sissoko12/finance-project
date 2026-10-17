@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-16T22:01:02.717431+00:00",
+  "last_updated": "2026-10-17T00:43:00.418860+00:00",
   "headlines": [
+    {
+      "title": "Labaton Keller Sucharow LLP Files Securities Class Action Against Bank of America Corporation and Certain of Its Executives",
+      "url": "http://www.businesswire.com/news/home/20261016070879/en/Labaton-Keller-Sucharow-LLP-Files-Securities-Class-Action-Against-Bank-of-America-Corporation-and-Certain-of-Its-Executives/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
+      "source": "businesswire.com",
+      "published": "2026-10-16T23:04:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman vs. JPMorgan: Both Raised Their Dividends. Which Bank Is the Better Buy?",
+      "url": "https://www.barchart.com/story/news/8117110/goldman-vs-jpmorgan-both-raised-their-dividends-which-bank-is-the-better-buy",
+      "source": "barchart.com",
+      "published": "2026-10-16T23:00:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp: 3 Key Takeaways for Long-Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/16/us-bancorp-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-16T22:45:59+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Bank of America Addresses System Vulnerabilities with 1,000 Contractors and Remediation Efforts",
+      "url": "https://dev.to/olgabyte/bank-of-america-addresses-system-vulnerabilities-with-1000-contractors-and-remediation-efforts-1hi5",
+      "source": "dev.to",
+      "published": "2026-10-16T22:18:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JP Morgan Strategist on AI Jitters, Investing Outlook",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-16T22:15:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "DIS Maintained by Citigroup -- Price Target Raised to $140",
+      "url": "https://www.gurufocus.com/news/9128322/dis-maintained-by-citigroup-price-target-raised-to-140",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T22:01:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JBHT Maintained by Citigroup -- Price Target Raised to $263",
+      "url": "https://www.gurufocus.com/news/9128320/jbht-maintained-by-citigroup-price-target-raised-to-263",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T22:01:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VRNS Maintained by Citigroup -- Price Target Raised to $49.75",
+      "url": "https://www.gurufocus.com/news/9128318/vrns-maintained-by-citigroup-price-target-raised-to-4975",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T22:00:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WING Maintained by Citigroup -- Price Target Lowered to $191",
+      "url": "https://www.gurufocus.com/news/9128315/wing-maintained-by-citigroup-price-target-lowered-to-191",
+      "source": "gurufocus.com",
+      "published": "2026-10-16T22:00:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Stock Market Today, Oct. 16: Tech Stocks Plunge as AI Software Valuations Reverse",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-tech-stocks-plunge-as-ai-software-valuations-reverse/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-16T21:49:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026110359/0001213900-26-110359-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T21:23:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.2% - What's Next?",
       "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-up-12-whats-next-2026-10-16/",
@@ -11,12 +112,40 @@
       ]
     },
     {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526424262/0001193125-26-424262-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T21:17:31+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031715/0001918704-26-031715-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T21:17:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "How Investors Are Reacting To U.S. Bancorp (USB) Earnings Beat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-u-bancorp-usb-211432723.html?.tsrc=rss",
       "source": "yahoo.com",
       "published": "2026-10-16T21:14:32+00:00",
       "tickers": [
         "USB"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051182/0001839882-26-051182-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-16T21:14:16+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -73,215 +202,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Walt Disney (NYSE:DIS) Given New $140.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-walt-disney-nyse-dis-given-new-14000-price-target-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:42:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for J.B. Hunt Transport Services (NASDAQ:JBHT) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-jb-hunt-transport-services-nasdaq-jbht-stock-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:42:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wingstop (NASDAQ:WING) Price Target Cut to $191.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-wingstop-nasdaq-wing-price-target-cut-to-19100-by-analysts-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:42:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Varonis Systems (NASDAQ:VRNS) Stock Gets Price Target Increase from Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-varonis-systems-nasdaq-vrns-stock-gets-price-target-increase-from-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:42:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051178/0001839882-26-051178-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T20:36:47+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Charles Schwab CEO: AI agents trading on your behalf need 'rules of the road'",
-      "url": "https://finance.yahoo.com/markets/article/charles-schwab-ceo-ai-agents-trading-on-your-behalf-need-rules-of-the-road-203402357.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-16T20:34:02+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "FHLB Dallas and Wells Fargo Celebrate the Grand Opening of Burleson Studios in Austin, Texas",
-      "url": "http://www.businesswire.com/news/home/20261016788039/en/FHLB-Dallas-and-Wells-Fargo-Celebrate-the-Grand-Opening-of-Burleson-Studios-in-Austin-Texas/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
-      "source": "businesswire.com",
-      "published": "2026-10-16T20:32:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Flags Major Warning for Stock Market",
-      "url": "https://www.gurufocus.com/news/9127779/bank-of-america-flags-major-warning-for-stock-market",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T20:27:50+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why AI agents may not outperform markets",
-      "url": "https://finance.yahoo.com/video/why-ai-agents-may-not-outperform-markets-202621085.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-16T20:26:21+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Marsh & McLennan Companies (NYSE:MRSH) Price Target Raised to $203.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-marsh-mclennan-companies-nyse-mrsh-price-target-raised-to-20300-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:24:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Fidelity National Information Services (NYSE:FIS) Given New $39.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-fidelity-national-information-services-nyse-fis-given-new-3900-price-target-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:24:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Fiserv (NASDAQ:FISV) Price Target Cut to $53.00 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-fiserv-nasdaq-fisv-price-target-cut-to-5300-by-analysts-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:24:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015722/0000950103-26-015722-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T20:20:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031709/0001918704-26-031709-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T20:19:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp: Form 8-K/A [Amend] - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000106/0001390777-26-000106-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T20:19:01+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000195004726010284/0001950047-26-010284-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T20:15:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-16T20:15:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AML Penalty Could Be A Game Changer For Bank of America Stock (BAC)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aml-penalty-could-game-changer-201453006.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-16T20:14:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Where Cash Is Going Now In BNY Mellon Stock And Treasury Plays",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/where-cash-going-now-bny-201202919.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-16T20:12:02+00:00",
-      "tickers": [
-        "STT",
-        "BK"
-      ]
-    },
-    {
-      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "url": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-10-16T20:05:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-state-street-nyse-stt-stock-price-target-lowered-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:00:35+00:00",
-      "tickers": [
-        "C",
-        "STT"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Given New $70.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-us-bancorp-nyse-usb-given-new-7000-price-target-at-citigroup-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T20:00:34+00:00",
-      "tickers": [
-        "C",
-        "USB"
       ]
     }
   ]
