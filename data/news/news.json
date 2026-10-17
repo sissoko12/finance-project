@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-17T19:12:48.935471+00:00",
+  "last_updated": "2026-10-17T21:39:40.352977+00:00",
   "headlines": [
+    {
+      "title": "Citi says interest rates may matter more for economy than stock valuations",
+      "url": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
+      "source": "investing.com",
+      "published": "2026-10-17T19:54:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "transfer credit balance from one card to another at the same bank not possible? Reason is high APR.",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x8hrri/transfer_credit_balance_from_one_card_to_another/",
+      "source": "reddit.com",
+      "published": "2026-10-17T18:40:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vor Biopharma (NASDAQ:VOR) Stock Rating Upgraded by Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13623993/vor-biopharma-nasdaqvor-stock-rating-upgraded-by-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T18:34:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE:DMB) Shares Set to Pay Monthly Dividend of $0.05",
+      "url": "https://www.tickerreport.com/banking-finance/13623979/bny-mellon-municipal-bond-infrastructure-fund-inc-nysedmb-shares-set-to-pay-monthly-dividend-of-0-05.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T18:09:08+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
     {
       "title": "Bank of America: 3 Key Takeaways for Long-Term Investors",
       "url": "https://www.fool.com/earnings/takeaways/2026/10/17/bank-of-america-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
@@ -240,51 +276,12 @@
       ]
     },
     {
-      "title": "GFG Capital LLC Sells 11,547 Shares of Goldman Sachs ActiveBeta International Equity ETF $GSIE",
-      "url": "https://www.tickerreport.com/banking-finance/13623477/gfg-capital-llc-sells-11547-shares-of-goldman-sachs-activebeta-international-equity-etf-gsie.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T14:01:18+00:00",
+      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+      "source": "google.com",
+      "published": "2026-10-17T14:27:13+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group, Inc (NYSE:PNC) Stock Has Consensus Price Target of $270.11",
-      "url": "https://www.tickerreport.com/banking-finance/13623470/the-pnc-financial-services-group-inc-nysepnc-stock-has-consensus-price-target-of-270-11.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T13:59:25+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stake Lessened by Community Trust & Investment Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13623447/jpmorgan-chase-co-jpm-stake-lessened-by-community-trust-investment-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T13:53:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank selloff deserves a closer look",
-      "url": "https://moneymachinenewsletter.substack.com/p/bank-selloff-deserves-a-closer-look",
-      "source": "substack.com",
-      "published": "2026-10-17T13:14:11+00:00",
-      "tickers": [
-        "C",
-        "USB",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Leidos (LDOS) Stock Gets Fair Value Trim As Health Concerns Temper Analyst Views",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-stock-gets-fair-131152328.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-17T13:11:52+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
