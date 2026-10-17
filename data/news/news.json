@@ -1,6 +1,133 @@
 {
-  "last_updated": "2026-10-17T09:37:16.240763+00:00",
+  "last_updated": "2026-10-17T13:34:11.525086+00:00",
   "headlines": [
+    {
+      "title": "BofA Warns AI Investors Could Lose Even If the Technology Works",
+      "url": "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-17T11:44:11+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Financial: Fed Pivot And NII Growth (Rating Upgrade) | $PNC",
+      "url": "https://seekingalpha.com/article/4954969-pnc-financial-fed-pivot-and-nii-growth-rating-upgrade",
+      "source": "seekingalpha.com",
+      "published": "2026-10-17T11:29:15+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Bank of America buys $16.2k, sells $15.4k of PIMCO fund shares",
+      "url": "https://www.investing.com/news/insider-trading-news/bank-of-america-buys-162k-sells-154k-of-pimco-fund-shares-93CH-4955389",
+      "source": "investing.com",
+      "published": "2026-10-17T10:46:09+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "What Moved Markets This Week | $VIX $GS $JPM $C $WFC",
+      "url": "https://seekingalpha.com/article/4954971-what-moved-markets-this-week",
+      "source": "seekingalpha.com",
+      "published": "2026-10-17T10:35:57+00:00",
+      "tickers": [
+        "JPM",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "SPTM vs. SCHB Compared: What to Look for in a Broad Market Index Fund",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/17/sptm-vs-schb-compared-what-to-look-for-in-a-broad-market-index-fund/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-17T10:14:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BofA favours 'risk-off' for November; reasons go beyond midterm elections",
+      "url": "https://invezz.com/news/2026/10/17/bofa-favours-risk-off-for-november-reasons-go-beyond-midterm-elections/",
+      "source": "invezz.com",
+      "published": "2026-10-17T09:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi sees resilient demand for Chinese AI IPOs despite valuation concerns",
+      "url": "https://www.investing.com/news/stock-market-news/citi-sees-resilient-demand-for-chinese-ai-ipos-despite-valuation-concerns-4955340",
+      "source": "investing.com",
+      "published": "2026-10-17T08:41:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Bought by Cyndeo Wealth Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-bought-by-cyndeo-wealth-partners-llc-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T08:17:13+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Stock Sold by Cyndeo Wealth Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-stock-sold-by-cyndeo-wealth-partners-llc-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T08:17:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "21,916 Bank of America Corporation $BAC Shares Bought by Hanson & Doremus Investment Management",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-21916-bank-of-america-corporation-bac-shares-bought-by-hanson-doremus-investment-management-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T08:11:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock: GFG Capital LLC Grows Stake",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-gfg-capital-llc-grows-stake-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T08:10:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Sold by Community Trust & Investment Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sold-by-community-trust-investment-co-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T07:53:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi sees China AI supply-chain IPOs holding firm despite valuation pullback",
+      "url": "https://cryptobriefing.com/citi-china-ai-supply-chain-ipos-hong-kong/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-17T07:34:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Citigroup Inc. $C Shares Sold by Banque Pictet & Cie SA",
       "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-banque-pictet-cie-sa-2026-10-17/",
@@ -60,12 +187,67 @@
       ]
     },
     {
+      "title": "Fluence Energy (NASDAQ:FLNC) Stock Gets Price Target Reduction from Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13623340/fluence-energy-nasdaqflnc-stock-gets-price-target-reduction-from-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:56:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Domino’s Pizza (NASDAQ:DPZ) Stock Gets Price Target Cut from Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13623341/dominos-pizza-nasdaqdpz-stock-gets-price-target-cut-from-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:56:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Axis Bank appoints former HDFC Bank veteran Rahul Shukla to head Commercial, Bharat Banking",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-appoints-former-hdfc-bank-veteran-rahul-shukla-to-head-commercial-bharat-banking/articleshow/135014153.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-17T06:52:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "X-Energy (NASDAQ:XE) Stock Gets Price Target Trim from Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13623334/x-energy-nasdaqxe-stock-gets-price-target-trim-from-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:43:03+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Oil prices may ease to $80 per barrel in 2027 as Middle East supply recovers: Goldman Sachs",
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-prices-may-ease-to-80-per-barrel-in-2027-as-middle-east-supply-recovers-goldman-sachs/articleshow/135009000.cms",
       "source": "indiatimes.com",
       "published": "2026-10-17T06:38:10+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Boise Cascade (NYSE:BCC) Stock Gets Price Target Reduction from Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13623327/boise-cascade-nysebcc-stock-gets-price-target-reduction-from-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:30:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Kirby (NYSE:KEX) Research Coverage Started at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13623326/kirby-nysekex-research-coverage-started-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:30:50+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -78,188 +260,31 @@
       ]
     },
     {
-      "title": "Wall Street CEOs Confront Rogue AI Agents in Earnings Calls",
-      "url": "https://www.webpronews.com/wall-street-ceos-confront-rogue-ai-agents-in-earnings-calls/",
-      "source": "webpronews.com",
-      "published": "2026-10-17T01:22:14+00:00",
+      "title": "Entegris (NASDAQ:ENTG) Stock Rated “Buy” in New Coverage at Truist Financial",
+      "url": "https://www.tickerreport.com/banking-finance/13623324/entegris-nasdaqentg-stock-rated-buy-in-new-coverage-at-truist-financial.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:06:55+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Labaton Keller Sucharow LLP Files Securities Class Action Against Bank of America Corporation and Certain of Its Executives",
-      "url": "http://www.businesswire.com/news/home/20261016070879/en/Labaton-Keller-Sucharow-LLP-Files-Securities-Class-Action-Against-Bank-of-America-Corporation-and-Certain-of-Its-Executives/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
-      "source": "businesswire.com",
-      "published": "2026-10-16T23:04:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman vs. JPMorgan: Both Raised Their Dividends. Which Bank Is the Better Buy?",
-      "url": "https://www.barchart.com/story/news/8117110/goldman-vs-jpmorgan-both-raised-their-dividends-which-bank-is-the-better-buy",
-      "source": "barchart.com",
-      "published": "2026-10-16T23:00:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp: 3 Key Takeaways for Long-Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/16/us-bancorp-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-16T22:45:59+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Wells Fargo Beats Ex-CEO's $34M Back-Pay Lawsuit",
-      "url": "https://www.law360.com/california/articles/2539196?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-10-16T22:25:04+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Addresses System Vulnerabilities with 1,000 Contractors and Remediation Efforts",
-      "url": "https://dev.to/olgabyte/bank-of-america-addresses-system-vulnerabilities-with-1000-contractors-and-remediation-efforts-1hi5",
-      "source": "dev.to",
-      "published": "2026-10-16T22:18:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JP Morgan Strategist on AI Jitters, Investing Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-16T22:15:11+00:00",
+      "title": "Tempus AI (NASDAQ:TEM) Price Target Raised to $70.00",
+      "url": "https://www.tickerreport.com/banking-finance/13623322/tempus-ai-nasdaqtem-price-target-raised-to-70-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T06:06:55+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "DIS Maintained by Citigroup -- Price Target Raised to $140",
-      "url": "https://www.gurufocus.com/news/9128322/dis-maintained-by-citigroup-price-target-raised-to-140",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T22:01:25+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JBHT Maintained by Citigroup -- Price Target Raised to $263",
-      "url": "https://www.gurufocus.com/news/9128320/jbht-maintained-by-citigroup-price-target-raised-to-263",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T22:01:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "VRNS Maintained by Citigroup -- Price Target Raised to $49.75",
-      "url": "https://www.gurufocus.com/news/9128318/vrns-maintained-by-citigroup-price-target-raised-to-4975",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T22:00:44+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WING Maintained by Citigroup -- Price Target Lowered to $191",
-      "url": "https://www.gurufocus.com/news/9128315/wing-maintained-by-citigroup-price-target-lowered-to-191",
-      "source": "gurufocus.com",
-      "published": "2026-10-16T22:00:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Stock Market Today, Oct. 16: Tech Stocks Plunge as AI Software Valuations Reverse",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-tech-stocks-plunge-as-ai-software-valuations-reverse/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-16T21:49:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026110359/0001213900-26-110359-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T21:23:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Up 1.2% - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-up-12-whats-next-2026-10-16/",
-      "source": "marketbeat.com",
-      "published": "2026-10-16T21:21:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526424262/0001193125-26-424262-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T21:17:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031715/0001918704-26-031715-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T21:17:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "How Investors Are Reacting To U.S. Bancorp (USB) Earnings Beat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-u-bancorp-usb-211432723.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-16T21:14:32+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051182/0001839882-26-051182-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-16T21:14:16+00:00",
+      "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/articleshow/135012540.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-17T05:32:52+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Learn Why The Bull Case For Goldman Sachs Stock Could Change Following Earnings Beat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-goldman-211034659.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-16T21:10:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "American Airlines Makes You Watch Two Ads For “Free” Wi-Fi Every Flight—Even After You’ve Bought What They’re Selling",
-      "url": "https://viewfromthewing.com/american-airlines-makes-you-watch-two-ads-for-free-wi-fi-every-flight-even-after-youve-bought-what-theyre-selling/",
-      "source": "viewfromthewing.com",
-      "published": "2026-10-16T21:04:14+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
