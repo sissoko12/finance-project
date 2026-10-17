@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-10-17T13:34:11.525086+00:00",
+  "last_updated": "2026-10-17T16:57:07.520222+00:00",
   "headlines": [
+    {
+      "title": "Freedom Broker Upgrades JPMorgan Chase & Co. (NYSE:JPM) to Strong-Buy",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-freedom-broker-upgrades-jpmorgan-chase-co-nyse-jpm-to-strong-buy-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T16:30:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Stock Position Lessened by TD Waterhouse Canada Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-stock-position-lessened-by-td-waterhouse-canada-inc-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T16:08:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Stock Position Trimmed by TD Waterhouse Canada Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-position-trimmed-by-td-waterhouse-canada-inc-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T16:08:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Holdings Lifted by TD Waterhouse Canada Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-holdings-lifted-by-td-waterhouse-canada-inc-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T16:08:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Shares Sold by TD Waterhouse Canada Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-td-waterhouse-canada-inc-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T16:08:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Earnings Scoreboard: 83% of S&P 500 early reporters beat EPS estimates as Y/Y profit growth hits 23 firms | $BAC $JPM $GS $C $JNJ",
+      "url": "https://seekingalpha.com/news/4653292-earnings-scoreboard-83-of-sp-500-early-reporters-beat-eps-estimates-as-yy-profit-growth-hits-23-firms",
+      "source": "seekingalpha.com",
+      "published": "2026-10-17T15:30:41+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Upgrades Salesforce (CRM) to Buy with $285 Price Target Amid AI Optimism",
+      "url": "https://www.gurufocus.com/news/9128923/bank-of-america-upgrades-salesforce-crm-to-buy-with-285-price-target-amid-ai-optimism",
+      "source": "gurufocus.com",
+      "published": "2026-10-17T15:16:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State of Alaska Department of Revenue Sells 10,744 Shares of JPMorgan Chase & Co. $JPM",
+      "url": "https://www.tickerreport.com/banking-finance/13623554/state-of-alaska-department-of-revenue-sells-10744-shares-of-jpmorgan-chase-co-jpm.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T15:05:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Sold by Ninety One UK Ltd",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sold-by-ninety-one-uk-ltd-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T15:05:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Sold by State of Alaska Department of Revenue",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sold-by-state-of-alaska-department-of-revenue-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T15:04:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Lessened by InvesTrust",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-lessened-by-investrust-2026-10-17/",
+      "source": "marketbeat.com",
+      "published": "2026-10-17T14:56:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GFG Capital LLC Sells 11,547 Shares of Goldman Sachs ActiveBeta International Equity ETF $GSIE",
+      "url": "https://www.tickerreport.com/banking-finance/13623477/gfg-capital-llc-sells-11547-shares-of-goldman-sachs-activebeta-international-equity-etf-gsie.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T14:01:18+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc (NYSE:PNC) Stock Has Consensus Price Target of $270.11",
+      "url": "https://www.tickerreport.com/banking-finance/13623470/the-pnc-financial-services-group-inc-nysepnc-stock-has-consensus-price-target-of-270-11.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T13:59:25+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stake Lessened by Community Trust & Investment Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13623447/jpmorgan-chase-co-jpm-stake-lessened-by-community-trust-investment-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T13:53:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank selloff deserves a closer look",
+      "url": "https://moneymachinenewsletter.substack.com/p/bank-selloff-deserves-a-closer-look",
+      "source": "substack.com",
+      "published": "2026-10-17T13:14:11+00:00",
+      "tickers": [
+        "C",
+        "USB",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Leidos (LDOS) Stock Gets Fair Value Trim As Health Concerns Temper Analyst Views",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-stock-gets-fair-131152328.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T13:11:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "What Does Truist Financial (TFC) Losing A $3 Billion Wealth Team Mean?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-truist-financial-tfc-losing-130951170.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T13:09:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Bitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab’s Adam Lynch Warns A Midterms Risk",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bounces-monthly-low-charles-schwab-warns-midterms/cZxkJmxRBt1?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-10-17T12:38:14+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Why Truist Financial (TFC) Is Getting Attention Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-truist-financial-tfc-getting-121850924.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T12:18:50+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
     {
       "title": "BofA Warns AI Investors Could Lose Even If the Technology Works",
       "url": "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
@@ -19,6 +201,16 @@
       "tickers": [
         "C",
         "PNC"
+      ]
+    },
+    {
+      "title": "Boeing lands key role in future of U.S. air power",
+      "url": "https://www.thestreet.com/investing/stocks/boeing-us-air-force-navy-fighter-jet-key-contracts?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-17T11:03:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -44,12 +236,42 @@
       ]
     },
     {
+      "title": "Texas, Minnesota candidates fuel latest 2026 midterm election news - Fox News",
+      "url": "https://news.google.com/atom/articles/CBMitAFBVV95cUxPTHBhaFFtSWNuUnlBcEMzZnRMNU1tWW9XWU9WYkdMNTRiTGhhaUR0X3gyU19TVWFHeXl4ZHBoQ3Zxa1ctdWc1T1NMS0dMbGNmcm9qbE5kb25mVHBTdnpGM19KR3VpN0dMWlotWG40NEE2bjA3X184eTQ0aVE2RVhnYjJWVlliYkQ5Tzh0Z2hsVnRtY1RMRjRxcldSVmRKZUFxSHA2bHM2SGlNR3dDcnk5SzFQZkQ?oc=5",
+      "source": "google.com",
+      "published": "2026-10-17T10:30:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "SPTM vs. SCHB Compared: What to Look for in a Broad Market Index Fund",
       "url": "https://www.fool.com/coverage/etfs/2026/10/17/sptm-vs-schb-compared-what-to-look-for-in-a-broad-market-index-fund/?source=iedfolrf0000001",
       "source": "fool.com",
       "published": "2026-10-17T10:14:01+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Best CD rates today, Saturday, October 17, 2026: Lock in up to 4.40% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-17-2026-lock-in-up-to-440-apy-100000459.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T10:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Meta is 'back on offense,' BofA says — with only one top risk",
+      "url": "https://finance.yahoo.com/technology/article/meta-is-back-on-offense-bofa-says--with-only-one-top-risk-100000520.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-17T10:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -69,222 +291,6 @@
       "published": "2026-10-17T08:41:17+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Bought by Cyndeo Wealth Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-bought-by-cyndeo-wealth-partners-llc-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T08:17:13+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Stock Sold by Cyndeo Wealth Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-stock-sold-by-cyndeo-wealth-partners-llc-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T08:17:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "21,916 Bank of America Corporation $BAC Shares Bought by Hanson & Doremus Investment Management",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-21916-bank-of-america-corporation-bac-shares-bought-by-hanson-doremus-investment-management-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T08:11:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock: GFG Capital LLC Grows Stake",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-gfg-capital-llc-grows-stake-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T08:10:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Sold by Community Trust & Investment Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sold-by-community-trust-investment-co-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:53:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi sees China AI supply-chain IPOs holding firm despite valuation pullback",
-      "url": "https://cryptobriefing.com/citi-china-ai-supply-chain-ipos-hong-kong/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-17T07:34:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Shares Sold by Banque Pictet & Cie SA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-banque-pictet-cie-sa-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:24:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stake Trimmed by Banque Pictet & Cie SA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stake-trimmed-by-banque-pictet-cie-sa-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:23:11+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Shares Acquired by Aspiriant LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-acquired-by-aspiriant-llc-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:13:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Stock: Annex Advisory Services LLC Reduces Stake",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-annex-advisory-services-llc-reduces-stake-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:13:12+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Acquired by Annex Advisory Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-acquired-by-annex-advisory-services-llc-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:12:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Stock: Annex Advisory Services LLC Lowers Stake",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-stock-annex-advisory-services-llc-lowers-stake-2026-10-17/",
-      "source": "marketbeat.com",
-      "published": "2026-10-17T07:12:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Fluence Energy (NASDAQ:FLNC) Stock Gets Price Target Reduction from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13623340/fluence-energy-nasdaqflnc-stock-gets-price-target-reduction-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:56:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Domino’s Pizza (NASDAQ:DPZ) Stock Gets Price Target Cut from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13623341/dominos-pizza-nasdaqdpz-stock-gets-price-target-cut-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:56:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Axis Bank appoints former HDFC Bank veteran Rahul Shukla to head Commercial, Bharat Banking",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-appoints-former-hdfc-bank-veteran-rahul-shukla-to-head-commercial-bharat-banking/articleshow/135014153.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-17T06:52:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "X-Energy (NASDAQ:XE) Stock Gets Price Target Trim from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13623334/x-energy-nasdaqxe-stock-gets-price-target-trim-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:43:03+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Oil prices may ease to $80 per barrel in 2027 as Middle East supply recovers: Goldman Sachs",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-prices-may-ease-to-80-per-barrel-in-2027-as-middle-east-supply-recovers-goldman-sachs/articleshow/135009000.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-17T06:38:10+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Boise Cascade (NYSE:BCC) Stock Gets Price Target Reduction from Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13623327/boise-cascade-nysebcc-stock-gets-price-target-reduction-from-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:30:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Kirby (NYSE:KEX) Research Coverage Started at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13623326/kirby-nysekex-research-coverage-started-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:30:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Brent crude oil prices hit $110 for first time since May as Iran attacks continue, Ukraine eyes Russia energy infra",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brentcrude-oil-prices-hit-110-for-first-time-since-may-as-iran-attacks-continue-ukraine-eyes-russia-energy-infra/articleshow/135008770.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-17T06:18:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Entegris (NASDAQ:ENTG) Stock Rated “Buy” in New Coverage at Truist Financial",
-      "url": "https://www.tickerreport.com/banking-finance/13623324/entegris-nasdaqentg-stock-rated-buy-in-new-coverage-at-truist-financial.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:06:55+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Tempus AI (NASDAQ:TEM) Price Target Raised to $70.00",
-      "url": "https://www.tickerreport.com/banking-finance/13623322/tempus-ai-nasdaqtem-price-target-raised-to-70-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-17T06:06:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/articleshow/135012540.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-17T05:32:52+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
