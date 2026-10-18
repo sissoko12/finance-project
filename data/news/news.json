@@ -1,6 +1,270 @@
 {
-  "last_updated": "2026-10-18T13:28:22.546888+00:00",
+  "last_updated": "2026-10-18T16:48:47.411953+00:00",
   "headlines": [
+    {
+      "title": "Bank of New York Mellon: 3 Key Takeaways for Long-Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/18/bank-of-new-york-mellon-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-18T16:14:27+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank Stocks To Keep An Eye On - October 18th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-keep-an-eye-on-october-18th-2026-10-18/",
+      "source": "marketbeat.com",
+      "published": "2026-10-18T16:01:49+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "USB",
+        "BK"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees room for stocks to rise, warns not to chase market leaders",
+      "url": "https://seekingalpha.com/news/4654065-goldman-sachs-sees-room-for-stocks-to-rise-warns-not-to-chase-market-leaders",
+      "source": "seekingalpha.com",
+      "published": "2026-10-18T15:29:09+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman's defensive stocks with quality-growth characteristics",
+      "url": "https://seekingalpha.com/news/4654067-goldmans-defensive-stocks-with-quality-growth-characteristics",
+      "source": "seekingalpha.com",
+      "published": "2026-10-18T15:04:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Banks are Blocking Agents – Why?",
+      "url": "https://blog.starpointllp.com/2026/10/banks-are-blocking-agents/",
+      "source": "starpointllp.com",
+      "published": "2026-10-18T15:00:37+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Waste Management (WM) Has a Long Runway. Is the Stock Worth Buying?",
+      "url": "https://www.insidermonkey.com/news/waste-management-wm-has-a-long-runway-is-the-stock-worth-buying-1854648/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:47:41+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "S&P Global (SPGI) Is Benefiting From the AI Boom. Is the Stock Undervalued?",
+      "url": "https://www.insidermonkey.com/news/sp-global-spgi-is-benefiting-from-the-ai-boom-is-the-stock-undervalued-1854677/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:46:15+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
+      "url": "https://www.insidermonkey.com/news/berkshire-hathaway-brk-b-after-buffett-can-its-capital-allocation-machine-keep-compounding-1854697/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:44:50+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Can Eli Lilly’s (LLY) Growth Machine Keep Delivering?",
+      "url": "https://www.insidermonkey.com/news/can-eli-lillys-lly-growth-machine-keep-delivering-1854727/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:43:42+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "TSMC’s (TSM) Record AI Demand Comes With a Growing Cost",
+      "url": "https://www.insidermonkey.com/news/tsmcs-tsm-record-ai-demand-comes-with-a-growing-cost-1855273/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:41:04+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley ties S&P 500 growth to a $1.6 trillion AI spending wave",
+      "url": "https://cryptobriefing.com/sp-500-earnings-ai-capex-2027/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-18T14:39:40+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
+      "url": "https://www.insidermonkey.com/news/alphabets-googl-low-p-e-is-misleading-but-the-ai-opportunity-is-real-1855278/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:39:08+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
+      "url": "https://www.insidermonkey.com/news/amazon-amzn-is-a-proven-capital-allocator-but-can-it-pass-its-220-billion-test-1855291/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:38:21+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
+      "url": "https://www.insidermonkey.com/news/broadcom-avgo-went-nowhere-for-a-year-analysts-think-it-is-worth-50-more-1855008/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:34:48+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor’s (TSM) Profit Rose 69% Last Quarter. Is the Stock Still Cheap?",
+      "url": "https://www.insidermonkey.com/news/taiwan-semiconductors-tsm-profit-rose-69-last-quarter-is-the-stock-still-cheap-1855487/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:34:21+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?",
+      "url": "https://www.insidermonkey.com/news/why-did-nvidia-nvda-rise-only-19-while-its-suppliers-did-far-better-1855483/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:34:00+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "What Do the 8% of Analysts Who Will Not Buy Marvell (MRVL) See?",
+      "url": "https://www.insidermonkey.com/news/what-do-the-8-of-analysts-who-will-not-buy-marvell-mrvl-see-1855518/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:33:18+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "SanDisk (SNDK) Is Now Worth More Than the Company That Spun It Off",
+      "url": "https://www.insidermonkey.com/news/sandisk-sndk-is-now-worth-more-than-the-company-that-spun-it-off-1855527/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:32:53+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "How Did Seagate (STX) Triple Selling a Technology Everyone Buried?",
+      "url": "https://www.insidermonkey.com/news/how-did-seagate-stx-triple-selling-a-technology-everyone-buried-1855531/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:32:32+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Does Micron (MU) Have an Economic Moat at All?",
+      "url": "https://www.insidermonkey.com/news/does-micron-mu-have-an-economic-moat-at-all-1855499/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:31:57+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "ASML (ASML) Says It Cannot Meet Demand Until 2028. Is the Stock Priced for That?",
+      "url": "https://www.insidermonkey.com/news/asml-asml-says-it-cannot-meet-demand-until-2028-is-the-stock-priced-for-that-1855539/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:31:40+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "What Is Applied Materials’ (AMAT) Economic Moat, and Is It Widening or Narrowing?",
+      "url": "https://www.insidermonkey.com/news/what-is-applied-materials-amat-economic-moat-and-is-it-widening-or-narrowing-1855547/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-18T14:31:23+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Wells Fargo Earnings Aren't Inspiring Enough, But A 7% Income Opportunity Is | $WFC",
+      "url": "https://seekingalpha.com/article/4955059-wells-fargo-earnings-not-inspiring-enough-7-percent-income-opportunity-is",
+      "source": "seekingalpha.com",
+      "published": "2026-10-18T14:11:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist Financial: Market Is Overlooking This Dividend Opportunity | $TFC",
+      "url": "https://seekingalpha.com/article/4955052-truist-financial-market-is-overlooking-this-dividend-opportunity",
+      "source": "seekingalpha.com",
+      "published": "2026-10-18T13:10:40+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "US Officials Press China On Market Access Issues For Mastercard And Citigroup",
+      "url": "https://www.tikr.com/blog/mastercard-stock-china-market-access-us-officials?ref=yahoofinance&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-18T13:06:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Song of S2: He gets knocked down, but he gets up again",
+      "url": "https://finance.yahoo.com/real-estate/articles/song-s2-gets-knocked-down-130000650.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-18T13:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Big Banks Outperform Sector, But Risks Shine Bright | $C $JPM $WFC $BAC $KBE",
+      "url": "https://seekingalpha.com/article/4955026-big-banks-outperform-sector-but-risks-shine-bright",
+      "source": "seekingalpha.com",
+      "published": "2026-10-18T13:00:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet",
+      "url": "https://www.fool.com/investing/2026/10/18/quantinuum-vs-ionq-why-wall-street-firm-better/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-18T12:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "PNC Financial Vs. U.S. Bancorp: The $560 Million Difference | $PNC $USB $IAT $XLF",
       "url": "https://seekingalpha.com/article/4955034-pnc-financial-vs-us-bancorp-the-560-million-difference-ratings-maintained",
@@ -19,270 +283,6 @@
       "published": "2026-10-18T10:02:03+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Bought by SteelPeak Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-bought-by-steelpeak-wealth-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:52:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SteelPeak Wealth LLC Purchases 17,161 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-steelpeak-wealth-llc-purchases-17161-shares-of-citigroup-inc-c-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:52:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "IFP Advisors Inc Acquires 58,320 Shares of The Charles Schwab Corporation $SCHW",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ifp-advisors-inc-acquires-58320-shares-of-the-charles-schwab-corporation-schw-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:52:42+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "The Charles Schwab Corporation $SCHW Stock Holdings Decreased by Strata Wealth Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-stock-holdings-decreased-by-strata-wealth-advisors-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:44:46+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Shares Purchased by Robertson Stephens Wealth Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-shares-purchased-by-robertson-stephens-wealth-management-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:37:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "50,080 Shares in Citigroup Inc. $C Bought by KRS Capital Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-50080-shares-in-citigroup-inc-c-bought-by-krs-capital-management-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:36:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Newly Purchased by KRS Capital Management LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-newly-purchased-by-krs-capital-management-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:36:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Position Lifted by Howard Capital Management Group LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-position-lifted-by-howard-capital-management-group-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T09:28:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Position Lifted by CRA Financial Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-position-lifted-by-cra-financial-services-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T08:16:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "6,844 Capital One Financial Corporation $COF Shares Purchased by Frank Rimerman Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6844-capital-one-financial-corporation-cof-shares-purchased-by-frank-rimerman-advisors-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T08:08:47+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Holdings Boosted by Frank Rimerman Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-holdings-boosted-by-frank-rimerman-advisors-llc-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T08:08:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (USB) Maintains Buy Rating with $73 Target Following Q3 Earnings",
-      "url": "https://www.gurufocus.com/news/9129024/us-bancorp-usb-maintains-buy-rating-with-73-target-following-q3-earnings",
-      "source": "gurufocus.com",
-      "published": "2026-10-18T07:30:56+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Is JPMorgan Chase Stock a Buy 8% Below Its Record High?",
-      "url": "https://www.fool.com/investing/2026/10/18/jpmorgan-chase-stock-buy-8-below-its-record-high/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-18T07:15:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Stock: Assenagon Asset Management S.A. Raises Stake",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-assenagon-asset-management-sa-raises-stake-2026-10-18/",
-      "source": "marketbeat.com",
-      "published": "2026-10-18T07:13:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Lennox International (NYSE:LII) Stock Gets Price Target Cut from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13624322/lennox-international-nyselii-stock-gets-price-target-cut-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-18T06:24:54+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Voya Financial (NYSE:VOYA) Stock Gets Price Target Reduction from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13624321/voya-financial-nysevoya-stock-gets-price-target-reduction-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-18T06:24:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Alphabet (NASDAQ:GOOGL) Price Target Raised to $425.00",
-      "url": "https://www.tickerreport.com/banking-finance/13624318/alphabet-nasdaqgoogl-price-target-raised-to-425-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-18T06:18:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Micron Just Broke Support So Buy MUU Into Strength | $ORCL $C $SCHG $MU $MUU",
-      "url": "https://seekingalpha.com/article/4955021-micron-just-broke-support-so-buy-muu-into-strength",
-      "source": "seekingalpha.com",
-      "published": "2026-10-18T06:15:03+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Tate Cavitt: 3 ways Tulsa businesses can build competitive advantage to close 2026",
-      "url": "https://tulsaworld.com/news/local/business/article_3119bb02-4f3d-41cc-9890-262ef277806e.html",
-      "source": "tulsaworld.com",
-      "published": "2026-10-18T05:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "STT Investors with $100,000 in Losses Have Opportunity to Join State Street Corporation Fraud Investigation with SBS Law",
-      "url": "http://www.businesswire.com/news/home/20261017431625/en/STT-Investors-with-100000-in-Losses-Have-Opportunity-to-Join-State-Street-Corporation-Fraud-Investigation-with-SBS-Law/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
-      "source": "businesswire.com",
-      "published": "2026-10-18T01:16:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Goldman Sachs CEO Sees Tokenization as Wall Street’s Next Act",
-      "url": "https://news.bitcoin.com/finance/goldman-sachs-ceo-sees-tokenization-as-wall-streets-next-act/",
-      "source": "bitcoin.com",
-      "published": "2026-10-17T23:30:08+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Help Calculating Balance Subject to Interest (BoA)",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x8o9hs/help_calculating_balance_subject_to_interest_boa/",
-      "source": "reddit.com",
-      "published": "2026-10-17T23:24:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Just Downgraded Bill Ackman's Pershing Square Stock to Sell, Citing a $45 Price Target Versus Its $60 Peak. Is PS Stock Overvalued After Its April IPO Rally?",
-      "url": "https://www.fool.com/investing/2026/10/17/citi-just-downgraded-bill-ackmans-pershing-square/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-17T23:05:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Schwab and JPMorgan Block Unauthorized AI Agents from Moving Money as Private Ordering Reaches Financial Core",
-      "url": "https://finance.yahoo.com/technology/ai/articles/schwab-jpmorgan-block-unauthorized-ai-211121084.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-17T21:11:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America CEO addresses a troubling banking problem",
-      "url": "https://www.thestreet.com/investing/stocks/bac-bank-of-america-ceo-moynihan-responds-to-1-2-billion-money-laundering-fine?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-10-17T21:03:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bond Markets Signal Growing Caution Over AI Infrastructure Debt",
-      "url": "https://www.webpronews.com/bond-markets-signal-growing-caution-over-ai-infrastructure-debt/",
-      "source": "webpronews.com",
-      "published": "2026-10-17T20:42:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi says interest rates may matter more for economy than stock valuations",
-      "url": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
-      "source": "investing.com",
-      "published": "2026-10-17T19:54:16+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "3 Undervalued Stocks Trading Up To 40% Below Fair Value",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-40-191248353.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-17T19:12:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
