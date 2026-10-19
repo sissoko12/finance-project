@@ -1,278 +1,249 @@
 {
-  "last_updated": "2026-10-19T11:08:12.148890+00:00",
+  "last_updated": "2026-10-19T17:41:26.974574+00:00",
   "headlines": [
     {
-      "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
+      "title": "Hedge Funds Cut Tech at Fastest Pace in a Decade, Goldman Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/hedge-funds-cut-tech-at-fastest-pace-in-a-decade-goldman-says",
+      "source": "bloomberg.com",
+      "published": "2026-10-19T16:53:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
       "source": "marketwatch.com",
-      "published": "2026-10-19T10:23:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JP Morgan names 2 stock categories facing the biggest threat",
-      "url": "https://finbold.com/jp-morgan-names-2-stock-categories-facing-the-biggest-threat/",
-      "source": "finbold.com",
-      "published": "2026-10-19T10:18:19+00:00",
+      "published": "2026-10-19T16:42:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Bank of America just put the first number on what defending against AI costs a bank ; OpenAI’s London staff cost £2.3M each ; Citi joins JPMorgan in blocking AI Agents",
-      "url": "https://linas.substack.com/p/fintechpulse1140",
-      "source": "substack.com",
-      "published": "2026-10-19T10:05:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "source": "cnbc.com",
-      "published": "2026-10-19T10:00:01+00:00",
+      "title": "The Investment Case for JPMorgan Chase & Co. (JPM)",
+      "url": "https://www.insidermonkey.com/news/the-investment-case-for-jpmorgan-chase-co-jpm-1856162/",
+      "source": "insidermonkey.com",
+      "published": "2026-10-19T16:32:26+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-      "url": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-10-19T09:58:00+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526424939/0001193125-26-424939-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T16:30:33+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Citi’s Manthey Sees French Equities Volatile Beyond April Vote",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/citi-s-manthey-sees-french-equities-volatile-beyond-april-vote",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T09:51:46+00:00",
+      "title": "Chicago candidates line up for first day of petition filing",
+      "url": "https://www.audacy.com/wbbm780/news/local/chicago-petition-filing",
+      "source": "audacy.com",
+      "published": "2026-10-19T16:28:43+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Issue #180: JPMorgan Shuts Out The Agents, Visa Gets The Nod In China, And Mastercard Puts BVNK To Work",
-      "url": "https://fintechradar.substack.com/p/issue-180-jpmorgan-shuts-out-the",
-      "source": "substack.com",
-      "published": "2026-10-19T09:42:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Eutelsat stock analysis: Here’s why Goldman Sachs remains cautious",
-      "url": "https://www.investing.com/news/stock-market-news/eutelsat-stock-analysis-heres-why-goldman-sachs-remains-cautious-93CH-4956739",
-      "source": "investing.com",
-      "published": "2026-10-19T09:18:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Wilson Says Get Ready to Buy as Stock Drop Ends",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/morgan-stanley-s-wilson-says-get-ready-to-buy-as-stock-drop-ends",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T09:11:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Euronext shares hit record high as Citi upgrades stock to ’buy’, raises target",
-      "url": "https://www.investing.com/news/stock-market-news/euronext-shares-hit-record-high-as-citi-upgrades-stock-to-buy-raises-target-4956709",
-      "source": "investing.com",
-      "published": "2026-10-19T08:50:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "French Market Turmoil Could Last Until Summer: Citi",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/french-market-turmoil-could-last-until-summer-citi-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T08:41:52+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Stock: IFP Advisors Inc Reduces Position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-ifp-advisors-inc-reduces-position-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T08:17:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "TD Waterhouse Canada Inc. Purchases 17,208 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-td-waterhouse-canada-inc-purchases-17208-shares-of-jpmorgan-chase-co-jpm-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T08:01:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "ON THE MOVE: Standard Chartered Names Ying Ying Tan; Morgan Stanley Hires Christopher Smith",
-      "url": "https://www.tradersmagazine.com/featured_articles/on-the-move-standard-chartered-names-ying-ying-tan-morgan-stanley-hires-christopher-smith/",
-      "source": "tradersmagazine.com",
-      "published": "2026-10-19T08:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Avolta shares hit six-week high as Citi initiates coverage with ’buy’ rating",
-      "url": "https://www.investing.com/news/stock-market-news/avolta-shares-hit-sixweek-high-as-citi-initiates-coverage-with-buy-rating-4956542",
-      "source": "investing.com",
-      "published": "2026-10-19T07:51:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Stock Holdings Boosted by Assenagon Asset Management S.A.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-stock-holdings-boosted-by-assenagon-asset-management-sa-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T07:12:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Brings Deposit Token JPM Coin to Ethereum for Institutional Clients",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T07:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "These two stocks are BofA’s preferred picks among European SMID chipmakers",
-      "url": "https://www.investing.com/news/stock-market-news/these-two-stocks-are-bofas-preferred-picks-among-european-smid-chipmakers-4956455",
-      "source": "investing.com",
-      "published": "2026-10-19T06:55:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi downgrades Morgan Advanced Materials as limited growth caps upside",
-      "url": "https://www.investing.com/news/stock-market-news/citi-downgrades-morgan-advanced-materials-as-limited-growth-caps-upside-4956440",
-      "source": "investing.com",
-      "published": "2026-10-19T06:38:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 19",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-19/article_ebde3882-2aa1-51ea-87d9-73f66053ea84.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-19T06:02:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Varonis Systems (NASDAQ:VRNS) Price Target Raised to $49.75",
-      "url": "https://www.tickerreport.com/banking-finance/13625115/varonis-systems-nasdaqvrns-price-target-raised-to-49-75.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:54:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Fiserv (NASDAQ:FISV) Stock Gets Price Target Cut from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13625113/fiserv-nasdaqfisv-stock-gets-price-target-cut-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:54:57+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bloom Energy (NYSE:BE) Price Target Raised to $240.00",
-      "url": "https://www.tickerreport.com/banking-finance/13625106/bloom-energy-nysebe-price-target-raised-to-240-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:44:50+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "ManpowerGroup (NYSE:MAN) Stock Gets Price Target Reduction from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13625104/manpowergroup-nyseman-stock-gets-price-target-reduction-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:42:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Mobileye Global (NASDAQ:MBLY) Research Coverage Started at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13625105/mobileye-global-nasdaqmbly-research-coverage-started-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:42:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Fomento Economico Mexicano (NYSE:FMX) Upgraded at JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13625102/fomento-economico-mexicano-nysefmx-upgraded-at-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:42:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Stock Gets Price Target Cut from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13625084/state-street-nysestt-stock-gets-price-target-cut-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:18:50+00:00",
-      "tickers": [
-        "C",
         "STT"
       ]
     },
     {
-      "title": "Westlake (NYSE:WLK) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13625085/westlake-nysewlk-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T05:18:50+00:00",
+      "title": "IAUI: Gold Exposure With A ~12% Monthly Payout | $GS $AAAU $KGLD $IAU $IAUI",
+      "url": "https://seekingalpha.com/article/4955234-iaui-gold-exposure-with-12-percent-monthly-payout",
+      "source": "seekingalpha.com",
+      "published": "2026-10-19T16:19:59+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "U.S. pushes China on market access for Mastercard, Citigroup - report",
-      "url": "https://seekingalpha.com/news/4654093-us-pushes-china-on-market-access-for-mastercard-citigroup---report",
-      "source": "seekingalpha.com",
-      "published": "2026-10-19T05:14:08+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015766/0000950103-26-015766-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T16:19:49+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "The inventor of BRICS has a message for ‘lazy, colonial’ Europe—India and China are still not taken seriously enough on the world stage",
-      "url": "https://fortune.com/2026/10/19/jim-oneill-economics-paper-no-66-brics-lazy-colonial-europe-india-china/",
-      "source": "fortune.com",
-      "published": "2026-10-19T05:00:25+00:00",
+      "title": "Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher",
+      "url": "https://247wallst.com/investing/2026/10/19/amazon-jumps-5-as-morgan-stanley-names-it-top-pick-on-faster-aws-growth-microsoft-and-alphabet-edge-higher/",
+      "source": "247wallst.com",
+      "published": "2026-10-19T16:15:44+00:00",
       "tickers": [
-        "GS"
+        "MS"
+      ]
+    },
+    {
+      "title": "J.P. Morgan forecasts 7% return for 60/40 portfolios through 2041",
+      "url": "https://www.investing.com/news/company-news/jp-morgan-forecasts-7-return-for-6040-portfolios-through-2041-93CH-4958066",
+      "source": "investing.com",
+      "published": "2026-10-19T16:12:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031759/0001918704-26-031759-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T16:12:12+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051341/0001839882-26-051341-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T16:11:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051333/0001839882-26-051333-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T16:04:12+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Best Financial Stocks To Watch Today - October 19th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-best-financial-stocks-to-watch-today-october-19th-2026-10-19/",
+      "source": "marketbeat.com",
+      "published": "2026-10-19T16:02:22+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Top Bank Stocks To Add to Your Watchlist - October 19th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-add-to-your-watchlist-october-19th-2026-10-19/",
+      "source": "marketbeat.com",
+      "published": "2026-10-19T16:02:21+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Chase is betting big on the NBA, and credit cardholders could be the biggest winners",
+      "url": "https://www.fastcompany.com/91625365/chase-is-betting-big-on-the-nba-and-credit-cardholders-could-be-the-biggest-winners",
+      "source": "fastcompany.com",
+      "published": "2026-10-19T16:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Releases 2027 Long-Term Capital Market Assumptions Projecting 7.0% Return for 60/40 Portfolio Over 10-15 Years",
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-releases-2027-longterm-capital-market-assumptions-projecting-7-0-return-for-6040-portfolio-over-10-15-years-302912421.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-19T16:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Global-E Online gains as Morgan Stanley sees persistent growth durability",
+      "url": "https://www.investing.com/news/stock-market-news/globale-online-gains-as-morgan-stanley-sees-persistent-growth-durability-4958037",
+      "source": "investing.com",
+      "published": "2026-10-19T15:59:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Amazon earns Morgan Stanley's Top Pick rating on 'Rule of 90' potential",
+      "url": "https://seekingalpha.com/news/4654306-amazon-earns-morgan-stanleys-top-pick-rating-on-rule-of-90-potential",
+      "source": "seekingalpha.com",
+      "published": "2026-10-19T15:50:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031751/0001918704-26-031751-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T15:49:12+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Quality stocks breaking out as mid-cycle shift accelerates - Morgan Stanley",
+      "url": "https://seekingalpha.com/news/4654308-quality-stocks-breaking-out-as-mid-cycle-shift-accelerates-morgan-stanley",
+      "source": "seekingalpha.com",
+      "published": "2026-10-19T15:47:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Amazon stock pops after Morgan Stanley details 5 catalysts, lifts price target",
+      "url": "https://awesomecapital.blogspot.com/2026/10/amazon-stock-pops-after-morgan-stanley.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-10-19T15:38:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PII Maintained by Wells Fargo -- Price Target Lowered to $55",
+      "url": "https://www.gurufocus.com/news/9129845/pii-maintained-by-wells-fargo-price-target-lowered-to-55",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T15:36:29+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "LULU Maintained by Wells Fargo -- Price Target Lowered to $90",
+      "url": "https://www.gurufocus.com/news/9129847/lulu-maintained-by-wells-fargo-price-target-lowered-to-90",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T15:36:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BYD Maintained by Wells Fargo -- Price Target Lowered to $86.00",
+      "url": "https://www.gurufocus.com/news/9129851/byd-maintained-by-wells-fargo-price-target-lowered-to-8600",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T15:36:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "PNC Maintains by Evercore ISI Group -- Price Target Lowered to $260",
+      "url": "https://www.gurufocus.com/news/9129848/pnc-maintains-by-evercore-isi-group-price-target-lowered-to-260",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T15:36:28+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Just Listed 5 Market Risks Hiding 'Under the Surface.' JPMorgan Is Already Feeling The Heat.",
+      "url": "https://www.barchart.com/story/news/8200635/jamie-dimon-just-listed-5-market-risks-hiding-under-the-surface-jpmorgan-is-already-feeling-the-heat",
+      "source": "barchart.com",
+      "published": "2026-10-19T15:21:27+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
