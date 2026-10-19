@@ -1,249 +1,205 @@
 {
-  "last_updated": "2026-10-19T17:41:26.974574+00:00",
+  "last_updated": "2026-10-19T22:13:48.123133+00:00",
   "headlines": [
     {
-      "title": "Hedge Funds Cut Tech at Fastest Pace in a Decade, Goldman Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/hedge-funds-cut-tech-at-fastest-pace-in-a-decade-goldman-says",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T16:53:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-10-19T16:42:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Investment Case for JPMorgan Chase & Co. (JPM)",
-      "url": "https://www.insidermonkey.com/news/the-investment-case-for-jpmorgan-chase-co-jpm-1856162/",
-      "source": "insidermonkey.com",
-      "published": "2026-10-19T16:32:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526424939/0001193125-26-424939-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T16:30:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Chicago candidates line up for first day of petition filing",
-      "url": "https://www.audacy.com/wbbm780/news/local/chicago-petition-filing",
-      "source": "audacy.com",
-      "published": "2026-10-19T16:28:43+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "IAUI: Gold Exposure With A ~12% Monthly Payout | $GS $AAAU $KGLD $IAU $IAUI",
-      "url": "https://seekingalpha.com/article/4955234-iaui-gold-exposure-with-12-percent-monthly-payout",
+      "title": "Capital One Financial Q3 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4654249-capital-one-financial-q3-2026-earnings-preview",
       "source": "seekingalpha.com",
-      "published": "2026-10-19T16:19:59+00:00",
+      "published": "2026-10-19T21:35:29+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Stock Market Today, Oct. 19: CoreWeave Rebounds on Goldman Sachs Buy Upgrade and $139 Price Target",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-coreweave-rebounds-on-goldman-sachs-buy-upgrade-and-139-price-target/",
+      "source": "fool.com",
+      "published": "2026-10-19T21:25:01+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015766/0000950103-26-015766-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T16:19:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher",
-      "url": "https://247wallst.com/investing/2026/10/19/amazon-jumps-5-as-morgan-stanley-names-it-top-pick-on-faster-aws-growth-microsoft-and-alphabet-edge-higher/",
-      "source": "247wallst.com",
-      "published": "2026-10-19T16:15:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan forecasts 7% return for 60/40 portfolios through 2041",
-      "url": "https://www.investing.com/news/company-news/jp-morgan-forecasts-7-return-for-6040-portfolios-through-2041-93CH-4958066",
-      "source": "investing.com",
-      "published": "2026-10-19T16:12:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031759/0001918704-26-031759-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T16:12:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226051341/0001839882-26-051341-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T16:11:11+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051333/0001839882-26-051333-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T16:04:12+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Best Financial Stocks To Watch Today - October 19th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-best-financial-stocks-to-watch-today-october-19th-2026-10-19/",
+      "title": "Bank of America (NYSE:BAC) Stock Falls 1.7% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-falls-17-whats-next-2026-10-19/",
       "source": "marketbeat.com",
-      "published": "2026-10-19T16:02:22+00:00",
+      "published": "2026-10-19T21:20:50+00:00",
       "tickers": [
-        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Top Bank Stocks To Add to Your Watchlist - October 19th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-add-to-your-watchlist-october-19th-2026-10-19/",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Falls 1.8% - Time to Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-falls-18-time-to-sell-2026-10-19/",
       "source": "marketbeat.com",
-      "published": "2026-10-19T16:02:21+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Chase is betting big on the NBA, and credit cardholders could be the biggest winners",
-      "url": "https://www.fastcompany.com/91625365/chase-is-betting-big-on-the-nba-and-credit-cardholders-could-be-the-biggest-winners",
-      "source": "fastcompany.com",
-      "published": "2026-10-19T16:00:00+00:00",
+      "published": "2026-10-19T21:20:47+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "J.P. Morgan Releases 2027 Long-Term Capital Market Assumptions Projecting 7.0% Return for 60/40 Portfolio Over 10-15 Years",
-      "url": "https://www.prnewswire.com/news-releases/jp-morgan-releases-2027-longterm-capital-market-assumptions-projecting-7-0-return-for-6040-portfolio-over-10-15-years-302912421.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-19T16:00:00+00:00",
+      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Cut to $273.00 by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-price-target-cut-to-27300-by-analysts-at-morgan-stanley-2026-10-19/",
+      "source": "marketbeat.com",
+      "published": "2026-10-19T21:18:33+00:00",
       "tickers": [
-        "JPM"
+        "C",
+        "MS",
+        "PNC"
       ]
     },
     {
-      "title": "Global-E Online gains as Morgan Stanley sees persistent growth durability",
-      "url": "https://www.investing.com/news/stock-market-news/globale-online-gains-as-morgan-stanley-sees-persistent-growth-durability-4958037",
-      "source": "investing.com",
-      "published": "2026-10-19T15:59:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Amazon earns Morgan Stanley's Top Pick rating on 'Rule of 90' potential",
-      "url": "https://seekingalpha.com/news/4654306-amazon-earns-morgan-stanleys-top-pick-rating-on-rule-of-90-potential",
-      "source": "seekingalpha.com",
-      "published": "2026-10-19T15:50:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031751/0001918704-26-031751-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T15:49:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Quality stocks breaking out as mid-cycle shift accelerates - Morgan Stanley",
-      "url": "https://seekingalpha.com/news/4654308-quality-stocks-breaking-out-as-mid-cycle-shift-accelerates-morgan-stanley",
-      "source": "seekingalpha.com",
-      "published": "2026-10-19T15:47:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Amazon stock pops after Morgan Stanley details 5 catalysts, lifts price target",
-      "url": "https://awesomecapital.blogspot.com/2026/10/amazon-stock-pops-after-morgan-stanley.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-10-19T15:38:31+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PII Maintained by Wells Fargo -- Price Target Lowered to $55",
-      "url": "https://www.gurufocus.com/news/9129845/pii-maintained-by-wells-fargo-price-target-lowered-to-55",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T15:36:29+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "LULU Maintained by Wells Fargo -- Price Target Lowered to $90",
-      "url": "https://www.gurufocus.com/news/9129847/lulu-maintained-by-wells-fargo-price-target-lowered-to-90",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T15:36:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BYD Maintained by Wells Fargo -- Price Target Lowered to $86.00",
-      "url": "https://www.gurufocus.com/news/9129851/byd-maintained-by-wells-fargo-price-target-lowered-to-8600",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T15:36:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "PNC Maintains by Evercore ISI Group -- Price Target Lowered to $260",
-      "url": "https://www.gurufocus.com/news/9129848/pnc-maintains-by-evercore-isi-group-price-target-lowered-to-260",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T15:36:28+00:00",
+      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Cut to $250.00 by Analysts at Stephens",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-price-target-cut-to-25000-by-analysts-at-stephens-2026-10-19/",
+      "source": "marketbeat.com",
+      "published": "2026-10-19T21:18:33+00:00",
       "tickers": [
         "C",
         "PNC"
       ]
     },
     {
-      "title": "Jamie Dimon Just Listed 5 Market Risks Hiding 'Under the Surface.' JPMorgan Is Already Feeling The Heat.",
-      "url": "https://www.barchart.com/story/news/8200635/jamie-dimon-just-listed-5-market-risks-hiding-under-the-surface-jpmorgan-is-already-feeling-the-heat",
-      "source": "barchart.com",
-      "published": "2026-10-19T15:21:27+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031879/0001918704-26-031879-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T21:14:25+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015809/0000950103-26-015809-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T21:11:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Financial (NYSE:COF) Insider Sells $369,587.82 in Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13626017/capital-one-financial-nysecof-insider-sells-369587-82-in-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-19T21:09:19+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial (NYSE:COF) Insider Lia Dean Sells 1,887 Shares of Company Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-insider-lia-dean-sells-1887-shares-of-company-stock-2026-10-19/",
+      "source": "marketbeat.com",
+      "published": "2026-10-19T21:08:22+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial (NYSE:COF) Insider Celia Karam Sells 1,927 Shares of Company Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-insider-celia-karam-sells-1927-shares-of-company-stock-2026-10-19/",
+      "source": "marketbeat.com",
+      "published": "2026-10-19T21:08:21+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Chipotle Mexican Grill (NYSE:CMG) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13626014/citigroup-issues-pessimistic-forecast-for-chipotle-mexican-grill-nysecmg-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-19T21:06:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BridgeBio Pharma (NASDAQ:BBIO) Stock Gets Price Target Cut from Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13626013/bridgebio-pharma-nasdaqbbio-stock-gets-price-target-cut-from-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-19T21:06:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Laurel Lee from Florida’s 15th district sells Bank of America stocks, buys Nokia",
+      "url": "https://www.investing.com/news/company-news/laurel-lee-from-floridas-15th-district-sells-bank-of-america-stocks-buys-nokia-93CH-4958376",
+      "source": "investing.com",
+      "published": "2026-10-19T21:06:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Brings JPM Coin to Ethereum as Wall Street Embrace Expands",
+      "url": "https://news.bitcoin.com/technology/jpmorgan-brings-jpm-coin-ethereum-wall-street-embrace-expands/",
+      "source": "bitcoin.com",
+      "published": "2026-10-19T21:05:15+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.1% on Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13626003/bloom-energy-nysebe-stock-jumps-2-1-on-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-19T21:00:55+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "‘We’re Still in the Parking Lot’: Cathie Wood Says AI Isn’t a Bubble. Here’s the Case Against Her",
+      "url": "https://247wallst.com/investing/2026/10/19/were-still-in-the-parking-lot-cathie-wood-says-ai-isnt-a-bubble-heres-the-case-against-her/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-19T21:00:27+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "US Homebuilder Sentiment Lowest Since 2012",
+      "url": "https://www.hellenicshippingnews.com/us-homebuilder-sentiment-lowest-since-2012/",
+      "source": "hellenicshippingnews.com",
+      "published": "2026-10-19T21:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526425353/0001193125-26-425353-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T20:57:57+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051498/0001839882-26-051498-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-19T20:56:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-19/amazon-rallies-on-ai-upside-closing-bell-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-19T20:56:42+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
