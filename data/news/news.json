@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-18T21:44:50.014973+00:00",
+  "last_updated": "2026-10-19T00:04:24.668471+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley sees hyperscaler cash burn nearing $600 billion in 2027",
+      "url": "https://cryptobriefing.com/morgan-stanley-hyperscaler-cash-burn-2027/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-18T21:56:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The next AI race will be won at the credit desk",
+      "url": "https://fortune.com/2026/10/18/nvidia-ai-financing-capital-markets/",
+      "source": "fortune.com",
+      "published": "2026-10-18T21:00:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Is Citigroup Stock a Buy 13% Below Its 52-Week High?",
       "url": "https://www.fool.com/investing/2026/10/18/is-citigroup-stock-a-buy-x-below-its-52-week-high/?source=iedfolrf0000001",
@@ -36,6 +54,16 @@
       "published": "2026-10-18T16:55:19+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Fox's $22 billion Roku bet just won over a longtime skeptic",
+      "url": "https://www.thestreet.com/investing/foxs-22-billion-roku-bet-just-won-over-a-longtime-skeptic?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-18T16:47:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -128,8 +156,8 @@
     },
     {
       "title": "S&P Global (SPGI) Is Benefiting From the AI Boom. Is the Stock Undervalued?",
-      "url": "https://www.insidermonkey.com/news/sp-global-spgi-is-benefiting-from-the-ai-boom-is-the-stock-undervalued-1854677/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-benefiting-ai-144615963.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:46:15+00:00",
       "tickers": [
         "STT"
@@ -137,8 +165,8 @@
     },
     {
       "title": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
-      "url": "https://www.insidermonkey.com/news/berkshire-hathaway-brk-b-after-buffett-can-its-capital-allocation-machine-keep-compounding-1854697/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-buffett-144450448.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:44:50+00:00",
       "tickers": [
         "STT"
@@ -155,8 +183,8 @@
     },
     {
       "title": "TSMC’s (TSM) Record AI Demand Comes With a Growing Cost",
-      "url": "https://www.insidermonkey.com/news/tsmcs-tsm-record-ai-demand-comes-with-a-growing-cost-1855273/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-tsm-record-ai-demand-144104490.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:41:04+00:00",
       "tickers": [
         "STT"
@@ -173,8 +201,8 @@
     },
     {
       "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
-      "url": "https://www.insidermonkey.com/news/alphabets-googl-low-p-e-is-misleading-but-the-ai-opportunity-is-real-1855278/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-low-p-e-143908109.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:39:08+00:00",
       "tickers": [
         "STT"
@@ -182,17 +210,27 @@
     },
     {
       "title": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
-      "url": "https://www.insidermonkey.com/news/amazon-amzn-is-a-proven-capital-allocator-but-can-it-pass-its-220-billion-test-1855291/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-proven-capital-allocator-143821169.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:38:21+00:00",
       "tickers": [
         "STT"
       ]
     },
     {
+      "title": "Meta's $18 billion teen-safety deal is about to hit earnings",
+      "url": "https://www.thestreet.com/investing/metas-18-billion-teen-safety-deal-is-about-to-hit-earnings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-18T14:37:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
-      "url": "https://www.insidermonkey.com/news/broadcom-avgo-went-nowhere-for-a-year-analysts-think-it-is-worth-50-more-1855008/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-went-nowhere-analysts-143448009.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:34:48+00:00",
       "tickers": [
         "STT"
@@ -218,8 +256,8 @@
     },
     {
       "title": "What Do the 8% of Analysts Who Will Not Buy Marvell (MRVL) See?",
-      "url": "https://www.insidermonkey.com/news/what-do-the-8-of-analysts-who-will-not-buy-marvell-mrvl-see-1855518/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/8-analysts-not-buy-marvell-143318310.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:33:18+00:00",
       "tickers": [
         "STT"
@@ -227,8 +265,8 @@
     },
     {
       "title": "SanDisk (SNDK) Is Now Worth More Than the Company That Spun It Off",
-      "url": "https://www.insidermonkey.com/news/sandisk-sndk-is-now-worth-more-than-the-company-that-spun-it-off-1855527/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-now-worth-more-143253971.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-10-18T14:32:53+00:00",
       "tickers": [
         "STT"
@@ -241,43 +279,6 @@
       "published": "2026-10-18T14:32:32+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Does Micron (MU) Have an Economic Moat at All?",
-      "url": "https://www.insidermonkey.com/news/does-micron-mu-have-an-economic-moat-at-all-1855499/",
-      "source": "insidermonkey.com",
-      "published": "2026-10-18T14:31:57+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "ASML (ASML) Says It Cannot Meet Demand Until 2028. Is the Stock Priced for That?",
-      "url": "https://www.insidermonkey.com/news/asml-asml-says-it-cannot-meet-demand-until-2028-is-the-stock-priced-for-that-1855539/",
-      "source": "insidermonkey.com",
-      "published": "2026-10-18T14:31:40+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "What Is Applied Materials’ (AMAT) Economic Moat, and Is It Widening or Narrowing?",
-      "url": "https://www.insidermonkey.com/news/what-is-applied-materials-amat-economic-moat-and-is-it-widening-or-narrowing-1855547/",
-      "source": "insidermonkey.com",
-      "published": "2026-10-18T14:31:23+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Wells Fargo Earnings Aren't Inspiring Enough, But A 7% Income Opportunity Is | $WFC",
-      "url": "https://seekingalpha.com/article/4955059-wells-fargo-earnings-not-inspiring-enough-7-percent-income-opportunity-is",
-      "source": "seekingalpha.com",
-      "published": "2026-10-18T14:11:49+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
