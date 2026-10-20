@@ -1,288 +1,157 @@
 {
-  "last_updated": "2026-10-20T17:26:54.536016+00:00",
+  "last_updated": "2026-10-20T20:48:16.445537+00:00",
   "headlines": [
     {
-      "title": "NI Maintained by JP Morgan -- Price Target Lowered to $51.00",
-      "url": "https://www.gurufocus.com/news/9132110/ni-maintained-by-jp-morgan-price-target-lowered-to-5100",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:34:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SWX Maintained by JP Morgan -- Price Target Lowered to $101.00",
-      "url": "https://www.gurufocus.com/news/9132111/swx-maintained-by-jp-morgan-price-target-lowered-to-10100",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:34:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KHC Maintained by JP Morgan -- Price Target Lowered to $23",
-      "url": "https://www.gurufocus.com/news/9132109/khc-maintained-by-jp-morgan-price-target-lowered-to-23",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:34:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TRV Maintained by JP Morgan -- Price Target Raised to $379",
-      "url": "https://www.gurufocus.com/news/9132107/trv-maintained-by-jp-morgan-price-target-raised-to-379",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:33:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SR Maintained by JP Morgan -- Price Target Raised to $86.00",
-      "url": "https://www.gurufocus.com/news/9132106/sr-maintained-by-jp-morgan-price-target-raised-to-8600",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:33:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "HOOD Maintained by JP Morgan -- Price Target Raised to $115",
-      "url": "https://www.gurufocus.com/news/9132105/hood-maintained-by-jp-morgan-price-target-raised-to-115",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:32:55+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MRSH Maintained by JP Morgan -- Price Target Raised to $218",
-      "url": "https://www.gurufocus.com/news/9132104/mrsh-maintained-by-jp-morgan-price-target-raised-to-218",
-      "source": "gurufocus.com",
-      "published": "2026-10-20T16:32:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MGM Resorts International (NYSE:MGM) Price Target Cut to $45.00 by Analysts at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-mgm-resorts-international-nyse-mgm-price-target-cut-to-4500-by-analysts-at-truist-financial-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T16:30:33+00:00",
+      "title": "Regional Banks Put AI Into Core Operations as Business Lending Grows",
+      "url": "https://www.pymnts.com/news/banking/2026/regional-banks-put-ai-into-core-operations-as-business-lending-grows/",
+      "source": "pymnts.com",
+      "published": "2026-10-20T20:07:53+00:00",
       "tickers": [
         "C",
-        "TFC"
+        "USB",
+        "PNC"
       ]
     },
     {
-      "title": "Commodity markets diverge as oil outpaces cracks in copper, gold - BofA",
-      "url": "https://seekingalpha.com/news/4654758-commodity-markets-diverge-as-oil-outpaces-cracks-in-copper-gold---bofa",
+      "title": "Standard Chartered: The Re-Rating Story Still Has Further Room To Run | $SPY $HSBC $DBSDY $JPM $SCBFY",
+      "url": "https://seekingalpha.com/article/4955635-standard-chartered-the-re-rating-story-still-has-further-room-to-run",
       "source": "seekingalpha.com",
-      "published": "2026-10-20T16:19:38+00:00",
+      "published": "2026-10-20T19:44:13+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Wells Fargo Indicator Flashes Buy Signal After Stock Turbulence",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/wells-fargo-indicator-flashes-buy-signal-after-stock-turbulence",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T16:13:07+00:00",
+      "title": "Venture Global upgraded at Wells Fargo on confidence in data center strategy",
+      "url": "https://seekingalpha.com/news/4654838-venture-global-upgraded-at-wells-fargo-on-confidence-in-data-center-strategy",
+      "source": "seekingalpha.com",
+      "published": "2026-10-20T19:32:04+00:00",
       "tickers": [
         "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Financial Stocks To Watch Today - October 20th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-watch-today-october-20th-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T16:04:16+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo wins legal battle against former CEO over millions he sought after scandal",
-      "url": "https://thebrunswicknews.com/news/business/wells-fargo-wins-legal-battle-against-former-ceo-over-millions-he-sought-after-scandal/article_3d98c280-4b9a-5104-bc0c-32bc3381abe8.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-20T15:58:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Timothy Sloan, then-president and chief executive officer of Wells Fargo, testifies before the U.S. Senate Banking Committee on Oct. 3, 2017, in Washington, D.C..",
-      "url": "https://thebrunswicknews.com/news/business/timothy-sloan-then-president-and-chief-executive-officer-of-wells-fargo-testifies-before-the-u/image_8f954ac0-0f18-5fa5-a7c8-f49d66532dcc.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-20T15:58:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Churchill Downs (NASDAQ:CHDN) Stock Price Target Lowered at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-churchill-downs-nasdaq-chdn-stock-price-target-lowered-at-truist-financial-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:48:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for DraftKings (NASDAQ:DKNG) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-draftkings-nasdaq-dkng-stock-price-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:48:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Citizens Financial Group (NYSE:CFG) Given New $70.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citizens-financial-group-nyse-cfg-given-new-7000-price-target-at-truist-financial-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:48:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Brightstar Lottery (NYSE:BRSL) Stock Price Target Lowered at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-brightstar-lottery-nyse-brsl-stock-price-target-lowered-at-truist-financial-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:48:32+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015859/0000950103-26-015859-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-20T15:47:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street's AI Debt Fears Deepen",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-20/wall-street-s-ai-debt-fears-deepen-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T15:41:02+00:00",
-      "tickers": [
         "C"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031971/0001918704-26-031971-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032118/0001918704-26-032118-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-20T15:35:13+00:00",
+      "published": "2026-10-20T19:20:21+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "BioMarin Pharmaceutical (NASDAQ:BMRN) Stock Price Target Raised at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-biomarin-pharmaceutical-nasdaq-bmrn-stock-price-target-raised-at-jpmorgan-chase-co-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:37+00:00",
+      "title": "The Banks Locked Agents Out. This Week an Agent Paid an Invoice Through the Front Door.",
+      "url": "https://forkast.news/the-banks-locked-agents-out-this-week-an-agent-paid-an-invoice-through-the-front-door/",
+      "source": "forkast.news",
+      "published": "2026-10-20T19:14:18+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526426573/0001193125-26-426573-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T19:08:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032116/0001918704-26-032116-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T19:01:46+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Truist Financial Issues Pessimistic Forecast for Boyd Gaming (NYSE:BYD) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-boyd-gaming-nyse-byd-stock-price-2026-10-20/",
+      "title": "Goldman Upgrades CoreWeave as Debt Worries Weigh on AI Infrastructure Stocks",
+      "url": "https://www.webpronews.com/goldman-upgrades-coreweave-as-debt-worries-weigh-on-ai-infrastructure-stocks/",
+      "source": "webpronews.com",
+      "published": "2026-10-20T18:52:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051777/0001839882-26-051777-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T18:46:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Flutter Entertainment (NYSE:FLUT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-flutter-entertainment-nyse-flut-stock-price-2026-10-20/",
       "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:36+00:00",
+      "published": "2026-10-20T18:42:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wynn Resorts (NASDAQ:WYNN) Given New $115.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-wynn-resorts-nasdaq-wynn-given-new-11500-price-target-at-jpmorgan-chase-co-2026-10-20/",
+      "source": "marketbeat.com",
+      "published": "2026-10-20T18:42:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Nike names new head of investor relations ahead of analyst day",
+      "url": "https://www.oregonlive.com/business/2026/10/nike-names-new-head-of-investor-relations-ahead-of-analyst-day.html",
+      "source": "oregonlive.com",
+      "published": "2026-10-20T18:42:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi Mexico sees new opportunities with banks after Banamex split",
+      "url": "https://www.livemint.com/companies/citi-mexico-sees-new-opportunities-with-banks-after-banamex-split-11792521724676.html",
+      "source": "livemint.com",
+      "published": "2026-10-20T18:42:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fifth Third Bancorp: Synergies, NII Growth, Upside Potential | $USB $PNC $FITB",
+      "url": "https://seekingalpha.com/article/4955614-fifth-third-bancorp-synergies-nii-growth-upside-potential",
+      "source": "seekingalpha.com",
+      "published": "2026-10-20T18:40:45+00:00",
       "tickers": [
         "C",
-        "TFC"
+        "USB",
+        "PNC"
       ]
     },
     {
-      "title": "Truist Financial Issues Pessimistic Forecast for Accel Entertainment (NYSE:ACEL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-accel-entertainment-nyse-acel-stock-price-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Kraft Heinz (NASDAQ:KHC) Stock Price Target Cut by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-kraft-heinz-nasdaq-khc-stock-price-target-cut-by-jpmorgan-chase-co-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:36+00:00",
+      "title": "JPMorgan Brings JPM Coin To Ether For Clients",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-20/jpmorgan-brings-jpm-coin-to-ether-for-clients-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T18:39:18+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Robinhood Markets (NASDAQ:HOOD) Given New $115.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-robinhood-markets-nasdaq-hood-given-new-11500-price-target-at-jpmorgan-chase-co-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:36+00:00",
+      "title": "Goldman sees a housing freeze through 2027. It would lock in an economic divide between millennials",
+      "url": "https://fortune.com/2026/10/20/goldman-sees-a-housing-freeze-through-2027-it-would-lock-in-an-economic-divide-between-millennials/",
+      "source": "fortune.com",
+      "published": "2026-10-20T18:37:09+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Marsh & McLennan Companies (NYSE:MRSH) Price Target Raised to $218.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-marsh-mclennan-companies-nyse-mrsh-price-target-raised-to-21800-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Southwest Gas (NYSE:SWX) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-southwest-gas-nyse-swx-stock-price-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NiSource (NYSE:NI) Stock Price Target Lowered at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nisource-nyse-ni-stock-price-target-lowered-at-jpmorgan-chase-co-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Spire (NYSE:SR) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-spire-nyse-sr-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Travelers Companies (NYSE:TRV) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-travelers-companies-nyse-trv-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T15:30:32+00:00",
-      "tickers": [
-        "JPM"
+        "GS"
       ]
     }
   ]
