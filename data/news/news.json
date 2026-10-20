@@ -1,157 +1,174 @@
 {
-  "last_updated": "2026-10-20T20:48:16.445537+00:00",
+  "last_updated": "2026-10-20T23:44:40.042738+00:00",
   "headlines": [
     {
-      "title": "Regional Banks Put AI Into Core Operations as Business Lending Grows",
-      "url": "https://www.pymnts.com/news/banking/2026/regional-banks-put-ai-into-core-operations-as-business-lending-grows/",
-      "source": "pymnts.com",
-      "published": "2026-10-20T20:07:53+00:00",
+      "title": "Employer I interviewed for, then got rejected, has shown up on my credit report",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xb50u1/employer_i_interviewed_for_then_got_rejected_has/",
+      "source": "reddit.com",
+      "published": "2026-10-20T21:39:31+00:00",
       "tickers": [
         "C",
-        "USB",
-        "PNC"
+        "COF"
       ]
     },
     {
-      "title": "Standard Chartered: The Re-Rating Story Still Has Further Room To Run | $SPY $HSBC $DBSDY $JPM $SCBFY",
-      "url": "https://seekingalpha.com/article/4955635-standard-chartered-the-re-rating-story-still-has-further-room-to-run",
+      "title": "Capital One Financial Corporation 2026 Q3 - Results - Earnings Call Presentation | $COF",
+      "url": "https://seekingalpha.com/article/4955668-capital-one-financial-corporation-2026-q3-results-earnings-call-presentation",
       "source": "seekingalpha.com",
-      "published": "2026-10-20T19:44:13+00:00",
+      "published": "2026-10-20T21:31:08+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Is Paying Up to $2.25 Billion for a $30 Billion ETF Business. Is That Enough to Lift the Stock Back to a Record by 2028?",
+      "url": "https://www.fool.com/investing/2026/10/20/goldman-sachs-is-paying-up-to-225-billion-for-a-30/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-20T21:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Capital One (COF) Files 8-K Disclosing September 2026 Charge-Off and Delinquency Metrics",
+      "url": "https://www.gurufocus.com/news/9132527/capital-one-cof-files-8k-disclosing-september-2026-chargeoff-and-delinquency-metrics",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T21:29:53+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Is Capital One Financial Corp (COF) Fairly Valued After Q3 Earnings Beat? EPS: $5. ...",
+      "url": "https://www.gurufocus.com/news/9132531/is-capital-one-financial-corp-cof-fairly-valued-after-q3-earnings-beat-eps-561-revenue-163b-gf-score-89100",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T21:29:52+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "BRZE Downgraded by Wells Fargo -- Price Target Raised to $47.50",
+      "url": "https://www.gurufocus.com/news/9132536/brze-downgraded-by-wells-fargo-price-target-raised-to-4750",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T21:29:52+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026111089/0001213900-26-111089-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T21:25:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Venture Global upgraded at Wells Fargo on confidence in data center strategy",
-      "url": "https://seekingalpha.com/news/4654838-venture-global-upgraded-at-wells-fargo-on-confidence-in-data-center-strategy",
-      "source": "seekingalpha.com",
-      "published": "2026-10-20T19:32:04+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032118/0001918704-26-032118-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032183/0001918704-26-032183-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-20T19:20:21+00:00",
+      "published": "2026-10-20T21:25:17+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Banks Locked Agents Out. This Week an Agent Paid an Invoice Through the Front Door.",
-      "url": "https://forkast.news/the-banks-locked-agents-out-this-week-an-agent-paid-an-invoice-through-the-front-door/",
-      "source": "forkast.news",
-      "published": "2026-10-20T19:14:18+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
         "C"
       ]
     },
     {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526426573/0001193125-26-426573-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526426863/0001193125-26-426863-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-20T19:08:02+00:00",
+      "published": "2026-10-20T21:22:28+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032116/0001918704-26-032116-index.htm",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015922/0000950103-26-015922-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-20T19:01:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Upgrades CoreWeave as Debt Worries Weigh on AI Infrastructure Stocks",
-      "url": "https://www.webpronews.com/goldman-upgrades-coreweave-as-debt-worries-weigh-on-ai-infrastructure-stocks/",
-      "source": "webpronews.com",
-      "published": "2026-10-20T18:52:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051777/0001839882-26-051777-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-20T18:46:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Flutter Entertainment (NYSE:FLUT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-flutter-entertainment-nyse-flut-stock-price-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T18:42:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wynn Resorts (NASDAQ:WYNN) Given New $115.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-wynn-resorts-nasdaq-wynn-given-new-11500-price-target-at-jpmorgan-chase-co-2026-10-20/",
-      "source": "marketbeat.com",
-      "published": "2026-10-20T18:42:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Nike names new head of investor relations ahead of analyst day",
-      "url": "https://www.oregonlive.com/business/2026/10/nike-names-new-head-of-investor-relations-ahead-of-analyst-day.html",
-      "source": "oregonlive.com",
-      "published": "2026-10-20T18:42:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Mexico sees new opportunities with banks after Banamex split",
-      "url": "https://www.livemint.com/companies/citi-mexico-sees-new-opportunities-with-banks-after-banamex-split-11792521724676.html",
-      "source": "livemint.com",
-      "published": "2026-10-20T18:42:04+00:00",
+      "published": "2026-10-20T21:18:24+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Fifth Third Bancorp: Synergies, NII Growth, Upside Potential | $USB $PNC $FITB",
-      "url": "https://seekingalpha.com/article/4955614-fifth-third-bancorp-synergies-nii-growth-upside-potential",
-      "source": "seekingalpha.com",
-      "published": "2026-10-20T18:40:45+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032181/0001918704-26-032181-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T21:17:54+00:00",
       "tickers": [
-        "C",
-        "USB",
-        "PNC"
+        "C"
       ]
     },
     {
-      "title": "JPMorgan Brings JPM Coin To Ether For Clients",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-20/jpmorgan-brings-jpm-coin-to-ether-for-clients-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T18:39:18+00:00",
+      "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold?.tsrc=rss",
+      "source": "decrypt.co",
+      "published": "2026-10-20T21:16:04+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman sees a housing freeze through 2027. It would lock in an economic divide between millennials",
-      "url": "https://fortune.com/2026/10/20/goldman-sees-a-housing-freeze-through-2027-it-would-lock-in-an-economic-divide-between-millennials/",
-      "source": "fortune.com",
-      "published": "2026-10-20T18:37:09+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032175/0001918704-26-032175-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T21:11:00+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SPSC Maintains Buy Rating by Citigroup -- Price Target Raised to $99",
+      "url": "https://www.gurufocus.com/news/9132507/spsc-maintains-buy-rating-by-citigroup-price-target-raised-to-99",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T21:01:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "MANH Maintained by Citigroup -- Price Target Raised to $260",
+      "url": "https://www.gurufocus.com/news/9132505/manh-maintained-by-citigroup-price-target-raised-to-260",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T21:00:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ENTG Maintained by Citigroup -- Price Target Raised to $195",
+      "url": "https://www.gurufocus.com/news/9132502/entg-maintained-by-citigroup-price-target-raised-to-195",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T21:00:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One branch has windows smashed, ‘PAL ACTION’ graffitied",
+      "url": "https://www.jta.org/2026/10/20/ny/capital-one-branch-has-windows-smashed-pal-action-graffitied",
+      "source": "jta.org",
+      "published": "2026-10-20T21:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JPMorgan invests $5B in companies critical to US national security",
+      "url": "https://www.foxbusiness.com/economy/jpmorgan-invests-5b-companies-critical-us-national-security",
+      "source": "foxbusiness.com",
+      "published": "2026-10-20T20:59:39+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
