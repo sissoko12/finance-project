@@ -1,205 +1,280 @@
 {
-  "last_updated": "2026-10-19T22:13:48.123133+00:00",
+  "last_updated": "2026-10-20T01:11:30.793007+00:00",
   "headlines": [
     {
-      "title": "Capital One Financial Q3 2026 Earnings Preview",
-      "url": "https://seekingalpha.com/news/4654249-capital-one-financial-q3-2026-earnings-preview",
-      "source": "seekingalpha.com",
-      "published": "2026-10-19T21:35:29+00:00",
+      "title": "BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF $XEMD Shares Purchased by North Forty Two & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13626241/bondbloxx-jp-morgan-usd-emerging-markets-1-10-year-bond-etf-xemd-shares-purchased-by-north-forty-two-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-19T23:39:28+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "JPM"
       ]
     },
     {
-      "title": "Stock Market Today, Oct. 19: CoreWeave Rebounds on Goldman Sachs Buy Upgrade and $139 Price Target",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-coreweave-rebounds-on-goldman-sachs-buy-upgrade-and-139-price-target/",
-      "source": "fool.com",
-      "published": "2026-10-19T21:25:01+00:00",
+      "title": "Goldman Sachs upgrades CoreWeave to buy amid debt concerns",
+      "url": "https://cryptobriefing.com/goldman-sachs-upgrades-coreweave-to-buy-amid-debt-concerns/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-19T23:32:33+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank of America (NYSE:BAC) Stock Falls 1.7% - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-falls-17-whats-next-2026-10-19/",
+      "title": "The Goldman Sachs Group, Inc. $GS Stock Purchased by Fairvoy Private Wealth LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-purchased-by-fairvoy-private-wealth-llc-2026-10-19/",
       "source": "marketbeat.com",
-      "published": "2026-10-19T21:20:50+00:00",
+      "published": "2026-10-19T23:12:35+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Falls 1.8% - Time to Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-falls-18-time-to-sell-2026-10-19/",
+      "title": "BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Major Shareholder Saba Capital Management, L.P. Acquires 13,762 Shares of Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-bny-mellon-strategic-municipal-bond-fund-nyse-dsm-major-shareholder-saba-capital-management-lp-acquires-13762-shares-of-stock-2026-10-19/",
       "source": "marketbeat.com",
-      "published": "2026-10-19T21:20:47+00:00",
+      "published": "2026-10-19T23:08:17+00:00",
       "tickers": [
-        "JPM"
+        "BK"
       ]
     },
     {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Cut to $273.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-price-target-cut-to-27300-by-analysts-at-morgan-stanley-2026-10-19/",
+      "title": "30,000 Shares of Truist Financial Corporation $TFC Bought by Fortitude Financial LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-30000-shares-of-truist-financial-corporation-tfc-bought-by-fortitude-financial-llc-2026-10-19/",
       "source": "marketbeat.com",
-      "published": "2026-10-19T21:18:33+00:00",
-      "tickers": [
-        "C",
-        "MS",
-        "PNC"
-      ]
-    },
-    {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Cut to $250.00 by Analysts at Stephens",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-price-target-cut-to-25000-by-analysts-at-stephens-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T21:18:33+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426031879/0001918704-26-031879-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T21:14:25+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326015809/0000950103-26-015809-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T21:11:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Insider Sells $369,587.82 in Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13626017/capital-one-financial-nysecof-insider-sells-369587-82-in-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T21:09:19+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Insider Lia Dean Sells 1,887 Shares of Company Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-insider-lia-dean-sells-1887-shares-of-company-stock-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T21:08:22+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Insider Celia Karam Sells 1,927 Shares of Company Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-insider-celia-karam-sells-1927-shares-of-company-stock-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T21:08:21+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for Chipotle Mexican Grill (NYSE:CMG) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13626014/citigroup-issues-pessimistic-forecast-for-chipotle-mexican-grill-nysecmg-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T21:06:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BridgeBio Pharma (NASDAQ:BBIO) Stock Gets Price Target Cut from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13626013/bridgebio-pharma-nasdaqbbio-stock-gets-price-target-cut-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T21:06:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Laurel Lee from Florida’s 15th district sells Bank of America stocks, buys Nokia",
-      "url": "https://www.investing.com/news/company-news/laurel-lee-from-floridas-15th-district-sells-bank-of-america-stocks-buys-nokia-93CH-4958376",
-      "source": "investing.com",
-      "published": "2026-10-19T21:06:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Brings JPM Coin to Ethereum as Wall Street Embrace Expands",
-      "url": "https://news.bitcoin.com/technology/jpmorgan-brings-jpm-coin-ethereum-wall-street-embrace-expands/",
-      "source": "bitcoin.com",
-      "published": "2026-10-19T21:05:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.1% on Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13626003/bloom-energy-nysebe-stock-jumps-2-1-on-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T21:00:55+00:00",
+      "published": "2026-10-19T23:06:13+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "‘We’re Still in the Parking Lot’: Cathie Wood Says AI Isn’t a Bubble. Here’s the Case Against Her",
-      "url": "https://247wallst.com/investing/2026/10/19/were-still-in-the-parking-lot-cathie-wood-says-ai-isnt-a-bubble-heres-the-case-against-her/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-19T21:00:27+00:00",
+      "title": "Citigroup Declares Common Stock Dividend",
+      "url": "http://www.businesswire.com/news/home/20261019427606/en/Citigroup-Declares-Common-Stock-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-10-19T23:03:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Dean Adler Looks To Sell 'The Best Property We Own'",
+      "url": "https://www.bisnow.com/news/philadelphia/office/2400-market-sale-lubert-adler-cbre",
+      "source": "bisnow.com",
+      "published": "2026-10-19T22:52:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Vikings designate Jordan Mason to return to practice",
+      "url": "https://www.fox9.com/sports/vikings-designate-jordan-mason-return-practice",
+      "source": "fox9.com",
+      "published": "2026-10-19T22:30:30+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase is Delving Further Into National Security With $5 Billion Push",
+      "url": "https://www.ibtimes.com/jpmorgan-chase-delving-further-national-security-5-billion-push-3808725",
+      "source": "ibtimes.com",
+      "published": "2026-10-19T22:27:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BBIO Maintains Rating by Citigroup -- Price Target Lowered to $91.00",
+      "url": "https://www.gurufocus.com/news/9130417/bbio-maintains-rating-by-citigroup-price-target-lowered-to-9100",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "EAT Maintained by Citigroup -- Price Target Lowered to $270",
+      "url": "https://www.gurufocus.com/news/9130420/eat-maintained-by-citigroup-price-target-lowered-to-270",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CMG Maintains by Citigroup -- Price Target Lowered to $43.00",
+      "url": "https://www.gurufocus.com/news/9130418/cmg-maintains-by-citigroup-price-target-lowered-to-4300",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "XYL Maintains by JP Morgan -- Price Target Lowered to $118",
+      "url": "https://www.gurufocus.com/news/9130415/xyl-maintains-by-jp-morgan-price-target-lowered-to-118",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "RUN Maintained by JP Morgan -- Price Target Lowered to $12.00",
+      "url": "https://www.gurufocus.com/news/9130413/run-maintained-by-jp-morgan-price-target-lowered-to-1200",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PNC Maintains Buy Rating -- Price Target Lowered to $270",
+      "url": "https://www.gurufocus.com/news/9130431/pnc-maintains-buy-rating-price-target-lowered-to-270",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "PII Maintained by Citigroup -- Price Target Lowered to $56.00",
+      "url": "https://www.gurufocus.com/news/9130430/pii-maintained-by-citigroup-price-target-lowered-to-5600",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "SLB Maintained by Citigroup -- Price Target Lowered to $62.00",
+      "url": "https://www.gurufocus.com/news/9130424/slb-maintained-by-citigroup-price-target-lowered-to-6200",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HOMB Maintains by Citigroup -- Price Target Lowered to $31.00",
+      "url": "https://www.gurufocus.com/news/9130427/homb-maintains-by-citigroup-price-target-lowered-to-3100",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "FMC Maintained by Citigroup -- Price Target Lowered to $6.00",
+      "url": "https://www.gurufocus.com/news/9130428/fmc-maintained-by-citigroup-price-target-lowered-to-600",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BKR Maintained by Citigroup -- Price Target Lowered to $72.00",
+      "url": "https://www.gurufocus.com/news/9130423/bkr-maintained-by-citigroup-price-target-lowered-to-7200",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WFRD Maintained by Citigroup -- Price Target Lowered to $112",
+      "url": "https://www.gurufocus.com/news/9130426/wfrd-maintained-by-citigroup-price-target-lowered-to-112",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "APP Maintained by Citigroup -- Price Target Lowered to $500",
+      "url": "https://www.gurufocus.com/news/9130422/app-maintained-by-citigroup-price-target-lowered-to-500",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:30+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Financial (COF) Set to Report Q3 Earnings Amid Solid Dividend Fundamentals",
+      "url": "https://www.gurufocus.com/news/9130458/capital-one-financial-cof-set-to-report-q3-earnings-amid-solid-dividend-fundamentals",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:19:27+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Tech Stocks Rebound as Investors Reassess the AI Trade",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-19/the-close-10-19-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-19T22:12:27+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "US Homebuilder Sentiment Lowest Since 2012",
-      "url": "https://www.hellenicshippingnews.com/us-homebuilder-sentiment-lowest-since-2012/",
-      "source": "hellenicshippingnews.com",
-      "published": "2026-10-19T21:00:00+00:00",
+      "title": "BNY Maintained by Citigroup -- Price Target Lowered to $157.00",
+      "url": "https://www.gurufocus.com/news/9130377/bny-maintained-by-citigroup-price-target-lowered-to-15700",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:03:51+00:00",
       "tickers": [
-        "WFC",
         "C"
       ]
     },
     {
-      "title": "Bank of New York Mellon Corp: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526425353/0001193125-26-425353-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T20:57:57+00:00",
+      "title": "SEDG Maintained by JP Morgan -- Price Target Lowered to $38.00",
+      "url": "https://www.gurufocus.com/news/9130372/sedg-maintained-by-jp-morgan-price-target-lowered-to-3800",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:03:06+00:00",
       "tickers": [
-        "BK"
+        "JPM"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051498/0001839882-26-051498-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-19T20:56:58+00:00",
+      "title": "PEG Maintained by JP Morgan -- Price Target Lowered to $77.00",
+      "url": "https://www.gurufocus.com/news/9130366/peg-maintained-by-jp-morgan-price-target-lowered-to-7700",
+      "source": "gurufocus.com",
+      "published": "2026-10-19T22:02:16+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/amazon-rallies-on-ai-upside-closing-bell-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T20:56:42+00:00",
+      "title": "Bank of America Has Cut Its Share Count by Nearly a Third in 10 Years. $10,000 Invested Then Is Worth About $40,000 Now.",
+      "url": "https://www.fool.com/investing/2026/10/19/bank-of-america-cut-share-count-10-years-10000/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-19T22:00:00+00:00",
       "tickers": [
-        "MS"
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist builds out small business with high-level hires from PNC",
+      "url": "https://www.bizjournals.com/pittsburgh/news/2026/10/19/truist-hires-pnc-execs.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-19T21:51:27+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-iren-rallies-on-ai-infrastructure-sentiment-rebound/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-19T21:45:13+00:00",
+      "tickers": [
+        "GS"
       ]
     }
   ]
