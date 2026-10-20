@@ -1,6 +1,116 @@
 {
-  "last_updated": "2026-10-20T01:11:30.793007+00:00",
+  "last_updated": "2026-10-20T06:28:15.594361+00:00",
   "headlines": [
+    {
+      "title": "Allstate (NYSE:ALL) Upgraded at Wall Street Zen",
+      "url": "https://www.tickerreport.com/banking-finance/13626412/allstate-nyseall-upgraded-at-wall-street-zen.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-20T05:18:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Every executive needs Jamie Dimon’s mind on tap. Use AI to build this",
+      "url": "https://www.fastcompany.com/91621008/why-you-should-build-your-own-ai-board-of-directors",
+      "source": "fastcompany.com",
+      "published": "2026-10-20T05:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA, BNP See South Africa Rating Upgrade After Budget",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/bofa-bnp-see-south-africa-rating-upgrade-after-budget",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T05:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman scions atop Evercore and Perella Weinberg",
+      "url": "https://www.ft.com/content/7f771da3-0c04-4192-b2ac-4289a60fbdca?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-10-20T04:00:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s MSOL draws inflows as Fidelity’s FSOL sheds $1.8 million",
+      "url": "https://cryptobriefing.com/morgan-stanley-msol-inflows-fidelity-fsol-outflows/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-20T03:38:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo defeats former CEO’s $34 million compensation lawsuit",
+      "url": "https://www.charlotteobserver.com/news/business/article317683361.html#new_tab",
+      "source": "charlotteobserver.com",
+      "published": "2026-10-20T03:02:27+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "US Studies Centre’s Channer on Geopolitics",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-20/us-studies-centre-s-channer-on-geopolitics-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T02:43:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "'People, Power, Politics: Morgan Stanley Maps 3 Ways AI's $1.6T Capex Plan Can Collapse'",
+      "url": "https://awesomecapital.blogspot.com/2026/10/people-power-politics-morgan-stanley.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-10-20T02:10:11+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Citi Thinks Microsoft Beats Neoclouds in the AI Debt Squeeze",
+      "url": "https://beincrypto.com/citi-microsoft-neoclouds-ai-debt-squeeze/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-10-20T01:20:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Global Chief Economist on Global Growth",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-20/citi-global-chief-economist-on-global-growth-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T01:07:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Investment Analysts’ Weekly Ratings Changes for Live Nation Entertainment (LYV)",
+      "url": "https://www.tickerreport.com/banking-finance/13626303/investment-analysts-weekly-ratings-changes-for-live-nation-entertainment-lyv.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-20T00:56:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T00:34:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF $XEMD Shares Purchased by North Forty Two & Co.",
       "url": "https://www.tickerreport.com/banking-finance/13626241/bondbloxx-jp-morgan-usd-emerging-markets-1-10-year-bond-etf-xemd-shares-purchased-by-north-forty-two-co.html",
@@ -163,118 +273,6 @@
       "published": "2026-10-19T22:19:30+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "FMC Maintained by Citigroup -- Price Target Lowered to $6.00",
-      "url": "https://www.gurufocus.com/news/9130428/fmc-maintained-by-citigroup-price-target-lowered-to-600",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BKR Maintained by Citigroup -- Price Target Lowered to $72.00",
-      "url": "https://www.gurufocus.com/news/9130423/bkr-maintained-by-citigroup-price-target-lowered-to-7200",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WFRD Maintained by Citigroup -- Price Target Lowered to $112",
-      "url": "https://www.gurufocus.com/news/9130426/wfrd-maintained-by-citigroup-price-target-lowered-to-112",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "APP Maintained by Citigroup -- Price Target Lowered to $500",
-      "url": "https://www.gurufocus.com/news/9130422/app-maintained-by-citigroup-price-target-lowered-to-500",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial (COF) Set to Report Q3 Earnings Amid Solid Dividend Fundamentals",
-      "url": "https://www.gurufocus.com/news/9130458/capital-one-financial-cof-set-to-report-q3-earnings-amid-solid-dividend-fundamentals",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:27+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Tech Stocks Rebound as Investors Reassess the AI Trade",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-19/the-close-10-19-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-19T22:12:27+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BNY Maintained by Citigroup -- Price Target Lowered to $157.00",
-      "url": "https://www.gurufocus.com/news/9130377/bny-maintained-by-citigroup-price-target-lowered-to-15700",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:03:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "SEDG Maintained by JP Morgan -- Price Target Lowered to $38.00",
-      "url": "https://www.gurufocus.com/news/9130372/sedg-maintained-by-jp-morgan-price-target-lowered-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:03:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PEG Maintained by JP Morgan -- Price Target Lowered to $77.00",
-      "url": "https://www.gurufocus.com/news/9130366/peg-maintained-by-jp-morgan-price-target-lowered-to-7700",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:02:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America Has Cut Its Share Count by Nearly a Third in 10 Years. $10,000 Invested Then Is Worth About $40,000 Now.",
-      "url": "https://www.fool.com/investing/2026/10/19/bank-of-america-cut-share-count-10-years-10000/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-19T22:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist builds out small business with high-level hires from PNC",
-      "url": "https://www.bizjournals.com/pittsburgh/news/2026/10/19/truist-hires-pnc-execs.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-19T21:51:27+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-iren-rallies-on-ai-infrastructure-sentiment-rebound/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-19T21:45:13+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
