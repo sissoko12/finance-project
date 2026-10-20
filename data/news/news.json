@@ -1,277 +1,286 @@
 {
-  "last_updated": "2026-10-20T06:28:15.594361+00:00",
+  "last_updated": "2026-10-20T12:01:10.169179+00:00",
   "headlines": [
     {
-      "title": "Allstate (NYSE:ALL) Upgraded at Wall Street Zen",
-      "url": "https://www.tickerreport.com/banking-finance/13626412/allstate-nyseall-upgraded-at-wall-street-zen.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-20T05:18:49+00:00",
+      "title": "ADRX Initiated Coverage by Morgan Stanley -- Price Target Set at $32",
+      "url": "https://www.gurufocus.com/news/9131294/adrx-initiated-coverage-by-morgan-stanley-price-target-set-at-32",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T11:30:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Declares Quarterly Dividend of $0.67 per Share, Maintaining Steady Payout",
+      "url": "https://www.gurufocus.com/news/9131329/citigroup-c-declares-quarterly-dividend-of-067-per-share-maintaining-steady-payout",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T11:30:06+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Every executive needs Jamie Dimon’s mind on tap. Use AI to build this",
-      "url": "https://www.fastcompany.com/91621008/why-you-should-build-your-own-ai-board-of-directors",
-      "source": "fastcompany.com",
-      "published": "2026-10-20T05:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA, BNP See South Africa Rating Upgrade After Budget",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/bofa-bnp-see-south-africa-rating-upgrade-after-budget",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T05:00:00+00:00",
+      "title": "80,126 Bank of America Corporation $BAC Shares Sold by Sumitomo Mitsui DS Asset Management Company Ltd",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-80126-bank-of-america-corporation-bac-shares-sold-by-sumitomo-mitsui-ds-asset-management-company-ltd-2026-10-20/",
+      "source": "marketbeat.com",
+      "published": "2026-10-20T11:28:41+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "The Goldman scions atop Evercore and Perella Weinberg",
-      "url": "https://www.ft.com/content/7f771da3-0c04-4192-b2ac-4289a60fbdca?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-10-20T04:00:39+00:00",
+      "title": "Goldman Sachs just upgraded $CRWV to Buy arguing investors are underestimating returns CoreWeave can generate from its AI infrastructure.",
+      "url": "https://www.reddit.com/r/stocks/comments/1xapffg/goldman_sachs_just_upgraded_crwv_to_buy_arguing/",
+      "source": "reddit.com",
+      "published": "2026-10-20T11:18:27+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Morgan Stanley’s MSOL draws inflows as Fidelity’s FSOL sheds $1.8 million",
-      "url": "https://cryptobriefing.com/morgan-stanley-msol-inflows-fidelity-fsol-outflows/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-20T03:38:52+00:00",
+      "title": "1,481 The Goldman Sachs Group, Inc. $GS Shares Sold by Focused Alpha LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-1481-the-goldman-sachs-group-inc-gs-shares-sold-by-focused-alpha-llc-2026-10-20/",
+      "source": "marketbeat.com",
+      "published": "2026-10-20T11:12:49+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Wells Fargo defeats former CEO’s $34 million compensation lawsuit",
-      "url": "https://www.charlotteobserver.com/news/business/article317683361.html#new_tab",
-      "source": "charlotteobserver.com",
-      "published": "2026-10-20T03:02:27+00:00",
+      "title": "Focused Alpha LLC Buys 13,638 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-focused-alpha-llc-buys-13638-shares-of-bank-of-america-corporation-bac-2026-10-20/",
+      "source": "marketbeat.com",
+      "published": "2026-10-20T11:12:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State Street SPDR Dow Jones (DIA) Sells Goldman Sachs and Caterpillar on Friday",
+      "url": "https://www.gurufocus.com/news/9131265/state-street-spdr-dow-jones-dia-sells-goldman-sachs-and-caterpillar-on-friday",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T11:05:03+00:00",
+      "tickers": [
+        "GS",
+        "STT"
+      ]
+    },
+    {
+      "title": "What State Street Consumer Discretionary SPDR (XLY) Sold: Amazon Leads on Oct. 16",
+      "url": "https://www.gurufocus.com/news/9131261/what-state-street-consumer-discretionary-spdr-xly-sold-amazon-leads-on-oct-16",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T11:04:50+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "State Street SPDR S&P 500 ETF (SPY) Buys $272.7 Million More NVDA on Friday",
+      "url": "https://www.gurufocus.com/news/9131250/state-street-spdr-sp-500-etf-spy-buys-2727-million-more-nvda-on-friday",
+      "source": "gurufocus.com",
+      "published": "2026-10-20T11:04:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Wells Fargo raises Gartner stock price target on BTI transformation",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-gartner-stock-price-target-on-bti-transformation-93CH-4959596",
+      "source": "investing.com",
+      "published": "2026-10-20T10:58:52+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "US Studies Centre’s Channer on Geopolitics",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-20/us-studies-centre-s-channer-on-geopolitics-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T02:43:49+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "'People, Power, Politics: Morgan Stanley Maps 3 Ways AI's $1.6T Capex Plan Can Collapse'",
-      "url": "https://awesomecapital.blogspot.com/2026/10/people-power-politics-morgan-stanley.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-10-20T02:10:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Why Citi Thinks Microsoft Beats Neoclouds in the AI Debt Squeeze",
-      "url": "https://beincrypto.com/citi-microsoft-neoclouds-ai-debt-squeeze/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-10-20T01:20:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Global Chief Economist on Global Growth",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-20/citi-global-chief-economist-on-global-growth-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T01:07:20+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Investment Analysts’ Weekly Ratings Changes for Live Nation Entertainment (LYV)",
-      "url": "https://www.tickerreport.com/banking-finance/13626303/investment-analysts-weekly-ratings-changes-for-live-nation-entertainment-lyv.html",
+      "title": "Recent Investment Analysts’ Ratings Updates for Packaging Corporation of America (PKG)",
+      "url": "https://www.tickerreport.com/banking-finance/13626713/recent-investment-analysts-ratings-updates-for-packaging-corporation-of-america-pkg.html",
       "source": "tickerreport.com",
-      "published": "2026-10-20T00:56:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
-      "source": "bloomberg.com",
-      "published": "2026-10-20T00:34:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF $XEMD Shares Purchased by North Forty Two & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13626241/bondbloxx-jp-morgan-usd-emerging-markets-1-10-year-bond-etf-xemd-shares-purchased-by-north-forty-two-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-19T23:39:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs upgrades CoreWeave to buy amid debt concerns",
-      "url": "https://cryptobriefing.com/goldman-sachs-upgrades-coreweave-to-buy-amid-debt-concerns/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-19T23:32:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Stock Purchased by Fairvoy Private Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-purchased-by-fairvoy-private-wealth-llc-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T23:12:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Major Shareholder Saba Capital Management, L.P. Acquires 13,762 Shares of Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-bny-mellon-strategic-municipal-bond-fund-nyse-dsm-major-shareholder-saba-capital-management-lp-acquires-13762-shares-of-stock-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T23:08:17+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "30,000 Shares of Truist Financial Corporation $TFC Bought by Fortitude Financial LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-30000-shares-of-truist-financial-corporation-tfc-bought-by-fortitude-financial-llc-2026-10-19/",
-      "source": "marketbeat.com",
-      "published": "2026-10-19T23:06:13+00:00",
+      "published": "2026-10-20T10:56:52+00:00",
       "tickers": [
         "C",
         "TFC"
       ]
     },
     {
-      "title": "Citigroup Declares Common Stock Dividend",
-      "url": "http://www.businesswire.com/news/home/20261019427606/en/Citigroup-Declares-Common-Stock-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-10-19T23:03:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dean Adler Looks To Sell 'The Best Property We Own'",
-      "url": "https://www.bisnow.com/news/philadelphia/office/2400-market-sale-lubert-adler-cbre",
-      "source": "bisnow.com",
-      "published": "2026-10-19T22:52:14+00:00",
+      "title": "J.P. Morgan puts Euronext on Positive Catalyst Watch on earnings upside",
+      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-euronext-on-positive-catalyst-watch-on-earnings-upside-4959561",
+      "source": "investing.com",
+      "published": "2026-10-20T10:46:48+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Vikings designate Jordan Mason to return to practice",
-      "url": "https://www.fox9.com/sports/vikings-designate-jordan-mason-return-practice",
-      "source": "fox9.com",
-      "published": "2026-10-19T22:30:30+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase is Delving Further Into National Security With $5 Billion Push",
-      "url": "https://www.ibtimes.com/jpmorgan-chase-delving-further-national-security-5-billion-push-3808725",
-      "source": "ibtimes.com",
-      "published": "2026-10-19T22:27:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BBIO Maintains Rating by Citigroup -- Price Target Lowered to $91.00",
-      "url": "https://www.gurufocus.com/news/9130417/bbio-maintains-rating-by-citigroup-price-target-lowered-to-9100",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EAT Maintained by Citigroup -- Price Target Lowered to $270",
-      "url": "https://www.gurufocus.com/news/9130420/eat-maintained-by-citigroup-price-target-lowered-to-270",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CMG Maintains by Citigroup -- Price Target Lowered to $43.00",
-      "url": "https://www.gurufocus.com/news/9130418/cmg-maintains-by-citigroup-price-target-lowered-to-4300",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "XYL Maintains by JP Morgan -- Price Target Lowered to $118",
-      "url": "https://www.gurufocus.com/news/9130415/xyl-maintains-by-jp-morgan-price-target-lowered-to-118",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "RUN Maintained by JP Morgan -- Price Target Lowered to $12.00",
-      "url": "https://www.gurufocus.com/news/9130413/run-maintained-by-jp-morgan-price-target-lowered-to-1200",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PNC Maintains Buy Rating -- Price Target Lowered to $270",
-      "url": "https://www.gurufocus.com/news/9130431/pnc-maintains-buy-rating-price-target-lowered-to-270",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
+      "title": "Capital One Financial Corporation (NYSE:COF) Stock Has Consensus Price Target of $255.04",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-capital-one-financial-corporation-nyse-cof-stock-has-consensus-price-target-of-25504-2026-10-20/",
+      "source": "marketbeat.com",
+      "published": "2026-10-20T10:44:25+00:00",
       "tickers": [
         "C",
-        "PNC"
+        "COF"
       ]
     },
     {
-      "title": "PII Maintained by Citigroup -- Price Target Lowered to $56.00",
-      "url": "https://www.gurufocus.com/news/9130430/pii-maintained-by-citigroup-price-target-lowered-to-5600",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
+      "title": "Truist Financial Corporation (NYSE:TFC) Stock Has Consensus Price Target of $54.24 According to Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-truist-financial-corporation-nyse-tfc-stock-has-consensus-price-target-of-5424-according-to-brokerages-2026-10-20/",
+      "source": "marketbeat.com",
+      "published": "2026-10-20T10:44:23+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JPMorgan’s 2027 Long-Term Capital Market Assumptions Project Bitcoin at 10% Compound Annualized — But a Return Range Is Not an Allocation",
+      "url": "https://forkast.news/jpmorgans-2027-long-term-capital-market-assumptions-project-bitcoin-at-10-compound-annualized-but-a-return-range-is-not-an-allocation/",
+      "source": "forkast.news",
+      "published": "2026-10-20T10:35:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo says S&P 500 buy signal emerges as investors turn excessively bearish",
+      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-says-sp-500-buy-signal-emerges-as-investors-turn-excessively-bearish-4959492",
+      "source": "investing.com",
+      "published": "2026-10-20T10:31:48+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup declares $0.67 dividend",
+      "url": "https://seekingalpha.com/news/4654476-citigroup-declares-0_67-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-20T10:16:13+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "SLB Maintained by Citigroup -- Price Target Lowered to $62.00",
-      "url": "https://www.gurufocus.com/news/9130424/slb-maintained-by-citigroup-price-target-lowered-to-6200",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026110812/0001213900-26-110812-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-20T10:07:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What banks can learn from Fincen's penalty against BofA",
+      "url": "https://www.americanbanker.com/news/what-banks-can-learn-from-fincens-penalty-against-bofa",
+      "source": "americanbanker.com",
+      "published": "2026-10-20T10:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley turns bearish on Vonovia, LEG as Berlin housing risks mount",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-turns-bearish-on-vonovia-leg-as-berlin-housing-risks-mount-4959345",
+      "source": "investing.com",
+      "published": "2026-10-20T09:58:34+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo issues buy signal for S&P 500 after sentiment shift",
+      "url": "https://www.investing.com/news/stock-market-news/wells-fargo-issues-buy-signal-for-sp-500-after-sentiment-shift-93CH-4959343",
+      "source": "investing.com",
+      "published": "2026-10-20T09:58:04+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Giani: France Pension Reforms Will Be Difficult",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-20/giani-france-pension-reforms-will-be-difficult-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T09:57:27+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "HOMB Maintains by Citigroup -- Price Target Lowered to $31.00",
-      "url": "https://www.gurufocus.com/news/9130427/homb-maintains-by-citigroup-price-target-lowered-to-3100",
-      "source": "gurufocus.com",
-      "published": "2026-10-19T22:19:30+00:00",
+      "title": "Goldman: Central Banks Keep Buying OTC Gold, Now Reconsider Where to Hold It",
+      "url": "https://vblgoldfix.substack.com/p/goldman-central-banks-keep-buying",
+      "source": "substack.com",
+      "published": "2026-10-20T09:55:32+00:00",
       "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BofA cuts Werner Enterprises stock price target on cost pressures",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-werner-enterprises-stock-price-target-on-cost-pressures-93CH-4959302",
+      "source": "investing.com",
+      "published": "2026-10-20T09:47:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA raises Gilead Sciences stock price target on positive trial data",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-gilead-sciences-stock-price-target-on-positive-trial-data-93CH-4959301",
+      "source": "investing.com",
+      "published": "2026-10-20T09:46:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi sees rotation from growth stocks as Europe draws inflows",
+      "url": "https://www.investing.com/news/stock-market-news/citi-sees-rotation-from-growth-stocks-as-europe-draws-inflows-93CH-4959290",
+      "source": "investing.com",
+      "published": "2026-10-20T09:45:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Committed to UK Even If Bank Surcharge Raised, UK CEO Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/citi-committed-to-uk-even-if-bank-surcharge-raised-uk-ceo-says",
+      "source": "bloomberg.com",
+      "published": "2026-10-20T09:43:40+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman lifts UK housebuilder volume forecasts; upgrades Taylor Wimpey",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-lifts-uk-housebuilder-volume-forecasts-upgrades-taylor-wimpey-4959265",
+      "source": "investing.com",
+      "published": "2026-10-20T09:29:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ford Motor (F) – Analysts’ Weekly Ratings Changes",
+      "url": "https://www.tickerreport.com/banking-finance/13626617/ford-motor-f-analysts-weekly-ratings-changes.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-20T09:27:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "HUD probes Wells Fargo lending",
+      "url": "https://morganton.com/image_c676137e-22ac-5efc-a480-5e7ca9d97c11.html",
+      "source": "morganton.com",
+      "published": "2026-10-20T09:20:22+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     }
