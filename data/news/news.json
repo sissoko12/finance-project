@@ -1,287 +1,289 @@
 {
-  "last_updated": "2026-10-21T09:31:13.813610+00:00",
+  "last_updated": "2026-10-21T15:00:06.233974+00:00",
   "headlines": [
     {
-      "title": "Insider Buying: BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Major Shareholder Buys $365,433.20 in Stock",
-      "url": "https://www.insidertrades.com/alerts/nyse-dsm-insider-buying-and-selling-2026-10-21/",
-      "source": "insidertrades.com",
-      "published": "2026-10-21T08:53:08+00:00",
+      "title": "Brad Lander - 2026 United States House of Representatives campaign: Note winning ...",
+      "url": "https://en.wikipedia.org/w/index.php?title=Brad_Lander&diff=1381307597&oldid=1381304026",
+      "source": "wikipedia.org",
+      "published": "2026-10-21T14:03:18+00:00",
       "tickers": [
-        "BK"
+        "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Stock: SteelPeak Wealth LLC Boosts Holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-steelpeak-wealth-llc-boosts-holdings-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T08:48:42+00:00",
+      "title": "Wall Street ticks higher after SpaceX jumps and AI stocks steady",
+      "url": "https://www.kulr8.com/news/national/wall-street-ticks-higher-after-spacex-jumps-and-ai-stocks-steady/article_b8c88a58-7380-5026-a5c3-2abb2b6b65b3.html",
+      "source": "kulr8.com",
+      "published": "2026-10-21T13:48:36+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Stock Has Average Target Price of $68.43 According to Brokerages",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-us-bancorp-nyse-usb-stock-has-average-target-price-of-6843-according-to-brokerages-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T08:44:20+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Ahead Of Schedule: Meta's Early Earnings Shift Driven By Muse AI Enthusiasm | $JPM $WFC $BAC $GS $MS",
-      "url": "https://seekingalpha.com/article/4955775-ahead-of-schedule-meta-early-earnings-shift-driven-by-muse-ai-enthusiasm",
-      "source": "seekingalpha.com",
-      "published": "2026-10-21T08:20:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
         "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "source": "cnbc.com",
+      "published": "2026-10-21T13:30:57+00:00",
+      "tickers": [
         "GS",
         "MS"
       ]
     },
     {
-      "title": "Amazon Stock Forecast 2026: How TorchNeuron Challenges Nvidia and What It Means for AMZN",
-      "url": "https://roboforex.com/blog/analysis/amazon-stock-forecast-2026-torchneuron/",
-      "source": "roboforex.com",
-      "published": "2026-10-21T08:17:41+00:00",
+      "title": "Arcus Biosciences (NYSE:RCUS) Stock Gets Price Target Boost from Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-arcus-biosciences-nyse-rcus-stock-gets-price-target-boost-from-truist-financial-2026-10-21/",
+      "source": "marketbeat.com",
+      "published": "2026-10-21T13:30:34+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Stock Bought by Lakeshore Capital Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-bought-by-lakeshore-capital-group-inc-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T08:08:56+00:00",
+      "title": "Jamie Dimon spent years warning about America’s reliance on China. A year in, JPMorgan has put $230 billion behind fixing it",
+      "url": "https://fortune.com/2026/10/21/jamie-dimon-jpmorgan-china-critical-minerals-defense/",
+      "source": "fortune.com",
+      "published": "2026-10-21T13:27:57+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Sector Update: Energy Stocks Lean Lower Premarket Wednesday",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lean-lower-132621890.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-21T13:26:21+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Citi: Early Q3 earnings results point to another quarter of strong profit growth",
+      "url": "https://seekingalpha.com/news/4655148-citi-early-q3-earnings-results-point-to-another-quarter-of-strong-profit-growth",
+      "source": "seekingalpha.com",
+      "published": "2026-10-21T13:00:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Flutter restructuring carries no new guidance impact, says Citi",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100469/flutter-restructuring-carries-no-new-guidance-impact-says-citi-1100469.html?.tsrc=rss",
+      "source": "proactiveinvestors.com",
+      "published": "2026-10-21T13:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One wrestles with how to best use Discover's network",
+      "url": "https://www.americanbanker.com/payments/news/capital-one-wrestles-with-how-to-best-use-discovers-network",
+      "source": "americanbanker.com",
+      "published": "2026-10-21T12:57:58+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Episode 461 — $1.21 Billion: How Bank of America’s Monitoring System Failed and Why Management Is on the Hook",
+      "url": "https://blog.volkovlaw.com/2026/10/episode-461-1-21-billion-how-bank-of-americas-monitoring-system-failed-and-why-management-is-on-the-hook/",
+      "source": "volkovlaw.com",
+      "published": "2026-10-21T12:46:46+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Ben Graham: Learning From The Dean of Wall Street (Warren Buffett's Mentor)",
-      "url": "https://mgln.ai/e/1672/traffic.megaphone.fm/ARML3834572837.mp3",
-      "source": "mgln.ai",
-      "published": "2026-10-21T08:00:00+00:00",
+      "title": "Braze (NASDAQ:BRZE) Stock Rating Cut to \"Neutral\" at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-brazes-brze-neutral-rating-reiterated-at-citigroup-2026-10-21/",
+      "source": "marketbeat.com",
+      "published": "2026-10-21T12:42:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Intel Stock Still Trades at 84 Times Earnings After a 35% Drop. I'm Not Buying Yet.",
+      "url": "https://www.fool.com/investing/2026/10/21/intel-stock-still-trades-at-84-times-earnings-after-a-35-drop-i-m-not-buying-yet/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-21T12:41:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Netflix (NASDAQ:NFLX) Given New $90.00 Price Target at Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13628635/netflix-nasdaqnflx-given-new-90-00-price-target-at-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-21T12:38:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX’s Q3 Beat Has Analysts Looking Beyond Starlink To AI And Starship – Citi Sees ‘Monumental’ Flight 15 Catalyst",
+      "url": "https://stocktwits.com/news-articles/markets/equity/spacex-spcx-stock-price-targets-q3-earnings-starship-ai-compute/cZxMR5aRBvJ?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-10-21T12:36:44+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032188/0001918704-26-032188-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-21T12:35:09+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MSCI Maintained by Morgan Stanley -- Price Target Raised to $671",
+      "url": "https://www.gurufocus.com/news/9133792/msci-maintained-by-morgan-stanley-price-target-raised-to-671",
+      "source": "gurufocus.com",
+      "published": "2026-10-21T12:34:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+      "source": "cnbc.com",
+      "published": "2026-10-21T12:33:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Seagate Technology (NASDAQ:STX) Stock Gets Price Target Increase from Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13628620/seagate-technology-nasdaqstx-stock-gets-price-target-increase-from-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-21T12:30:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Seagate Technology (NASDAQ:STX) Stock Price Target Raised at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-seagate-technology-nasdaq-stx-stock-price-target-raised-at-bank-of-america-2026-10-21/",
+      "source": "marketbeat.com",
+      "published": "2026-10-21T12:30:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Western Digital (NASDAQ:WDC) Stock Gets Price Target Boost from Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-western-digital-nasdaq-wdc-stock-gets-price-target-boost-from-bank-of-america-2026-10-21/",
+      "source": "marketbeat.com",
+      "published": "2026-10-21T12:30:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "SpaceX (SPCX) Q3 Revenue Surges, Morgan Stanley Highlights Tesla Collaboration Buzz",
+      "url": "https://www.gurufocus.com/news/9133768/spacex-spcx-q3-revenue-surges-morgan-stanley-highlights-tesla-collaboration-buzz",
+      "source": "gurufocus.com",
+      "published": "2026-10-21T12:27:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citi says media stocks’ AI re-rating shifts focus to fundamentals",
+      "url": "https://www.investing.com/news/stock-market-news/citi-says-media-stocks-ai-rerating-shifts-focus-to-fundamentals-4962938",
+      "source": "investing.com",
+      "published": "2026-10-21T12:19:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo Buy Signal Points to AI Software, Not Chips",
+      "url": "https://www.investing.com/analysis/wells-fargo-buy-signal-points-to-ai-software-not-chips-200689983",
+      "source": "investing.com",
+      "published": "2026-10-21T12:13:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Larry Ellison pledged Oracle, Tesla and SpaceX stock for loans before son's Warner deal closed",
+      "url": "https://qz.com/larry-ellison-pledged-stock-loans-warner-bros-deal-102126",
+      "source": "qz.com",
+      "published": "2026-10-21T12:10:29+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Has Lowered Expectations for Netflix (NASDAQ:NFLX) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-has-lowered-expectations-for-netflix-nasdaq-nflx-stock-price-2026-10-21/",
+      "source": "marketbeat.com",
+      "published": "2026-10-21T12:06:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Family offices eye shift to alternative investments: Study",
+      "url": "https://www.privatebankerinternational.com/news/family-offices-alternative-investments/?.tsrc=rss",
+      "source": "privatebankerinternational.com",
+      "published": "2026-10-21T11:56:30+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bernard Mensah on AI, Bond Yields and Global Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-21/bernard-mensah-on-ai-bond-yields-and-global-markets-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-21T11:56:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman sees Legrand benefiting from data centre boom as valuation lags peers",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sees-legrand-benefiting-from-data-centre-boom-as-valuation-lags-peers-4962777",
+      "source": "investing.com",
+      "published": "2026-10-21T11:53:07+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Huntington Q3 Earnings on Deck: Here's What Investors Should Expect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-q3-earnings-deck-heres-115100047.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-21T11:51:00+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. $JPM Stock: BDF Gestion Reduces Holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bdf-gestion-reduces-holdings-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T07:12:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Asset Management Predicts Bitcoin (BTC) Surging 10% a Year in Next 10 Years – But There’s a Catch",
-      "url": "https://dailyhodl.com/2026/10/21/jpmorgan-asset-management/",
-      "source": "dailyhodl.com",
-      "published": "2026-10-21T07:04:10+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Analysis Of A Market Anomaly At Goldman Sachs: Sell GS.PR.C And Buy OTC Trust Instrument | $GS",
-      "url": "https://seekingalpha.com/article/4955737-analysis-of-a-market-anomaly-at-goldman-sachs-sell-gsprc-and-buy-otc-trust-instrument",
-      "source": "seekingalpha.com",
-      "published": "2026-10-21T06:41:48+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Shares Unloaded by Rep. Laurel M. Lee",
-      "url": "https://www.marketbeat.com/instant-alerts/congress-bank-of-america-nyse-bac-shares-unloaded-by-rep-laurel-m-lee-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T06:01:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The R&D Dept.: Local patent roundup for 10.21.26",
-      "url": "https://richmondbizsense.com/2026/10/21/the-rd-dept-local-patent-roundup-for-10-21-26/",
-      "source": "richmondbizsense.com",
-      "published": "2026-10-21T06:00:18+00:00",
+      "title": "Capital One posts $6.69 in adjusted EPS as net interest margin rises to 8.41%",
+      "url": "https://marketchameleon.com/Blogpost/2026/10/21/cof-q3-2026-adjusted-eps-net-interest-margin-8-41",
+      "source": "marketchameleon.com",
+      "published": "2026-10-21T11:49:42+00:00",
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "COF Q3 Deep Dive: Marketing Investments and Discover Integration Shape Outlook",
-      "url": "https://stockstory.org/us/stocks/nyse/cof/news/earnings-call/cof-q3-deep-dive-marketing-investments-and-discover-integration-shape-outlook",
-      "source": "stockstory.org",
-      "published": "2026-10-21T05:33:55+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citi's Luet on North Asia, Australia Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-luet-on-north-asia-australia-outlook-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-21T05:15:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi's English on US Midterm Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-english-on-us-midterm-outlook-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-21T05:14:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi's Gupte on IPO Outlook - Aloke Gupte, Global Co-Head of Equity Capital Markets at Citi, ...",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-gupte-on-ipo-outlook-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-21T05:08:10+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Microsoft and McDonald’s Push Back Against OKX-ICE Tokenized Stocks",
-      "url": "https://news.bitcoin.com/finance/microsoft-and-mcdonalds-push-back-against-okx-ice-tokenized-stocks/",
-      "source": "bitcoin.com",
-      "published": "2026-10-21T04:35:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Series A Preferreds: Yield Falls Short For A Compelling Allocation | $MS",
-      "url": "https://seekingalpha.com/article/4955714-morgan-stanley-series-a-preferreds-yield-falls-short-for-compelling-allocation",
-      "source": "seekingalpha.com",
-      "published": "2026-10-21T03:58:21+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Capital One (COF) Reports Strong Q3 Earnings, Dividend Sustainability in Focus",
-      "url": "https://www.gurufocus.com/news/9133105/capital-one-cof-reports-strong-q3-earnings-dividend-sustainability-in-focus",
-      "source": "gurufocus.com",
-      "published": "2026-10-21T03:55:38+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "UltraTech Cement shares in focus as brokerages revise target prices after Q2 results. What Citi, Nomura, Jefferies say",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ultratech-cement-shares-in-focus-as-brokerages-revise-target-prices-after-q2-results-what-citi-nomura-jefferies-say/articleshow/135081591.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-21T03:55:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts RBA Rate Hike Amid Deteriorating Inflation Outlook",
-      "url": "https://www.gurufocus.com/news/9133102/goldman-sachs-predicts-rba-rate-hike-amid-deteriorating-inflation-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-10-21T03:50:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Says War Spurs Sevenfold Jump in Oil Freight Rates",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/goldman-sachs-says-war-spurs-sevenfold-jump-in-oil-freight-rates",
-      "source": "bloomberg.com",
-      "published": "2026-10-21T03:38:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees Fuel Tightness Persisting Through Mid-2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-21/morgan-stanley-sees-fuel-tightness-persisting-through-mid-2027",
-      "source": "bloomberg.com",
-      "published": "2026-10-21T03:07:19+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Q3 2026 Capital One Financial Corp Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9133088/q3-2026-capital-one-financial-corp-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "published": "2026-10-21T03:00:09+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "CATL (300750) Target Price Cut by Citi Amid Q3 Earnings Miss",
-      "url": "https://www.gurufocus.com/news/9133075/catl-300750-target-price-cut-by-citi-amid-q3-earnings-miss",
-      "source": "gurufocus.com",
-      "published": "2026-10-21T02:50:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One expects Discover loan growth to turn positive after several quarters as marketing rises in 2027",
-      "url": "https://seekingalpha.com/news/4654982-capital-one-expects-discover-loan-growth-to-turn-positive-after-several-quarters-as-marketing",
-      "source": "seekingalpha.com",
-      "published": "2026-10-21T02:48:01+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation (COF) Q3 2026 Earnings Call Transcript | $COF",
-      "url": "https://seekingalpha.com/article/4955689-capital-one-financial-corporation-cof-q3-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-10-21T02:44:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "AI Is Splitting Software Into Winners and Losers, Citi’s Tyler Radke Says",
-      "url": "https://beincrypto.com/ai-splits-software-winners-losers-citi/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-10-21T02:22:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi's Chang on AI Trade, Private Credit",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-chang-on-ai-trade-private-credit-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-21T02:05:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "New Citi Advertising Service Is Built On Transaction Data",
-      "url": "https://www.mediapost.com/publications/article/418882/new-citi-advertising-service-is-built-on-transacti.html",
-      "source": "mediapost.com",
-      "published": "2026-10-21T01:45:53+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
