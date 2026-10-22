@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-10-22T01:24:10.453156+00:00",
+  "last_updated": "2026-10-22T06:30:25.009947+00:00",
   "headlines": [
+    {
+      "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+      "url": "https://dailyjournal.net/2026/10/22/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street/",
+      "source": "dailyjournal.net",
+      "published": "2026-10-22T04:43:23+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Legal AI startup Legora raises $550 million at $8.8 billion valuation in Atreides-led round",
+      "url": "https://economictimes.indiatimes.com/tech/funding/legal-ai-startup-legora-raises-550-million-at-8-8-billion-valuation-in-atreides-led-round/articleshow/135106962.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-22T04:18:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Buccaneers vs. Panthers: Week 7 Initial Injury Report",
       "url": "https://www.bucsnation.com/tampa-bay-buccaneers-injuries/69242/buccaneers-panthers-nfl-week-7-initial-injury-report",
@@ -145,6 +164,16 @@
       ]
     },
     {
+      "title": "BANK OF AMERICA CORP /DE/: Form 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000494/0000070858-26-000494-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-21T21:07:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Asia Centric: Morgan Stanley on Beijing’s ‘Made by China’ Shift",
       "url": "https://www.bloomberg.com/news/audio/2026-10-21/asia-centric-morgan-stanley-on-beijing-s-made-by-china-shift",
       "source": "bloomberg.com",
@@ -256,34 +285,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Nextpower (NASDAQ:NXT) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13629185/citigroup-has-lowered-expectations-for-nextpower-nasdaqnxt-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-21T18:55:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032256/0001918704-26-032256-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-21T18:52:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226051943/0001839882-26-051943-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-21T18:45:03+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
