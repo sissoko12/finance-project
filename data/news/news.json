@@ -1,11 +1,136 @@
 {
-  "last_updated": "2026-10-21T22:37:51.848610+00:00",
+  "last_updated": "2026-10-22T01:24:10.453156+00:00",
   "headlines": [
+    {
+      "title": "Buccaneers vs. Panthers: Week 7 Initial Injury Report",
+      "url": "https://www.bucsnation.com/tampa-bay-buccaneers-injuries/69242/buccaneers-panthers-nfl-week-7-initial-injury-report",
+      "source": "bucsnation.com",
+      "published": "2026-10-22T00:14:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America holds nearly 25% of Massachusetts deposits, dwarfing Citizens at 14.7%",
+      "url": "https://www.bizjournals.com/boston/research/lists/2026/largest-mass-banks-2026.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-21T23:44:14+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Profit report from SpaceX lifts tech stocks, Wall Street",
+      "url": "https://www.newspressnow.com/ap/profit-report-from-spacex-lifts-tech-stocks-wall-street/article_60ec3b92-e4cd-403a-abe9-66d487e69d59.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-21T23:08:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citi Targets Top Spot in China as It Awaits Securities License",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/citi-targets-top-spot-in-china-as-it-awaits-securities-license",
+      "source": "bloomberg.com",
+      "published": "2026-10-21T23:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "For the first time in over 20 years Nike stock trades above the average analyst price target - bottom signal",
+      "url": "https://www.reddit.com/r/stocks/comments/1xc224t/for_the_first_time_in_over_20_years_nike_stock/",
+      "source": "reddit.com",
+      "published": "2026-10-21T22:53:58+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America awards $400K to two St. Louis nonprofits for education and housing",
+      "url": "https://www.bizjournals.com/stlouis/news/2026/10/21/bank-of-america-awards-to-two-st-louis-nonprofits.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-21T22:47:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "State Street - Financial Go Bag & Halloween at Work",
+      "url": "https://www.audacy.com/podcasts/a496b45858c988a1777c13394deeb498/episodes/state_street_financial_go_bag_-8853079",
+      "source": "audacy.com",
+      "published": "2026-10-21T22:37:46+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Justin Jefferson on Vikings 5-0 start: 'Not a time to be complacent'",
+      "url": "https://www.fox9.com/video/fmc-m122q28vqlknacqm",
+      "source": "fox9.com",
+      "published": "2026-10-21T22:27:04+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Weekly Research Analysts’ Ratings Changes for AMETEK (AME)",
+      "url": "https://www.tickerreport.com/banking-finance/13629490/weekly-research-analysts-ratings-changes-for-ametek-ame.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-21T22:26:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Bank of America Corporation Investors to ...",
+      "url": "https://www.newspressnow.com/news/national_news/business/rosen-a-leading-investor-rights-law-firm-encourages-bank-of-america-corporation-investors-to/article_c429d05f-2ea6-5e27-91a2-80d0dced0899.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-21T22:21:31+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Infrastructure Partners Completes Sale of Investment in Chicago Parking Meters",
+      "url": "http://www.businesswire.com/news/home/20261021088511/en/Morgan-Stanley-Infrastructure-Partners-Completes-Sale-of-Investment-in-Chicago-Parking-Meters/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-10-21T21:50:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Stonepeak Completes Acquisition of Chicago Parking Meters",
+      "url": "http://www.businesswire.com/news/home/20261020584656/en/Stonepeak-Completes-Acquisition-of-Chicago-Parking-Meters/?feedref=JjAwJuNHiystnCoBq_hl-bf5cJp2dDuG1sawFwT3JFax4OiyRaJkMdZhFvNa8HfAevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYk6NUQsXgy9F3OpnTZDYqW7NXoqZ-9MMW5teFf45kz0w==",
+      "source": "businesswire.com",
+      "published": "2026-10-21T21:45:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Goldman Sachs raises Meta stock price target to $860 on AI momentum",
       "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-meta-stock-price-target-to-860-on-ai-momentum-93CH-4964248",
       "source": "investing.com",
       "published": "2026-10-21T21:32:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Final undeveloped parcel at Baltimore Peninsula is under contract",
+      "url": "https://www.bizjournals.com/baltimore/news/2026/10/21/baltimore-peninsula-plank-100-acres-bank-ozk.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-21T21:26:58+00:00",
       "tickers": [
         "GS"
       ]
@@ -20,22 +145,21 @@
       ]
     },
     {
-      "title": "A strong profit report from SpaceX helps lift tech stocks and Wall Street",
-      "url": "https://www.kulr8.com/news/national/a-strong-profit-report-from-spacex-helps-lift-tech-stocks-and-wall-street/article_b8c88a58-7380-5026-a5c3-2abb2b6b65b3.html",
-      "source": "kulr8.com",
-      "published": "2026-10-21T21:04:17+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
       "title": "Asia Centric: Morgan Stanley on Beijing’s ‘Made by China’ Shift",
       "url": "https://www.bloomberg.com/news/audio/2026-10-21/asia-centric-morgan-stanley-on-beijing-s-made-by-china-shift",
       "source": "bloomberg.com",
       "published": "2026-10-21T21:00:00+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Steve Cohen-backed Queens casino delayed as socialists flood little-known board meeting",
+      "url": "https://nypost.com/2026/10/21/us-news/nyc-panel-tables-design-for-cohen-hard-rock-casino-project/",
+      "source": "nypost.com",
+      "published": "2026-10-21T20:48:13+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -46,6 +170,26 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "SpaceX's Profit Report Lifts AI Stocks, Tesla",
+      "url": "https://www.newser.com/story/398580/spacexs-strong-profit-report-lifts-ai-stocks.html",
+      "source": "newser.com",
+      "published": "2026-10-21T20:33:49+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "A strong profit report from SpaceX helps lift tech stocks and Wall Street",
+      "url": "https://www.latimes.com/business/story/2026-10-21/strong-profit-report-from-spacex-helps-lift-tech-stocks-wall-street",
+      "source": "latimes.com",
+      "published": "2026-10-21T20:32:07+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -69,7 +213,7 @@
     },
     {
       "title": "U.S. Bancorp | BTIG to Host Turn Therapeutics for Virtual Fireside Chat",
-      "url": "http://www.businesswire.com/news/home/20261021279897/en/U.S.-Bancorp-BTIG-to-Host-Turn-Therapeutics-for-Virtual-Fireside-Chat/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "url": "http://www.businesswire.com/news/home/20261021279897/en/U.S.-Bancorp-BTIG-to-Host-Turn-Therapeutics-for-Virtual-Fireside-Chat/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
       "source": "businesswire.com",
       "published": "2026-10-21T20:01:00+00:00",
       "tickers": [
@@ -83,6 +227,35 @@
       "published": "2026-10-21T19:49:31+00:00",
       "tickers": [
         "USB"
+      ]
+    },
+    {
+      "title": "Why Brinker International (EAT) shares are trading lower today",
+      "url": "https://stockstory.org/us/stocks/nyse/eat/news/why-up-down/why-brinker-international-eat-shares-are-trading-lower-today",
+      "source": "stockstory.org",
+      "published": "2026-10-21T19:40:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/21/prediction-what-will-0-1-bitcoin-be-worth-by-2030/",
+      "source": "247wallst.com",
+      "published": "2026-10-21T19:30:24+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One to lean harder into marketing in 2027 as rivals ramp up spending",
+      "url": "https://www.bizjournals.com/washington/news/2026/10/21/capital-one-marketing-venture-x.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-21T19:11:23+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -111,147 +284,6 @@
       "published": "2026-10-21T18:45:03+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526427706/0001193125-26-427706-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-21T18:44:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "ManpowerGroup to Participate in J.P. Morgan Ultimate Services Investor Conference",
-      "url": "https://www.prnewswire.com/news-releases/manpowergroup-to-participate-in-jp-morgan-ultimate-services-investor-conference-302915874.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-21T18:37:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Regions Financial (NYSE:RF) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-regions-financial-nyse-rf-stock-price-target-cut-by-citigroup-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T18:36:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032251/0001918704-26-032251-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-21T18:25:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Scotiabank hires new AI officer from Wells Fargo",
-      "url": "https://financialpost.com/fp-finance/banking/scotiabank-hires-new-ai-officer-from-wells-fargo",
-      "source": "financialpost.com",
-      "published": "2026-10-21T18:19:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032249/0001918704-26-032249-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-21T18:18:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TRex Bio: Eli Lilly reports 19.9% stake after IPO",
-      "url": "https://awesomecapital.blogspot.com/2026/10/trex-bio-eli-lilly-reports-199-stake.html",
-      "source": "awesomecapital.blogspot.com",
-      "published": "2026-10-21T18:11:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wall Street gains ground after SpaceX helps lift AI stocks",
-      "url": "https://www.newspressnow.com/news/national_news/business/wall-street-gains-ground-after-spacex-helps-lift-ai-stocks/article_62094f93-8460-5843-88f3-90d53be95b12.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-21T18:11:13+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Salesforce (CRM) vs Oracle (ORCL): Which Is a Better Stock to Buy?",
-      "url": "https://www.insidermonkey.com/news/salesforce-crm-vs-oracle-orcl-which-is-a-better-stock-to-buy-1856912/",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T18:08:22+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
-      "url": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
-      "source": "cnbc.com",
-      "published": "2026-10-21T18:06:31+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "BAC Class Action Notice: Bank of America Sued for Securities Fraud After $1.2 Billion AML and Sanctions Penalties – Investors Urged to Contact BFA Law by December 15 Deadline",
-      "url": "http://www.businesswire.com/news/home/20261021557204/en/BAC-Class-Action-Notice-Bank-of-America-Sued-for-Securities-Fraud-After-1.2-Billion-AML-and-Sanctions-Penalties-%E2%80%93-Investors-Urged-to-Contact-BFA-Law-by-December-15-Deadline/?feedref=JjAwJuNHiystnCoBq_hl-crKKi9KX1y3YXWgBpvUHxUVB2jR3ZSXmalRI9Gj7z1F1NdtQuaZoAer1rQSHUmvBiiKvDltQs3V1LibPRop5a-WG-8-b3mxBdwNfj93xVh4",
-      "source": "businesswire.com",
-      "published": "2026-10-21T17:56:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Given New $225.00 Price Target at BMO Capital Markets",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-capital-one-financial-nyse-cof-given-new-22500-price-target-at-bmo-capital-markets-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T17:54:43+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Corning (NYSE:GLW) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-corning-nyse-glw-stock-price-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T17:54:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SpaceX (NASDAQ:SPCX) Stock Gets Price Target Increase from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-spacex-nasdaq-spcx-stock-gets-price-target-increase-from-jpmorgan-chase-co-2026-10-21/",
-      "source": "marketbeat.com",
-      "published": "2026-10-21T17:54:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032247/0001918704-26-032247-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-21T17:51:21+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
