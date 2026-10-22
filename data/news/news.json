@@ -1,287 +1,155 @@
 {
-  "last_updated": "2026-10-22T12:53:18.610488+00:00",
+  "last_updated": "2026-10-22T17:54:59.416569+00:00",
   "headlines": [
     {
-      "title": "Nano Nuclear Energy (NASDAQ:NNE) Given New $19.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nano-nuclear-energy-nasdaq-nne-given-new-1900-price-target-at-truist-financial-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:24:37+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226052087/0001839882-26-052087-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T17:01:46+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "MS"
       ]
     },
     {
-      "title": "Oklo (NYSE:OKLO) Stock Price Target Cut by Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-oklo-nyse-oklo-stock-price-target-cut-by-truist-financial-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:24:35+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for NuScale Power (NYSE:SMR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-nuscale-power-nyse-smr-stock-price-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:24:34+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Gold price today: Gold rate crashes to lowest in 2 months, silver price drops. Here's what to expect",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-gold-rate-crashes-to-lowest-in-2-months-silver-price-drops-heres-what-to-expect/articleshow/135118756.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-22T12:20:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
-      "url": "https://www.investing.com/news/stock-market-news/sk-hynix-could-join-the-nasdaq-100-if-it-expands-its-adr-float-goldman-4965914",
-      "source": "investing.com",
-      "published": "2026-10-22T12:13:16+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Celularity regains compliance with Nasdaq periodic reporting requirement | $CELU $C",
-      "url": "https://seekingalpha.com/news/4655863-celularity-regains-compliance-with-nasdaq-periodic-reporting-requirement",
-      "source": "seekingalpha.com",
-      "published": "2026-10-22T12:11:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Las Vegas Sands (NYSE:LVS) Price Target Cut to $45.00 by Analysts at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-las-vegas-sands-nyse-lvs-price-target-cut-to-4500-by-analysts-at-bank-of-america-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:06:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Biogen (NASDAQ:BIIB) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-biogen-nasdaq-biib-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:06:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Forecasts Strong Price Appreciation for Meta Platforms (NASDAQ:META) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-forecasts-strong-price-appreciation-for-meta-platforms-nasdaq-meta-stock-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:06:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX (NASDAQ:SPCX) Stock Gets Price Target Boost from Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-spacex-nasdaq-spcx-stock-gets-price-target-boost-from-bank-of-america-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T12:06:34+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Investors accuse Bank of America of downplaying problems with money laundering before $1.2B fine",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/10/22/investors-sue-bank-of-america-12b-laundering-fine.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-22T11:51:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Atlas Energy Solutions Announces $424 Million Senior Secured Bridge Facility Provided by Goldman Sachs and Barclays",
-      "url": "http://www.businesswire.com/news/home/20261022111506/en/Atlas-Energy-Solutions-Announces-424-Million-Senior-Secured-Bridge-Facility-Provided-by-Goldman-Sachs-and-Barclays/?feedref=JjAwJuNHiystnCoBq_hl-RUhergpzmxLOUSc4WCCbz_B1XY7Ia_QvRyPB3BquP7h6i8aU6mBhBCITifNTyOAv1ms7ezsDpv-ktIH1aXVMLM0sbM9ygdgEy9R55hI7tpe",
-      "source": "businesswire.com",
-      "published": "2026-10-22T11:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "J.P. Morgan backs Benelux insurers on valuation discount, shareholder returns",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-backs-benelux-insurers-on-valuation-discount-shareholder-returns-4965635",
-      "source": "investing.com",
-      "published": "2026-10-22T11:27:46+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032334/0001918704-26-032334-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T17:01:32+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "SEDA Experts Names Former Goldman Sachs Partner Richard Campbell-Breeden As Managing Director",
-      "url": "https://pulse2.com/seda-experts-names-former-goldman-sachs-partner-richard-campbell-breeden-as-managing-director/",
-      "source": "pulse2.com",
-      "published": "2026-10-22T11:24:20+00:00",
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226052082/0001839882-26-052082-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T16:46:41+00:00",
       "tickers": [
-        "GS"
+        "MS"
       ]
     },
     {
-      "title": "Nebius lands $3.5 billion credit facility from Citi to fuel AI build-out",
-      "url": "https://cryptobriefing.com/nebius-citi-credit-facility-ai-expansion/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-22T11:16:01+00:00",
+      "title": "Bank will not / cannot close a credit card?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xcnk28/bank_will_not_cannot_close_a_credit_card/",
+      "source": "reddit.com",
+      "published": "2026-10-22T16:36:25+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ultrapar Participacoes (NYSE:UGP) Stock Gets Downgrade from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ultrapar-participacoes-nyse-ugp-stock-gets-downgrade-from-jpmorgan-chase-co-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T11:12:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Aegon (NYSE:AEG) Rating Lowered to Neutral at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-aegon-nyse-aeg-rating-lowered-to-neutral-at-jpmorgan-chase-co-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T11:06:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Initiates Coverage on Electra Therapeutics (NASDAQ:ETRA)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-electra-therapeutics-nasdaq-etra-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T11:06:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CME Group (NASDAQ:CME) Upgraded to \"Overweight\" at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cme-group-nasdaq-cme-upgraded-to-overweight-at-jpmorgan-chase-co-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T11:06:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "What Invesco KBW Bank ETF (KBWB) Bought: Wells Fargo Leads on Tuesday",
-      "url": "https://www.gurufocus.com/news/9136138/what-invesco-kbw-bank-etf-kbwb-bought-wells-fargo-leads-on-tuesday",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T11:05:05+00:00",
-      "tickers": [
-        "JPM",
         "WFC",
         "C"
       ]
     },
     {
-      "title": "State Street Consumer Discretionary (XLY) Adds Amazon and Tesla on Oct. 20",
-      "url": "https://www.gurufocus.com/news/9136133/state-street-consumer-discretionary-xly-adds-amazon-and-tesla-on-oct-20",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T11:04:52+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052075/0001839882-26-052075-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T16:35:36+00:00",
       "tickers": [
-        "STT"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "What State Street Energy Select Sector SPDR ETF (XLE) Bought: Exxon Leads on Tuesday",
-      "url": "https://www.gurufocus.com/news/9136129/what-state-street-energy-select-sector-spdr-etf-xle-bought-exxon-leads-on-tuesday",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T11:04:37+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032328/0001918704-26-032328-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T16:31:57+00:00",
       "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "State Street Consumer Staples SPDR (XLP) Sells Walmart and Costco on Oct. 20",
-      "url": "https://www.gurufocus.com/news/9136124/state-street-consumer-staples-spdr-xlp-sells-walmart-and-costco-on-oct-20",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T11:04:18+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526428618/0001193125-26-428618-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T16:24:23+00:00",
       "tickers": [
-        "STT"
+        "GS"
       ]
     },
     {
-      "title": "State Street SPDR S&P 500 ETF (SPY) Sells $190.9 Million of NVIDIA on Tuesday",
-      "url": "https://www.gurufocus.com/news/9136115/state-street-spdr-sp-500-etf-spy-sells-1909-million-of-nvidia-on-tuesday",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T11:03:50+00:00",
+      "title": "1 Wall Street Analyst Sees the S&P 500 Climbing to 8,000 by Year-End. Is It Time to Buy Stocks?",
+      "url": "https://www.fool.com/investing/2026/10/22/1-wall-street-analyst-sees-the-sp-500-climbing-to/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-22T16:23:00+00:00",
       "tickers": [
-        "STT"
+        "GS"
       ]
     },
     {
-      "title": "Nebius secures $3.5 billion financing facility with Citi",
-      "url": "http://www.businesswire.com/news/home/20261022371869/en/Nebius-secures-3.5-billion-financing-facility-with-Citi/?feedref=JjAwJuNHiystnCoBq_hl-aWOJSq7maz1kUlsOIrkZM4xz5QOdfJiTifxwfmkU5A67fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2KQOELXF1Klv27yoigQe38g==",
-      "source": "businesswire.com",
-      "published": "2026-10-22T11:00:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016000/0000950103-26-016000-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T16:20:48+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Maersk slides as Goldman cuts stock to Sell on fading catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/maersk-slides-as-goldman-cuts-stock-to-sell-on-fading-catalysts-4965417",
-      "source": "investing.com",
-      "published": "2026-10-22T10:56:03+00:00",
+      "title": "The hedge fund talent war might finally be slowing down",
+      "url": "https://www.businessinsider.com/hedge-fund-talent-war-cooling-sma-2026-10",
+      "source": "businessinsider.com",
+      "published": "2026-10-22T16:17:49+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Central banks around the world are quietly stockpiling four times more gold than usual and are moving it out of the U.S.",
-      "url": "https://fortune.com/2026/10/22/central-bank-stockpiling-gold-china-geopolitics-storage-reserves/",
-      "source": "fortune.com",
-      "published": "2026-10-22T10:54:39+00:00",
+      "title": "AI agents are causing massive headaches for banks.",
+      "url": "https://www.theverge.com/tech/1016768/ai-agents-are-causing-massive-headaches-for-banks",
+      "source": "theverge.com",
+      "published": "2026-10-22T16:09:43+00:00",
       "tickers": [
-        "GS"
+        "BAC",
+        "C",
+        "MS"
       ]
     },
     {
-      "title": "Is Capital One Financial a Buy After Its Latest Earnings Report?",
-      "url": "https://www.fool.com/investing/2026/10/22/is-capital-one-financial-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-22T10:21:01+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032320/0001918704-26-032320-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T16:09:43+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "The PNC Financial Services Group, Inc $PNC Stock: Vest Financial LLC Cuts Stake",
-      "url": "https://www.tickerreport.com/banking-finance/13630257/the-pnc-financial-services-group-inc-pnc-stock-vest-financial-llc-cuts-stake.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-22T10:17:24+00:00",
+      "title": "Morgan Stanley Sustainable Signals: Global Survey Shows Institutional Investors Expect Modest Growth in Sustainable Investment Allocations",
+      "url": "http://www.businesswire.com/news/home/20261022735488/en/Morgan-Stanley-Sustainable-Signals-Global-Survey-Shows-Institutional-Investors-Expect-Modest-Growth-in-Sustainable-Investment-Allocations/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-10-22T16:00:00+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "MS"
       ]
     },
     {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Sold by Vest Financial LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-sold-by-vest-financial-llc-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T10:16:43+00:00",
+      "title": "J.P. Morgan Asset Management Expands Access to Its Tokenized Money Market Funds on Solana",
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-expands-access-to-its-tokenized-money-market-funds-on-solana-302917188.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-22T16:00:00+00:00",
       "tickers": [
-        "C",
-        "PNC"
+        "JPM"
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Bank of America Corporation (NYSE: BAC) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm.",
+      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-bank-of-america-corporation-nyse-bac--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302916623.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-22T16:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "TerraPay Adds Payee Verification to J.P. Morgan’s Liink Network",
+      "url": "https://www.pymnts.com/news/banking/2026/terrapay-adds-payee-verification-to-j-p-morgans-liink-network/",
+      "source": "pymnts.com",
+      "published": "2026-10-22T15:58:11+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
