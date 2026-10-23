@@ -1,11 +1,171 @@
 {
-  "last_updated": "2026-10-23T00:06:08.005905+00:00",
+  "last_updated": "2026-10-23T05:14:20.171923+00:00",
   "headlines": [
+    {
+      "title": "Matrix-Free Local Multigrid for $C^1$ Hermite Discretizations on GPUs",
+      "url": "https://arxiv.org/abs/2610.30308",
+      "source": "arxiv.org",
+      "published": "2026-10-23T04:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Unvetted AI Agents Are Accessing US Bank Accounts",
+      "url": "https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "source": "slashdot.org",
+      "published": "2026-10-23T03:30:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Beacon Financial Corp (BBT) Q3 2026 Earnings Call Highlights: Margin Expansion and Capital ...",
+      "url": "https://www.gurufocus.com/news/9138531/beacon-financial-corp-bbt-q3-2026-earnings-call-highlights-margin-expansion-and-capital-strength-offset-eps-dip",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T03:05:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Bank of America, 10% owner, sells $1,045 in BNY Mellon stock",
+      "url": "https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-1045-in-bny-mellon-stock-93CH-4967974",
+      "source": "investing.com",
+      "published": "2026-10-23T03:01:12+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "BK"
+      ]
+    },
+    {
+      "title": "On Oct. 7, 2026, Pittsburgh Penguins goaltender Arturs Silovs in net against the Washington Capitals during the second period at Capital One Arena in Washington, D.C..",
+      "url": "https://thebrunswicknews.com/sports/national_sports/on-oct-7-2026-pittsburgh-penguins-goaltender-arturs-silovs-in-net-against-the-washington-capitals/image_2d5752a0-64ad-5fc0-9f7c-9c0ed3d4b7df.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-10-23T02:42:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Bank of America, 10% owner, sells $972 in Nuveen Municipal Credit Fund",
+      "url": "https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-972-in-nuveen-municipal-credit-fund-93CH-4967946",
+      "source": "investing.com",
+      "published": "2026-10-23T02:16:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Financial Review: Morgan Stanley (NYSE:MS) & Eagle Point Credit (NYSE:ECC)",
+      "url": "https://www.tickerreport.com/banking-finance/13632548/financial-review-morgan-stanley-nysems-eagle-point-credit-nyseecc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T02:14:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TRUIST FINANCIAL CORP Opens New Position in Lion Copper Corp (LCGMD) With 1,105,122-Share Purchase",
+      "url": "https://www.gurufocus.com/news/9138461/truist-financial-corp-opens-new-position-in-lion-copper-corp-lcgmd-with-1105122share-purchase",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:42:41+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Trims DigitalOcean Holdings Inc (DOCN) Stake -- Shares Look 106% ...",
+      "url": "https://www.gurufocus.com/news/9138447/jpmorgan-chase-co-trims-digitalocean-holdings-inc-docn-stake-shares-look-106-overvalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:36:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Adds 3M Co (MMM) Stake -- Shares Look 18% Overvalued on GF Value",
+      "url": "https://www.gurufocus.com/news/9138446/jpmorgan-chase-co-adds-3m-co-mmm-stake-shares-look-18-overvalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:35:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Trims Andersen Group Inc (ANDG) Stake by 9.53%",
+      "url": "https://www.gurufocus.com/news/9138445/jpmorgan-chase-co-trims-andersen-group-inc-andg-stake-by-953",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:35:22+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Adds 2.1 Million Aon PLC (AON) Shares -- Stock Trades 22% Below GF Value",
+      "url": "https://www.gurufocus.com/news/9138444/jpmorgan-chase-co-adds-21-million-aon-plc-aon-shares-stock-trades-22-below-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:34:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Trims Yum Brands Inc (YUM) Stake -- Shares Look 9% Undervalued on GF Value",
+      "url": "https://www.gurufocus.com/news/9138443/jpmorgan-chase-co-trims-yum-brands-inc-yum-stake-shares-look-9-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:34:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Adds uniQure NV (QURE) -- Shares Look 185% Overvalued on GF Value",
+      "url": "https://www.gurufocus.com/news/9138442/jpmorgan-chase-co-adds-uniqure-nv-qure-shares-look-185-overvalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T01:34:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Trump Staffer McHenry Escorted From NBA Game After Throwing Drink at a Fan in Heated Encounter",
+      "url": "https://www.essentiallysports.com/nba-active-basketball-news-trump-staffer-mchenry-escorted-from-nba-game-after-throwing-drink-at-a-fan-in-heated-encounter/",
+      "source": "essentiallysports.com",
+      "published": "2026-10-23T01:02:02+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Shepley Bulfinch Opens New 8,750-Square-Foot Boston Studio at 200 State Street",
+      "url": "https://bostonrealestatetimes.com/shepley-bulfinch-opens-new-8750-square-foot-boston-studio-at-200-state-street/",
+      "source": "bostonrealestatetimes.com",
+      "published": "2026-10-23T00:47:17+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "63 Reasons Point to CoreWeave’s Default. Yet Goldman Sachs Upgraded It to a 'Buy' for 1 Key Reason.",
       "url": "https://www.barchart.com/story/news/8343138/63-reasons-point-to-coreweaves-default-yet-goldman-sachs-upgraded-it-to-a-buy-for-1-key-reason",
       "source": "barchart.com",
       "published": "2026-10-22T23:05:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ola Electric shares dip 5% after Goldman Sachs downgrades stock to Sell. Here’s why",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-dip-5-after-goldman-sachs-downgrades-stock-to-sell-heres-why/articleshow/135134048.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-22T22:41:39+00:00",
       "tickers": [
         "GS"
       ]
@@ -118,123 +278,6 @@
       "published": "2026-10-22T21:00:28+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Beacon Financial Corporation (BBT) Q3 2026 Earnings Call Transcript | $BBT",
-      "url": "https://seekingalpha.com/article/4956617-beacon-financial-corporation-bbt-q3-2026-earnings-call-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-10-22T20:58:04+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Wells Fargo names Santos consumer banking chief and Van Beurden as AI lead",
-      "url": "https://seekingalpha.com/news/4656293-wells-fargo-names-santos-consumer-banking-chief-and-van-beurden-as-ai-lead",
-      "source": "seekingalpha.com",
-      "published": "2026-10-22T20:57:51+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526429072/0001193125-26-429072-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T20:56:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Banks dealing with rogue AI agents is 'a problem that is facing us today'",
-      "url": "https://finance.yahoo.com/video/banks-dealing-with-rogue-ai-agents-is-a-problem-that-is-facing-us-today-205453938.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-22T20:54:53+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Unauthorized AI Agents Are Already Inside Bank Accounts; Here's What JPMorgan, Citi, BofA, Others Are Doing",
-      "url": "https://www.ibtimes.co.uk/us-banks-restrict-third-party-ai-agents-1827325",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-22T20:54:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Biogen +5% on BofA Price Target Hike Ahead of “Relatively Quiet” Q3",
-      "url": "https://www.tikr.com/blog/biogen-5-on-bofa-price-target-hike-ahead-of-relatively-quiet-q3?ref=yahoofinance&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-10-22T20:52:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032388/0001918704-26-032388-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T20:45:08+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Research Analysts’ Upgrades for October 22nd (CME, EFX, HAL, IGM, IONS, KMI, KSS, OHI, TSLA, WHF)",
-      "url": "https://www.tickerreport.com/banking-finance/13631837/research-analysts-upgrades-for-october-22nd-cme-efx-hal-igm-ions-kmi-kss-ohi-tsla-whf.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-22T20:44:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000500/0000070858-26-000500-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T20:34:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America CEO honored at $32M fundraising event against antisemitism",
-      "url": "https://www.foxbusiness.com/business-leaders/bank-america-ceo-honored-32m-fundraising-event-against-antisemitism",
-      "source": "foxbusiness.com",
-      "published": "2026-10-22T20:34:42+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) Price Target Raised to $905.00",
-      "url": "https://www.tickerreport.com/banking-finance/13631814/meta-platforms-nasdaqmeta-price-target-raised-to-905-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-22T20:31:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One boosts Philadelphia-area deposits with acquisition of Discover",
-      "url": "https://www.bizjournals.com/philadelphia/research/lists/2026/greater-philadelphia-largest-banks-deposits.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-22T20:26:30+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
