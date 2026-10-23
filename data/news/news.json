@@ -1,14 +1,201 @@
 {
-  "last_updated": "2026-10-22T21:25:10.850698+00:00",
+  "last_updated": "2026-10-23T00:06:08.005905+00:00",
   "headlines": [
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032387/0001918704-26-032387-index.htm",
+      "title": "63 Reasons Point to CoreWeave’s Default. Yet Goldman Sachs Upgraded It to a 'Buy' for 1 Key Reason.",
+      "url": "https://www.barchart.com/story/news/8343138/63-reasons-point-to-coreweaves-default-yet-goldman-sachs-upgraded-it-to-a-buy-for-1-key-reason",
+      "source": "barchart.com",
+      "published": "2026-10-22T23:05:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Saba Capital Management buys $262,611 of BNY Mellon Strategic Municipals",
+      "url": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
+      "source": "investing.com",
+      "published": "2026-10-22T22:01:08+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Kyler Murray on Vikings' 5-0 start: 'Winning is fun'",
+      "url": "https://www.fox9.com/video/fmc-0epc9pr1bt6e36b6",
+      "source": "fox9.com",
+      "published": "2026-10-22T21:56:16+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526429136/0001193125-26-429136-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-22T20:41:03+00:00",
+      "published": "2026-10-22T21:28:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citigroup convenes analysts in Mexico City to prepare Banamex IPO model -Bloomberg",
+      "url": "https://www.investing.com/news/stock-market-news/citigroup-convenes-analysts-in-mexico-city-to-prepare-banamex-ipo-model-bloomberg-4967637",
+      "source": "investing.com",
+      "published": "2026-10-22T21:23:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026111753/0001213900-26-111753-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T21:18:16+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032396/0001918704-26-032396-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T21:15:56+00:00",
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000110465926118193/0001104659-26-118193-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T21:15:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "State Street (NYSE:STT) Stock: Insider Hanley Ronald O Sells 14,554 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-state-street-nyse-stt-stock-insider-hanley-ronald-o-sells-14554-shares-2026-10-22/",
+      "source": "marketbeat.com",
+      "published": "2026-10-22T21:08:13+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032394/0001918704-26-032394-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T21:06:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052138/0001839882-26-052138-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T21:05:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "China’s Hidden Gold Buying? Goldman Sachs Estimates 128% More Than Official Figures",
+      "url": "https://blockonomi.com/chinas-hidden-gold-buying-goldman-sachs-estimates-128-more-than-official-figures/",
+      "source": "blockonomi.com",
+      "published": "2026-10-22T21:03:31+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wow, Wow, Wow -- The Safe Moat Is CASH! October 22, 2026",
+      "url": "https://themilliondollarway.blogspot.com/2026/10/wow-wow-wow-safe-moat-is-cash-october.html",
+      "source": "themilliondollarway.blogspot.com",
+      "published": "2026-10-22T21:00:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Beacon Financial Corporation (BBT) Q3 2026 Earnings Call Transcript | $BBT",
+      "url": "https://seekingalpha.com/article/4956617-beacon-financial-corporation-bbt-q3-2026-earnings-call-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-10-22T20:58:04+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Wells Fargo names Santos consumer banking chief and Van Beurden as AI lead",
+      "url": "https://seekingalpha.com/news/4656293-wells-fargo-names-santos-consumer-banking-chief-and-van-beurden-as-ai-lead",
+      "source": "seekingalpha.com",
+      "published": "2026-10-22T20:57:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526429072/0001193125-26-429072-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T20:56:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Banks dealing with rogue AI agents is 'a problem that is facing us today'",
+      "url": "https://finance.yahoo.com/video/banks-dealing-with-rogue-ai-agents-is-a-problem-that-is-facing-us-today-205453938.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-22T20:54:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Unauthorized AI Agents Are Already Inside Bank Accounts; Here's What JPMorgan, Citi, BofA, Others Are Doing",
+      "url": "https://www.ibtimes.co.uk/us-banks-restrict-third-party-ai-agents-1827325",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-22T20:54:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Biogen +5% on BofA Price Target Hike Ahead of “Relatively Quiet” Q3",
+      "url": "https://www.tikr.com/blog/biogen-5-on-bofa-price-target-hike-ahead-of-relatively-quiet-q3?ref=yahoofinance&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-22T20:52:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032388/0001918704-26-032388-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-22T20:45:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Upgrades for October 22nd (CME, EFX, HAL, IGM, IONS, KMI, KSS, OHI, TSLA, WHF)",
+      "url": "https://www.tickerreport.com/banking-finance/13631837/research-analysts-upgrades-for-october-22nd-cme-efx-hal-igm-ions-kmi-kss-ohi-tsla-whf.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T20:44:46+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -22,212 +209,32 @@
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052136/0001839882-26-052136-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T20:29:30+00:00",
+      "title": "Bank of America CEO honored at $32M fundraising event against antisemitism",
+      "url": "https://www.foxbusiness.com/business-leaders/bank-america-ceo-honored-32m-fundraising-event-against-antisemitism",
+      "source": "foxbusiness.com",
+      "published": "2026-10-22T20:34:42+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526428969/0001193125-26-428969-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T20:21:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Visa to Participate in Upcoming Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20261022185316/en/Visa-to-Participate-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-10-22T20:05:00+00:00",
+      "title": "Meta Platforms (NASDAQ:META) Price Target Raised to $905.00",
+      "url": "https://www.tickerreport.com/banking-finance/13631814/meta-platforms-nasdaqmeta-price-target-raised-to-905-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T20:31:24+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Wells Fargo Announces Kleber Santos to Lead Consumer Banking and Lending; Saul Van Beurden to Lead AI for the Company",
-      "url": "http://www.businesswire.com/news/home/20261022974723/en/Wells-Fargo-Announces-Kleber-Santos-to-Lead-Consumer-Banking-and-Lending-Saul-Van-Beurden-to-Lead-AI-for-the-Company/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-10-22T20:05:00+00:00",
+      "title": "Capital One boosts Philadelphia-area deposits with acquisition of Discover",
+      "url": "https://www.bizjournals.com/philadelphia/research/lists/2026/greater-philadelphia-largest-banks-deposits.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-22T20:26:30+00:00",
       "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan brings 2 tokenized money market funds to Solana for US investors",
-      "url": "https://crypto.news/jpmorgan-mony-jltxx-tokenized-funds-solana/",
-      "source": "crypto.news",
-      "published": "2026-10-22T20:02:24+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000089183626000066/0000891836-26-000066-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T20:01:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Hedge Funds Are Ramping Up Stock Shorts to Five-Year Highs. Goldman is Warning of a Squeeze.",
-      "url": "https://www.ibtimes.com/hedge-funds-are-ramping-stock-shorts-five-year-highs-goldman-warning-squeeze-3808879",
-      "source": "ibtimes.com",
-      "published": "2026-10-22T19:56:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WH Maintained by Morgan Stanley -- Price Target Raised to $97",
-      "url": "https://www.gurufocus.com/news/9137499/wh-maintained-by-morgan-stanley-price-target-raised-to-97",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:41:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VIK Maintained by Morgan Stanley -- Price Target Raised to $94.00",
-      "url": "https://www.gurufocus.com/news/9137498/vik-maintained-by-morgan-stanley-price-target-raised-to-9400",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:40:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SEIC Maintained by Morgan Stanley -- Price Target Raised to $127",
-      "url": "https://www.gurufocus.com/news/9137497/seic-maintained-by-morgan-stanley-price-target-raised-to-127",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:40:04+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PEB Maintained by Morgan Stanley -- Price Target Raised to $15.00",
-      "url": "https://www.gurufocus.com/news/9137496/peb-maintained-by-morgan-stanley-price-target-raised-to-1500",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:39:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "NTRS Maintains Underweight by Morgan Stanley -- Price Target Raised to $177",
-      "url": "https://www.gurufocus.com/news/9137495/ntrs-maintains-underweight-by-morgan-stanley-price-target-raised-to-177",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:38:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "NP Maintained by Morgan Stanley -- Price Target Lowered to $35.00",
-      "url": "https://www.gurufocus.com/news/9137494/np-maintained-by-morgan-stanley-price-target-lowered-to-3500",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:38:08+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MCO Maintained by Morgan Stanley -- Price Target Raised to $480",
-      "url": "https://www.gurufocus.com/news/9137493/mco-maintained-by-morgan-stanley-price-target-raised-to-480",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:37:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "VAC Maintained by Morgan Stanley -- Price Target Lowered to $63",
-      "url": "https://www.gurufocus.com/news/9137492/vac-maintained-by-morgan-stanley-price-target-lowered-to-63",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:36:55+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MAR Maintains Overweight Rating by Morgan Stanley -- Price Target Raised to $403",
-      "url": "https://www.gurufocus.com/news/9137491/mar-maintains-overweight-rating-by-morgan-stanley-price-target-raised-to-403",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:36:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "IVZ Maintained by Morgan Stanley -- Price Target Raised to $32.00",
-      "url": "https://www.gurufocus.com/news/9137490/ivz-maintained-by-morgan-stanley-price-target-raised-to-3200",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:35:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "H Maintained by Morgan Stanley -- Price Target Raised to $224",
-      "url": "https://www.gurufocus.com/news/9137489/h-maintained-by-morgan-stanley-price-target-raised-to-224",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:35:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "HLT Maintains Overweight Rating by Morgan Stanley -- Price Target Raised to $349",
-      "url": "https://www.gurufocus.com/news/9137488/hlt-maintains-overweight-rating-by-morgan-stanley-price-target-raised-to-349",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:34:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ELV Maintains by Morgan Stanley -- Price Target Raised to $449",
-      "url": "https://www.gurufocus.com/news/9137487/elv-maintains-by-morgan-stanley-price-target-raised-to-449",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:33:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CWK Maintained by Morgan Stanley -- Price Target Lowered to $15.00",
-      "url": "https://www.gurufocus.com/news/9137486/cwk-maintained-by-morgan-stanley-price-target-lowered-to-1500",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:33:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CHH Maintained by Morgan Stanley -- Price Target Raised to $93.00",
-      "url": "https://www.gurufocus.com/news/9137485/chh-maintained-by-morgan-stanley-price-target-raised-to-9300",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:32:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "LRCX Maintained by Morgan Stanley -- Price Target Lowered to $339",
-      "url": "https://www.gurufocus.com/news/9137482/lrcx-maintained-by-morgan-stanley-price-target-lowered-to-339",
-      "source": "gurufocus.com",
-      "published": "2026-10-22T19:31:18+00:00",
-      "tickers": [
-        "MS"
+        "C",
+        "COF"
       ]
     }
   ]
