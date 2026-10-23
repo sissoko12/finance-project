@@ -1,286 +1,284 @@
 {
-  "last_updated": "2026-10-23T10:25:50.622709+00:00",
+  "last_updated": "2026-10-23T15:24:19.400968+00:00",
   "headlines": [
     {
-      "title": "Citigroup Inc. $C Shares Bought by Vest Financial LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-bought-by-vest-financial-llc-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T09:20:46+00:00",
+      "title": "Hedge Funds Suffer Widest Daily Drawdown Since Covid",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/hedge-funds-suffer-widest-daily-drawdown-since-covid-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-23T14:42:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032423/0001918704-26-032423-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T14:34:14+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "China approves Citigroup securities venture after nearly five-year wait",
-      "url": "https://seekingalpha.com/news/4656461-china-approves-citigroup-securities-venture-after-nearly-five-year-wait",
+      "title": "Goldman Sachs raised to Buy at Freedom Broker",
+      "url": "https://seekingalpha.com/news/4656576-goldman-sachs-raised-to-buy-at-freedom-broker",
       "source": "seekingalpha.com",
-      "published": "2026-10-23T09:11:34+00:00",
+      "published": "2026-10-23T14:25:04+00:00",
       "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO Says Individuals Must Be Held Accountable for AI Failures",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-ceo-says-individuals-must-be-held-accountable-ai-failures/",
+      "source": "pymnts.com",
+      "published": "2026-10-23T14:16:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Hedge Funds Are Shorting Stocks at Near-Record Levels",
+      "url": "https://247wallst.com/investing/2026/10/23/hedge-funds-are-shorting-stocks-at-near-record-levels/",
+      "source": "247wallst.com",
+      "published": "2026-10-23T14:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032416/0001918704-26-032416-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T14:06:31+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Citi wins licence to set up fully-owned China securities unit",
-      "url": "https://www.investing.com/news/economy-news/citi-wins-licence-to-set-up-fullyowned-china-securities-unit-4968501",
+      "title": "Truist Securities reiterates Buy on Bank of America stock",
+      "url": "https://www.investing.com/news/analyst-ratings/truist-securities-reiterates-buy-on-bank-of-america-stock-93CH-4969818",
       "source": "investing.com",
-      "published": "2026-10-23T09:06:41+00:00",
+      "published": "2026-10-23T14:02:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032414/0001918704-26-032414-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T13:59:46+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "The Charles Schwab Corporation $SCHW Shares Bought by Sowell Financial Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-bought-by-sowell-financial-services-llc-2026-10-23/",
+      "title": "Four banking giants control nearly three-quarters of Silicon Valley deposits",
+      "url": "https://www.bizjournals.com/sanjose/research/lists/2026/banks-by-local-deposit-market-share-2026.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-23T13:49:19+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Norwegian Cruise Line cut to underweight as yield recovery faces risks—J.P. Morgan",
+      "url": "https://seekingalpha.com/news/4656545-norwegian-cruise-line-cut-to-underweight-as-yield-recovery-faces-risks---jp-morgan",
+      "source": "seekingalpha.com",
+      "published": "2026-10-23T13:34:59+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA maps 2027 scenarios: AI bubble, market breadth, or railroad-style bust",
+      "url": "https://seekingalpha.com/news/4656571-bofa-maps-2027-scenarios-ai-bubble-market-breadth-or-railroad-style-bust",
+      "source": "seekingalpha.com",
+      "published": "2026-10-23T13:32:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "AAL Maintained by Morgan Stanley -- Price Target Lowered to $22.00",
+      "url": "https://www.gurufocus.com/news/9139557/aal-maintained-by-morgan-stanley-price-target-lowered-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:26:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BE Maintained by Morgan Stanley -- Price Target Raised to $335",
+      "url": "https://www.gurufocus.com/news/9139570/be-maintained-by-morgan-stanley-price-target-raised-to-335",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:26:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CRWV Maintained by Morgan Stanley -- Price Target Lowered to $70",
+      "url": "https://www.gurufocus.com/news/9139567/crwv-maintained-by-morgan-stanley-price-target-lowered-to-70",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:26:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Pharvaris (PHVS) Shares Rise 3% Premarket After Bank of America Upgrade to Buy",
+      "url": "https://www.gurufocus.com/news/9139589/pharvaris-phvs-shares-rise-3-premarket-after-bank-of-america-upgrade-to-buy",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:26:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "RNG Maintains Rating by Morgan Stanley -- Price Target Raised to $91",
+      "url": "https://www.gurufocus.com/news/9139564/rng-maintains-rating-by-morgan-stanley-price-target-raised-to-91",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:26:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "WDC Maintained by Morgan Stanley -- Price Target Raised to $668",
+      "url": "https://www.gurufocus.com/news/9139568/wdc-maintained-by-morgan-stanley-price-target-raised-to-668",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:26:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Initiates Coverage on Skydance (NYSE:SKYD)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-skydance-nyse-skyd-upgraded-to-neutral-at-jpmorgan-chase-co-2026-10-23/",
       "source": "marketbeat.com",
-      "published": "2026-10-23T09:05:04+00:00",
+      "published": "2026-10-23T13:24:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Composition vs. Returns: Breaking Down the Structural Drift Between KBE and KRE",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/23/composition-vs-returns-breaking-down-the-structural-drift-between-kbe-and-kre/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-23T13:17:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Why Charles Schwab Stock Could Benefit If Short Term Rates Stay Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-charles-schwab-stock-could-130922785.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-23T13:09:22+00:00",
       "tickers": [
         "C",
         "SCHW"
       ]
     },
     {
-      "title": "Wisconsin's largest banks grew deposits by 4% last year",
-      "url": "https://www.bizjournals.com/milwaukee/research/lists/2026/largest-banks.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-23T08:48:10+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "KuCoin Adds USDT Perpetuals Tied To Stocks And ETFs",
-      "url": "https://www.newsbtc.com/derivatives/kucoin-usdt-perpetuals-stocks-etfs-october-21/",
-      "source": "newsbtc.com",
-      "published": "2026-10-23T08:15:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Stake Boosted by E. Ohman J or Asset Management AB",
-      "url": "https://www.tickerreport.com/banking-finance/13633020/capital-one-financial-corporation-cof-stake-boosted-by-e-ohman-j-or-asset-management-ab.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T08:03:37+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "State Street SPDR Portfolio S&P 500 ETF $SPYM Shares Newly Bought by Diligent Investors LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13633018/state-street-spdr-portfolio-sp-500-etf-spym-shares-newly-bought-by-diligent-investors-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T08:03:26+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "BofA Names Top EU Airline Stocks Ahead of Earnings Season",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-names-top-eu-airline-stocks-ahead-of-earnings-season-4968178",
-      "source": "investing.com",
-      "published": "2026-10-23T07:22:43+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "231,905 U.S. Bancorp $USB Shares Acquired by Brookstone Capital Management",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-231905-us-bancorp-usb-shares-acquired-by-brookstone-capital-management-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T07:13:11+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Truist Financial Corporation $TFC Stock: Axxcess Wealth Management LLC Reduces Position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-truist-financial-corporation-tfc-stock-axxcess-wealth-management-llc-reduces-position-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T07:12:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Axxcess Wealth Management LLC Sells 32,758 Shares of Citigroup Inc. $C",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-axxcess-wealth-management-llc-sells-32758-shares-of-citigroup-inc-c-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T07:12:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Robinhood Markets (NASDAQ:HOOD) Price Target Raised to $115.00",
-      "url": "https://www.tickerreport.com/banking-finance/13632986/robinhood-markets-nasdaqhood-price-target-raised-to-115-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T07:10:48+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AI Agents Are Entering US Bank Accounts: JPMorgan, Bank of America and Others Are Fighting Back",
-      "url": "https://www.ibtimes.sg/ai-agents-are-entering-us-bank-accounts-jpmorgan-bank-america-others-are-fighting-back-95425",
-      "source": "ibtimes.sg",
-      "published": "2026-10-23T07:10:03+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "Unauthorized AI Agents Are Operating Inside US Bank Accounts, Banks Say",
-      "url": "https://www.technology.org/2026/10/23/ai-agents-us-bank-accounts-jpmorgan-morgan-stanley-blocks/",
-      "source": "technology.org",
-      "published": "2026-10-23T07:05:20+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "AMF Tjanstepension AB Sells 1,680 Shares of The Goldman Sachs Group, Inc. $GS",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amf-tjanstepension-ab-sells-1680-shares-of-the-goldman-sachs-group-inc-gs-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T07:05:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "70,400 Shares in Morgan Stanley $MS Bought by Adams Diversified Equity Fund Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-70400-shares-in-morgan-stanley-ms-bought-by-adams-diversified-equity-fund-inc-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T07:04:41+00:00",
+      "title": "PNFP Maintained by Morgan Stanley -- Price Target Raised to $140",
+      "url": "https://www.gurufocus.com/news/9139536/pnfp-maintained-by-morgan-stanley-price-target-raised-to-140",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T13:03:42+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Hedge Funds Log Widest Daily Drawdown Since Covid in Stock Rout",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-log-widest-daily-drawdown-since-covid-in-stock-rout",
-      "source": "bloomberg.com",
-      "published": "2026-10-23T06:17:21+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Red Rock Resorts (NASDAQ:RRR) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13632965/red-rock-resorts-nasdaqrrr-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
+      "title": "ImmuPharma (LON:IMM) Shares Down 9.4% – Time to Sell?",
+      "url": "https://www.tickerreport.com/banking-finance/13633699/immupharma-lonimm-shares-down-9-4-time-to-sell.html",
       "source": "tickerreport.com",
-      "published": "2026-10-23T06:12:58+00:00",
+      "published": "2026-10-23T13:02:38+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Brightstar Lottery (NYSE:BRSL) Stock Gets Price Target Trim from Truist Financial",
-      "url": "https://www.tickerreport.com/banking-finance/13632963/brightstar-lottery-nysebrsl-stock-gets-price-target-trim-from-truist-financial.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T06:12:57+00:00",
+      "title": "Neocloud Nebius secures $3.5bn in financing from Citi",
+      "url": "https://www.datacenterdynamics.com/en/news/neocloud-nebius-secures-35bn-in-financing-from-citi/",
+      "source": "datacenterdynamics.com",
+      "published": "2026-10-23T13:00:41+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "C"
       ]
     },
     {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 23",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-23/article_497827d0-58da-5cdf-af0b-cc276919b621.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-23T06:01:52+00:00",
+      "title": "BofA names Meta a top AI pick, raises price target on stronger ad growth",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-names-meta-a-top-ai-pick-raises-price-target-on-stronger-ad-growth-4969482",
+      "source": "investing.com",
+      "published": "2026-10-23T12:59:53+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Dividend Roundup: Citigroup, IBM, Caterpillar, Costco, and more",
+      "url": "https://seekingalpha.com/news/4656553-dividend-roundup-citigroup-ibm-caterpillar-costco-and-more",
+      "source": "seekingalpha.com",
+      "published": "2026-10-23T12:54:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO David Solomon on AI’s economic impact: ‘There’s very little that we do where we need frontier models’",
+      "url": "https://fortune.com/2026/10/23/david-solomon-frontier-models-not-needed-small-business/",
+      "source": "fortune.com",
+      "published": "2026-10-23T12:51:23+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Southwest Gas (NYSE:SWX) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13632951/southwest-gas-nyseswx-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "title": "Bank of America Fell Harder Than Wells Fargo. Does That Make It the Better Dividend Buy?",
+      "url": "https://247wallst.com/investing/2026/10/23/bank-of-america-fell-harder-than-wells-fargo-does-that-make-it-the-better-dividend-buy/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-23T12:50:03+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lower Fees, Higher Yield: Why XLE Tops XOP",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/23/lower-fees-higher-yield-why-xle-tops-xop/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-23T12:45:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Allegion (NYSE:ALLE) Raised to Buy at Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13633653/allegion-nysealle-raised-to-buy-at-bank-of-america.html",
       "source": "tickerreport.com",
-      "published": "2026-10-23T06:01:12+00:00",
+      "published": "2026-10-23T12:38:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Erste Group Bank Issues Optimistic Forecast for JPM Earnings",
+      "url": "https://www.marketbeat.com/instant-alerts/estimates-erste-group-bank-issues-optimistic-forecast-for-jpm-earnings-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T12:28:05+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Citi’s $60 Oil Call Meets $112 Brent",
-      "url": "https://www.investing.com/analysis/citis-60-oil-call-meets-112-brent-200690121",
-      "source": "investing.com",
-      "published": "2026-10-23T05:36:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs and Rothschild & Co top M&A financial advisers in Middle East & Africa during Q1-Q3 2026, finds GlobalData",
-      "url": "https://www.globaldata.com/media/business-fundamentals/goldman-sachs-and-rothschild-co-top-ma-financial-advisers-in-middle-east-africa-during-q1-q3-2026-finds-globaldata/",
-      "source": "globaldata.com",
-      "published": "2026-10-23T04:17:56+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Matrix-Free Local Multigrid for $C^1$ Hermite Discretizations on GPUs",
-      "url": "https://arxiv.org/abs/2610.30308",
-      "source": "arxiv.org",
-      "published": "2026-10-23T04:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Unvetted AI Agents Are Accessing US Bank Accounts",
-      "url": "https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "source": "slashdot.org",
-      "published": "2026-10-23T03:30:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Beacon Financial Corp (BBT) Q3 2026 Earnings Call Highlights: Margin Expansion and Capital ...",
-      "url": "https://www.gurufocus.com/news/9138531/beacon-financial-corp-bbt-q3-2026-earnings-call-highlights-margin-expansion-and-capital-strength-offset-eps-dip",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T03:05:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bank of America, 10% owner, sells $1,045 in BNY Mellon stock",
-      "url": "https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-1045-in-bny-mellon-stock-93CH-4967974",
-      "source": "investing.com",
-      "published": "2026-10-23T03:01:12+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "BK"
-      ]
-    },
-    {
-      "title": "On Oct. 7, 2026, Pittsburgh Penguins goaltender Arturs Silovs in net against the Washington Capitals during the second period at Capital One Arena in Washington, D.C..",
-      "url": "https://thebrunswicknews.com/sports/national_sports/on-oct-7-2026-pittsburgh-penguins-goaltender-arturs-silovs-in-net-against-the-washington-capitals/image_2d5752a0-64ad-5fc0-9f7c-9c0ed3d4b7df.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-23T02:42:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America, 10% owner, sells $972 in Nuveen Municipal Credit Fund",
-      "url": "https://www.investing.com/news/insider-trading-news/bank-of-america-10-owner-sells-972-in-nuveen-municipal-credit-fund-93CH-4967946",
-      "source": "investing.com",
-      "published": "2026-10-23T02:16:03+00:00",
-      "tickers": [
-        "BAC",
-        "C"
       ]
     }
   ]
