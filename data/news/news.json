@@ -1,6 +1,229 @@
 {
-  "last_updated": "2026-10-23T05:14:20.171923+00:00",
+  "last_updated": "2026-10-23T10:25:50.622709+00:00",
   "headlines": [
+    {
+      "title": "Citigroup Inc. $C Shares Bought by Vest Financial LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-bought-by-vest-financial-llc-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T09:20:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "China approves Citigroup securities venture after nearly five-year wait",
+      "url": "https://seekingalpha.com/news/4656461-china-approves-citigroup-securities-venture-after-nearly-five-year-wait",
+      "source": "seekingalpha.com",
+      "published": "2026-10-23T09:11:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi wins licence to set up fully-owned China securities unit",
+      "url": "https://www.investing.com/news/economy-news/citi-wins-licence-to-set-up-fullyowned-china-securities-unit-4968501",
+      "source": "investing.com",
+      "published": "2026-10-23T09:06:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Charles Schwab Corporation $SCHW Shares Bought by Sowell Financial Services LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-charles-schwab-corporation-schw-shares-bought-by-sowell-financial-services-llc-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T09:05:04+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Wisconsin's largest banks grew deposits by 4% last year",
+      "url": "https://www.bizjournals.com/milwaukee/research/lists/2026/largest-banks.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-23T08:48:10+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "KuCoin Adds USDT Perpetuals Tied To Stocks And ETFs",
+      "url": "https://www.newsbtc.com/derivatives/kucoin-usdt-perpetuals-stocks-etfs-october-21/",
+      "source": "newsbtc.com",
+      "published": "2026-10-23T08:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation $COF Stake Boosted by E. Ohman J or Asset Management AB",
+      "url": "https://www.tickerreport.com/banking-finance/13633020/capital-one-financial-corporation-cof-stake-boosted-by-e-ohman-j-or-asset-management-ab.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T08:03:37+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "State Street SPDR Portfolio S&P 500 ETF $SPYM Shares Newly Bought by Diligent Investors LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13633018/state-street-spdr-portfolio-sp-500-etf-spym-shares-newly-bought-by-diligent-investors-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T08:03:26+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BofA Names Top EU Airline Stocks Ahead of Earnings Season",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-names-top-eu-airline-stocks-ahead-of-earnings-season-4968178",
+      "source": "investing.com",
+      "published": "2026-10-23T07:22:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "231,905 U.S. Bancorp $USB Shares Acquired by Brookstone Capital Management",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-231905-us-bancorp-usb-shares-acquired-by-brookstone-capital-management-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T07:13:11+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Truist Financial Corporation $TFC Stock: Axxcess Wealth Management LLC Reduces Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-truist-financial-corporation-tfc-stock-axxcess-wealth-management-llc-reduces-position-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T07:12:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Axxcess Wealth Management LLC Sells 32,758 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-axxcess-wealth-management-llc-sells-32758-shares-of-citigroup-inc-c-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T07:12:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Robinhood Markets (NASDAQ:HOOD) Price Target Raised to $115.00",
+      "url": "https://www.tickerreport.com/banking-finance/13632986/robinhood-markets-nasdaqhood-price-target-raised-to-115-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T07:10:48+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AI Agents Are Entering US Bank Accounts: JPMorgan, Bank of America and Others Are Fighting Back",
+      "url": "https://www.ibtimes.sg/ai-agents-are-entering-us-bank-accounts-jpmorgan-bank-america-others-are-fighting-back-95425",
+      "source": "ibtimes.sg",
+      "published": "2026-10-23T07:10:03+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "USB"
+      ]
+    },
+    {
+      "title": "Unauthorized AI Agents Are Operating Inside US Bank Accounts, Banks Say",
+      "url": "https://www.technology.org/2026/10/23/ai-agents-us-bank-accounts-jpmorgan-morgan-stanley-blocks/",
+      "source": "technology.org",
+      "published": "2026-10-23T07:05:20+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "AMF Tjanstepension AB Sells 1,680 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amf-tjanstepension-ab-sells-1680-shares-of-the-goldman-sachs-group-inc-gs-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T07:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "70,400 Shares in Morgan Stanley $MS Bought by Adams Diversified Equity Fund Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-70400-shares-in-morgan-stanley-ms-bought-by-adams-diversified-equity-fund-inc-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T07:04:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Hedge Funds Log Widest Daily Drawdown Since Covid in Stock Rout",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-log-widest-daily-drawdown-since-covid-in-stock-rout",
+      "source": "bloomberg.com",
+      "published": "2026-10-23T06:17:21+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Red Rock Resorts (NASDAQ:RRR) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13632965/red-rock-resorts-nasdaqrrr-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T06:12:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Brightstar Lottery (NYSE:BRSL) Stock Gets Price Target Trim from Truist Financial",
+      "url": "https://www.tickerreport.com/banking-finance/13632963/brightstar-lottery-nysebrsl-stock-gets-price-target-trim-from-truist-financial.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T06:12:57+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 23",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---october-23/article_497827d0-58da-5cdf-af0b-cc276919b621.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-23T06:01:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Southwest Gas (NYSE:SWX) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13632951/southwest-gas-nyseswx-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T06:01:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi’s $60 Oil Call Meets $112 Brent",
+      "url": "https://www.investing.com/analysis/citis-60-oil-call-meets-112-brent-200690121",
+      "source": "investing.com",
+      "published": "2026-10-23T05:36:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs and Rothschild & Co top M&A financial advisers in Middle East & Africa during Q1-Q3 2026, finds GlobalData",
+      "url": "https://www.globaldata.com/media/business-fundamentals/goldman-sachs-and-rothschild-co-top-ma-financial-advisers-in-middle-east-africa-during-q1-q3-2026-finds-globaldata/",
+      "source": "globaldata.com",
+      "published": "2026-10-23T04:17:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Matrix-Free Local Multigrid for $C^1$ Hermite Discretizations on GPUs",
       "url": "https://arxiv.org/abs/2610.30308",
@@ -57,226 +280,6 @@
       "published": "2026-10-23T02:16:03+00:00",
       "tickers": [
         "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Financial Review: Morgan Stanley (NYSE:MS) & Eagle Point Credit (NYSE:ECC)",
-      "url": "https://www.tickerreport.com/banking-finance/13632548/financial-review-morgan-stanley-nysems-eagle-point-credit-nyseecc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T02:14:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "TRUIST FINANCIAL CORP Opens New Position in Lion Copper Corp (LCGMD) With 1,105,122-Share Purchase",
-      "url": "https://www.gurufocus.com/news/9138461/truist-financial-corp-opens-new-position-in-lion-copper-corp-lcgmd-with-1105122share-purchase",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:42:41+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Trims DigitalOcean Holdings Inc (DOCN) Stake -- Shares Look 106% ...",
-      "url": "https://www.gurufocus.com/news/9138447/jpmorgan-chase-co-trims-digitalocean-holdings-inc-docn-stake-shares-look-106-overvalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:36:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Adds 3M Co (MMM) Stake -- Shares Look 18% Overvalued on GF Value",
-      "url": "https://www.gurufocus.com/news/9138446/jpmorgan-chase-co-adds-3m-co-mmm-stake-shares-look-18-overvalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:35:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Trims Andersen Group Inc (ANDG) Stake by 9.53%",
-      "url": "https://www.gurufocus.com/news/9138445/jpmorgan-chase-co-trims-andersen-group-inc-andg-stake-by-953",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:35:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Adds 2.1 Million Aon PLC (AON) Shares -- Stock Trades 22% Below GF Value",
-      "url": "https://www.gurufocus.com/news/9138444/jpmorgan-chase-co-adds-21-million-aon-plc-aon-shares-stock-trades-22-below-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:34:58+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Trims Yum Brands Inc (YUM) Stake -- Shares Look 9% Undervalued on GF Value",
-      "url": "https://www.gurufocus.com/news/9138443/jpmorgan-chase-co-trims-yum-brands-inc-yum-stake-shares-look-9-undervalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:34:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Adds uniQure NV (QURE) -- Shares Look 185% Overvalued on GF Value",
-      "url": "https://www.gurufocus.com/news/9138442/jpmorgan-chase-co-adds-uniqure-nv-qure-shares-look-185-overvalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T01:34:02+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Trump Staffer McHenry Escorted From NBA Game After Throwing Drink at a Fan in Heated Encounter",
-      "url": "https://www.essentiallysports.com/nba-active-basketball-news-trump-staffer-mchenry-escorted-from-nba-game-after-throwing-drink-at-a-fan-in-heated-encounter/",
-      "source": "essentiallysports.com",
-      "published": "2026-10-23T01:02:02+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Shepley Bulfinch Opens New 8,750-Square-Foot Boston Studio at 200 State Street",
-      "url": "https://bostonrealestatetimes.com/shepley-bulfinch-opens-new-8750-square-foot-boston-studio-at-200-state-street/",
-      "source": "bostonrealestatetimes.com",
-      "published": "2026-10-23T00:47:17+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "63 Reasons Point to CoreWeave’s Default. Yet Goldman Sachs Upgraded It to a 'Buy' for 1 Key Reason.",
-      "url": "https://www.barchart.com/story/news/8343138/63-reasons-point-to-coreweaves-default-yet-goldman-sachs-upgraded-it-to-a-buy-for-1-key-reason",
-      "source": "barchart.com",
-      "published": "2026-10-22T23:05:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Ola Electric shares dip 5% after Goldman Sachs downgrades stock to Sell. Here’s why",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-dip-5-after-goldman-sachs-downgrades-stock-to-sell-heres-why/articleshow/135134048.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-22T22:41:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Saba Capital Management buys $262,611 of BNY Mellon Strategic Municipals",
-      "url": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-262611-of-bny-mellon-strategic-municipals-93CH-4967718",
-      "source": "investing.com",
-      "published": "2026-10-22T22:01:08+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Kyler Murray on Vikings' 5-0 start: 'Winning is fun'",
-      "url": "https://www.fox9.com/video/fmc-0epc9pr1bt6e36b6",
-      "source": "fox9.com",
-      "published": "2026-10-22T21:56:16+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526429136/0001193125-26-429136-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T21:28:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup convenes analysts in Mexico City to prepare Banamex IPO model -Bloomberg",
-      "url": "https://www.investing.com/news/stock-market-news/citigroup-convenes-analysts-in-mexico-city-to-prepare-banamex-ipo-model-bloomberg-4967637",
-      "source": "investing.com",
-      "published": "2026-10-22T21:23:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026111753/0001213900-26-111753-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T21:18:16+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032396/0001918704-26-032396-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T21:15:56+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000110465926118193/0001104659-26-118193-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T21:15:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "State Street (NYSE:STT) Stock: Insider Hanley Ronald O Sells 14,554 Shares",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-state-street-nyse-stt-stock-insider-hanley-ronald-o-sells-14554-shares-2026-10-22/",
-      "source": "marketbeat.com",
-      "published": "2026-10-22T21:08:13+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032394/0001918704-26-032394-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T21:06:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052138/0001839882-26-052138-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-22T21:05:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "China’s Hidden Gold Buying? Goldman Sachs Estimates 128% More Than Official Figures",
-      "url": "https://blockonomi.com/chinas-hidden-gold-buying-goldman-sachs-estimates-128-more-than-official-figures/",
-      "source": "blockonomi.com",
-      "published": "2026-10-22T21:03:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wow, Wow, Wow -- The Safe Moat Is CASH! October 22, 2026",
-      "url": "https://themilliondollarway.blogspot.com/2026/10/wow-wow-wow-safe-moat-is-cash-october.html",
-      "source": "themilliondollarway.blogspot.com",
-      "published": "2026-10-22T21:00:28+00:00",
-      "tickers": [
         "C"
       ]
     }
