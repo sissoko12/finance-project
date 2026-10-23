@@ -1,288 +1,161 @@
 {
-  "last_updated": "2026-10-23T19:29:49.169268+00:00",
+  "last_updated": "2026-10-23T22:35:14.871658+00:00",
   "headlines": [
     {
-      "title": "Skydance's size creates synergy opportunities but also risks from cord-cutting, bundling -- JP Morgan",
-      "url": "https://seekingalpha.com/news/4656702-skydances-size-creates-synergy-opportunities-but-also-risks-from-cord-cutting-bundling---jp-morgan",
-      "source": "seekingalpha.com",
-      "published": "2026-10-23T18:50:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032469/0001918704-26-032469-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032513/0001918704-26-032513-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-23T18:36:13+00:00",
+      "published": "2026-10-23T21:28:28+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "DLocal (NASDAQ:DLO) Stock Price Target Lowered at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-dlocal-nasdaq-dlo-stock-price-target-lowered-at-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:24:32+00:00",
+      "title": "JPMorgan Brings Tokenized Money Funds to Solana for US Investors",
+      "url": "https://news.bitcoin.com/crypto-news/jpmorgan-brings-tokenized-money-funds-solana-us-investors/",
+      "source": "bitcoin.com",
+      "published": "2026-10-23T21:15:00+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430162/0001193125-26-430162-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430653/0001193125-26-430653-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-23T18:05:17+00:00",
+      "published": "2026-10-23T21:09:52+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Sonoco Products (NYSE:SON) Stock Price Target Lowered at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-sonoco-products-nyse-son-stock-price-target-lowered-at-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:41+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "PayPal (NASDAQ:PYPL) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-paypal-nasdaq-pypl-stock-price-expected-to-rise-truist-financial-analyst-says-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:40+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Packaging Corporation of America's (PKG) \"Buy\" Rating Reaffirmed at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-packaging-corporation-of-americas-pkg-buy-rating-reaffirmed-at-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:40+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Lightspeed Commerce (NYSE:LSPD) Stock Gets Price Target Increase from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-lightspeed-commerce-nyse-lspd-stock-gets-price-target-increase-from-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:39+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Global Payments (NYSE:GPN) Price Target Cut to $86.00 by Analysts at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-global-payments-nyse-gpn-price-target-cut-to-8600-by-analysts-at-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Gemini Space Station (NASDAQ:GEMI) Stock Price Target Cut by Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-gemini-space-station-nasdaq-gemi-stock-price-target-cut-by-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Fidelity National Information Services (NYSE:FIS) Stock Gets Price Target Reduction from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-fidelity-national-information-services-nyse-fis-stock-gets-price-target-reduction-from-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T18:00:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Wells Fargo private wealth head taps firm's full capabilities for clients",
-      "url": "https://www.americanbanker.com/news/wells-fargo-private-wealth-head-taps-firms-full-capabilities-for-clients",
-      "source": "americanbanker.com",
-      "published": "2026-10-23T17:59:27+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo (WFC) Joins 22 Firms Opposing OKXICE Tokenized Stock Trading",
-      "url": "https://www.gurufocus.com/news/9140172/wells-fargo-wfc-joins-22-firms-opposing-okxice-tokenized-stock-trading",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T17:59:17+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BofA backs Prysmian as Arco Felice boosts energy security - 23 October 2026",
-      "url": "https://www.youtube.com/watch?v=tcWFqWvnBxY",
-      "source": "youtube.com",
-      "published": "2026-10-23T17:46:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Stock Analysts’ Price Target Changes for October 23rd (AAL, AAP, ADP, AFRM, AGNC, AJB, ALLE, AOSL, ARGX, ARR)",
-      "url": "https://www.tickerreport.com/banking-finance/13634104/stock-analysts-price-target-changes-for-october-23rd-aal-aap-adp-afrm-agnc-ajb-alle-aosl-argx-arr.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T17:44:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Spotify Technology (NYSE:SPOT) Price Target Raised to $700.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-spotify-technology-nyse-spot-price-target-raised-to-70000-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Omnicom Group (NYSE:OMC) Stock Gets Price Target Bump from Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-omnicom-group-nyse-omc-stock-gets-price-target-bump-from-morgan-stanley-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Molina Healthcare (NYSE:MOH) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-molina-healthcare-nyse-moh-stock-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Valley National Bancorp (NASDAQ:VLY) Stock Gets Price Target Bump from Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-valley-national-bancorp-nasdaq-vly-stock-gets-price-target-bump-from-morgan-stanley-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Lazard (NYSE:LAZ) Price Target Cut to $40.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-lazard-nyse-laz-price-target-cut-to-4000-by-analysts-at-morgan-stanley-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SLM (NASDAQ:SLM) Price Target Cut to $26.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-slm-nasdaq-slm-price-target-cut-to-2600-by-analysts-at-morgan-stanley-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Nasdaq (NASDAQ:NDAQ) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nasdaq-nasdaq-ndaq-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Affirm (NASDAQ:AFRM) Given New $88.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-affirm-nasdaq-afrm-given-new-8800-price-target-at-truist-financial-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:32+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for argenex (NASDAQ:ARGX) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-argenex-nasdaq-argx-stock-price-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T17:42:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032459/0001918704-26-032459-index.htm",
+      "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016114/0000950103-26-016114-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-23T17:40:08+00:00",
+      "published": "2026-10-23T21:08:01+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326016113/0000950103-26-016113-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T21:07:48+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "VRSN Maintains by Citigroup -- Price Target Raised to $345",
+      "url": "https://www.gurufocus.com/news/9140468/vrsn-maintains-by-citigroup-price-target-raised-to-345",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:02:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016112/0000950103-26-016112-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T21:02:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "VLO Maintained by Citigroup -- Price Target Raised to $490",
+      "url": "https://www.gurufocus.com/news/9140466/vlo-maintained-by-citigroup-price-target-raised-to-490",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:02:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "KMI Maintained by Citigroup -- Price Target Raised to $35",
+      "url": "https://www.gurufocus.com/news/9140465/kmi-maintained-by-citigroup-price-target-raised-to-35",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:01:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "DOW Maintained by Citigroup -- Price Target Raised to $32.00",
+      "url": "https://www.gurufocus.com/news/9140464/dow-maintained-by-citigroup-price-target-raised-to-3200",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:01:26+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ADC Maintained by Citigroup -- Price Target Lowered to $72.00",
+      "url": "https://www.gurufocus.com/news/9140463/adc-maintained-by-citigroup-price-target-lowered-to-7200",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:01:05+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "LAD Maintained by Citigroup -- Price Target Lowered to $386",
+      "url": "https://www.gurufocus.com/news/9140462/lad-maintained-by-citigroup-price-target-lowered-to-386",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:00:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WEN Maintained by Citigroup -- Price Target Lowered to $6.75",
+      "url": "https://www.gurufocus.com/news/9140461/wen-maintained-by-citigroup-price-target-lowered-to-675",
+      "source": "gurufocus.com",
+      "published": "2026-10-23T21:00:25+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016110/0000950103-26-016110-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T20:56:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526430566/0001193125-26-430566-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T20:41:47+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "SPOT Maintained by JP Morgan -- Price Target Raised to $700",
-      "url": "https://www.gurufocus.com/news/9140153/spot-maintained-by-jp-morgan-price-target-raised-to-700",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T17:36:50+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000506/0000070858-26-000506-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T20:41:01+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "R Maintained by JP Morgan -- Price Target Raised to $315",
-      "url": "https://www.gurufocus.com/news/9140152/r-maintained-by-jp-morgan-price-target-raised-to-315",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T17:36:27+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 3 - Initial statement of beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000504/0000070858-26-000504-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T20:24:45+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "RHI Maintained by JP Morgan -- Price Target Raised to $45",
-      "url": "https://www.gurufocus.com/news/9140151/rhi-maintained-by-jp-morgan-price-target-raised-to-45",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T17:36:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PNFP Maintained by JP Morgan -- Price Target Raised to $125",
-      "url": "https://www.gurufocus.com/news/9140147/pnfp-maintained-by-jp-morgan-price-target-raised-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T17:34:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PKG Maintained by JP Morgan -- Price Target Raised to $322",
-      "url": "https://www.gurufocus.com/news/9140143/pkg-maintained-by-jp-morgan-price-target-raised-to-322",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T17:33:21+00:00",
-      "tickers": [
-        "JPM"
+        "BAC",
+        "C"
       ]
     }
   ]
