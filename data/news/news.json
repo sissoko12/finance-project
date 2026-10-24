@@ -1,13 +1,60 @@
 {
-  "last_updated": "2026-10-24T01:27:45.609137+00:00",
+  "last_updated": "2026-10-24T06:22:57.263540+00:00",
   "headlines": [
     {
+      "title": "Goldman Sachs Hedge Industry VIP ETF (NYSEARCA:GVIP) Stock Price Down 0.5% – Time to Sell?",
+      "url": "https://www.tickerreport.com/banking-finance/13634631/goldman-sachs-hedge-industry-vip-etf-nysearcagvip-stock-price-down-0-5-time-to-sell.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-24T04:22:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+      "url": "https://www.cryptoprowl.com/releases/wells-fargo-arm-and-intuit-reject-tokenized-shares-on-okx-ice-7440?.tsrc=rss",
+      "source": "cryptoprowl.com",
+      "published": "2026-10-24T03:59:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi says LME Week participants cautious on metals outlook",
+      "url": "https://mining.com.au/citi-says-lme-week-participants-cautious-on-metals-outlook/",
+      "source": "mining.com.au",
+      "published": "2026-10-24T03:21:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Brings Two Tokenized Funds to Solana",
+      "url": "https://blog.mexc.com/trends/2026-10-24-jpmorgan-tokenized-funds-solana-en/",
+      "source": "mexc.com",
+      "published": "2026-10-24T02:46:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "Genesis Healthcare Announces Effective Date of Chapter 11 Plan Following Consummation of Sale to West State Street",
-      "url": "https://www.newspressnow.com/sports/chiefs/genesis-healthcare-announces-effective-date-of-chapter-11-plan-following-consummation-of-sale-to-west/article_68ad8023-d0b6-5dba-b154-e106a34d4dec.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-24T00:37:21+00:00",
+      "url": "http://www.businesswire.com/news/home/20261023067917/en/Genesis-Healthcare-Announces-Effective-Date-of-Chapter-11-Plan-Following-Consummation-of-Sale-to-West-State-Street/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
+      "source": "businesswire.com",
+      "published": "2026-10-24T00:37:00+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Britt McHenry quits Trump role after being 'booted' from NBA game for throwing drink",
+      "url": "https://www.mirror.co.uk/news/us-news/britt-mchenry-nba-game-drink-37805924",
+      "source": "mirror.co.uk",
+      "published": "2026-10-24T00:32:34+00:00",
+      "tickers": [
+        "C",
+        "COF"
       ]
     },
     {
@@ -201,42 +248,6 @@
       "url": "https://www.gurufocus.com/news/9140465/kmi-maintained-by-citigroup-price-target-raised-to-35",
       "source": "gurufocus.com",
       "published": "2026-10-23T21:01:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "DOW Maintained by Citigroup -- Price Target Raised to $32.00",
-      "url": "https://www.gurufocus.com/news/9140464/dow-maintained-by-citigroup-price-target-raised-to-3200",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T21:01:26+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ADC Maintained by Citigroup -- Price Target Lowered to $72.00",
-      "url": "https://www.gurufocus.com/news/9140463/adc-maintained-by-citigroup-price-target-lowered-to-7200",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T21:01:05+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LAD Maintained by Citigroup -- Price Target Lowered to $386",
-      "url": "https://www.gurufocus.com/news/9140462/lad-maintained-by-citigroup-price-target-lowered-to-386",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T21:00:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WEN Maintained by Citigroup -- Price Target Lowered to $6.75",
-      "url": "https://www.gurufocus.com/news/9140461/wen-maintained-by-citigroup-price-target-lowered-to-675",
-      "source": "gurufocus.com",
-      "published": "2026-10-23T21:00:25+00:00",
       "tickers": [
         "C"
       ]
