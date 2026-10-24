@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-10-23T22:35:14.871658+00:00",
+  "last_updated": "2026-10-24T01:27:45.609137+00:00",
   "headlines": [
+    {
+      "title": "Genesis Healthcare Announces Effective Date of Chapter 11 Plan Following Consummation of Sale to West State Street",
+      "url": "https://www.newspressnow.com/sports/chiefs/genesis-healthcare-announces-effective-date-of-chapter-11-plan-following-consummation-of-sale-to-west/article_68ad8023-d0b6-5dba-b154-e106a34d4dec.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-24T00:37:21+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "PNC Financial Services completes $1.5 billion senior notes offering",
+      "url": "https://www.investing.com/news/sec-filings/pnc-financial-services-completes-15-billion-senior-notes-offering-93CH-4970505",
+      "source": "investing.com",
+      "published": "2026-10-23T23:10:41+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Bank of America issues Series WW preferred stock and related depositary shares",
+      "url": "https://www.investing.com/news/sec-filings/bank-of-america-issues-series-ww-preferred-stock-and-related-depositary-shares-93CH-4970491",
+      "source": "investing.com",
+      "published": "2026-10-23T22:37:40+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000508/0000070858-26-000508-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T22:11:49+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Expands Tokenized Money Market Funds To Solana",
+      "url": "https://www.newsbtc.com/crypto-news/jpmorgan-tokenized-money-market-funds-solana-mony-jltxx/",
+      "source": "newsbtc.com",
+      "published": "2026-10-23T22:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-10-23T21:36:04+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430688/0001193125-26-430688-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T21:30:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032513/0001918704-26-032513-index.htm",
@@ -9,6 +76,79 @@
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "Recent Analysts’ Ratings Updates for SPS Commerce (SPSC)",
+      "url": "https://www.tickerreport.com/banking-finance/13634390/recent-analysts-ratings-updates-for-sps-commerce-spsc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T21:26:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430674/0001193125-26-430674-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T21:23:17+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.4% – Should You Sell?",
+      "url": "https://www.tickerreport.com/banking-finance/13634382/jpmorgan-chase-co-nysejpm-shares-down-1-4-should-you-sell.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-23T21:23:07+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group (NYSE:GS) Stock Falls 1.7% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-the-goldman-sachs-group-nyse-gs-stock-falls-17-whats-next-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T21:21:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 1.4% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-14-whats-next-2026-10-23/",
+      "source": "marketbeat.com",
+      "published": "2026-10-23T21:21:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112190/0001213900-26-112190-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T21:17:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA flags further downside risk for stocks, yields and dollar – Investing.com",
+      "url": "https://www.global-asset-mgmt.com/bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-investing-com/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-investing-com",
+      "source": "global-asset-mgmt.com",
+      "published": "2026-10-23T21:17:12+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430667/0001193125-26-430667-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-23T21:15:39+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -21,30 +161,12 @@
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430653/0001193125-26-430653-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T21:09:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
       "title": "CITIGROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
       "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016114/0000950103-26-016114-index.htm",
       "source": "sec.gov",
       "published": "2026-10-23T21:08:01+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326016113/0000950103-26-016113-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T21:07:48+00:00",
-      "tickers": [
-        "GS"
       ]
     },
     {
@@ -116,45 +238,6 @@
       "source": "gurufocus.com",
       "published": "2026-10-23T21:00:25+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016110/0000950103-26-016110-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T20:56:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 8-K - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526430566/0001193125-26-430566-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T20:41:47+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000506/0000070858-26-000506-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T20:41:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 3 - Initial statement of beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000504/0000070858-26-000504-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T20:24:45+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
