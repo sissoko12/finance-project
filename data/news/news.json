@@ -1,11 +1,76 @@
 {
-  "last_updated": "2026-10-24T21:06:46.200232+00:00",
+  "last_updated": "2026-10-24T23:34:13.984664+00:00",
   "headlines": [
+    {
+      "title": "Colts at Vikings: What to watch for",
+      "url": "https://fox59.com/sports/colts-at-vikings-what-to-watch-for-2/",
+      "source": "fox59.com",
+      "published": "2026-10-24T22:04:17+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Wells fargo opening account bonus",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xek6o8/wells_fargo_opening_account_bonus/",
+      "source": "reddit.com",
+      "published": "2026-10-24T21:19:11+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Emerging Markets Domestic Debt Fund (NYSE:EDD) Shares Break Below 200 Day Moving Average – Time to Sell?",
+      "url": "https://www.tickerreport.com/banking-finance/13635516/morgan-stanley-emerging-markets-domestic-debt-fund-nyseedd-shares-break-below-200-day-moving-average-time-to-sell.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-24T21:00:54+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees $2.9 trillion in data center spending, and a $1.5 trillion hole",
+      "url": "https://cryptobriefing.com/morgan-stanley-data-center-capex-forecast/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-24T20:34:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs warns on the Hormuz crisis and rising fuel costs",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-warns-on-the-hormuz-crisis-and-rising-fuel-costs?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-24T19:47:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Goldman Sachs Data-Driven World ETF (NYSEARCA:GDAT) Stock Price Up 0.2% – Here’s Why",
       "url": "https://www.tickerreport.com/banking-finance/13635435/goldman-sachs-data-driven-world-etf-nysearcagdat-stock-price-up-0-2-heres-why.html",
       "source": "tickerreport.com",
       "published": "2026-10-24T18:41:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Seagate's booming business comes with an unexpected twist",
+      "url": "https://www.thestreet.com/investing/stocks/stx-seagate-bank-of-america-raises-stock-price-target-says-surging-hard-drive-demand-is-testing-seagates-growth-plans?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-24T18:17:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs (GS) Stock Still Looks Reasonable On Its 223% Run",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-stock-still-181059665.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-24T18:10:59+00:00",
       "tickers": [
         "GS"
       ]
@@ -59,6 +124,16 @@
       "tickers": [
         "C",
         "PNC"
+      ]
+    },
+    {
+      "title": "Bank of America revamps Meta stock price target once again",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-meta-stock-price-target-once-again?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-10-24T15:07:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -211,80 +286,6 @@
       "published": "2026-10-24T11:00:00+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "CITI: CTAs Max Short in Gold and Silver, Max Long Oil",
-      "url": "https://vblgoldfix.substack.com/p/citi-ctas-max-short-in-gold-and-silver",
-      "source": "substack.com",
-      "published": "2026-10-24T10:49:10+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Founders: Goldman Discusses Commodity Diversification",
-      "url": "https://vblgoldfix.substack.com/p/founders-goldman-discusses-commodity",
-      "source": "substack.com",
-      "published": "2026-10-24T10:33:56+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Best CD rates today, Saturday, October 24, 2026: Lock in up to 4.40% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-24-2026-lock-in-up-to-440-apy-100000513.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-24T10:00:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Looking Beyond the S&P 500? These 2 International ETFs Offer Very Different Opportunities",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/24/looking-beyond-the-s-and-p-500-these-2-international-etfs-offer-very-different-opportunities/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-24T09:30:01+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Agnico Eagle Mines (NYSE:AEM) Price Target Raised to $190.00",
-      "url": "https://www.tickerreport.com/banking-finance/13634789/agnico-eagle-mines-nyseaem-price-target-raised-to-190-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T08:21:23+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "5,701 The PNC Financial Services Group, Inc $PNC Shares Bought by Crossmark Global Holdings Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-5701-the-pnc-financial-services-group-inc-pnc-shares-bought-by-crossmark-global-holdings-inc-2026-10-24/",
-      "source": "marketbeat.com",
-      "published": "2026-10-24T07:21:30+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock: Carnegie Investment Counsel Trims Holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-carnegie-investment-counsel-trims-holdings-2026-10-24/",
-      "source": "marketbeat.com",
-      "published": "2026-10-24T07:13:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "4,633 JPMorgan Chase & Co. $JPM Shares Bought by Diversify Advisory Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-4633-jpmorgan-chase-co-jpm-shares-bought-by-diversify-advisory-services-llc-2026-10-24/",
-      "source": "marketbeat.com",
-      "published": "2026-10-24T07:12:48+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
