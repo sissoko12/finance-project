@@ -1,6 +1,130 @@
 {
-  "last_updated": "2026-10-24T11:28:07.124923+00:00",
+  "last_updated": "2026-10-24T14:48:42.959017+00:00",
   "headlines": [
+    {
+      "title": "Royal Fund Management LLC Purchases 7,724 Shares of Morgan Stanley $MS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-royal-fund-management-llc-purchases-7724-shares-of-morgan-stanley-ms-2026-10-24/",
+      "source": "marketbeat.com",
+      "published": "2026-10-24T14:03:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Cut by Pinnacle Associates Ltd.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-cut-by-pinnacle-associates-ltd-2026-10-24/",
+      "source": "marketbeat.com",
+      "published": "2026-10-24T13:05:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Holdings Lessened by Nisa Investment Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-holdings-lessened-by-nisa-investment-advisors-llc-2026-10-24/",
+      "source": "marketbeat.com",
+      "published": "2026-10-24T13:05:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc $PNC Shares Acquired by Robeco Institutional Asset Management B.V.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-shares-acquired-by-robeco-institutional-asset-management-bv-2026-10-24/",
+      "source": "marketbeat.com",
+      "published": "2026-10-24T13:04:45+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stake Increased by Robeco Institutional Asset Management B.V.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stake-increased-by-robeco-institutional-asset-management-bv-2026-10-24/",
+      "source": "marketbeat.com",
+      "published": "2026-10-24T13:04:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wall Street Breakfast: What Moved Markets This Week | $VIX $GS $JPM $C $WFC",
+      "url": "https://seekingalpha.com/article/4957218-wall-street-breakfast-what-moved-markets-this-week",
+      "source": "seekingalpha.com",
+      "published": "2026-10-24T12:10:57+00:00",
+      "tickers": [
+        "JPM",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "XLRE vs VNQI: Domestic Large-Cap Stability or International 5% Yield",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/24/xlre-vs-vnqi-domestic-large-cap-stability-or-international-5-yield/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-24T12:06:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "ROSEN, A RANKED AND LEADING LAW FIRM, Encourages Bank of America Corporation Investors to ...",
+      "url": "https://www.newspressnow.com/news/national_news/business/rosen-a-ranked-and-leading-law-firm-encourages-bank-of-america-corporation-investors-to/article_8242ef57-a700-554d-80b6-bbbbff0b6023.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-24T11:31:07+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Integra LifeSciences (IART) Stock Sees Fair Value Cut After Analyst Target Reductions",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/integra-lifesciences-iart-stock-sees-111618135.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-24T11:16:18+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Why Goldman Sachs views Grid and Utilities as the key AI growth bottlenecks",
+      "url": "https://invezz.com/news/2026/10/24/why-goldman-sachs-views-grid-and-utilities-as-the-key-ai-growth-bottlenecks/",
+      "source": "invezz.com",
+      "published": "2026-10-24T11:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITI: CTAs Max Short in Gold and Silver, Max Long Oil",
+      "url": "https://vblgoldfix.substack.com/p/citi-ctas-max-short-in-gold-and-silver",
+      "source": "substack.com",
+      "published": "2026-10-24T10:49:10+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Founders: Goldman Discusses Commodity Diversification",
+      "url": "https://vblgoldfix.substack.com/p/founders-goldman-discusses-commodity",
+      "source": "substack.com",
+      "published": "2026-10-24T10:33:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Best CD rates today, Saturday, October 24, 2026: Lock in up to 4.40% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-24-2026-lock-in-up-to-440-apy-100000513.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-24T10:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "Looking Beyond the S&P 500? These 2 International ETFs Offer Very Different Opportunities",
       "url": "https://www.fool.com/coverage/etfs/2026/10/24/looking-beyond-the-s-and-p-500-these-2-international-etfs-offer-very-different-opportunities/?source=iedfolrf0000001",
@@ -85,6 +209,16 @@
       ]
     },
     {
+      "title": "ITG (ITG) Stock Sees Fair Value Falls As Analysts Cut Targets On Execution Risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/itg-itg-stock-sees-fair-061235022.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-24T06:12:35+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
       "title": "Netflix (NASDAQ:NFLX) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
       "url": "https://www.tickerreport.com/banking-finance/13634703/netflix-nasdaqnflx-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
       "source": "tickerreport.com",
@@ -100,6 +234,15 @@
       "published": "2026-10-24T05:20:11+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Mastercard Stock And China Market Access Why Financial Shares Are Back On Watch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-china-market-access-051700162.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-24T05:17:00+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -135,147 +278,6 @@
       "url": "https://blog.mexc.com/trends/2026-10-24-jpmorgan-tokenized-funds-solana-en/",
       "source": "mexc.com",
       "published": "2026-10-24T02:46:02+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Genesis Healthcare Announces Effective Date of Chapter 11 Plan Following Consummation of Sale to West State Street",
-      "url": "http://www.businesswire.com/news/home/20261023067917/en/Genesis-Healthcare-Announces-Effective-Date-of-Chapter-11-Plan-Following-Consummation-of-Sale-to-West-State-Street/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
-      "source": "businesswire.com",
-      "published": "2026-10-24T00:37:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Britt McHenry quits Trump role after being 'booted' from NBA game for throwing drink",
-      "url": "https://www.mirror.co.uk/news/us-news/britt-mchenry-nba-game-drink-37805924",
-      "source": "mirror.co.uk",
-      "published": "2026-10-24T00:32:34+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "PNC Financial Services completes $1.5 billion senior notes offering",
-      "url": "https://www.investing.com/news/sec-filings/pnc-financial-services-completes-15-billion-senior-notes-offering-93CH-4970505",
-      "source": "investing.com",
-      "published": "2026-10-23T23:10:41+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Bank of America issues Series WW preferred stock and related depositary shares",
-      "url": "https://www.investing.com/news/sec-filings/bank-of-america-issues-series-ww-preferred-stock-and-related-depositary-shares-93CH-4970491",
-      "source": "investing.com",
-      "published": "2026-10-23T22:37:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000508/0000070858-26-000508-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T22:11:49+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Expands Tokenized Money Market Funds To Solana",
-      "url": "https://www.newsbtc.com/crypto-news/jpmorgan-tokenized-money-market-funds-solana-mony-jltxx/",
-      "source": "newsbtc.com",
-      "published": "2026-10-23T22:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-10-23T21:36:04+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430688/0001193125-26-430688-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T21:30:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032513/0001918704-26-032513-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T21:28:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Recent Analysts’ Ratings Updates for SPS Commerce (SPSC)",
-      "url": "https://www.tickerreport.com/banking-finance/13634390/recent-analysts-ratings-updates-for-sps-commerce-spsc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T21:26:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526430674/0001193125-26-430674-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T21:23:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Down 1.4% – Should You Sell?",
-      "url": "https://www.tickerreport.com/banking-finance/13634382/jpmorgan-chase-co-nysejpm-shares-down-1-4-should-you-sell.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-23T21:23:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group (NYSE:GS) Stock Falls 1.7% - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-the-goldman-sachs-group-nyse-gs-stock-falls-17-whats-next-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T21:21:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 1.4% - What's Next?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-14-whats-next-2026-10-23/",
-      "source": "marketbeat.com",
-      "published": "2026-10-23T21:21:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112190/0001213900-26-112190-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-23T21:17:25+00:00",
       "tickers": [
         "JPM"
       ]
