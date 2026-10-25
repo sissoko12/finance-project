@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-24T23:34:13.984664+00:00",
+  "last_updated": "2026-10-25T04:18:30.863638+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley-led credit line for TeraWulf grows to $400 million",
+      "url": "https://cryptobriefing.com/morgan-stanley-terawulf-400-million-credit-line/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-24T22:34:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Colts at Vikings: What to watch for",
       "url": "https://fox59.com/sports/colts-at-vikings-what-to-watch-for-2/",
@@ -45,6 +54,15 @@
       "published": "2026-10-24T19:47:00+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Citi Receives Approval To Establish Wholly Owned Securities Venture In China",
+      "url": "https://pulse2.com/citi-receives-approval-to-establish-wholly-owned-securities-venture-in-china/",
+      "source": "pulse2.com",
+      "published": "2026-10-24T19:15:18+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -267,25 +285,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Integra LifeSciences (IART) Stock Sees Fair Value Cut After Analyst Target Reductions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/integra-lifesciences-iart-stock-sees-111618135.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-24T11:16:18+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Why Goldman Sachs views Grid and Utilities as the key AI growth bottlenecks",
-      "url": "https://invezz.com/news/2026/10/24/why-goldman-sachs-views-grid-and-utilities-as-the-key-ai-growth-bottlenecks/",
-      "source": "invezz.com",
-      "published": "2026-10-24T11:00:00+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
