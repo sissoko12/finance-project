@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-25T17:32:32.070240+00:00",
+  "last_updated": "2026-10-25T20:41:23.567436+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Trillion in Revenue Sooner Than People Think",
+      "url": "https://www.barchart.com/story/news/8445127/morgan-stanley-sees-amazon-stock-surging-100-with-aws-hitting-1-trillion-in-revenue-sooner-than-people-think",
+      "source": "barchart.com",
+      "published": "2026-10-25T17:30:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Notes Sharp Drop in Retail Trading Volumes, GS Stock Holds Steady",
+      "url": "https://www.gurufocus.com/news/9141418/goldman-sachs-notes-sharp-drop-in-retail-trading-volumes-gs-stock-holds-steady",
+      "source": "gurufocus.com",
+      "published": "2026-10-25T16:55:24+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Live updates: Minnesota Vikings vs. Indianapolis Colts",
+      "url": "https://www.fox9.com/live-blog/sports/live-updates-minnesota-vikings-vs-indianapolis-colts",
+      "source": "fox9.com",
+      "published": "2026-10-25T16:54:16+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "AI Data Center Tenants Now Want $5 Million a Day When Projects Run Late",
+      "url": "https://www.webpronews.com/ai-data-center-late-fees-5-million-a-day-insurance/",
+      "source": "webpronews.com",
+      "published": "2026-10-25T16:52:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Best Bank Stocks To Research - October 25th",
       "url": "https://www.marketbeat.com/instant-alerts/list-best-bank-stocks-to-research-october-25th-2026-10-25/",
@@ -9,6 +45,16 @@
       "tickers": [
         "JPM",
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks?.tsrc=rss",
+      "source": "decrypt.co",
+      "published": "2026-10-25T16:01:03+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -240,53 +286,6 @@
       "published": "2026-10-25T09:29:38+00:00",
       "tickers": [
         "USB"
-      ]
-    },
-    {
-      "title": "PNC Financial Completes $1.5 Billion Senior Notes Offering",
-      "url": "https://www.gurufocus.com/news/9141393/pnc-financial-completes-15-billion-senior-notes-offering",
-      "source": "gurufocus.com",
-      "published": "2026-10-25T09:19:15+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Sawyer & Company Inc Acquires New Stake in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sawyer-company-inc-acquires-new-stake-in-jpmorgan-chase-co-jpm-2026-10-25/",
-      "source": "marketbeat.com",
-      "published": "2026-10-25T08:56:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "‘Nobody prepared them’: The ultrawealthy worry wealth will dull their heirs’ ‘drive and desire’ and so some aren’t telling them how much there is",
-      "url": "https://finance.yahoo.com/small-business/articles/nobody-prepared-them-ultrawealthy-worry-085400278.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-25T08:54:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
-      "source": "investing.com",
-      "published": "2026-10-25T08:50:52+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "23,870 Citigroup Inc. $C Shares Acquired by Citizens Financial Group Inc. RI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-23870-citigroup-inc-c-shares-acquired-by-citizens-financial-group-inc-ri-2026-10-25/",
-      "source": "marketbeat.com",
-      "published": "2026-10-25T08:16:57+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
