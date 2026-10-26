@@ -1,60 +1,68 @@
 {
-  "last_updated": "2026-10-26T15:04:18.186076+00:00",
+  "last_updated": "2026-10-26T20:41:42.706457+00:00",
   "headlines": [
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032554/0001918704-26-032554-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032631/0001918704-26-032631-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-26T14:22:42+00:00",
+      "published": "2026-10-26T19:57:40+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Goldman Sachs to Lead Anthropic IPO",
-      "url": "https://www.theinformation.com/briefings/goldman-sachs-lead-anthropic-ipo",
-      "source": "theinformation.com",
-      "published": "2026-10-26T14:22:35+00:00",
+      "title": "Goldman and Morgan Stanley stocks rise after scoring plum roles in Anthropic IPO",
+      "url": "https://seekingalpha.com/news/4657478-goldman-and-morgan-stanley-stocks-rise-after-scoring-plum-roles-in-anthropic-ipo",
+      "source": "seekingalpha.com",
+      "published": "2026-10-26T19:43:07+00:00",
       "tickers": [
         "GS",
         "MS"
       ]
     },
     {
-      "title": "Bank of America Initiates Coverage on AutoZone (NYSE:AZO)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-initiates-coverage-on-autozone-nyse-azo-2026-10-26/",
-      "source": "marketbeat.com",
-      "published": "2026-10-26T14:07:34+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016168/0000950103-26-016168-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T19:41:36+00:00",
       "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Begins Coverage on O'Reilly Automotive (NASDAQ:ORLY)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-begins-coverage-on-oreilly-automotive-nasdaq-orly-2026-10-26/",
-      "source": "marketbeat.com",
-      "published": "2026-10-26T14:07:03+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052494/0001839882-26-052494-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T19:38:54+00:00",
       "tickers": [
-        "BAC",
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Advance Auto Parts (NYSE:AAP) Now Covered by Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-advance-auto-parts-nyse-aap-now-covered-by-bank-of-america-2026-10-26/",
-      "source": "marketbeat.com",
-      "published": "2026-10-26T14:06:48+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226052490/0001839882-26-052490-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T19:33:03+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Installed Building Products rated Buy in new coverage at Bank of America",
-      "url": "https://seekingalpha.com/news/4657198-installed-building-products-rated-buy-in-new-coverage-at-bank-of-america",
+      "title": "NorthWestern Energy upgraded at Wells Fargo as merger creates more diversified utility | $NWE $BKH",
+      "url": "https://seekingalpha.com/news/4657464-northwestern-energy-upgraded-at-wells-fargo-as-merger-creates-more-diversified-utility",
       "source": "seekingalpha.com",
-      "published": "2026-10-26T14:05:22+00:00",
+      "published": "2026-10-26T19:27:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Voya Large Cap Core-Value SMA (Merrill) Q3 2026 Commentary",
+      "url": "https://seekingalpha.com/article/4957596-voya-large-cap-core-value-sma-merrill-q3-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-10-26T19:25:00+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -62,104 +70,114 @@
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032551/0001918704-26-032551-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016167/0000950103-26-016167-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-26T14:04:05+00:00",
+      "published": "2026-10-26T19:19:52+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052347/0001839882-26-052347-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T14:02:39+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032549/0001918704-26-032549-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T14:01:28+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bearish Sentiment Ticks up as Investors Grow More Cautious, Morgan Stanley Wealth Management Pulse Survey Finds",
-      "url": "http://www.businesswire.com/news/home/20261023812945/en/Bearish-Sentiment-Ticks-up-as-Investors-Grow-More-Cautious-Morgan-Stanley-Wealth-Management-Pulse-Survey-Finds/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-10-26T14:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Elavon to Deliver Seamless Embedded Payments Across SAP Applications",
-      "url": "http://www.businesswire.com/news/home/20261026247576/en/Elavon-to-Deliver-Seamless-Embedded-Payments-Across-SAP-Applications/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "source": "businesswire.com",
-      "published": "2026-10-26T14:00:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Morgan Stanley upgrades Safehold citing headwinds may have been priced in",
-      "url": "https://seekingalpha.com/news/4657171-morgan-stanley-upgrades-safehold-citing-headwinds-may-have-been-priced-in",
-      "source": "seekingalpha.com",
-      "published": "2026-10-26T13:58:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112316/0001213900-26-112316-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T13:36:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AI investment growth is expected to peak this quarter – Goldman Sachs",
-      "url": "https://seekingalpha.com/news/4657159-ai-investment-growth-is-expected-to-peak-this-quarter-goldman-sachs",
-      "source": "seekingalpha.com",
-      "published": "2026-10-26T13:34:22+00:00",
+      "title": "Goldman Sachs Drops Stark Forecast for AI Stocks",
+      "url": "https://www.gurufocus.com/news/9142494/goldman-sachs-drops-stark-forecast-for-ai-stocks",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T19:04:50+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032534/0001918704-26-032534-index.htm",
+      "title": "BAH Maintained by Citigroup -- Price Target Raised to $88",
+      "url": "https://www.gurufocus.com/news/9142879/bah-maintained-by-citigroup-price-target-raised-to-88",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T19:04:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BPOP Maintained by Citigroup -- Price Target Raised to $193.00",
+      "url": "https://www.gurufocus.com/news/9142878/bpop-maintained-by-citigroup-price-target-raised-to-19300",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T19:04:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112436/0001213900-26-112436-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-26T13:32:17+00:00",
+      "published": "2026-10-26T19:02:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BoA Targets 3m Tonnes Of Ginger Production In 5 Years",
+      "url": "https://leadership.ng/boa-targets-3m-tonnes-of-ginger-production-in-5-years/",
+      "source": "leadership.ng",
+      "published": "2026-10-26T18:59:33+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-files-for-ipo-plans-to-trade-on-nasdaq-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-26T13:29:43+00:00",
+      "title": "Amer Sports Leads Athletic Footwear This Holiday Season as Others Struggle, Bank of America Says",
+      "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-lululemon-athletic-footwear-holiday-off-price-salomon-1239385565/",
+      "source": "wwd.com",
+      "published": "2026-10-26T18:57:21+00:00",
       "tickers": [
-        "GS",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Sees Market Bottom Near as SPY Trades Near 7,688",
+      "url": "https://www.gurufocus.com/news/9142830/morgan-stanley-sees-market-bottom-near-as-spy-trades-near-7688",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T18:56:58+00:00",
+      "tickers": [
         "MS"
       ]
     },
     {
-      "title": "JPMorgan Chase & Co. Upgrades Genmab A/S (NASDAQ:GMAB) to “Overweight”",
-      "url": "https://www.tickerreport.com/banking-finance/13637048/jpmorgan-chase-co-upgrades-genmab-a-s-nasdaqgmab-to-overweight.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T13:18:45+00:00",
+      "title": "Morgan Stanley Highlights CrowdStrike (CRWD) as Key Beneficiary of AI Model Expansion",
+      "url": "https://www.gurufocus.com/news/9142827/morgan-stanley-highlights-crowdstrike-crwd-as-key-beneficiary-of-ai-model-expansion",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T18:56:23+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Kaiser Aluminum upgraded at J.P. Morgan following post-earnings weakness",
+      "url": "https://seekingalpha.com/news/4657458-kaiser-aluminum-upgraded-at-jp-morgan-following-post-earnings-weakness",
+      "source": "seekingalpha.com",
+      "published": "2026-10-26T18:52:21+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America Warns S&P 500 Faces Critical Test",
+      "url": "https://www.gurufocus.com/news/9142651/bank-of-america-warns-sp-500-faces-critical-test",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T18:48:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052472/0001839882-26-052472-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T18:47:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
       ]
     }
   ]
