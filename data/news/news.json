@@ -1,283 +1,165 @@
 {
-  "last_updated": "2026-10-26T07:40:12.428815+00:00",
+  "last_updated": "2026-10-26T15:04:18.186076+00:00",
   "headlines": [
     {
-      "title": "French stocks: ‘Buy when there’s blood in the streets’?",
-      "url": "https://www.irishtimes.com/your-money/2026/10/26/french-stocks-buy-when-theres-blood-in-the-streets/",
-      "source": "irishtimes.com",
-      "published": "2026-10-26T05:52:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NVR (NYSE:NVR) Cut to Underperform at Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13636568/nvr-nysenvr-cut-to-underperform-at-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:43:13+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "American Airlines Group (NASDAQ:AAL) Stock Gets Price Target Cut from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13636562/american-airlines-group-nasdaqaal-stock-gets-price-target-cut-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:37:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Fortinet (NASDAQ:FTNT) Price Target Raised to $140.00",
-      "url": "https://www.tickerreport.com/banking-finance/13636555/fortinet-nasdaqftnt-price-target-raised-to-140-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:31:06+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032554/0001918704-26-032554-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T14:22:42+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Agree Realty (NYSE:ADC) Stock Gets Price Target Trim from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13636549/agree-realty-nyseadc-stock-gets-price-target-trim-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:24:52+00:00",
+      "title": "Goldman Sachs to Lead Anthropic IPO",
+      "url": "https://www.theinformation.com/briefings/goldman-sachs-lead-anthropic-ipo",
+      "source": "theinformation.com",
+      "published": "2026-10-26T14:22:35+00:00",
       "tickers": [
-        "C"
+        "GS",
+        "MS"
       ]
     },
     {
-      "title": "Affirm (NASDAQ:AFRM) Price Target Raised to $88.00",
-      "url": "https://www.tickerreport.com/banking-finance/13636546/affirm-nasdaqafrm-price-target-raised-to-88-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:18:55+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Bloomin’ Brands (NASDAQ:BLMN) Stock Gets Price Target Trim from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13636543/bloomin-brands-nasdaqblmn-stock-gets-price-target-trim-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:18:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FY2026 EPS Forecast for Morgan Stanley Boosted by Analyst",
-      "url": "https://www.marketbeat.com/instant-alerts/estimates-fy2026-eps-forecast-for-morgan-stanley-boosted-by-analyst-2026-10-26/",
+      "title": "Bank of America Initiates Coverage on AutoZone (NYSE:AZO)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-initiates-coverage-on-autozone-nyse-azo-2026-10-26/",
       "source": "marketbeat.com",
-      "published": "2026-10-26T05:13:05+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "source": "coindesk.com",
-      "published": "2026-10-26T04:37:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Shriram Finance shares crash 6% as Jefferies, Citi, and other brokerages slash target prices after Q2 results. Why do they still say ‘Buy’?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-shares-crash-6-as-jefferies-citi-and-other-brokerages-slash-target-prices-after-q2-results-why-do-they-still-say-buy/articleshow/135202853.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-26T04:36:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees Further China Stock Downside Before Bottom",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-sees-further-china-stock-downside-before-bottom",
-      "source": "bloomberg.com",
-      "published": "2026-10-26T04:03:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Samsung, SK Hynix stocks fall again, but Goldman sees 60% upside: here's why",
-      "url": "https://invezz.com/news/2026/10/26/samsung-sk-hynix-stocks-fall-again-but-goldman-sees-60-upside-heres-why/",
-      "source": "invezz.com",
-      "published": "2026-10-26T03:35:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs: Yen (JPY) Becomes a More Effective Hedge Amid AI Market Impact",
-      "url": "https://www.gurufocus.com/news/9141517/goldman-sachs-yen-jpy-becomes-a-more-effective-hedge-amid-ai-market-impact",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T02:30:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Carolina Panthers - Tampa Bay Buccaneers nose tackle Vita Vea (50) sacks Carolina ...",
-      "url": "https://morganton.com/image_57c3975f-82aa-47e4-9e5f-c2071b508d68.html",
-      "source": "morganton.com",
-      "published": "2026-10-26T01:20:00+00:00",
+      "published": "2026-10-26T14:07:34+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Jane Fraser Has Spent Years Rebuilding Citi. Here’s What Earnings Reveal",
-      "url": "https://observer.com/2026/10/jane-fraser-citigroup-restructuring-returns/",
-      "source": "observer.com",
-      "published": "2026-10-26T01:15:45+00:00",
+      "title": "Bank of America Begins Coverage on O'Reilly Automotive (NASDAQ:ORLY)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-begins-coverage-on-oreilly-automotive-nasdaq-orly-2026-10-26/",
+      "source": "marketbeat.com",
+      "published": "2026-10-26T14:07:03+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Advance Auto Parts (NYSE:AAP) Now Covered by Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-advance-auto-parts-nyse-aap-now-covered-by-bank-of-america-2026-10-26/",
+      "source": "marketbeat.com",
+      "published": "2026-10-26T14:06:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Installed Building Products rated Buy in new coverage at Bank of America",
+      "url": "https://seekingalpha.com/news/4657198-installed-building-products-rated-buy-in-new-coverage-at-bank-of-america",
+      "source": "seekingalpha.com",
+      "published": "2026-10-26T14:05:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032551/0001918704-26-032551-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T14:04:05+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Winston-Salem’s West End Center undergoing $100 million data center renovation",
-      "url": "https://www.charlotteobserver.com/living/article317758684.html#new_tab",
-      "source": "charlotteobserver.com",
-      "published": "2026-10-26T01:09:08+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052347/0001839882-26-052347-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T14:02:39+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Bank of America, Truist and First Citizens lead N.C. bank rankings",
-      "url": "https://www.bizjournals.com/charlotte/research/lists/2026/north-carolina-bank-america-truist-first-citizens.html#new_tab",
-      "source": "bizjournals.com",
-      "published": "2026-10-26T01:07:48+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032549/0001918704-26-032549-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T14:01:28+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bearish Sentiment Ticks up as Investors Grow More Cautious, Morgan Stanley Wealth Management Pulse Survey Finds",
+      "url": "http://www.businesswire.com/news/home/20261023812945/en/Bearish-Sentiment-Ticks-up-as-Investors-Grow-More-Cautious-Morgan-Stanley-Wealth-Management-Pulse-Survey-Finds/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-10-26T14:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Elavon to Deliver Seamless Embedded Payments Across SAP Applications",
+      "url": "http://www.businesswire.com/news/home/20261026247576/en/Elavon-to-Deliver-Seamless-Embedded-Payments-Across-SAP-Applications/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-10-26T14:00:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Morgan Stanley upgrades Safehold citing headwinds may have been priced in",
+      "url": "https://seekingalpha.com/news/4657171-morgan-stanley-upgrades-safehold-citing-headwinds-may-have-been-priced-in",
+      "source": "seekingalpha.com",
+      "published": "2026-10-26T13:58:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112316/0001213900-26-112316-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T13:36:53+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AI investment growth is expected to peak this quarter – Goldman Sachs",
+      "url": "https://seekingalpha.com/news/4657159-ai-investment-growth-is-expected-to-peak-this-quarter-goldman-sachs",
+      "source": "seekingalpha.com",
+      "published": "2026-10-26T13:34:22+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032534/0001918704-26-032534-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T13:32:17+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "What to make of Vikings' 16-10 win over Colts, 6-0 start | Vikings Now Podcast",
-      "url": "https://www.fox9.com/video/fmc-ue7kc8poqgvmfm8n",
-      "source": "fox9.com",
-      "published": "2026-10-26T00:57:54+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Lowers KOSPI Target by 25%, Sees Upside Potential",
-      "url": "https://www.gurufocus.com/news/9141465/goldman-sachs-lowers-kospi-target-by-25-sees-upside-potential",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T00:29:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi AAdvantage Executive Card Adds $200 Annual InKind Dining Credit",
-      "url": "https://onemileatatime.com/news/citi-aadvantage-executive-card-inkind-dining-credit/",
-      "source": "onemileatatime.com",
-      "published": "2026-10-26T00:20:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Loan from credit union to pay off credit card debt.",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xfhrvm/loan_from_credit_union_to_pay_off_credit_card_debt/",
-      "source": "reddit.com",
-      "published": "2026-10-25T23:59:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-says-yen-becoming-better-hedge-against-ai-market-shock",
+      "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-files-for-ipo-plans-to-trade-on-nasdaq-video",
       "source": "bloomberg.com",
-      "published": "2026-10-25T23:22:52+00:00",
+      "published": "2026-10-26T13:29:43+00:00",
       "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan and Wall Street Giants Block AI Agents Over Security Fears",
-      "url": "https://news.bitcoin.com/finance/jpmorgan-and-wall-street-giants-block-ai-agents-over-security-fears/",
-      "source": "bitcoin.com",
-      "published": "2026-10-25T22:45:00+00:00",
-      "tickers": [
-        "JPM",
-        "C"
-      ]
-    },
-    {
-      "title": "Infosys shares fall 4% after IT major lowers FY27 guidance. What are Goldman Sachs, Nomura, others saying?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-fall-4-after-it-major-lowers-fy27-guidance-what-are-goldman-sachs-nomura-others-saying/articleshow/135202432.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-25T22:37:28+00:00",
-      "tickers": [
-        "C",
         "GS",
         "MS"
       ]
     },
     {
-      "title": "Kotak Mahindra Bank shares climb 4% after Q2 results. What are Jefferies, Goldman Sachs saying?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-25T22:36:22+00:00",
+      "title": "JPMorgan Chase & Co. Upgrades Genmab A/S (NASDAQ:GMAB) to “Overweight”",
+      "url": "https://www.tickerreport.com/banking-finance/13637048/jpmorgan-chase-co-upgrades-genmab-a-s-nasdaqgmab-to-overweight.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-26T13:18:45+00:00",
       "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Adds $200 In Annual Dining Credits To Its American Airlines Executive Card—$100 Available Now",
-      "url": "https://viewfromthewing.com/citi-adds-200-in-annual-dining-credits-to-its-american-airlines-executive-card-100-available-now/",
-      "source": "viewfromthewing.com",
-      "published": "2026-10-25T22:22:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman lists 3 factors that support long commodities positions",
-      "url": "https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
-      "source": "investing.com",
-      "published": "2026-10-25T21:53:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Vikings locker room reacts after 16-10 win over Colts, 6-0 start",
-      "url": "https://www.fox9.com/video/fmc-vtlnq4zbsmxz00zg",
-      "source": "fox9.com",
-      "published": "2026-10-25T21:38:50+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Minnesota Vikings cornerback Byron Murphy Jr. breaks up a pass intended for Indianapolis Colts running back Jonathan Taylor on Sunday, Oct. 25, 2026, at U.S. Bank Stadium in Minneapolis.",
-      "url": "https://thebrunswicknews.com/news/national_news/minnesota-vikings-cornerback-byron-murphy-jr-breaks-up-a-pass-intended-for-indianapolis-colts-running/image_afd16d64-4e98-50dd-a84f-bbfcf0b58cc6.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-25T21:21:00+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Vikings QB Kyler Murray: 'We’ve got to put the ball in the end zone'",
-      "url": "https://www.fox9.com/video/fmc-538hfqkrvqkzqvnb",
-      "source": "fox9.com",
-      "published": "2026-10-25T21:01:38+00:00",
-      "tickers": [
-        "USB"
+        "JPM"
       ]
     }
   ]
