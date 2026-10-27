@@ -1,183 +1,186 @@
 {
-  "last_updated": "2026-10-26T20:41:42.706457+00:00",
+  "last_updated": "2026-10-27T00:19:25.615495+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032631/0001918704-26-032631-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T19:57:40+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman and Morgan Stanley stocks rise after scoring plum roles in Anthropic IPO",
-      "url": "https://seekingalpha.com/news/4657478-goldman-and-morgan-stanley-stocks-rise-after-scoring-plum-roles-in-anthropic-ipo",
-      "source": "seekingalpha.com",
-      "published": "2026-10-26T19:43:07+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016168/0000950103-26-016168-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T19:41:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052494/0001839882-26-052494-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T19:38:54+00:00",
+      "title": "Analysts Stand by Meta’s AI Push Despite $95 Billion Equity Plan Scrutiny",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/analysts-stand-by-metas-ai-push-despite-95-billion-equity-plan-scrutiny/",
+      "source": "pymnts.com",
+      "published": "2026-10-26T22:37:33+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226052490/0001839882-26-052490-index.htm",
+      "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE:DMB) Shares Shorted: Short Interest Down 88.5% in October",
+      "url": "https://www.tickerreport.com/banking-finance/13637625/bny-mellon-municipal-bond-infrastructure-fund-inc-nysedmb-shares-shorted-short-interest-down-88-5-in-october.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-26T22:20:58+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of New York Mellon Corp: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000195824426000673/0001958244-26-000673-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-26T19:33:03+00:00",
+      "published": "2026-10-26T22:16:43+00:00",
       "tickers": [
-        "MS"
+        "BK"
       ]
     },
     {
-      "title": "NorthWestern Energy upgraded at Wells Fargo as merger creates more diversified utility | $NWE $BKH",
-      "url": "https://seekingalpha.com/news/4657464-northwestern-energy-upgraded-at-wells-fargo-as-merger-creates-more-diversified-utility",
-      "source": "seekingalpha.com",
-      "published": "2026-10-26T19:27:28+00:00",
+      "title": "Truist Financial (TFC) Plans Sale of Afco Credit Insurance Financing Unit",
+      "url": "https://www.gurufocus.com/news/9143020/truist-financial-tfc-plans-sale-of-afco-credit-insurance-financing-unit",
+      "source": "gurufocus.com",
+      "published": "2026-10-26T21:55:27+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "C",
+        "TFC"
       ]
     },
     {
-      "title": "Voya Large Cap Core-Value SMA (Merrill) Q3 2026 Commentary",
-      "url": "https://seekingalpha.com/article/4957596-voya-large-cap-core-value-sma-merrill-q3-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-10-26T19:25:00+00:00",
+      "title": "Beacon Financial (NYSE:BBT) Director Purchases $104,983.50 in Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13637593/beacon-financial-nysebbt-director-purchases-104983-50-in-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-26T21:41:16+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)",
+      "url": "https://www.techmeme.com/261026/p47#a261026p47",
+      "source": "techmeme.com",
+      "published": "2026-10-26T21:35:01+00:00",
       "tickers": [
         "BAC",
-        "C"
+        "C",
+        "MS"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016167/0000950103-26-016167-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T19:19:52+00:00",
+      "title": "Neuberger experiences? - Hi all, I’m thinking about moving from Wells Fargo to Neuberger ...",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xg9ury/neuberger_experiences/",
+      "source": "reddit.com",
+      "published": "2026-10-26T21:30:48+00:00",
       "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs Drops Stark Forecast for AI Stocks",
-      "url": "https://www.gurufocus.com/news/9142494/goldman-sachs-drops-stark-forecast-for-ai-stocks",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T19:04:50+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526432185/0001193125-26-432185-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T21:23:22+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "BAH Maintained by Citigroup -- Price Target Raised to $88",
-      "url": "https://www.gurufocus.com/news/9142879/bah-maintained-by-citigroup-price-target-raised-to-88",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T19:04:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BPOP Maintained by Citigroup -- Price Target Raised to $193.00",
-      "url": "https://www.gurufocus.com/news/9142878/bpop-maintained-by-citigroup-price-target-raised-to-19300",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T19:04:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112436/0001213900-26-112436-index.htm",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032661/0001918704-26-032661-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-26T19:02:05+00:00",
+      "published": "2026-10-26T21:21:31+00:00",
       "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BoA Targets 3m Tonnes Of Ginger Production In 5 Years",
-      "url": "https://leadership.ng/boa-targets-3m-tonnes-of-ginger-production-in-5-years/",
-      "source": "leadership.ng",
-      "published": "2026-10-26T18:59:33+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "Amer Sports Leads Athletic Footwear This Holiday Season as Others Struggle, Bank of America Says",
-      "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-lululemon-athletic-footwear-holiday-off-price-salomon-1239385565/",
-      "source": "wwd.com",
-      "published": "2026-10-26T18:57:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees Market Bottom Near as SPY Trades Near 7,688",
-      "url": "https://www.gurufocus.com/news/9142830/morgan-stanley-sees-market-bottom-near-as-spy-trades-near-7688",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T18:56:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Highlights CrowdStrike (CRWD) as Key Beneficiary of AI Model Expansion",
-      "url": "https://www.gurufocus.com/news/9142827/morgan-stanley-highlights-crowdstrike-crwd-as-key-beneficiary-of-ai-model-expansion",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T18:56:23+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kaiser Aluminum upgraded at J.P. Morgan following post-earnings weakness",
-      "url": "https://seekingalpha.com/news/4657458-kaiser-aluminum-upgraded-at-jp-morgan-following-post-earnings-weakness",
+      "title": "BofA, Blackstone, Citi, Morgan Stanley lead $63B AI compute financing in pact with Broadcom",
+      "url": "https://seekingalpha.com/news/4657610-bofa-blackstone-citi-morgan-stanley-lead-63b-ai-compute-financing-in-pact-with-broadcom",
       "source": "seekingalpha.com",
-      "published": "2026-10-26T18:52:21+00:00",
+      "published": "2026-10-26T21:18:45+00:00",
       "tickers": [
-        "JPM"
+        "BAC",
+        "C",
+        "MS"
       ]
     },
     {
-      "title": "Bank of America Warns S&P 500 Faces Critical Test",
-      "url": "https://www.gurufocus.com/news/9142651/bank-of-america-warns-sp-500-faces-critical-test",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T18:48:50+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032660/0001918704-26-032660-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T21:18:30+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052472/0001839882-26-052472-index.htm",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016177/0000950103-26-016177-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-26T18:47:28+00:00",
+      "published": "2026-10-26T21:14:37+00:00",
       "tickers": [
-        "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Beacon Financial (NYSE:BBT) General Counsel Sells $19,621.01 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-beacon-financial-nyse-bbt-general-counsel-sells-1962101-in-stock-2026-10-26/",
+      "source": "marketbeat.com",
+      "published": "2026-10-26T21:09:02+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Beacon Financial (NYSE:BBT) Stock: Insider Thomas Hollister Acquires 3,450 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-beacon-financial-nyse-bbt-stock-insider-thomas-hollister-acquires-3450-shares-2026-10-26/",
+      "source": "marketbeat.com",
+      "published": "2026-10-26T21:08:46+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Insider Selling: The Goldman Sachs Group (NYSE:GS) Insider Sells $222,562.50 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-the-goldman-sachs-group-nyse-gs-insider-sells-22256250-in-stock-2026-10-26/",
+      "source": "marketbeat.com",
+      "published": "2026-10-26T21:08:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Western Digital (NASDAQ:WDC) Stock Price Up 3.6% on Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13637554/western-digital-nasdaqwdc-stock-price-up-3-6-on-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-26T21:01:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112524/0001213900-26-112524-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-26T21:00:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group (NYSE:GS) Stock Jumps 2% After Analyst Upgrade",
+      "url": "https://www.marketbeat.com/instant-alerts/price-the-goldman-sachs-group-nyse-gs-stock-jumps-2-after-analyst-upgrade-2026-10-26/",
+      "source": "marketbeat.com",
+      "published": "2026-10-26T21:00:37+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Could Hyperliquid (HYPE) Overtake Solana (SOL) in Market Value by 2030? Claude AI Puts a Number on It",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/26/could-hyperliquid-hype-overtake-solana-sol-in-market-value-by-2030-claude-ai-puts-a-number-on-it/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-26T21:00:28+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
