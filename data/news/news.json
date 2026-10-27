@@ -1,6 +1,127 @@
 {
-  "last_updated": "2026-10-27T00:19:25.615495+00:00",
+  "last_updated": "2026-10-27T05:27:55.561363+00:00",
   "headlines": [
+    {
+      "title": "Paytm shares rise 2% after Q2 results. What are Jefferies, Goldman Sachs, and others saying?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-rise-2-after-q2-results-what-are-jefferies-goldman-sachs-and-others-saying/articleshow/135224018.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-27T04:02:03+00:00",
+      "tickers": [
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-market-is-a-buy-right-now-jp-morgan-asset-managements-fixed-income-head-says/articleshow/135223602.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-27T03:28:08+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Apparently Wells Fargo is terrible? looking for advice on switching",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xgh1zc/apparently_wells_fargo_is_terrible_looking_for/",
+      "source": "reddit.com",
+      "published": "2026-10-27T02:44:59+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BNY CFO on AI Strategy, Business Growth",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/bny-cfo-on-ai-strategy-business-growth-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-27T02:31:44+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Ripple Wins Final US Bank Charter: CEO Calls It ‘Big News’ Ahead of Swell",
+      "url": "https://news.bitcoin.com/featured/ripple-wins-final-us-bank-charter-ceo-calls-it-big-news-ahead-of-swell/",
+      "source": "bitcoin.com",
+      "published": "2026-10-27T02:15:22+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Clayton Echard attends 102.7 KIIS FM's Jingle Ball 2021 Presented By Capital One at The Forum on Dec. 3, 2021, in Inglewood, California.",
+      "url": "https://thebrunswicknews.com/clayton-echard-attends-102-7-kiis-fms-jingle-ball-2021-presented-by-capital-one-at/image_25709aa7-6592-53ae-882b-34b4040fc55f.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-10-27T01:37:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
+      "url": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-27T01:09:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Anthropic selects Goldman, Morgan Stanley for US IPO amid legal challenges",
+      "url": "https://cryptobriefing.com/anthropic-selects-goldman-morgan-stanley-for-us-ipo-amid-legal-challenges/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-27T00:32:59+00:00",
+      "tickers": [
+        "GS",
+        "MS"
+      ]
+    },
+    {
+      "title": "Urban Company taps Morgan Stanley for Rs 2,500 crore QIP",
+      "url": "https://economictimes.indiatimes.com/tech/startups/urban-company-appoints-morgan-stanley-to-manage-its-rs-2500-crore-qip/articleshow/135213437.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-27T00:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Save the Date: HUTCHMED to Host Expert Insights Event on Recent Savolitinib Clinical Data in ...",
+      "url": "https://www.newspressnow.com/sports/chiefs/save-the-date-hutchmed-to-host-expert-insights-event-on-recent-savolitinib-clinical-data-in/article_2843cad8-1a62-5cbc-9b76-32d2748b1e9a.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-27T00:00:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. (C) Files Form 8-K With SEC, Confirming Reporting Compliance",
+      "url": "https://www.gurufocus.com/news/9143421/citigroup-inc-c-files-form-8k-with-sec-confirming-reporting-compliance",
+      "source": "gurufocus.com",
+      "published": "2026-10-27T00:00:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic - Reuters",
+      "url": "https://news.google.com/atom/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
+      "source": "google.com",
+      "published": "2026-10-26T23:56:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Singapore’s wealthy keep more than 70% of assets in cash despite rising wealth: Citi",
+      "url": "https://www.straitstimes.com/business/singapores-wealthy-keep-more-than-70-of-assets-in-cash-despite-rising-wealth-citi",
+      "source": "straitstimes.com",
+      "published": "2026-10-26T23:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Analysts Stand by Meta’s AI Push Despite $95 Billion Equity Plan Scrutiny",
       "url": "https://www.pymnts.com/news/investment-tracker/2026/analysts-stand-by-metas-ai-push-despite-95-billion-equity-plan-scrutiny/",
@@ -152,33 +273,6 @@
       "url": "https://www.tickerreport.com/banking-finance/13637554/western-digital-nasdaqwdc-stock-price-up-3-6-on-analyst-upgrade.html",
       "source": "tickerreport.com",
       "published": "2026-10-26T21:01:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112524/0001213900-26-112524-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T21:00:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group (NYSE:GS) Stock Jumps 2% After Analyst Upgrade",
-      "url": "https://www.marketbeat.com/instant-alerts/price-the-goldman-sachs-group-nyse-gs-stock-jumps-2-after-analyst-upgrade-2026-10-26/",
-      "source": "marketbeat.com",
-      "published": "2026-10-26T21:00:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Could Hyperliquid (HYPE) Overtake Solana (SOL) in Market Value by 2030? Claude AI Puts a Number on It",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/26/could-hyperliquid-hype-overtake-solana-sol-in-market-value-by-2030-claude-ai-puts-a-number-on-it/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-10-26T21:00:28+00:00",
       "tickers": [
         "JPM"
       ]
