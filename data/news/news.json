@@ -1,280 +1,293 @@
 {
-  "last_updated": "2026-10-27T05:27:55.561363+00:00",
+  "last_updated": "2026-10-27T10:52:25.966790+00:00",
   "headlines": [
     {
-      "title": "Paytm shares rise 2% after Q2 results. What are Jefferies, Goldman Sachs, and others saying?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-rise-2-after-q2-results-what-are-jefferies-goldman-sachs-and-others-saying/articleshow/135224018.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-27T04:02:03+00:00",
+      "title": "27,893 Citigroup Inc. $C Shares Bought by Oppenheimer & Co. Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-27893-citigroup-inc-c-shares-bought-by-oppenheimer-co-inc-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T10:24:59+00:00",
       "tickers": [
-        "C",
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Shares Bought by Oppenheimer & Co. Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-bought-by-oppenheimer-co-inc-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T10:24:57+00:00",
+      "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-market-is-a-buy-right-now-jp-morgan-asset-managements-fixed-income-head-says/articleshow/135223602.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-27T03:28:08+00:00",
+      "title": "PNC economist: Cincinnati’s slow population growth could hold back expansion",
+      "url": "https://www.bizjournals.com/cincinnati/news/2026/10/27/pnc-economist-outlook-labor-market-growth.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-27T10:08:31+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Banks are blocking external AI agents. Is this sustainable?",
+      "url": "https://www.americanbanker.com/news/banks-are-blocking-external-ai-agents-is-this-sustainable",
+      "source": "americanbanker.com",
+      "published": "2026-10-27T10:00:00+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase Says That Bitcoin Will Outperform Stocks, Bonds, and Gold Over the Next 10 Years. Here's Why It Might Be Right",
+      "url": "https://www.fool.com/investing/2026/10/27/jpmorgan-chase-says-that-bitcoin-will-outperform-s/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-27T09:45:00+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Apparently Wells Fargo is terrible? looking for advice on switching",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xgh1zc/apparently_wells_fargo_is_terrible_looking_for/",
-      "source": "reddit.com",
-      "published": "2026-10-27T02:44:59+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY CFO on AI Strategy, Business Growth",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/bny-cfo-on-ai-strategy-business-growth-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-27T02:31:44+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Ripple Wins Final US Bank Charter: CEO Calls It ‘Big News’ Ahead of Swell",
-      "url": "https://news.bitcoin.com/featured/ripple-wins-final-us-bank-charter-ceo-calls-it-big-news-ahead-of-swell/",
-      "source": "bitcoin.com",
-      "published": "2026-10-27T02:15:22+00:00",
+      "title": "Minnesota Vikings linebacker Blake Cashman pressures Indianapolis Colts quarterback Daniel Jones during the fourth quarter Sunday, Oct. 25, 2026, at U.S. Bank Stadium in Minneapolis.",
+      "url": "https://thebrunswicknews.com/news/national_news/minnesota-vikings-linebacker-blake-cashman-pressures-indianapolis-colts-quarterback-daniel-jones-during-the-fourth-quarter/image_5c2426e1-e303-5f94-bf7d-1e794eb27404.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-10-27T09:30:00+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "Clayton Echard attends 102.7 KIIS FM's Jingle Ball 2021 Presented By Capital One at The Forum on Dec. 3, 2021, in Inglewood, California.",
-      "url": "https://thebrunswicknews.com/clayton-echard-attends-102-7-kiis-fms-jingle-ball-2021-presented-by-capital-one-at/image_25709aa7-6592-53ae-882b-34b4040fc55f.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-10-27T01:37:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
-      "url": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-27T01:09:00+00:00",
+      "title": "JPMorgan Chase: A Fortress Built For Uncertain Times | $JPM",
+      "url": "https://seekingalpha.com/article/4957813-jpmorgan-chase-a-fortress-built-for-uncertain-times",
+      "source": "seekingalpha.com",
+      "published": "2026-10-27T09:08:21+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Anthropic selects Goldman, Morgan Stanley for US IPO amid legal challenges",
-      "url": "https://cryptobriefing.com/anthropic-selects-goldman-morgan-stanley-for-us-ipo-amid-legal-challenges/",
-      "source": "cryptobriefing.com",
-      "published": "2026-10-27T00:32:59+00:00",
+      "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
+      "url": "https://www.nytimes.com/2026/10/27/business/in-anthropic-ipo-goldman-and-morgan-stanley-slug-it-out-for-top-bank.html",
+      "source": "nytimes.com",
+      "published": "2026-10-27T09:05:33+00:00",
       "tickers": [
         "GS",
         "MS"
       ]
     },
     {
-      "title": "Urban Company taps Morgan Stanley for Rs 2,500 crore QIP",
-      "url": "https://economictimes.indiatimes.com/tech/startups/urban-company-appoints-morgan-stanley-to-manage-its-rs-2500-crore-qip/articleshow/135213437.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-27T00:30:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Save the Date: HUTCHMED to Host Expert Insights Event on Recent Savolitinib Clinical Data in ...",
-      "url": "https://www.newspressnow.com/sports/chiefs/save-the-date-hutchmed-to-host-expert-insights-event-on-recent-savolitinib-clinical-data-in/article_2843cad8-1a62-5cbc-9b76-32d2748b1e9a.html",
-      "source": "newspressnow.com",
-      "published": "2026-10-27T00:00:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. (C) Files Form 8-K With SEC, Confirming Reporting Compliance",
-      "url": "https://www.gurufocus.com/news/9143421/citigroup-inc-c-files-form-8k-with-sec-confirming-reporting-compliance",
-      "source": "gurufocus.com",
-      "published": "2026-10-27T00:00:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic - Reuters",
-      "url": "https://news.google.com/atom/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
-      "source": "google.com",
-      "published": "2026-10-26T23:56:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Singapore’s wealthy keep more than 70% of assets in cash despite rising wealth: Citi",
-      "url": "https://www.straitstimes.com/business/singapores-wealthy-keep-more-than-70-of-assets-in-cash-despite-rising-wealth-citi",
-      "source": "straitstimes.com",
-      "published": "2026-10-26T23:30:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Analysts Stand by Meta’s AI Push Despite $95 Billion Equity Plan Scrutiny",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/analysts-stand-by-metas-ai-push-despite-95-billion-equity-plan-scrutiny/",
-      "source": "pymnts.com",
-      "published": "2026-10-26T22:37:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE:DMB) Shares Shorted: Short Interest Down 88.5% in October",
-      "url": "https://www.tickerreport.com/banking-finance/13637625/bny-mellon-municipal-bond-infrastructure-fund-inc-nysedmb-shares-shorted-short-interest-down-88-5-in-october.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T22:20:58+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Bank of New York Mellon Corp: Form 144 - Report of proposed sale of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390777/000195824426000673/0001958244-26-000673-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T22:16:43+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Truist Financial (TFC) Plans Sale of Afco Credit Insurance Financing Unit",
-      "url": "https://www.gurufocus.com/news/9143020/truist-financial-tfc-plans-sale-of-afco-credit-insurance-financing-unit",
-      "source": "gurufocus.com",
-      "published": "2026-10-26T21:55:27+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Beacon Financial (NYSE:BBT) Director Purchases $104,983.50 in Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13637593/beacon-financial-nysebbt-director-purchases-104983-50-in-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T21:41:16+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)",
-      "url": "https://www.techmeme.com/261026/p47#a261026p47",
-      "source": "techmeme.com",
-      "published": "2026-10-26T21:35:01+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Neuberger experiences? - Hi all, I’m thinking about moving from Wells Fargo to Neuberger ...",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xg9ury/neuberger_experiences/",
-      "source": "reddit.com",
-      "published": "2026-10-26T21:30:48+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526432185/0001193125-26-432185-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T21:23:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426032661/0001918704-26-032661-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T21:21:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA, Blackstone, Citi, Morgan Stanley lead $63B AI compute financing in pact with Broadcom",
-      "url": "https://seekingalpha.com/news/4657610-bofa-blackstone-citi-morgan-stanley-lead-63b-ai-compute-financing-in-pact-with-broadcom",
-      "source": "seekingalpha.com",
-      "published": "2026-10-26T21:18:45+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032660/0001918704-26-032660-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T21:18:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016177/0000950103-26-016177-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-26T21:14:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Beacon Financial (NYSE:BBT) General Counsel Sells $19,621.01 in Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-beacon-financial-nyse-bbt-general-counsel-sells-1962101-in-stock-2026-10-26/",
+      "title": "JPMorgan Chase & Co. $JPM Stock: Sepio Capital LP Cuts Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-sepio-capital-lp-cuts-position-2026-10-27/",
       "source": "marketbeat.com",
-      "published": "2026-10-26T21:09:02+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Beacon Financial (NYSE:BBT) Stock: Insider Thomas Hollister Acquires 3,450 Shares",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-beacon-financial-nyse-bbt-stock-insider-thomas-hollister-acquires-3450-shares-2026-10-26/",
-      "source": "marketbeat.com",
-      "published": "2026-10-26T21:08:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Insider Selling: The Goldman Sachs Group (NYSE:GS) Insider Sells $222,562.50 in Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-the-goldman-sachs-group-nyse-gs-insider-sells-22256250-in-stock-2026-10-26/",
-      "source": "marketbeat.com",
-      "published": "2026-10-26T21:08:43+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Western Digital (NASDAQ:WDC) Stock Price Up 3.6% on Analyst Upgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13637554/western-digital-nasdaqwdc-stock-price-up-3-6-on-analyst-upgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T21:01:00+00:00",
+      "published": "2026-10-27T08:56:42+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Newly Purchased by NBT Bank N.A.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-newly-purchased-by-nbt-bank-na-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T08:56:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA raises Talen Energy stock price target on acquisition benefits",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-talen-energy-stock-price-target-on-acquisition-benefits-93CH-4974485",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts FedEx stock price target on earnings outlook to $359",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-fedex-stock-price-target-on-earnings-outlook-to-359-93CH-4974486",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts Public Service Enterprise stock price target on regulatory focus",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-public-service-enterprise-stock-price-target-on-regulatory-focus-93CH-4974484",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts Owens Corning stock price target on weak shingle demand",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-owens-corning-stock-price-target-on-weak-shingle-demand-93CH-4974483",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts Flex stock price target on valuation adjustments",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-flex-stock-price-target-on-valuation-adjustments-93CH-4974482",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts MakeMyTrip stock price target on higher expenses",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-makemytrip-stock-price-target-on-higher-expenses-93CH-4974481",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts Kodiak Gas Services stock price target on slower deals",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-kodiak-gas-services-stock-price-target-on-slower-deals-93CH-4974480",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BofA cuts Vistra Energy stock price target on Q3 expectations",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-vistra-energy-stock-price-target-on-q3-expectations-93CH-4974479",
+      "source": "investing.com",
+      "published": "2026-10-27T08:52:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPM, Jamie Dimon Warns of Economic Risks Despite Strong Growth",
+      "url": "https://www.gurufocus.com/news/9143962/jpm-jamie-dimon-warns-of-economic-risks-despite-strong-growth",
+      "source": "gurufocus.com",
+      "published": "2026-10-27T08:50:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Remediation, Cooperation, and What Every Compliance Program Should Take From the Bank of America Penalties (Part V of V)",
+      "url": "https://blog.volkovlaw.com/2026/10/remediation-cooperation-and-what-every-compliance-program-should-take-from-the-bank-of-america-penalties-part-v-of-v/",
+      "source": "volkovlaw.com",
+      "published": "2026-10-27T08:41:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "475 Apparent Violations: OFAC’s $11.66 Million Case Against Bank of America and the Limits of Screening (Part IV of V)",
+      "url": "https://blog.volkovlaw.com/2026/10/475-apparent-violations-ofacs-11-66-million-case-against-bank-of-america-and-the-limits-of-screening-part-iv-of-v/",
+      "source": "volkovlaw.com",
+      "published": "2026-10-27T08:41:22+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Reports AI's Impact on Market Dynamics",
+      "url": "https://www.gurufocus.com/news/9143961/goldman-sachs-reports-ais-impact-on-market-dynamics",
+      "source": "gurufocus.com",
+      "published": "2026-10-27T08:31:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Paytm has proven the resilience of its merchant-led model: JP Morgan",
+      "url": "https://economictimes.indiatimes.com/tech/startups/paytm-has-proven-the-resilience-of-its-merchant-led-model-jp-morgan/articleshow/135228593.cms",
+      "source": "indiatimes.com",
+      "published": "2026-10-27T08:19:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation $COF Position Trimmed by Deltec Asset Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-position-trimmed-by-deltec-asset-management-llc-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T08:17:28+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "BofA: China core semiconductor sales rise 24% in June-August",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-china-core-semiconductor-sales-rise-24-in-juneaugust-93CH-4974383",
+      "source": "investing.com",
+      "published": "2026-10-27T08:13:20+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Gold price in India to touch ₹2 lakh per 10 gm by end of 2027? Is it the right time to buy before Dhanteras, Diwali?",
+      "url": "https://www.livemint.com/market/commodities/gold-price-in-india-to-touch-rs-2-lakh-per-10-gm-by-end-of-2027-is-it-the-right-time-to-buy-before-dhanteras-diwali-11793082888965.html",
+      "source": "livemint.com",
+      "published": "2026-10-27T07:56:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Acquired by Brookstone Capital Management",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-acquired-by-brookstone-capital-management-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T07:28:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Arnhold LLC Sells 24,718 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-arnhold-llc-sells-24718-shares-of-bank-of-america-corporation-bac-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T07:12:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Purchased by Apollon Wealth Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-purchased-by-apollon-wealth-management-llc-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T07:04:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Citi, BCA downgrade Brazilian assets after Lula comeback",
+      "url": "https://www.investing.com/news/stock-market-news/citi-bca-downgrade-brazilian-assets-after-lula-comeback-4974254",
+      "source": "investing.com",
+      "published": "2026-10-27T06:36:26+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
