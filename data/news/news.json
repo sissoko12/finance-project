@@ -1,137 +1,228 @@
 {
-  "last_updated": "2026-10-27T20:53:15.345575+00:00",
+  "last_updated": "2026-10-28T00:23:12.353064+00:00",
   "headlines": [
     {
-      "title": "Truist declares common and preferred stock dividends",
-      "url": "https://www.prnewswire.com/news-releases/truist-declares-common-and-preferred-stock-dividends-302921188.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-27T20:05:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032819/0001918704-26-032819-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-27T19:58:00+00:00",
+      "title": "Butterfly-Inspired AI Sharpens Relay Baton Handover Analysis in Speed Skating",
+      "url": "https://bioengineer.org/butterfly-inspired-ai-sharpens-relay-baton-handover-analysis-in-speed-skating/",
+      "source": "bioengineer.org",
+      "published": "2026-10-27T23:24:53+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112902/0001213900-26-112902-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-27T19:53:22+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street invests in TXSE as capital tops $440M",
-      "url": "https://www.bizjournals.com/dallas/news/2026/10/27/txse-state-street-investment-440m.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-27T19:47:38+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Banks Structure $63 Billion Anthropic AI Financing, Deepening Exposure to AI Infrastructure",
-      "url": "https://finovate.com/banks-structure-63-billion-anthropic-ai-financing-deepening-exposure-to-ai-infrastructure/",
-      "source": "finovate.com",
-      "published": "2026-10-27T19:23:54+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Mid-market M&A Is A 'Dam' That's Going To Break: Khalil",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/mid-market-m-a-is-a-dam-that-s-going-to-break-khalil-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-27T19:16:50+00:00",
+      "title": "The Goldman Sachs Group (NYSE:GS) CEO David Solomon Sells 12,000 Shares of Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-the-goldman-sachs-group-nyse-gs-ceo-david-solomon-sells-12000-shares-of-stock-2026-10-27/",
+      "source": "marketbeat.com",
+      "published": "2026-10-27T23:08:12+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Nebius Stocks Rally 10.3% as AI Cloud Financing Debate Continues",
-      "url": "https://www.gurufocus.com/news/9144912/nebius-stocks-rally-103-as-ai-cloud-financing-debate-continues",
+      "title": "BNY Expands Ripple Collaboration to Include XRP Custody and Tokenized Trade Finance",
+      "url": "https://blockonomi.com/bny-expands-ripple-collaboration-to-include-xrp-custody-and-tokenized-trade-finance/",
+      "source": "blockonomi.com",
+      "published": "2026-10-27T21:58:12+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Tech Rally, Fed Decision & Big Tech Earnings Ahead",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/the-close-10-27-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-27T21:56:33+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Bank of America warns customers against sharing passwords with AI assistants",
+      "url": "https://cryptobriefing.com/bank-of-america-ai-assistants-passwords/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-27T21:47:50+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Hired an advisor - am I panicking too soon?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xh5u89/hired_an_advisor_am_i_panicking_too_soon/",
+      "source": "reddit.com",
+      "published": "2026-10-27T21:46:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "techcrunch.com",
+      "published": "2026-10-27T21:44:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo, UBS & Citi on Servicing the Texas Wealthy",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/wells-fargo-ubs-citi-on-servicing-the-texas-wealthy-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-27T21:42:51+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPM's Agather & Herbst on Texas Wealth Wave",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/jpm-s-agather-herbst-on-texas-wealth-wave-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-27T21:36:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026112981/0001213900-26-112981-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:29:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526434482/0001193125-26-434482-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:28:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032858/0001918704-26-032858-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:24:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "FERG Upgraded by Citigroup -- Price Target Raised to $288",
+      "url": "https://www.gurufocus.com/news/9145407/ferg-upgraded-by-citigroup-price-target-raised-to-288",
       "source": "gurufocus.com",
-      "published": "2026-10-27T19:06:41+00:00",
+      "published": "2026-10-27T21:20:56+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Shopify (NASDAQ:SHOP) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-shopify-nasdaq-shop-stock-price-expected-to-rise-citigroup-analyst-says-2026-10-27/",
-      "source": "marketbeat.com",
-      "published": "2026-10-27T19:06:35+00:00",
+      "title": "ARGX Maintained by Citigroup -- Price Target Lowered to $1232",
+      "url": "https://www.gurufocus.com/news/9145410/argx-maintained-by-citigroup-price-target-lowered-to-1232",
+      "source": "gurufocus.com",
+      "published": "2026-10-27T21:20:55+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Hotel Breakfast Eggs Get Watered Down And Dyed—And Have A 98 Day Shelf Life [Roundup]",
-      "url": "https://viewfromthewing.com/hotel-breakfast-eggs-get-watered-down-and-dyed-and-have-a-98-day-shelf-life-roundup/",
-      "source": "viewfromthewing.com",
-      "published": "2026-10-27T19:04:17+00:00",
+      "title": "AXP Maintains by Citigroup -- Price Target Lowered to $335",
+      "url": "https://www.gurufocus.com/news/9145538/axp-maintains-by-citigroup-price-target-lowered-to-335",
+      "source": "gurufocus.com",
+      "published": "2026-10-27T21:20:54+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "SpaceX added to BofA's 'US 1' list of top stock picks",
-      "url": "https://seekingalpha.com/news/4658273-spacex-added-to-bofas-us-1-list-of-top-stock-picks",
-      "source": "seekingalpha.com",
-      "published": "2026-10-27T19:00:43+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032855/0001918704-26-032855-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:19:28+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Paylocity (PCTY) – Research Analysts’ Recent Ratings Changes",
-      "url": "https://www.tickerreport.com/banking-finance/13638932/paylocity-pcty-research-analysts-recent-ratings-changes.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-27T18:56:48+00:00",
+      "title": "Strategy’s MSTR daily trading volume surpasses Morgan Stanley’s",
+      "url": "https://cryptobriefing.com/strategy-mstr-volume-beats-morgan-stanley/",
+      "source": "cryptobriefing.com",
+      "published": "2026-10-27T21:17:36+00:00",
       "tickers": [
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Ahmass Fakahany Brought Wall Street’s Rules to the Restaurant Business",
-      "url": "https://observer.com/2026/10/ahmass-fakahany-brought-wall-streets-rules-to-the-restaurant-business/",
-      "source": "observer.com",
-      "published": "2026-10-27T18:54:47+00:00",
+      "title": "Goldman Sachs Co-CIO: Have To Be Careful About Ownership",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/goldman-sachs-co-cio-have-to-be-careful-about-ownership-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-27T21:17:11+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "GS"
       ]
     },
     {
       "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016220/0000950103-26-016220-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016258/0000950103-26-016258-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-27T18:45:32+00:00",
+      "published": "2026-10-27T21:16:54+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Largest bank in Clark County names new market president",
-      "url": "https://www.reviewjournal.com/business/vegas-business/people-on-the-move/largest-bank-in-clark-county-names-new-market-president-3905832/",
-      "source": "reviewjournal.com",
-      "published": "2026-10-27T18:41:18+00:00",
+      "title": "Inflation Is Hot, So Why Will the Fed Hold This Week?",
+      "url": "https://247wallst.com/videos/inflation-is-hot-so-why-will-the-fed-hold-this-week/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-27T21:16:34+00:00",
       "tickers": [
-        "BAC",
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000175439926000005/0001754399-26-000005-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:13:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052767/0001839882-26-052767-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:10:03+00:00",
+      "tickers": [
+        "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226052765/0001839882-26-052765-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:08:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 144 - Report of proposed sale of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000089183626000067/0000891836-26-000067-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-27T21:05:49+00:00",
+      "tickers": [
+        "GS"
       ]
     }
   ]
