@@ -1,285 +1,147 @@
 {
-  "last_updated": "2026-10-28T13:26:27.135712+00:00",
+  "last_updated": "2026-10-28T19:02:41.161124+00:00",
   "headlines": [
     {
-      "title": "Top Managed Health Care Stock Pick From BofA Research",
-      "url": "https://www.investing.com/news/stock-market-news/top-managed-health-care-stock-pick-from-bofa-research-4978998",
-      "source": "investing.com",
-      "published": "2026-10-28T12:23:16+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000540/0000070858-26-000540-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-28T18:23:08+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Truist Financial Has Lowered Expectations for Robinhood Markets (NASDAQ:HOOD) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-robinhood-markets-nasdaq-hood-stock-price-2026-10-28/",
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Logitech International (NASDAQ:LOGI) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-logitech-international-nasdaq-logi-stock-2026-10-28/",
       "source": "marketbeat.com",
-      "published": "2026-10-28T12:06:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "LPL Financial (NASDAQ:LPLA) Stock Price Target Lowered at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-lpl-financial-nasdaq-lpla-stock-price-target-lowered-at-truist-financial-2026-10-28/",
-      "source": "marketbeat.com",
-      "published": "2026-10-28T12:06:45+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Pinnacle Financial Partners (NYSE:PNFP) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-pinnacle-financial-partners-nyse-pnfp-stock-price-expected-to-rise-truist-financial-analyst-says-2026-10-28/",
-      "source": "marketbeat.com",
-      "published": "2026-10-28T12:06:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "J.P. Morgan puts Norsk Hydro on Negative CW on rising LNG cost risks",
-      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-norsk-hydro-on-negative-cw-on-rising-lng-cost-risks-4978865",
-      "source": "investing.com",
-      "published": "2026-10-28T12:04:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "C-Store Retailers Feeling Optimistic About Beer to Close 2026; Craft to Lose Shelf Space to RTDs in 2027, per Goldman Sachs",
-      "url": "https://www.brewbound.com/news/c-store-retailers-feeling-optimistic-about-beer-to-close-2026-craft-to-lose-shelf-space-to-rtds-in-2027-per-goldman-sachs",
-      "source": "brewbound.com",
-      "published": "2026-10-28T12:00:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Voya Balanced Large Cap Core Value SMA (Merrill) Q3 2026 Commentary",
-      "url": "https://seekingalpha.com/article/4958475-voya-balanced-large-cap-core-value-sma-merrill-q3-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-10-28T11:50:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AI Capex in Mid-Cycle Boom, Says Morgan Stanley’s Shalett",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-28/ai-capex-in-mid-cycle-boom-morgan-stanley-s-shalett-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-28T11:45:21+00:00",
+      "published": "2026-10-28T18:12:37+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Citi cuts Kering target, signaling end of Gucci's improvement",
-      "url": "https://www.marketscreener.com/news/citi-cuts-kering-target-signaling-end-of-gucci-s-improvement-ce785cd2dd8ef223",
-      "source": "marketscreener.com",
-      "published": "2026-10-28T11:31:19+00:00",
+      "title": "Lincoln Electric (NASDAQ:LECO) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-lincoln-electric-nasdaq-leco-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-10-28/",
+      "source": "marketbeat.com",
+      "published": "2026-10-28T18:12:36+00:00",
       "tickers": [
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Britain's ex-prime minister is paid up to $10,000 an hour advising Anthropic, Microsoft, and Goldman",
-      "url": "https://www.businessinsider.com/how-much-anthropic-and-microsoft-are-paying-rishi-sunak-2026-10",
-      "source": "businessinsider.com",
-      "published": "2026-10-28T11:30:45+00:00",
+      "title": "F5 (NASDAQ:FFIV) Stock Gets Price Target Boost from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-f5-nasdaq-ffiv-stock-gets-price-target-boost-from-morgan-stanley-2026-10-28/",
+      "source": "marketbeat.com",
+      "published": "2026-10-28T18:12:35+00:00",
       "tickers": [
-        "GS"
+        "MS"
       ]
     },
     {
-      "title": "Goldman Sachs upgrades GTT as LNG vessel orders point to further growth",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-upgrades-gtt-as-lng-vessel-orders-point-to-further-growth-4978660",
-      "source": "investing.com",
-      "published": "2026-10-28T11:30:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "State Street Advances Daily NAV Capabilities for Private Markets Strategies in Support of Apollo's Daily Pricing Initiative",
-      "url": "http://www.businesswire.com/news/home/20261028569550/en/State-Street-Advances-Daily-NAV-Capabilities-for-Private-Markets-Strategies-in-Support-of-Apollos-Daily-Pricing-Initiative/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-10-28T11:30:00+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Why Does Jamie Dimon Want Foreign Gold to Stay in America?",
-      "url": "https://vblgoldfix.substack.com/p/why-does-jamie-dimon-want-foreign",
-      "source": "substack.com",
-      "published": "2026-10-28T11:27:35+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426032988/0001918704-26-032988-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-28T18:10:43+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "JPMorgan's new Park Avenue headquarters is estimated to cost about $6 billion",
-      "url": "https://qz.com/jpmorgan-270-park-avenue-skyscraper-cost-estimate-102826",
-      "source": "qz.com",
-      "published": "2026-10-28T11:20:18+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Executive Warns High Interest Rates Could Impact AI Returns",
-      "url": "https://www.gurufocus.com/news/9146856/goldman-sachs-executive-warns-high-interest-rates-could-impact-ai-returns",
-      "source": "gurufocus.com",
-      "published": "2026-10-28T11:10:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "What State Street Real Estate SPDR (XLRE) Bought: Welltower Leads on Monday",
-      "url": "https://www.gurufocus.com/news/9146850/what-state-street-real-estate-spdr-xlre-bought-welltower-leads-on-monday",
-      "source": "gurufocus.com",
-      "published": "2026-10-28T11:05:18+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Energy Select Sector SPDR (XLE) Buys $26.1 Million More XOM on Monday",
-      "url": "https://www.gurufocus.com/news/9146848/state-street-energy-select-sector-spdr-xle-buys-261-million-more-xom-on-monday",
-      "source": "gurufocus.com",
-      "published": "2026-10-28T11:05:03+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "What State Street Industrial Select SPDR (XLI) Bought: Caterpillar Leads on Oct. 26",
-      "url": "https://www.gurufocus.com/news/9146847/what-state-street-industrial-select-spdr-xli-bought-caterpillar-leads-on-oct-26",
-      "source": "gurufocus.com",
-      "published": "2026-10-28T11:04:59+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street SPDR Dow Jones (DIA) Buys $15.9 Million More Goldman Sachs on Oct. 26",
-      "url": "https://www.gurufocus.com/news/9146845/state-street-spdr-dow-jones-dia-buys-159-million-more-goldman-sachs-on-oct-26",
-      "source": "gurufocus.com",
-      "published": "2026-10-28T11:04:49+00:00",
-      "tickers": [
-        "GS",
-        "STT"
-      ]
-    },
-    {
-      "title": "AI Is Thriving at Capital One - Eliot Wyatt/Ikon Images If one were making a list of the companies ...",
-      "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
-      "source": "mit.edu",
-      "published": "2026-10-28T11:00:15+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "SYM FINANCIAL Corp Purchases 2,820 Shares of Capital One Financial Corporation $COF",
-      "url": "https://www.tickerreport.com/banking-finance/13639706/sym-financial-corp-purchases-2820-shares-of-capital-one-financial-corporation-cof.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-28T10:44:42+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Okta (NASDAQ:OKTA) Upgraded to “Strong-Buy” at Zacks Research",
-      "url": "https://www.tickerreport.com/banking-finance/13639702/okta-nasdaqokta-upgraded-to-strong-buy-at-zacks-research.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-28T10:42:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "How Bank of America’s top tech executive cuts through the AI hype",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/10/28/bank-of-america-ai-technology-hari-gopalkrishnan.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-10-28T10:37:35+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426032987/0001918704-26-032987-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-28T18:05:44+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Dimon Places Gold Repatriation in Debate Over U.S. Dollar Dominance",
-      "url": "https://vblgoldfix.substack.com/p/dimon-places-gold-repatriation-in",
-      "source": "substack.com",
-      "published": "2026-10-28T10:36:40+00:00",
+      "title": "CoreWeave Just Fell 31% in a Month: What Will It Take to Get CRWV Stock Back Above $70?",
+      "url": "https://247wallst.com/investing/2026/10/28/coreweave-just-fell-31-in-a-month-what-will-it-take-to-get-crwv-stock-back-above-70/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-10-28T18:03:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Exec Says Investors Growing More Judicious on AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-exec-says-investors-growing-more-judicious-on-ai/",
+      "source": "pymnts.com",
+      "published": "2026-10-28T18:01:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Pays Record-Breaking Penalty of $1.2B for AML and Sanctions Violations",
+      "url": "https://constantinellp.com/whistleblower/bank-of-america-pays-record-breaking-penalty-of-1-2b-for-aml-and-sanctions-violations/",
+      "source": "constantinellp.com",
+      "published": "2026-10-28T17:57:23+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Anthropic Weighs Offering 15%-20% of IPO to Retail Investors",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-28T17:44:28+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "92,642 Wells Fargo & Company $WFC Shares Sold by Mcdonald Capital Investors Inc. CA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-92642-wells-fargo-company-wfc-shares-sold-by-mcdonald-capital-investors-inc-ca-2026-10-28/",
-      "source": "marketbeat.com",
-      "published": "2026-10-28T10:16:56+00:00",
+      "title": "Goldman’s Mericle Says December Hike Looms",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-28T17:41:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "With major banks onboard, DTCC launches tokenized securities",
+      "url": "https://www.americanbanker.com/news/with-major-banks-onboard-dtcc-launches-tokenized-securities",
+      "source": "americanbanker.com",
+      "published": "2026-10-28T17:40:26+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326016280/0000950103-26-016280-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-28T17:39:33+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PNC private credit venture structures $115M deal as Bernhard Capital snags Houston-based firm",
+      "url": "https://www.bizjournals.com/pittsburgh/news/2026/10/28/pnc-private-credit-tcw-steel-city.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-10-28T17:35:40+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226052942/0001839882-26-052942-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-28T17:24:17+00:00",
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Bank of America is begging customers not to hand their passwords to AI assistants",
-      "url": "https://www.androidauthority.com/bank-of-america-ai-agent-password-warning-3728947/",
-      "source": "androidauthority.com",
-      "published": "2026-10-28T10:03:17+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-10-28T10:01:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by James Investment Research Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13639586/jpmorgan-chase-co-jpm-shares-sold-by-james-investment-research-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-28T09:59:56+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "4,415 Shares of Citigroup Inc. $C Bought by Leo Wealth LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13639554/4415-shares-of-citigroup-inc-c-bought-by-leo-wealth-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-28T09:51:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BNY Mellon Dynamic Value Fund Q3 2026 Commentary | $DAGVX $DCGVX $DRGVX $DRGYX",
-      "url": "https://seekingalpha.com/article/4958385-bny-mellon-dynamic-value-fund-q3-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-10-28T09:51:00+00:00",
-      "tickers": [
-        "BK"
       ]
     }
   ]
