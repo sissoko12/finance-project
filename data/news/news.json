@@ -1,301 +1,149 @@
 {
-  "last_updated": "2026-10-29T16:49:09.273589+00:00",
+  "last_updated": "2026-10-29T21:42:36.469645+00:00",
   "headlines": [
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526437324/0001193125-26-437324-index.htm",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033356/0001918704-26-033356-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-29T15:57:19+00:00",
+      "published": "2026-10-29T20:55:26+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Moving Down in High-Grade Quality: Goldman's Lynam",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-29T20:40:57+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
+      "title": "Issuers Come to Market When Window Opens: CreditSights' Cisar",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-29T20:27:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wingstop (NASDAQ:WING) Given New $185.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-wingstop-nasdaq-wing-given-new-18500-price-target-at-citigroup-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for Brinker International (NYSE:EAT) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-brinker-international-nyse-eat-stock-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Arch Capital Group (NASDAQ:ACGL) Stock Gets Price Target Boost from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-arch-capital-group-nasdaq-acgl-stock-gets-price-target-boost-from-citigroup-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for Easterly Government Properties (NYSE:DEA) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-easterly-government-properties-nyse-dea-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Rexford Industrial Realty (NYSE:REXR) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-has-lowered-expectations-for-rexford-industrial-realty-nyse-rexr-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Stag Industrial (NYSE:STAG) Given New $39.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-stag-industrial-nyse-stag-given-new-3900-price-target-at-citigroup-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Pessimistic Forecast for W.P. Carey (NYSE:WPC) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-wp-carey-nyse-wpc-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PPG Industries (NYSE:PPG) Price Target Raised to $130.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ppg-industries-nyse-ppg-price-target-raised-to-13000-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Sherwin-Williams (NYSE:SHW) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-sherwin-williams-nyse-shw-stock-price-target-lowered-at-citigroup-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Oceaneering International (NYSE:OII) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-oceaneering-international-nyse-oii-stock-price-target-lowered-at-citigroup-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T20:24:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016353/0000950103-26-016353-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016416/0000950103-26-016416-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-29T15:33:29+00:00",
+      "published": "2026-10-29T20:22:55+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Sen. Warren calls on DOJ to open criminal probe of Bank of America",
-      "url": "https://qz.com/warren-doj-criminal-probe-bank-america-money-laundering-102926",
-      "source": "qz.com",
-      "published": "2026-10-29T15:30:32+00:00",
+      "title": "MetLife CEO and CFO to Speak at the J.P. Morgan Financials Conference",
+      "url": "http://www.businesswire.com/news/home/20261029994178/en/MetLife-CEO-and-CFO-to-Speak-at-the-J.P.-Morgan-Financials-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-10-29T20:15:00+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "RSI Maintained by Wells Fargo -- Price Target Lowered to $26",
-      "url": "https://www.gurufocus.com/news/9151517/rsi-maintained-by-wells-fargo-price-target-lowered-to-26",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:23+00:00",
+      "title": "Lagarde's Exit, Safe Havens, Record Credit Sales",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/real-yield-10-29-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-10-29T20:12:21+00:00",
       "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "EFOR Maintained by Wells Fargo -- Price Target Raised to $38.00",
-      "url": "https://www.gurufocus.com/news/9151556/efor-maintained-by-wells-fargo-price-target-raised-to-3800",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "AXGN Maintained by Wells Fargo -- Price Target Raised to $56.00",
-      "url": "https://www.gurufocus.com/news/9151549/axgn-maintained-by-wells-fargo-price-target-raised-to-5600",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GKOS Maintained by Wells Fargo -- Price Target Raised to $226",
-      "url": "https://www.gurufocus.com/news/9151545/gkos-maintained-by-wells-fargo-price-target-raised-to-226",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "LII Maintained by Wells Fargo -- Price Target Lowered to $355",
-      "url": "https://www.gurufocus.com/news/9151561/lii-maintained-by-wells-fargo-price-target-lowered-to-355",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BLCO Maintained by Wells Fargo -- Price Target Raised to $19.00",
-      "url": "https://www.gurufocus.com/news/9151542/blco-maintained-by-wells-fargo-price-target-raised-to-1900",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CNMD Maintained by Wells Fargo -- Price Target Raised to $49",
-      "url": "https://www.gurufocus.com/news/9151547/cnmd-maintained-by-wells-fargo-price-target-raised-to-49",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MGPI Maintained by Wells Fargo -- Price Target Raised to $20.00",
-      "url": "https://www.gurufocus.com/news/9151526/mgpi-maintained-by-wells-fargo-price-target-raised-to-2000",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "PSX Maintained by Wells Fargo -- Price Target Raised to $346",
-      "url": "https://www.gurufocus.com/news/9151532/psx-maintained-by-wells-fargo-price-target-raised-to-346",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ECL Maintained by Wells Fargo -- Price Target Raised to $315",
-      "url": "https://www.gurufocus.com/news/9151554/ecl-maintained-by-wells-fargo-price-target-raised-to-315",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BSX Maintained by Wells Fargo -- Price Target Lowered to $45",
-      "url": "https://www.gurufocus.com/news/9151539/bsx-maintained-by-wells-fargo-price-target-lowered-to-45",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "MAS Maintained by Wells Fargo -- Price Target Raised to $85.00",
-      "url": "https://www.gurufocus.com/news/9151558/mas-maintained-by-wells-fargo-price-target-raised-to-8500",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "OTIS Maintained by Wells Fargo -- Price Target Lowered to $75.00",
-      "url": "https://www.gurufocus.com/news/9151562/otis-maintained-by-wells-fargo-price-target-lowered-to-7500",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (USB) Sees Key Risk Officer Resignation Amid Solid Dividend Outlook",
-      "url": "https://www.gurufocus.com/news/9151594/us-bancorp-usb-sees-key-risk-officer-resignation-amid-solid-dividend-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:21+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "VRT Maintained by Wells Fargo -- Price Target Raised to $345",
-      "url": "https://www.gurufocus.com/news/9151565/vrt-maintained-by-wells-fargo-price-target-raised-to-345",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:21+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CHRW Maintained by Wells Fargo -- Price Target Lowered to $200",
-      "url": "https://www.gurufocus.com/news/9151713/chrw-maintained-by-wells-fargo-price-target-lowered-to-200",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:21+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Elizabeth Warren Calls for Criminal Investigation into Bank of America (BAC)",
-      "url": "https://www.gurufocus.com/news/9151579/elizabeth-warren-calls-for-criminal-investigation-into-bank-of-america-bac",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "ODFL Maintains by Wells Fargo -- Price Target Lowered to $220",
-      "url": "https://www.gurufocus.com/news/9151718/odfl-maintains-by-wells-fargo-price-target-lowered-to-220",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:21+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ETSY Maintained by Wells Fargo -- Price Target Raised to $80.00",
-      "url": "https://www.gurufocus.com/news/9151734/etsy-maintained-by-wells-fargo-price-target-raised-to-8000",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:20+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "V Maintained by Wells Fargo -- Price Target Raised to $463",
-      "url": "https://www.gurufocus.com/news/9151737/v-maintained-by-wells-fargo-price-target-raised-to-463",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:20+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CSTM Maintained by Wells Fargo -- Price Target Lowered to $33.00",
-      "url": "https://www.gurufocus.com/news/9151731/cstm-maintained-by-wells-fargo-price-target-lowered-to-3300",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T15:12:20+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Insider Buying: Truist Financial (NYSE:TFC) CEO Purchases 25,000 Shares of Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-truist-financial-nyse-tfc-ceo-purchases-25000-shares-of-stock-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T15:08:14+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Expand Energy (NASDAQ:EXE) Stock Price Target Raised at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-expand-energy-nasdaq-exe-stock-price-target-raised-at-truist-financial-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T15:00:50+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "C.H. Robinson Worldwide (NASDAQ:CHRW) Stock Keeps \"Buy\" Rating at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ch-robinson-worldwide-nasdaq-chrw-stock-keeps-buy-rating-at-truist-financial-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T15:00:48+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Biogen (NASDAQ:BIIB) Stock Rating Reaffirmed as \"Buy\" by Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-biogen-nasdaq-biib-stock-rating-reaffirmed-as-buy-by-truist-financial-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T15:00:41+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "AerCap (NYSE:AER) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-aercap-nyse-aer-stock-price-expected-to-rise-truist-financial-analyst-says-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T14:42:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for Alphabet (NASDAQ:GOOGL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-alphabet-nasdaq-googl-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T14:42:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
+        "GS"
       ]
     }
   ]
