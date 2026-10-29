@@ -1,6 +1,158 @@
 {
-  "last_updated": "2026-10-28T23:26:53.878126+00:00",
+  "last_updated": "2026-10-29T02:44:41.580825+00:00",
   "headlines": [
+    {
+      "title": "$100K in Goldman’s GPIX Collected $8,187 Over the Past Year. Forget the Dividend Aristocrats",
+      "url": "https://247wallst.com/investing/etf/2026/10/28/100k-in-goldmans-gpix-collected-8187-over-the-past-year-forget-the-dividend-aristocrats/",
+      "source": "247wallst.com",
+      "published": "2026-10-29T00:33:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BNY Holds $63 Trillion for Clients and Will Now Custody XRP. What If 0.1% of That Went Into XRP?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/28/bny-holds-63-trillion-for-clients-and-will-now-custody-xrp-what-if-0-1-of-that-went-into-xrp/",
+      "source": "247wallst.com",
+      "published": "2026-10-29T00:19:58+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "November Is Already Dated: HomeView Ships Nov 13, Wells Fargo’s Agent Contract Goes Live Nov 24, Black Friday Is Nov 27",
+      "url": "https://forkast.news/november-is-already-dated-homeview-ships-nov-13-wells-fargos-agent-contract-goes-live-nov-24-black-friday-is-nov-27/",
+      "source": "forkast.news",
+      "published": "2026-10-29T00:13:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Charter in Hand: What Ripple Built in the Week Everyone Else Waited on OMB",
+      "url": "https://forkast.news/charter-in-hand-what-ripple-built-in-the-week-everyone-else-waited-on-omb/",
+      "source": "forkast.news",
+      "published": "2026-10-29T00:13:04+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "W.H. Bender & Associates Gives Back to High School Students During Annual California Restaurant Foundation's Force In Training™ Day Presented by Wells Fargo.",
+      "url": "https://www.prweb.com/releases/wh-bender--associates-gives-back-to-high-school-students-during-annual-california-restaurant-foundations-force-in-training-day-presented-by-wells-fargo-302922421.html",
+      "source": "prweb.com",
+      "published": "2026-10-29T00:05:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Beacon Financial (NYSE:BBT) Director Buys 700 Shares of Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13640425/beacon-financial-nysebbt-director-buys-700-shares-of-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-28T23:53:22+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Werner Enterprises (NASDAQ:WERN) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13640413/werner-enterprises-nasdaqwern-stock-price-target-lowered-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-28T23:50:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Manhattan Associates (NASDAQ:MANH) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.tickerreport.com/banking-finance/13640378/manhattan-associates-nasdaqmanh-stock-price-expected-to-rise-citigroup-analyst-says.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-28T23:32:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Landstar System (NASDAQ:LSTR) Stock Price Target Cut by JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13640376/landstar-system-nasdaqlstr-stock-price-target-cut-by-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-28T23:32:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Robinhood Markets (NASDAQ:HOOD) Stock Price Target Lowered at JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13640371/robinhood-markets-nasdaqhood-stock-price-target-lowered-at-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-28T23:31:56+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America leads $63 billion financing deal for Anthropic AI chips",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/10/27/bank-of-america-63b-anthropic-broadcom-ai-chip.html#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-10-28T23:27:49+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "First Horizon, Truist and Wells Fargo announce quarterly dividends",
+      "url": "https://journalnow.com/news/local/business/article_7ab525ba-0adf-4844-a69d-da827015a5db.html#new_tab",
+      "source": "journalnow.com",
+      "published": "2026-10-28T23:27:07+00:00",
+      "tickers": [
+        "WFC",
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Meet Bisnow's 2026 New York Power Women Honorees",
+      "url": "https://www.bisnow.com/news/new-york/top-talent/bisnow-2026-new-york-power-women-honorees",
+      "source": "bisnow.com",
+      "published": "2026-10-28T23:11:04+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JDO - Judo Capital Holdings Limited",
+      "url": "https://www.aussiestockforums.com/threads/jdo-judo-capital-holdings-limited.38667/?utm_source=rss&utm_medium=rss",
+      "source": "aussiestockforums.com",
+      "published": "2026-10-28T22:59:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Uniswap, Aave or Avalanche: Which DeFi Coin Has the Most Upside?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/28/uniswap-aave-or-avalanche-which-defi-coin-has-the-most-upside/",
+      "source": "247wallst.com",
+      "published": "2026-10-28T22:59:15+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Advice on how to store $10k scholarship",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xi2ovi/advice_on_how_to_store_10k_scholarship/",
+      "source": "reddit.com",
+      "published": "2026-10-28T22:30:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "SHOP Maintained by Citigroup -- Price Target Raised to $216",
       "url": "https://www.gurufocus.com/news/9148932/shop-maintained-by-citigroup-price-target-raised-to-216",
@@ -86,6 +238,16 @@
       ]
     },
     {
+      "title": "TRUIST FINANCIAL CORP: Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000129/0000092230-26-000129-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-28T21:23:21+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
       "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426033030/0001918704-26-033030-index.htm",
       "source": "sec.gov",
@@ -120,34 +282,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226052982/0001839882-26-052982-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-28T20:54:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033012/0001918704-26-033012-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-28T20:33:46+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Jed Finn to Speak at the BMO Financials Conference",
-      "url": "http://www.businesswire.com/news/home/20261028072210/en/Jed-Finn-to-Speak-at-the-BMO-Financials-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-10-28T20:30:00+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
