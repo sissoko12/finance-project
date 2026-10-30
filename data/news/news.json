@@ -1,114 +1,229 @@
 {
-  "last_updated": "2026-10-30T15:15:25.938198+00:00",
+  "last_updated": "2026-10-30T20:03:00.382371+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426033438/0001918704-26-033438-index.htm",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226053767/0001839882-26-053767-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-30T14:45:50+00:00",
+      "published": "2026-10-30T18:43:55+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426033436/0001918704-26-033436-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-30T14:33:48+00:00",
-      "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033431/0001918704-26-033431-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033549/0001918704-26-033549-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-30T14:22:24+00:00",
+      "published": "2026-10-30T18:43:19+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426033427/0001918704-26-033427-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526441409/0001193125-26-441409-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-30T14:17:29+00:00",
+      "published": "2026-10-30T18:32:37+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "FR Downgraded by JP Morgan -- Price Target Lowered to $60",
-      "url": "https://www.gurufocus.com/news/9158990/fr-downgraded-by-jp-morgan-price-target-lowered-to-60",
-      "source": "gurufocus.com",
-      "published": "2026-10-30T14:16:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "COUR Downgraded by JP Morgan -- Price Target Lowered to $5.00",
-      "url": "https://www.gurufocus.com/news/9158981/cour-downgraded-by-jp-morgan-price-target-lowered-to-500",
-      "source": "gurufocus.com",
-      "published": "2026-10-30T14:16:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BofA Says Wall Street May Be Misreading Apple",
-      "url": "https://www.gurufocus.com/news/9158963/bofa-says-wall-street-may-be-misreading-apple",
-      "source": "gurufocus.com",
-      "published": "2026-10-30T14:16:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Delivers Stark Warning on Apple Stock Ahead of Earnings",
-      "url": "https://www.gurufocus.com/news/9158856/bank-of-america-delivers-stark-warning-on-apple-stock-ahead-of-earnings",
-      "source": "gurufocus.com",
-      "published": "2026-10-30T14:16:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Head-to-Head: Tracing the Line Between Low Costs and True Small-Cap Growth",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/30/head-to-head-tracing-the-line-between-low-costs-and-true-small-cap-growth/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-30T14:15:02+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "New England Honda Group Continues Support of the Jimmy Fund Through Boston Marathon Partnership",
-      "url": "https://www.prnewswire.com/news-releases/new-england-honda-group-continues-support-of-the-jimmy-fund-through-boston-marathon-partnership-302924455.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-30T14:14:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Can GLP-1s Fatten Your Portfolio? We Examine the VanEck Pharmaceutical ETF vs State Street SPDR Pharmaceuticals ETF",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/30/can-glp-1s-fatten-your-portfolio-we-examine-the-vaneck-pharmaceutical-etf-vs-state-street-spdr-pharmaceuticals-etf/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-10-30T14:09:02+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Clarivate (NYSE:CLVT) Coverage Initiated by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-clarivate-nyse-clvt-coverage-initiated-by-analysts-at-morgan-stanley-2026-10-30/",
+      "title": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Stock Price Target Lowered at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-alnylam-pharmaceuticals-nasdaq-alny-stock-price-target-lowered-at-morgan-stanley-2026-10-30/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T14:06:36+00:00",
+      "published": "2026-10-30T18:24:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033538/0001918704-26-033538-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-30T18:19:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Hanover Insurance Group (NYSE:THG) Stock Gets Price Target Increase from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-hanover-insurance-group-nyse-thg-stock-gets-price-target-increase-from-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:43+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Altria Group (NYSE:MO) Price Target Raised to $77.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-altria-group-nyse-mo-price-target-raised-to-7700-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:40+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Positive Forecast for Cheniere Energy (NYSE:LNG) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-cheniere-energy-nyse-lng-stock-price-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Eli Lilly and Company (NYSE:LLY) Stock Gets Price Target Increase from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-eli-lilly-and-company-nyse-lly-stock-gets-price-target-increase-from-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Everest Group (NYSE:EG) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-everest-group-nyse-eg-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Cencora (NYSE:COR) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-cencora-nyse-cor-stock-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Caterpillar (NYSE:CAT) Price Target Cut to $675.00 by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-caterpillar-nyse-cat-price-target-cut-to-67500-by-analysts-at-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Cardinal Health (NYSE:CAH) Price Target Raised to $286.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cardinal-health-nyse-cah-price-target-raised-to-28600-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BorgWarner (NYSE:BWA) Given New $89.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-borgwarner-nyse-bwa-given-new-8900-price-target-at-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bristol Myers Squibb (NYSE:BMY) Stock Price Target Cut by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bristol-myers-squibb-nyse-bmy-stock-price-target-cut-by-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bright Horizons Family Solutions (NYSE:BFAM) Stock Price Target Lowered at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bright-horizons-family-solutions-nyse-bfam-stock-price-target-lowered-at-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:23+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Positive Forecast for Genmab A/S (NASDAQ:GMAB) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-genmab-as-nasdaq-gmab-stock-price-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Gilead Sciences (NASDAQ:GILD) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-gilead-sciences-nasdaq-gild-stock-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:13+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "First Solar (NASDAQ:FSLR) Price Target Cut to $307.00 by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-first-solar-nasdaq-fslr-price-target-cut-to-30700-by-analysts-at-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Positive Forecast for Exelixis (NASDAQ:EXEL) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-exelixis-nasdaq-exel-stock-price-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Cognizant Technology Solutions (NASDAQ:CTSH) Stock Gets Price Target Reduction from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cognizant-technology-solutions-nasdaq-ctsh-stock-gets-price-target-reduction-from-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:19:04+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BridgeBio Pharma (NASDAQ:BBIO) Stock Price Target Raised at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-bridgebio-pharma-nasdaq-bbio-stock-price-target-raised-at-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:18:57+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Bandwidth (NASDAQ:BAND) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-bandwidth-nasdaq-band-stock-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:18:55+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Arxis (NASDAQ:ARXS) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-arxis-nasdaq-arxs-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:18:52+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Pessimistic Forecast for Amazon.com (NASDAQ:AMZN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-amazoncom-nasdaq-amzn-stock-price-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T18:18:42+00:00",
       "tickers": [
         "MS"
       ]
