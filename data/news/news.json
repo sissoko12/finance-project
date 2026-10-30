@@ -1,149 +1,277 @@
 {
-  "last_updated": "2026-10-29T21:42:36.469645+00:00",
+  "last_updated": "2026-10-30T01:47:24.687778+00:00",
   "headlines": [
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033356/0001918704-26-033356-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-29T20:55:26+00:00",
+      "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
+      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
+      "source": "fortune.com",
+      "published": "2026-10-30T00:10:37+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Moving Down in High-Grade Quality: Goldman's Lynam",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-29T20:40:57+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Issuers Come to Market When Window Opens: CreditSights' Cisar",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-29T20:27:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wingstop (NASDAQ:WING) Given New $185.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-wingstop-nasdaq-wing-given-new-18500-price-target-at-citigroup-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Brinker International (NYSE:EAT) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-brinker-international-nyse-eat-stock-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Arch Capital Group (NASDAQ:ACGL) Stock Gets Price Target Boost from Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-arch-capital-group-nasdaq-acgl-stock-gets-price-target-boost-from-citigroup-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for Easterly Government Properties (NYSE:DEA) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-easterly-government-properties-nyse-dea-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Rexford Industrial Realty (NYSE:REXR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-has-lowered-expectations-for-rexford-industrial-realty-nyse-rexr-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Stag Industrial (NYSE:STAG) Given New $39.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-stag-industrial-nyse-stag-given-new-3900-price-target-at-citigroup-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Pessimistic Forecast for W.P. Carey (NYSE:WPC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-pessimistic-forecast-for-wp-carey-nyse-wpc-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PPG Industries (NYSE:PPG) Price Target Raised to $130.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ppg-industries-nyse-ppg-price-target-raised-to-13000-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Sherwin-Williams (NYSE:SHW) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-sherwin-williams-nyse-shw-stock-price-target-lowered-at-citigroup-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Oceaneering International (NYSE:OII) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-oceaneering-international-nyse-oii-stock-price-target-lowered-at-citigroup-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T20:24:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016416/0000950103-26-016416-index.htm",
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000048/0000923738-26-000048-index.htm",
       "source": "sec.gov",
-      "published": "2026-10-29T20:22:55+00:00",
+      "published": "2026-10-29T23:23:31+00:00",
       "tickers": [
-        "C"
+        "C",
+        "SCHW"
       ]
     },
     {
-      "title": "MetLife CEO and CFO to Speak at the J.P. Morgan Financials Conference",
-      "url": "http://www.businesswire.com/news/home/20261029994178/en/MetLife-CEO-and-CFO-to-Speak-at-the-J.P.-Morgan-Financials-Conference/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-10-29T20:15:00+00:00",
+      "title": "BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Major Shareholder Acquires $10,816.56 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-bny-mellon-strategic-municipal-bond-fund-nyse-dsm-major-shareholder-acquires-1081656-in-stock-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T23:08:55+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "FTV Maintained by JP Morgan -- Price Target Raised to $59.00",
+      "url": "https://www.gurufocus.com/news/9153053/ftv-maintained-by-jp-morgan-price-target-raised-to-5900",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Lagarde's Exit, Safe Havens, Record Credit Sales",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-29/real-yield-10-29-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-10-29T20:12:21+00:00",
+      "title": "HLI Maintained by JP Morgan -- Price Target Raised to $153",
+      "url": "https://www.gurufocus.com/news/9153061/hli-maintained-by-jp-morgan-price-target-raised-to-153",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
       "tickers": [
-        "GS"
+        "JPM"
+      ]
+    },
+    {
+      "title": "CNMD Maintains by JP Morgan -- Price Target Raised to $50",
+      "url": "https://www.gurufocus.com/news/9153042/cnmd-maintains-by-jp-morgan-price-target-raised-to-50",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FDX Maintained by JP Morgan -- Price Target Raised to $400",
+      "url": "https://www.gurufocus.com/news/9153052/fdx-maintained-by-jp-morgan-price-target-raised-to-400",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GKOS Maintained by JP Morgan -- Price Target Raised to $240",
+      "url": "https://www.gurufocus.com/news/9153058/gkos-maintained-by-jp-morgan-price-target-raised-to-240",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EBAY Maintains by JP Morgan -- Price Target Raised to $125",
+      "url": "https://www.gurufocus.com/news/9153046/ebay-maintains-by-jp-morgan-price-target-raised-to-125",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CNC Maintained by JP Morgan -- Price Target Raised to $75",
+      "url": "https://www.gurufocus.com/news/9153039/cnc-maintained-by-jp-morgan-price-target-raised-to-75",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BLCO Maintains by JP Morgan -- Price Target Raised to $22.00",
+      "url": "https://www.gurufocus.com/news/9153034/blco-maintains-by-jp-morgan-price-target-raised-to-2200",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GRMN Maintained by JP Morgan -- Price Target Raised to $310",
+      "url": "https://www.gurufocus.com/news/9153054/grmn-maintained-by-jp-morgan-price-target-raised-to-310",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GEHC Maintained by JP Morgan -- Price Target Raised to $80",
+      "url": "https://www.gurufocus.com/news/9153057/gehc-maintained-by-jp-morgan-price-target-raised-to-80",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "EXLS Maintained by JP Morgan -- Price Target Raised to $49.00",
+      "url": "https://www.gurufocus.com/news/9153049/exls-maintained-by-jp-morgan-price-target-raised-to-4900",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MAX Maintained by JP Morgan -- Price Target Raised to $16.00",
+      "url": "https://www.gurufocus.com/news/9153070/max-maintained-by-jp-morgan-price-target-raised-to-1600",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "KEX Maintained by JP Morgan -- Price Target Raised to $210",
+      "url": "https://www.gurufocus.com/news/9153064/kex-maintained-by-jp-morgan-price-target-raised-to-210",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PPG Maintains Overweight by JP Morgan -- Price Target Raised to $130",
+      "url": "https://www.gurufocus.com/news/9153167/ppg-maintains-overweight-by-jp-morgan-price-target-raised-to-130",
+      "source": "gurufocus.com",
+      "published": "2026-10-29T22:25:45+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Help - a store refund went to a CC that was paid off ima settlement??",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xixetx/help_a_store_refund_went_to_a_cc_that_was_paid/",
+      "source": "reddit.com",
+      "published": "2026-10-29T21:53:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for EastGroup Properties (NYSE:EGP) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-eastgroup-properties-nyse-egp-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Chipotle Mexican Grill (NYSE:CMG) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-chipotle-mexican-grill-nyse-cmg-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GE Vernova (NYSE:GEV) Price Target Cut to $1,035.00 by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ge-vernova-nyse-gev-price-target-cut-to-103500-by-analysts-at-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for International Paper (NYSE:IP) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-pessimistic-forecast-for-international-paper-nyse-ip-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:39+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Rush Street Interactive (NYSE:RSI) Stock Price Target Cut by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-rush-street-interactive-nyse-rsi-stock-price-target-cut-by-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Smurfit Westrock (NYSE:SW) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-smurfit-westrock-nyse-sw-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MGM Resorts International (NYSE:MGM) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-mgm-resorts-international-nyse-mgm-stock-gets-price-target-trim-from-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:38+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Alkami Technology (NASDAQ:ALKT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-pessimistic-forecast-for-alkami-technology-nasdaq-alkt-stock-price-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "C.H. Robinson Worldwide (NASDAQ:CHRW) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ch-robinson-worldwide-nasdaq-chrw-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Honeywell Aerospace (NASDAQ:HONA) Stock Price Target Cut by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-honeywell-aerospace-nasdaq-hona-stock-price-target-cut-by-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Nextpower (NASDAQ:NXT) Stock Price Target Cut by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nextpower-nasdaq-nxt-stock-price-target-cut-by-jpmorgan-chase-co-2026-10-29/",
+      "source": "marketbeat.com",
+      "published": "2026-10-29T21:48:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
+      "url": "https://seekingalpha.com/news/4660990-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-10-29T21:44:07+00:00",
+      "tickers": [
+        "BK"
       ]
     }
   ]
