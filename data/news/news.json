@@ -1,277 +1,116 @@
 {
-  "last_updated": "2026-10-30T08:26:25.610722+00:00",
+  "last_updated": "2026-10-30T15:15:25.938198+00:00",
   "headlines": [
     {
-      "title": "BNY Mellon International Stock Fund Q3 2026 Commentary | $DISAX $DISRX $DISYX $DISCX",
-      "url": "https://seekingalpha.com/article/4960024-bny-mellon-international-stock-fund-q3-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-10-30T07:30:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426033438/0001918704-26-033438-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-30T14:45:50+00:00",
       "tickers": [
-        "BK"
+        "C"
       ]
     },
     {
-      "title": "7,816 JPMorgan Chase & Co. $JPM Shares Purchased by BG Investment Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-7816-jpmorgan-chase-co-jpm-shares-purchased-by-bg-investment-services-llc-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T07:05:34+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426033436/0001918704-26-033436-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-30T14:33:48+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Sherman’s late-game ‘magic’ sends East to Class AAA semifinals",
-      "url": "https://www.duluthnewstribune.com/sports/prep/shermans-late-game-magic-sends-east-to-class-aaa-semifinals",
-      "source": "duluthnewstribune.com",
-      "published": "2026-10-30T04:06:19+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033431/0001918704-26-033431-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-30T14:22:24+00:00",
       "tickers": [
-        "USB"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Asian Paints shares in focus as Jefferies, Goldman Sachs, other brokerages cut target prices after Q2 results. Buy, sell or hold?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-shares-in-focus-as-jefferies-goldman-sachs-other-brokerages-cut-target-prices-after-q2-results-buy-sell-or-hold/articleshow/135342271.cms",
-      "source": "indiatimes.com",
-      "published": "2026-10-30T03:57:01+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426033427/0001918704-26-033427-index.htm",
+      "source": "sec.gov",
+      "published": "2026-10-30T14:17:29+00:00",
       "tickers": [
-        "GS"
+        "C"
       ]
     },
     {
-      "title": "Laurus Labs Q2 Review: Brokerages Split As Jefferies Raises Target, Two Retain Sell",
-      "url": "https://www.ndtvprofit.com/markets/laurus-labs-q2-review-brokerages-split-as-jefferies-raises-target-two-retain-sell-12256863",
-      "source": "ndtvprofit.com",
-      "published": "2026-10-30T03:20:28+00:00",
+      "title": "FR Downgraded by JP Morgan -- Price Target Lowered to $60",
+      "url": "https://www.gurufocus.com/news/9158990/fr-downgraded-by-jp-morgan-price-target-lowered-to-60",
+      "source": "gurufocus.com",
+      "published": "2026-10-30T14:16:36+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Coal India Q2 Review: Morgan Stanley, Jefferies, HSBC Bullish Despite Q2 Earnings Miss",
-      "url": "https://www.ndtvprofit.com/markets/coal-india-q2-review-morgan-stanley-jefferies-hsbc-bullish-despite-q2-earnings-miss-check-targets-12256815",
-      "source": "ndtvprofit.com",
-      "published": "2026-10-30T03:06:40+00:00",
+      "title": "COUR Downgraded by JP Morgan -- Price Target Lowered to $5.00",
+      "url": "https://www.gurufocus.com/news/9158981/cour-downgraded-by-jp-morgan-price-target-lowered-to-500",
+      "source": "gurufocus.com",
+      "published": "2026-10-30T14:16:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA Says Wall Street May Be Misreading Apple",
+      "url": "https://www.gurufocus.com/news/9158963/bofa-says-wall-street-may-be-misreading-apple",
+      "source": "gurufocus.com",
+      "published": "2026-10-30T14:16:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Delivers Stark Warning on Apple Stock Ahead of Earnings",
+      "url": "https://www.gurufocus.com/news/9158856/bank-of-america-delivers-stark-warning-on-apple-stock-ahead-of-earnings",
+      "source": "gurufocus.com",
+      "published": "2026-10-30T14:16:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Head-to-Head: Tracing the Line Between Low Costs and True Small-Cap Growth",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/30/head-to-head-tracing-the-line-between-low-costs-and-true-small-cap-growth/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-30T14:15:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "New England Honda Group Continues Support of the Jimmy Fund Through Boston Marathon Partnership",
+      "url": "https://www.prnewswire.com/news-releases/new-england-honda-group-continues-support-of-the-jimmy-fund-through-boston-marathon-partnership-302924455.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-30T14:14:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Can GLP-1s Fatten Your Portfolio? We Examine the VanEck Pharmaceutical ETF vs State Street SPDR Pharmaceuticals ETF",
+      "url": "https://www.fool.com/coverage/etfs/2026/10/30/can-glp-1s-fatten-your-portfolio-we-examine-the-vaneck-pharmaceutical-etf-vs-state-street-spdr-pharmaceuticals-etf/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-30T14:09:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Clarivate (NYSE:CLVT) Coverage Initiated by Analysts at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-clarivate-nyse-clvt-coverage-initiated-by-analysts-at-morgan-stanley-2026-10-30/",
+      "source": "marketbeat.com",
+      "published": "2026-10-30T14:06:36+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
-      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
-      "source": "fortune.com",
-      "published": "2026-10-30T00:10:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000048/0000923738-26-000048-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-29T23:23:31+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Major Shareholder Acquires $10,816.56 in Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-bny-mellon-strategic-municipal-bond-fund-nyse-dsm-major-shareholder-acquires-1081656-in-stock-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T23:08:55+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "DTCC launches tokenization service with 20 banks including Citi and JPMorgan",
-      "url": "https://www.valuewalk.com/dtcc-tokenization-service-live-20-banks/",
-      "source": "valuewalk.com",
-      "published": "2026-10-29T22:29:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FTV Maintained by JP Morgan -- Price Target Raised to $59.00",
-      "url": "https://www.gurufocus.com/news/9153053/ftv-maintained-by-jp-morgan-price-target-raised-to-5900",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "HLI Maintained by JP Morgan -- Price Target Raised to $153",
-      "url": "https://www.gurufocus.com/news/9153061/hli-maintained-by-jp-morgan-price-target-raised-to-153",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CNMD Maintains by JP Morgan -- Price Target Raised to $50",
-      "url": "https://www.gurufocus.com/news/9153042/cnmd-maintains-by-jp-morgan-price-target-raised-to-50",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FDX Maintained by JP Morgan -- Price Target Raised to $400",
-      "url": "https://www.gurufocus.com/news/9153052/fdx-maintained-by-jp-morgan-price-target-raised-to-400",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GKOS Maintained by JP Morgan -- Price Target Raised to $240",
-      "url": "https://www.gurufocus.com/news/9153058/gkos-maintained-by-jp-morgan-price-target-raised-to-240",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EBAY Maintains by JP Morgan -- Price Target Raised to $125",
-      "url": "https://www.gurufocus.com/news/9153046/ebay-maintains-by-jp-morgan-price-target-raised-to-125",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CNC Maintained by JP Morgan -- Price Target Raised to $75",
-      "url": "https://www.gurufocus.com/news/9153039/cnc-maintained-by-jp-morgan-price-target-raised-to-75",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BLCO Maintains by JP Morgan -- Price Target Raised to $22.00",
-      "url": "https://www.gurufocus.com/news/9153034/blco-maintains-by-jp-morgan-price-target-raised-to-2200",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GRMN Maintained by JP Morgan -- Price Target Raised to $310",
-      "url": "https://www.gurufocus.com/news/9153054/grmn-maintained-by-jp-morgan-price-target-raised-to-310",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GEHC Maintained by JP Morgan -- Price Target Raised to $80",
-      "url": "https://www.gurufocus.com/news/9153057/gehc-maintained-by-jp-morgan-price-target-raised-to-80",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "EXLS Maintained by JP Morgan -- Price Target Raised to $49.00",
-      "url": "https://www.gurufocus.com/news/9153049/exls-maintained-by-jp-morgan-price-target-raised-to-4900",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:47+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "MAX Maintained by JP Morgan -- Price Target Raised to $16.00",
-      "url": "https://www.gurufocus.com/news/9153070/max-maintained-by-jp-morgan-price-target-raised-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "KEX Maintained by JP Morgan -- Price Target Raised to $210",
-      "url": "https://www.gurufocus.com/news/9153064/kex-maintained-by-jp-morgan-price-target-raised-to-210",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PPG Maintains Overweight by JP Morgan -- Price Target Raised to $130",
-      "url": "https://www.gurufocus.com/news/9153167/ppg-maintains-overweight-by-jp-morgan-price-target-raised-to-130",
-      "source": "gurufocus.com",
-      "published": "2026-10-29T22:25:45+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Help - a store refund went to a CC that was paid off ima settlement??",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xixetx/help_a_store_refund_went_to_a_cc_that_was_paid/",
-      "source": "reddit.com",
-      "published": "2026-10-29T21:53:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for EastGroup Properties (NYSE:EGP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-eastgroup-properties-nyse-egp-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T21:48:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Has Lowered Expectations for Chipotle Mexican Grill (NYSE:CMG) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-chipotle-mexican-grill-nyse-cmg-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T21:48:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GE Vernova (NYSE:GEV) Price Target Cut to $1,035.00 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ge-vernova-nyse-gev-price-target-cut-to-103500-by-analysts-at-jpmorgan-chase-co-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T21:48:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for International Paper (NYSE:IP) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-pessimistic-forecast-for-international-paper-nyse-ip-stock-price-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T21:48:39+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Rush Street Interactive (NYSE:RSI) Stock Price Target Cut by JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-rush-street-interactive-nyse-rsi-stock-price-target-cut-by-jpmorgan-chase-co-2026-10-29/",
-      "source": "marketbeat.com",
-      "published": "2026-10-29T21:48:38+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
