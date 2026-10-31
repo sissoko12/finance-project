@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-10-31T20:13:35.286304+00:00",
+  "last_updated": "2026-10-31T23:36:31.943660+00:00",
   "headlines": [
+    {
+      "title": "BNY Mellon Concentrated International ETF (NYSEARCA:BKCI) Sees Significant Decrease in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13644864/bny-mellon-concentrated-international-etf-nysearcabkci-sees-significant-decrease-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-31T22:01:04+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Daniel Rios scores in stoppage time to rally Montreal to 1-1 draw with NYCFC",
+      "url": "https://www.newspressnow.com/sports/national/daniel-rios-scores-in-stoppage-time-to-rally-montreal-to-1-1-draw-with-nycfc/article_6756b8c5-8ef4-5ca6-b467-0b36feac5914.html",
+      "source": "newspressnow.com",
+      "published": "2026-10-31T20:49:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
+      "url": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
+      "source": "investing.com",
+      "published": "2026-10-31T19:33:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "If a Recession Is Coming, History Says Utilities Aren't Safe, Just \"Less Bad.\" Here's the Data.",
       "url": "https://www.fool.com/investing/2026/10/31/if-a-recession-is-coming-history-says-utilities/?source=iedfolrf0000001",
@@ -8,6 +35,25 @@
       "published": "2026-10-31T18:00:00+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "What investors are watching - Billions of dollars in planned data center construction hang ...",
+      "url": "https://www.axios.com/2026/10/31/data-centers-elections-wall-street#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "source": "axios.com",
+      "published": "2026-10-31T17:00:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Tech stock meltdown could get a lot of worse if history is any guide",
+      "url": "https://finance.yahoo.com/markets/article/tech-stock-meltdown-could-get-a-lot-of-worse-if-history-is-any-guide-161226786.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-31T16:12:26+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -87,12 +133,42 @@
       ]
     },
     {
+      "title": "DraftKings Is Up 10% in a Month. Are Prediction Markets Really a “Greater Opportunity Than Threat”?",
+      "url": "https://www.tikr.com/blog/draftkings-dkng-stock-prediction-markets-opportunity-or-threat?ref=yahoofinance&tlnk=yf-261031-m42gjqqg&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-31T14:30:13+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Morgan Stanley, Hyperliquid in gainers; Brazilian stocks, HSBC among decliners: week's financials warp",
       "url": "https://seekingalpha.com/news/4661609-morgan-stanley-hyperliquid-in-gainers-brazilian-stocks-hsbc-among-decliners-weeks-financials-warp",
       "source": "seekingalpha.com",
       "published": "2026-10-31T14:00:53+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "Truist Cut Its Robinhood Target Twice This Week. It Still Sees 45% Upside",
+      "url": "https://www.tikr.com/blog/robinhood-stock-truist-cuts-price-target-123-buy-rating?ref=yahoofinance&tlnk=yf-261031-2jvcqjg3&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-31T13:42:42+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Could Caterpillar Actually Climb 65% After Its Earnings Slide? Or Is Truist Totally Wrong?",
+      "url": "https://www.tikr.com/blog/caterpillar-cat-stock-truist-price-target-1027-earnings-slide?ref=yahoofinance&tlnk=yf-261031-x5f4m85r&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-10-31T13:33:19+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -144,9 +220,9 @@
     },
     {
       "title": "Morgan Stanley’s Ellen Zentner: Women are reshaping the economy. Markets haven’t caught up",
-      "url": "https://fortune.com/2026/10/31/women-wealth-transfer-sheconomy-markets-morgan-stanley-zentner/",
-      "source": "fortune.com",
-      "published": "2026-10-31T10:30:48+00:00",
+      "url": "https://finance.yahoo.com/economy/articles/morgan-stanley-ellen-zentner-women-103000154.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-31T10:30:00+00:00",
       "tickers": [
         "MS"
       ]
@@ -204,81 +280,6 @@
       "published": "2026-10-31T10:00:52+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Big tech names remain attractive - not their stocks though",
-      "url": "https://invezz.com/news/2026/10/31/big-tech-names-remain-attractive-not-their-stocks-though/",
-      "source": "invezz.com",
-      "published": "2026-10-31T10:00:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Best CD rates today, Saturday, October 31, 2026: Lock in up to 4.50% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-31-2026-lock-in-up-to-450-apy-100000896.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-10-31T10:00:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by VIRGINIA RETIREMENT SYSTEMS ET Al",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-virginia-retirement-systems-et-al-2026-10-31/",
-      "source": "marketbeat.com",
-      "published": "2026-10-31T09:53:12+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Sells 62,400 Shares of State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-sells-62400-shares-of-state-street-corporation-stt-2026-10-31/",
-      "source": "marketbeat.com",
-      "published": "2026-10-31T09:53:05+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "9,600 The PNC Financial Services Group, Inc $PNC Shares Sold by VIRGINIA RETIREMENT SYSTEMS ET Al",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-9600-the-pnc-financial-services-group-inc-pnc-shares-sold-by-virginia-retirement-systems-et-al-2026-10-31/",
-      "source": "marketbeat.com",
-      "published": "2026-10-31T09:53:02+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Strategy Earnings: A Truly Staggering Revenue Miss (Rating Upgrade) | $JPM $MSTR",
-      "url": "https://seekingalpha.com/article/4960582-strategy-earnings-a-truly-staggering-revenue-miss-rating-upgrade",
-      "source": "seekingalpha.com",
-      "published": "2026-10-31T09:50:19+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Digital Realty Trust (NYSE:DLR) Given New $234.00 Price Target at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13644047/digital-realty-trust-nysedlr-given-new-234-00-price-target-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-31T09:25:23+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Newly Purchased by Leo Wealth LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-newly-purchased-by-leo-wealth-llc-2026-10-31/",
-      "source": "marketbeat.com",
-      "published": "2026-10-31T08:57:26+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
