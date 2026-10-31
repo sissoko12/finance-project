@@ -1,231 +1,284 @@
 {
-  "last_updated": "2026-10-31T16:16:02.719864+00:00",
+  "last_updated": "2026-10-31T20:13:35.286304+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226053767/0001839882-26-053767-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-30T18:43:55+00:00",
+      "title": "If a Recession Is Coming, History Says Utilities Aren't Safe, Just \"Less Bad.\" Here's the Data.",
+      "url": "https://www.fool.com/investing/2026/10/31/if-a-recession-is-coming-history-says-utilities/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-31T18:00:00+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033549/0001918704-26-033549-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-30T18:43:19+00:00",
+      "title": "Best Financial Stocks To Research - October 31st",
+      "url": "https://www.marketbeat.com/instant-alerts/list-best-financial-stocks-to-research-october-31st-2026-10-31/",
+      "source": "marketbeat.com",
+      "published": "2026-10-31T16:11:53+00:00",
       "tickers": [
+        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526441409/0001193125-26-441409-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-30T18:32:37+00:00",
+      "title": "The best high-yield savings account, which is accessible, going to the bank?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xke2o8/the_best_highyield_savings_account_which_is/",
+      "source": "reddit.com",
+      "published": "2026-10-31T16:07:04+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO David Solomon Sells Shares Amid Insider Activity; GS Dividend Remains Attractive",
+      "url": "https://www.gurufocus.com/news/9161158/goldman-sachs-ceo-david-solomon-sells-shares-amid-insider-activity-gs-dividend-remains-attractive",
+      "source": "gurufocus.com",
+      "published": "2026-10-31T16:04:27+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Stock Price Target Lowered at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-alnylam-pharmaceuticals-nasdaq-alny-stock-price-target-lowered-at-morgan-stanley-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:24:33+00:00",
+      "title": "Morgan Stanley (MS) Shares Rise Amid Anthropic IPO and Strong Dividend Appeal",
+      "url": "https://www.gurufocus.com/news/9161152/morgan-stanley-ms-shares-rise-amid-anthropic-ipo-and-strong-dividend-appeal",
+      "source": "gurufocus.com",
+      "published": "2026-10-31T15:56:35+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033538/0001918704-26-033538-index.htm",
-      "source": "sec.gov",
-      "published": "2026-10-30T18:19:44+00:00",
+      "title": "Bank of America: Clearly A Buy Below $50, While Preferreds Boost Quarterly Income | $BAC",
+      "url": "https://seekingalpha.com/article/4960461-bank-of-america-clearly-a-buy-below-50-while-preferreds-boost-quarterly-income",
+      "source": "seekingalpha.com",
+      "published": "2026-10-31T15:35:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "The Hanover Insurance Group (NYSE:THG) Stock Gets Price Target Increase from Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-hanover-insurance-group-nyse-thg-stock-gets-price-target-increase-from-morgan-stanley-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:43+00:00",
+      "title": "Insider trades: Goldman Sachs, P&G, Texas Instruments among major names",
+      "url": "https://seekingalpha.com/news/4661856-insider-trades-goldman-sachs-pg-texas-instruments-among-major-names?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+      "source": "seekingalpha.com",
+      "published": "2026-10-31T15:03:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Hertz President’s Circle elite status is included with several top travel cards. I put it to the test to see if it delivers real value",
+      "url": "https://thepointsguy.com/loyalty-programs/hertz-presidents-circle-status-test/",
+      "source": "thepointsguy.com",
+      "published": "2026-10-31T15:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Citi explains what ’hawk’ and ’dove’ really mean as ECB faces leadership change",
+      "url": "https://www.investing.com/news/stock-market-news/citi-explains-what-hawk-and-dove-really-mean-as-ecb-faces-leadership-change-4989285",
+      "source": "investing.com",
+      "published": "2026-10-31T14:53:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley, Hyperliquid in gainers; Brazilian stocks, HSBC among decliners: week's financials warp",
+      "url": "https://seekingalpha.com/news/4661609-morgan-stanley-hyperliquid-in-gainers-brazilian-stocks-hsbc-among-decliners-weeks-financials-warp",
+      "source": "seekingalpha.com",
+      "published": "2026-10-31T14:00:53+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Altria Group (NYSE:MO) Price Target Raised to $77.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-altria-group-nyse-mo-price-target-raised-to-7700-2026-10-30/",
+      "title": "Bank of America: Convertible Series L Delivering High Income With Equity Participation | $BAC",
+      "url": "https://seekingalpha.com/article/4960615-bank-of-america-convertible-series-l-delivering-high-income-with-equity-participation",
+      "source": "seekingalpha.com",
+      "published": "2026-10-31T12:29:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs ActiveBeta Emerging Markets Equity ETF (NYSEARCA:GEM) Sees Large Growth in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13644463/goldman-sachs-activebeta-emerging-markets-equity-etf-nysearcagem-sees-large-growth-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-31T12:01:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Tech Bonds Are 'Diamonds in the Rough': Bank of America's Hartnett Says",
+      "url": "https://finance.yahoo.com/markets/options/articles/tech-bonds-diamonds-rough-bank-113004075.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-31T11:30:04+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lebenthal Global Advisors LLC Sells 6,016 Shares of State Street SPDR Portfolio S&P 500 ETF $SPYM",
+      "url": "https://www.tickerreport.com/banking-finance/13644357/lebenthal-global-advisors-llc-sells-6016-shares-of-state-street-spdr-portfolio-sp-500-etf-spym.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-31T11:06:18+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Cross Below Fifty Day Moving Average - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-cross-below-fifty-day-moving-average-heres-why-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:40+00:00",
+      "published": "2026-10-31T11:00:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley’s Ellen Zentner: Women are reshaping the economy. Markets haven’t caught up",
+      "url": "https://fortune.com/2026/10/31/women-wealth-transfer-sheconomy-markets-morgan-stanley-zentner/",
+      "source": "fortune.com",
+      "published": "2026-10-31T10:30:48+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Morgan Stanley Issues Positive Forecast for Cheniere Energy (NYSE:LNG) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-cheniere-energy-nyse-lng-stock-price-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:39+00:00",
+      "title": "Goldman Sachs CEO David Solomon says the best advice he ever got came from his grandmother in his 20s: ‘Don’t be in a hurry’",
+      "url": "https://fortune.com/2026/10/31/goldman-sachs-ceo-david-solomon-best-advice-career-grandmother/",
+      "source": "fortune.com",
+      "published": "2026-10-31T10:26:11+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Eli Lilly and Company (NYSE:LLY) Stock Gets Price Target Increase from Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-eli-lilly-and-company-nyse-lly-stock-gets-price-target-increase-from-morgan-stanley-2026-10-30/",
+      "title": "Bank of America Corporation $BAC Stock: International Assets Investment Management LLC Grows Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-international-assets-investment-management-llc-grows-position-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:39+00:00",
+      "published": "2026-10-31T10:16:48+00:00",
       "tickers": [
-        "MS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Everest Group (NYSE:EG) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-everest-group-nyse-eg-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-10-30/",
+      "title": "290,000 Shares of The Goldman Sachs Group, Inc. $GS Acquired by International Assets Investment Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-290000-shares-of-the-goldman-sachs-group-inc-gs-acquired-by-international-assets-investment-management-llc-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:38+00:00",
+      "published": "2026-10-31T10:16:41+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Cencora (NYSE:COR) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-cencora-nyse-cor-stock-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:36+00:00",
+      "title": "Citi upgrades Hyundai Mobis to buy on 4Q outlook",
+      "url": "https://www.investing.com/news/stock-market-news/citi-upgrades-hyundai-mobis-to-buy-on-4q-outlook-93CH-4989214",
+      "source": "investing.com",
+      "published": "2026-10-31T10:03:53+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Caterpillar (NYSE:CAT) Price Target Cut to $675.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-caterpillar-nyse-cat-price-target-cut-to-67500-by-analysts-at-morgan-stanley-2026-10-30/",
+      "title": "Citigroup Inc. $C Stock Sold by Glenview Trust Co",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-sold-by-glenview-trust-co-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:35+00:00",
+      "published": "2026-10-31T10:00:56+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Cardinal Health (NYSE:CAH) Price Target Raised to $286.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cardinal-health-nyse-cah-price-target-raised-to-28600-2026-10-30/",
+      "title": "The Goldman Sachs Group, Inc. $GS Stock: Glenview Trust Co Increases Holdings",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-glenview-trust-co-increases-holdings-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:31+00:00",
+      "published": "2026-10-31T10:00:52+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "BorgWarner (NYSE:BWA) Given New $89.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-borgwarner-nyse-bwa-given-new-8900-price-target-at-morgan-stanley-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:28+00:00",
+      "title": "Big tech names remain attractive - not their stocks though",
+      "url": "https://invezz.com/news/2026/10/31/big-tech-names-remain-attractive-not-their-stocks-though/",
+      "source": "invezz.com",
+      "published": "2026-10-31T10:00:00+00:00",
       "tickers": [
-        "MS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Bristol Myers Squibb (NYSE:BMY) Stock Price Target Cut by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bristol-myers-squibb-nyse-bmy-stock-price-target-cut-by-morgan-stanley-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:26+00:00",
+      "title": "Best CD rates today, Saturday, October 31, 2026: Lock in up to 4.50% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-31-2026-lock-in-up-to-450-apy-100000896.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-10-31T10:00:00+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "Bright Horizons Family Solutions (NYSE:BFAM) Stock Price Target Lowered at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bright-horizons-family-solutions-nyse-bfam-stock-price-target-lowered-at-morgan-stanley-2026-10-30/",
+      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by VIRGINIA RETIREMENT SYSTEMS ET Al",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-shares-sold-by-virginia-retirement-systems-et-al-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:23+00:00",
+      "published": "2026-10-31T09:53:12+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Morgan Stanley Issues Positive Forecast for Genmab A/S (NASDAQ:GMAB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-genmab-as-nasdaq-gmab-stock-price-2026-10-30/",
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Sells 62,400 Shares of State Street Corporation $STT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-sells-62400-shares-of-state-street-corporation-stt-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:15+00:00",
+      "published": "2026-10-31T09:53:05+00:00",
       "tickers": [
-        "MS"
+        "STT"
       ]
     },
     {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Gilead Sciences (NASDAQ:GILD) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-gilead-sciences-nasdaq-gild-stock-2026-10-30/",
+      "title": "9,600 The PNC Financial Services Group, Inc $PNC Shares Sold by VIRGINIA RETIREMENT SYSTEMS ET Al",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-9600-the-pnc-financial-services-group-inc-pnc-shares-sold-by-virginia-retirement-systems-et-al-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:13+00:00",
+      "published": "2026-10-31T09:53:02+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "First Solar (NASDAQ:FSLR) Price Target Cut to $307.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-first-solar-nasdaq-fslr-price-target-cut-to-30700-by-analysts-at-morgan-stanley-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:10+00:00",
+      "title": "Strategy Earnings: A Truly Staggering Revenue Miss (Rating Upgrade) | $JPM $MSTR",
+      "url": "https://seekingalpha.com/article/4960582-strategy-earnings-a-truly-staggering-revenue-miss-rating-upgrade",
+      "source": "seekingalpha.com",
+      "published": "2026-10-31T09:50:19+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley Issues Positive Forecast for Exelixis (NASDAQ:EXEL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-exelixis-nasdaq-exel-stock-price-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:07+00:00",
+      "title": "Digital Realty Trust (NYSE:DLR) Given New $234.00 Price Target at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13644047/digital-realty-trust-nysedlr-given-new-234-00-price-target-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-31T09:25:23+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Cognizant Technology Solutions (NASDAQ:CTSH) Stock Gets Price Target Reduction from Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cognizant-technology-solutions-nasdaq-ctsh-stock-gets-price-target-reduction-from-morgan-stanley-2026-10-30/",
+      "title": "JPMorgan Chase & Co. $JPM Shares Newly Purchased by Leo Wealth LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-newly-purchased-by-leo-wealth-llc-2026-10-31/",
       "source": "marketbeat.com",
-      "published": "2026-10-30T18:19:04+00:00",
+      "published": "2026-10-31T08:57:26+00:00",
       "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BridgeBio Pharma (NASDAQ:BBIO) Stock Price Target Raised at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-bridgebio-pharma-nasdaq-bbio-stock-price-target-raised-at-morgan-stanley-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:18:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Bandwidth (NASDAQ:BAND) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-bandwidth-nasdaq-band-stock-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:18:55+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Arxis (NASDAQ:ARXS) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-arxis-nasdaq-arxs-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:18:52+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Amazon.com (NASDAQ:AMZN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-amazoncom-nasdaq-amzn-stock-price-2026-10-30/",
-      "source": "marketbeat.com",
-      "published": "2026-10-30T18:18:42+00:00",
-      "tickers": [
-        "MS"
+        "JPM"
       ]
     }
   ]
