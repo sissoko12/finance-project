@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-11-01T18:29:49.990537+00:00",
+  "last_updated": "2026-11-01T22:20:28.093241+00:00",
   "headlines": [
+    {
+      "title": "Morgan Stanley estimates 70 GW power shortfall for US data centers by 2028",
+      "url": "https://cryptobriefing.com/morgan-stanley-70-gw-data-center-power-shortfall/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-01T20:04:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Volunteers help improve Napa’s Von Brandt Neighborhood Center",
+      "url": "https://napavalleyregister.com/news/volunteers-team-up-to-improve-napas-von-brandt-center/article_7d05bdca-19f7-4152-aaf8-a67bcef03f11.html",
+      "source": "napavalleyregister.com",
+      "published": "2026-11-01T18:00:00+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
     {
       "title": "Financial Stocks To Consider - November 1st",
       "url": "https://www.marketbeat.com/instant-alerts/list-financial-stocks-to-consider-november-1st-2026-11-01/",
@@ -20,6 +39,15 @@
         "BAC",
         "C",
         "USB"
+      ]
+    },
+    {
+      "title": "State Street Consumer Staples ETF (XLP) Soars 10.94% in October, Hits Record High",
+      "url": "https://www.gurufocus.com/news/9161308/state-street-consumer-staples-etf-xlp-soars-1094-in-october-hits-record-high",
+      "source": "gurufocus.com",
+      "published": "2026-11-01T16:55:43+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
@@ -255,34 +283,6 @@
       "tickers": [
         "C",
         "COF"
-      ]
-    },
-    {
-      "title": "Oppenheimer & Co. Inc. Acquires 33,741 Shares of JPMorgan Chase & Co. $JPM",
-      "url": "https://www.tickerreport.com/banking-finance/13645288/oppenheimer-co-inc-acquires-33741-shares-of-jpmorgan-chase-co-jpm.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T10:36:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Carolina Panthers defensive coordinator Ejiro Evero looks on during the second half against the Los Angeles Chargers at Bank of America Stadium on Sept. 15, 2024, in Charlotte, North Carolina.",
-      "url": "https://thebrunswicknews.com/sports/national_sports/carolina-panthers-defensive-coordinator-ejiro-evero-looks-on-during-the-second-half-against-the-los/image_829a144a-4861-5d8e-84a4-181c680690a7.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-11-01T10:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Stock Bought by Parcion Private Wealth LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13645264/citigroup-inc-c-stock-bought-by-parcion-private-wealth-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T10:26:59+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
