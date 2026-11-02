@@ -1,277 +1,95 @@
 {
-  "last_updated": "2026-11-02T09:14:43.240404+00:00",
+  "last_updated": "2026-11-02T19:42:20.883072+00:00",
   "headlines": [
     {
-      "title": "JPMorgan Chase & Co. $JPM Stock: Asset Management One Co. Ltd. Increases Stake",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-asset-management-one-co-ltd-increases-stake-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T08:30:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
-      "url": "https://www.investing.com/news/stock-market-news/citi-initiates-vusion-at-buy-sees-84-upside-on-electronic-shelf-label-growth-4990084",
-      "source": "investing.com",
-      "published": "2026-11-02T07:52:55+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BorgWarner (NYSE:BWA) Stock Gets Price Target Trim from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13645978/borgwarner-nysebwa-stock-gets-price-target-trim-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T07:48:48+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054219/0001839882-26-054219-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T19:17:02+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Goldman hikes oil prices forecast on high supply disruption risks",
-      "url": "https://www.investing.com/news/commodities-news/goldman-hikes-oil-prices-forecast-on-high-supply-disruption-risks-4990063",
-      "source": "investing.com",
-      "published": "2026-11-02T07:38:28+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bright Horizons Family Solutions (NYSE:BFAM) Stock Gets Price Target Reduction from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13645963/bright-horizons-family-solutions-nysebfam-stock-gets-price-target-reduction-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T07:12:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - November 02",
-      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---november-02/article_e6bcb546-c9b9-5fad-a513-67f9379d2a88.html",
-      "source": "newspressnow.com",
-      "published": "2026-11-02T07:01:49+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Brent drops below $110 on diplomacy hopes but Goldman Sachs flags $140 warning",
-      "url": "https://invezz.com/news/2026/11/02/brent-drops-below-110-on-diplomacy-hopes-but-goldman-sachs-flags-140-warning/",
-      "source": "invezz.com",
-      "published": "2026-11-02T06:54:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Alphatec (NASDAQ:ATEC) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13645957/alphatec-nasdaqatec-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T06:50:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "APi Group (NYSE:APG) Price Target Raised to $55.00",
-      "url": "https://www.tickerreport.com/banking-finance/13645945/api-group-nyseapg-price-target-raised-to-55-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T06:14:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AGCO (NYSE:AGCO) Price Target Raised to $145.00",
-      "url": "https://www.tickerreport.com/banking-finance/13645941/agco-nyseagco-price-target-raised-to-145-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T06:13:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wall Street rushes in with bullish calls on India’s top bourse",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-rushes-in-with-bullish-calls-on-indias-top-bourse/articleshow/135446347.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-02T05:18:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Australian lithium stocks slide as Citi cuts forecasts on weaker battery demand",
-      "url": "https://www.investing.com/news/stock-market-news/australian-lithium-stocks-slide-as-citi-cuts-forecasts-on-weaker-battery-demand-4989875",
-      "source": "investing.com",
-      "published": "2026-11-02T05:15:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Raises Oil Price Forecast Amid Middle East Tensions",
-      "url": "https://www.gurufocus.com/news/9161433/goldman-sachs-raises-oil-price-forecast-amid-middle-east-tensions",
-      "source": "gurufocus.com",
-      "published": "2026-11-02T05:10:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citi Cuts Lithium Forecasts on Worsening Battery Demand Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/citi-cuts-lithium-forecasts-on-worsening-battery-demand-outlook",
-      "source": "bloomberg.com",
-      "published": "2026-11-02T04:03:24+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AsiaWatch® for November 2nd 2026",
-      "url": "https://jerryborrell.substack.com/p/asiawatch-for-november-2nd-2026",
-      "source": "substack.com",
-      "published": "2026-11-02T03:48:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Emerging Markets Present Attractive Entry Point, Says Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/9161421/emerging-markets-present-attractive-entry-point-says-morgan-stanley",
-      "source": "gurufocus.com",
-      "published": "2026-11-02T03:30:27+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
-      "source": "bloomberg.com",
-      "published": "2026-11-02T03:02:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Upgrades L3Harris Technologies (LHX) to Overweight with $402 Price Target",
-      "url": "https://www.gurufocus.com/news/9161414/morgan-stanley-upgrades-l3harris-technologies-lhx-to-overweight-with-402-price-target",
-      "source": "gurufocus.com",
-      "published": "2026-11-02T01:25:56+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Wild continue road prowess with 5-1 win against Capitals",
-      "url": "https://thebrunswicknews.com/news/national_news/wild-continue-road-prowess-with-5-1-win-against-capitals/article_883adddf-6c7e-52fb-a6cd-dc739e7f322e.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-11-02T00:34:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs raises oil price forecasts, warns Brent could hit $140 in 2027",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-raises-oil-price-forecasts-warns-brent-could-hit-140-in-2027/articleshow/135445233.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-01T22:57:54+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "The Information’s WTF Summit in Pictures",
-      "url": "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2",
-      "source": "theinformation.com",
-      "published": "2026-11-01T21:52:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Learn Why The Bull Case For JPMorgan Chase Stock Could Change Following Earnings Miss",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-jpmorgan-210931942.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-01T21:09:31+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "What Does JPMorgan Chase (JPM) Hiring A Data Infrastructure Chief Mean Now?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-jpmorgan-chase-jpm-hiring-200812032.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-01T20:08:12+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley estimates 70 GW power shortfall for US data centers by 2028",
-      "url": "https://cryptobriefing.com/morgan-stanley-70-gw-data-center-power-shortfall/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-01T20:04:10+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "3 U.S. Bank Stocks That Could Benefit If Long Term Interest Rates Stay Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-u-bank-stocks-could-181138539.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-01T18:11:38+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Citigroup (C) Adds James Flanagan To Its Board And Audit Committee",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-adds-james-flanagan-180959336.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-01T18:09:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Saylor Is Hinting at Another Bitcoin Buy Before MSCI Rules on Strategy. What Happens to BTC if Strategy Has to Sell Instead?",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/01/saylor-is-hinting-at-another-bitcoin-buy-before-msci-rules-on-strategy-what-happens-to-btc-if-strategy-has-to-sell-instead/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-11-01T18:01:09+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Volunteers help improve Napa’s Von Brandt Neighborhood Center",
-      "url": "https://napavalleyregister.com/news/volunteers-team-up-to-improve-napas-von-brandt-center/article_7d05bdca-19f7-4152-aaf8-a67bcef03f11.html",
-      "source": "napavalleyregister.com",
-      "published": "2026-11-01T18:00:00+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Election could bring increased scrutiny of Bank of America, other major banks",
-      "url": "https://www.wfae.org/business/2026-10-29/what-election-outcome-could-mean-for-bofa-and-other-big-banks?utm_source=newsletter&utm_medium=email&utm_campaign=BizFayetteville.com+Friday+Update#new_tab",
-      "source": "wfae.org",
-      "published": "2026-11-01T17:44:35+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033792/0001918704-26-033792-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T19:00:24+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Financial Stocks To Consider - November 1st",
-      "url": "https://www.marketbeat.com/instant-alerts/list-financial-stocks-to-consider-november-1st-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T17:11:56+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526443328/0001193125-26-443328-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T18:58:53+00:00",
       "tickers": [
-        "JPM"
+        "GS"
+      ]
+    },
+    {
+      "title": "Tesla (TSLA) – Analysts’ Weekly Ratings Changes",
+      "url": "https://www.tickerreport.com/banking-finance/13646843/tesla-tsla-analysts-weekly-ratings-changes.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T18:56:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Canadian National Railway (NYSE:CNI) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13646841/citigroup-issues-positive-forecast-for-canadian-national-railway-nysecni-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T18:48:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "PTC Therapeutics (NASDAQ:PTCT) Stock Gets Price Target Increase from Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13646842/ptc-therapeutics-nasdaqptct-stock-gets-price-target-increase-from-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T18:48:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Newell Brands (NASDAQ:NWL) Given New $5.50 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-newell-brands-nasdaq-nwl-given-new-550-price-target-at-citigroup-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T18:48:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for PTC Therapeutics (NASDAQ:PTCT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-ptc-therapeutics-nasdaq-ptct-stock-price-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T18:48:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Church & Dwight (NYSE:CHD) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-church-dwight-nyse-chd-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T18:48:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Brunswick (NYSE:BC) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-brunswick-nyse-bc-stock-price-target-cut-by-citigroup-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T18:48:38+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
