@@ -1,6 +1,168 @@
 {
-  "last_updated": "2026-11-02T01:44:11.213075+00:00",
+  "last_updated": "2026-11-02T09:14:43.240404+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock: Asset Management One Co. Ltd. Increases Stake",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-asset-management-one-co-ltd-increases-stake-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T08:30:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
+      "url": "https://www.investing.com/news/stock-market-news/citi-initiates-vusion-at-buy-sees-84-upside-on-electronic-shelf-label-growth-4990084",
+      "source": "investing.com",
+      "published": "2026-11-02T07:52:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BorgWarner (NYSE:BWA) Stock Gets Price Target Trim from Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13645978/borgwarner-nysebwa-stock-gets-price-target-trim-from-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T07:48:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman hikes oil prices forecast on high supply disruption risks",
+      "url": "https://www.investing.com/news/commodities-news/goldman-hikes-oil-prices-forecast-on-high-supply-disruption-risks-4990063",
+      "source": "investing.com",
+      "published": "2026-11-02T07:38:28+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bright Horizons Family Solutions (NYSE:BFAM) Stock Gets Price Target Reduction from Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13645963/bright-horizons-family-solutions-nysebfam-stock-gets-price-target-reduction-from-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T07:12:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - November 02",
+      "url": "https://www.newspressnow.com/news/national_news/business/intercontinental-hotels-group-plc-announces-transaction-in-own-shares---november-02/article_e6bcb546-c9b9-5fad-a513-67f9379d2a88.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-02T07:01:49+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Brent drops below $110 on diplomacy hopes but Goldman Sachs flags $140 warning",
+      "url": "https://invezz.com/news/2026/11/02/brent-drops-below-110-on-diplomacy-hopes-but-goldman-sachs-flags-140-warning/",
+      "source": "invezz.com",
+      "published": "2026-11-02T06:54:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Alphatec (NASDAQ:ATEC) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13645957/alphatec-nasdaqatec-stock-gets-price-target-cut-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T06:50:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "APi Group (NYSE:APG) Price Target Raised to $55.00",
+      "url": "https://www.tickerreport.com/banking-finance/13645945/api-group-nyseapg-price-target-raised-to-55-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T06:14:52+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AGCO (NYSE:AGCO) Price Target Raised to $145.00",
+      "url": "https://www.tickerreport.com/banking-finance/13645941/agco-nyseagco-price-target-raised-to-145-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-02T06:13:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wall Street rushes in with bullish calls on India’s top bourse",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-rushes-in-with-bullish-calls-on-indias-top-bourse/articleshow/135446347.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-02T05:18:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Australian lithium stocks slide as Citi cuts forecasts on weaker battery demand",
+      "url": "https://www.investing.com/news/stock-market-news/australian-lithium-stocks-slide-as-citi-cuts-forecasts-on-weaker-battery-demand-4989875",
+      "source": "investing.com",
+      "published": "2026-11-02T05:15:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Raises Oil Price Forecast Amid Middle East Tensions",
+      "url": "https://www.gurufocus.com/news/9161433/goldman-sachs-raises-oil-price-forecast-amid-middle-east-tensions",
+      "source": "gurufocus.com",
+      "published": "2026-11-02T05:10:13+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi Cuts Lithium Forecasts on Worsening Battery Demand Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/citi-cuts-lithium-forecasts-on-worsening-battery-demand-outlook",
+      "source": "bloomberg.com",
+      "published": "2026-11-02T04:03:24+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "AsiaWatch® for November 2nd 2026",
+      "url": "https://jerryborrell.substack.com/p/asiawatch-for-november-2nd-2026",
+      "source": "substack.com",
+      "published": "2026-11-02T03:48:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Emerging Markets Present Attractive Entry Point, Says Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9161421/emerging-markets-present-attractive-entry-point-says-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-11-02T03:30:27+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
+      "source": "bloomberg.com",
+      "published": "2026-11-02T03:02:18+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Upgrades L3Harris Technologies (LHX) to Overweight with $402 Price Target",
+      "url": "https://www.gurufocus.com/news/9161414/morgan-stanley-upgrades-l3harris-technologies-lhx-to-overweight-with-402-price-target",
+      "source": "gurufocus.com",
+      "published": "2026-11-02T01:25:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
     {
       "title": "Wild continue road prowess with 5-1 win against Capitals",
       "url": "https://thebrunswicknews.com/news/national_news/wild-continue-road-prowess-with-5-1-win-against-capitals/article_883adddf-6c7e-52fb-a6cd-dc739e7f322e.html",
@@ -9,6 +171,15 @@
       "tickers": [
         "C",
         "COF"
+      ]
+    },
+    {
+      "title": "Goldman Sachs raises oil price forecasts, warns Brent could hit $140 in 2027",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-raises-oil-price-forecasts-warns-brent-could-hit-140-in-2027/articleshow/135445233.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-01T22:57:54+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -85,200 +256,22 @@
       ]
     },
     {
+      "title": "Election could bring increased scrutiny of Bank of America, other major banks",
+      "url": "https://www.wfae.org/business/2026-10-29/what-election-outcome-could-mean-for-bofa-and-other-big-banks?utm_source=newsletter&utm_medium=email&utm_campaign=BizFayetteville.com+Friday+Update#new_tab",
+      "source": "wfae.org",
+      "published": "2026-11-01T17:44:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Financial Stocks To Consider - November 1st",
       "url": "https://www.marketbeat.com/instant-alerts/list-financial-stocks-to-consider-november-1st-2026-11-01/",
       "source": "marketbeat.com",
       "published": "2026-11-01T17:11:56+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "Best Bank Stocks To Keep An Eye On - November 1st",
-      "url": "https://www.marketbeat.com/instant-alerts/list-best-bank-stocks-to-keep-an-eye-on-november-1st-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T17:11:54+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "Did Better Card Delinquencies Just Shift Citi's (C) Investment Narrative?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-better-card-delinquencies-just-170851983.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-01T17:08:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "State Street Consumer Staples ETF (XLP) Soars 10.94% in October, Hits Record High",
-      "url": "https://www.gurufocus.com/news/9161308/state-street-consumer-staples-etf-xlp-soars-1094-in-october-hits-record-high",
-      "source": "gurufocus.com",
-      "published": "2026-11-01T16:55:43+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Strategist Sees S&P 500 Dip Before Rebound; MS Dividend Outlook Remains Solid",
-      "url": "https://www.gurufocus.com/news/9161300/morgan-stanley-strategist-sees-sp-500-dip-before-rebound-ms-dividend-outlook-remains-solid",
-      "source": "gurufocus.com",
-      "published": "2026-11-01T15:55:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley's Wilson sees 9% S&P 500 drop before rally to 8,000",
-      "url": "https://seekingalpha.com/news/4661884-morgan-stanleys-wilson-sees-9-percent-s-and-p-500-drop-before-rally-to-8000",
-      "source": "seekingalpha.com",
-      "published": "2026-11-01T15:44:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "What Can We Expect from the 2026 Holiday Sales Season? Will U.S. Consumers Keep Spending?",
-      "url": "https://thepeopleseconomist.substack.com/p/what-can-we-expect-from-the-2026",
-      "source": "substack.com",
-      "published": "2026-11-01T15:36:14+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs ActiveBeta Europe Equity ETF (NYSEARCA:GSEU) Stock Short Interest Report for October",
-      "url": "https://www.tickerreport.com/banking-finance/13645728/goldman-sachs-activebeta-europe-equity-etf-nysearcagseu-stock-short-interest-report-for-october.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T15:21:17+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Wells Fargo Says Market Rotation Is Nearly Complete as Stock Selection Takes Priority",
-      "url": "https://investorshub.advfn.com/market-news/article/38991/wells-fargo-says-market-rotation-is-nearly-complete-as-stock-selection-takes-priority?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-11-01T15:06:02+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Gen Z Lags on Key Life Milestones but Leads in Retirement Saving, Early Investing",
-      "url": "https://www.investopedia.com/gen-z-lags-on-key-life-milestones-but-leads-in-retirement-saving-and-early-investing-12182612?.tsrc=rss",
-      "source": "investopedia.com",
-      "published": "2026-11-01T14:30:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Enact Holdings (ACT) Could Be 51% Undervalued On BofA Downgrade And Housing Risk",
-      "url": "https://finance.yahoo.com/real-estate/articles/enact-holdings-act-could-51-141345426.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-01T14:13:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Mike Wilson Says Buy Stock Dip Regardless of Who Wins Midterms",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/mike-wilson-says-buy-stock-dip-regardless-of-who-wins-midterms",
-      "source": "bloomberg.com",
-      "published": "2026-11-01T14:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Flags Slowing Profit Growth for S&P 500 Despite Strong Q3; SPY Valuation ...",
-      "url": "https://www.gurufocus.com/news/9161282/goldman-sachs-flags-slowing-profit-growth-for-sp-500-despite-strong-q3-spy-valuation-under-the-microscope",
-      "source": "gurufocus.com",
-      "published": "2026-11-01T13:55:16+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Says AI Boom Is Driving A ‘Rare’ Profit Cycle — But There’s A Big Risk Investors Should Watch",
-      "url": "https://stocktwits.com/news-articles/markets/equity/jpmorgan-ai-boom-rare-profit-cycle-big-risk-investors-watch/cNGeABmR925?.tsrc=rss",
-      "source": "stocktwits.com",
-      "published": "2026-11-01T13:32:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "S&P 500 earnings growth to slow as AI spending loses momentum, Goldman Sachs says",
-      "url": "https://seekingalpha.com/news/4661874-s-and-p-500-earnings-growth-to-slow-as-ai-spending-loses-momentum-goldman-sachs-says",
-      "source": "seekingalpha.com",
-      "published": "2026-11-01T13:19:06+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees Potential End to S&P 500 Correction Following US Midterm Elections",
-      "url": "https://investorshub.advfn.com/market-news/article/38989/morgan-stanley-sees-potential-end-to-sp-500-correction-following-us-midterm-elections?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-11-01T13:02:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "$72,360 Wired Out of Wells Fargo Accounts Overnight, South Carolina Couple Sues After Bank Denies Fraud Claim",
-      "url": "https://dailyhodl.com/2026/11/01/72360-wired-out-of-wells-fargo-accounts-overnight-south-carolina-couple-sues-after-bank-denies-fraud-claim/",
-      "source": "dailyhodl.com",
-      "published": "2026-11-01T12:45:32+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "704,633 Shares in Oracle Corporation $ORCL Purchased by Mirae Asset Global Investments Co. Ltd.",
-      "url": "https://www.tickerreport.com/banking-finance/13645500/704633-shares-in-oracle-corporation-orcl-purchased-by-mirae-asset-global-investments-co-ltd.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T12:11:50+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "State Street SPDR Portfolio S&P 500 ETF $SPYM Stock: MGO One Seven LLC Reduces Stake",
-      "url": "https://www.tickerreport.com/banking-finance/13645470/state-street-spdr-portfolio-sp-500-etf-spym-stock-mgo-one-seven-llc-reduces-stake.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T11:50:47+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Sold by Sumitomo Mitsui Trust Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-sold-by-sumitomo-mitsui-trust-group-inc-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:45:02+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "272,055 Wells Fargo & Company $WFC Shares Sold by Sumitomo Mitsui Trust Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-272055-wells-fargo-company-wfc-shares-sold-by-sumitomo-mitsui-trust-group-inc-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:44:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
       ]
     }
   ]
