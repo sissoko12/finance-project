@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-11-01T22:20:28.093241+00:00",
+  "last_updated": "2026-11-02T01:44:11.213075+00:00",
   "headlines": [
+    {
+      "title": "Wild continue road prowess with 5-1 win against Capitals",
+      "url": "https://thebrunswicknews.com/news/national_news/wild-continue-road-prowess-with-5-1-win-against-capitals/article_883adddf-6c7e-52fb-a6cd-dc739e7f322e.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-11-02T00:34:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "The Information’s WTF Summit in Pictures",
+      "url": "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2",
+      "source": "theinformation.com",
+      "published": "2026-11-01T21:52:32+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Learn Why The Bull Case For JPMorgan Chase Stock Could Change Following Earnings Miss",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-jpmorgan-210931942.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-01T21:09:31+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What Does JPMorgan Chase (JPM) Hiring A Data Infrastructure Chief Mean Now?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-jpmorgan-chase-jpm-hiring-200812032.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-01T20:08:12+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Morgan Stanley estimates 70 GW power shortfall for US data centers by 2028",
       "url": "https://cryptobriefing.com/morgan-stanley-70-gw-data-center-power-shortfall/",
@@ -8,6 +45,33 @@
       "published": "2026-11-01T20:04:10+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "3 U.S. Bank Stocks That Could Benefit If Long Term Interest Rates Stay Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-u-bank-stocks-could-181138539.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-01T18:11:38+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Adds James Flanagan To Its Board And Audit Committee",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-adds-james-flanagan-180959336.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-01T18:09:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Saylor Is Hinting at Another Bitcoin Buy Before MSCI Rules on Strategy. What Happens to BTC if Strategy Has to Sell Instead?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/01/saylor-is-hinting-at-another-bitcoin-buy-before-msci-rules-on-strategy-what-happens-to-btc-if-strategy-has-to-sell-instead/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-01T18:01:09+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -39,6 +103,15 @@
         "BAC",
         "C",
         "USB"
+      ]
+    },
+    {
+      "title": "Did Better Card Delinquencies Just Shift Citi's (C) Investment Narrative?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-better-card-delinquencies-just-170851983.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-01T17:08:51+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -84,6 +157,36 @@
       "published": "2026-11-01T15:21:17+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Says Market Rotation Is Nearly Complete as Stock Selection Takes Priority",
+      "url": "https://investorshub.advfn.com/market-news/article/38991/wells-fargo-says-market-rotation-is-nearly-complete-as-stock-selection-takes-priority?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-11-01T15:06:02+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Gen Z Lags on Key Life Milestones but Leads in Retirement Saving, Early Investing",
+      "url": "https://www.investopedia.com/gen-z-lags-on-key-life-milestones-but-leads-in-retirement-saving-and-early-investing-12182612?.tsrc=rss",
+      "source": "investopedia.com",
+      "published": "2026-11-01T14:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Enact Holdings (ACT) Could Be 51% Undervalued On BofA Downgrade And Housing Risk",
+      "url": "https://finance.yahoo.com/real-estate/articles/enact-holdings-act-could-51-141345426.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-01T14:13:45+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -176,113 +279,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Stock Sold by Sumitomo Mitsui Trust Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-sold-by-sumitomo-mitsui-trust-group-inc-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:44:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Mirae Asset Global Investments Co. Ltd. Makes New Investment in Bank of America Corporation $BAC",
-      "url": "https://www.tickerreport.com/banking-finance/13645440/mirae-asset-global-investments-co-ltd-makes-new-investment-in-bank-of-america-corporation-bac.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T11:39:27+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock: Sumitomo Mitsui Trust Group Inc. Lowers Position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-sumitomo-mitsui-trust-group-inc-lowers-position-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:37:26+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "13,962 The Goldman Sachs Group, Inc. $GS Shares Purchased by Sumitomo Mitsui Trust Group Inc.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-13962-the-goldman-sachs-group-inc-gs-shares-purchased-by-sumitomo-mitsui-trust-group-inc-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:37:24+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Vise Technologies Inc. Acquires 17,504 Shares of Wells Fargo & Company $WFC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vise-technologies-inc-acquires-17504-shares-of-wells-fargo-company-wfc-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:18:12+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Vise Technologies Inc. Makes New $23.50 Million Investment in Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vise-technologies-inc-makes-new-2350-million-investment-in-bank-of-america-corporation-bac-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T11:16:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo & Company $WFC Stock: Summit Global Investments Grows Position",
-      "url": "https://www.tickerreport.com/banking-finance/13645338/wells-fargo-company-wfc-stock-summit-global-investments-grows-position.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T10:59:22+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Purchased by Summit Global Investments",
-      "url": "https://www.tickerreport.com/banking-finance/13645337/bank-of-america-corporation-bac-stock-purchased-by-summit-global-investments.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-01T10:57:57+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Summit Global Investments Acquires 20,831 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-summit-global-investments-acquires-20831-shares-of-bank-of-america-corporation-bac-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T10:56:51+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Summit Global Investments Makes New $4.83 Million Investment in State Street Corporation $STT",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-summit-global-investments-makes-new-483-million-investment-in-state-street-corporation-stt-2026-11-01/",
-      "source": "marketbeat.com",
-      "published": "2026-11-01T10:56:50+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Transfer Capital One Miles To Air France-KLM Flying Blue With 20% Bonus: Worth It?",
-      "url": "https://onemileatatime.com/deals/capital-one-flying-blue-transfer-bonus/",
-      "source": "onemileatatime.com",
-      "published": "2026-11-01T10:56:06+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
