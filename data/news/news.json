@@ -1,281 +1,146 @@
 {
-  "last_updated": "2026-11-03T09:56:09.884698+00:00",
+  "last_updated": "2026-11-03T17:41:41.130998+00:00",
   "headlines": [
     {
-      "title": "116,000 Citigroup Inc. $C Shares Sold by Bank Julius Baer & Co. Ltd Zurich",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-116000-citigroup-inc-c-shares-sold-by-bank-julius-baer-co-ltd-zurich-2026-11-03/",
-      "source": "marketbeat.com",
-      "published": "2026-11-03T08:28:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Position Cut by Bokf Na",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-position-cut-by-bokf-na-2026-11-03/",
-      "source": "marketbeat.com",
-      "published": "2026-11-03T08:13:42+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115312/0001213900-26-115312-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T17:16:25+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Jones Lang LaSalle (NYSE:JLL) Cut to “Buy” at Wall Street Zen",
-      "url": "https://www.tickerreport.com/banking-finance/13647163/jones-lang-lasalle-nysejll-cut-to-buy-at-wall-street-zen.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-03T06:18:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Is AI a Bubble? Wall Street Titans Say Not Even Close",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-03/is-ai-a-bubble-wall-street-titans-say-not-even-close-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T06:17:04+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Only 3.2% of working Indians trade stocks. Why Morgan Stanley likes NSE",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/only-3-2-of-working-indians-trade-stocks-why-morgan-stanley-likes-nse/articleshow/135484192.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-03T05:54:20+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Crude oil analysis: US-Iran attacks pushes Brent, WTI higher, Goldman raises targets",
-      "url": "https://invezz.com/news/2026/11/03/crude-oil-analysis-us-iran-attacks-pushes-brent-wti-higher-goldman-raises-targets/",
-      "source": "invezz.com",
-      "published": "2026-11-03T05:15:34+00:00",
+      "title": "Goldman Sachs warns AI layoffs may lead to long-term worker displacement",
+      "url": "https://cryptobriefing.com/goldman-sachs-ai-layoffs-worker-displacement/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-03T17:06:51+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "XBI Pullback: A Warning or a Major Opportunity?",
-      "url": "https://elliottwave-forecast.com/stock-market/xbi-pullback-a-warning-or-a-major-opportunity/",
-      "source": "elliottwave-forecast.com",
-      "published": "2026-11-03T04:46:44+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Asian companies to ramp up investments in US amid supply-chain shifts",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asian-companies-to-ramp-up-investments-in-us-amid-supply-chain-shifts/articleshow/135482131.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-03T04:34:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley issues a fresh warning about AI stocks",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-issues-warning-about-ai-stocks?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-03T04:33:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bloomberg Talks: Ted Pick (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-03/bloomberg-talks-ted-pick-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T04:20:53+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T04:18:29+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bloomberg Talks: David Solomon (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-03/bloomberg-talks-david-solomon-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T04:14:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Japanese, Korean, Taiwanese firms’ US investment set to keep climbing: Citi",
-      "url": "https://www.investing.com/news/economy-news/japanese-korean-taiwanese-firms-us-investment-set-to-keep-climbing-citi-4993441",
-      "source": "investing.com",
-      "published": "2026-11-03T03:48:19+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One & Copa ConnectMiles Points-to-Miles Partnership & 30% Conversion Bonus Until December 1, 2026",
-      "url": "https://loyaltylobby.com/2026/11/02/capital-one-copa-connectmiles-points-to-miles-partnership-30-conversion-bonus-until-december-1-2026/?omhide=true",
-      "source": "loyaltylobby.com",
-      "published": "2026-11-03T03:34:06+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T03:13:14+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Solomon on Tech Supercycle 'Bumps'",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-03/solomon-on-tech-supercycle-bumps-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T03:10:13+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T02:58:29+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Merrill Lynch Settles for $39M Class Action Lawsuit Alleging It Didn’t Pay Enough Interest to Clients With Cash in Retirement Accounts",
-      "url": "https://www.investorlawyers.com/blog/broker-fraud-lawyers-11-2026/",
-      "source": "investorlawyers.com",
-      "published": "2026-11-03T02:00:00+00:00",
+      "title": "Bank Of America Preferreds: Enhance Your Yield To 9% | $BAC",
+      "url": "https://seekingalpha.com/article/4961602-bank-of-america-preferreds-enhance-your-yield-to-9-percent",
+      "source": "seekingalpha.com",
+      "published": "2026-11-03T17:04:14+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Citi Wealth AI Pulse Survey: Hong Kong Consumers Embrace AI, But Still Want Humans in the Driver's Seat",
-      "url": "https://www.newspressnow.com/news/national_news/business/citi-wealth-ai-pulse-survey-hong-kong-consumers-embrace-ai-but-still-want-humans-in/article_d487624a-1acf-51d6-9c05-4e0c2381db46.html",
-      "source": "newspressnow.com",
-      "published": "2026-11-03T01:10:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs MarketBeta Total International Equity ETF (NYSEARCA:GXUS) Stock Short Interest Falls 43.1%",
-      "url": "https://www.tickerreport.com/banking-finance/13647059/goldman-sachs-marketbeta-total-international-equity-etf-nysearcagxus-stock-short-interest-falls-43-1.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-03T00:20:51+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Live: Goldman, Morgan Stanley CEOs to Navigate Markets, AI Trades at HK Summit",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/goldman-morgan-stanley-finance-ceos-speak-at-hong-kong-investment-summit",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T00:19:45+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.1% After Analyst Upgrade",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-up-11-after-analyst-upgrade-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T23:01:02+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115303/0001213900-26-115303-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T17:01:56+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "BlackRock, State Street Get State AG Coal Suit Trimmed",
-      "url": "https://www.law360.com/assetmanagement/articles/2544830?utm_source=rss&utm_medium=rss&utm_campaign=section",
-      "source": "law360.com",
-      "published": "2026-11-02T22:50:33+00:00",
+      "title": "Verve Appoints Bryan Jennings as Chief Financial Officer",
+      "url": "https://www.prnewswire.com/news-releases/verve-appoints-bryan-jennings-as-chief-financial-officer-302928120.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-03T17:01:00+00:00",
       "tickers": [
-        "STT"
+        "MS"
       ]
     },
     {
-      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Cut to $278.00 by Analysts at UBS Group",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-price-target-cut-to-27800-by-analysts-at-ubs-group-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T22:42:35+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033949/0001918704-26-033949-index.htm",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034140/0001918704-26-034140-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-02T22:28:31+00:00",
+      "published": "2026-11-03T16:55:12+00:00",
       "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054472/0001839882-26-054472-index.htm",
+      "title": "Truist Financial Has Lowered Expectations for GFL Environmental (NYSE:GFL) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-gfl-environmental-nyse-gfl-stock-price-2026-11-03/",
+      "source": "marketbeat.com",
+      "published": "2026-11-03T16:54:38+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Equity Lifestyle Properties (NYSE:ELS) Stock Price Target Lowered at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-equity-lifestyle-properties-nyse-els-stock-price-target-lowered-at-truist-financial-2026-11-03/",
+      "source": "marketbeat.com",
+      "published": "2026-11-03T16:54:37+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Exzeo Group's (XZO) \"Buy\" Rating Reaffirmed at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-exzeo-groups-xzo-buy-rating-reaffirmed-at-truist-financial-2026-11-03/",
+      "source": "marketbeat.com",
+      "published": "2026-11-03T16:54:37+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Truist Financial Issues Pessimistic Forecast for Community Health Systems (NYSE:CYH) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-community-health-systems-nyse-cyh-stock-price-2026-11-03/",
+      "source": "marketbeat.com",
+      "published": "2026-11-03T16:54:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Alpine Income Property Trust (NYSE:PINE) Given New $17.00 Price Target at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-alpine-income-property-trust-nyse-pine-given-new-1700-price-target-at-truist-financial-2026-11-03/",
+      "source": "marketbeat.com",
+      "published": "2026-11-03T16:54:34+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054652/0001839882-26-054652-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-02T22:24:13+00:00",
+      "published": "2026-11-03T16:50:13+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115028/0001213900-26-115028-index.htm",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034133/0001918704-26-034133-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-02T22:24:01+00:00",
+      "published": "2026-11-03T16:49:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Offers $2.3 Billion Debt for Dell Family Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
+      "source": "bloomberg.com",
+      "published": "2026-11-03T16:43:57+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115284/0001213900-26-115284-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T16:30:37+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054463/0001839882-26-054463-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-02T22:19:30+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (NYSE:MS) Given New $240.00 Price Target at UBS Group",
-      "url": "https://www.tickerreport.com/banking-finance/13646969/morgan-stanley-nysems-given-new-240-00-price-target-at-ubs-group.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T22:18:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054459/0001839882-26-054459-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-02T22:16:59+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
