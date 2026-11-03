@@ -1,95 +1,134 @@
 {
-  "last_updated": "2026-11-02T19:42:20.883072+00:00",
+  "last_updated": "2026-11-03T02:08:33.732464+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054219/0001839882-26-054219-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-02T19:17:02+00:00",
+      "title": "Citi Wealth AI Pulse Survey: Hong Kong Consumers Embrace AI, But Still Want Humans in the Driver's Seat",
+      "url": "https://www.newspressnow.com/news/national_news/business/citi-wealth-ai-pulse-survey-hong-kong-consumers-embrace-ai-but-still-want-humans-in/article_d487624a-1acf-51d6-9c05-4e0c2381db46.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-03T01:10:38+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs MarketBeta Total International Equity ETF (NYSEARCA:GXUS) Stock Short Interest Falls 43.1%",
+      "url": "https://www.tickerreport.com/banking-finance/13647059/goldman-sachs-marketbeta-total-international-equity-etf-nysearcagxus-stock-short-interest-falls-43-1.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-03T00:20:51+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Live: Goldman, Morgan Stanley CEOs to Navigate Markets, AI Trades at HK Summit",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-03/goldman-morgan-stanley-finance-ceos-speak-at-hong-kong-investment-summit",
+      "source": "bloomberg.com",
+      "published": "2026-11-03T00:19:45+00:00",
+      "tickers": [
+        "GS",
         "MS"
       ]
     },
     {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 1.1% After Analyst Upgrade",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-up-11-after-analyst-upgrade-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T23:01:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group (NYSE:PNC) Price Target Cut to $278.00 by Analysts at UBS Group",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-the-pnc-financial-services-group-nyse-pnc-price-target-cut-to-27800-by-analysts-at-ubs-group-2026-11-02/",
+      "source": "marketbeat.com",
+      "published": "2026-11-02T22:42:35+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033792/0001918704-26-033792-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426033949/0001918704-26-033949-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-02T19:00:24+00:00",
+      "published": "2026-11-02T22:28:31+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526443328/0001193125-26-443328-index.htm",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054472/0001839882-26-054472-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-02T18:58:53+00:00",
+      "published": "2026-11-02T22:24:13+00:00",
       "tickers": [
-        "GS"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "Tesla (TSLA) – Analysts’ Weekly Ratings Changes",
-      "url": "https://www.tickerreport.com/banking-finance/13646843/tesla-tsla-analysts-weekly-ratings-changes.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T18:56:45+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115028/0001213900-26-115028-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T22:24:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054463/0001839882-26-054463-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T22:19:30+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Citigroup Issues Positive Forecast for Canadian National Railway (NYSE:CNI) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13646841/citigroup-issues-positive-forecast-for-canadian-national-railway-nysecni-stock-price.html",
+      "title": "Morgan Stanley (NYSE:MS) Given New $240.00 Price Target at UBS Group",
+      "url": "https://www.tickerreport.com/banking-finance/13646969/morgan-stanley-nysems-given-new-240-00-price-target-at-ubs-group.html",
       "source": "tickerreport.com",
-      "published": "2026-11-02T18:48:48+00:00",
+      "published": "2026-11-02T22:18:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054459/0001839882-26-054459-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T22:16:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526443894/0001193125-26-443894-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T22:16:26+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016648/0000950103-26-016648-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T22:12:48+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "PTC Therapeutics (NASDAQ:PTCT) Stock Gets Price Target Increase from Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13646842/ptc-therapeutics-nasdaqptct-stock-gets-price-target-increase-from-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-02T18:48:48+00:00",
+      "title": "US BANCORP DE: Form 3 - Initial statement of beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000122520826008589/0001225208-26-008589-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-02T22:09:23+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Newell Brands (NASDAQ:NWL) Given New $5.50 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-newell-brands-nasdaq-nwl-given-new-550-price-target-at-citigroup-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T18:48:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for PTC Therapeutics (NASDAQ:PTCT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-ptc-therapeutics-nasdaq-ptct-stock-price-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T18:48:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Church & Dwight (NYSE:CHD) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-church-dwight-nyse-chd-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T18:48:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Brunswick (NYSE:BC) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-brunswick-nyse-bc-stock-price-target-cut-by-citigroup-2026-11-02/",
-      "source": "marketbeat.com",
-      "published": "2026-11-02T18:48:38+00:00",
-      "tickers": [
-        "C"
+        "USB"
       ]
     }
   ]
