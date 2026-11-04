@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-11-03T23:07:56.769721+00:00",
+  "last_updated": "2026-11-04T03:08:08.622703+00:00",
   "headlines": [
+    {
+      "title": "Head-To-Head Analysis: QCR (NASDAQ:QCRH) & The PNC Financial Services Group (NYSE:PNC)",
+      "url": "https://www.tickerreport.com/banking-finance/13648402/head-to-head-analysis-qcr-nasdaqqcrh-the-pnc-financial-services-group-nysepnc.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-04T01:15:16+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "St. Louis-area veteran gifted new car in honor of his service",
+      "url": "https://fox2now.com/news/missouri/st-louis-area-veteran-gifted-new-car-in-honor-of-his-service/",
+      "source": "fox2now.com",
+      "published": "2026-11-04T00:12:05+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Banks moving to provide AI toolkits to small-business clients",
+      "url": "https://www.americanbanker.com/news/banks-moving-to-provide-ai-toolkits-to-small-business-clients",
+      "source": "americanbanker.com",
+      "published": "2026-11-03T23:01:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526445653/0001193125-26-445653-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T22:29:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034412/0001918704-26-034412-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T22:27:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115643/0001213900-26-115643-index.htm",
@@ -16,6 +63,16 @@
       "source": "sec.gov",
       "published": "2026-11-03T22:20:56+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054905/0001839882-26-054905-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T22:18:28+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
@@ -38,49 +95,22 @@
       ]
     },
     {
-      "title": "Wells Fargo Supplies $133M Refi for Miami-Dade Industrial Campus",
-      "url": "https://commercialobserver.com/2026/11/wells-fargo-dolphin-commerce-center-lba-realty/",
-      "source": "commercialobserver.com",
-      "published": "2026-11-03T22:05:22+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054897/0001839882-26-054897-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-03T22:07:16+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution",
-      "url": "http://www.businesswire.com/news/home/20261103213793/en/BNY-Mellon-Municipal-Bond-Infrastructure-Fund-Inc.-NYSE-DMB-Announces-Distribution/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
-      "source": "businesswire.com",
-      "published": "2026-11-03T21:56:00+00:00",
+      "title": "Goldman Sachs Limits Claude Code and GitHub Access to Engineers, Frustrating Traders",
+      "url": "https://www.crowdfundinsider.com/2026/11/321098-goldman-sachs-limits-claude-code-and-github-access-to-engineers-frustrating-traders/",
+      "source": "crowdfundinsider.com",
+      "published": "2026-11-03T22:06:47+00:00",
       "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115607/0001213900-26-115607-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T21:53:29+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bloomberg Daybreak Asia: Ted Pick, Manny Roman (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-03/bloomberg-daybreak-asia-ted-pick-manny-roman-podcast",
-      "source": "bloomberg.com",
-      "published": "2026-11-03T21:50:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226054888/0001839882-26-054888-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T21:48:26+00:00",
-      "tickers": [
-        "MS"
+        "GS"
       ]
     }
   ]
