@@ -1,6 +1,230 @@
 {
-  "last_updated": "2026-11-04T03:08:08.622703+00:00",
+  "last_updated": "2026-11-04T11:27:38.083680+00:00",
   "headlines": [
+    {
+      "title": "Goldman Sachs Research Expects Slower S&P 500 Earnings Growth in 2027 (Only 18%). Can the Bull Market Keep Going?",
+      "url": "https://www.fool.com/investing/2026/11/04/goldman-sachs-research-expects-slower-sp-500-earni/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-04T10:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "114,624 Shares of Alibaba Group Holding Limited $BABA Bought by Mirae Asset Global Investments Co. Ltd.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-114624-shares-of-alibaba-group-holding-limited-baba-bought-by-mirae-asset-global-investments-co-ltd-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T10:29:01+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Mirae Asset Global Investments Co. Ltd. Purchases New Shares in Truist Financial Corporation $TFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mirae-asset-global-investments-co-ltd-purchases-new-shares-in-truist-financial-corporation-tfc-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T10:28:54+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Assigns Sell Rating on Skyworks (SWKS) Amid Smartphone Market Concerns",
+      "url": "https://www.gurufocus.com/news/9168913/goldman-sachs-assigns-sell-rating-on-skyworks-swks-amid-smartphone-market-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-11-04T10:26:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo cuts PennyMac Mortgage Investment Trust price target to $9",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-pennymac-mortgage-investment-trust-price-target-to-9-93CH-4998113",
+      "source": "investing.com",
+      "published": "2026-11-04T10:09:01+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo raises Cinemark stock price target to $42 on record quarter",
+      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-raises-cinemark-stock-price-target-to-42-on-record-quarter-93CH-4998110",
+      "source": "investing.com",
+      "published": "2026-11-04T10:08:58+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley becomes one of first banks to tokenize U.S. stocks, Treasuries through DTCC",
+      "url": "https://crypto.news/morgan-stanley-tokenizes-us-stocks-treasuries-dtcc/",
+      "source": "crypto.news",
+      "published": "2026-11-04T10:07:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Embat Turns to J.P. Morgan for Better Bank-Treasury Connectivity",
+      "url": "https://www.pymnts.com/partnerships/2026/embat-turns-to-j-p-morgan-for-better-bank-treasury-connectivity/",
+      "source": "pymnts.com",
+      "published": "2026-11-04T10:00:05+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+      "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+      "source": "theblock.co",
+      "published": "2026-11-04T09:37:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Wells Fargo Stock: Analyst Estimates & Ratings",
+      "url": "https://www.barchart.com/story/news/8639869/wells-fargo-stock-analyst-estimates-ratings",
+      "source": "barchart.com",
+      "published": "2026-11-04T09:36:16+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "First Nebraska Trust Co Buys New Shares in The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-first-nebraska-trust-co-buys-new-shares-in-the-goldman-sachs-group-inc-gs-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T09:09:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs lowers Booking Holdings stock price target on demand headwinds",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-booking-holdings-stock-price-target-on-demand-headwinds-93CH-4997736",
+      "source": "investing.com",
+      "published": "2026-11-04T08:51:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "State Street Corporation $STT Shares Newly Purchased by Bank Julius Baer & Co. Ltd Zurich",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corporation-stt-shares-newly-purchased-by-bank-julius-baer-co-ltd-zurich-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T08:22:04+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "73,918 Shares in Morgan Stanley $MS Acquired by Aware Super Pty Ltd as trustee of Aware Super",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-73918-shares-in-morgan-stanley-ms-acquired-by-aware-super-pty-ltd-as-trustee-of-aware-super-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T08:21:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Aware Super Pty Ltd as trustee of Aware Super Buys 129,999 Shares of Citigroup Inc. $C",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aware-super-pty-ltd-as-trustee-of-aware-super-buys-129999-shares-of-citigroup-inc-c-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T08:21:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Aware Super Pty Ltd as trustee of Aware Super Buys 25,102 Shares of The Goldman Sachs Group, Inc. $GS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aware-super-pty-ltd-as-trustee-of-aware-super-buys-25102-shares-of-the-goldman-sachs-group-inc-gs-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T08:21:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp $USB Stock: AIA Group Ltd Lowers Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-us-bancorp-usb-stock-aia-group-ltd-lowers-position-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T08:04:43+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "BofA raises Expeditors Int’l stock price target on strong margins",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-raises-expeditors-intl-stock-price-target-on-strong-margins-93CH-4997606",
+      "source": "investing.com",
+      "published": "2026-11-04T07:50:57+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Reaffirms Buy Rating for AMD with $700 Price Target",
+      "url": "https://www.gurufocus.com/news/9168797/goldman-sachs-reaffirms-buy-rating-for-amd-with-700-price-target",
+      "source": "gurufocus.com",
+      "published": "2026-11-04T07:15:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "5 Payment Stocks That Earn a Fee Every Time You Swipe",
+      "url": "https://www.fool.com/investing/2026/11/04/5-payment-stocks-that-earn-a-fee-every-time-you-swipe/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-04T05:37:02+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "COF SWOT Analysis: Strong Growth Potential Revealed in 10-Q Filing",
+      "url": "https://www.gurufocus.com/news/9167903/cof-swot-analysis-strong-growth-potential-revealed-in-10q-filing",
+      "source": "gurufocus.com",
+      "published": "2026-11-04T05:08:21+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Semight Is Said to Tap Citic, Goldman, JPMorgan for Hong Kong Listing",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/semight-is-said-to-tap-citic-goldman-jpmorgan-for-hong-kong-listing",
+      "source": "bloomberg.com",
+      "published": "2026-11-04T03:40:20+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Ripple CEO Says XRP and RLUSD Work Together to Meet Customer Needs",
+      "url": "https://news.bitcoin.com/featured/ripple-ceo-says-xrp-and-rlusd-work-together-to-meet-customer-needs/",
+      "source": "bitcoin.com",
+      "published": "2026-11-04T03:30:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Why are companies restricting AI access to employees",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/why-are-companies-restricting-ai-access-to-employees/articleshow/135529606.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-04T01:59:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Head-To-Head Analysis: QCR (NASDAQ:QCRH) & The PNC Financial Services Group (NYSE:PNC)",
       "url": "https://www.tickerreport.com/banking-finance/13648402/head-to-head-analysis-qcr-nasdaqqcrh-the-pnc-financial-services-group-nysepnc.html",
@@ -30,6 +254,15 @@
       ]
     },
     {
+      "title": "My69z: Jamie Dimon, CEO of JPMorgan Chase, used the word \"inexorable\" in his annual letter to shareholders",
+      "url": "https://investorshangout.com/post/view?id=6851208",
+      "source": "investorshangout.com",
+      "published": "2026-11-03T22:58:23+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
       "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
       "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526445653/0001193125-26-445653-index.htm",
       "source": "sec.gov",
@@ -39,78 +272,13 @@
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034412/0001918704-26-034412-index.htm",
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000187997426000017/0001879974-26-000017-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-03T22:27:01+00:00",
+      "published": "2026-11-03T22:29:28+00:00",
       "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115643/0001213900-26-115643-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T22:25:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016869/0000950103-26-016869-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T22:20:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054905/0001839882-26-054905-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T22:18:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034405/0001918704-26-034405-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T22:16:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026115632/0001213900-26-115632-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T22:09:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226054897/0001839882-26-054897-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-03T22:07:16+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Limits Claude Code and GitHub Access to Engineers, Frustrating Traders",
-      "url": "https://www.crowdfundinsider.com/2026/11/321098-goldman-sachs-limits-claude-code-and-github-access-to-engineers-frustrating-traders/",
-      "source": "crowdfundinsider.com",
-      "published": "2026-11-03T22:06:47+00:00",
-      "tickers": [
-        "GS"
+        "C",
+        "SCHW"
       ]
     }
   ]
