@@ -1,68 +1,125 @@
 {
-  "last_updated": "2026-11-05T15:44:01.200229+00:00",
+  "last_updated": "2026-11-05T21:52:34.962958+00:00",
   "headlines": [
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034713/0001918704-26-034713-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-05T15:08:59+00:00",
+      "title": "PNC Announces Chief Financial Officer Transition Plans",
+      "url": "https://www.prnewswire.com/news-releases/pnc-announces-chief-financial-officer-transition-plans-302931366.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-05T21:24:00+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026116179/0001213900-26-116179-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-05T15:07:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034706/0001918704-26-034706-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-05T15:01:59+00:00",
-      "tickers": [
-        "C"
+        "C",
+        "PNC"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034705/0001918704-26-034705-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034776/0001918704-26-034776-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-05T15:00:25+00:00",
+      "published": "2026-11-05T21:22:04+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426034701/0001918704-26-034701-index.htm",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017040/0000950103-26-017040-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-05T14:56:04+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426034699/0001918704-26-034699-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-05T14:52:26+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "WATCH: New 911 calls and bodycam video released in Citibank Center shooting in Tampa",
-      "url": "https://abcnews.com/video/137872171/",
-      "source": "abcnews.com",
-      "published": "2026-11-05T14:02:46+00:00",
+      "published": "2026-11-05T21:15:23+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Jack Henry CFO Mimi Carsley to Present at Upcoming Investor Conferences",
+      "url": "https://www.prnewswire.com/news-releases/jack-henry-cfo-mimi-carsley-to-present-at-upcoming-investor-conferences-302931182.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-05T21:15:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Stock Faces Fresh Pressure as Democrats Plan Probing Epstein Banking Ties",
+      "url": "https://www.ibtimes.co.uk/senate-democrats-jpmorgan-epstein-inquiry-1830484",
+      "source": "ibtimes.co.uk",
+      "published": "2026-11-05T21:14:35+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA Rejigs Global Credit Trading Businesses To Boost Liquidity",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity",
+      "source": "bloomberg.com",
+      "published": "2026-11-05T21:07:51+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526449678/0001193125-26-449678-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T20:47:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055267/0001839882-26-055267-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T20:44:06+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017037/0000950103-26-017037-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T20:35:41+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan’s relationship with Jeffrey Epstein may be probed by Democrats after Senate takeover, says report",
+      "url": "https://economictimes.indiatimes.com/news/international/us/jpmorgans-relationship-with-jeffrey-epstein-may-be-probed-by-democrats-after-senate-takeover-says-report/articleshow/135586091.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-05T20:35:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "BofA cuts Tripadvisor to underperform, slashes PT to $8",
+      "url": "https://seekingalpha.com/news/4667137-bofa-cuts-tripadvisor-to-underperform-slashes-pt-to-8",
+      "source": "seekingalpha.com",
+      "published": "2026-11-05T20:33:24+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Sheriff: Citi's Tampa shooting 'could have been much worse'",
+      "url": "https://www.bizjournals.com/tampabay/news/2026/11/05/sheriff-citibank-tampa-shooting.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-11-05T20:25:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Demolition underway on long-closed U.S. Bank parking ramp",
+      "url": "https://www.duluthnewstribune.com/news/local/demolition-underway-on-long-closed-u-s-bank-parking-ramp",
+      "source": "duluthnewstribune.com",
+      "published": "2026-11-05T20:08:02+00:00",
+      "tickers": [
+        "USB"
       ]
     }
   ]
