@@ -1,277 +1,68 @@
 {
-  "last_updated": "2026-11-05T07:14:56.761482+00:00",
+  "last_updated": "2026-11-05T15:44:01.200229+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley cuts Ivanhoe Mines stock rating on operational issues",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-ivanhoe-mines-stock-rating-on-operational-issues-93CH-5002304",
-      "source": "investing.com",
-      "published": "2026-11-05T06:20:49+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley cuts Cisco stock rating on valuation concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-cisco-stock-rating-on-valuation-concerns-93CH-5002303",
-      "source": "investing.com",
-      "published": "2026-11-05T06:20:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Kinder Morgan (NYSE:KMI) Share Price Breaks Below Two Hundred Day Moving Average Following Analyst Downgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13650167/kinder-morgan-nysekmi-share-price-breaks-below-two-hundred-day-moving-average-following-analyst-downgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-05T05:21:17+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts Blue Wave Impact on AI and Data Center Regulation",
-      "url": "https://www.gurufocus.com/news/9172480/goldman-sachs-predicts-blue-wave-impact-on-ai-and-data-center-regulation",
-      "source": "gurufocus.com",
-      "published": "2026-11-05T04:10:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Is Bullish on AMD’s Server Business, but Valuation Factors Constrain a Rating Upgrade",
-      "url": "https://nai500.com/blog/2026/11/morgan-stanley-is-bullish-on-amds-server-business-but-valuation-factors-constrain-a-rating-upgrade/",
-      "source": "nai500.com",
-      "published": "2026-11-05T03:54:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs estimates AI off-balance-sheet commitments hit $4.1 trillion",
-      "url": "https://cryptobriefing.com/goldman-sachs-ai-off-balance-sheet-commitments/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-05T03:25:38+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One Financial declares $0.80 dividend",
-      "url": "https://seekingalpha.com/news/4666115-capital-one-financial-declares-0_80-dividend",
-      "source": "seekingalpha.com",
-      "published": "2026-11-05T03:13:22+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Goldman Sachs and Apollo shop a $40 billion SpaceX AI chip financing deal",
-      "url": "https://cryptobriefing.com/goldman-apollo-spacex-ai-chip-financing/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-05T02:44:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Florida authorities say two dead at Tampa office complex, including gunman shot by security guard",
-      "url": "https://www.newspressnow.com/ap/florida-authorities-say-two-dead-at-tampa-office-complex-including-gunman-shot-by-security-guard/article_b38059ca-b5f1-4156-b325-b70ad3677333.html",
-      "source": "newspressnow.com",
-      "published": "2026-11-05T02:36:00+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034713/0001918704-26-034713-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T15:08:59+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs Predicts Impact of Midterm Elections on AI and Data Center Regulations",
-      "url": "https://www.gurufocus.com/news/9172260/goldman-sachs-predicts-impact-of-midterm-elections-on-ai-and-data-center-regulations",
-      "source": "gurufocus.com",
-      "published": "2026-11-05T02:30:30+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026116179/0001213900-26-116179-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T15:07:00+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Goldman flags fresh state buying in China stocks, awaits volume recovery",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-flags-fresh-state-buying-in-china-stocks-awaits-volume-recovery-5002027",
-      "source": "investing.com",
-      "published": "2026-11-05T02:09:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Police investigate fatal head-on crash in Grant County",
-      "url": "https://www.wane.com/top-stories/police-investigate-fatal-head-on-crash-in-grant-county/",
-      "source": "wane.com",
-      "published": "2026-11-05T01:45:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)",
-      "url": "https://www.techmeme.com/261104/p59#a261104p59",
-      "source": "techmeme.com",
-      "published": "2026-11-05T01:10:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Hundreds Flee Shooting at Citibank's Tampa Campus",
-      "url": "https://www.newser.com/story/399445/gunman-opens-fire-at-citibanks-tampa-campus.html",
-      "source": "newser.com",
-      "published": "2026-11-05T00:50:00+00:00",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034706/0001918704-26-034706-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T15:01:59+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Shooter opens fire in Tampa Citibank campus as hundreds of officers respond",
-      "url": "https://www.cbsnews.com/video/shooter-opens-fire-in-tampa-citibank-campus-as-hundreds-of-officers-respond/",
-      "source": "cbsnews.com",
-      "published": "2026-11-05T00:46:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Security guard shoots, kills gunman at Citibank Center near Tampa",
-      "url": "https://www.upi.com/Top_News/US/2026/11/04/guard-kills-gunman-at-florida-citibank-center/4371793839162/",
-      "source": "upi.com",
-      "published": "2026-11-05T00:44:04+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi employee killed in shooting at Florida office, suspect dead",
-      "url": "https://www.straitstimes.com/world/united-states/citi-employee-killed-in-shooting-at-florida-office-suspect-dead",
-      "source": "straitstimes.com",
-      "published": "2026-11-05T00:35:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Smashing Security podcast #491: How AI agents are spooking the banks",
-      "url": "https://grahamcluley.com/smashing-security-podcast-491/",
-      "source": "grahamcluley.com",
-      "published": "2026-11-05T00:15:11+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034705/0001918704-26-034705-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T15:00:25+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Shooting at Citi's Tampa campus could disrupt business companywide",
-      "url": "https://www.bizjournals.com/tampabay/news/2026/11/04/citi-tampa-shooting.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-11-05T00:04:15+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Announces Quarterly Dividend",
-      "url": "http://www.businesswire.com/news/home/20261104069311/en/Capital-One-Announces-Quarterly-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-11-04T23:05:00+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Democratic Sweep, Markets Rally & AI Stocks Slide",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-close-11-4-2026-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-04T22:55:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Coinbase gets downgraded for a breach that happened elsewhere",
-      "url": "https://www.thestreet.com/investing/stocks/coinbase-gets-downgraded-for-a-breach-that-happened-elsewhere?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-04T22:47:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "2 dead at Florida office complex, including gunman",
-      "url": "https://www.oregonlive.com/nation/2026/11/2-dead-at-florida-office-complex-including-gunman-shot-by-security-guard.html",
-      "source": "oregonlive.com",
-      "published": "2026-11-04T22:44:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Adviser Consolidation - NEW YORK--(BUSINESS WIRE)--The Bank of New York Mellon Corporation ...",
-      "url": "http://www.businesswire.com/news/home/20261104913259/en/Adviser-Consolidation/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
-      "source": "businesswire.com",
-      "published": "2026-11-04T22:42:00+00:00",
-      "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "$2,380 stolen from my checking account through an unauthorized check. Bank still hasn't provided case number. What should I do?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xo2622/2380_stolen_from_my_checking_account_through_an/",
-      "source": "reddit.com",
-      "published": "2026-11-04T22:37:13+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Lenskart shares rally over 10% as strong Q2 triggers target price hikes. What are Jefferies and Morgan Stanley saying?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-rally-over-10-as-strong-q2-triggers-target-price-hikes-what-are-jefferies-and-morgan-stanley-saying/articleshow/135558112.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-04T22:31:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000095010326016961/0000950103-26-016961-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426034701/0001918704-26-034701-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-04T22:31:05+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "CoreWeave (NASDAQ:CRWV) Shares Down 9.9% After Analyst Downgrade",
-      "url": "https://www.tickerreport.com/banking-finance/13649907/coreweave-nasdaqcrwv-shares-down-9-9-after-analyst-downgrade.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-04T22:30:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Among First to Adopt DTCC’s Tokenization Service",
-      "url": "https://news.bitcoin.com/finance/morgan-stanley-among-first-adopt-dtcc-tokenization-service/",
-      "source": "bitcoin.com",
-      "published": "2026-11-04T22:30:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026116025/0001213900-26-116025-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-04T22:28:34+00:00",
+      "published": "2026-11-05T14:56:04+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B3 - Prospectus [Rule 424(b)(3)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426034699/0001918704-26-034699-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-05T14:52:26+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "WATCH: New 911 calls and bodycam video released in Citibank Center shooting in Tampa",
+      "url": "https://abcnews.com/video/137872171/",
+      "source": "abcnews.com",
+      "published": "2026-11-05T14:02:46+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
