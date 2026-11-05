@@ -1,286 +1,233 @@
 {
-  "last_updated": "2026-11-04T18:49:18.041638+00:00",
+  "last_updated": "2026-11-05T00:16:03.108623+00:00",
   "headlines": [
     {
-      "title": "Keurig Dr Pepper (NASDAQ:KDP) Stock Price Target Raised at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-keurig-dr-pepper-nasdaq-kdp-stock-price-target-raised-at-morgan-stanley-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:46+00:00",
+      "title": "Capital One Announces Quarterly Dividend",
+      "url": "http://www.businesswire.com/news/home/20261104069311/en/Capital-One-Announces-Quarterly-Dividend/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-11-04T23:05:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Democratic Sweep, Markets Rally & AI Stocks Slide",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-close-11-4-2026-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-04T22:55:45+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Denali Therapeutics (NASDAQ:DNLI) Price Target Raised to $42.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-denali-therapeutics-nasdaq-dnli-price-target-raised-to-4200-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:45+00:00",
+      "title": "Coinbase gets downgraded for a breach that happened elsewhere",
+      "url": "https://www.thestreet.com/investing/stocks/coinbase-gets-downgraded-for-a-breach-that-happened-elsewhere?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-04T22:47:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Echostar (NASDAQ:ECHO) Stock Gets Price Target Trim from Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-echostar-nasdaq-echo-stock-gets-price-target-trim-from-morgan-stanley-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:45+00:00",
+      "title": "2 dead at Florida office complex, including gunman",
+      "url": "https://www.oregonlive.com/nation/2026/11/2-dead-at-florida-office-complex-including-gunman-shot-by-security-guard.html",
+      "source": "oregonlive.com",
+      "published": "2026-11-04T22:44:36+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for BioNTech (NASDAQ:BNTX) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-biontech-nasdaq-bntx-stock-price-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:43+00:00",
+      "title": "Adviser Consolidation - NEW YORK--(BUSINESS WIRE)--The Bank of New York Mellon Corporation ...",
+      "url": "http://www.businesswire.com/news/home/20261104913259/en/Adviser-Consolidation/?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+      "source": "businesswire.com",
+      "published": "2026-11-04T22:42:00+00:00",
       "tickers": [
-        "MS"
+        "BK"
       ]
     },
     {
-      "title": "Morgan Stanley Issues Positive Forecast for Astera Labs (NASDAQ:ALAB) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-astera-labs-nasdaq-alab-stock-price-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:41+00:00",
+      "title": "$2,380 stolen from my checking account through an unauthorized check. Bank still hasn't provided case number. What should I do?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xo2622/2380_stolen_from_my_checking_account_through_an/",
+      "source": "reddit.com",
+      "published": "2026-11-04T22:37:13+00:00",
       "tickers": [
-        "MS"
+        "USB"
       ]
     },
     {
-      "title": "Block (NYSE:XYZ) Given New $82.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-block-nyse-xyz-given-new-8200-price-target-at-morgan-stanley-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Gartner (NYSE:IT) Stock Price Target Raised at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-gartner-nyse-it-stock-price-target-raised-at-morgan-stanley-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Forecasts Strong Price Appreciation for EPAM Systems (NYSE:EPAM) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-epam-systems-nyse-epam-stock-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for CRH (NYSE:CRH) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-crh-nyse-crh-stock-price-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Broadridge Financial Solutions (NYSE:BR) Given New $181.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-broadridge-financial-solutions-nyse-br-given-new-18100-price-target-at-morgan-stanley-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Clorox (NYSE:CLX) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-clorox-nyse-clx-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Aptiv (NYSE:APTV) Stock Price Target Cut by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-aptiv-nyse-aptv-stock-price-target-cut-by-morgan-stanley-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Has Lowered Expectations for Apollo Global Management (NYSE:APO) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-has-lowered-expectations-for-apollo-global-management-nyse-apo-stock-price-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T18:18:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "The most popular free Coursera courses of all time, according to Class Central",
-      "url": "https://qz.com/free-coursera-courses-class-central",
-      "source": "qz.com",
-      "published": "2026-11-04T18:06:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Amgen (NASDAQ:AMGN) Price Target Raised to $410.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-amgen-nasdaq-amgn-price-target-raised-to-41000-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:36:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Royal Caribbean Cruises (RCL) – Investment Analysts’ Weekly Ratings Changes",
-      "url": "https://www.tickerreport.com/banking-finance/13649580/royal-caribbean-cruises-rcl-investment-analysts-weekly-ratings-changes.html",
+      "title": "CoreWeave (NASDAQ:CRWV) Shares Down 9.9% After Analyst Downgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13649907/coreweave-nasdaqcrwv-shares-down-9-9-after-analyst-downgrade.html",
       "source": "tickerreport.com",
-      "published": "2026-11-04T17:27:00+00:00",
+      "published": "2026-11-04T22:30:47+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326016916/0000950103-26-016916-index.htm",
+      "title": "Morgan Stanley Among First to Adopt DTCC’s Tokenization Service",
+      "url": "https://news.bitcoin.com/finance/morgan-stanley-among-first-adopt-dtcc-tokenization-service/",
+      "source": "bitcoin.com",
+      "published": "2026-11-04T22:30:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026116025/0001213900-26-116025-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-04T17:19:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Chemours (NYSE:CC) Stock Gets Price Target Cut from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-chemours-nyse-cc-stock-gets-price-target-cut-from-truist-financial-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:18:43+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Waystar (NASDAQ:WAY) Stock Price Target Raised at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-waystar-nasdaq-way-stock-price-target-raised-at-truist-financial-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:18:39+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Viper Energy (NASDAQ:VNOM) Given New $54.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-viper-energy-nasdaq-vnom-given-new-5400-price-target-at-truist-financial-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:18:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Upstart (NASDAQ:UPST) Stock Gets Price Target Reduction from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-upstart-nasdaq-upst-stock-gets-price-target-reduction-from-truist-financial-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:18:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Top Bank Stocks To Watch Now - November 4th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-watch-now-november-4th-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:14:31+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Fidelity National Information Services (NYSE:FIS) Downgraded by JPMorgan Chase & Co. to Neutral",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-fidelity-national-information-services-nyse-fis-downgraded-by-jpmorgan-chase-co-to-neutral-2026-11-04/",
-      "source": "marketbeat.com",
-      "published": "2026-11-04T17:06:34+00:00",
+      "published": "2026-11-04T22:28:34+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "DT Maintained by Wells Fargo -- Price Target Lowered to $65.00",
-      "url": "https://www.gurufocus.com/news/9170370/dt-maintained-by-wells-fargo-price-target-lowered-to-6500",
-      "source": "gurufocus.com",
-      "published": "2026-11-04T17:06:16+00:00",
+      "title": "Morgan Stanley’s Monica Guerra on Dem’s Midterm Sweep",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-04/morgan-stanley-s-monica-guerra-on-dem-s-midterm-sweep-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-04T22:21:27+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "SHOP Maintained by Wells Fargo -- Price Target Lowered to $205",
-      "url": "https://www.gurufocus.com/news/9170363/shop-maintained-by-wells-fargo-price-target-lowered-to-205",
-      "source": "gurufocus.com",
-      "published": "2026-11-04T17:04:55+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BKNG Maintained by Wells Fargo -- Price Target Lowered to $179",
-      "url": "https://www.gurufocus.com/news/9170361/bkng-maintained-by-wells-fargo-price-target-lowered-to-179",
-      "source": "gurufocus.com",
-      "published": "2026-11-04T17:04:35+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034533/0001918704-26-034533-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-04T17:03:10+00:00",
+      "title": "Bank of America (NYSE:BAC) Stock Jumps 3.9% - Time to Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-jumps-39-time-to-buy-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:21:11+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "CNK Maintained by Wells Fargo -- Price Target Raised to $42.00",
-      "url": "https://www.gurufocus.com/news/9170353/cnk-maintained-by-wells-fargo-price-target-raised-to-4200",
-      "source": "gurufocus.com",
-      "published": "2026-11-04T17:02:24+00:00",
+      "title": "Bank of America (NYSE:BAC) Stock Price Up 3.9% – What’s Next?",
+      "url": "https://www.tickerreport.com/banking-finance/13649892/bank-of-america-nysebac-stock-price-up-3-9-whats-next.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-04T22:21:09+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "ETN Maintained by Wells Fargo -- Price Target Lowered to $485",
-      "url": "https://www.gurufocus.com/news/9170346/etn-maintained-by-wells-fargo-price-target-lowered-to-485",
-      "source": "gurufocus.com",
-      "published": "2026-11-04T17:00:56+00:00",
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Shares Climb 4.2% - Still a Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-shares-climb-42-still-a-buy-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:21:05+00:00",
       "tickers": [
-        "WFC",
+        "JPM"
+      ]
+    },
+    {
+      "title": "Florida authorities say 2 dead at Tampa office complex, including gunman shot by security guard",
+      "url": "https://www.kulr8.com/news/national/florida-authorities-say-2-dead-at-tampa-office-complex-including-gunman-shot-by-security-guard/article_0b601481-3747-540a-bca9-45c190bf92c4.html",
+      "source": "kulr8.com",
+      "published": "2026-11-04T22:15:44+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055010/0001839882-26-055010-index.htm",
+      "title": "What Does JPMorgan Chase (JPM) Gain From Its Dubai Push And US Hires?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-jpmorgan-chase-jpm-gain-221337549.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-04T22:13:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Florida Citibank Shooting Leaves Two Dead as Terrified Workers Hide in Closets and Locked Rooms",
+      "url": "https://www.ibtimes.co.uk/two-dead-citibank-shooting-brandon-florida-1830283",
+      "source": "ibtimes.co.uk",
+      "published": "2026-11-04T22:13:16+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Phillips 66 (NYSE:PSX) Given New $302.00 Price Target at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13649883/phillips-66-nysepsx-given-new-302-00-price-target-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-04T22:12:49+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034654/0001918704-26-034654-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-04T16:59:09+00:00",
+      "published": "2026-11-04T22:12:37+00:00",
       "tickers": [
-        "MS"
+        "C"
+      ]
+    },
+    {
+      "title": "Gaming and Leisure Properties (NASDAQ:GLPI) Given New $49.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-gaming-and-leisure-properties-nasdaq-glpi-given-new-4900-price-target-at-citigroup-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:12:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Upstart (NASDAQ:UPST) Price Target Cut to $46.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-upstart-nasdaq-upst-price-target-cut-to-4600-by-analysts-at-citigroup-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:12:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Huntsman (NYSE:HUN) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-huntsman-nyse-hun-stock-price-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:12:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Nabors Industries (NYSE:NBR) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nabors-industries-nyse-nbr-stock-price-target-lowered-at-citigroup-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:12:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ibotta (NYSE:IBTA) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ibotta-nyse-ibta-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-04/",
+      "source": "marketbeat.com",
+      "published": "2026-11-04T22:12:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034651/0001918704-26-034651-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-04T22:12:29+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034647/0001918704-26-034647-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-04T22:06:47+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
