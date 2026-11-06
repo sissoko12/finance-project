@@ -1,243 +1,159 @@
 {
-  "last_updated": "2026-11-06T17:20:05.872469+00:00",
+  "last_updated": "2026-11-06T22:17:31.630990+00:00",
   "headlines": [
     {
-      "title": "Gold set to rally as U.S. nears another fiscal 'game of chicken' - BofA's Hartnett",
-      "url": "https://seekingalpha.com/news/4668334-gold-set-to-rally-as-u-s-nears-another-fiscal-game-of-chicken-bofas-hartnett",
-      "source": "seekingalpha.com",
-      "published": "2026-11-06T16:31:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055400/0001839882-26-055400-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526451990/0001193125-26-451990-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-06T16:30:11+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Sheriff: Citibank Gunman Angry Over $2.5K Debt",
-      "url": "https://www.newser.com/story/399576/sheriff-citibank-gunman-angry-over-25k-debt.html",
-      "source": "newser.com",
-      "published": "2026-11-06T16:21:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017081/0000950103-26-017081-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T16:17:08+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "KOSPI plunges 12% on midterm blue wave and tech sector selloff says Goldman Sachs",
-      "url": "https://www.investing.com/news/stock-market-news/kospi-plunges-12-on-midterm-blue-wave-and-tech-sector-selloff-says-goldman-sachs-93CH-5008816",
-      "source": "investing.com",
-      "published": "2026-11-06T16:13:03+00:00",
+      "published": "2026-11-06T21:53:10+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026116721/0001213900-26-116721-index.htm",
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526451987/0001193125-26-451987-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-06T16:12:13+00:00",
+      "published": "2026-11-06T21:51:52+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034827/0001918704-26-034827-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034935/0001918704-26-034935-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-06T16:04:09+00:00",
+      "published": "2026-11-06T21:27:18+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Goldman Goes Quiet on Women Partner Promotions",
-      "url": "https://www.youtube.com/watch?v=JhU92UoF1SE",
-      "source": "youtube.com",
-      "published": "2026-11-06T15:59:33+00:00",
+      "title": "Citigroup Forecasts Strong Price Appreciation for Ulta Beauty (NASDAQ:ULTA) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-ulta-beauty-nasdaq-ulta-stock-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T21:06:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for Airbnb (NASDAQ:ABNB) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-airbnb-nasdaq-abnb-stock-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T21:06:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Williams-Sonoma (NYSE:WSM) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-williams-sonoma-nyse-wsm-stock-price-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T21:06:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Best Buy (NYSE:BBY) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-best-buy-nyse-bby-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T21:06:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "RH (NYSE:RH) Stock Gets Price Target Reduction from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-rh-nyse-rh-stock-gets-price-target-reduction-from-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T21:06:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Corpay to Participate in Upcoming Investor Conferences",
+      "url": "http://www.businesswire.com/news/home/20261106329399/en/Corpay-to-Participate-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
+      "source": "businesswire.com",
+      "published": "2026-11-06T21:05:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "REGAL REXNORD ANNOUNCES PARTICIPATION AT UPCOMING CONFERENCES",
+      "url": "https://www.prnewswire.com/news-releases/regal-rexnord-announces-participation-at-upcoming-conferences-302932346.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-06T21:00:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "SEI Maintained by Wells Fargo -- Price Target Lowered to $65.00",
-      "url": "https://www.gurufocus.com/news/9181409/sei-maintained-by-wells-fargo-price-target-lowered-to-6500",
+      "title": "Bank of America Downgrades IFF, Shares Fall 3.3% Amid Q4 Profitability Concerns",
+      "url": "https://www.gurufocus.com/news/9182053/bank-of-america-downgrades-iff-shares-fall-33-amid-q4-profitability-concerns",
       "source": "gurufocus.com",
-      "published": "2026-11-06T15:47:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "PRIM Maintained by Wells Fargo -- Price Target Lowered to $64.00",
-      "url": "https://www.gurufocus.com/news/9181408/prim-maintained-by-wells-fargo-price-target-lowered-to-6400",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:47:17+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "CMI Maintained by Wells Fargo -- Price Target Lowered to $520",
-      "url": "https://www.gurufocus.com/news/9181406/cmi-maintained-by-wells-fargo-price-target-lowered-to-520",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:46:23+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ONC Maintains Overweight by Wells Fargo -- Price Target Raised to $435",
-      "url": "https://www.gurufocus.com/news/9181398/onc-maintains-overweight-by-wells-fargo-price-target-raised-to-435",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:42:05+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Names Top Stock in Stablecoin and Digital Payments Space",
-      "url": "https://www.investing.com/news/stock-market-news/citi-names-top-stock-in-stablecoin-and-digital-payments-space-5008780",
-      "source": "investing.com",
-      "published": "2026-11-06T15:40:48+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "IRTC Maintained by Wells Fargo -- Price Target Lowered to $135",
-      "url": "https://www.gurufocus.com/news/9181394/irtc-maintained-by-wells-fargo-price-target-lowered-to-135",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:40:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "SOLV Maintains Rating by Wells Fargo -- Price Target Raised to $95",
-      "url": "https://www.gurufocus.com/news/9181389/solv-maintains-rating-by-wells-fargo-price-target-raised-to-95",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:38:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "AMPH Maintains Rating by Wells Fargo -- Price Target Raised to $25",
-      "url": "https://www.gurufocus.com/news/9181386/amph-maintains-rating-by-wells-fargo-price-target-raised-to-25",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:37:24+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "GMED Maintained by Wells Fargo -- Price Target Raised to $100",
-      "url": "https://www.gurufocus.com/news/9181383/gmed-maintained-by-wells-fargo-price-target-raised-to-100",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:35:55+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "ENOV Maintains Overweight Rating by Wells Fargo -- Price Target Raised to $37",
-      "url": "https://www.gurufocus.com/news/9181378/enov-maintains-overweight-rating-by-wells-fargo-price-target-raised-to-37",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:34:03+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Direct Lending Fund 2026 Q3 - Results - Earnings Call Presentation | $MSDL",
-      "url": "https://seekingalpha.com/article/4964105-morgan-stanley-direct-lending-fund-2026-q3-results-earnings-call-presentation",
-      "source": "seekingalpha.com",
-      "published": "2026-11-06T15:32:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "TFX Maintained by Wells Fargo -- Price Target Raised to $167",
-      "url": "https://www.gurufocus.com/news/9181374/tfx-maintained-by-wells-fargo-price-target-raised-to-167",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:32:37+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "TNDM Maintained by Wells Fargo -- Price Target Lowered to $25",
-      "url": "https://www.gurufocus.com/news/9181371/tndm-maintained-by-wells-fargo-price-target-lowered-to-25",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:31:34+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Double-digit price declines in property cat reinsurance likely to persist, says JP Morgan",
-      "url": "https://www.reinsurancene.ws/double-digit-price-declines-in-property-cat-reinsurance-likely-to-persist-says-jp-morgan/",
-      "source": "reinsurancene.ws",
-      "published": "2026-11-06T15:30:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman’s US Stock Panic Gauge Hits Extreme, Signaling Rebound",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
-      "source": "bloomberg.com",
-      "published": "2026-11-06T15:28:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
-      "url": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
-      "source": "marketwatch.com",
-      "published": "2026-11-06T15:27:00+00:00",
+      "published": "2026-11-06T20:56:27+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "VRSK Maintained by Wells Fargo -- Price Target Raised to $265",
-      "url": "https://www.gurufocus.com/news/9181349/vrsk-maintained-by-wells-fargo-price-target-raised-to-265",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T15:24:15+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034917/0001918704-26-034917-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-06T20:50:31+00:00",
       "tickers": [
-        "WFC",
+        "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "USA Today (NYSE:TDAY) Stock Rating Upgraded by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-usa-today-nyse-tday-stock-rating-upgraded-by-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T20:48:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Supreme Court agrees to weigh in on Goldman Sachs arbitration dispute",
+      "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-weigh-in-on-goldman-sachs-arbitration-dispute/",
+      "source": "scotusblog.com",
+      "published": "2026-11-06T20:35:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055498/0001839882-26-055498-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-06T20:33:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (USB) Presents at BancAnalysts Association of Boston Conference 2026 Transcript | $USB",
+      "url": "https://seekingalpha.com/article/4964183-u-s-bancorp-usb-presents-at-bancanalysts-association-of-boston-conference-2026-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-11-06T20:24:43+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055494/0001839882-26-055494-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-06T20:24:34+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
