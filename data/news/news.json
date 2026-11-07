@@ -1,10 +1,64 @@
 {
-  "last_updated": "2026-11-07T20:05:41.856470+00:00",
+  "last_updated": "2026-11-07T23:51:15.407681+00:00",
   "headlines": [
     {
+      "title": "The Yield vs. Weighting Dilemma: How to Choose Between SPSM and SCHA",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/07/the-yield-vs-weighting-dilemma-how-to-choose-between-spsm-and-scha/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-07T22:15:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
+      "url": "https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
+      "source": "investing.com",
+      "published": "2026-11-07T21:32:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley says SpaceX stock is now cheaper than the S&P 500",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-says-spacex-stock-is-now-cheaper-than-the-sp-500?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-07T20:13:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why gold is losing its shine: Goldman breaks down the recent sell-off",
+      "url": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
+      "source": "investing.com",
+      "published": "2026-11-07T20:02:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Costco Wholesale (NASDAQ:COST) Shares Up 1.8% on Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13654583/costco-wholesale-nasdaqcost-shares-up-1-8-on-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T19:41:18+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Charter Is Cutting $2 Billion in Costs After Losing Another 233,000 Internet Customers",
+      "url": "https://247wallst.com/investing/2026/11/07/charter-is-cutting-2-billion-in-costs-after-losing-another-233000-internet-customers/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-07T19:03:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "Here’s Why Bank of America and TD Cowen Backed Away From Marvell (MRVL)",
-      "url": "https://www.insidermonkey.com/news/heres-why-bank-of-america-and-td-cowen-backed-away-from-marvell-mrvl-1862830/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-td-cowen-184337011.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-07T18:43:37+00:00",
       "tickers": [
         "BAC",
@@ -13,8 +67,8 @@
     },
     {
       "title": "Here’s Why Morgan Stanley Analyst Meta Marshall Trimmed Cisco (CSCO) to Equal-weight",
-      "url": "https://www.insidermonkey.com/news/heres-why-morgan-stanley-analyst-meta-marshall-trimmed-cisco-csco-to-equal-weight-1862828/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-analyst-meta-184215687.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-07T18:42:15+00:00",
       "tickers": [
         "MS"
@@ -154,11 +208,39 @@
       ]
     },
     {
+      "title": "How Buyback Plans At U.S. Bancorp (USB) Have Changed Its Investment Story",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buyback-plans-u-bancorp-usb-171201851.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T17:12:01+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "How Investors Are Reacting To Goldman Sachs Stock After Congress Shift",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-goldman-sachs-stock-171144829.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T17:11:44+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Citigroup Inc. $C Shares Sold by Waycross Partners LLC",
       "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-waycross-partners-llc-2026-11-07/",
       "source": "marketbeat.com",
       "published": "2026-11-07T17:05:09+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Bond Sales Keep The Undervalued Narrative In Play",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-bond-sales-161156601.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T16:11:56+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -196,90 +278,6 @@
       "published": "2026-11-07T16:02:17+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Purchased by Calamos Advisors LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13654054/morgan-stanley-ms-shares-purchased-by-calamos-advisors-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T15:59:59+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Analysts Express Concern Over Global Oil Glut As High Prices Crush Demand",
-      "url": "https://leadership.ng/analysts-express-concern-over-global-oil-glut-as-high-prices-crush-demand/",
-      "source": "leadership.ng",
-      "published": "2026-11-07T15:56:03+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Decoding Healthcare ETFs: Different Sectors, Different Strategies",
-      "url": "https://www.fool.com/coverage/etfs/2026/11/07/decoding-healthcare-etfs-different-sectors-different-strategies/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-07T15:15:02+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Purchased by Commonwealth Equity Services LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-purchased-by-commonwealth-equity-services-llc-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T15:05:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Berkshire Hathaway, Mastercard, Visa among gainers; Goldman Sachs in losers: week's financials wrap",
-      "url": "https://seekingalpha.com/news/4668444-berkshire-hathaway-mastercard-visa-among-gainers-goldman-sachs-in-losers-weeks-financials-wrap",
-      "source": "seekingalpha.com",
-      "published": "2026-11-07T15:00:14+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Here's How These 6 Big Bank Stocks Make Their Money",
-      "url": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-07T14:45:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Bought by Greenleaf Trust",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bought-by-greenleaf-trust-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T14:17:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CCTV captures moments of deadly Citibank shooting in Florida",
-      "url": "https://www.youtube.com/watch?v=onqOGbvlZcA",
-      "source": "youtube.com",
-      "published": "2026-11-07T14:15:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "5 Stocks to Watch from Morgan Stanley’s Ultra-Selective Tailwinds Strategy",
-      "url": "https://www.insidermonkey.com/news/5-stocks-to-watch-from-morgan-stanleys-ultra-selective-tailwinds-strategy-1862545/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-07T14:11:41+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
