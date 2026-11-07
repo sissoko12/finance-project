@@ -1,6 +1,154 @@
 {
-  "last_updated": "2026-11-07T09:08:08.237252+00:00",
+  "last_updated": "2026-11-07T15:51:41.547701+00:00",
   "headlines": [
+    {
+      "title": "Here's How These 6 Big Bank Stocks Make Their Money",
+      "url": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/",
+      "source": "fool.com",
+      "published": "2026-11-07T15:05:00+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway, Mastercard, Visa among gainers; Goldman Sachs in losers: week's financials wrap",
+      "url": "https://seekingalpha.com/news/4668444-berkshire-hathaway-mastercard-visa-among-gainers-goldman-sachs-in-losers-weeks-financials-wrap",
+      "source": "seekingalpha.com",
+      "published": "2026-11-07T15:00:14+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Bought by Greenleaf Trust",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bought-by-greenleaf-trust-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T14:17:41+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "5 Stocks to Watch from Morgan Stanley’s Ultra-Selective Tailwinds Strategy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-watch-morgan-stanley-141141397.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T14:11:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action ...",
+      "url": "https://www.newspressnow.com/news/national_news/business/bank-of-america-alert-bragar-eagel-squire-p-c-reminds-investors-that-a-class-action/article_abe339d1-cbae-5c01-a63d-693c6f9384f9.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-07T13:50:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lundin Mining (OTCMKTS:LUNMF) Stock Rating Raised to Strong-Buy at Canaccord Genuity Group",
+      "url": "https://www.tickerreport.com/banking-finance/13653727/lundin-mining-otcmktslunmf-stock-rating-raised-to-strong-buy-at-canaccord-genuity-group.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T13:25:31+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Simon Property Group: Strong Execution, But Wait For A Better Entry | $XLRE $AAPL $LULU $WSM $BAC",
+      "url": "https://seekingalpha.com/article/4964364-simon-property-group-strong-execution-but-wait-for-a-better-entry",
+      "source": "seekingalpha.com",
+      "published": "2026-11-07T13:15:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Lowers Gold Targets, Keeps Its Long-Term Bull Case",
+      "url": "https://vblgoldfix.substack.com/p/goldman-lowers-gold-targets-keeps",
+      "source": "substack.com",
+      "published": "2026-11-07T13:14:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (November 2026) | $NWG $CIB $MS $AXP $ARES",
+      "url": "https://seekingalpha.com/article/4963451-5-relatively-secure-cheap-dividend-stocks-yields-8-percent-november-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-11-07T13:05:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Coherent Stock Fell 8% in a Week. J.P. Morgan Sees 100% Upside From Here",
+      "url": "https://www.tikr.com/blog/coherent-stock-fell-8-in-a-week-j-p-morgan-sees-100-upside-from-here?ref=yahoofinance&tlnk=yf-261107-rw3jqjf8&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-11-07T12:36:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Position Raised by Bank Julius Baer & Co. Ltd Zurich",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-raised-by-bank-julius-baer-co-ltd-zurich-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T12:23:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wall Street banks brace for ‘political theater’ as Democrats return to power—but few expect major change anytime soon",
+      "url": "https://fortune.com/2026/11/07/wall-street-banks-regulation-midterm-elections-elizabeth-warren/",
+      "source": "fortune.com",
+      "published": "2026-11-07T12:00:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Raises AI Revenue Forecasts Through 2028 as Cloud Demand Accelerates",
+      "url": "https://investorshub.advfn.com/market-news/article/39463/citi-raises-ai-revenue-forecasts-through-2028-as-cloud-demand-accelerates?.tsrc=rss",
+      "source": "advfn.com",
+      "published": "2026-11-07T11:48:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Founders: “Smoking Gun” Revealed: Goldman Lowered Its Gold Target The Day After The Big Selloff",
+      "url": "https://vblgoldfix.substack.com/p/founders-smoking-gun-revealed-goldman",
+      "source": "substack.com",
+      "published": "2026-11-07T11:36:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon declares the US will hang on as the world's top reserve currency — for 2 key reasons",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/jpmorgan-ceo-jamie-dimon-declares-100000283.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T10:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
+      "url": "https://www.fool.com/investing/2026/11/07/palantir-stock-investors-great-news-wall-street-stock-soar/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-07T09:48:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "Capital One chairman and CEO Fairbank sells $18.6 million in shares",
       "url": "https://www.investing.com/news/insider-trading-news/capital-one-chairman-and-ceo-fairbank-sells-186-million-in-shares-93CH-5009749",
@@ -31,6 +179,25 @@
       ]
     },
     {
+      "title": "Centrus Energy (LEU) Stock Fair Value Moves Lower As Analysts Trim Targets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-fair-042900970.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T04:29:00+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "3 U.S. Bank Stocks Back In Focus After The Jobs Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-u-bank-stocks-back-021218066.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-07T02:12:18+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
       "title": "ROSEN, A LONGSTANDING LAW FIRM, Encourages Bank of America Corporation Investors to Secure ...",
       "url": "https://www.newspressnow.com/news/national_news/business/rosen-a-longstanding-law-firm-encourages-bank-of-america-corporation-investors-to-secure/article_c7fc7abe-39ef-583f-85a6-6b18a616eb07.html",
       "source": "newspressnow.com",
@@ -56,6 +223,15 @@
       "published": "2026-11-07T00:10:19+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley resets Cisco stock price target before earnings",
+      "url": "https://www.thestreet.com/investing/csco-cisco-stock-morgan-stanley-downgrades-price-target-by-11-before-earnings?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-06T23:33:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -101,177 +277,6 @@
       "published": "2026-11-06T22:48:33+00:00",
       "tickers": [
         "C"
-      ]
-    },
-    {
-      "title": "United Parks & Resorts (NYSE:PRKS) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-united-parks-resorts-nyse-prks-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:48:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Quantinuum (NASDAQ:QNT) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-quantinuum-nasdaq-qnt-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:48:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Natera (NASDAQ:NTRA) Given New $405.00 Price Target at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-natera-nasdaq-ntra-given-new-40500-price-target-at-jpmorgan-chase-co-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:48:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citi shooter was enraged over Best Buy credit-card debt suit",
-      "url": "https://www.americanbanker.com/news/citi-shooter-was-enraged-over-best-buy-credit-card-debt-suit",
-      "source": "americanbanker.com",
-      "published": "2026-11-06T22:41:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "DTE Energy To Sell DTE Vantage Business For $3 Billion To J.P. Morgan Asset Management Investors And Expand Utility Investments To $44 Billion",
-      "url": "https://pulse2.com/dte-energy-to-sell-dte-vantage-business-for-3-billion-to-j-p-morgan-asset-management-investors-and-expand-utility-investments-to-44-billion/",
-      "source": "pulse2.com",
-      "published": "2026-11-06T22:33:44+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NuScale Power (NYSE:SMR) Price Target Cut to $3.50 by Analysts at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nuscale-power-nyse-smr-price-target-cut-to-350-by-analysts-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ITT (NYSE:ITT) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-itt-nyse-itt-stock-price-target-cut-by-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:39+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HubSpot (NYSE:HUBS) Given New $230.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-hubspot-nyse-hubs-given-new-23000-price-target-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Figma (NYSE:FIG) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-figma-nyse-fig-stock-price-target-lowered-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for Amplitude (NASDAQ:AMPL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-amplitude-nasdaq-ampl-stock-price-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Paycom Software (NYSE:PAYC) Stock Gets Price Target Cut from Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-paycom-software-nyse-payc-stock-gets-price-target-cut-from-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Energy Transfer (TXSE:ET) Stock Price Target Raised at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-energy-transfer-txse-et-stock-price-target-raised-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Expedia Group (NASDAQ:EXPE) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-expedia-group-nasdaq-expe-stock-price-target-lowered-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Westlake (NYSE:WLK) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-westlake-nyse-wlk-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Marriott International (NASDAQ:MAR) Given New $450.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-marriott-international-nasdaq-mar-given-new-45000-price-target-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NNN REIT (NYSE:NNN) Given New $44.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nnn-reit-nyse-nnn-given-new-4400-price-target-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:30:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017117/0000950103-26-017117-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T22:30:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026117009/0001213900-26-117009-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T22:28:11+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526452112/0001193125-26-452112-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T22:26:06+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
