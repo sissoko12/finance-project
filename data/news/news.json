@@ -1,159 +1,275 @@
 {
-  "last_updated": "2026-11-06T22:17:31.630990+00:00",
+  "last_updated": "2026-11-07T02:16:56.785187+00:00",
   "headlines": [
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526451990/0001193125-26-451990-index.htm",
+      "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000305/0000895421-26-000305-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-06T21:53:10+00:00",
+      "published": "2026-11-07T00:28:26+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+      "source": "investing.com",
+      "published": "2026-11-07T00:10:19+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526451987/0001193125-26-451987-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T21:51:52+00:00",
+      "title": "ABNB Maintains by JP Morgan -- Price Target Raised to $202",
+      "url": "https://www.gurufocus.com/news/9182514/abnb-maintains-by-jp-morgan-price-target-raised-to-202",
+      "source": "gurufocus.com",
+      "published": "2026-11-06T23:32:01+00:00",
       "tickers": [
-        "GS"
+        "JPM"
+      ]
+    },
+    {
+      "title": "NTRA Maintained by JP Morgan -- Price Target Lowered to $405",
+      "url": "https://www.gurufocus.com/news/9182512/ntra-maintained-by-jp-morgan-price-target-lowered-to-405",
+      "source": "gurufocus.com",
+      "published": "2026-11-06T23:31:25+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NET Maintained by JP Morgan -- Price Target Raised to $375",
+      "url": "https://www.gurufocus.com/news/9182510/net-maintained-by-jp-morgan-price-target-raised-to-375",
+      "source": "gurufocus.com",
+      "published": "2026-11-06T23:30:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Mattel (NASDAQ:MAT) Given New $15.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-mattel-nasdaq-mat-given-new-1500-price-target-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:48:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "United Parks & Resorts (NYSE:PRKS) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-united-parks-resorts-nyse-prks-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:48:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Quantinuum (NASDAQ:QNT) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-quantinuum-nasdaq-qnt-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:48:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Natera (NASDAQ:NTRA) Given New $405.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-natera-nasdaq-ntra-given-new-40500-price-target-at-jpmorgan-chase-co-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:48:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citi shooter was enraged over Best Buy credit-card debt suit",
+      "url": "https://www.americanbanker.com/news/citi-shooter-was-enraged-over-best-buy-credit-card-debt-suit",
+      "source": "americanbanker.com",
+      "published": "2026-11-06T22:41:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "DTE Energy To Sell DTE Vantage Business For $3 Billion To J.P. Morgan Asset Management Investors And Expand Utility Investments To $44 Billion",
+      "url": "https://pulse2.com/dte-energy-to-sell-dte-vantage-business-for-3-billion-to-j-p-morgan-asset-management-investors-and-expand-utility-investments-to-44-billion/",
+      "source": "pulse2.com",
+      "published": "2026-11-06T22:33:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NuScale Power (NYSE:SMR) Price Target Cut to $3.50 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nuscale-power-nyse-smr-price-target-cut-to-350-by-analysts-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ITT (NYSE:ITT) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-itt-nyse-itt-stock-price-target-cut-by-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "HubSpot (NYSE:HUBS) Given New $230.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hubspot-nyse-hubs-given-new-23000-price-target-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Figma (NYSE:FIG) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-figma-nyse-fig-stock-price-target-lowered-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Amplitude (NASDAQ:AMPL) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-amplitude-nasdaq-ampl-stock-price-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Paycom Software (NYSE:PAYC) Stock Gets Price Target Cut from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-paycom-software-nyse-payc-stock-gets-price-target-cut-from-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Energy Transfer (TXSE:ET) Stock Price Target Raised at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-energy-transfer-txse-et-stock-price-target-raised-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Expedia Group (NASDAQ:EXPE) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-expedia-group-nasdaq-expe-stock-price-target-lowered-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Westlake (NYSE:WLK) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-westlake-nyse-wlk-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Marriott International (NASDAQ:MAR) Given New $450.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-marriott-international-nasdaq-mar-given-new-45000-price-target-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "NNN REIT (NYSE:NNN) Given New $44.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nnn-reit-nyse-nnn-given-new-4400-price-target-at-citigroup-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T22:30:32+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426034935/0001918704-26-034935-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017117/0000950103-26-017117-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-06T21:27:18+00:00",
+      "published": "2026-11-06T22:30:07+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Ulta Beauty (NASDAQ:ULTA) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-ulta-beauty-nasdaq-ulta-stock-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T21:06:34+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026117009/0001213900-26-117009-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-06T22:28:11+00:00",
       "tickers": [
-        "C"
+        "JPM"
       ]
     },
     {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Airbnb (NASDAQ:ABNB) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-airbnb-nasdaq-abnb-stock-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T21:06:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for Williams-Sonoma (NYSE:WSM) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-williams-sonoma-nyse-wsm-stock-price-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T21:06:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Best Buy (NYSE:BBY) Stock Price Expected to Rise, Citigroup Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-best-buy-nyse-bby-stock-price-expected-to-rise-citigroup-analyst-says-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T21:06:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "RH (NYSE:RH) Stock Gets Price Target Reduction from Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-rh-nyse-rh-stock-gets-price-target-reduction-from-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T21:06:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Corpay to Participate in Upcoming Investor Conferences",
-      "url": "http://www.businesswire.com/news/home/20261106329399/en/Corpay-to-Participate-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-SP7CEH_PxTjduXJ0SDrbU6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu67Ap_pA_yJ1XPgPy1DuJnY",
-      "source": "businesswire.com",
-      "published": "2026-11-06T21:05:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "REGAL REXNORD ANNOUNCES PARTICIPATION AT UPCOMING CONFERENCES",
-      "url": "https://www.prnewswire.com/news-releases/regal-rexnord-announces-participation-at-upcoming-conferences-302932346.html",
-      "source": "prnewswire.com",
-      "published": "2026-11-06T21:00:00+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526452112/0001193125-26-452112-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-06T22:26:06+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Bank of America Downgrades IFF, Shares Fall 3.3% Amid Q4 Profitability Concerns",
-      "url": "https://www.gurufocus.com/news/9182053/bank-of-america-downgrades-iff-shares-fall-33-amid-q4-profitability-concerns",
+      "title": "Morgan Stanley Highlights Seagate (STX) Fundamentals Amid Market Skepticism",
+      "url": "https://www.gurufocus.com/news/9182345/morgan-stanley-highlights-seagate-stx-fundamentals-amid-market-skepticism",
       "source": "gurufocus.com",
-      "published": "2026-11-06T20:56:27+00:00",
+      "published": "2026-11-06T22:25:50+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426034917/0001918704-26-034917-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T20:50:31+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "USA Today (NYSE:TDAY) Stock Rating Upgraded by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-usa-today-nyse-tday-stock-rating-upgraded-by-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T20:48:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Supreme Court agrees to weigh in on Goldman Sachs arbitration dispute",
-      "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-weigh-in-on-goldman-sachs-arbitration-dispute/",
-      "source": "scotusblog.com",
-      "published": "2026-11-06T20:35:46+00:00",
+      "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-06T22:15:53+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055498/0001839882-26-055498-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T20:33:01+00:00",
+      "title": "Texas Roadhouse (NASDAQ:TXRH) Price Target Raised to $195.00",
+      "url": "https://www.tickerreport.com/banking-finance/13653147/texas-roadhouse-nasdaqtxrh-price-target-raised-to-195-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-06T22:12:54+00:00",
       "tickers": [
-        "MS"
+        "C"
       ]
     },
     {
-      "title": "U.S. Bancorp (USB) Presents at BancAnalysts Association of Boston Conference 2026 Transcript | $USB",
-      "url": "https://seekingalpha.com/article/4964183-u-s-bancorp-usb-presents-at-bancanalysts-association-of-boston-conference-2026-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-06T20:24:43+00:00",
+      "title": "CAVA Group (NYSE:CAVA) Price Target Cut to $65.00 by Analysts at Citigroup",
+      "url": "https://www.tickerreport.com/banking-finance/13653145/cava-group-nysecava-price-target-cut-to-65-00-by-analysts-at-citigroup.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-06T22:12:51+00:00",
       "tickers": [
-        "USB"
+        "C"
       ]
     },
     {
-      "title": "MORGAN STANLEY: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055494/0001839882-26-055494-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-06T20:24:34+00:00",
+      "title": "Capital One Financial (NYSE:COF) Stock: Insider Richard Fairbank Sells 90,743 Shares",
+      "url": "https://www.tickerreport.com/banking-finance/13653138/capital-one-financial-nysecof-stock-insider-richard-fairbank-sells-90743-shares.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-06T22:11:44+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "COF"
       ]
     }
   ]
