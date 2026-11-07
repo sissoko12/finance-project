@@ -1,14 +1,236 @@
 {
-  "last_updated": "2026-11-07T15:51:41.547701+00:00",
+  "last_updated": "2026-11-07T20:05:41.856470+00:00",
   "headlines": [
     {
-      "title": "Here's How These 6 Big Bank Stocks Make Their Money",
-      "url": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/",
-      "source": "fool.com",
-      "published": "2026-11-07T15:05:00+00:00",
+      "title": "Here’s Why Bank of America and TD Cowen Backed Away From Marvell (MRVL)",
+      "url": "https://www.insidermonkey.com/news/heres-why-bank-of-america-and-td-cowen-backed-away-from-marvell-mrvl-1862830/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-07T18:43:37+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Here’s Why Morgan Stanley Analyst Meta Marshall Trimmed Cisco (CSCO) to Equal-weight",
+      "url": "https://www.insidermonkey.com/news/heres-why-morgan-stanley-analyst-meta-marshall-trimmed-cisco-csco-to-equal-weight-1862828/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-07T18:42:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Deutsche Lufthansa (OTCMKTS:DLAKY) Upgraded to “Hold” at Zacks Research",
+      "url": "https://www.tickerreport.com/banking-finance/13654488/deutsche-lufthansa-otcmktsdlaky-upgraded-to-hold-at-zacks-research.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T18:37:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Marriott International (NASDAQ:MAR) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13654481/citigroup-issues-positive-forecast-for-marriott-international-nasdaqmar-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T18:30:54+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Lemonade (NYSE:LMND) Price Target Cut to $60.00 by Analysts at Truist Financial",
+      "url": "https://www.tickerreport.com/banking-finance/13654482/lemonade-nyselmnd-price-target-cut-to-60-00-by-analysts-at-truist-financial.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T18:30:54+00:00",
+      "tickers": [
         "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Magnum Ice Cream (NYSE:MICC) Downgraded by Morgan Stanley to Equal Weight",
+      "url": "https://www.tickerreport.com/banking-finance/13654448/magnum-ice-cream-nysemicc-downgraded-by-morgan-stanley-to-equal-weight.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T18:13:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Huntsman (NYSE:HUN) Price Target Raised to $10.00",
+      "url": "https://www.tickerreport.com/banking-finance/13654425/huntsman-nysehun-price-target-raised-to-10-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T17:56:53+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "LendingTree (NASDAQ:TREE) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
+      "url": "https://www.tickerreport.com/banking-finance/13654423/lendingtree-nasdaqtree-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T17:56:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for IDEAYA Biosciences (NASDAQ:IDYA) Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13654409/citigroup-forecasts-strong-price-appreciation-for-ideaya-biosciences-nasdaqidya-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T17:51:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Apollo Global Management (NYSE:APO) Stock Gets Price Target Reduction from Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13654400/apollo-global-management-nyseapo-stock-gets-price-target-reduction-from-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T17:46:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Phoenix Education Partners (NYSE:PXED) Cut to Equal Weight at Morgan Stanley",
+      "url": "https://www.tickerreport.com/banking-finance/13654385/phoenix-education-partners-nysepxed-cut-to-equal-weight-at-morgan-stanley.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T17:41:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Sanders Capital LLC Sells 95,320 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sanders-capital-llc-sells-95320-shares-of-bank-of-america-corporation-bac-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T17:36:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "5,372 The Goldman Sachs Group, Inc. $GS Shares Sold by Waycross Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-5372-the-goldman-sachs-group-inc-gs-shares-sold-by-waycross-partners-llc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T17:20:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Promising Financial Stocks To Watch Now - November 7th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-promising-financial-stocks-to-watch-now-november-7th-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T17:14:21+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Top Bank Stocks To Watch Now - November 7th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-watch-now-november-7th-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T17:14:19+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "11,647 Shares of The Charles Schwab Corporation $SCHW Purchased by Waycross Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-11647-shares-of-the-charles-schwab-corporation-schw-purchased-by-waycross-partners-llc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T17:12:32+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Shares Sold by Waycross Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-waycross-partners-llc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T17:05:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Holdings Raised by Nippon Life Global Investors Americas Inc.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-holdings-raised-by-nippon-life-global-investors-americas-inc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T16:10:10+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Purchased by One Way Holdings LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-purchased-by-one-way-holdings-llc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T16:10:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "10,473 Shares of JPMorgan Chase & Co. $JPM Bought by TSG Advice Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-10473-shares-of-jpmorgan-chase-co-jpm-bought-by-tsg-advice-partners-llc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T16:10:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cytokinetics (NASDAQ:CYTK) Stock Price Expected to Rise, Citigroup Analyst Says",
+      "url": "https://www.tickerreport.com/banking-finance/13654061/cytokinetics-nasdaqcytk-stock-price-expected-to-rise-citigroup-analyst-says.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T16:02:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Shares Purchased by Calamos Advisors LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13654054/morgan-stanley-ms-shares-purchased-by-calamos-advisors-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T15:59:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Analysts Express Concern Over Global Oil Glut As High Prices Crush Demand",
+      "url": "https://leadership.ng/analysts-express-concern-over-global-oil-glut-as-high-prices-crush-demand/",
+      "source": "leadership.ng",
+      "published": "2026-11-07T15:56:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Decoding Healthcare ETFs: Different Sectors, Different Strategies",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/07/decoding-healthcare-etfs-different-sectors-different-strategies/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-07T15:15:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Shares Purchased by Commonwealth Equity Services LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-morgan-stanley-ms-shares-purchased-by-commonwealth-equity-services-llc-2026-11-07/",
+      "source": "marketbeat.com",
+      "published": "2026-11-07T15:05:38+00:00",
+      "tickers": [
         "MS"
       ]
     },
@@ -22,6 +244,18 @@
       ]
     },
     {
+      "title": "Here's How These 6 Big Bank Stocks Make Their Money",
+      "url": "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-07T14:45:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
       "title": "JPMorgan Chase & Co. $JPM Stock Bought by Greenleaf Trust",
       "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bought-by-greenleaf-trust-2026-11-07/",
       "source": "marketbeat.com",
@@ -31,252 +265,21 @@
       ]
     },
     {
+      "title": "CCTV captures moments of deadly Citibank shooting in Florida",
+      "url": "https://www.youtube.com/watch?v=onqOGbvlZcA",
+      "source": "youtube.com",
+      "published": "2026-11-07T14:15:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "5 Stocks to Watch from Morgan Stanley’s Ultra-Selective Tailwinds Strategy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-watch-morgan-stanley-141141397.html?.tsrc=rss",
-      "source": "yahoo.com",
+      "url": "https://www.insidermonkey.com/news/5-stocks-to-watch-from-morgan-stanleys-ultra-selective-tailwinds-strategy-1862545/",
+      "source": "insidermonkey.com",
       "published": "2026-11-07T14:11:41+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action ...",
-      "url": "https://www.newspressnow.com/news/national_news/business/bank-of-america-alert-bragar-eagel-squire-p-c-reminds-investors-that-a-class-action/article_abe339d1-cbae-5c01-a63d-693c6f9384f9.html",
-      "source": "newspressnow.com",
-      "published": "2026-11-07T13:50:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Lundin Mining (OTCMKTS:LUNMF) Stock Rating Raised to Strong-Buy at Canaccord Genuity Group",
-      "url": "https://www.tickerreport.com/banking-finance/13653727/lundin-mining-otcmktslunmf-stock-rating-raised-to-strong-buy-at-canaccord-genuity-group.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T13:25:31+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Simon Property Group: Strong Execution, But Wait For A Better Entry | $XLRE $AAPL $LULU $WSM $BAC",
-      "url": "https://seekingalpha.com/article/4964364-simon-property-group-strong-execution-but-wait-for-a-better-entry",
-      "source": "seekingalpha.com",
-      "published": "2026-11-07T13:15:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Lowers Gold Targets, Keeps Its Long-Term Bull Case",
-      "url": "https://vblgoldfix.substack.com/p/goldman-lowers-gold-targets-keeps",
-      "source": "substack.com",
-      "published": "2026-11-07T13:14:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (November 2026) | $NWG $CIB $MS $AXP $ARES",
-      "url": "https://seekingalpha.com/article/4963451-5-relatively-secure-cheap-dividend-stocks-yields-8-percent-november-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-11-07T13:05:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Coherent Stock Fell 8% in a Week. J.P. Morgan Sees 100% Upside From Here",
-      "url": "https://www.tikr.com/blog/coherent-stock-fell-8-in-a-week-j-p-morgan-sees-100-upside-from-here?ref=yahoofinance&tlnk=yf-261107-rw3jqjf8&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-11-07T12:36:28+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Position Raised by Bank Julius Baer & Co. Ltd Zurich",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-position-raised-by-bank-julius-baer-co-ltd-zurich-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T12:23:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Wall Street banks brace for ‘political theater’ as Democrats return to power—but few expect major change anytime soon",
-      "url": "https://fortune.com/2026/11/07/wall-street-banks-regulation-midterm-elections-elizabeth-warren/",
-      "source": "fortune.com",
-      "published": "2026-11-07T12:00:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi Raises AI Revenue Forecasts Through 2028 as Cloud Demand Accelerates",
-      "url": "https://investorshub.advfn.com/market-news/article/39463/citi-raises-ai-revenue-forecasts-through-2028-as-cloud-demand-accelerates?.tsrc=rss",
-      "source": "advfn.com",
-      "published": "2026-11-07T11:48:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Founders: “Smoking Gun” Revealed: Goldman Lowered Its Gold Target The Day After The Big Selloff",
-      "url": "https://vblgoldfix.substack.com/p/founders-smoking-gun-revealed-goldman",
-      "source": "substack.com",
-      "published": "2026-11-07T11:36:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon declares the US will hang on as the world's top reserve currency — for 2 key reasons",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/jpmorgan-ceo-jamie-dimon-declares-100000283.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-07T10:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
-      "url": "https://www.fool.com/investing/2026/11/07/palantir-stock-investors-great-news-wall-street-stock-soar/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-07T09:48:02+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One chairman and CEO Fairbank sells $18.6 million in shares",
-      "url": "https://www.investing.com/news/insider-trading-news/capital-one-chairman-and-ceo-fairbank-sells-186-million-in-shares-93CH-5009749",
-      "source": "investing.com",
-      "published": "2026-11-07T07:46:11+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Jensen Huang Says AI Needs 1,000 Times More Power. Here's Why Oklo and NuScale Power May Still Suffer.",
-      "url": "https://www.fool.com/investing/2026/11/07/jensen-huang-says-ai-needs-1000-times-more-power-h/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-07T07:30:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Stock Price Breaks Below 50-Day Moving Average Following Insider Selling",
-      "url": "https://www.tickerreport.com/banking-finance/13653428/capital-one-financial-nysecof-stock-price-breaks-below-50-day-moving-average-following-insider-selling.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T05:22:55+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Centrus Energy (LEU) Stock Fair Value Moves Lower As Analysts Trim Targets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-fair-042900970.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-07T04:29:00+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "3 U.S. Bank Stocks Back In Focus After The Jobs Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-u-bank-stocks-back-021218066.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-07T02:12:18+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "ROSEN, A LONGSTANDING LAW FIRM, Encourages Bank of America Corporation Investors to Secure ...",
-      "url": "https://www.newspressnow.com/news/national_news/business/rosen-a-longstanding-law-firm-encourages-bank-of-america-corporation-investors-to-secure/article_c7fc7abe-39ef-583f-85a6-6b18a616eb07.html",
-      "source": "newspressnow.com",
-      "published": "2026-11-07T02:01:06+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000305/0000895421-26-000305-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-07T00:28:26+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
-      "source": "investing.com",
-      "published": "2026-11-07T00:10:19+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley resets Cisco stock price target before earnings",
-      "url": "https://www.thestreet.com/investing/csco-cisco-stock-morgan-stanley-downgrades-price-target-by-11-before-earnings?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-06T23:33:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "ABNB Maintains by JP Morgan -- Price Target Raised to $202",
-      "url": "https://www.gurufocus.com/news/9182514/abnb-maintains-by-jp-morgan-price-target-raised-to-202",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T23:32:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NTRA Maintained by JP Morgan -- Price Target Lowered to $405",
-      "url": "https://www.gurufocus.com/news/9182512/ntra-maintained-by-jp-morgan-price-target-lowered-to-405",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T23:31:25+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "NET Maintained by JP Morgan -- Price Target Raised to $375",
-      "url": "https://www.gurufocus.com/news/9182510/net-maintained-by-jp-morgan-price-target-raised-to-375",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T23:30:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Airbnb (NASDAQ:ABNB) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-airbnb-nasdaq-abnb-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T23:12:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Mattel (NASDAQ:MAT) Given New $15.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-mattel-nasdaq-mat-given-new-1500-price-target-at-citigroup-2026-11-06/",
-      "source": "marketbeat.com",
-      "published": "2026-11-06T22:48:33+00:00",
-      "tickers": [
-        "C"
       ]
     }
   ]
