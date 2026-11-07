@@ -1,6 +1,45 @@
 {
-  "last_updated": "2026-11-07T02:16:56.785187+00:00",
+  "last_updated": "2026-11-07T09:08:08.237252+00:00",
   "headlines": [
+    {
+      "title": "Capital One chairman and CEO Fairbank sells $18.6 million in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/capital-one-chairman-and-ceo-fairbank-sells-186-million-in-shares-93CH-5009749",
+      "source": "investing.com",
+      "published": "2026-11-07T07:46:11+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Jensen Huang Says AI Needs 1,000 Times More Power. Here's Why Oklo and NuScale Power May Still Suffer.",
+      "url": "https://www.fool.com/investing/2026/11/07/jensen-huang-says-ai-needs-1000-times-more-power-h/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-07T07:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Capital One Financial (NYSE:COF) Stock Price Breaks Below 50-Day Moving Average Following Insider Selling",
+      "url": "https://www.tickerreport.com/banking-finance/13653428/capital-one-financial-nysecof-stock-price-breaks-below-50-day-moving-average-following-insider-selling.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-07T05:22:55+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "ROSEN, A LONGSTANDING LAW FIRM, Encourages Bank of America Corporation Investors to Secure ...",
+      "url": "https://www.newspressnow.com/news/national_news/business/rosen-a-longstanding-law-firm-encourages-bank-of-america-corporation-investors-to-secure/article_c7fc7abe-39ef-583f-85a6-6b18a616eb07.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-07T02:01:06+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "MORGAN STANLEY: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
       "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000305/0000895421-26-000305-index.htm",
@@ -42,6 +81,15 @@
       "url": "https://www.gurufocus.com/news/9182510/net-maintained-by-jp-morgan-price-target-raised-to-375",
       "source": "gurufocus.com",
       "published": "2026-11-06T23:30:36+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Airbnb (NASDAQ:ABNB) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-airbnb-nasdaq-abnb-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-11-06/",
+      "source": "marketbeat.com",
+      "published": "2026-11-06T23:12:32+00:00",
       "tickers": [
         "JPM"
       ]
@@ -224,52 +272,6 @@
       "published": "2026-11-06T22:26:06+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Highlights Seagate (STX) Fundamentals Amid Market Skepticism",
-      "url": "https://www.gurufocus.com/news/9182345/morgan-stanley-highlights-seagate-stx-fundamentals-amid-market-skepticism",
-      "source": "gurufocus.com",
-      "published": "2026-11-06T22:25:50+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-06T22:15:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Texas Roadhouse (NASDAQ:TXRH) Price Target Raised to $195.00",
-      "url": "https://www.tickerreport.com/banking-finance/13653147/texas-roadhouse-nasdaqtxrh-price-target-raised-to-195-00.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-06T22:12:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CAVA Group (NYSE:CAVA) Price Target Cut to $65.00 by Analysts at Citigroup",
-      "url": "https://www.tickerreport.com/banking-finance/13653145/cava-group-nysecava-price-target-cut-to-65-00-by-analysts-at-citigroup.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-06T22:12:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Stock: Insider Richard Fairbank Sells 90,743 Shares",
-      "url": "https://www.tickerreport.com/banking-finance/13653138/capital-one-financial-nysecof-stock-insider-richard-fairbank-sells-90743-shares.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-06T22:11:44+00:00",
-      "tickers": [
-        "C",
-        "COF"
       ]
     }
   ]
