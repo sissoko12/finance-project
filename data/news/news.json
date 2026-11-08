@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-11-08T05:41:53.335969+00:00",
+  "last_updated": "2026-11-08T13:09:17.499485+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan vs. Bank of America: Which Dividend Stock Is Better for Retirement?",
+      "url": "https://247wallst.com/investing/2026/11/08/jpmorgan-vs-bank-of-america-which-dividend-stock-is-better-for-retirement/",
+      "source": "247wallst.com",
+      "published": "2026-11-08T12:07:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Point Nemo Capital LLC Purchases 23,253 Shares of U.S. Bancorp $USB",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-point-nemo-capital-llc-purchases-23253-shares-of-us-bancorp-usb-2026-11-08/",
+      "source": "marketbeat.com",
+      "published": "2026-11-08T11:28:50+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
+      "url": "https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
+      "source": "investing.com",
+      "published": "2026-11-08T11:27:01+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JP Morgan Athlete Center of Excellence: athletes need a financial playbook now more than ever",
+      "url": "https://fortune.com/2026/11/08/athletes-financial-playbook-nil-taxes-jpmorgan-adam-frank/",
+      "source": "fortune.com",
+      "published": "2026-11-08T11:00:30+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation $COF Shares Purchased by Brighton Jones LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13655258/capital-one-financial-corporation-cof-shares-purchased-by-brighton-jones-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-08T10:45:02+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Morgan Stanley $MS Shares Sold by Candriam S.C.A.",
+      "url": "https://www.tickerreport.com/banking-finance/13655236/morgan-stanley-ms-shares-sold-by-candriam-s-c-a.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-08T10:39:23+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Sold by Cullinan Associates Inc.",
+      "url": "https://www.tickerreport.com/banking-finance/13655224/bank-of-america-corporation-bac-stock-sold-by-cullinan-associates-inc.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-08T10:34:44+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock Purchased by IPG Investment Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-purchased-by-ipg-investment-advisors-llc-2026-11-08/",
+      "source": "marketbeat.com",
+      "published": "2026-11-08T10:08:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Stock: Summit Wealth Group LLC Co. Boosts Stake",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-summit-wealth-group-llc-co-boosts-stake-2026-11-08/",
+      "source": "marketbeat.com",
+      "published": "2026-11-08T10:08:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street Corporation $STT Stock: Ethic Inc. Raises Position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corporation-stt-stock-ethic-inc-raises-position-2026-11-08/",
+      "source": "marketbeat.com",
+      "published": "2026-11-08T09:20:55+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Ethic Inc. Buys 40,215 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ethic-inc-buys-40215-shares-of-bank-of-america-corporation-bac-2026-11-08/",
+      "source": "marketbeat.com",
+      "published": "2026-11-08T09:20:46+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Stock: Ethic Inc. Cuts Holdings",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-ethic-inc-cuts-holdings-2026-11-08/",
+      "source": "marketbeat.com",
+      "published": "2026-11-08T09:20:43+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "ArcBest (NASDAQ:ARCB) Price Target Raised to $175.00",
+      "url": "https://www.tickerreport.com/banking-finance/13654932/arcbest-nasdaqarcb-price-target-raised-to-175-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-08T08:43:03+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Capital One’s Fairbank sells $18.59 million of stock under a preset plan (NYSE: COF)",
       "url": "https://www.tickerreport.com/banking-finance/13654743/capital-ones-fairbank-sells-18-59-million-of-stock-under-a-preset-plan-nyse-cof.html",
@@ -156,130 +278,6 @@
       "source": "tickerreport.com",
       "published": "2026-11-07T17:56:53+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LendingTree (NASDAQ:TREE) Stock Gets Price Target Trim from JPMorgan Chase & Co.",
-      "url": "https://www.tickerreport.com/banking-finance/13654423/lendingtree-nasdaqtree-stock-gets-price-target-trim-from-jpmorgan-chase-co.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T17:56:51+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for IDEAYA Biosciences (NASDAQ:IDYA) Stock",
-      "url": "https://www.tickerreport.com/banking-finance/13654409/citigroup-forecasts-strong-price-appreciation-for-ideaya-biosciences-nasdaqidya-stock.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T17:51:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Apollo Global Management (NYSE:APO) Stock Gets Price Target Reduction from Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13654400/apollo-global-management-nyseapo-stock-gets-price-target-reduction-from-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T17:46:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Phoenix Education Partners (NYSE:PXED) Cut to Equal Weight at Morgan Stanley",
-      "url": "https://www.tickerreport.com/banking-finance/13654385/phoenix-education-partners-nysepxed-cut-to-equal-weight-at-morgan-stanley.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-07T17:41:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Sanders Capital LLC Sells 95,320 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sanders-capital-llc-sells-95320-shares-of-bank-of-america-corporation-bac-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T17:36:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "5,372 The Goldman Sachs Group, Inc. $GS Shares Sold by Waycross Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-5372-the-goldman-sachs-group-inc-gs-shares-sold-by-waycross-partners-llc-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T17:20:35+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Promising Financial Stocks To Watch Now - November 7th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-promising-financial-stocks-to-watch-now-november-7th-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T17:14:21+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Top Bank Stocks To Watch Now - November 7th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-watch-now-november-7th-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T17:14:19+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "11,647 Shares of The Charles Schwab Corporation $SCHW Purchased by Waycross Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-11647-shares-of-the-charles-schwab-corporation-schw-purchased-by-waycross-partners-llc-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T17:12:32+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "How Buyback Plans At U.S. Bancorp (USB) Have Changed Its Investment Story",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buyback-plans-u-bancorp-usb-171201851.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-07T17:12:01+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "How Investors Are Reacting To Goldman Sachs Stock After Congress Shift",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-goldman-sachs-stock-171144829.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-07T17:11:44+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Shares Sold by Waycross Partners LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-waycross-partners-llc-2026-11-07/",
-      "source": "marketbeat.com",
-      "published": "2026-11-07T17:05:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America (BAC) Bond Sales Keep The Undervalued Narrative In Play",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-bond-sales-161156601.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-07T16:11:56+00:00",
-      "tickers": [
-        "BAC",
         "C"
       ]
     }
