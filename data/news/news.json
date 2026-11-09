@@ -1,288 +1,188 @@
 {
-  "last_updated": "2026-11-09T09:33:53.597044+00:00",
+  "last_updated": "2026-11-09T20:36:52.677641+00:00",
   "headlines": [
     {
-      "title": "Associated Banc Corp Buys New Position in JPMorgan Chase & Co. $JPM",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-associated-banc-corp-buys-new-position-in-jpmorgan-chase-co-jpm-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T08:18:09+00:00",
+      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055745/0001839882-26-055745-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T20:01:36+00:00",
       "tickers": [
-        "JPM"
+        "MS"
       ]
     },
     {
-      "title": "Citigroup Inc. $C Stock Holdings Lowered by Allspring Global Investments Holdings LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-holdings-lowered-by-allspring-global-investments-holdings-llc-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T08:16:42+00:00",
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017156/0000950103-26-017156-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T19:51:34+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Capital One Financial Corporation $COF Stock Sold by Allspring Global Investments Holdings LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-sold-by-allspring-global-investments-holdings-llc-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T08:09:11+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Shares Sold by AIA Group Ltd",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-aia-group-ltd-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T08:09:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Un estudio de Wells Fargo revela que los veteranos declaran una mayor satisfacción profesional, confianza financiera y optimismo respecto a la IA",
-      "url": "https://www.newspressnow.com/news/national_news/business/un-estudio-de-wells-fargo-revela-que-los-veteranos-declaran-una-mayor-satisfacci-n-profesional/article_b25ffc5e-b382-5dec-9aad-5d0347eb04f7.html",
-      "source": "newspressnow.com",
-      "published": "2026-11-09T08:02:22+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226055738/0001839882-26-055738-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T19:45:09+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley downgrades Pinduoduo stock rating on cash return concerns",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-pinduoduo-stock-rating-on-cash-return-concerns-93CH-5010666",
-      "source": "investing.com",
-      "published": "2026-11-09T07:58:58+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026117471/0001213900-26-117471-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T19:33:07+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "What the global AI rout means for India",
-      "url": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
-      "source": "livemint.com",
-      "published": "2026-11-09T06:07:54+00:00",
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035083/0001918704-26-035083-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T19:32:57+00:00",
       "tickers": [
-        "GS"
+        "JPM"
       ]
     },
     {
-      "title": "Citi sees Japanese stocks gaining into year-end",
-      "url": "https://www.investing.com/news/stock-market-news/citi-sees-japanese-stocks-gaining-into-yearend-5010460",
-      "source": "investing.com",
-      "published": "2026-11-09T04:58:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-09T04:45:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Tata Steel Q2 Review: Goldman Sachs Hikes Target; HSBC, Jefferies Remain Bullish",
-      "url": "https://www.ndtvprofit.com/markets/tata-steel-q2-review-goldman-sachs-hikes-target-hsbc-jefferies-remain-bullish-after-earnings-beat-12301647",
-      "source": "ndtvprofit.com",
-      "published": "2026-11-09T02:38:47+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bryce Young of the Carolina Panthers reacts after his fumble against the Denver Broncos during the fourth quarter at Bank of America Stadium on Sunday, Nov. 8, 2026, in Charlotte, N.C..",
-      "url": "https://thebrunswicknews.com/sports/national_sports/bryce-young-of-the-carolina-panthers-reacts-after-his-fumble-against-the-denver-broncos-during/image_57bfed15-86f1-528b-8e57-67579a6cc47b.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-11-09T02:16:00+00:00",
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035082/0001918704-26-035082-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T19:29:07+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "WATCH YOUR BIDS (s2026 e28) - “Market clearing event”, Goldman’s expensive defensives, Apollo’s ...",
-      "url": "https://posts.themacrotourist.com/p/watch-your-bids-s2026-e28",
-      "source": "themacrotourist.com",
-      "published": "2026-11-09T02:06:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "HSBC, Citi turn bullish as Indian stocks draw record inflows",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-citi-turn-bullish-as-indian-stocks-draw-record-inflows/articleshow/135673835.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-09T01:18:52+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Top Ten Projects In DFW Metroplex / North Texas -- November 8, 2026",
-      "url": "https://themilliondollarway.blogspot.com/2026/11/top-ten-projects-in-dfw-metroplex.html",
-      "source": "themilliondollarway.blogspot.com",
-      "published": "2026-11-09T00:44:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Upper Deck Golf experience returns to U.S. Bank Stadium in 2027",
-      "url": "https://www.fox9.com/sports/upper-deck-golf-experience-returns-u-s-bank-stadium-2027",
-      "source": "fox9.com",
-      "published": "2026-11-08T23:12:27+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Nov 8, 2026; Charlotte, North Carolina, USA; Carolina Panthers quarterback Bryce Young (9) reacts during the second half against the Denver Broncos at Bank of America Stadium. Mandatory Credit: Jim Dedmon-Imagn Images",
-      "url": "https://morganton.com/news/state-regional/north-carolina/image_a3b130a1-4330-56d7-92e7-b5e28bd37ad6.html",
-      "source": "morganton.com",
-      "published": "2026-11-08T23:06:56+00:00",
+      "title": "Bank of America Chicago Marathon AFSP Race for Hope Team Raise over $1 Million in 2026 for First Time",
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-chicago-marathon-afsp-race-for-hope-team-raise-over-1-million-in-2026-for-first-time-302933742.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-09T19:29:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Free GHA Titanium Hotel Status For Bank Of America’s $100,000 Rewards Tier",
-      "url": "https://viewfromthewing.com/free-gha-titanium-hotel-status-for-bank-of-americas-100000-rewards-tier/",
-      "source": "viewfromthewing.com",
-      "published": "2026-11-08T22:04:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America continues Alabama growth",
-      "url": "https://www.bizjournals.com/birmingham/news/2026/11/08/bank-of-america-plans-alabama-blitz.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-11-08T22:03:24+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Here’s Why BofA Cut International Flavors & Fragrances (IFF) to Underperform",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-cut-international-flavors-202614886.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T20:26:14+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Here’s Why Citi Downgraded iRhythm (IRTC) Despite 14.9% Revenue Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-citi-downgraded-irhythm-irtc-202511900.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T20:25:11+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "StandardAero (NYSE: SARO) raises guidance and lines up a $350 million buyback",
-      "url": "https://www.tickerreport.com/banking-finance/13655713/standardaero-nyse-saro-raises-guidance-and-lines-up-a-350-million-buyback.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-08T19:48:44+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "New comment by legitster in \"Goldman Sachs is pulling Claude Code from its bankers and traders\"",
-      "url": "https://news.ycombinator.com/item?id=50416136",
-      "source": "ycombinator.com",
-      "published": "2026-11-08T19:17:50+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "thestateofai.com",
-      "published": "2026-11-08T18:16:07+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs (GS) Is Riding a Busy Capital Markets Cycle With Record Quarterly Advisory Revenue",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-riding-busy-173646707.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T17:36:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Title: I have inherited 401k. What would you do with it?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xr3xpz/title_i_have_inherited_401k_what_would_you_do/",
-      "source": "reddit.com",
-      "published": "2026-11-08T17:31:45+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Promising Financial Stocks Worth Watching - November 8th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-promising-financial-stocks-worth-watching-november-8th-2026-11-08/",
-      "source": "marketbeat.com",
-      "published": "2026-11-08T17:14:27+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank Stocks To Follow Today - November 8th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-follow-today-november-8th-2026-11-08/",
-      "source": "marketbeat.com",
-      "published": "2026-11-08T17:14:25+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "OKX Freezes MEXC User Deposits Following Strict FinCEN Order",
-      "url": "https://news.bitcoin.com/exchanges/okx-freezes-mexc-user-deposits-following-strict-fincen-order/",
-      "source": "bitcoin.com",
-      "published": "2026-11-08T17:13:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Growth funds limit losses as active managers deliver mixed October results, BofA says",
-      "url": "https://seekingalpha.com/news/4668763-growth-funds-limit-losses-as-active-managers-deliver-mixed-october-results-bofa-says",
+      "title": "Morgan Stanley's list of AI adoption leaders",
+      "url": "https://seekingalpha.com/news/4669178-morgan-stanleys-list-of-ai-adoption-leaders",
       "source": "seekingalpha.com",
-      "published": "2026-11-08T16:52:47+00:00",
+      "published": "2026-11-09T19:21:45+00:00",
       "tickers": [
-        "BAC",
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman CEO says AI infrastructure demand remains strong",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-ceo-says-ai-infrastructure-demand-remains-strong-5013036",
+      "source": "investing.com",
+      "published": "2026-11-09T19:13:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "PNC Bank pilots USDC payments for corporate clients via Coinbase on Ethereum",
+      "url": "https://cryptobriefing.com/pnc-bank-pilots-usdc-payments-for-corporate-clients-via-coinbase-on-ethereum/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-09T19:13:19+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (MS) Stock: New Acquisition Targets $380 Billion Wealth Management Growth",
+      "url": "https://blockonomi.com/morgan-stanley-ms-stock-new-acquisition-targets-380-billion-wealth-management-growth/",
+      "source": "blockonomi.com",
+      "published": "2026-11-09T19:06:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup Forecasts Strong Price Appreciation for Nexstar Media Group (NASDAQ:NXST) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-nexstar-media-group-nasdaq-nxst-stock-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:40+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
-      "url": "https://247wallst.com/investing/2026/11/08/wall-street-just-set-a-record-that-could-signal-trouble-for-the-stock-market/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-11-08T16:47:47+00:00",
+      "title": "IPG Photonics (NASDAQ:IPGP) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ipg-photonics-nasdaq-ipgp-stock-price-target-lowered-at-citigroup-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:40+00:00",
       "tickers": [
-        "GS"
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Krispy Kreme (NASDAQ:DNUT) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-krispy-kreme-nasdaq-dnut-stock-price-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Kura Sushi USA (NASDAQ:KRUS) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-kura-sushi-usa-nasdaq-krus-stock-price-target-lowered-at-citigroup-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Cogent Communications (NASDAQ:CCOI) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cogent-communications-nasdaq-ccoi-stock-price-target-cut-by-citigroup-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:39+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Cooper-Standard (NYSE:CPS) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-has-lowered-expectations-for-cooper-standard-nyse-cps-stock-price-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Has Lowered Expectations for Acadia Realty Trust (NYSE:AKR) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-has-lowered-expectations-for-acadia-realty-trust-nyse-akr-stock-price-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:38+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Federal Realty Investment Trust (NYSE:FRT) Given New $121.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-federal-realty-investment-trust-nyse-frt-given-new-12100-price-target-at-citigroup-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:37+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Issues Positive Forecast for Air Products and Chemicals (NYSE:APD) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-air-products-and-chemicals-nyse-apd-stock-price-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T19:00:37+00:00",
+      "tickers": [
+        "C"
       ]
     }
   ]
