@@ -1,10 +1,38 @@
 {
-  "last_updated": "2026-11-08T22:24:11.313574+00:00",
+  "last_updated": "2026-11-09T01:53:17.446521+00:00",
   "headlines": [
     {
+      "title": "Top Ten Projects In DFW Metroplex / North Texas -- November 8, 2026",
+      "url": "https://themilliondollarway.blogspot.com/2026/11/top-ten-projects-in-dfw-metroplex.html",
+      "source": "themilliondollarway.blogspot.com",
+      "published": "2026-11-09T00:44:42+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Upper Deck Golf experience returns to U.S. Bank Stadium in 2027",
+      "url": "https://www.fox9.com/sports/upper-deck-golf-experience-returns-u-s-bank-stadium-2027",
+      "source": "fox9.com",
+      "published": "2026-11-08T23:12:27+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Free GHA Titanium Hotel Status For Bank Of America’s $100,000 Rewards Tier",
+      "url": "https://viewfromthewing.com/free-gha-titanium-hotel-status-for-bank-of-americas-100000-rewards-tier/",
+      "source": "viewfromthewing.com",
+      "published": "2026-11-08T22:04:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Here’s Why BofA Cut International Flavors & Fragrances (IFF) to Underperform",
-      "url": "https://www.insidermonkey.com/news/heres-why-bofa-cut-international-flavors-fragrances-iff-to-underperform-1863077/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-cut-international-flavors-202614886.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-08T20:26:14+00:00",
       "tickers": [
         "BAC",
@@ -13,8 +41,8 @@
     },
     {
       "title": "Here’s Why Citi Downgraded iRhythm (IRTC) Despite 14.9% Revenue Growth",
-      "url": "https://www.insidermonkey.com/news/heres-why-citi-downgraded-irhythm-irtc-despite-14-9-revenue-growth-1863075/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-citi-downgraded-irhythm-irtc-202511900.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-08T20:25:11+00:00",
       "tickers": [
         "C"
@@ -40,8 +68,8 @@
     },
     {
       "title": "Goldman Sachs (GS) Is Riding a Busy Capital Markets Cycle With Record Quarterly Advisory Revenue",
-      "url": "https://www.insidermonkey.com/news/goldman-sachs-gs-is-riding-a-busy-capital-markets-cycle-with-record-quarterly-advisory-revenue-1863009/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-riding-busy-173646707.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-08T17:36:46+00:00",
       "tickers": [
         "GS"
@@ -100,12 +128,30 @@
       ]
     },
     {
+      "title": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
+      "url": "https://247wallst.com/investing/2026/11/08/wall-street-just-set-a-record-that-could-signal-trouble-for-the-stock-market/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-08T16:47:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
       "title": "Citi Flex Pay (no interest or fee)",
       "url": "https://www.reddit.com/r/personalfinance/comments/1xr2ovo/citi_flex_pay_no_interest_or_fee/",
       "source": "reddit.com",
       "published": "2026-11-08T16:40:56+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs revamps 2027 gold price target, but signals rebound",
+      "url": "https://www.thestreet.com/investing/goldman-sachs-gold-2027-forecast?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-08T16:17:00+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -128,8 +174,8 @@
     },
     {
       "title": "Morgan Stanley Spots a New Productivity Catalyst for Union Pacific (UNP)",
-      "url": "https://www.insidermonkey.com/news/morgan-stanley-spots-a-new-productivity-catalyst-for-union-pacific-unp-1862909/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-spots-productivity-catalyst-143840219.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-08T14:38:40+00:00",
       "tickers": [
         "MS"
@@ -146,8 +192,8 @@
     },
     {
       "title": "Morgan Stanley Sees AI Making Ecolab’s (ECL) Competitive Moat Even Stronger",
-      "url": "https://www.insidermonkey.com/news/morgan-stanley-sees-ai-making-ecolabs-ecl-competitive-moat-even-stronger-1862904/",
-      "source": "insidermonkey.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-making-143634996.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-08T14:36:34+00:00",
       "tickers": [
         "MS"
@@ -234,53 +280,6 @@
       "published": "2026-11-08T11:10:17+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "JP Morgan Athlete Center of Excellence: athletes need a financial playbook now more than ever",
-      "url": "https://finance.yahoo.com/small-business/articles/jp-morgan-athlete-center-excellence-110000713.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T11:00:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation $COF Shares Purchased by Brighton Jones LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13655258/capital-one-financial-corporation-cof-shares-purchased-by-brighton-jones-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-08T10:45:02+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Morgan Stanley $MS Shares Sold by Candriam S.C.A.",
-      "url": "https://www.tickerreport.com/banking-finance/13655236/morgan-stanley-ms-shares-sold-by-candriam-s-c-a.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-08T10:39:23+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Sold by Cullinan Associates Inc.",
-      "url": "https://www.tickerreport.com/banking-finance/13655224/bank-of-america-corporation-bac-stock-sold-by-cullinan-associates-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-08T10:34:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stock Purchased by IPG Investment Advisors LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-purchased-by-ipg-investment-advisors-llc-2026-11-08/",
-      "source": "marketbeat.com",
-      "published": "2026-11-08T10:08:50+00:00",
-      "tickers": [
-        "JPM"
       ]
     }
   ]
