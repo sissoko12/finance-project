@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-09T01:53:17.446521+00:00",
+  "last_updated": "2026-11-09T09:33:53.597044+00:00",
   "headlines": [
+    {
+      "title": "Associated Banc Corp Buys New Position in JPMorgan Chase & Co. $JPM",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-associated-banc-corp-buys-new-position-in-jpmorgan-chase-co-jpm-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T08:18:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. $C Stock Holdings Lowered by Allspring Global Investments Holdings LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-stock-holdings-lowered-by-allspring-global-investments-holdings-llc-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T08:16:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation $COF Stock Sold by Allspring Global Investments Holdings LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-stock-sold-by-allspring-global-investments-holdings-llc-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T08:09:11+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. $JPM Shares Sold by AIA Group Ltd",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-aia-group-ltd-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T08:09:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Un estudio de Wells Fargo revela que los veteranos declaran una mayor satisfacción profesional, confianza financiera y optimismo respecto a la IA",
+      "url": "https://www.newspressnow.com/news/national_news/business/un-estudio-de-wells-fargo-revela-que-los-veteranos-declaran-una-mayor-satisfacci-n-profesional/article_b25ffc5e-b382-5dec-9aad-5d0347eb04f7.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-09T08:02:22+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley downgrades Pinduoduo stock rating on cash return concerns",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-pinduoduo-stock-rating-on-cash-return-concerns-93CH-5010666",
+      "source": "investing.com",
+      "published": "2026-11-09T07:58:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "What the global AI rout means for India",
+      "url": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:07:54+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Citi sees Japanese stocks gaining into year-end",
+      "url": "https://www.investing.com/news/stock-market-news/citi-sees-japanese-stocks-gaining-into-yearend-5010460",
+      "source": "investing.com",
+      "published": "2026-11-09T04:58:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-09T04:45:45+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tata Steel Q2 Review: Goldman Sachs Hikes Target; HSBC, Jefferies Remain Bullish",
+      "url": "https://www.ndtvprofit.com/markets/tata-steel-q2-review-goldman-sachs-hikes-target-hsbc-jefferies-remain-bullish-after-earnings-beat-12301647",
+      "source": "ndtvprofit.com",
+      "published": "2026-11-09T02:38:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bryce Young of the Carolina Panthers reacts after his fumble against the Denver Broncos during the fourth quarter at Bank of America Stadium on Sunday, Nov. 8, 2026, in Charlotte, N.C..",
+      "url": "https://thebrunswicknews.com/sports/national_sports/bryce-young-of-the-carolina-panthers-reacts-after-his-fumble-against-the-denver-broncos-during/image_57bfed15-86f1-528b-8e57-67579a6cc47b.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-11-09T02:16:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "WATCH YOUR BIDS (s2026 e28) - “Market clearing event”, Goldman’s expensive defensives, Apollo’s ...",
+      "url": "https://posts.themacrotourist.com/p/watch-your-bids-s2026-e28",
+      "source": "themacrotourist.com",
+      "published": "2026-11-09T02:06:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "HSBC, Citi turn bullish as Indian stocks draw record inflows",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-citi-turn-bullish-as-indian-stocks-draw-record-inflows/articleshow/135673835.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-09T01:18:52+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
     {
       "title": "Top Ten Projects In DFW Metroplex / North Texas -- November 8, 2026",
       "url": "https://themilliondollarway.blogspot.com/2026/11/top-ten-projects-in-dfw-metroplex.html",
@@ -20,10 +140,30 @@
       ]
     },
     {
+      "title": "Nov 8, 2026; Charlotte, North Carolina, USA; Carolina Panthers quarterback Bryce Young (9) reacts during the second half against the Denver Broncos at Bank of America Stadium. Mandatory Credit: Jim Dedmon-Imagn Images",
+      "url": "https://morganton.com/news/state-regional/north-carolina/image_a3b130a1-4330-56d7-92e7-b5e28bd37ad6.html",
+      "source": "morganton.com",
+      "published": "2026-11-08T23:06:56+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Free GHA Titanium Hotel Status For Bank Of America’s $100,000 Rewards Tier",
       "url": "https://viewfromthewing.com/free-gha-titanium-hotel-status-for-bank-of-americas-100000-rewards-tier/",
       "source": "viewfromthewing.com",
       "published": "2026-11-08T22:04:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America continues Alabama growth",
+      "url": "https://www.bizjournals.com/birmingham/news/2026/11/08/bank-of-america-plans-alabama-blitz.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-11-08T22:03:24+00:00",
       "tickers": [
         "BAC",
         "C"
@@ -55,6 +195,15 @@
       "published": "2026-11-08T19:48:44+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "New comment by legitster in \"Goldman Sachs is pulling Claude Code from its bankers and traders\"",
+      "url": "https://news.ycombinator.com/item?id=50416136",
+      "source": "ycombinator.com",
+      "published": "2026-11-08T19:17:50+00:00",
+      "tickers": [
+        "GS"
       ]
     },
     {
@@ -134,152 +283,6 @@
       "published": "2026-11-08T16:47:47+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Citi Flex Pay (no interest or fee)",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xr2ovo/citi_flex_pay_no_interest_or_fee/",
-      "source": "reddit.com",
-      "published": "2026-11-08T16:40:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs revamps 2027 gold price target, but signals rebound",
-      "url": "https://www.thestreet.com/investing/goldman-sachs-gold-2027-forecast?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-08T16:17:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Gold’s Fundamentals...Are Still Great",
-      "url": "https://rubino.substack.com/p/golds-fundamentalsare-still-great",
-      "source": "substack.com",
-      "published": "2026-11-08T16:00:29+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (NYSE:USB) Stock Crosses Below 50 Day Moving Average – Here’s What Happened",
-      "url": "https://www.tickerreport.com/banking-finance/13655638/u-s-bancorp-nyseusb-stock-crosses-below-50-day-moving-average-heres-what-happened.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-08T15:34:57+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Spots a New Productivity Catalyst for Union Pacific (UNP)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-spots-productivity-catalyst-143840219.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T14:38:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees Shake Shack (SHAK) Serving Up AI-Driven Growth",
-      "url": "https://www.insidermonkey.com/news/morgan-stanley-sees-shake-shack-shak-serving-up-ai-driven-growth-1862901/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-08T14:37:18+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees AI Making Ecolab’s (ECL) Competitive Moat Even Stronger",
-      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-making-143634996.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T14:36:34+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Sees a Big Opportunity for Itron (ITRI) in the AI Power Boom",
-      "url": "https://www.insidermonkey.com/news/morgan-stanley-sees-a-big-opportunity-for-itron-itri-in-the-ai-power-boom-1862899/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-08T14:35:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says the bigger your job gets, ‘the less you know—literally.’ The CEOs too insecure to admit it are the ones who get into trouble",
-      "url": "https://fortune.com/article/jamie-dimon-ceo-advice-insecurity-humility-ted-lasso-c-suite-corporate-leaders-jpmorgan-chase-banks-workplace-culture/",
-      "source": "fortune.com",
-      "published": "2026-11-08T14:24:17+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "SpaceX has had limited impact on stock indexes, Goldman Sachs says",
-      "url": "https://seekingalpha.com/news/4668759-spacex-has-had-limited-impact-on-stock-indexes-goldman-sachs-says",
-      "source": "seekingalpha.com",
-      "published": "2026-11-08T14:03:09+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Says $300. Michael Burry Says Overvalued. Here's Who Is Right About SpaceX Stock.",
-      "url": "https://www.fool.com/investing/2026/11/08/morgan-stanley-michael-burry-spacex-stock/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-08T13:30:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan vs. Bank of America: Which Dividend Stock Is Better for Retirement?",
-      "url": "https://247wallst.com/investing/2026/11/08/jpmorgan-vs-bank-of-america-which-dividend-stock-is-better-for-retirement/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-11-08T12:07:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group, Inc. $GS Shares Sold by Heritage Family Offices LLP",
-      "url": "https://www.tickerreport.com/banking-finance/13655484/the-goldman-sachs-group-inc-gs-shares-sold-by-heritage-family-offices-llp.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-08T12:07:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Point Nemo Capital LLC Purchases 23,253 Shares of U.S. Bancorp $USB",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-point-nemo-capital-llc-purchases-23253-shares-of-us-bancorp-usb-2026-11-08/",
-      "source": "marketbeat.com",
-      "published": "2026-11-08T11:28:50+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
-      "url": "https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
-      "source": "investing.com",
-      "published": "2026-11-08T11:27:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "How Investors Are Reacting To Morgan Stanley Stock Live Tokenization Rollout",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-morgan-stanley-stock-111017222.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-08T11:10:17+00:00",
-      "tickers": [
-        "MS"
       ]
     }
   ]
