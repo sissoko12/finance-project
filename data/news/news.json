@@ -1,187 +1,219 @@
 {
-  "last_updated": "2026-11-09T20:36:52.677641+00:00",
+  "last_updated": "2026-11-10T03:22:14.936369+00:00",
   "headlines": [
     {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226055745/0001839882-26-055745-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T20:01:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017156/0000950103-26-017156-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T19:51:34+00:00",
+      "title": "Citi’s Fraser on China's AI 'Enthusiasm'",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-fraser-on-china-s-ai-enthusiasm-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-10T02:56:36+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226055738/0001839882-26-055738-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T19:45:09+00:00",
+      "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-10T02:52:50+00:00",
       "tickers": [
-        "WFC",
         "C"
       ]
     },
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026117471/0001213900-26-117471-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T19:33:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035083/0001918704-26-035083-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T19:32:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035082/0001918704-26-035082-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T19:29:07+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Chicago Marathon AFSP Race for Hope Team Raise over $1 Million in 2026 for First Time",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-chicago-marathon-afsp-race-for-hope-team-raise-over-1-million-in-2026-for-first-time-302933742.html",
-      "source": "prnewswire.com",
-      "published": "2026-11-09T19:29:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley's list of AI adoption leaders",
-      "url": "https://seekingalpha.com/news/4669178-morgan-stanleys-list-of-ai-adoption-leaders",
-      "source": "seekingalpha.com",
-      "published": "2026-11-09T19:21:45+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman CEO says AI infrastructure demand remains strong",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-ceo-says-ai-infrastructure-demand-remains-strong-5013036",
-      "source": "investing.com",
-      "published": "2026-11-09T19:13:53+00:00",
+      "title": "Goldman’s Nasdaq Income Fund Returned 87.58% Since Its October 2023 Launch Against QYLD’s 56.19%",
+      "url": "https://247wallst.com/investing/etf/2026/11/09/goldmans-nasdaq-income-fund-returned-87-58-since-its-october-2023-launch-against-qylds-56-19/",
+      "source": "247wallst.com",
+      "published": "2026-11-10T02:03:58+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "PNC Bank pilots USDC payments for corporate clients via Coinbase on Ethereum",
-      "url": "https://cryptobriefing.com/pnc-bank-pilots-usdc-payments-for-corporate-clients-via-coinbase-on-ethereum/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-09T19:13:19+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley (MS) Stock: New Acquisition Targets $380 Billion Wealth Management Growth",
-      "url": "https://blockonomi.com/morgan-stanley-ms-stock-new-acquisition-targets-380-billion-wealth-management-growth/",
-      "source": "blockonomi.com",
-      "published": "2026-11-09T19:06:31+00:00",
+      "title": "Bilibili (BILI) Receives \"Overweight\" Rating from Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9186774/bilibili-bili-receives-overweight-rating-from-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-11-10T01:10:32+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Nexstar Media Group (NASDAQ:NXST) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-nexstar-media-group-nasdaq-nxst-stock-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:40+00:00",
+      "title": "Indian organisations on edge as sites fail to Captcha AI intruders",
+      "url": "https://economictimes.indiatimes.com/tech/technology/indian-organisations-on-edge-as-sites-fail-to-captcha-ai-intruders/articleshow/135689384.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-10T00:30:00+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "U.S. Bancorp (USB) Presents at BancAnalysts Association of Boston Conference 2026 - Slideshow | $USB",
+      "url": "https://seekingalpha.com/article/4965466-u-s-bancorp-usb-presents-at-bancanalysts-association-of-boston-conference-2026-slideshow",
+      "source": "seekingalpha.com",
+      "published": "2026-11-10T00:03:59+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Strategists See Yen (JPY) as Key Hedge Against AI Stock Declines",
+      "url": "https://www.gurufocus.com/news/9186469/goldman-sachs-strategists-see-yen-jpy-as-key-hedge-against-ai-stock-declines",
+      "source": "gurufocus.com",
+      "published": "2026-11-09T23:52:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Wealth Mgmt. Head on Vinyl Equity Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-09T22:31:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 8-A12B - Registration of securities [Section 12(b)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017175/0000950103-26-017175-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T22:30:51+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "IPG Photonics (NASDAQ:IPGP) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ipg-photonics-nasdaq-ipgp-stock-price-target-lowered-at-citigroup-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:40+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026117630/0001213900-26-117630-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T22:29:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035125/0001918704-26-035125-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T22:25:42+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citigroup Issues Positive Forecast for Krispy Kreme (NASDAQ:DNUT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-krispy-kreme-nasdaq-dnut-stock-price-2026-11-09/",
+      "title": "The Goldman Sachs Group Inc (GS) Shares Surge 4.7% -- What GF Score of 84 Tells Investors",
+      "url": "https://www.gurufocus.com/news/9186284/the-goldman-sachs-group-inc-gs-shares-surge-47-what-gf-score-of-84-tells-investors",
+      "source": "gurufocus.com",
+      "published": "2026-11-09T22:25:39+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035123/0001918704-26-035123-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T22:24:36+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526453871/0001193125-26-453871-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T22:21:55+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 2.2% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-up-22-heres-why-2026-11-09/",
       "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:39+00:00",
+      "published": "2026-11-09T22:21:03+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Shares Up 2.3% - Time to Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-shares-up-23-time-to-buy-2026-11-09/",
+      "source": "marketbeat.com",
+      "published": "2026-11-09T22:21:02+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "A Look at Morgan Stanley (MS) After 3.1% Gain -- GF Value $189.66 vs Price $187.10",
+      "url": "https://www.gurufocus.com/news/9186275/a-look-at-morgan-stanley-ms-after-31-gain-gf-value-18966-vs-price-18710",
+      "source": "gurufocus.com",
+      "published": "2026-11-09T22:17:48+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Memo - Special edition - Claude Fable 5.2 and Claude Mythos 5.2 - 9/Nov/2026",
+      "url": "https://lifearchitect.substack.com/p/the-memo-special-edition-claude-fable-24d",
+      "source": "substack.com",
+      "published": "2026-11-09T22:15:54+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Kura Sushi USA (NASDAQ:KRUS) Stock Price Target Lowered at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-kura-sushi-usa-nasdaq-krus-stock-price-target-lowered-at-citigroup-2026-11-09/",
+      "title": "Capital One Financial (NYSE:COF) Director Peter Raskind Sells 1,681 Shares of Company Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-director-peter-raskind-sells-1681-shares-of-company-stock-2026-11-09/",
       "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:39+00:00",
+      "published": "2026-11-09T22:08:22+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "$13 trillion brokerage giant offers cheapest ways to trade crypto",
+      "url": "https://www.thestreet.com/crypto/markets/13-trillion-brokerage-giant-offers-cheapest-ways-to-trade-crypto?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-09T22:01:17+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Marqeta, Inc. (MQ) Presents at Citi's 15th Annual FinTech Conference Transcript | $MQ",
+      "url": "https://seekingalpha.com/article/4965281-marqeta-inc-mq-presents-at-citis-15th-annual-fintech-conference-transcript",
+      "source": "seekingalpha.com",
+      "published": "2026-11-09T22:01:16+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Cogent Communications (NASDAQ:CCOI) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cogent-communications-nasdaq-ccoi-stock-price-target-cut-by-citigroup-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:39+00:00",
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526453785/0001193125-26-453785-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T21:57:21+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Citigroup Has Lowered Expectations for Cooper-Standard (NYSE:CPS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-has-lowered-expectations-for-cooper-standard-nyse-cps-stock-price-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:38+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226055781/0001839882-26-055781-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-09T21:57:11+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Has Lowered Expectations for Acadia Realty Trust (NYSE:AKR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-has-lowered-expectations-for-acadia-realty-trust-nyse-akr-stock-price-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Federal Realty Investment Trust (NYSE:FRT) Given New $121.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-federal-realty-investment-trust-nyse-frt-given-new-12100-price-target-at-citigroup-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for Air Products and Chemicals (NYSE:APD) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-air-products-and-chemicals-nyse-apd-stock-price-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T19:00:37+00:00",
-      "tickers": [
+        "WFC",
         "C"
       ]
     }
