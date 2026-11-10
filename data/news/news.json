@@ -1,220 +1,281 @@
 {
-  "last_updated": "2026-11-10T03:22:14.936369+00:00",
+  "last_updated": "2026-11-10T11:38:16.460773+00:00",
   "headlines": [
     {
-      "title": "Citi’s Fraser on China's AI 'Enthusiasm'",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-fraser-on-china-s-ai-enthusiasm-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-10T02:56:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-10T02:52:50+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman’s Nasdaq Income Fund Returned 87.58% Since Its October 2023 Launch Against QYLD’s 56.19%",
-      "url": "https://247wallst.com/investing/etf/2026/11/09/goldmans-nasdaq-income-fund-returned-87-58-since-its-october-2023-launch-against-qylds-56-19/",
-      "source": "247wallst.com",
-      "published": "2026-11-10T02:03:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bilibili (BILI) Receives \"Overweight\" Rating from Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/9186774/bilibili-bili-receives-overweight-rating-from-morgan-stanley",
-      "source": "gurufocus.com",
-      "published": "2026-11-10T01:10:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Indian organisations on edge as sites fail to Captcha AI intruders",
-      "url": "https://economictimes.indiatimes.com/tech/technology/indian-organisations-on-edge-as-sites-fail-to-captcha-ai-intruders/articleshow/135689384.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-10T00:30:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "U.S. Bancorp (USB) Presents at BancAnalysts Association of Boston Conference 2026 - Slideshow | $USB",
-      "url": "https://seekingalpha.com/article/4965466-u-s-bancorp-usb-presents-at-bancanalysts-association-of-boston-conference-2026-slideshow",
-      "source": "seekingalpha.com",
-      "published": "2026-11-10T00:03:59+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Strategists See Yen (JPY) as Key Hedge Against AI Stock Declines",
-      "url": "https://www.gurufocus.com/news/9186469/goldman-sachs-strategists-see-yen-jpy-as-key-hedge-against-ai-stock-declines",
-      "source": "gurufocus.com",
-      "published": "2026-11-09T23:52:45+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Wealth Mgmt. Head on Vinyl Equity Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-09T22:31:46+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 8-A12B - Registration of securities [Section 12(b)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017175/0000950103-26-017175-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T22:30:51+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026117630/0001213900-26-117630-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T22:29:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035125/0001918704-26-035125-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T22:25:42+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "The Goldman Sachs Group Inc (GS) Shares Surge 4.7% -- What GF Score of 84 Tells Investors",
-      "url": "https://www.gurufocus.com/news/9186284/the-goldman-sachs-group-inc-gs-shares-surge-47-what-gf-score-of-84-tells-investors",
-      "source": "gurufocus.com",
-      "published": "2026-11-09T22:25:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035123/0001918704-26-035123-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T22:24:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526453871/0001193125-26-453871-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T22:21:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Up 2.2% - Here's Why",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-up-22-heres-why-2026-11-09/",
+      "title": "56,863 Capital One Financial Corporation $COF Shares Sold by M&G PLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-56863-capital-one-financial-corporation-cof-shares-sold-by-mg-plc-2026-11-10/",
       "source": "marketbeat.com",
-      "published": "2026-11-09T22:21:03+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Shares Up 2.3% - Time to Buy?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-shares-up-23-time-to-buy-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T22:21:02+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "A Look at Morgan Stanley (MS) After 3.1% Gain -- GF Value $189.66 vs Price $187.10",
-      "url": "https://www.gurufocus.com/news/9186275/a-look-at-morgan-stanley-ms-after-31-gain-gf-value-18966-vs-price-18710",
-      "source": "gurufocus.com",
-      "published": "2026-11-09T22:17:48+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "The Memo - Special edition - Claude Fable 5.2 and Claude Mythos 5.2 - 9/Nov/2026",
-      "url": "https://lifearchitect.substack.com/p/the-memo-special-edition-claude-fable-24d",
-      "source": "substack.com",
-      "published": "2026-11-09T22:15:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Financial (NYSE:COF) Director Peter Raskind Sells 1,681 Shares of Company Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-capital-one-financial-nyse-cof-director-peter-raskind-sells-1681-shares-of-company-stock-2026-11-09/",
-      "source": "marketbeat.com",
-      "published": "2026-11-09T22:08:22+00:00",
+      "published": "2026-11-10T11:05:08+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "$13 trillion brokerage giant offers cheapest ways to trade crypto",
-      "url": "https://www.thestreet.com/crypto/markets/13-trillion-brokerage-giant-offers-cheapest-ways-to-trade-crypto?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-09T22:01:17+00:00",
+      "title": "Morgan Stanley shares a 3-part playbook for investing in AI after a Democratic blue wave",
+      "url": "https://www.businessinsider.com/ai-stocks-where-to-invest-after-midterm-election-sell-off-2026-11",
+      "source": "businessinsider.com",
+      "published": "2026-11-10T10:10:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc $PNC Stock: Pictet Asset Management Holding SA Boosts Stake",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-pnc-financial-services-group-inc-pnc-stock-pictet-asset-management-holding-sa-boosts-stake-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T10:09:10+00:00",
       "tickers": [
         "C",
-        "SCHW"
+        "PNC"
       ]
     },
     {
-      "title": "Marqeta, Inc. (MQ) Presents at Citi's 15th Annual FinTech Conference Transcript | $MQ",
-      "url": "https://seekingalpha.com/article/4965281-marqeta-inc-mq-presents-at-citis-15th-annual-fintech-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-09T22:01:16+00:00",
+      "title": "U.S. Bancorp $USB Stock Purchased by Pictet Asset Management Holding SA",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-us-bancorp-usb-stock-purchased-by-pictet-asset-management-holding-sa-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T10:09:07+00:00",
       "tickers": [
-        "C"
+        "USB"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526453785/0001193125-26-453785-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T21:57:21+00:00",
+      "title": "Pictet Asset Management Holding SA Sells 69,120 Shares of Capital One Financial Corporation $COF",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pictet-asset-management-holding-sa-sells-69120-shares-of-capital-one-financial-corporation-cof-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T10:08:52+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corporation $COF Shares Acquired by Kestra Advisory Services LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-one-financial-corporation-cof-shares-acquired-by-kestra-advisory-services-llc-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T10:01:33+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "6 new Goldman partners share how they celebrated their promotions — and the biggest challenges getting there",
+      "url": "https://www.businessinsider.com/goldman-sachs-partner-promotions-david-solomon-promotions-2026-11",
+      "source": "businessinsider.com",
+      "published": "2026-11-10T09:45:01+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "WELLS FARGO & COMPANY/MN: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226055781/0001839882-26-055781-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-09T21:57:11+00:00",
+      "title": "State Street Remains Positive on Tech Stocks",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/state-street-remains-positive-on-tech-stocks-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-10T09:25:48+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "8,500 Morgan Stanley $MS Shares Acquired by Consolidated Investment Group LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-8500-morgan-stanley-ms-shares-acquired-by-consolidated-investment-group-llc-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T09:12:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley downgrades flatexDEGIRO as customer growth slows, slashes target",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-downgrades-flatexdegiro-as-customer-growth-slows-slashes-target-5014415",
+      "source": "investing.com",
+      "published": "2026-11-10T09:08:31+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO Highlights AI Investment Demand Amid Market Uncertainty (GS)",
+      "url": "https://www.gurufocus.com/news/9188021/goldman-sachs-ceo-highlights-ai-investment-demand-amid-market-uncertainty-gs",
+      "source": "gurufocus.com",
+      "published": "2026-11-10T08:57:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman CEO: AI financing demand is still strong despite recent tech selloff",
+      "url": "https://seekingalpha.com/news/4669521-goldman-sachs-ceo-ai-financing-demand",
+      "source": "seekingalpha.com",
+      "published": "2026-11-10T08:25:04+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "6,353 Morgan Stanley $MS Shares Bought by AlphaCore Capital LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-6353-morgan-stanley-ms-shares-bought-by-alphacore-capital-llc-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T08:16:59+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. $GS Stock Holdings Lifted by Allspring Global Investments Holdings LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-goldman-sachs-group-inc-gs-stock-holdings-lifted-by-allspring-global-investments-holdings-llc-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T08:09:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation $BAC Stock Sold by Allspring Global Investments Holdings LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-sold-by-allspring-global-investments-holdings-llc-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T08:09:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group (NYSE:PNC) Stock Crosses Above 200 Day Moving Average - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/price-the-pnc-financial-services-group-nyse-pnc-stock-crosses-above-200-day-moving-average-heres-why-2026-11-10/",
+      "source": "marketbeat.com",
+      "published": "2026-11-10T08:00:45+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Goldman Sachs CEO David Solomon Discusses AI Infrastructure Financing Demand",
+      "url": "https://www.gurufocus.com/news/9187984/goldman-sachs-ceo-david-solomon-discusses-ai-infrastructure-financing-demand",
+      "source": "gurufocus.com",
+      "published": "2026-11-10T07:32:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Sidley Represents Morgan Stanley in Its Acquisition of Vinyl Equity",
+      "url": "https://legaldesire.com/sidley-represents-morgan-stanley-in-its-acquisition-of-vinyl-equity/",
+      "source": "legaldesire.com",
+      "published": "2026-11-10T07:19:35+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Cut to Sell at Wall Street Zen",
+      "url": "https://www.tickerreport.com/banking-finance/13657025/jpmorgan-chase-co-nysejpm-cut-to-sell-at-wall-street-zen.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-10T07:13:14+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)",
+      "url": "https://www.techmeme.com/261110/p3#a261110p3",
+      "source": "techmeme.com",
+      "published": "2026-11-10T06:45:01+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Will Vikings trade for a QB at deadline? Kevin O’Connell defers to Nolan Teasley",
+      "url": "https://www.fox9.com/sports/will-vikings-trade-qb-deadline-kevin-oconnell-defers-nolan-teasley",
+      "source": "fox9.com",
+      "published": "2026-11-10T06:26:04+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Goldman Sachs names top China internet stocks heading into Q3 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-internet-stocks-heading-into-q3-earnings-5014193",
+      "source": "investing.com",
+      "published": "2026-11-10T06:15:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "CRWV Rallies Ahead Of Quarterly Report: Wells Fargo Calls CoreWeave ‘Highest Quality’ Firm Among Neocloud Peers, Sees Upside",
+      "url": "https://stocktwits.com/news-articles/markets/equity/crwv-rallies-ahead-of-quarterly-report-wells-fargo-calls-core-weave-highest-quality-firm-among-neocloud-peers-sees-upside/cNGu4iQR97k?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-11-10T05:58:27+00:00",
       "tickers": [
         "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Vikings locker room reacts after 23-6 loss to Bills on Monday Night Football",
+      "url": "https://www.fox9.com/video/fmc-o2c9so6gr5pbsuf6",
+      "source": "fox9.com",
+      "published": "2026-11-10T05:50:57+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Carson Wentz after Vikings lose to Bills: 'This one felt terrible'",
+      "url": "https://www.fox9.com/video/fmc-l3claxrix0h81cty",
+      "source": "fox9.com",
+      "published": "2026-11-10T05:48:40+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Citi's Fraser: China License Gives Bank Edge on Rivals",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-fraser-china-license-gives-bank-edge-on-rivals-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-10T05:20:48+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Kevin O'Connell after Vikings lose to Bills 23-6: 'Put it 100% on me'",
+      "url": "https://www.fox9.com/video/fmc-l1k9h06d6b99bgyv",
+      "source": "fox9.com",
+      "published": "2026-11-10T05:16:25+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Neolix's Zhao on Business Strategy",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/neolix-s-zhao-on-business-strategy-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-10T05:00:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Direct Lending: Lower Fees Are Coming As Book Value Takes A Hit (Upgrade) | $MSDL",
+      "url": "https://seekingalpha.com/article/4965520-morgan-stanley-direct-lending-lower-fees-are-coming-as-book-value-takes-a-hit",
+      "source": "seekingalpha.com",
+      "published": "2026-11-10T04:55:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Vikings lose to Bills on 'Monday Night Football'",
+      "url": "https://thebrunswicknews.com/news/national_news/vikings-lose-to-bills-on-monday-night-football/article_5c97f3f8-392c-59c6-8b36-292851a85c9b.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-11-10T04:39:00+00:00",
+      "tickers": [
+        "USB"
       ]
     }
   ]
