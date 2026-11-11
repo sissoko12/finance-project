@@ -1,182 +1,228 @@
 {
-  "last_updated": "2026-11-11T00:31:27.006734+00:00",
+  "last_updated": "2026-11-11T07:39:26.208859+00:00",
   "headlines": [
     {
-      "title": "Goldman and Citi Help Fund $270 Million Stablecoin Venture",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/goldman-and-citi-help-fund-270-million-stablecoin-venture/",
-      "source": "pymnts.com",
-      "published": "2026-11-10T23:51:20+00:00",
+      "title": "Morgan Stanley downgrades Mid-America Apartment stock rating on delayed recovery",
+      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-midamerica-apartment-stock-rating-on-delayed-recovery-93CH-5017841",
+      "source": "investing.com",
+      "published": "2026-11-11T06:58:57+00:00",
       "tickers": [
-        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Fiserv CEO Sees Clearer Results Ahead as Company Targets $1 Billion in Savings",
+      "url": "https://www.marketbeat.com/instant-alerts/event-fiserv-ceo-sees-clearer-results-ahead-as-company-targets-1-billion-in-savings-2026-11-11/",
+      "source": "marketbeat.com",
+      "published": "2026-11-11T06:14:43+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Industry Veterans Reunite to Launch JT Prime, Institutional Prime of Prime",
+      "url": "https://www.tradersmagazine.com/xtra/industry-veterans-reunite-to-launch-jt-prime-institutional-prime-of-prime/",
+      "source": "tradersmagazine.com",
+      "published": "2026-11-11T05:01:00+00:00",
+      "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Why Morgan Stanley Downgraded PDD Holdings (PDD)",
-      "url": "https://www.insidermonkey.com/news/why-morgan-stanley-downgraded-pdd-holdings-pdd-1864086/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-10T22:33:58+00:00",
+      "title": "Goldman expects additional Fed rate hike in March",
+      "url": "https://www.investing.com/news/economy-news/goldman-expects-additional-fed-rate-hike-in-march-5017688",
+      "source": "investing.com",
+      "published": "2026-11-11T05:00:42+00:00",
       "tickers": [
-        "MS"
+        "GS"
       ]
     },
     {
-      "title": "Citi’s Marc Van’t Sant Upgraded Rollins (ROL). Here’s the Problem Bulls Say Can Be Fixed",
-      "url": "https://www.insidermonkey.com/news/citis-marc-vant-sant-upgraded-rollins-rol-heres-the-problem-bulls-say-can-be-fixed-1864083/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-10T22:22:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Paymentus Holdings, Inc. (PAY) Presents at Citi's 15th Annual FinTech Conference Transcript | $PAY",
-      "url": "https://seekingalpha.com/article/4966023-paymentus-holdings-inc-pay-presents-at-citis-15th-annual-fintech-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-10T22:21:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Direct Lending: Some Great And Some Bad News (Rating Upgrade) | $MSDL",
-      "url": "https://seekingalpha.com/article/4966035-morgan-stanley-direct-lending-some-great-and-some-bad-news-rating-upgrade",
-      "source": "seekingalpha.com",
-      "published": "2026-11-10T22:18:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035322/0001918704-26-035322-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-10T22:17:04+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "AI Safety, CBA Profit, JP Morgan Expands Australia Team: Australia Briefing",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-safety-cba-profit-jp-morgan-expands-australia-team-australia-briefing",
-      "source": "bloomberg.com",
-      "published": "2026-11-10T22:14:02+00:00",
+      "title": "Banks turn to credit insurance as they hit limits on lending to AI boom",
+      "url": "https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-11-11T05:00:21+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017275/0000950103-26-017275-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-10T22:12:40+00:00",
+      "title": "Geometry-Dependent Dimension Jumps in Planar $C^r$ Splines at Degree $2r+1$",
+      "url": "https://arxiv.org/abs/2611.12996",
+      "source": "arxiv.org",
+      "published": "2026-11-11T05:00:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Morgan Stanley (NYSE:MS) Director Judith Miscik Sells 2,480 Shares of Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-morgan-stanley-nyse-ms-director-judith-miscik-sells-2480-shares-of-stock-2026-11-10/",
-      "source": "marketbeat.com",
-      "published": "2026-11-10T22:08:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017272/0000950103-26-017272-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-10T22:06:41+00:00",
+      "title": "Citi's Poon Werkun on AI Trade, Fed, China",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-11T03:51:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526455712/0001193125-26-455712-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-10T22:06:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA downgrades Wix to underperform as AI coding tools threaten core growth",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-downgrades-wix-to-underperform-as-ai-coding-tools-threaten-core-growth-5017069",
-      "source": "investing.com",
-      "published": "2026-11-10T22:04:05+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Graco Announces $600 Million Accelerated Share Repurchase Agreement",
-      "url": "http://www.businesswire.com/news/home/20261110827561/en/Graco-Announces-600-Million-Accelerated-Share-Repurchase-Agreement/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA==",
-      "source": "businesswire.com",
-      "published": "2026-11-10T22:02:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Simon Nearing $555M CMBS Package to Refi Dadeland Mall in South Florida",
-      "url": "https://commercialobserver.com/2026/11/dadeland-mall-miami-simon-prime/",
-      "source": "commercialobserver.com",
-      "published": "2026-11-10T22:00:30+00:00",
-      "tickers": [
-        "JPM",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pinnacle Financial Partners CEO Kevin Blair and CFO Jamie Gregory to hold fireside chat at Goldman Sachs 2026 U.S. Financial Services Conference",
-      "url": "http://www.businesswire.com/news/home/20261110980543/en/Pinnacle-Financial-Partners-CEO-Kevin-Blair-and-CFO-Jamie-Gregory-to-hold-fireside-chat-at-Goldman-Sachs-2026-U.S.-Financial-Services-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-11-10T22:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Avalon Advanced Materials Inc. to Participate in Citi Chemicals and Basic Materials Conference",
-      "url": "https://finance.yahoo.com/energy/articles/avalon-advanced-materials-inc-participate-220000178.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-10T22:00:00+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Is opening too many banks for the bonus an issue?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xszsg1/is_opening_too_many_banks_for_the_bonus_an_issue/",
-      "source": "reddit.com",
-      "published": "2026-11-10T21:49:36+00:00",
+      "title": "Capital One Financial (COF) to Present at KBW Fintech Ecosystem Conference",
+      "url": "https://www.gurufocus.com/news/9190862/capital-one-financial-cof-to-present-at-kbw-fintech-ecosystem-conference",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T03:30:12+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Upstart Holdings, Inc. (UPST) Presents at Citi's 15th Annual FinTech Conference Transcript | $UPST",
-      "url": "https://seekingalpha.com/article/4966012-upstart-holdings-inc-upst-presents-at-citis-15th-annual-fintech-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-10T21:41:09+00:00",
+      "title": "US Ambassador to China on US-China Relations",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/us-ambassador-to-china-on-us-china-relations-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-11T03:20:30+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citigroup Inc. (C) Presents at Citi's 15th Annual FinTech Conference Transcript | $C",
-      "url": "https://seekingalpha.com/article/4965982-citigroup-inc-c-presents-at-citis-15th-annual-fintech-conference-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-10T21:31:25+00:00",
+      "title": "JPMorgan and Wells Fargo Lead Increased Stock Offering for Hagerty Inc (HGTY)",
+      "url": "https://www.gurufocus.com/news/9190676/jpmorgan-and-wells-fargo-lead-increased-stock-offering-for-hagerty-inc-hgty",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T02:25:22+00:00",
       "tickers": [
+        "WFC",
         "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Access Investment Grade Corporate Bond ETF (NYSEARCA:GIGB) Sees Significant Decline in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13658329/goldman-sachs-access-investment-grade-corporate-bond-etf-nysearcagigb-sees-significant-decline-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-11T02:20:56+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley",
+      "source": "bloomberg.com",
+      "published": "2026-11-11T02:17:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "What could drive India’s Nifty higher? BofA outlines key risks",
+      "url": "https://www.investing.com/news/stock-market-news/what-could-drive-indias-nifty-higher-bofa-outlines-key-risks-5017483",
+      "source": "investing.com",
+      "published": "2026-11-11T01:37:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Baron First Principles ETF Q3 2026 Top Contributors And Detractors | $SCHW $H $BIRK",
+      "url": "https://seekingalpha.com/article/4966240-baron-first-principles-etf-q3-2026-top-contributors-and-detractors",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T01:25:00+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Alibaba's Valuation Potential Boosted by Pingtouge Spin-off, Says Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9190606/alibabas-valuation-potential-boosted-by-pingtouge-spinoff-says-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T01:11:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000638/0000886982-26-000638-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-11T01:10:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000052/0000923738-26-000052-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-11T01:09:05+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Tracking Christopher Davis' Davis Selected Advisers 13F Portfolio - Q3 2026 Update | $CFIMX $COF $META $AMZN $CVS",
+      "url": "https://seekingalpha.com/article/4966222-christopher-davis-davis-selected-advisers-13f-portfolio-q3-2026-update",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T01:05:43+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Trims Warner Music Group Corp (WMG) Stake -- Shares Look 10% ...",
+      "url": "https://www.gurufocus.com/news/9190432/jpmorgan-chase-co-trims-warner-music-group-corp-wmg-stake-shares-look-10-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T00:52:58+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Trims Levi Strauss & Co (LEVI) Stake -- Shares Look 12% Overvalued ...",
+      "url": "https://www.gurufocus.com/news/9190430/jpmorgan-chase-co-trims-levi-strauss-co-levi-stake-shares-look-12-overvalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T00:52:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Expands Docusign (DOCU) Stake With 7.9 Million Share Purchase",
+      "url": "https://www.gurufocus.com/news/9190429/jpmorgan-chase-co-expands-docusign-docu-stake-with-79-million-share-purchase",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T00:52:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO Trims Allegro Microsystems Inc (ALGM) Stake -- Shares Look 10% ...",
+      "url": "https://www.gurufocus.com/news/9190427/jpmorgan-chase-co-trims-allegro-microsystems-inc-algm-stake-shares-look-10-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T00:51:37+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "PNC Financial Services Group, Inc. Adds BioStem Technologies Inc (BSEM) -- Shares Look 73% ...",
+      "url": "https://www.gurufocus.com/news/9190410/pnc-financial-services-group-inc-adds-biostem-technologies-inc-bsem-shares-look-73-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T00:47:34+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published": "2026-11-11T00:13:32+00:00",
+      "tickers": [
+        "C",
+        "GS"
       ]
     }
   ]
