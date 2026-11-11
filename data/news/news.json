@@ -1,228 +1,276 @@
 {
-  "last_updated": "2026-11-11T07:39:26.208859+00:00",
+  "last_updated": "2026-11-11T16:00:14.048762+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley downgrades Mid-America Apartment stock rating on delayed recovery",
-      "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-midamerica-apartment-stock-rating-on-delayed-recovery-93CH-5017841",
-      "source": "investing.com",
-      "published": "2026-11-11T06:58:57+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Fiserv CEO Sees Clearer Results Ahead as Company Targets $1 Billion in Savings",
-      "url": "https://www.marketbeat.com/instant-alerts/event-fiserv-ceo-sees-clearer-results-ahead-as-company-targets-1-billion-in-savings-2026-11-11/",
+      "title": "Johnson Controls International (NYSE:JCI) Now Covered by Analysts at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-johnson-controls-international-nyse-jci-now-covered-by-analysts-at-jpmorgan-chase-co-2026-11-11/",
       "source": "marketbeat.com",
-      "published": "2026-11-11T06:14:43+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Industry Veterans Reunite to Launch JT Prime, Institutional Prime of Prime",
-      "url": "https://www.tradersmagazine.com/xtra/industry-veterans-reunite-to-launch-jt-prime-institutional-prime-of-prime/",
-      "source": "tradersmagazine.com",
-      "published": "2026-11-11T05:01:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman expects additional Fed rate hike in March",
-      "url": "https://www.investing.com/news/economy-news/goldman-expects-additional-fed-rate-hike-in-march-5017688",
-      "source": "investing.com",
-      "published": "2026-11-11T05:00:42+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Banks turn to credit insurance as they hit limits on lending to AI boom",
-      "url": "https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "published": "2026-11-11T05:00:21+00:00",
+      "published": "2026-11-11T15:06:32+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Geometry-Dependent Dimension Jumps in Planar $C^r$ Splines at Degree $2r+1$",
-      "url": "https://arxiv.org/abs/2611.12996",
-      "source": "arxiv.org",
-      "published": "2026-11-11T05:00:00+00:00",
+      "title": "MRF share price target after Q2: Tyre maker faces margin pressure, but Citi sees 30% upside; sets ₹1,65,238 target",
+      "url": "https://www.livemint.com/market/stock-market-news/mrf-share-price-target-after-q2-tyre-maker-faces-margin-pressure-but-citi-sees-30-upside-sets-rs-1-65-238-target-11794405931431.html",
+      "source": "livemint.com",
+      "published": "2026-11-11T15:05:26+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Citi's Poon Werkun on AI Trade, Fed, China",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
+      "title": "403B / Empower through employer / JP Morgan smart retirement blend 2055-R6",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xtk1c0/403b_empower_through_employer_jp_morgan_smart/",
+      "source": "reddit.com",
+      "published": "2026-11-11T15:04:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, HSBC partner for $150M financing to United Saudi Company - report",
+      "url": "https://seekingalpha.com/news/4670660-goldman-sachs-hsbc-partner-for-150m-financing-to-united-saudi-company---report",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T15:00:46+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "The Coca-Cola Company Announces Participation in Morgan Stanley Global Consumer & Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261111087529/en/The-Coca-Cola-Company-Announces-Participation-in-Morgan-Stanley-Global-Consumer-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-R-HrziBh-2TFM2GMuUU7RcPFX-aV_QoYAKqdUX1TA5LrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k8sXd0xy82dHvVAQyb6kaYOoOnRBQBKcY2buBEMh6FZQ==",
+      "source": "businesswire.com",
+      "published": "2026-11-11T15:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, HSBC, and Fortress are backing a $150 million Saudi private credit deal",
+      "url": "https://qz.com/goldman-hsbc-fortress-saudi-private-credit-111126",
+      "source": "qz.com",
+      "published": "2026-11-11T14:50:18+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Nvidia stock got a rare Wall Street downgrade over Jensen Huang CEO concerns",
+      "url": "https://qz.com/nvidia-stock-baird-downgrade-jensen-huang-ceo-111126",
+      "source": "qz.com",
+      "published": "2026-11-11T14:40:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Mercury Systems upgraded at J.P. Morgan on strong orders, better profits",
+      "url": "https://seekingalpha.com/news/4670661-mercury-systems-upgraded-at-j-p-morgan-on-strong-orders-better-profits",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T14:37:11+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Decline Pre-Bell Wednesday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-pre-141701798.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T14:17:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Rising costs will not halt data center construction boom, Citi says",
+      "url": "https://www.investing.com/news/stock-market-news/rising-costs-will-not-halt-data-center-construction-boom-citi-says-5019161",
+      "source": "investing.com",
+      "published": "2026-11-11T14:17:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Nifty 50 target: Index in sweet spot? 28,000 soon? HSBC, Citi and Bernstein raise targets after sharp 13.5% recovery",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-target-index-in-sweet-spot-28-000-soon-hsbc-citi-and-bernstein-raise-targets-after-sharp-13-5-recovery-11794402943483.html",
+      "source": "livemint.com",
+      "published": "2026-11-11T14:15:59+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The $11 Trillion Surprise: How America Defied Wall Street’s Biggest Economic Prediction",
+      "url": "https://nicholasvardy.substack.com/p/the-11-trillion-surprise-how-america",
+      "source": "substack.com",
+      "published": "2026-11-11T14:13:30+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman adds March hike to Fed outlook as January remains in play",
+      "url": "https://seekingalpha.com/news/4670640-goldman-adds-march-hike-to-fed-outlook-as-january-remains-in-play",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T14:12:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. Initiates Coverage on Vertiv (NYSE:VRT)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-initiates-coverage-on-vertiv-nyse-vrt-2026-11-11/",
+      "source": "marketbeat.com",
+      "published": "2026-11-11T14:12:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Reaffirms \"Overweight\" Rating for NVIDIA (NASDAQ:NVDA)",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-reaffirms-overweight-rating-for-nvidia-nasdaq-nvda-2026-11-11/",
+      "source": "marketbeat.com",
+      "published": "2026-11-11T14:12:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4%",
+      "url": "https://247wallst.com/investing/2026/11/11/nvidia-rises-4-despite-baird-downgrade-and-huang-uncertainty-amd-climbs-5-broadcom-gains-4/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-11T14:05:16+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Expression Therapeutics CEO to Attend 45th J.P. Morgan Healthcare Conference 2027",
+      "url": "https://finance.yahoo.com/healthcare/articles/expression-therapeutics-ceo-attend-45th-140500154.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T14:05:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman, Fortress and HBSC Back Rare Private Credit Deal in Saudi Arabia",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/goldman-fortress-and-hbsc-back-rare-private-credit-deal-in-saudi-arabia",
       "source": "bloomberg.com",
-      "published": "2026-11-11T03:51:00+00:00",
+      "published": "2026-11-11T14:02:18+00:00",
       "tickers": [
-        "C"
+        "GS"
       ]
     },
     {
-      "title": "Capital One Financial (COF) to Present at KBW Fintech Ecosystem Conference",
-      "url": "https://www.gurufocus.com/news/9190862/capital-one-financial-cof-to-present-at-kbw-fintech-ecosystem-conference",
+      "title": "ETN Reinstated by JP Morgan -- Price Target Announced at $395",
+      "url": "https://www.gurufocus.com/news/9192609/etn-reinstated-by-jp-morgan-price-target-announced-at-395",
       "source": "gurufocus.com",
-      "published": "2026-11-11T03:30:12+00:00",
+      "published": "2026-11-11T14:02:07+00:00",
       "tickers": [
-        "C",
-        "COF"
+        "JPM"
       ]
     },
     {
-      "title": "US Ambassador to China on US-China Relations",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-11/us-ambassador-to-china-on-us-china-relations-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-11T03:20:30+00:00",
+      "title": "Neo Appoints Anton Mayr as Chief Operating Officer",
+      "url": "https://finance.yahoo.com/technology/ai/articles/neo-appoints-anton-mayr-chief-140000250.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T14:00:00+00:00",
       "tickers": [
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "JPMorgan and Wells Fargo Lead Increased Stock Offering for Hagerty Inc (HGTY)",
-      "url": "https://www.gurufocus.com/news/9190676/jpmorgan-and-wells-fargo-lead-increased-stock-offering-for-hagerty-inc-hgty",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T02:25:22+00:00",
+      "title": "Morgan Stanley: Midterm elections reshape where the AI buildout gets built",
+      "url": "https://awesomecapital.blogspot.com/2026/11/morgan-stanley-midterm-elections.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-11-11T13:57:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Hartford Insurance cut to Hold at Wells Fargo",
+      "url": "https://seekingalpha.com/news/4670619-hartford-insurance-cut-to-hold-at-wells-fargo",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T13:56:04+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs Access Investment Grade Corporate Bond ETF (NYSEARCA:GIGB) Sees Significant Decline in Short Interest",
-      "url": "https://www.tickerreport.com/banking-finance/13658329/goldman-sachs-access-investment-grade-corporate-bond-etf-nysearcagigb-sees-significant-decline-in-short-interest.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-11T02:20:56+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley",
-      "source": "bloomberg.com",
-      "published": "2026-11-11T02:17:50+00:00",
+      "title": "Nvidia (NVDA) Shares Rise Despite Baird Downgrade and Morgan Stanley Shift",
+      "url": "https://www.gurufocus.com/news/9192524/nvidia-nvda-shares-rise-despite-baird-downgrade-and-morgan-stanley-shift",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T13:55:23+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "What could drive India’s Nifty higher? BofA outlines key risks",
-      "url": "https://www.investing.com/news/stock-market-news/what-could-drive-indias-nifty-higher-bofa-outlines-key-risks-5017483",
-      "source": "investing.com",
-      "published": "2026-11-11T01:37:47+00:00",
+      "title": "Micron (MU) to Invest $1 Billion in Anthropic IPO Private Placement",
+      "url": "https://blockonomi.com/micron-mu-to-invest-1-billion-in-anthropic-ipo-private-placement/",
+      "source": "blockonomi.com",
+      "published": "2026-11-11T13:53:43+00:00",
       "tickers": [
-        "BAC",
+        "GS"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks in focus as Citi sees 'compelling' risk-reward",
+      "url": "https://seekingalpha.com/news/4670632-palo-alto-networks-in-focus-as-citi-sees-compelling-risk-reward",
+      "source": "seekingalpha.com",
+      "published": "2026-11-11T13:53:03+00:00",
+      "tickers": [
         "C"
       ]
     },
     {
-      "title": "Baron First Principles ETF Q3 2026 Top Contributors And Detractors | $SCHW $H $BIRK",
-      "url": "https://seekingalpha.com/article/4966240-baron-first-principles-etf-q3-2026-top-contributors-and-detractors",
-      "source": "seekingalpha.com",
-      "published": "2026-11-11T01:25:00+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Alibaba's Valuation Potential Boosted by Pingtouge Spin-off, Says Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/9190606/alibabas-valuation-potential-boosted-by-pingtouge-spinoff-says-morgan-stanley",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T01:11:02+00:00",
+      "title": "Elon Musk Aims for Historic 'Double Catch' Friday",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63136815/starship-double-catch?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "benzinga.com",
+      "published": "2026-11-11T13:50:42+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form SCHEDULE 13G/A [Amend] - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000638/0000886982-26-000638-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-11T01:10:16+00:00",
+      "title": "Eaton (NYSE:ETN) Now Covered by JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-eaton-nyse-etn-now-covered-by-jpmorgan-chase-co-2026-11-11/",
+      "source": "marketbeat.com",
+      "published": "2026-11-11T13:42:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Truist Financial Has Lowered Expectations for CoreWeave (NASDAQ:CRWV) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-coreweave-nasdaq-crwv-stock-price-2026-11-11/",
+      "source": "marketbeat.com",
+      "published": "2026-11-11T13:42:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Goldman Sees Anthropic Revenue at “$685B by 2030.” Broadcom Is Tied to $161 Billion in Lease Deals",
+      "url": "https://www.tikr.com/blog/goldman-sees-anthropic-revenue-at-685b-by-2030-broadcom-is-tied-to-161-billion-in-lease-deals?ref=yahoofinance&tlnk=yf-261111-cf2mvfg3&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-11-11T13:41:12+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "SCHWAB CHARLES CORP: Form 4 - Statement of changes in beneficial ownership of securities",
-      "url": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000052/0000923738-26-000052-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-11T01:09:05+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Tracking Christopher Davis' Davis Selected Advisers 13F Portfolio - Q3 2026 Update | $CFIMX $COF $META $AMZN $CVS",
-      "url": "https://seekingalpha.com/article/4966222-christopher-davis-davis-selected-advisers-13f-portfolio-q3-2026-update",
-      "source": "seekingalpha.com",
-      "published": "2026-11-11T01:05:43+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Trims Warner Music Group Corp (WMG) Stake -- Shares Look 10% ...",
-      "url": "https://www.gurufocus.com/news/9190432/jpmorgan-chase-co-trims-warner-music-group-corp-wmg-stake-shares-look-10-undervalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T00:52:58+00:00",
+      "title": "Sources: Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg)",
+      "url": "https://www.techmeme.com/261111/p27#a261111p27",
+      "source": "techmeme.com",
+      "published": "2026-11-11T13:40:01+00:00",
       "tickers": [
         "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Trims Levi Strauss & Co (LEVI) Stake -- Shares Look 12% Overvalued ...",
-      "url": "https://www.gurufocus.com/news/9190430/jpmorgan-chase-co-trims-levi-strauss-co-levi-stake-shares-look-12-overvalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T00:52:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Expands Docusign (DOCU) Stake With 7.9 Million Share Purchase",
-      "url": "https://www.gurufocus.com/news/9190429/jpmorgan-chase-co-expands-docusign-docu-stake-with-79-million-share-purchase",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T00:52:06+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO Trims Allegro Microsystems Inc (ALGM) Stake -- Shares Look 10% ...",
-      "url": "https://www.gurufocus.com/news/9190427/jpmorgan-chase-co-trims-allegro-microsystems-inc-algm-stake-shares-look-10-undervalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T00:51:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PNC Financial Services Group, Inc. Adds BioStem Technologies Inc (BSEM) -- Shares Look 73% ...",
-      "url": "https://www.gurufocus.com/news/9190410/pnc-financial-services-group-inc-adds-biostem-technologies-inc-bsem-shares-look-73-undervalued-on-gf-value",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T00:47:34+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published": "2026-11-11T00:13:32+00:00",
-      "tickers": [
-        "C",
-        "GS"
       ]
     }
   ]
