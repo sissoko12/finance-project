@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-11-11T22:56:12.798102+00:00",
+  "last_updated": "2026-11-12T03:44:06.452570+00:00",
   "headlines": [
+    {
+      "title": "JPMorgan Predicted Strong Wegovy Pill Sales (and Was Right). Is Novo Nordisk Stock a Buy Now?",
+      "url": "https://www.fool.com/investing/2026/11/11/jpmorgan-predicted-strong-wegovy-pill-sales-and-wa/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T02:15:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Emerging Markets Debt Fund (NYSE:MSD) Stock Price Up 0.7% – Here’s Why",
+      "url": "https://www.tickerreport.com/banking-finance/13660014/morgan-stanley-emerging-markets-debt-fund-nysemsd-stock-price-up-0-7-heres-why.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-12T01:21:07+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Indian companies ramp up overseas dealmaking amid growth push: JPMorgan",
+      "url": "https://www.livemint.com/companies/news/indian-companies-ramp-up-overseas-dealmaking-amid-growth-push-jpmorgan-investment-deals-acquisitions-11794388870843.html",
+      "source": "livemint.com",
+      "published": "2026-11-12T00:30:32+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Capital One Financial Blocks AI Agents, Bets on Premium Cards and Discover",
+      "url": "https://www.marketbeat.com/instant-alerts/event-capital-one-financial-blocks-ai-agents-bets-on-premium-cards-and-discover-2026-11-11/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T00:13:46+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Capital One Financial Corp at KBW Fintech Payments Conference Transcript",
+      "url": "https://www.gurufocus.com/news/9193557/capital-one-financial-corp-at-kbw-fintech-payments-conference-transcript",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T23:00:11+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Recent Research Analysts’ Ratings Changes for Lucid Group (LCID)",
+      "url": "https://www.tickerreport.com/banking-finance/13659948/recent-research-analysts-ratings-changes-for-lucid-group-lcid.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-11T22:56:47+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Which Long-Term Bond ETF Is the Better Buy: State Street’s SPLB or iShares’ TLT?",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/11/which-long-term-bond-etf-is-the-better-buy-state-street-s-splb-or-ishares-tlt/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-11T22:55:01+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Inside Active: BNY’s Slavin on Who’s Driving Active ETF Growth",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-11/inside-active-bny-s-slavin-on-who-s-driving-active-etf-growth",
+      "source": "bloomberg.com",
+      "published": "2026-11-11T22:47:16+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Weekly Ratings Changes for CSW Industrials (CSW)",
+      "url": "https://www.tickerreport.com/banking-finance/13659918/research-analysts-weekly-ratings-changes-for-csw-industrials-csw.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-11T21:56:46+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Drug Makers or Biotech Bets: Which ETF Is the Better Buy, State Street’s XPH or First Trust’s FBT?",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/11/drug-makers-or-biotech-bets-which-etf-is-the-better-buy-state-street-s-xph-or-first-trust-s-fbt/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-11T21:53:27+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
     {
       "title": "Bank of America agrees to settle fake-accounts suit",
       "url": "https://www.americanbanker.com/news/bank-of-america-agrees-to-settle-fake-accounts-suit",
@@ -22,12 +114,79 @@
       ]
     },
     {
+      "title": "NVIDIA (NVDA) Stock Update: Morgan Stanley Removes from Preferred List",
+      "url": "https://www.gurufocus.com/news/9193346/nvidia-nvda-stock-update-morgan-stanley-removes-from-preferred-list",
+      "source": "gurufocus.com",
+      "published": "2026-11-11T21:50:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CCC Intelligent Solutions ends year-long LBO loan hiatus for software borrowers",
+      "url": "https://pitchbook.com/news/articles/ccc-intelligent-solutions-ends-year-long-lbo-loan-hiatus-for-software-borrowers?.tsrc=rss",
+      "source": "pitchbook.com",
+      "published": "2026-11-11T21:49:28+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CareTrust REIT, Inc. Announces Launch of Public Offering of Common Stock",
+      "url": "https://finance.yahoo.com/real-estate/articles/caretrust-reit-inc-announces-launch-213700698.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T21:37:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The 48th Annual Bank of America Chicago Marathon 2026",
+      "url": "https://www.youtube.com/watch?v=ADbpz_ddM90",
+      "source": "youtube.com",
+      "published": "2026-11-11T21:36:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Citi Says AI Companies Should Pay When Their Agents Book the Wrong Travel",
       "url": "https://skift.com/2026/11/11/citi-says-ai-companies-should-pay-when-their-agents-book-the-wrong-travel/",
       "source": "skift.com",
       "published": "2026-11-11T21:29:35+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Wall Street Sees a Gambling Opportunity in Trading Cards",
+      "url": "https://finance.yahoo.com/m/e2dcde6e-6c62-31b3-b5fc-e07847324be0/wall-street-sees-a-gambling.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T21:01:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees 129% tech company rebound brewing after crash",
+      "url": "https://www.thestreet.com/investing/stocks/stx-seagate-morgan-stanley-stock-analysis?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-11T20:37:00+00:00",
+      "tickers": [
+        "BAC",
+        "C",
+        "MS"
+      ]
+    },
+    {
+      "title": "Berkshire’s Geico Unit Struggles Despite Turnaround; Its Profitability Trails Progressive",
+      "url": "https://finance.yahoo.com/m/bd227f80-b86f-3108-8e33-3530b97da81e/berkshire%E2%80%99s-geico-unit.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T20:33:00+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -38,6 +197,35 @@
       "tickers": [
         "C",
         "PNC"
+      ]
+    },
+    {
+      "title": "BofA downgrades Wix as AI gains mask partner slowdown",
+      "url": "https://www.thestreet.com/investing/stocks/bofa-downgrades-wix-as-ai-gains-mask-partner-slowdown?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-11T20:13:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Top Analyst Reports for NVIDIA, Walmart & AbbVie",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-nvidia-walmart-200800641.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-11T20:08:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Coinbase Is Still Down 23% in the Past Month: Did Today Mark the Bottom for COIN Stock?",
+      "url": "https://247wallst.com/investing/2026/11/11/coinbase-is-still-down-23-in-the-past-month-did-today-mark-the-bottom-for-coin-stock/",
+      "source": "247wallst.com",
+      "published": "2026-11-11T20:02:11+00:00",
+      "tickers": [
+        "GS",
+        "MS"
       ]
     },
     {
@@ -91,187 +279,6 @@
       "url": "https://www.gurufocus.com/news/9193166/lif-maintained-by-citigroup-price-target-lowered-to-5660",
       "source": "gurufocus.com",
       "published": "2026-11-11T19:30:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "PNC lets businesses accept USDC without keeping the crypto",
-      "url": "https://cryptoslate.com/pnc-lets-businesses-accept-usdc-without-keeping-the-crypto/",
-      "source": "cryptoslate.com",
-      "published": "2026-11-11T19:30:07+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Goldman Sees Anthropic Revenue Hitting $685 Billion by 2030",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/",
-      "source": "pymnts.com",
-      "published": "2026-11-11T19:10:55+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Energy Vault (NYSE:NRGV) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-energy-vault-nyse-nrgv-stock-2026-11-11/",
-      "source": "marketbeat.com",
-      "published": "2026-11-11T19:06:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WTTR Maintained by Citigroup -- Price Target Lowered to $23.00",
-      "url": "https://www.gurufocus.com/news/9193163/wttr-maintained-by-citigroup-price-target-lowered-to-2300",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:06:14+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AESI Maintained by Citigroup -- Price Target Lowered to $16.00",
-      "url": "https://www.gurufocus.com/news/9193162/aesi-maintained-by-citigroup-price-target-lowered-to-1600",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:05:47+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ZD Maintained by Citigroup -- Price Target Lowered to $56.00",
-      "url": "https://www.gurufocus.com/news/9193159/zd-maintained-by-citigroup-price-target-lowered-to-5600",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:05:22+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "NOG Maintained by Citigroup -- Price Target Lowered to $30.00",
-      "url": "https://www.gurufocus.com/news/9193155/nog-maintained-by-citigroup-price-target-lowered-to-3000",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:04:46+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ECVT Maintained by Citigroup -- Price Target Lowered to $12.00",
-      "url": "https://www.gurufocus.com/news/9193152/ecvt-maintained-by-citigroup-price-target-lowered-to-1200",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:04:10+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "FISV Maintained by Citigroup -- Price Target Raised to $67.00",
-      "url": "https://www.gurufocus.com/news/9193150/fisv-maintained-by-citigroup-price-target-raised-to-6700",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:03:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "GMRS Maintained by Citigroup -- Price Target Lowered to $15.00",
-      "url": "https://www.gurufocus.com/news/9193149/gmrs-maintained-by-citigroup-price-target-lowered-to-1500",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:02:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "EPAM Maintained by Citigroup -- Price Target Raised to $172",
-      "url": "https://www.gurufocus.com/news/9193147/epam-maintained-by-citigroup-price-target-raised-to-172",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:02:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "ZYME Maintains Buy Rating -- Price Target Raised to $44.00 by Citigroup",
-      "url": "https://www.gurufocus.com/news/9193145/zyme-maintains-buy-rating-price-target-raised-to-4400-by-citigroup",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:01:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MIRM Maintained by Citigroup -- Price Target Raised to $194",
-      "url": "https://www.gurufocus.com/news/9193144/mirm-maintained-by-citigroup-price-target-raised-to-194",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:01:12+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "LCID Maintains Rating by Citigroup -- Price Target Lowered to $9.00",
-      "url": "https://www.gurufocus.com/news/9193143/lcid-maintains-rating-by-citigroup-price-target-lowered-to-900",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T19:00:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Real Estate Investing Acquires Silicon Valley R&D Facility for $84.1 million, Building on Continued Investment Themes Across the Platform",
-      "url": "http://www.businesswire.com/news/home/20261111715874/en/Morgan-Stanley-Real-Estate-Investing-Acquires-Silicon-Valley-RD-Facility-for-84.1-million-Building-on-Continued-Investment-Themes-Across-the-Platform/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk=",
-      "source": "businesswire.com",
-      "published": "2026-11-11T19:00:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs, HSBC Strike Major Saudi Financing Deal",
-      "url": "https://www.gurufocus.com/news/9192881/goldman-sachs-hsbc-strike-major-saudi-financing-deal",
-      "source": "gurufocus.com",
-      "published": "2026-11-11T18:59:22+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for Zymeworks (NASDAQ:ZYME) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-zymeworks-nasdaq-zyme-stock-price-2026-11-11/",
-      "source": "marketbeat.com",
-      "published": "2026-11-11T18:48:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Wix.com (NASDAQ:WIX) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-wixcom-nasdaq-wix-stock-price-target-cut-by-citigroup-2026-11-11/",
-      "source": "marketbeat.com",
-      "published": "2026-11-11T18:48:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ziff Davis (NASDAQ:ZD) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ziff-davis-nasdaq-zd-stock-price-target-cut-by-citigroup-2026-11-11/",
-      "source": "marketbeat.com",
-      "published": "2026-11-11T18:48:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Life360 (NASDAQ:LIF) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-life360-nasdaq-lif-stock-price-target-cut-by-citigroup-2026-11-11/",
-      "source": "marketbeat.com",
-      "published": "2026-11-11T18:48:35+00:00",
       "tickers": [
         "C"
       ]
