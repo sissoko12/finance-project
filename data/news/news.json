@@ -1,58 +1,223 @@
 {
-  "last_updated": "2026-11-12T12:27:32.395010+00:00",
+  "last_updated": "2026-11-12T20:21:02.009549+00:00",
   "headlines": [
     {
-      "title": "Bank of America Corporation $BAC Stock Sold by Paradigm Asset Management Co. LLC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-sold-by-paradigm-asset-management-co-llc-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T11:28:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035383/0001918704-26-035383-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-12T11:22:07+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Sold by King Luther Capital Management Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-sold-by-king-luther-capital-management-corp-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T11:21:29+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
       "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035381/0001918704-26-035381-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026118818/0001213900-26-118818-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-12T11:18:59+00:00",
+      "published": "2026-11-12T19:35:54+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017307/0000950103-26-017307-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-12T11:17:22+00:00",
+      "title": "AI ‘Supply Shock’ Pushes Bond Market to Limit: O’Connor",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-o-connor-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-12T19:31:51+00:00",
       "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "Maryland State Retirement & Pension System Acquires 40,271 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-maryland-state-retirement-pension-system-acquires-40271-shares-of-bank-of-america-corporation-bac-2026-11-12/",
+      "title": "Higher Cost of Capital Will Impact Credit: Gibbons",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-12/higher-cost-of-capital-will-impact-credit-gibbons-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-12T19:15:06+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs sees favorable risk-reward in Nvidia, citing Apple leadership parallel",
+      "url": "https://seekingalpha.com/news/4671691-goldman-sachs-sees-favorable-risk-reward-in-nvidia-citing-apple-leadership-parallel",
+      "source": "seekingalpha.com",
+      "published": "2026-11-12T18:54:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026118796/0001213900-26-118796-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T18:53:54+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "FOOTBALL-NFL-CAR-DEN/ - Denver Broncos quarterback Bo Nix looks to pass against the ...",
+      "url": "https://tulsaworld.com/sports/professional/nfl/image_7343205d-add5-52b2-9e82-b400676ea7a4.html",
+      "source": "tulsaworld.com",
+      "published": "2026-11-12T18:51:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "FOOTBALL-NFL-MIN-BUF/ - Buffalo Bills quarterback Josh Allen celebrates after a game ...",
+      "url": "https://tulsaworld.com/sports/professional/nfl/image_cb08e1c4-eaf9-56a0-8eda-b6bd70432f07.html",
+      "source": "tulsaworld.com",
+      "published": "2026-11-12T18:50:00+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "JPMorganChase names new exec over Alabama",
+      "url": "https://www.bizjournals.com/birmingham/news/2026/11/12/jpmorganchase-new-commercial-bankig-leader.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-11-12T18:31:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "CubeSmart (NYSE:CUBE) Stock Price Target Raised at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cubesmart-nyse-cube-stock-price-target-raised-at-truist-financial-2026-11-12/",
       "source": "marketbeat.com",
-      "published": "2026-11-12T11:12:55+00:00",
+      "published": "2026-11-12T18:24:34+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Public Storage (NYSE:PSA) Price Target Raised to $365.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-public-storage-nyse-psa-price-target-raised-to-36500-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T18:24:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Extra Space Storage (NYSE:EXR) Stock Price Target Raised at Truist Financial",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-extra-space-storage-nyse-exr-stock-price-target-raised-at-truist-financial-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T18:24:33+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Smartstop Self Storage REIT (NYSE:SMA) Price Target Raised to $41.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-smartstop-self-storage-reit-nyse-sma-price-target-raised-to-4100-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T18:24:32+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "BNY Mellon Concentrated Growth ETF (NYSEARCA:BKCG) Sees Significant Decline in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13661428/bny-mellon-concentrated-growth-etf-nysearcabkcg-sees-significant-decline-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-12T18:21:28+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035489/0001918704-26-035489-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T18:21:27+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526457892/0001193125-26-457892-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T18:19:08+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526457890/0001193125-26-457890-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T18:18:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Expected to Rise, Bank of America Analyst Says",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-advanced-micro-devices-nasdaq-amd-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T18:06:35+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "NVIDIA (NASDAQ:NVDA) Given New $280.00 Price Target at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nvidia-nasdaq-nvda-given-new-28000-price-target-at-bank-of-america-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T18:06:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Capital One Software Recognized in KuppingerCole Analysts 2026 Leadership Compass for Data Security Platforms",
+      "url": "http://www.businesswire.com/news/home/20261112410787/en/Capital-One-Software-Recognized-in-KuppingerCole-Analysts-2026-Leadership-Compass-for-Data-Security-Platforms/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+      "source": "businesswire.com",
+      "published": "2026-11-12T18:00:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Intel (NASDAQ:INTC) Stock Price Target Lowered at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-intel-nasdaq-intc-stock-price-target-lowered-at-bank-of-america-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T17:48:33+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "ITG (NASDAQ:ITG) Stock Price Target Lowered at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-itg-nasdaq-itg-stock-price-target-lowered-at-bank-of-america-2026-11-12/",
+      "source": "marketbeat.com",
+      "published": "2026-11-12T17:48:32+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Intel (NASDAQ:INTC) Stock Price Target Cut by Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13661390/intel-nasdaqintc-stock-price-target-cut-by-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-12T17:48:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035486/0001918704-26-035486-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T17:43:22+00:00",
       "tickers": [
         "BAC",
         "C"
