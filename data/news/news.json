@@ -1,225 +1,289 @@
 {
-  "last_updated": "2026-11-12T20:21:02.009549+00:00",
+  "last_updated": "2026-11-13T01:24:20.522229+00:00",
   "headlines": [
     {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026118818/0001213900-26-118818-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-12T19:35:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AI ‘Supply Shock’ Pushes Bond Market to Limit: O’Connor",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-o-connor-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-12T19:31:51+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Higher Cost of Capital Will Impact Credit: Gibbons",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-12/higher-cost-of-capital-will-impact-credit-gibbons-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-12T19:15:06+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees favorable risk-reward in Nvidia, citing Apple leadership parallel",
-      "url": "https://seekingalpha.com/news/4671691-goldman-sachs-sees-favorable-risk-reward-in-nvidia-citing-apple-leadership-parallel",
-      "source": "seekingalpha.com",
-      "published": "2026-11-12T18:54:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026118796/0001213900-26-118796-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-12T18:53:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "FOOTBALL-NFL-CAR-DEN/ - Denver Broncos quarterback Bo Nix looks to pass against the ...",
-      "url": "https://tulsaworld.com/sports/professional/nfl/image_7343205d-add5-52b2-9e82-b400676ea7a4.html",
-      "source": "tulsaworld.com",
-      "published": "2026-11-12T18:51:00+00:00",
+      "title": "Bank of America plans $4.5 million SouthPark branch",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/11/12/bank-of-america-southpark-bank-branch-consolidate.html#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-11-13T00:24:06+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "FOOTBALL-NFL-MIN-BUF/ - Buffalo Bills quarterback Josh Allen celebrates after a game ...",
-      "url": "https://tulsaworld.com/sports/professional/nfl/image_cb08e1c4-eaf9-56a0-8eda-b6bd70432f07.html",
-      "source": "tulsaworld.com",
-      "published": "2026-11-12T18:50:00+00:00",
+      "title": "U.S. Bank to Add 60 Roles in Middle Market Banking",
+      "url": "https://www.pymnts.com/news/banking/2026/u-s-bank-to-add-60-roles-in-middle-market-banking/",
+      "source": "pymnts.com",
+      "published": "2026-11-12T23:59:16+00:00",
       "tickers": [
         "USB"
       ]
     },
     {
-      "title": "JPMorganChase names new exec over Alabama",
-      "url": "https://www.bizjournals.com/birmingham/news/2026/11/12/jpmorganchase-new-commercial-bankig-leader.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-11-12T18:31:13+00:00",
+      "title": "Baird Cut Its Nvidia (NVDA) Target From $500 to $200. Here’s What It Wants Next",
+      "url": "https://www.insidermonkey.com/news/baird-cut-its-nvidia-nvda-target-from-500-to-200-heres-what-it-wants-next-1865088/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:17:26+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Lam Research (LRCX) Lost About 34% in a Month. Here’s Why Bernstein’s Rasgon Still Likes It",
+      "url": "https://www.insidermonkey.com/news/lam-research-lrcx-lost-about-34-in-a-month-heres-why-bernsteins-rasgon-still-likes-it-1865092/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:15:52+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "ServiceNow (NOW) Trades 42% Below Its High. Here’s Why Argus Still Rates It a Buy",
+      "url": "https://www.insidermonkey.com/news/servicenow-now-trades-42-below-its-high-heres-why-argus-still-rates-it-a-buy-1865091/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:15:35+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Why Jefferies’ Dushyant Ailani Calls Teradyne (TER) a “Compute Test Company”",
+      "url": "https://www.insidermonkey.com/news/why-jefferies-dushyant-ailani-calls-teradyne-ter-a-compute-test-company-1865090/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:15:08+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Here’s Why Stifel’s Jonathan Siegmann Still Backs SpaceX (SPCX) After Democratic Midterm Wins",
+      "url": "https://www.insidermonkey.com/news/heres-why-stifels-jonathan-siegmann-still-backs-spacex-spcx-after-democratic-midterm-wins-1865089/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:14:49+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "5 Best AI Stocks to Buy After Wells Fargo’s Outlook Upgrade",
+      "url": "https://www.insidermonkey.com/news/5-best-ai-stocks-to-buy-after-wells-fargos-outlook-upgrade-1865061/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:14:28+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America’s Matthew O’Neill Is Positive on Block (XYZ) for Early 2027. One Question Remains",
+      "url": "https://www.insidermonkey.com/news/bank-of-americas-matthew-oneill-is-positive-on-block-xyz-for-early-2027-one-question-remains-1865068/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T23:13:07+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "US Humanoid Robot Production May Reach 400,000 Units by 2030",
+      "url": "https://www.androidheadlines.com/2026/11/us-humanoid-robot-production-may-reach-400000-units-by-2030.html",
+      "source": "androidheadlines.com",
+      "published": "2026-11-12T22:28:54+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "CubeSmart (NYSE:CUBE) Stock Price Target Raised at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cubesmart-nyse-cube-stock-price-target-raised-at-truist-financial-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T18:24:34+00:00",
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026119063/0001213900-26-119063-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T22:21:33+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "JPM"
       ]
     },
     {
-      "title": "Public Storage (NYSE:PSA) Price Target Raised to $365.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-public-storage-nyse-psa-price-target-raised-to-36500-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T18:24:33+00:00",
+      "title": "WELLS FARGO & COMPANY/MN: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000338/0000072971-26-000338-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T22:05:10+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "WFC",
+        "C"
       ]
     },
     {
-      "title": "Extra Space Storage (NYSE:EXR) Stock Price Target Raised at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-extra-space-storage-nyse-exr-stock-price-target-raised-at-truist-financial-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T18:24:33+00:00",
+      "title": "How State Street and Savvy forged new paths to add to the custody competition",
+      "url": "https://www.financial-planning.com/news/how-state-street-and-savvy-forged-new-paths-to-add-to-the-custody-competition?.tsrc=rss",
+      "source": "financial-planning.com",
+      "published": "2026-11-12T22:03:46+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "STT"
       ]
     },
     {
-      "title": "Smartstop Self Storage REIT (NYSE:SMA) Price Target Raised to $41.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-smartstop-self-storage-reit-nyse-sma-price-target-raised-to-4100-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T18:24:32+00:00",
+      "title": "Stock Market Today, Nov. 12: AMD Jumps 5.9% on Bank of America Price Target Hike to $700",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-amd-jumps-59-on-bank-of-america-price-target-hike-to-700/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T22:00:03+00:00",
       "tickers": [
-        "C",
-        "TFC"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "BNY Mellon Concentrated Growth ETF (NYSEARCA:BKCG) Sees Significant Decline in Short Interest",
-      "url": "https://www.tickerreport.com/banking-finance/13661428/bny-mellon-concentrated-growth-etf-nysearcabkcg-sees-significant-decline-in-short-interest.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-12T18:21:28+00:00",
+      "title": "Exclusive research: Citi is redesigning 100 processes. What’s stopping others?",
+      "url": "https://www.americanbanker.com/news/citi-is-redesigning-100-processes-what-s-stopping-others?.tsrc=rss",
+      "source": "americanbanker.com",
+      "published": "2026-11-12T21:53:55+00:00",
       "tickers": [
-        "BK"
+        "C"
+      ]
+    },
+    {
+      "title": "SCHWAB CHARLES CORP: Form 8-K - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312526458663/0001193125-26-458663-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T21:52:51+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "SPDW vs IXUS: Which International ETF Is the Better Buy for 2027?",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/12/spdw-vs-ixus-which-international-etf-is-the-better-buy-for-2027/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T21:50:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ai-debt-binge-hits-a-wall-as-global-bond-markets-reach-saturation-point-wells-fargo-warns/cNGC7rER9OP?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-11-12T21:35:40+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "IGLB vs SPLB: Which Long-Term Corporate Bond ETF Wins for Investors?",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/12/iglb-vs-splb-which-long-term-corporate-bond-etf-wins-for-investors/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T21:30:02+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "VF Corporation Announces Participation at J.P. Morgan’s 8th Annual Global Luxury & Brands Conference",
+      "url": "https://www.vfc.com/news/press-releases/detail/1873/vf-corporation-announces-participation-at-j-p-morgans-8th-annual-global-luxury-brands-conference",
+      "source": "vfc.com",
+      "published": "2026-11-12T21:30:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "State Street Corporation Declares Dividends on Its Non-Cumulative Perpetual Preferred Stock Series “G,” “I,” “J,” “K,” and “L”",
+      "url": "http://www.businesswire.com/news/home/20261112133738/en/State-Street-Corporation-Declares-Dividends-on-Its-Non-Cumulative-Perpetual-Preferred-Stock-Series-%E2%80%9CG%E2%80%9D-%E2%80%9CI%E2%80%9D-%E2%80%9CJ%E2%80%9D-%E2%80%9CK%E2%80%9D-and-%E2%80%9CL%E2%80%9D/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-11-12T21:30:00+00:00",
+      "tickers": [
+        "STT"
       ]
     },
     {
       "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035489/0001918704-26-035489-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035518/0001918704-26-035518-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-12T18:21:27+00:00",
+      "published": "2026-11-12T21:24:51+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526457892/0001193125-26-457892-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-12T18:19:08+00:00",
+      "title": "Former Goldman Sachs CEO Lloyd Blankfein Issues a Blunt 8-Word Warning After Jensen Huang’s Nvidia Exit",
+      "url": "https://www.inc.com/lucia-auerbach/former-goldman-sachs-ceo-issues-blunt-8-word-warning-after-jensen-huang-exit/91435623",
+      "source": "inc.com",
+      "published": "2026-11-12T21:22:00+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "GOLDMAN SACHS GROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526457890/0001193125-26-457890-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-12T18:18:41+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-advanced-micro-devices-nasdaq-amd-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T18:06:35+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NVIDIA (NASDAQ:NVDA) Given New $280.00 Price Target at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nvidia-nasdaq-nvda-given-new-28000-price-target-at-bank-of-america-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T18:06:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One Software Recognized in KuppingerCole Analysts 2026 Leadership Compass for Data Security Platforms",
-      "url": "http://www.businesswire.com/news/home/20261112410787/en/Capital-One-Software-Recognized-in-KuppingerCole-Analysts-2026-Leadership-Compass-for-Data-Security-Platforms/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+      "title": "News Corp to Participate in the Morgan Stanley European Technology, Media & Telecom Conference",
+      "url": "http://www.businesswire.com/news/home/20261112909165/en/News-Corp-to-Participate-in-the-Morgan-Stanley-European-Technology-Media-Telecom-Conference/?feedref=JjAwJuNHiystnCoBq_hl-fArZ4S48GqIjCUpbTPJDg_ZRHqeOKdIRBEENMvWuUUmOKZXz2bZRmEQ1BwkpoG4oul5C1rkGQ_h4BkZ40LwsoN4gnxBSGiVu_qLafVdV0IiQPT0fDRifTq3nSfcMpa1LQ==",
       "source": "businesswire.com",
-      "published": "2026-11-12T18:00:00+00:00",
+      "published": "2026-11-12T21:15:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CAPITAL ONE FINANCIAL CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/927628/000118166926000009/0001181669-26-000009-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T21:05:32+00:00",
       "tickers": [
         "C",
         "COF"
       ]
     },
     {
-      "title": "Intel (NASDAQ:INTC) Stock Price Target Lowered at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-intel-nasdaq-intc-stock-price-target-lowered-at-bank-of-america-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T17:48:33+00:00",
+      "title": "WD-40 Company to Present at Morgan Stanley Global Consumer & Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261112036856/en/WD-40-Company-to-Present-at-Morgan-Stanley-Global-Consumer-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-TyEgSuhBELnKvaQPCJeXjJsjl-iGIdlj3MGE-XwPk5d7dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSlmbkWMvvoO9AhYYPMEAhQQ==",
+      "source": "businesswire.com",
+      "published": "2026-11-12T21:05:00+00:00",
       "tickers": [
-        "BAC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "ITG (NASDAQ:ITG) Stock Price Target Lowered at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-itg-nasdaq-itg-stock-price-target-lowered-at-bank-of-america-2026-11-12/",
-      "source": "marketbeat.com",
-      "published": "2026-11-12T17:48:32+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Intel (NASDAQ:INTC) Stock Price Target Cut by Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13661390/intel-nasdaqintc-stock-price-target-cut-by-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-12T17:48:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035486/0001918704-26-035486-index.htm",
+      "title": "CITIGROUP INC: Form FWP - Filing under Securities Act Rules 163/433 of free writing prospectuses",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017371/0000950103-26-017371-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-12T17:43:22+00:00",
+      "published": "2026-11-12T21:03:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "STATE STREET CORP: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000749/0000093751-26-000749-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-12T21:03:29+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BofA taps new D.C. region market exec",
+      "url": "https://virginiabusiness.com/bank-of-america-new-dc-region-market-executive-hysmith/",
+      "source": "virginiabusiness.com",
+      "published": "2026-11-12T20:59:33+00:00",
       "tickers": [
         "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Here’s Why Wells Fargo Downgraded DraftKings (DKNG)",
+      "url": "https://www.insidermonkey.com/news/heres-why-wells-fargo-downgraded-draftkings-dkng-1865043/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-12T20:59:20+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     }
