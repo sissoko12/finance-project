@@ -1,288 +1,155 @@
 {
-  "last_updated": "2026-11-13T17:05:12.854562+00:00",
+  "last_updated": "2026-11-13T22:48:14.512529+00:00",
   "headlines": [
     {
-      "title": "4 Closed-End Fund Buys In The Month Of October 2026 | $RSP $DLY $FLC $STEW $JPM",
-      "url": "https://seekingalpha.com/article/4967857-4-closed-end-fund-buys-in-the-month-of-october-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-11-13T16:06:57+00:00",
+      "title": "MORGAN STANLEY: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000332/0000895421-26-000332-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-13T22:03:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MORGAN STANLEY: Form 8-A12B - Registration of securities [Section 12(b)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/895421/000095010326017496/0000950103-26-017496-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-13T21:59:56+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026119832/0001213900-26-119832-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-13T21:58:56+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
       "title": "CITIGROUP INC: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035537/0001918704-26-035537-index.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017486/0000950103-26-017486-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-13T16:00:06+00:00",
+      "published": "2026-11-13T21:36:51+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Trades that dominated 2026 so far, according to BofA",
-      "url": "https://seekingalpha.com/news/4672445-trades-that-dominated-2026-so-far-according-to-bofa?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-      "source": "seekingalpha.com",
-      "published": "2026-11-13T15:51:03+00:00",
+      "title": "Spyglass Pharma (NASDAQ:SGP) Price Target Raised to $45.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-spyglass-pharma-nasdaq-sgp-price-target-raised-to-4500-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:36+00:00",
       "tickers": [
-        "BAC",
         "C"
       ]
     },
     {
-      "title": "AI Fundamentals Intact Despite Nvidia Fallout: Weaver",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/ai-fundamentals-intact-despite-nvidia-fallout-weaver-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-13T15:44:53+00:00",
+      "title": "Devon Energy (NYSE:DVN) Price Target Cut to $60.00 by Analysts at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-devon-energy-nyse-dvn-price-target-cut-to-6000-by-analysts-at-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Corteva (NYSE:CTVA) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-corteva-nyse-ctva-stock-price-target-cut-by-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Telephone and Data Systems (NYSE:TDS) Stock Gets Price Target Cut from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-telephone-and-data-systems-nyse-tds-stock-gets-price-target-cut-from-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:35+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "EquipmentShare.com (NASDAQ:EQPT) Price Target Raised to $17.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-equipmentsharecom-nasdaq-eqpt-price-target-raised-to-1700-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Array Digital Infrastructure (NYSE:AD) Stock Price Target Lowered at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-array-digital-infrastructure-nyse-ad-stock-price-target-lowered-at-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "YETI (NYSE:YETI) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-yeti-nyse-yeti-stock-price-target-cut-by-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:34+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Seadrill (NYSE:SDRL) Price Target Raised to $55.00",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-seadrill-nyse-sdrl-price-target-raised-to-5500-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "ATI (NYSE:ATI) Stock Gets Price Target Increase from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ati-nyse-ati-stock-gets-price-target-increase-from-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:33+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Cisco Systems (NASDAQ:CSCO) Given New $120.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cisco-systems-nasdaq-csco-given-new-12000-price-target-at-citigroup-2026-11-13/",
+      "source": "marketbeat.com",
+      "published": "2026-11-13T21:36:32+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The Risk Morgan Stanley Watches at Seagate (STX)",
+      "url": "https://www.insidermonkey.com/news/the-risk-morgan-stanley-watches-at-seagate-stx-1865529/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-13T21:33:31+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Roblox edges lower as Citi downgrades stock to neutral on growth risks",
-      "url": "https://seekingalpha.com/news/4672399-roblox-edges-lower-as-citi-downgrades-stock-to-neutral-on-growth-risks",
-      "source": "seekingalpha.com",
-      "published": "2026-11-13T15:44:45+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226056340/0001839882-26-056340-index.htm",
+      "title": "JPMORGAN CHASE & CO: Form 4 - Statement of changes in beneficial ownership of securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000122520826008974/0001225208-26-008974-index.htm",
       "source": "sec.gov",
-      "published": "2026-11-13T15:36:17+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year",
-      "url": "https://finance.yahoo.com/video/amd-ceo-lisa-su-on-being-named-yahoo-finance-ceo-of-the-year-153508730.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-13T15:35:08+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "MORGAN STANLEY: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226056332/0001839882-26-056332-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-13T15:28:14+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Applied Materials Drops 6% Despite Beat-and-Raise Quarter as JPMorgan and Goldman Sachs Cut Price Targets; KLA Falls 6%, Lam Research Retreats 5%",
-      "url": "https://247wallst.com/investing/2026/11/13/applied-materials-drops-6-despite-beat-and-raise-quarter-as-jpmorgan-and-goldman-sachs-cut-price-targets-kla-falls-6-lam-research-retreats-5/",
-      "source": "247wallst.com",
-      "published": "2026-11-13T15:16:23+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Cisco Slides 5% Despite Raising AI Outlook to $9 Billion as Citi Says Growth May Have Peaked; Hewlett Packard Enterprise Retreats 5%, Arista Falls 3%",
-      "url": "https://247wallst.com/investing/2026/11/13/cisco-slides-5-despite-raising-ai-outlook-to-9-billion-as-citi-says-growth-may-have-peaked-hewlett-packard-enterprise-retreats-5-arista-falls-3/",
-      "source": "247wallst.com",
-      "published": "2026-11-13T15:13:09+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Is this an appropriate way to fund a 529? What about taxes?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xvaest/is_this_an_appropriate_way_to_fund_a_529_what/",
-      "source": "reddit.com",
-      "published": "2026-11-13T15:12:43+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "RBLX Downgraded by Citigroup -- Rating Changed to Neutral",
-      "url": "https://www.gurufocus.com/news/9198041/rblx-downgraded-by-citigroup-rating-changed-to-neutral",
-      "source": "gurufocus.com",
-      "published": "2026-11-13T15:09:37+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BANK OF AMERICA CORP /DE/: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035528/0001918704-26-035528-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-13T15:08:03+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "NPCE Downgraded by JP Morgan -- Price Target Lowered to $9.00",
-      "url": "https://www.gurufocus.com/news/9198008/npce-downgraded-by-jp-morgan-price-target-lowered-to-900",
-      "source": "gurufocus.com",
-      "published": "2026-11-13T15:07:11+00:00",
+      "published": "2026-11-13T21:32:30+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Broadstone Net Lease (NYSE:BNL) Stock Price Expected to Rise, Truist Financial Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-broadstone-net-lease-nyse-bnl-stock-price-expected-to-rise-truist-financial-analyst-says-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Cisco Systems (NASDAQ:CSCO) Price Target Cut to $127.00 by Analysts at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cisco-systems-nasdaq-csco-price-target-cut-to-12700-by-analysts-at-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Albany International (NYSE:AIN) Stock Gets Price Target Bump from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-albany-international-nyse-ain-stock-gets-price-target-bump-from-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Cardinal Infrastructure Group (NASDAQ:CDNL) Given New $10.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cardinal-infrastructure-group-nasdaq-cdnl-given-new-1000-price-target-at-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:38+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "ITG's (ITG) Buy Rating Reiterated at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-itgs-itg-buy-rating-reiterated-at-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Clearway Energy (NYSE:CWEN) Given New $42.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-clearway-energy-nyse-cwen-given-new-4200-price-target-at-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Enlight Renewable Energy (NASDAQ:ENLT) Stock Price Target Cut by Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-enlight-renewable-energy-nasdaq-enlt-stock-price-target-cut-by-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:37+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for Oklo (NYSE:OKLO) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-oklo-nyse-oklo-stock-price-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Reaffirms Buy Rating for Nebius Group (NASDAQ:NBIS)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-reaffirms-buy-rating-for-nebius-group-nasdaq-nbis-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T15:00:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Roblox (NYSE:RBLX) Downgraded by Citigroup to \"Neutral\"",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-roblox-nyse-rblx-downgraded-by-citigroup-to-neutral-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T14:42:32+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "AMETEK (NYSE:AME) Earns \"Buy\" Rating from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ametek-nyse-ame-earns-buy-rating-from-truist-financial-2026-11-13/",
-      "source": "marketbeat.com",
-      "published": "2026-11-13T14:42:32+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-sp-500-rising-to-8700-next-year-despite-slower-earnings-growth-5025856",
-      "source": "investing.com",
-      "published": "2026-11-13T14:36:39+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "WELLS FARGO & COMPANY/MN: Form SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
-      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000340/0000072971-26-000340-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-13T14:34:18+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMORGAN CHASE & CO: Form 424B2 - Prospectus [Rule 424(b)(2)]",
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035525/0001918704-26-035525-index.htm",
-      "source": "sec.gov",
-      "published": "2026-11-13T14:23:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Too big to fail, too risky to short: BofA on Asia’s stock bailouts",
-      "url": "https://seekingalpha.com/news/4672396-too-big-to-fail-too-risky-to-short-bofa-on-asias-stock-bailouts",
-      "source": "seekingalpha.com",
-      "published": "2026-11-13T14:18:03+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America forecasts Fed rate hikes in December 2026, January and March 2027",
-      "url": "https://cryptobriefing.com/bank-of-america-forecasts-fed-rate-hikes-in-december-2026-january-and-march-2027/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-13T14:09:48+00:00",
+      "title": "Why BofA Calls CoreWeave (CRWV) Funding Needs “Manageable”",
+      "url": "https://www.insidermonkey.com/news/why-bofa-calls-coreweave-crwv-funding-needs-manageable-1865511/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-13T21:30:23+00:00",
       "tickers": [
         "BAC",
         "C"
