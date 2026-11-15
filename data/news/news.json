@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T01:13:46.024375+00:00",
+  "last_updated": "2026-11-15T08:21:14.571314+00:00",
   "headlines": [
     {
       "title": "Is there any point in a Refi on my car",
@@ -8,6 +8,15 @@
       "published": "2026-11-14T23:03:38+00:00",
       "tickers": [
         "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "'An intelligence revolution is upon us. You have to disrupt yourself': Citibank Vice Chairman Viswas Raghavan",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/an-intelligence-revolution-is-upon-us-you-have-to-disrupt-yourself-citibank-vice-chairman-viswas-raghavan/articleshow/135846615.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-14T22:29:47+00:00",
+      "tickers": [
         "C"
       ]
     },
@@ -269,16 +278,6 @@
       "source": "livemint.com",
       "published": "2026-11-14T04:58:42+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Received a Wells Fargo bill for an account I never opened",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1xvt93r/received_a_wells_fargo_bill_for_an_account_i/",
-      "source": "reddit.com",
-      "published": "2026-11-14T04:31:23+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
