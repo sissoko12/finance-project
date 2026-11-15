@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-11-14T21:16:33.257612+00:00",
+  "last_updated": "2026-11-15T01:13:46.024375+00:00",
   "headlines": [
+    {
+      "title": "Is there any point in a Refi on my car",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xwfws9/is_there_any_point_in_a_refi_on_my_car/",
+      "source": "reddit.com",
+      "published": "2026-11-14T23:03:38+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "PHOTOS: Runners take to the streets for Richmond Marathon",
+      "url": "https://www.wric.com/news/local-news/richmond/photos-runners-richmond-marathon/",
+      "source": "wric.com",
+      "published": "2026-11-14T20:27:21+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
     {
       "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
       "url": "https://www.livemint.com/companies/jpmorgan-loses-card-chief-allison-beer-to-external-opportunity-11794685827439.html",
@@ -45,6 +65,15 @@
       "published": "2026-11-14T16:04:51+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "She Moves $500,000 Into Municipal Bonds amid ‘Rare Opportunity’, Expecting Every Dollar of Interest to Stay Tax-Free. The IRS Counts That Interest When It Taxes Her Social Security, Pushing $16,900 More of Her Benefits Into Taxable Income",
+      "url": "https://247wallst.com/personal-finance/social-security/2026/11/14/she-moves-500000-into-municipal-bonds-amid-rare-opportunity-expecting-every-dollar-of-interest-to-stay-tax-free-the-irs-counts-that-interest-when-it-taxes-her-social-security-pushing-16900/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-14T14:46:43+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -126,6 +155,16 @@
       "published": "2026-11-14T10:16:50+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Bank of America's $1.2B Treasury fine sparks investor class-action suit — What to do if you own stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-1-2b-treasury-101500575.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-14T10:15:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
       ]
     },
     {
@@ -241,42 +280,6 @@
       "tickers": [
         "WFC",
         "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase (JPM) Sees 40% Jump In Asia Pacific Alternative Asset Allocations",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-sees-40-042637965.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-14T04:26:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Is Alphabet “the Most Obvious Buy”? Morgan Stanley Sees TPU Sales Jumping to $84 Billion",
-      "url": "https://www.tikr.com/blog/is-alphabet-the-most-obvious-buy-morgan-stanley-sees-tpu-sales-jumping-to-84-billion?ref=yahoofinance&tlnk=yf-261114-xv78r2hc&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-11-14T04:06:32+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Cerebras Quarterly Results Broadly Beat Expectations, Morgan Stanley Raises Earnings and Revenue Forecasts",
-      "url": "https://nai500.com/blog/2026/11/cerebras-quarterly-results-broadly-beat-expectations-morgan-stanley-raises-earnings-and-revenue-forecasts/",
-      "source": "nai500.com",
-      "published": "2026-11-14T03:32:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "SPDR SSgA Global Allocation ETF (NYSEARCA:GAL) Sees Significant Decrease in Short Interest",
-      "url": "https://www.tickerreport.com/banking-finance/13663626/spdr-ssga-global-allocation-etf-nysearcagal-sees-significant-decrease-in-short-interest.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-14T03:01:23+00:00",
-      "tickers": [
-        "STT"
       ]
     }
   ]
