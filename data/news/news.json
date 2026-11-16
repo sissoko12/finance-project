@@ -1,282 +1,279 @@
 {
-  "last_updated": "2026-11-16T07:49:28.245593+00:00",
+  "last_updated": "2026-11-16T18:16:41.409900+00:00",
   "headlines": [
     {
-      "title": "The Tariff Debate: Who Is Really Paying the Bill?",
-      "url": "https://thepeopleseconomist.substack.com/p/the-tariff-debate-who-is-really-paying",
-      "source": "substack.com",
-      "published": "2026-11-16T05:44:27+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "China’s Iron Ore Clout May Cost Australian Miners $8 Billion, Goldman Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-iron-ore-clout-may-cost-australian-miners-8-billion-goldman-says",
-      "source": "bloomberg.com",
-      "published": "2026-11-16T04:36:18+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts Oil Surplus in 2024, Brent (BNO) Prices to Drop",
-      "url": "https://www.gurufocus.com/news/9200921/goldman-sachs-predicts-oil-surplus-in-2024-brent-bno-prices-to-drop",
-      "source": "gurufocus.com",
-      "published": "2026-11-16T04:31:23+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman sounds oil glut alarm, sees Brent at $78",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/goldman-sachs-sees-oil-losing-its-war-fuelled-price-premium-in-2027/articleshow/135872353.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-16T04:23:46+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Preferreds: Series O Now Yields Over ~7% At A Significant Discount To Par | $MS",
-      "url": "https://seekingalpha.com/article/4968455-morgan-stanley-preferreds-series-o-now-yields-over-7-percent-at-discount-to-par",
-      "source": "seekingalpha.com",
-      "published": "2026-11-16T04:11:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Indian Stock Market Poised for Growth, Says Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/9200912/indian-stock-market-poised-for-growth-says-morgan-stanley",
-      "source": "gurufocus.com",
-      "published": "2026-11-16T03:51:22+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs vs. Morgan Stanley: Diverging Views on JPY's Future",
-      "url": "https://www.gurufocus.com/news/9200910/goldman-sachs-vs-morgan-stanley-diverging-views-on-jpys-future",
-      "source": "gurufocus.com",
-      "published": "2026-11-16T03:50:37+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Predicts ‘Sizeable Surplus’ for Oil Market in 2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027",
-      "source": "bloomberg.com",
-      "published": "2026-11-16T03:35:33+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Indian Market Outlook: Sensex Poised for Growth, Says Morgan Stanley",
-      "url": "https://www.gurufocus.com/news/9200909/indian-market-outlook-sensex-poised-for-growth-says-morgan-stanley",
-      "source": "gurufocus.com",
-      "published": "2026-11-16T03:30:13+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "BofA Securities Raised Its Target but Downgraded Victoria’s Secret (VSXY)",
-      "url": "https://www.insidermonkey.com/news/bofa-securities-raised-its-target-but-downgraded-victorias-secret-vsxy-1865960/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-16T03:05:12+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Advises Overweight Global Stocks Amid AI Investment Cycle",
-      "url": "https://www.gurufocus.com/news/9200903/morgan-stanley-advises-overweight-global-stocks-amid-ai-investment-cycle",
-      "source": "gurufocus.com",
-      "published": "2026-11-16T02:31:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley ‘Max Overweight’ Global Stocks on Intact AI Cycle",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
-      "source": "bloomberg.com",
-      "published": "2026-11-16T01:48:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs vs. Morgan Stanley: Diverging Views on JPY Outlook",
-      "url": "https://www.gurufocus.com/news/9200886/goldman-sachs-vs-morgan-stanley-diverging-views-on-jpy-outlook",
-      "source": "gurufocus.com",
-      "published": "2026-11-16T00:52:08+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs says AI stocks have flipped to the short side of momentum",
-      "url": "https://cryptobriefing.com/goldman-sachs-momentum-basket-ai-stocks/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-16T00:29:58+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
-      "source": "bloomberg.com",
-      "published": "2026-11-16T00:18:05+00:00",
-      "tickers": [
-        "GS",
-        "MS"
-      ]
-    },
-    {
-      "title": "Hedge funds fold on the AI trade as retail piles into Nvidia, says Morgan Stanley’s Savone",
-      "url": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-15T21:09:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Man identified in police involved Belt Parkway shooting... 9/11-related death claims hit 10,000... BagelFest takes over Citi Field",
-      "url": "https://www.audacy.com/podcasts/5fabe0b40576cd7fe654f0c86dae13ff/episodes/man_identified_in_police_invol-9016836",
-      "source": "audacy.com",
-      "published": "2026-11-15T20:38:18+00:00",
+      "title": "Swedish textile firms to showcase innovations at India ITME forum",
+      "url": "https://www.fibre2fashion.com/news/textile-news/swedish-textile-firms-to-showcase-innovations-at-india-itme-forum-315046-newsdetails.htm",
+      "source": "fibre2fashion.com",
+      "published": "2026-11-16T17:22:07+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "The PNC Financial Services Group, Inc $PNC Shares Sold by Trillium Asset Management LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13664742/the-pnc-financial-services-group-inc-pnc-shares-sold-by-trillium-asset-management-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-15T20:38:05+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for BeOne Medicines (NASDAQ:ONC) Stock Price",
-      "url": "https://www.tickerreport.com/banking-finance/13664721/morgan-stanley-issues-positive-forecast-for-beone-medicines-nasdaqonc-stock-price.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-15T20:35:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs’ calm 2027 forecast comes with a catch",
-      "url": "https://www.thestreet.com/economy/goldman-sachs-2027-forecast?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-15T20:13:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Every Workday career site has a public JSON API. Here is how to get all its jobs",
-      "url": "https://dev.to/vladyslav_zahorulko_1de73/every-workday-career-site-has-a-public-json-api-here-is-how-to-get-all-its-jobs-4jl0",
-      "source": "dev.to",
-      "published": "2026-11-15T20:02:28+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. (NYSE:C) Stock Rated \"Moderate Buy\" by Sell-Side Analysts",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-citigroup-inc-nyse-c-stock-rated-moderate-buy-by-sell-side-analysts-2026-11-15/",
+      "title": "Top Bank Stocks To Follow Today - November 16th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-follow-today-november-16th-2026-11-16/",
       "source": "marketbeat.com",
-      "published": "2026-11-15T19:44:21+00:00",
+      "published": "2026-11-16T17:15:04+00:00",
       "tickers": [
+        "JPM",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "His Credit Card May Cover a Broken or Stolen Phone, as Long as He Pays His Phone Bill With It",
-      "url": "https://247wallst.com/personal-finance/2026/11/15/his-credit-card-may-cover-a-broken-or-stolen-phone-as-long-as-he-pays-his-phone-bill-with-it/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-11-15T19:36:31+00:00",
+      "title": "Willis Towers Watson Public (NASDAQ:WTW) Stock Price Target Raised at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-willis-towers-watson-public-nasdaq-wtw-stock-price-target-raised-at-morgan-stanley-2026-11-16/",
+      "source": "marketbeat.com",
+      "published": "2026-11-16T17:06:33+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "MS"
       ]
     },
     {
-      "title": "Which Global Real Estate ETF Is the Better Buy: State Street’s RWO or Vanguard’s International VNQI?",
-      "url": "https://www.fool.com/coverage/etfs/2026/11/15/which-global-real-estate-etf-is-the-better-buy-state-street-s-rwo-or-vanguard-s-international-vnqi/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-15T19:32:19+00:00",
+      "title": "Watsco (NYSE:WSO) Stock Gets Price Target Bump from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-watsco-nyse-wso-stock-gets-price-target-bump-from-morgan-stanley-2026-11-16/",
+      "source": "marketbeat.com",
+      "published": "2026-11-16T17:06:33+00:00",
       "tickers": [
-        "STT"
+        "MS"
       ]
     },
     {
-      "title": "Will rising steel prices lift steel stocks? Key growth drivers and input cost risks investors should watch",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/will-rising-steel-prices-lift-steel-stocks-key-growth-drivers-and-input-cost-risks-investors-should-watch/articleshow/135810989.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-15T19:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs 2027 Economic Outlook For Investors",
-      "url": "https://beincrypto.com/goldman-sachs-2027-economic-outlook/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-11-15T19:26:59+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Names 5 Bullish Stocks Amid Market Concerns",
-      "url": "https://beincrypto.com/bank-of-america-safe-haven-stocks/?.tsrc=rss",
-      "source": "beincrypto.com",
-      "published": "2026-11-15T19:03:48+00:00",
+      "title": "Bank of America hires Evercore’s Stapleton to lead activism defense, memo",
+      "url": "https://www.investing.com/news/stock-market-news/bank-of-america-hires-evercores-stapleton-to-lead-activism-defense-memo-5030580",
+      "source": "investing.com",
+      "published": "2026-11-16T17:00:48+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Goldman Sachs Small Cap Growth Fund Q3 2026 Commentary | $GSAHX $GSAJX $GSBAX $GSBDX $GSBEX",
-      "url": "https://seekingalpha.com/article/4968402-goldman-sachs-small-cap-growth-fund-q3-2026-commentary",
-      "source": "seekingalpha.com",
-      "published": "2026-11-15T18:54:00+00:00",
+      "title": "Goldman Sachs reiterates SpaceX stock rating after Starship milestone",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-spacex-stock-rating-after-starship-milestone-93CH-5030574",
+      "source": "investing.com",
+      "published": "2026-11-16T16:56:57+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Morgan Stanley doubles down on SpaceX price target ahead of 2027",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-300-spacex-price-target-ahead-of-2027?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-15T18:33:00+00:00",
+      "title": "W.W. Grainger (NYSE:GWW) Stock Price Target Raised at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-ww-grainger-nyse-gww-stock-price-target-raised-at-morgan-stanley-2026-11-16/",
+      "source": "marketbeat.com",
+      "published": "2026-11-16T16:48:33+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Which Healthcare ETF Is the Better Buy: State Street’s Pharma Fund XPH or iShares’ Biotech Fund IBB?",
-      "url": "https://www.fool.com/coverage/etfs/2026/11/15/which-healthcare-etf-is-the-better-buy-state-street-s-pharma-fund-xph-or-ishares-biotech-fund-ibb/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-15T18:19:54+00:00",
+      "title": "Wells Fargo Is Down This Year, but $1,000 From Three Years Ago Has More Than Doubled, While the S&P 500 Is Up About 71%",
+      "url": "https://247wallst.com/investing/2026/11/16/wells-fargo-is-down-this-year-but-1000-from-three-years-ago-has-more-than-doubled-while-the-sp-500-is-up-about-71/",
+      "source": "247wallst.com",
+      "published": "2026-11-16T16:25:09+00:00",
       "tickers": [
-        "STT"
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Stock Movers: Sandisk, Bank of America, Tyson Foods (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-16/stock-movers-sandisk-bank-of-america-tyson-foods-podcast",
+      "source": "bloomberg.com",
+      "published": "2026-11-16T16:16:47+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MIT-Born VulcanForms Secures $500 Million to Expand Advanced Manufacturing in Massachusetts and Beyond",
+      "url": "https://bostonrealestatetimes.com/mit-born-vulcanforms-secures-500-million-to-expand-advanced-manufacturing-in-massachusetts-and-beyond/",
+      "source": "bostonrealestatetimes.com",
+      "published": "2026-11-16T16:16:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "TWFG Maintained by Morgan Stanley -- Price Target Raised to $32.00",
+      "url": "https://www.gurufocus.com/news/9202057/twfg-maintained-by-morgan-stanley-price-target-raised-to-3200",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:09:25+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "TH Maintained by Morgan Stanley -- Price Target Lowered to $21",
+      "url": "https://www.gurufocus.com/news/9202052/th-maintained-by-morgan-stanley-price-target-lowered-to-21",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:07:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "SMTC Maintained by Morgan Stanley -- Price Target Lowered to $176",
+      "url": "https://www.gurufocus.com/news/9202049/smtc-maintained-by-morgan-stanley-price-target-lowered-to-176",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:06:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "SANA Maintained by Morgan Stanley -- Price Target Raised to $13.00",
+      "url": "https://www.gurufocus.com/news/9202048/sana-maintained-by-morgan-stanley-price-target-raised-to-1300",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:06:15+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "RYAN Maintained by Morgan Stanley -- Price Target Raised to $55",
+      "url": "https://www.gurufocus.com/news/9202046/ryan-maintained-by-morgan-stanley-price-target-raised-to-55",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:05:50+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "ROST Maintains by Morgan Stanley -- Price Target Raised to $235",
+      "url": "https://www.gurufocus.com/news/9202045/rost-maintains-by-morgan-stanley-price-target-raised-to-235",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:05:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Assurant (NYSE:AIZ) Hits New 52-Week High on Analyst Upgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13666411/assurant-nyseaiz-hits-new-52-week-high-on-analyst-upgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-16T16:04:58+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "NVDA Maintained by Morgan Stanley -- Price Target Lowered to $267",
+      "url": "https://www.gurufocus.com/news/9202041/nvda-maintained-by-morgan-stanley-price-target-lowered-to-267",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:04:14+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley sees steady expansion without overheating the labor market into 2027",
+      "url": "https://seekingalpha.com/news/4673114-morgan-stanley-sees-steady-expansion-without-overheating-the-labor-market-into-2027",
+      "source": "seekingalpha.com",
+      "published": "2026-11-16T16:03:32+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MNPR Maintained by Morgan Stanley -- Price Target Raised to $133",
+      "url": "https://www.gurufocus.com/news/9202038/mnpr-maintained-by-morgan-stanley-price-target-raised-to-133",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:03:22+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MLM Maintained by Morgan Stanley -- Price Target Lowered to $590",
+      "url": "https://www.gurufocus.com/news/9202030/mlm-maintained-by-morgan-stanley-price-target-lowered-to-590",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:01:44+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "MRSH Maintained by Morgan Stanley -- Price Target Raised to $215",
+      "url": "https://www.gurufocus.com/news/9202026/mrsh-maintained-by-morgan-stanley-price-target-raised-to-215",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:01:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "LMND Maintained by Morgan Stanley -- Price Target Lowered to $45",
+      "url": "https://www.gurufocus.com/news/9202020/lmnd-maintained-by-morgan-stanley-price-target-lowered-to-45",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T16:00:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "KNSL Maintained by Morgan Stanley -- Price Target Raised to $400",
+      "url": "https://www.gurufocus.com/news/9201967/knsl-maintained-by-morgan-stanley-price-target-raised-to-400",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:52:02+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "KMT Maintained by Morgan Stanley -- Price Target Lowered to $20",
+      "url": "https://www.gurufocus.com/news/9201965/kmt-maintained-by-morgan-stanley-price-target-lowered-to-20",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:51:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "HPQ Maintained by Morgan Stanley -- Price Target Raised to $21.00",
+      "url": "https://www.gurufocus.com/news/9201956/hpq-maintained-by-morgan-stanley-price-target-raised-to-2100",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:50:14+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "HPE Maintains Overweight Rating -- Price Target Lowered to $64.00 by Morgan Stanley",
+      "url": "https://www.gurufocus.com/news/9201952/hpe-maintains-overweight-rating-price-target-lowered-to-6400-by-morgan-stanley",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:48:46+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "HAWK Maintained by Morgan Stanley -- Price Target Raised to $26.00",
+      "url": "https://www.gurufocus.com/news/9201950/hawk-maintained-by-morgan-stanley-price-target-raised-to-2600",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:47:51+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "THG Maintained by Morgan Stanley -- Price Target Raised to $250",
+      "url": "https://www.gurufocus.com/news/9201949/thg-maintained-by-morgan-stanley-price-target-raised-to-250",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:47:21+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "P Maintained by Morgan Stanley -- Price Target Raised to $142",
+      "url": "https://www.gurufocus.com/news/9201947/p-maintained-by-morgan-stanley-price-target-raised-to-142",
+      "source": "gurufocus.com",
+      "published": "2026-11-16T15:46:16+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
