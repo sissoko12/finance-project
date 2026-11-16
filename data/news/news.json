@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-11-15T20:57:10.733230+00:00",
+  "last_updated": "2026-11-16T00:55:08.958280+00:00",
   "headlines": [
+    {
+      "title": "Hedge funds fold on the AI trade as retail piles into Nvidia, says Morgan Stanley’s Savone",
+      "url": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-15T21:09:47+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Man identified in police involved Belt Parkway shooting... 9/11-related death claims hit 10,000... BagelFest takes over Citi Field",
+      "url": "https://www.audacy.com/podcasts/5fabe0b40576cd7fe654f0c86dae13ff/episodes/man_identified_in_police_invol-9016836",
+      "source": "audacy.com",
+      "published": "2026-11-15T20:38:18+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "The PNC Financial Services Group, Inc $PNC Shares Sold by Trillium Asset Management LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13664742/the-pnc-financial-services-group-inc-pnc-shares-sold-by-trillium-asset-management-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-15T20:38:05+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Issues Positive Forecast for BeOne Medicines (NASDAQ:ONC) Stock Price",
+      "url": "https://www.tickerreport.com/banking-finance/13664721/morgan-stanley-issues-positive-forecast-for-beone-medicines-nasdaqonc-stock-price.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-15T20:35:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs’ calm 2027 forecast comes with a catch",
+      "url": "https://www.thestreet.com/economy/goldman-sachs-2027-forecast?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-15T20:13:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Every Workday career site has a public JSON API. Here is how to get all its jobs",
       "url": "https://dev.to/vladyslav_zahorulko_1de73/every-workday-career-site-has-a-public-json-api-here-is-how-to-get-all-its-jobs-4jl0",
@@ -12,12 +58,68 @@
       ]
     },
     {
+      "title": "Citigroup Inc. (NYSE:C) Stock Rated \"Moderate Buy\" by Sell-Side Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-citigroup-inc-nyse-c-stock-rated-moderate-buy-by-sell-side-analysts-2026-11-15/",
+      "source": "marketbeat.com",
+      "published": "2026-11-15T19:44:21+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "His Credit Card May Cover a Broken or Stolen Phone, as Long as He Pays His Phone Bill With It",
+      "url": "https://247wallst.com/personal-finance/2026/11/15/his-credit-card-may-cover-a-broken-or-stolen-phone-as-long-as-he-pays-his-phone-bill-with-it/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-15T19:36:31+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Which Global Real Estate ETF Is the Better Buy: State Street’s RWO or Vanguard’s International VNQI?",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/15/which-global-real-estate-etf-is-the-better-buy-state-street-s-rwo-or-vanguard-s-international-vnqi/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-15T19:32:19+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Goldman Sachs 2027 Economic Outlook For Investors",
+      "url": "https://beincrypto.com/goldman-sachs-2027-economic-outlook/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-11-15T19:26:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Bank of America Names 5 Bullish Stocks Amid Market Concerns",
+      "url": "https://beincrypto.com/bank-of-america-safe-haven-stocks/?.tsrc=rss",
+      "source": "beincrypto.com",
+      "published": "2026-11-15T19:03:48+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
       "title": "Goldman Sachs Small Cap Growth Fund Q3 2026 Commentary | $GSAHX $GSAJX $GSBAX $GSBDX $GSBEX",
       "url": "https://seekingalpha.com/article/4968402-goldman-sachs-small-cap-growth-fund-q3-2026-commentary",
       "source": "seekingalpha.com",
       "published": "2026-11-15T18:54:00+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley doubles down on SpaceX price target ahead of 2027",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-300-spacex-price-target-ahead-of-2027?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-15T18:33:00+00:00",
+      "tickers": [
+        "MS"
       ]
     },
     {
@@ -135,6 +237,15 @@
       ]
     },
     {
+      "title": "New York Has 2,590 SEC-Registered Investment Advisers, the Most of Any State. North Dakota and Alaska Have 9 Each",
+      "url": "https://247wallst.com/personal-finance/2026/11/15/new-york-has-2590-sec-registered-investment-advisers-the-most-of-any-state-north-dakota-and-alaska-have-9-each/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-15T16:38:30+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
       "title": "ODDITY Tech (NASDAQ:ODD) Stock Bumped Down to Hold by Zacks Research",
       "url": "https://www.tickerreport.com/banking-finance/13664074/oddity-tech-nasdaqodd-stock-bumped-down-to-hold-by-zacks-research.html",
       "source": "tickerreport.com",
@@ -154,7 +265,7 @@
     },
     {
       "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins?.tsrc=rss",
       "source": "decrypt.co",
       "published": "2026-11-15T16:01:02+00:00",
       "tickers": [
@@ -170,121 +281,6 @@
       "tickers": [
         "BAC",
         "C"
-      ]
-    },
-    {
-      "title": "Citigroup Inc. $C Shares Sold by Danske Bank A S",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-sold-by-danske-bank-a-s-2026-11-15/",
-      "source": "marketbeat.com",
-      "published": "2026-11-15T16:00:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank of America Corporation $BAC Stock Position Increased by Danske Bank A S",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stock-position-increased-by-danske-bank-a-s-2026-11-15/",
-      "source": "marketbeat.com",
-      "published": "2026-11-15T16:00:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
-      "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-15T15:55:58+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Which Real Estate ETF Is the Better Buy: State Street’s REIT Fund RWR or Global Fund RWO?",
-      "url": "https://www.fool.com/coverage/etfs/2026/11/15/which-real-estate-etf-is-the-better-buy-state-street-s-reit-fund-rwr-or-global-fund-rwo/?source=iedfolrf0000001",
-      "source": "fool.com",
-      "published": "2026-11-15T15:55:05+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Capital One Financial Corporation (NYSE:COF) Stock Has Consensus Target Price of $256.50",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-capital-one-financial-corporation-nyse-cof-stock-has-consensus-target-price-of-25650-2026-11-15/",
-      "source": "marketbeat.com",
-      "published": "2026-11-15T15:44:20+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Truist Financial Corporation (NYSE:TFC) Stock Rated \"Hold\" by Sell-Side Analysts",
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-truist-financial-corporation-nyse-tfc-stock-rated-hold-by-sell-side-analysts-2026-11-15/",
-      "source": "marketbeat.com",
-      "published": "2026-11-15T15:44:19+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "ITG (NASDAQ:ITG) Stock Gets Price Target Cut from Bank of America",
-      "url": "https://www.tickerreport.com/banking-finance/13663972/itg-nasdaqitg-stock-gets-price-target-cut-from-bank-of-america.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-15T15:20:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Capital One To Qatar Airways Privilege Club 15% Conversion Promotion Until December 14, 2026 (+ Flying Blue Until November 30)",
-      "url": "https://loyaltylobby.com/2026/11/15/capital-one-to-qatar-airways-privilege-club-15-conversion-promotion-until-december-14-2026-flying-blue-until-november-30/?omhide=true",
-      "source": "loyaltylobby.com",
-      "published": "2026-11-15T12:54:39+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Capital One retail bank president Celia Karam sells $415,643 in stock",
-      "url": "https://www.investing.com/news/insider-trading-news/capital-one-retail-bank-president-celia-karam-sells-415643-in-stock-93CH-5027901",
-      "source": "investing.com",
-      "published": "2026-11-15T12:31:51+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "From Goldman Sachs to Citadel, see 10 years of Wall Street rising stars who made their mark",
-      "url": "https://www.businessinsider.com/business-insider-past-rising-stars-of-wall-street-lisits",
-      "source": "businessinsider.com",
-      "published": "2026-11-15T10:33:02+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Sued by Investors Who Claim Bank Hid Anti-Money-Laundering Failures Before Over $1,210,000,000 in Penalties",
-      "url": "https://dailyhodl.com/2026/11/15/bank-of-america-sued-by-investors-who-claim-bank-hid-anti-money-laundering-failures-before-over-1210000000-in-penalties/",
-      "source": "dailyhodl.com",
-      "published": "2026-11-15T10:15:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Consolidating Multi-Store Shopify CSV Exports Without Breaking Relational Order Data",
-      "url": "https://dev.to/datasort/consolidating-multi-store-shopify-csv-exports-without-breaking-relational-order-data-il4",
-      "source": "dev.to",
-      "published": "2026-11-15T09:23:05+00:00",
-      "tickers": [
-        "USB"
       ]
     }
   ]
