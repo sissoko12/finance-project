@@ -1,305 +1,280 @@
 {
-  "last_updated": "2026-11-17T01:59:41.354042+00:00",
+  "last_updated": "2026-11-17T10:35:12.259493+00:00",
   "headlines": [
     {
-      "title": "Tracking Berkshire Hathaway Portfolio - Q3 2026 Update | $ITOCF $MSBHF $MITSF $BYDDY $BAC",
-      "url": "https://seekingalpha.com/article/4968848-tracking-berkshire-hathaway-portfolio-q3-2026-update",
+      "title": "Turkish Stocks Raised to Overweight at JPMorgan on Rebound Bet",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/turkish-stocks-raised-to-overweight-at-jpmorgan-on-rebound-bet",
+      "source": "bloomberg.com",
+      "published": "2026-11-17T08:26:44+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "AP Business SummaryBrief at 3:05 a.m. EST",
+      "url": "https://www.newspressnow.com/news/national_news/business/ap-business-summarybrief-at-3-05-a-m-est/article_1476c3a4-1ae0-5a1b-8ba0-7ff74e893a21.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-17T08:05:15+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "VF Corporation Participates in a Fireside Chat at J.P. Morgan’s 8th Annual Global Luxury & Brands Conference",
+      "url": "http://www.businesswire.com/news/home/20261117543394/en/VF%C2%A0Corporation-Participates-in-a-Fireside-Chat-at-J.P.-Morgan%E2%80%99s-8th-Annual-Global-Luxury-Brands-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-11-17T08:00:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wells Fargo reports 103% jump in BlackRock Bitcoin ETF holdings to $2.35B",
+      "url": "https://crypto.news/wells-fargo-blackrock-bitcoin-etf-holdings-q3/",
+      "source": "crypto.news",
+      "published": "2026-11-17T07:53:05+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Navy Federal App Not Working? Users Report Login Problems Amid US Bank Outages",
+      "url": "https://www.ibtimes.sg/navy-federal-app-not-working-users-report-login-problems-amid-us-bank-outages-96309",
+      "source": "ibtimes.sg",
+      "published": "2026-11-17T07:50:04+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "AP Business SummaryBrief at 2:49 a.m. EST",
+      "url": "https://www.newspressnow.com/news/national_news/business/ap-business-summarybrief-at-2-49-a-m-est/article_1476c3a4-1ae0-5a1b-8ba0-7ff74e893a21.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-17T07:49:29+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "China APEC - From left, Chairman of Bank of China Ge Haijiao, Head of Citi ...",
+      "url": "https://www.idahopress.com/news/world/china-apec/image_80cf0880-3352-54ae-8284-b681d18bbff6.html",
+      "source": "idahopress.com",
+      "published": "2026-11-17T07:47:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America Corporation (NYSE:BAC) Stock Now Rated \"Moderate Buy\" by Sell-Side Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-bank-of-america-corporation-nyse-bac-stock-now-rated-moderate-buy-by-sell-side-analysts-2026-11-17/",
+      "source": "marketbeat.com",
+      "published": "2026-11-17T07:44:19+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley downgrades Moncler to \"underweight\", cuts price target to €39",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-downgrades-moncler-to-underweight-cuts-price-target-to-39-5031862",
+      "source": "investing.com",
+      "published": "2026-11-17T07:40:05+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Chase bank outage November 16: what failed, Zelle and late fees",
+      "url": "https://applescoop.org/story/chase-bank-outage-november-16-2026-zelle-late-fees",
+      "source": "applescoop.org",
+      "published": "2026-11-17T07:24:08+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "China APEC - Head of Citi International Ernesto Torres Cantu speaks at the ...",
+      "url": "https://www.idahostatejournal.com/news/world/china-apec/image_a13a745c-752f-5623-a5a4-8b73def7dea4.html",
+      "source": "idahostatejournal.com",
+      "published": "2026-11-17T07:10:27+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup boosting global corporate banking headcount, top banker says",
+      "url": "https://www.investing.com/news/stock-market-news/citigroup-boosting-global-corporate-banking-headcount-top-banker-says-5031818",
+      "source": "investing.com",
+      "published": "2026-11-17T07:06:20+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "US Deputy Defense Secretary Directs Lockheed and RTX to Engage Goldman Sachs Banker Amid ...",
+      "url": "https://www.gurufocus.com/news/9204386/us-deputy-defense-secretary-directs-lockheed-and-rtx-to-engage-goldman-sachs-banker-amid-pentagon-contracts-gs",
+      "source": "gurufocus.com",
+      "published": "2026-11-17T06:57:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs bullish on India, Hong Kong shares in 2027",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-bullish-on-india-hong-kong-shares-in-2027-5031795",
+      "source": "investing.com",
+      "published": "2026-11-17T06:54:47+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Box (BOX) and Navan Lead Citi's Updated Software Stock Picks",
+      "url": "https://www.gurufocus.com/news/9204379/box-box-and-navan-lead-citis-updated-software-stock-picks",
+      "source": "gurufocus.com",
+      "published": "2026-11-17T06:53:58+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Maintains Buy Rating on SpaceX (SPAC)",
+      "url": "https://www.gurufocus.com/news/9204373/goldman-sachs-maintains-buy-rating-on-spacex-spac",
+      "source": "gurufocus.com",
+      "published": "2026-11-17T06:50:23+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "AI Features Move to Paid Model, Zoom’s Growth Center Expected to Rise",
+      "url": "https://nai500.com/blog/2026/11/ai-features-move-to-paid-model-zooms-growth-center-expected-to-rise/",
+      "source": "nai500.com",
+      "published": "2026-11-17T06:44:11+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs starts SBM Offshore at Buy, sees 25% upside on deepwater wave",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-starts-sbm-offshore-at-buy-sees-25-upside-on-deepwater-wave-5031773",
+      "source": "investing.com",
+      "published": "2026-11-17T06:35:12+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs banker landed Pentagon deal work after official's push, report says",
+      "url": "https://seekingalpha.com/news/4673443-goldman-sachs-banker-landed-pentagon-deal-work-after-officials-push-report-says",
       "source": "seekingalpha.com",
-      "published": "2026-11-17T01:01:28+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "7 Major Banks Reveal XRP ETF Holdings in Latest SEC Filings",
-      "url": "https://news.bitcoin.com/featured/7-major-banks-reveal-xrp-etf-holdings-latest-sec-filings/",
-      "source": "bitcoin.com",
-      "published": "2026-11-17T00:45:34+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Pentagon deputy steered defense contract deals to his Goldman banker",
-      "url": "https://thebrunswicknews.com/news/business/pentagon-deputy-steered-defense-contract-deals-to-his-goldman-banker/article_14b0b793-d54b-5d5b-9a5b-0f63d877bb79.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-11-17T00:39:00+00:00",
+      "published": "2026-11-17T06:15:58+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks",
-      "url": "https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "source": "slashdot.org",
-      "published": "2026-11-17T00:00:00+00:00",
+      "title": "Navy Federal outage strikes after Microsoft, Wells Fargo, Bank of America, United Airlines",
+      "url": "https://www.neowin.net/news/navy-federal-outage-strikes-after-microsoft-wells-fargo-bank-of-america-united-airlines/?utm_source=rss",
+      "source": "neowin.net",
+      "published": "2026-11-17T05:54:54+00:00",
+      "tickers": [
+        "BAC",
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "ETtech Explainer: Major US banks face online disruption; here’s the lowdown",
+      "url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-major-us-banks-face-online-disruption-heres-the-lowdown/articleshow/135912218.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-17T05:39:07+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Cramer's lightning round: Wells Fargo 'is incredibly cheap'",
-      "url": "https://www.cnbc.com/2026/11/16/cramers-lightning-round-wells-fargo-is-incredibly-cheap.html",
-      "source": "cnbc.com",
-      "published": "2026-11-16T23:55:01+00:00",
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "source": "coindesk.com",
+      "published": "2026-11-17T05:37:23+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Berkshire Hathaway bought and sold these stocks during Warren Buffett's final weeks as chairman",
-      "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-portfolio-retirement-lennar-verisign-delta-2026-11",
-      "source": "businessinsider.com",
-      "published": "2026-11-16T23:53:21+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "What to know about the online banking delays affecting major US banks",
-      "url": "https://www.bangordailynews.com/2026/11/16/nation/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/",
-      "source": "bangordailynews.com",
-      "published": "2026-11-16T23:28:05+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Warren Buffett’s Berkshire Hathaway cuts stakes in Bank of American, Capital One",
-      "url": "https://nypost.com/2026/11/16/business/berkshire-hathaway-cuts-stakes-in-bank-of-american-capital-one/",
-      "source": "nypost.com",
-      "published": "2026-11-16T23:17:20+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Customers report service outages at major US banks",
-      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.co.uk",
-      "published": "2026-11-16T23:15:21+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Berkshire trims Bank of America, Capital One stakes, adds to Delta investment",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-trims-bank-of-america-capital-one-stakes-adds-to-delta-investment-5031211",
+      "title": "Citi’s software stock picks: AI upside and a new contender enters the spotlight",
+      "url": "https://www.investing.com/news/stock-market-news/citis-software-stock-picks-ai-upside-and-a-new-contender-enters-the-spotlight-5031678",
       "source": "investing.com",
-      "published": "2026-11-16T23:00:28+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Citigroup Targets $5 Trillion in Wealth From Rival Banks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-targets-5-trillion-in-wealth-from-rival-banks",
-      "source": "bloomberg.com",
-      "published": "2026-11-16T23:00:00+00:00",
+      "published": "2026-11-17T05:35:38+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Are US Banks Under Cyberattack? Thousands Report Outages at Chase, Bank of America and Wells Fargo",
-      "url": "https://www.ibtimes.co.uk/us-bank-outages-chase-software-bug-cyberattack-fears-1832680",
-      "source": "ibtimes.co.uk",
-      "published": "2026-11-16T22:55:50+00:00",
+      "title": "BNY Mellon Small/Mid Cap Growth Fund Q3 2026 Commentary | $DBMAX $SDSCX $DBMZX $DBMYX $DBMCX",
+      "url": "https://seekingalpha.com/article/4968904-bny-mellon-smallmid-cap-growth-fund-q3-2026-commentary",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T05:35:00+00:00",
       "tickers": [
-        "BAC",
-        "WFC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Wells Fargo customers use the ATM at a bank branch on Aug. 8, 2023, in San Bruno, California.",
-      "url": "https://thebrunswicknews.com/wells-fargo-customers-use-the-atm-at-a-bank-branch-on-aug-8-2023-in/image_4c9d1d24-8df5-5dbb-ae71-2ff6ea1bde4f.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-11-16T22:52:00+00:00",
+      "title": "Figment to Support Staking Through BNY’s Digital Asset Custody Platform",
+      "url": "https://www.newsbtc.com/business/figment-bny-digital-asset-custody-institutional-staking/",
+      "source": "newsbtc.com",
+      "published": "2026-11-17T05:00:00+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Major bank outages include Bank of America and Wells Fargo",
-      "url": "https://thebrunswicknews.com/major-bank-outages-include-bank-of-america-and-wells-fargo/article_419b6b6d-8162-522a-a36f-5645f1cdb10d.html",
-      "source": "thebrunswicknews.com",
-      "published": "2026-11-16T22:52:00+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 2.3% – Here’s What Happened",
-      "url": "https://www.tickerreport.com/banking-finance/13666745/jpmorgan-chase-co-nysejpm-stock-price-down-2-3-heres-what-happened.html",
+      "title": "Goldman Sachs Ultra Short Municipal Income ETF (NYSEARCA:GUMI) Stock Short Interest Drops 48.7%",
+      "url": "https://www.tickerreport.com/banking-finance/13666957/goldman-sachs-ultra-short-municipal-income-etf-nysearcagumi-stock-short-interest-drops-48-7.html",
       "source": "tickerreport.com",
-      "published": "2026-11-16T22:46:54+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Crocs, Inc. to Attend BNP Paribas Outdoor & Sports Conference and Present at The Morgan Stanley Global Consumer & Retail Conference",
-      "url": "https://www.prnewswire.com/news-releases/crocs-inc-to-attend-bnp-paribas-outdoor--sports-conference-and-present-at-the-morgan-stanley-global-consumer--retail-conference-302941129.html",
-      "source": "prnewswire.com",
-      "published": "2026-11-16T22:46:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 2.3% - Should You Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-price-down-23-should-you-sell-2026-11-16/",
-      "source": "marketbeat.com",
-      "published": "2026-11-16T22:41:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Bank of America (NYSE:BAC) Stock Falls 1.8% - Should You Sell?",
-      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-falls-18-should-you-sell-2026-11-16/",
-      "source": "marketbeat.com",
-      "published": "2026-11-16T22:40:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Sees S&P 500 at 8,200 By End of 2027 as Profits Slow",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/wells-fargo-sees-s-p-500-at-8-200-by-end-of-2027-as-profits-slow",
-      "source": "bloomberg.com",
-      "published": "2026-11-16T22:32:15+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Outages Impact Chase, Bank of America, Wells Fargo, US Bank, and More",
-      "url": "https://www.webpronews.com/outages-impact-chase-bank-of-america-wells-fargo-us-bank-and-more/",
-      "source": "webpronews.com",
-      "published": "2026-11-16T22:23:38+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "WFC",
-        "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "Warren Buffett’s Berkshire Just Sold More of One of Its Five Biggest Stocks. 57.8 Million Shares Are Gone Since March",
-      "url": "https://247wallst.com/investing/2026/11/16/warren-buffetts-berkshire-just-sold-more-of-one-of-its-five-biggest-stocks-57-8-million-shares-are-gone-since-march/",
-      "source": "247wallst.com",
-      "published": "2026-11-16T22:23:00+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "source": "cnbc.com",
-      "published": "2026-11-16T22:22:52+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Berkshire Boosts Delta Stake to Almost 10% of Outstanding Shares",
-      "url": "https://www.livemint.com/market/berkshire-boosts-delta-stake-to-almost-10-of-outstanding-shares-11794867496247.html",
-      "source": "livemint.com",
-      "published": "2026-11-16T22:18:15+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Chase software bug slows transactions, triggers outage reports at Bank of America and other major banks",
-      "url": "https://www.bizjournals.com/charlotte/news/2026/11/16/chase-tech-glitch-bank-bank-of-america-truist.html?ana=brss_1543",
-      "source": "bizjournals.com",
-      "published": "2026-11-16T22:10:03+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Morgan Stanley resets S&P 500 target for 2027 as tech stocks slide",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-raises-sp500-2027-target?.tsrc=rss",
-      "source": "thestreet.com",
-      "published": "2026-11-16T22:03:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Customers Report Problems Accessing Online Accounts at Major Banks",
-      "url": "https://www.pymnts.com/news/banking/2026/customers-report-problems-accessing-online-accounts-at-chase-bank-of-america-and-wells-fargo/",
-      "source": "pymnts.com",
-      "published": "2026-11-16T22:01:32+00:00",
-      "tickers": [
-        "BAC",
-        "WFC",
-        "C",
-        "USB"
-      ]
-    },
-    {
-      "title": "Central bank buying to support higher gold price in 2027: Goldman",
-      "url": "https://mining.com.au/central-bank-buying-to-support-higher-gold-price-in-2027-goldman/",
-      "source": "mining.com.au",
-      "published": "2026-11-16T21:58:39+00:00",
+      "published": "2026-11-17T04:33:54+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Berkshire lowers Bank of America, Capital One stakes",
-      "url": "https://www.investing.com/news/stock-market-news/berkshire-lowers-bank-of-america-capital-one-stakes-5031074",
-      "source": "investing.com",
-      "published": "2026-11-16T21:54:35+00:00",
-      "tickers": [
-        "BAC",
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Lear to Participate in the Goldman Sachs 18th Annual Industrials & Autos Week",
-      "url": "https://www.prnewswire.com/news-releases/lear-to-participate-in-the-goldman-sachs-18th-annual-industrials--autos-week-302941072.html",
-      "source": "prnewswire.com",
-      "published": "2026-11-16T21:47:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "source": "cnbc.com",
-      "published": "2026-11-16T21:42:50+00:00",
+      "title": "AP Business SummaryBrief at 11:19 p.m. EST",
+      "url": "https://www.newspressnow.com/news/national_news/business/ap-business-summarybrief-at-11-19-p-m-est/article_131ad44e-b6fa-54b9-b242-04a2c375baec.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-17T04:19:27+00:00",
       "tickers": [
         "JPM"
+      ]
+    },
+    {
+      "title": "Invesco Bitcoin ETF Adds BNY Mellon Custody While Keeping Coinbase Arrangement",
+      "url": "https://www.newsbtc.com/bitcoin-news/invesco-galaxy-bitcoin-etf-bny-mellon-custody-november-2026/",
+      "source": "newsbtc.com",
+      "published": "2026-11-17T04:00:00+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "A JPMorgan Chase software bug slowed transactions, with delays spilling to other banks",
+      "url": "https://qz.com/jpmorgan-chase-software-bug-slows-transactions-banks-111626",
+      "source": "qz.com",
+      "published": "2026-11-17T03:20:19+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Possible to catch someone who stole my credit card info? Will they even face any conseuqences?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1xy982i/possible_to_catch_someone_who_stole_my_credit/",
+      "source": "reddit.com",
+      "published": "2026-11-17T02:54:59+00:00",
+      "tickers": [
+        "C",
+        "PNC"
       ]
     }
   ]
