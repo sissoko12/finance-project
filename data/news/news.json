@@ -1,286 +1,283 @@
 {
-  "last_updated": "2026-11-17T19:43:40.656625+00:00",
+  "last_updated": "2026-11-18T02:17:56.142855+00:00",
   "headlines": [
     {
-      "title": "Morgan Stanley-led group gets $1.3B loan from private credit for Fullscript deal - report",
-      "url": "https://seekingalpha.com/news/4673833-morgan-stanley-led-group-gets-13b-loan-from-private-credit-for-fullscript-deal---report",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T19:15:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Nasdaq, Inc. (NDAQ) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $NDAQ",
-      "url": "https://seekingalpha.com/article/4969137-nasdaq-inc-ndaq-presents-at-j-p-morgan-ultimate-services-investor-conference-2026-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T19:12:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Inter & Co. Inc. (NASDAQ:INTR) Price Target Cut to $7.50 by Analysts at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-inter-co-inc-nasdaq-intr-price-target-cut-to-750-by-analysts-at-jpmorgan-chase-co-2026-11-17/",
-      "source": "marketbeat.com",
-      "published": "2026-11-17T19:12:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Xenon Pharmaceuticals (NASDAQ:XENE) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-xenon-pharmaceuticals-nasdaq-xene-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-11-17/",
-      "source": "marketbeat.com",
-      "published": "2026-11-17T19:12:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CBRE Group, Inc. (CBRE) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $CBRE",
-      "url": "https://seekingalpha.com/article/4969221-cbre-group-inc-cbre-presents-at-j-p-morgan-ultimate-services-investor-conference-2026",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T19:02:59+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Nextpower (NASDAQ:NXT) Stock Price Target Lowered at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nextpower-nasdaq-nxt-stock-price-target-lowered-at-jpmorgan-chase-co-2026-11-17/",
-      "source": "marketbeat.com",
-      "published": "2026-11-17T18:54:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Definium Therapeutics (NASDAQ:DFTX) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-definium-therapeutics-nasdaq-dftx-stock-2026-11-17/",
-      "source": "marketbeat.com",
-      "published": "2026-11-17T18:54:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Aramark (NYSE:ARMK) Stock Price Target Lowered at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-aramark-nyse-armk-stock-price-target-lowered-at-jpmorgan-chase-co-2026-11-17/",
-      "source": "marketbeat.com",
-      "published": "2026-11-17T18:54:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for US Foods (NYSE:USFD) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-us-foods-nyse-usfd-stock-price-2026-11-17/",
-      "source": "marketbeat.com",
-      "published": "2026-11-17T18:54:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Equifax Inc. (EFX) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $EFX",
-      "url": "https://seekingalpha.com/article/4969183-equifax-inc-efx-presents-at-j-p-morgan-ultimate-services-investor-conference-2026-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T18:53:20+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TransUnion (TRU) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $TRU",
-      "url": "https://seekingalpha.com/article/4969163-transunion-tru-presents-at-j-p-morgan-ultimate-services-investor-conference-2026-transcript",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T18:53:07+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "State Street Corporation (STT) Stock: Drops 2.31% Despite New Equity Swaps Offering",
-      "url": "https://blockonomi.com/state-street-corporation-stt-stock-drops-2-31-despite-new-equity-swaps-offering/",
-      "source": "blockonomi.com",
-      "published": "2026-11-17T18:31:43+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "What to know about the online banking delays that affected major US banks",
-      "url": "https://www.idahopress.com/ap_news/us/what-to-know-about-the-online-banking-delays-that-affected-major-us-banks/article_1480f6e8-6ac5-5afb-a975-1a161f4e719e.html",
+      "title": "Rubio says 'zero' information that US outages are linked or caused by a malign actor",
+      "url": "https://www.idahopress.com/ap_news/us/rubio-says-zero-information-that-us-outages-are-linked-or-caused-by-a-malign-actor/article_1f05afa6-4bbe-5700-bedc-12d625b54152.html",
       "source": "idahopress.com",
-      "published": "2026-11-17T18:29:30+00:00",
+      "published": "2026-11-18T01:21:11+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Bank of America Stocks Move Lower as Berkshire Cuts Stake Another 5.7%",
-      "url": "https://www.gurufocus.com/news/9205500/bank-of-america-stocks-move-lower-as-berkshire-cuts-stake-another-57",
-      "source": "gurufocus.com",
-      "published": "2026-11-17T18:27:19+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase software bug slowed banking services for some customers",
-      "url": "https://qz.com/jpmorgan-chase-software-bug-slowed-banking-transactions-111726",
-      "source": "qz.com",
-      "published": "2026-11-17T18:20:15+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "How AI-Ready Infrastructure Simplifies Game Day Operations at Capital One Arena",
-      "url": "https://www.youtube.com/shorts/JA5nqW9qx84",
-      "source": "youtube.com",
-      "published": "2026-11-17T18:02:08+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "How Always-On Infrastructure Powers Every Fan Moment at Capital One Arena",
-      "url": "https://www.youtube.com/watch?v=1ipZ1lhimi4",
-      "source": "youtube.com",
-      "published": "2026-11-17T18:00:17+00:00",
-      "tickers": [
-        "C",
-        "COF"
-      ]
-    },
-    {
-      "title": "Bank of America survey: 52% of fund managers expect an AI hyperscaler to cut spending",
-      "url": "https://cryptobriefing.com/bofa-fund-managers-ai-hyperscaler-capex-cuts/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-17T17:53:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Iron Mountain Incorporated (IRM) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $IRM",
-      "url": "https://seekingalpha.com/article/4969162-iron-mountain-incorporated-irm-presents-at-j-p-morgan-ultimate-services-investor-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T17:53:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "TransUnion at J.P. Morgan 2026 Ultimate Services Investor Conference: oneTru push",
-      "url": "https://www.investing.com/news/transcripts/transunion-at-jp-morgan-2026-ultimate-services-investor-conference-onetru-push-93CH-5033735",
-      "source": "investing.com",
-      "published": "2026-11-17T17:52:43+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Arm Holdings rises 4% after Morgan Stanley upgrades earnings forecast",
-      "url": "https://cryptobriefing.com/arm-holdings-rises-morgan-stanley-forecast/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-17T17:50:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Chase Bank Says No Evidence of Cyberattack After Banking Disruption",
-      "url": "https://www.tmz.com/2026/11/17/banks-respond-recent-outages/",
-      "source": "tmz.com",
-      "published": "2026-11-17T17:45:52+00:00",
-      "tickers": [
-        "JPM",
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BNY and Microsoft complete industry-first trade as AI agents negotiate Treasury bill deal",
-      "url": "https://www.bizjournals.com/pittsburgh/news/2026/11/17/bny-microsoft-ai-treasury.html?ana=brss_1543",
+      "title": "BofA rearranges upper ranks of business banking leadership in DFW",
+      "url": "https://www.bizjournals.com/fortworth/news/2026/11/17/bofa-fort-worth-qamruddin-healthcare-growth.html?ana=brss_1543",
       "source": "bizjournals.com",
-      "published": "2026-11-17T17:30:16+00:00",
+      "published": "2026-11-18T00:41:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Artisan Partners Limited Partnership Trims Henry Schein Inc (HSIC) Stake -- Shares Look 6% ...",
+      "url": "https://www.gurufocus.com/news/9206410/artisan-partners-limited-partnership-trims-henry-schein-inc-hsic-stake-shares-look-6-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-18T00:40:39+00:00",
       "tickers": [
         "BK"
       ]
     },
     {
-      "title": "Wells Fargo’s Reported Bitcoin ETF Shares More Than Double",
-      "url": "https://blog.mexc.com/trends/2026-11-17-wells-fargo-bitcoin-etf-holdings-en/",
-      "source": "mexc.com",
-      "published": "2026-11-17T17:16:44+00:00",
+      "title": "Artisan Partners Limited Partnership Trims Twist Bioscience Corp (TWST) Stake -- Shares Look ...",
+      "url": "https://www.gurufocus.com/news/9206408/artisan-partners-limited-partnership-trims-twist-bioscience-corp-twst-stake-shares-look-101-overvalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-18T00:40:13+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Wells Fargo More Than Doubles Blackrock Bitcoin ETF Holdings to $2.35B",
-      "url": "https://news.bitcoin.com/featured/wells-fargo-doubles-blackrock-bitcoin-etf-holdings-2-35-billion/",
-      "source": "bitcoin.com",
-      "published": "2026-11-17T17:15:50+00:00",
+      "title": "Artisan Partners Limited Partnership Adds to iRhythm Holdings Inc (IRTC) Stake -- Stock Trades ...",
+      "url": "https://www.gurufocus.com/news/9206407/artisan-partners-limited-partnership-adds-to-irhythm-holdings-inc-irtc-stake-stock-trades-41-below-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-18T00:39:43+00:00",
       "tickers": [
-        "WFC",
-        "C"
+        "BK"
       ]
     },
     {
-      "title": "Goldman Sachs forecasts $545 billion in AI project finance for 2027",
-      "url": "https://cryptobriefing.com/goldman-sachs-545b-ai-project-finance-2027/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-17T17:15:06+00:00",
+      "title": "Artisan Partners Limited Partnership Trims Kornit Digital Ltd (KRNT) Stake -- Shares Look 15% ...",
+      "url": "https://www.gurufocus.com/news/9206406/artisan-partners-limited-partnership-trims-kornit-digital-ltd-krnt-stake-shares-look-15-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-18T00:39:16+00:00",
       "tickers": [
-        "GS"
+        "BK"
       ]
     },
     {
-      "title": "Top Bank Stocks To Research - November 17th",
-      "url": "https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-research-november-17th-2026-11-17/",
+      "title": "Artisan Partners Limited Partnership Trims Radware Ltd (RDWR) Stake -- Shares Look 13% ...",
+      "url": "https://www.gurufocus.com/news/9206404/artisan-partners-limited-partnership-trims-radware-ltd-rdwr-stake-shares-look-13-overvalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-18T00:38:50+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Artisan Partners Limited Partnership Trims Veracyte Inc (VCYT) Stake -- Shares Look 40% ...",
+      "url": "https://www.gurufocus.com/news/9206403/artisan-partners-limited-partnership-trims-veracyte-inc-vcyt-stake-shares-look-40-undervalued-on-gf-value",
+      "source": "gurufocus.com",
+      "published": "2026-11-18T00:38:21+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Bank of America Sees Unusually High Options Volume (NYSE:BAC)",
+      "url": "https://www.marketbeat.com/instant-alerts/options-bank-of-america-sees-unusually-high-options-volume-nyse-bac-2026-11-17/",
       "source": "marketbeat.com",
-      "published": "2026-11-17T17:14:09+00:00",
+      "published": "2026-11-18T00:20:54+00:00",
       "tickers": [
-        "JPM",
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Equifax at J.P. Morgan conference: growth leans on data, AI",
-      "url": "https://www.investing.com/news/transcripts/equifax-at-jp-morgan-conference-growth-leans-on-data-ai-93CH-5033653",
-      "source": "investing.com",
-      "published": "2026-11-17T17:06:50+00:00",
+      "title": "Citi settles sexual harassment claims by managing director",
+      "url": "https://www.straitstimes.com/business/citi-settles-sexual-harassment-claims-by-managing-director",
+      "source": "straitstimes.com",
+      "published": "2026-11-18T00:11:55+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "BNY And Microsoft Let AI Bots Haggle Over A Treasury Bill Trade",
+      "url": "https://dev.to/fathomnews/bny-and-microsoft-let-ai-bots-haggle-over-a-treasury-bill-trade-5g3k",
+      "source": "dev.to",
+      "published": "2026-11-18T00:02:15+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Trump faces criticism after wave of tech problems",
+      "url": "https://www.mprnews.org/story/2026/11/17/trump-faces-criticism-as-allies-press-the-white-house-for-answers-on-tech-problems",
+      "source": "mprnews.org",
+      "published": "2026-11-17T23:51:08+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "Zimmer Biomet upgraded at Wells Fargo on Monogram orthopedic robot | $ZBH",
-      "url": "https://seekingalpha.com/news/4673773-zimmer-biomet-stock-upgraded-wells-fargo",
-      "source": "seekingalpha.com",
-      "published": "2026-11-17T17:05:38+00:00",
+      "title": "Truist to close three Triad branches amid business review",
+      "url": "https://www.bizjournals.com/triad/news/2026/11/17/truist-greensboro-bermuda-run-winston-salem-closes.html#new_tab",
+      "source": "bizjournals.com",
+      "published": "2026-11-17T23:46:51+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Nvidia sees strong earnings report despite Jensen Huang scandal and resignation",
+      "url": "https://www.cbsnews.com/video/nvidia-sees-strong-earnings-report-despite-jensen-huang-scandal-and-resignation/",
+      "source": "cbsnews.com",
+      "published": "2026-11-17T23:43:51+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Zimmer Biomet upped to Overweight by Wells Fargo",
+      "url": "https://awesomecapital.blogspot.com/2026/11/zimmer-biomet-upped-to-overweight-by.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-11-17T23:36:23+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
-      "source": "bloomberg.com",
-      "published": "2026-11-17T17:05:38+00:00",
+      "title": "Costco Says Scared Americans Are Stocking Up on Essentials as Outages Grow",
+      "url": "https://www.tmz.com/2026/11/17/americans-stocking-up-at-costco-amid-outages/",
+      "source": "tmz.com",
+      "published": "2026-11-17T23:27:43+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Insperity, Inc. (NSP) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $NSP",
+      "url": "https://seekingalpha.com/article/4969276-insperity-inc-nsp-presents-at-j-p-morgan-ultimate-services-investor-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T23:22:51+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Moody's Corporation (MCO) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $MCO",
+      "url": "https://seekingalpha.com/article/4969244-moodys-corporation-mco-presents-at-j-p-morgan-ultimate-services-investor-conference-2026",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T23:22:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "NIQ Global Intelligence plc (NIQ) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $NIQ",
+      "url": "https://seekingalpha.com/article/4969264-niq-global-intelligence-plc-niq-presents-at-j-p-morgan-ultimate-services-investor-conference",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T23:12:46+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Forecasts Gold Prices Above $4,600 by 2027, Impacting GOLD (Gold.com Inc)",
+      "url": "https://www.gurufocus.com/news/9206144/goldman-sachs-forecasts-gold-prices-above-4600-by-2027-impacting-gold-goldcom-inc",
+      "source": "gurufocus.com",
+      "published": "2026-11-17T22:57:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Bank of America (NYSE:BAC) to Contact Law Firm",
+      "url": "https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-bank-of-america-nysebac-to-contact-law-firm-302942815.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-17T22:57:00+00:00",
       "tickers": [
         "BAC",
         "C"
+      ]
+    },
+    {
+      "title": "World Bank Partners With Circle and Citi to Explore USDC Stablecoin Payments",
+      "url": "https://blockonomi.com/world-bank-partners-with-circle-and-citi-to-explore-usdc-stablecoin-payments/",
+      "source": "blockonomi.com",
+      "published": "2026-11-17T22:43:09+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Gold seen grinding higher to $4,650/oz by year-end 2027 on central bank buying - Goldman",
+      "url": "https://seekingalpha.com/news/4673937-gold-seen-grinding-higher-to-4650oz-by-year-end-2027-on-central-bank-buying---goldman",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T22:35:59+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Email. Air Travel. Banking. Why Does It Suddenly Seem as if Everything Is Falling Apart?",
+      "url": "https://slate.com/news-and-politics/2026/11/outlook-flights-outages-reason-coincidence.html?via=rss",
+      "source": "slate.com",
+      "published": "2026-11-17T22:22:55+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase & Co. (NYSE:JPM) Stock Falls 2.6% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-jpmorgan-chase-co-nyse-jpm-stock-falls-26-should-you-sell-2026-11-17/",
+      "source": "marketbeat.com",
+      "published": "2026-11-17T22:21:34+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Stock Price Down 1.3% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/price-bank-of-america-nyse-bac-stock-price-down-13-whats-next-2026-11-17/",
+      "source": "marketbeat.com",
+      "published": "2026-11-17T22:21:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+      "url": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+      "source": "marketwatch.com",
+      "published": "2026-11-17T22:08:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo more than doubles its BlackRock Bitcoin ETF stake to 49.6M shares",
+      "url": "https://cryptobriefing.com/wells-fargo-doubles-blackrock-bitcoin-etf-stake/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-17T21:50:21+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "iRhythm kicks off $100M accelerated share repurchase deal with JPMorgan | $IRTC $JPM",
+      "url": "https://seekingalpha.com/news/4673931-irhythm-kicks-off-100m-accelerated-share-repurchase-deal-with-jpmorgan",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T21:49:47+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Intercontinental Exchange, Inc. (ICE) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript | $ICE",
+      "url": "https://seekingalpha.com/article/4969256-intercontinental-exchange-inc-ice-presents-at-j-p-morgan-ultimate-services-investor",
+      "source": "seekingalpha.com",
+      "published": "2026-11-17T21:42:57+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
