@@ -1,275 +1,288 @@
 {
-  "last_updated": "2026-11-20T09:03:33.552558+00:00",
+  "last_updated": "2026-11-20T17:57:27.080482+00:00",
   "headlines": [
     {
-      "title": "Citi's Vis Raghavan on Being a Tough Boss | The Quest",
-      "url": "https://economictimes.indiatimes.com/news/short-videos/citis-vis-raghavan-on-being-a-tough-boss-the-quest/videoshow/136018040.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-20T07:33:58+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Series II Preferreds: Decent Yield At A Discounted Price | $C",
-      "url": "https://seekingalpha.com/article/4970481-citigroup-series-ii-preferreds-decent-yield-at-a-discounted-price",
-      "source": "seekingalpha.com",
-      "published": "2026-11-20T07:22:01+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman Sachs on Anthropic, India, Korea Opportunities",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sachs-on-anthropic-india-korea-opportunities-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-20T06:35:32+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Crude Oil Volatility To Stay High, Citi Says; Diesel Cracks Key For Refiners",
-      "url": "https://www.ndtvprofit.com/markets/crude-oil-volatility-to-stay-high-citi-says-diesel-cracks-key-for-refiners-crude-oil-prices-today-brent-recent-lows-markets-trend-us-iran-war-middle-e-12352191",
-      "source": "ndtvprofit.com",
-      "published": "2026-11-20T06:30:06+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman’s Moe on Uncertainties Around the AI Trade",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-s-moe-on-uncertainties-around-the-ai-trade-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-20T06:12:53+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Six Outages in Six Days: What Each Organization Said Broke",
-      "url": "https://securityboulevard.com/2026/11/six-outages-in-six-days-what-each-organization-said-broke/",
-      "source": "securityboulevard.com",
-      "published": "2026-11-20T04:30:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cyberattack: Russian hackers allegedly steal customer data from JPMorgan Chase, Visa and Mastercard; social media reacts",
-      "url": "https://www.livemint.com/news/us-news/cyberattack-russian-hackers-allegedly-steal-customer-data-from-jpmorgan-chase-visa-and-mastercard-social-media-reacts-11795145547056.html",
-      "source": "livemint.com",
-      "published": "2026-11-20T03:51:58+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Major US banks face cyberattack after hackers claim theft of 16,000 customer details",
-      "url": "https://interestingengineering.com/culture/major-us-banks-cybersecurity-vendor-breach",
-      "source": "interestingengineering.com",
-      "published": "2026-11-20T03:42:57+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cybercrime group n0n dumps stolen JPMorgan Chase data after 48-hour deadline lapses",
-      "url": "https://www.neowin.net/news/cybercrime-group-n0n-dumps-stolen-jpmorgan-chase-data-after-48-hour-deadline-lapses/?utm_source=rss",
-      "source": "neowin.net",
-      "published": "2026-11-20T03:32:01+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Citigroup Underestimated Risk Assets at European Trading Unit",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/citigroup-underestimated-risk-assets-at-european-trading-unit",
-      "source": "bloomberg.com",
-      "published": "2026-11-20T02:56:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "IU cybersecurity expert weighs in on recent outages, new university research platform",
-      "url": "https://fox59.com/news/iu-cybersecurity-expert-weighs-in-on-recent-outages-new-university-research-platform/",
-      "source": "fox59.com",
-      "published": "2026-11-20T02:20:08+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Adyen N.V. (ADYEY) Presents at Morgan Stanley European Technology, Media and Telecom Conference Transcript | $ADYEY $ADYYF",
-      "url": "https://seekingalpha.com/article/4970432-adyen-n-v-adyey-presents-at-morgan-stanley-european-technology-media-and-telecom-conference",
-      "source": "seekingalpha.com",
-      "published": "2026-11-20T02:03:01+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "What to know after hackers target Visa, Mastercard and JPMorgan Chase",
-      "url": "https://www.cbsnews.com/video/what-to-know-after-hackers-target-visa-mastercard-and-jpmorgan-chase/",
-      "source": "cbsnews.com",
-      "published": "2026-11-20T01:40:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Cyberattack or glitch?: UAH Professor speaks on recent outages",
-      "url": "https://whnt.com/news/huntsville/cyberattack-or-glitch-uah-professor-speaks-on-recent-outages/",
-      "source": "whnt.com",
-      "published": "2026-11-20T01:21:30+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Personal information of thousands of Chase Bank customers leaked online after cyberattack",
-      "url": "https://www.oregonlive.com/business/2026/11/cyberattack-exposes-thousands-of-chase-customers-personal-information.html",
-      "source": "oregonlive.com",
-      "published": "2026-11-20T01:00:10+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "BNY Mellon Strategic Municipal Bond Fund (NYSE:DSM) Major Shareholder Purchases 7,790 Shares of Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-bny-mellon-strategic-municipal-bond-fund-nyse-dsm-major-shareholder-purchases-7790-shares-of-stock-2026-11-19/",
+      "title": "Top Financial Stocks To Keep An Eye On - November 20th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-top-financial-stocks-to-keep-an-eye-on-november-20th-2026-11-20/",
       "source": "marketbeat.com",
-      "published": "2026-11-20T00:23:10+00:00",
+      "published": "2026-11-20T17:13:30+00:00",
       "tickers": [
-        "BK"
-      ]
-    },
-    {
-      "title": "Citigroup misbooked trades at European unit, underestimated risk by $35 bln, Reuters reports",
-      "url": "https://www.investing.com/news/stock-market-news/citigroup-misbooked-trades-at-european-unit-underestimated-risk-by-35-bln-reuters-reports-93CH-5040402",
-      "source": "investing.com",
-      "published": "2026-11-20T00:21:00+00:00",
-      "tickers": [
+        "JPM",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Exclusive-Citi incorrectly booked trades, underestimated risky assets by $35 billion, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342",
-      "source": "investing.com",
-      "published": "2026-11-20T00:12:44+00:00",
+      "title": "Bank Stocks To Add to Your Watchlist - November 20th",
+      "url": "https://www.marketbeat.com/instant-alerts/list-bank-stocks-to-add-to-your-watchlist-november-20th-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T17:13:27+00:00",
       "tickers": [
+        "JPM",
+        "BAC",
         "C"
       ]
     },
     {
-      "title": "Citi Group Faces Setback Over Misreported Risk Assets",
-      "url": "https://www.gurufocus.com/news/9211352/citi-group-faces-setback-over-misreported-risk-assets",
-      "source": "gurufocus.com",
-      "published": "2026-11-20T00:11:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "UniCredit S.p.A. (UNCRY) Presents at J.P. Morgan European Financials Conference Transcript | $UNCRY $UNCFF",
-      "url": "https://seekingalpha.com/article/4970410-unicredit-s-p-a-uncry-presents-at-j-p-morgan-european-financials-conference-transcript",
+      "title": "50 Russell 1000 stocks mutual funds avoid most - Goldman",
+      "url": "https://seekingalpha.com/news/4675240-50-russell-1000-stocks-mutual-funds-avoid-most-goldman",
       "source": "seekingalpha.com",
-      "published": "2026-11-19T23:52:53+00:00",
+      "published": "2026-11-20T16:59:40+00:00",
       "tickers": [
-        "JPM"
+        "GS"
       ]
     },
     {
-      "title": "Samsung says neocloud debt poses limited risk to AI industry growth",
-      "url": "https://www.digitimes.com/news/a20261119PD226/samsung-investment-growth-demand-expansion.html",
-      "source": "digitimes.com",
-      "published": "2026-11-19T23:43:25+00:00",
+      "title": "Goldman Sees Inflation Cooling by the end of 2027",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sees-inflation-cooling-by-the-end-of-2027-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-20T16:57:45+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Forecasts Strong Price Appreciation for Marriott Vacations Worldwide (NYSE:VAC) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-forecasts-strong-price-appreciation-for-marriott-vacations-worldwide-nyse-vac-stock-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:24:33+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Moonpay Seeks US Bank Charter as Crypto Firms Expand Into Federally Regulated Finance",
-      "url": "https://news.bitcoin.com/regulation-and-legal/moonpay-seeks-us-bank-charter-crypto-firms-expand-federally-regulated/",
-      "source": "bitcoin.com",
-      "published": "2026-11-19T23:40:46+00:00",
+      "title": "Park Hotels & Resorts (NYSE:PK) Stock Price Target Raised at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-park-hotels-resorts-nyse-pk-stock-price-target-raised-at-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:24:32+00:00",
       "tickers": [
-        "USB"
+        "MS"
       ]
     },
     {
-      "title": "Anthropic’s IPO nets Goldman Sachs and Morgan Stanley $113 million apiece in fees, eclipsing their SpaceX paydays",
-      "url": "https://fortune.com/2026/11/19/anthropics-ipo-nets-goldman-sachs-and-morgan-stanley-113-million-apiece-in-fees-eclipsing-their-spacex-paydays/",
-      "source": "fortune.com",
-      "published": "2026-11-19T23:38:47+00:00",
+      "title": "Pebblebrook Hotel Trust (NYSE:PEB) Stock Gets Price Target Bump from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-pebblebrook-hotel-trust-nyse-peb-stock-gets-price-target-bump-from-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:24:32+00:00",
       "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "J.P. Morgan’s Gatch on Where Active ETFs Go Next",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-p-morgan-s-gatch-on-where-active-etfs-go-next-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-20T16:12:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Sachs: Why I'm Waiting For $750 | $MS $JPM $WFC $C $BAC",
+      "url": "https://seekingalpha.com/article/4970615-goldman-sachs-why-im-waiting-for-750",
+      "source": "seekingalpha.com",
+      "published": "2026-11-20T16:06:37+00:00",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C",
         "GS",
         "MS"
       ]
     },
     {
-      "title": "Why Morgan Stanley Thinks Tokenization Makes More Sense for Alts Than Equities",
-      "url": "https://www.youtube.com/watch?v=nEboA3TkKz0",
-      "source": "youtube.com",
-      "published": "2026-11-19T23:30:33+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Chaos from mass tech outages: Letters to the Editor — Nov. 20, 2026",
-      "url": "https://nypost.com/2026/11/19/opinion/chaos-from-mass-tech-outages-letters/",
-      "source": "nypost.com",
-      "published": "2026-11-19T23:13:21+00:00",
+      "title": "JPMorgan Hit by Major Data Leak as Hackers Dump Rich Customers' Personal Info on Dark Web",
+      "url": "https://www.ibtimes.co.uk/jpmorgan-data-leak-exposes-16000-customers-1833617",
+      "source": "ibtimes.co.uk",
+      "published": "2026-11-20T16:03:55+00:00",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "title": "GS Chief Credit Strategist on 2027 AI Financing Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/gs-chief-credit-strategist-on-2027-ai-financing-outlook-video",
-      "source": "bloomberg.com",
-      "published": "2026-11-19T22:38:51+00:00",
+      "title": "Morgan Stanley Issues Positive Forecast for Marriott International (NASDAQ:MAR) Stock Price",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-marriott-international-nasdaq-mar-stock-price-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:42+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Host Hotels & Resorts (NASDAQ:HST) Stock Gets Price Target Boost from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-host-hotels-resorts-nasdaq-hst-stock-gets-price-target-boost-from-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:41+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Hilton Grand Vacations (NYSE:HGV) Stock Gets Price Target Cut from Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hilton-grand-vacations-nyse-hgv-stock-gets-price-target-cut-from-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Hyatt Hotels (NYSE:H) Stock Price Target Cut by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hyatt-hotels-nyse-h-stock-price-target-cut-by-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:39+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Forgent Power Solutions (NYSE:FPS) Stock Price Target Cut by Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-forgent-power-solutions-nyse-fps-stock-price-target-cut-by-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:37+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Elastic (NYSE:ESTC) Stock Price Target Raised at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-elastic-nyse-estc-stock-price-target-raised-at-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "DiamondRock Hospitality (NYSE:DRH) Given New $13.00 Price Target at Morgan Stanley",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-diamondrock-hospitality-nyse-drh-given-new-1300-price-target-at-morgan-stanley-2026-11-20/",
+      "source": "marketbeat.com",
+      "published": "2026-11-20T16:00:33+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "source": "bleepingcomputer.com",
+      "published": "2026-11-20T15:58:06+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America (BAC) Faces Economic Uncertainty Amid Fed Rate Hike Concerns",
+      "url": "https://www.gurufocus.com/news/9212799/bank-of-america-bac-faces-economic-uncertainty-amid-fed-rate-hike-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-11-20T15:57:16+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "MoonPay joins the race for a trust charter",
+      "url": "https://www.bankingdive.com/news/moonpay-crypto-applies-national-trust-bank-charter-occ-pham/875330/",
+      "source": "bankingdive.com",
+      "published": "2026-11-20T15:48:44+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "A hard landing could be triggered by aggressive rate hikes – BofA",
+      "url": "https://seekingalpha.com/news/4675213-a-hard-landing-could-be-triggered-by-aggressive-rate-hikes-bofa",
+      "source": "seekingalpha.com",
+      "published": "2026-11-20T15:45:08+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Telecoms are using AI agents to counter rivals in a market Meta's Muse targets",
+      "url": "https://qz.com/telecoms-ai-agents-rivals-meta-muse-morgan-stanley-112026",
+      "source": "qz.com",
+      "published": "2026-11-20T15:38:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "PayPal Appoints Claire Bramley as CFO, Adds Former Goldman Sachs Risk Chief to Board",
+      "url": "https://www.gurufocus.com/news/9212764/paypal-appoints-claire-bramley-as-cfo-adds-former-goldman-sachs-risk-chief-to-board",
+      "source": "gurufocus.com",
+      "published": "2026-11-20T15:30:09+00:00",
       "tickers": [
         "GS"
       ]
     },
     {
-      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-      "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-      "source": "decrypt.co",
-      "published": "2026-11-19T22:36:02+00:00",
+      "title": "Morgan Stanley reiterated this media company as a top pick after earnings",
+      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-reiterated-this-media-company-as-a-top-pick-after-earnings-5042151",
+      "source": "investing.com",
+      "published": "2026-11-20T15:23:17+00:00",
       "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "AI stocks are selling off after Anthropic’s record IPO, and Wall Street is split on whether this is the top",
+      "url": "https://fortune.com/2026/11/20/ai-stocks-selloff-anthropic-record-ipo-wall-street-split-top/",
+      "source": "fortune.com",
+      "published": "2026-11-20T15:19:40+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "'Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years",
+      "url": "https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322",
+      "source": "theregister.com",
+      "published": "2026-11-20T15:12:00+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "SUPN Initiates Coverage On Wells Fargo -- Rating Set to Overweight",
+      "url": "https://www.gurufocus.com/news/9212731/supn-initiates-coverage-on-wells-fargo-rating-set-to-overweight",
+      "source": "gurufocus.com",
+      "published": "2026-11-20T15:09:57+00:00",
+      "tickers": [
+        "WFC",
         "C"
       ]
     },
     {
-      "title": "What Morgan Stanley Saw Before Raising Its Visa (V) Target",
-      "url": "https://www.insidermonkey.com/news/what-morgan-stanley-saw-before-raising-its-visa-v-target-1867501/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-19T22:33:17+00:00",
+      "title": "GTA 6 Just Sold an Estimated $2.36 Billion in One Day, Nearly Triple GTA V. Take-Two Stock Is Rising",
+      "url": "https://247wallst.com/investing/2026/11/20/gta-6-just-sold-an-estimated-2-36-billion-in-one-day-nearly-triple-gta-v-take-two-stock-is-rising/",
+      "source": "247wallst.com",
+      "published": "2026-11-20T15:07:01+00:00",
       "tickers": [
-        "MS"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Rothschild & Co Redburn Downgraded TransUnion (TRU) but Raised Its Target",
-      "url": "https://www.insidermonkey.com/news/rothschild-co-redburn-downgraded-transunion-tru-but-raised-its-target-1867504/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-19T22:33:03+00:00",
+      "title": "Chase, Visa, Mastercard Customer Data Leaked In Cyberattack",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/20/chase-visa-mastercard-customer-data-leaked-in-cyberattack/",
+      "source": "forbes.com",
+      "published": "2026-11-20T15:02:24+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     },
     {
-      "title": "Morgan Stanley’s Vintage Values 2027: 5 Stocks Analysts See Climbing Further",
-      "url": "https://www.insidermonkey.com/news/morgan-stanleys-vintage-values-2027-5-stocks-analysts-see-climbing-further-1867750/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-19T22:32:35+00:00",
+      "title": "JPMorgan, Visa and Mastercard Report Third-Party Data Breaches After N0n Claims",
+      "url": "https://securityaffairs.com/203614/data-breach/jpmorgan-visa-and-mastercard-report-third-party-data-breaches-after-n0n-claims.html",
+      "source": "securityaffairs.com",
+      "published": "2026-11-20T14:56:32+00:00",
       "tickers": [
-        "MS"
+        "JPM"
       ]
     }
   ]
