@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-11-22T01:30:12.613271+00:00",
+  "last_updated": "2026-11-22T09:36:32.083633+00:00",
   "headlines": [
+    {
+      "title": "Truist Financial Corporation $TFC Shares Sold by Aberdeen Group plc",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-truist-financial-corporation-tfc-shares-sold-by-aberdeen-group-plc-2026-11-22/",
+      "source": "marketbeat.com",
+      "published": "2026-11-22T08:16:36+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "MercadoLibre (NASDAQ:MELI) Stock Gets Price Target Cut from Bank of America",
+      "url": "https://www.tickerreport.com/banking-finance/13669056/mercadolibre-nasdaqmeli-stock-gets-price-target-cut-from-bank-of-america.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-22T07:12:54+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Predicts Oil Prices to Reach $88 by 2027 (Brent)",
+      "url": "https://www.gurufocus.com/news/9214169/goldman-sachs-predicts-oil-prices-to-reach-88-by-2027-brent",
+      "source": "gurufocus.com",
+      "published": "2026-11-22T07:12:02+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Gold Price Forecast: Goldman Sachs Predicts $5600/oz by 2028",
+      "url": "https://www.gurufocus.com/news/9214165/gold-price-forecast-goldman-sachs-predicts-5600oz-by-2028",
+      "source": "gurufocus.com",
+      "published": "2026-11-22T06:51:06+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Pacific Gas & Electric (NYSE:PCG) Price Target Raised to $19.00",
+      "url": "https://www.tickerreport.com/banking-finance/13669046/pacific-gas-electric-nysepcg-price-target-raised-to-19-00.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-22T06:42:50+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Wall Street sell-off: Is the worst over? Goldman Sachs warns of fresh selling wave, flags 3 recovery triggers",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-sell-off-is-the-worst-over-goldman-sachs-warns-of-fresh-selling-wave-flags-3-recovery-triggers-11795316021375.html",
+      "source": "livemint.com",
+      "published": "2026-11-22T03:33:53+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "CBS announces broadcast date for Kennedy Center Honors at Capital One Arena",
       "url": "https://wtop.com/dc/2026/11/cbs-announces-broadcast-date-for-kennedy-center-honors-at-capital-one-arena/",
@@ -224,63 +280,6 @@
       "source": "tickerreport.com",
       "published": "2026-11-21T14:27:00+00:00",
       "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. $JPM Stake Raised by Rothschild Investment LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13668732/jpmorgan-chase-co-jpm-stake-raised-by-rothschild-investment-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-21T14:26:58+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Intesa Sanpaolo Wealth Management Buys 4,665 Shares of Citigroup Inc. $C",
-      "url": "https://www.tickerreport.com/banking-finance/13668729/intesa-sanpaolo-wealth-management-buys-4665-shares-of-citigroup-inc-c.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-21T14:26:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bank app crashed on rent day? How tenants can avoid late fees when an outage delays payment",
-      "url": "https://economictimes.indiatimes.com/world/business/bank-app-crashed-on-rent-day-how-tenants-can-avoid-late-fees-when-an-outage-delays-payment/articleshow/136062381.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-21T14:23:42+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Eli Lilly Is Near Its High. Bank of America Sees Another 19%",
-      "url": "https://www.tikr.com/blog/eli-lilly-is-near-its-high-bank-of-america-sees-another-19?ref=yahoofinance&tlnk=yf-261121-xqv3g997&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-11-21T14:09:54+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside",
-      "url": "https://www.tikr.com/blog/mercadolibre-has-disappointed-for-a-year-why-bank-of-america-still-sees-48-upside?ref=yahoofinance&tlnk=yf-261121-282c2629&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-11-21T14:08:44+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "RxSight (RXST) Stock Sees Fair Value Cut After Analysts Flag Execution Risks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rxsight-rxst-stock-sees-fair-140755811.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-21T14:07:55+00:00",
-      "tickers": [
-        "WFC",
         "C"
       ]
     }
