@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-11-22T23:29:10.588058+00:00",
+  "last_updated": "2026-11-23T03:57:15.959194+00:00",
   "headlines": [
+    {
+      "title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-23T00:30:45+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "India emerges as global hub for financial cybersecurity ops",
+      "url": "https://economictimes.indiatimes.com/tech/technology/india-emerges-as-global-hub-for-financial-cybersecurity-ops/articleshow/136079996.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-23T00:30:00+00:00",
+      "tickers": [
+        "JPM",
+        "WFC",
+        "C",
+        "GS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs says DRAM prices would need to crater before memory buyers walk away from long-term deals",
+      "url": "https://cryptobriefing.com/goldman-sachs-dram-price-thresholds-ltas/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-23T00:23:03+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Can Gold and Bitcoin Tell Us When the Stock Market Has Bottomed?",
+      "url": "https://thepeopleseconomist.substack.com/p/can-gold-and-bitcoin-tell-us-when",
+      "source": "substack.com",
+      "published": "2026-11-22T23:18:09+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Logitech International Sees Chip Supply Recovery as Sales Hit Shrinks to $70 Million–$80 Million",
+      "url": "https://www.marketbeat.com/instant-alerts/event-logitech-international-sees-chip-supply-recovery-as-sales-hit-shrinks-to-70-million80-million-2026-11-22/",
+      "source": "marketbeat.com",
+      "published": "2026-11-22T23:12:10+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Infrastructure Partners Announces Sale of StraitNZ",
+      "url": "http://www.businesswire.com/news/home/20261122478739/en/Morgan-Stanley-Infrastructure-Partners-Announces%C2%A0Sale-of-StraitNZ/?feedref=JjAwJuNHiystnCoBq_hl-XEemlDQ6NgDkiei3bSxnzGlJCVVeQL8sr5Wvng8AXxRSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HE01s4RTGeX_C4TDnN9C9Cg==",
+      "source": "businesswire.com",
+      "published": "2026-11-22T23:05:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "theverge.com",
+      "published": "2026-11-22T22:48:02+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
     {
       "title": "FOOTBALL-NFL-CAR-BAL/ - Carolina Panthers quarterback Bryce Young looks to pass the ...",
       "url": "https://greensboro.com/image_aa61d4d6-72ce-4d09-af52-39274625afcf.html",
@@ -212,71 +278,6 @@
       "published": "2026-11-22T12:12:57+00:00",
       "tickers": [
         "STT"
-      ]
-    },
-    {
-      "title": "Intercontinental Exchange Inc. $ICE Position Reduced by State Street Corp",
-      "url": "https://www.tickerreport.com/banking-finance/13669655/intercontinental-exchange-inc-ice-position-reduced-by-state-street-corp.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-22T12:11:12+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "State Street Corp Sells 312,970 Shares of 3M Company $MMM",
-      "url": "https://www.tickerreport.com/banking-finance/13669649/state-street-corp-sells-312970-shares-of-3m-company-mmm.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-22T12:11:06+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Regeneron Pharmaceuticals, Inc. $REGN Stock: State Street Corp Raises Position",
-      "url": "https://www.tickerreport.com/banking-finance/13669647/regeneron-pharmaceuticals-inc-regn-stock-state-street-corp-raises-position.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-22T12:11:03+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Mondelez International, Inc. $MDLZ Stock: State Street Corp Grows Stake",
-      "url": "https://www.tickerreport.com/banking-finance/13669646/mondelez-international-inc-mdlz-stock-state-street-corp-grows-stake.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-22T12:10:59+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Should You Buy Anthropic? Ask the People Who Bought Ford in 1956.",
-      "url": "https://nicholasvardy.substack.com/p/should-you-buy-anthropic-ford-1956",
-      "source": "substack.com",
-      "published": "2026-11-22T12:03:55+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "79,322 Shares of Bank of America Corporation $BAC Purchased by N.F.U. MUTUAL UNIT MANAGERS Ltd",
-      "url": "https://www.tickerreport.com/banking-finance/13669634/79322-shares-of-bank-of-america-corporation-bac-purchased-by-n-f-u-mutual-unit-managers-ltd.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-22T12:00:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Why an Indian-led startup wants Apple to disable NameDrop in India",
-      "url": "https://economictimes.indiatimes.com/tech/technology/why-an-indian-led-startup-wants-apple-to-disable-namedrop-in-india/articleshow/136073642.cms",
-      "source": "indiatimes.com",
-      "published": "2026-11-22T11:57:04+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
