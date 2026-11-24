@@ -1,282 +1,284 @@
 {
-  "last_updated": "2026-11-23T14:23:29.825613+00:00",
+  "last_updated": "2026-11-24T01:49:53.010722+00:00",
   "headlines": [
     {
-      "title": "AP Joy Wonder Discovery SummaryBrief at 8:30 a.m. EST",
-      "url": "https://www.idahopress.com/news/strange/ap-joy-wonder-discovery-summarybrief-at-8-30-a-m-est/article_50749b51-8135-5327-af85-2f9aa56e73eb.html",
-      "source": "idahopress.com",
-      "published": "2026-11-23T13:30:01+00:00",
+      "title": "Forrester: More Than Two-Thirds Of Consumers Expect Their Banking App To Manage All Financial Tasks",
+      "url": "https://en.prnasia.com/story/557794-0.shtml",
+      "source": "prnasia.com",
+      "published": "2026-11-24T01:00:00+00:00",
       "tickers": [
-        "JPM"
+        "USB"
       ]
     },
     {
-      "title": "A silver soup tureen once owned by JP Morgan could fetch $8 million at a Christie's auction",
-      "url": "https://www.wdtimes.com/news/world/a-silver-soup-tureen-once-owned-by-jp-morgan-could-fetch-8-million-at-a/article_c91c8f52-05cc-55ff-9868-21a8a8123a81.html",
-      "source": "wdtimes.com",
-      "published": "2026-11-23T13:29:49+00:00",
+      "title": "Is State Street Corp (STT) Overvalued After 3.8% Rally? GF Value Says Overvalued",
+      "url": "https://www.gurufocus.com/news/9216045/is-state-street-corp-stt-overvalued-after-38-rally-gf-value-says-overvalued",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T00:13:50+00:00",
       "tickers": [
-        "JPM"
+        "STT"
       ]
     },
     {
-      "title": "Truist Financial Issues Pessimistic Forecast for Nextpower (NASDAQ:NXT) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-nextpower-nasdaq-nxt-stock-price-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:18:34+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Edison International (NYSE:EIX) Given New $66.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-edison-international-nyse-eix-given-new-6600-price-target-at-truist-financial-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:18:34+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Keysight Technologies (NYSE:KEYS) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-keysight-technologies-nyse-keys-stock-price-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:18:34+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Procter & Gamble (NYSE:PG) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-procter-gamble-nyse-pg-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:18:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Take-Two Interactive Software (NASDAQ:TTWO) Stock Price Expected to Rise, Bank of America Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-take-two-interactive-software-nasdaq-ttwo-stock-price-expected-to-rise-bank-of-america-analyst-says-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:18:33+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pacific Gas & Electric (NYSE:PCG) Given New $18.00 Price Target at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-pacific-gas-electric-nyse-pcg-given-new-1800-price-target-at-truist-financial-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:18:33+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "These stocks are losing hedge-fund fans, Goldman says",
-      "url": "https://seekingalpha.com/news/4675530-these-stocks-are-losing-hedge-fund-fans-goldman-says",
+      "title": "AI, Cash Sorting, And Bank Deposit Franchises | $APO $JPM $PNC $APOS",
+      "url": "https://seekingalpha.com/article/4971247-ai-cash-sorting-and-bank-deposit-franchises",
       "source": "seekingalpha.com",
-      "published": "2026-11-23T13:12:48+00:00",
+      "published": "2026-11-24T00:10:00+00:00",
       "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "SouthState Bank (NYSE:SSB) Now Covered by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-southstate-bank-nyse-ssb-now-covered-by-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:12:43+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citigroup Begins Coverage on Recursion Pharmaceuticals (NASDAQ:RXRX)",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-begins-coverage-on-recursion-pharmaceuticals-nasdaq-rxrx-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:12:41+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Procter & Gamble (NYSE:PG) Stock Price Expected to Rise, Morgan Stanley Analyst Says",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-procter-gamble-nyse-pg-stock-price-expected-to-rise-morgan-stanley-analyst-says-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:12:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley changes its accounting on carried interest at Investment Management unit",
-      "url": "https://seekingalpha.com/news/4675521-morgan-stanley-changes-its-accounting-on-carried-interest-at-investment-management-unit",
-      "source": "seekingalpha.com",
-      "published": "2026-11-23T13:09:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "PNC Elects Mark Wiedman to Board of Directors",
-      "url": "https://www.prnewswire.com/news-releases/pnc-elects-mark-wiedman-to-board-of-directors-302948227.html",
-      "source": "prnewswire.com",
-      "published": "2026-11-23T13:09:00+00:00",
-      "tickers": [
+        "JPM",
         "C",
         "PNC"
       ]
     },
     {
-      "title": "HudBay Minerals (NYSE:HBM) Stock Rated \"Overweight\" in New Coverage at JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-hudbay-minerals-nyse-hbm-stock-rated-overweight-in-new-coverage-at-jpmorgan-chase-co-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:41+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Ambarella (NASDAQ:AMBA) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-ambarella-nasdaq-amba-stock-price-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:41+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Moog (NYSE:MOG.A) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-moog-nyse-moga-stock-price-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:40+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) Stock Price Target Lowered at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-meta-platforms-nasdaq-meta-stock-price-target-lowered-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Aflac (NYSE:AFL) Stock Price Target Raised at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-aflac-nyse-afl-stock-price-target-raised-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:39+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Vodafone Group (NASDAQ:VOD) Stock Gets Downgrade from Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-vodafone-group-nasdaq-vod-stock-gets-downgrade-from-citigroup-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Borr Drilling (NYSE:BORR) Now Covered by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-borr-drilling-nyse-borr-now-covered-by-analysts-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:38+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Pessimistic Forecast for Brighthouse Financial (NASDAQ:BHF) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-pessimistic-forecast-for-brighthouse-financial-nasdaq-bhf-stock-price-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:37+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "V2X (NYSE:VVX) Downgraded by Bank of America to \"Underperform\"",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-v2x-nyse-vvx-downgraded-by-bank-of-america-to-underperform-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:37+00:00",
+      "title": "Top Fed official probed over whether she breached ‘blackout period’",
+      "url": "https://www.ft.com/content/2c1fcdc0-eb16-4cee-9041-736527c2ae83?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "published": "2026-11-23T23:18:55+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "MetLife (NYSE:MET) Given New $120.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-metlife-nyse-met-given-new-12000-price-target-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:36+00:00",
+      "title": "Capital One Venture Card Bonus: 75K Miles + $300 Credit Welcome Offer (Last Chance)",
+      "url": "https://onemileatatime.com/reviews/credit-cards/capital-one/capital-one-venture-card-bonus/",
+      "source": "onemileatatime.com",
+      "published": "2026-11-23T23:09:17+00:00",
       "tickers": [
-        "MS"
+        "C",
+        "COF"
       ]
     },
     {
-      "title": "Globe Life (NYSE:GL) Price Target Cut to $190.00 by Analysts at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-globe-life-nyse-gl-price-target-cut-to-19000-by-analysts-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:36+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Issues Positive Forecast for Voya Financial (NYSE:VOYA) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-issues-positive-forecast-for-voya-financial-nyse-voya-stock-price-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Prudential Financial (NYSE:PRU) Given New $108.00 Price Target at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-prudential-financial-nyse-pru-given-new-10800-price-target-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:35+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Telefonica Brasil (NYSE:VIV) Stock Rating Upgraded by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-telefonica-brasil-nyse-viv-stock-rating-upgraded-by-citigroup-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:34+00:00",
+      "title": "A Look at Citigroup Inc (C) After 3.4% Gain -- GF Value $105.39 vs Price $114.35",
+      "url": "https://www.gurufocus.com/news/9215858/a-look-at-citigroup-inc-c-after-34-gain-gf-value-10539-vs-price-11435",
+      "source": "gurufocus.com",
+      "published": "2026-11-23T22:33:43+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "TIM (NYSE:TIMB) Stock Rating Raised to \"Buy\" at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-tim-nyse-timb-stock-rating-raised-to-buy-at-citigroup-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:34+00:00",
+      "title": "Kymera Therapeutics (KYMR) Raises Capital to Advance Degrader Pipeline with Morgan Stanley, J.P. ...",
+      "url": "https://www.gurufocus.com/news/9215842/kymera-therapeutics-kymr-raises-capital-to-advance-degrader-pipeline-with-morgan-stanley-jp-morgan-goldman-sachs",
+      "source": "gurufocus.com",
+      "published": "2026-11-23T22:26:53+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group Inc (GS) Stock Up 4.2% and Still Undervalued -- GF Score: 83/100",
+      "url": "https://www.gurufocus.com/news/9215836/the-goldman-sachs-group-inc-gs-stock-up-42-and-still-undervalued-gf-score-83100",
+      "source": "gurufocus.com",
+      "published": "2026-11-23T22:24:52+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (MS) Stock Up 4.2% and Still Undervalued -- GF Score: 81/100",
+      "url": "https://www.gurufocus.com/news/9215831/morgan-stanley-ms-stock-up-42-and-still-undervalued-gf-score-81100",
+      "source": "gurufocus.com",
+      "published": "2026-11-23T22:19:29+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Marathon Petroleum (NYSE:MPC) Stock Price Down 2.4% Following Analyst Downgrade",
+      "url": "https://www.tickerreport.com/banking-finance/13670726/marathon-petroleum-nysempc-stock-price-down-2-4-following-analyst-downgrade.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-23T22:00:42+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Lazard (NYSE:LAZ) Raised to \"Overweight\" at Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-lazard-nyse-laz-raised-to-overweight-at-morgan-stanley-2026-11-23/",
-      "source": "marketbeat.com",
-      "published": "2026-11-23T13:06:33+00:00",
+      "title": "Morgan Stanley Sees 25%+ Upside for Meta Platforms (META) on AI and Subscription Growth",
+      "url": "https://www.gurufocus.com/news/9215713/morgan-stanley-sees-25-upside-for-meta-platforms-meta-on-ai-and-subscription-growth",
+      "source": "gurufocus.com",
+      "published": "2026-11-23T21:55:56+00:00",
       "tickers": [
         "MS"
+      ]
+    },
+    {
+      "title": "BNY Mellon High Yield Strategies Fund declares $0.0175 dividend",
+      "url": "https://seekingalpha.com/news/4675929-bny-mellon-high-yield-strategies-fund-declares-0_0175-dividend",
+      "source": "seekingalpha.com",
+      "published": "2026-11-23T21:48:17+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "9 DGI Stocks To Help You SWAN, No Matter What The Future Brings | $CVX $CNI $KO $MRK $WFC",
+      "url": "https://seekingalpha.com/article/4971198-9-dgi-stocks-help-you-swan-no-matter-what-future-brings",
+      "source": "seekingalpha.com",
+      "published": "2026-11-23T21:38:01+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Valvoline Inc. to Participate in Morgan Stanley’s Global Consumer & Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261123400591/en/Valvoline-Inc.-to-Participate-in-Morgan-Stanley%E2%80%99s-Global-Consumer-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-11-23T21:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Asset Management to Transfer JPMorgan Active Bond ETF (JBND) to NYSE Arca from NYSE",
+      "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-to-transfer-jpmorgan-active-bond-etf-jbnd-to-nyse-arca-from-nyse-302948671.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-23T21:30:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Cboe Global Markets to Present at the Goldman Sachs Financial Services Conference on December 9",
+      "url": "https://www.prnewswire.com/news-releases/cboe-global-markets-to-present-at-the-goldman-sachs-financial-services-conference-on-december-9-302948630.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-23T21:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "AMGEN TO PRESENT AT CITI'S 2026 GLOBAL HEALTHCARE CONFERENCE",
+      "url": "https://www.prnewswire.com/news-releases/amgen-to-present-at-citis-2026-global-healthcare-conference-302948642.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-23T21:30:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi Just Slashed Its Price Target on Salesforce Stock. Here's Why",
+      "url": "https://www.barchart.com/story/news/8971926/citi-just-slashed-its-price-target-on-salesforce-stock-here-s-why",
+      "source": "barchart.com",
+      "published": "2026-11-23T21:15:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "KKR to Present at the Goldman Sachs 2026 Financial Services Conference",
+      "url": "http://www.businesswire.com/news/home/20261123371696/en/KKR-to-Present-at-the-Goldman-Sachs-2026-Financial-Services-Conference/?feedref=JjAwJuNHiystnCoBq_hl-cPRduB1a9bFJ2GUF2oqMSl7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX-cQmQc1S7JVYqsASti4BlQ",
+      "source": "businesswire.com",
+      "published": "2026-11-23T21:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Fed’s Watchdog Probes Whether Bowman Broke Communications Rules",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/fed-s-watchdog-probes-whether-bowman-broke-communications-rules",
+      "source": "bloomberg.com",
+      "published": "2026-11-23T21:05:43+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Belden to Participate in the Upcoming Goldman Sachs Industrials and Materials Conference",
+      "url": "http://www.businesswire.com/news/home/20261123160066/en/Belden-to-Participate-in-the-Upcoming-Goldman-Sachs-Industrials-and-Materials-Conference/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0",
+      "source": "businesswire.com",
+      "published": "2026-11-23T21:05:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Mativ Announces Participation in Upcoming Investor Conferences",
+      "url": "http://www.businesswire.com/news/home/20261123535613/en/Mativ-Announces-Participation-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-X-iDFQjz-X06VVclCvcF1fB1XY7Ia_QvRyPB3BquP7h6i8aU6mBhBCITifNTyOAv1ms7ezsDpv-ktIH1aXVMLMVuAclf8UMwpRunz9C5smq",
+      "source": "businesswire.com",
+      "published": "2026-11-23T21:05:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Truist to speak at 2026 Goldman Sachs U.S. Financial Services Conference",
+      "url": "https://www.prnewswire.com/news-releases/truist-to-speak-at-2026-goldman-sachs-us-financial-services-conference-302948563.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-23T21:03:00+00:00",
+      "tickers": [
+        "C",
+        "GS",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Newell Brands to Webcast Fireside Chat at the Morgan Stanley Global Consumer & Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261123730374/en/Newell-Brands-to-Webcast-Fireside-Chat-at-the-Morgan-Stanley-Global-Consumer-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
+      "source": "businesswire.com",
+      "published": "2026-11-23T21:00:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Stanley Black & Decker to Present at the Goldman Sachs Industrials and Materials Conference",
+      "url": "https://www.prnewswire.com/news-releases/stanley-black--decker-to-present-at-the-goldman-sachs-industrials-and-materials-conference-302948377.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-23T21:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Advance Late Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-afternoon-205006028.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-23T20:50:06+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "Sector Update: Tech Stocks Jump Late Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-jump-afternoon-204643838.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-23T20:46:43+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says",
+      "url": "https://www.gamespot.com/articles/gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analyst-says/",
+      "source": "gamespot.com",
+      "published": "2026-11-23T20:28:38+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Kalish Buys $1M of DraftKings Shares, Morgan Stanley Downgrades Stock",
+      "url": "https://www.casino.org/news/kalish-buys-1m-of-draftkings-shares-morgan-stanley-downgrades-stock/",
+      "source": "casino.org",
+      "published": "2026-11-23T20:09:01+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Hudbay Minerals (TSE:HBM) Given a C$44.00 Price Target at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-hudbay-minerals-tse-hbm-given-a-c4400-price-target-at-jpmorgan-chase-co-2026-11-23/",
+      "source": "marketbeat.com",
+      "published": "2026-11-23T20:06:33+00:00",
+      "tickers": [
+        "JPM"
       ]
     }
   ]
