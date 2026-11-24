@@ -1,277 +1,281 @@
 {
-  "last_updated": "2026-11-24T12:18:42.313735+00:00",
+  "last_updated": "2026-11-24T22:41:56.348460+00:00",
   "headlines": [
     {
-      "title": "Citigroup lifts Nvidia price target to $240, keeps Buy rating",
-      "url": "https://cryptobriefing.com/citigroup-raises-nvidia-target-240/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-24T11:15:30+00:00",
+      "title": "Why PNC’s president is getting a one-time equity award",
+      "url": "https://www.americanbanker.com/news/why-pnc-s-president-is-getting-a-one-time-equity-award",
+      "source": "americanbanker.com",
+      "published": "2026-11-24T21:30:17+00:00",
       "tickers": [
-        "C"
+        "C",
+        "PNC"
       ]
     },
     {
-      "title": "Bank of America Corporation $BAC Stake Boosted by State Board of Administration of Florida Retirement System",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corporation-bac-stake-boosted-by-state-board-of-administration-of-florida-retirement-system-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T11:12:40+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Pinnbrook Capital Management LP Purchases 26,800 Shares of Bank of America Corporation $BAC",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pinnbrook-capital-management-lp-purchases-26800-shares-of-bank-of-america-corporation-bac-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:56:56+00:00",
+      "title": "Uniti Group Inc. to Present at the BofA Securities 2026 Leveraged Finance Conference",
+      "url": "https://www.newspressnow.com/sports/chiefs/uniti-group-inc-to-present-at-the-bofa-securities-2026-leveraged-finance-conference/article_eb074ab9-91c7-540e-bb7d-c9c5f897a041.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-24T21:15:57+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "‘It’s go time’: Morgan Stanley shares 4 areas of the stock market to pile into with a big rally incoming",
-      "url": "https://www.businessinsider.com/where-to-invest-stocks-to-buy-tech-rally-nvda-huang-2026-11",
-      "source": "businessinsider.com",
-      "published": "2026-11-24T10:45:01+00:00",
+      "title": "Medline announces participation in Citi’s 2026 Global Healthcare Conference",
+      "url": "https://www.newspressnow.com/sports/chiefs/medline-announces-participation-in-citi-s-2026-global-healthcare-conference/article_738ded0c-bb27-5df2-a2f4-96d935abc9c5.html",
+      "source": "newspressnow.com",
+      "published": "2026-11-24T21:15:50+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference",
+      "url": "https://www.prnewswire.com/news-releases/first-horizon-corporation-to-participate-in-the-goldman-sachs-2026-financial-services-conference-302948690.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-24T21:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Starbucks to Participate in the 2026 Morgan Stanley Global Consumer & Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261124617463/en/Starbucks-to-Participate-in-the-2026-Morgan-Stanley-Global-Consumer-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-fLcmYSZsqlD_XPbplM8Ta6D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5iej_DoWrIhfD31cAxcB60aE",
+      "source": "businesswire.com",
+      "published": "2026-11-24T21:05:00+00:00",
       "tickers": [
         "MS"
       ]
     },
     {
-      "title": "Wells Fargo cuts HP Enterprise stock price target on margin pressure",
-      "url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-hp-enterprise-stock-price-target-on-margin-pressure-93CH-5047549",
-      "source": "investing.com",
-      "published": "2026-11-24T10:42:56+00:00",
+      "title": "Exelixis to Participate in the Citi 2026 Global Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20261124759386/en/Exelixis-to-Participate-in-the-Citi-2026-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-YN6jh2YIt48IJ80PBTZst6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5aCD-FAO6Y4EA4btlz6J4c",
+      "source": "businesswire.com",
+      "published": "2026-11-24T21:05:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Netflix buys LA's Radford Studio Center for $380M from Goldman-led lenders; Hackman Capital paid $1.85B for the lot in 2021, then defaulted on a $1.1B mortgage (John Gittelsohn/Bloomberg)",
+      "url": "https://mediagazer.com/261124/p11#a261124p11",
+      "source": "mediagazer.com",
+      "published": "2026-11-24T21:04:29+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Northern Trust Leaders to Participate in Goldman Sachs Financial Services Conference 2026 on December 9",
+      "url": "http://www.businesswire.com/news/home/20261124906734/en/Northern-Trust-Leaders-to-Participate-in-Goldman-Sachs-Financial-Services-Conference-2026-on-December-9/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
+      "source": "businesswire.com",
+      "published": "2026-11-24T21:00:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
+      "source": "bloomberg.com",
+      "published": "2026-11-24T20:55:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "What Is Billionaire Richard Chilton Buying? His 10 Biggest Stock Holdings",
+      "url": "https://www.insidermonkey.com/news/what-is-billionaire-richard-chilton-buying-his-10-biggest-stock-holdings-1867296/",
+      "source": "insidermonkey.com",
+      "published": "2026-11-24T20:27:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
+      "source": "bloomberg.com",
+      "published": "2026-11-24T20:15:34+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Pan American Silver (NYSE:PAAS) Rating Lowered to Neutral at Bank of America",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-pan-american-silver-nyse-paas-rating-lowered-to-neutral-at-bank-of-america-2026-11-24/",
+      "source": "marketbeat.com",
+      "published": "2026-11-24T20:06:59+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo Tells Customers They Are Responsible for AI Agents",
+      "url": "https://www.pymnts.com/news/banking/2026/wells-fargo-tells-customers-they-are-responsible-for-ai-agents/",
+      "source": "pymnts.com",
+      "published": "2026-11-24T20:04:45+00:00",
       "tickers": [
         "WFC",
         "C"
       ]
     },
     {
-      "title": "XPO, Inc. $XPO Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-xpo-inc-xpo-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:47+00:00",
+      "title": "Google DeepMind Opens Gemini 4 Carbon for Long-Horizon Agentic Reasoning and Cybersecurity",
+      "url": "https://dev.to/overclock_now/google-deepmind-opens-gemini-4-carbon-for-long-horizon-agentic-reasoning-and-cybersecurity-f7k",
+      "source": "dev.to",
+      "published": "2026-11-24T20:02:46+00:00",
       "tickers": [
-        "STT"
+        "USB"
       ]
     },
     {
-      "title": "4,176,685 J.B. Hunt Transport Services, Inc. $JBHT Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-4176685-jb-hunt-transport-services-inc-jbht-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:46+00:00",
+      "title": "BofA Downgrades Pan American Silver (PAAS) to Neutral Amid 2027 Production Concerns",
+      "url": "https://www.gurufocus.com/news/9218113/bofa-downgrades-pan-american-silver-paas-to-neutral-amid-2027-production-concerns",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T19:55:48+00:00",
       "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "Roivant Sciences Ltd. $ROIV Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-roivant-sciences-ltd-roiv-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:46+00:00",
+      "title": "BottomBounce Goldman Sachs estimates to be worth $1 trillion+",
+      "url": "https://investorshub.advfn.com/boards/read_msg.aspx?message_id=178163979",
+      "source": "advfn.com",
+      "published": "2026-11-24T19:53:25+00:00",
       "tickers": [
-        "STT"
+        "GS"
       ]
     },
     {
-      "title": "Snap-On Incorporated $SNA Stock Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-snap-on-incorporated-sna-stock-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:45+00:00",
+      "title": "Goldman Sachs JUST U.S. Large Cap Equity ETF (NYSEARCA:JUST) Shares Gap Up – Should You Buy?",
+      "url": "https://www.tickerreport.com/banking-finance/13671833/goldman-sachs-just-u-s-large-cap-equity-etf-nysearcajust-shares-gap-up-should-you-buy.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-24T19:41:01+00:00",
       "tickers": [
-        "STT"
+        "GS"
       ]
     },
     {
-      "title": "State Street Corp Sells 51,019,014 Shares of Coeur Mining, Inc. $CDE",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-51019014-shares-of-coeur-mining-inc-cde-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:44+00:00",
+      "title": "Edgewell Personal Care to Webcast Fireside Chat at the Morgan Stanley Global Consumer and Retail Conference",
+      "url": "https://www.prnewswire.com/news-releases/edgewell-personal-care-to-webcast-fireside-chat-at-the-morgan-stanley-global-consumer-and-retail-conference-302949809.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-24T19:20:00+00:00",
       "tickers": [
-        "STT"
+        "MS"
       ]
     },
     {
-      "title": "Fox Corporation $FOXA Stock Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-fox-corporation-foxa-stock-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:43+00:00",
+      "title": "Citi AAdvantage Platinum Select Review—Why American Still Wins For Credit Card Spending Toward Status",
+      "url": "https://viewfromthewing.com/citi-aadvantage-platinum-select-review-why-american-still-wins-for-credit-card-spending-toward-status/",
+      "source": "viewfromthewing.com",
+      "published": "2026-11-24T19:04:21+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "State Street Corp Sells 2,500,659 Shares of APA Corporation $APA",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-2500659-shares-of-apa-corporation-apa-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:42+00:00",
+      "title": "HP Maintained by Citigroup -- Price Target Lowered to $37.00",
+      "url": "https://www.gurufocus.com/news/9217903/hp-maintained-by-citigroup-price-target-lowered-to-3700",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T18:33:54+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "7,685,161 Jacobs Solutions Inc. $J Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-7685161-jacobs-solutions-inc-j-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:41+00:00",
+      "title": "CBRL Maintained by Citigroup -- Price Target Raised to $46.00",
+      "url": "https://www.gurufocus.com/news/9217902/cbrl-maintained-by-citigroup-price-target-raised-to-4600",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T18:33:21+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "Reliance, Inc. $RS Position Lowered by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-reliance-inc-rs-position-lowered-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:40+00:00",
+      "title": "MDB Maintained by Citigroup -- Price Target Lowered to $525",
+      "url": "https://www.gurufocus.com/news/9217901/mdb-maintained-by-citigroup-price-target-lowered-to-525",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T18:32:53+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "International Flavors & Fragrances Inc. $IFF Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-international-flavors-fragrances-inc-iff-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:40+00:00",
+      "title": "RCUS Maintained by Citigroup -- Price Target Lowered to $47",
+      "url": "https://www.gurufocus.com/news/9217900/rcus-maintained-by-citigroup-price-target-lowered-to-47",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T18:32:30+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "Packaging Corporation of America $PKG Stock: State Street Corp Reduces Position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-packaging-corporation-of-america-pkg-stock-state-street-corp-reduces-position-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:39+00:00",
+      "title": "A Maintained by Citigroup -- Price Target Raised to $205",
+      "url": "https://www.gurufocus.com/news/9217899/a-maintained-by-citigroup-price-target-raised-to-205",
+      "source": "gurufocus.com",
+      "published": "2026-11-24T18:31:59+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "STERIS plc $STE Stock Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-steris-plc-ste-stock-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:39+00:00",
+      "title": "BofA favors copper and uranium, downgrades Pan American Silver",
+      "url": "https://seekingalpha.com/news/4676314-bofa-favors-copper-and-uranium-downgrades-pan-american-silver",
+      "source": "seekingalpha.com",
+      "published": "2026-11-24T18:13:16+00:00",
       "tickers": [
-        "STT"
+        "BAC",
+        "C"
       ]
     },
     {
-      "title": "State Street Corp Sells 27,028,174 Shares of NiSource, Inc $NI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-27028174-shares-of-nisource-inc-ni-2026-11-24/",
+      "title": "MongoDB (NASDAQ:MDB) Given New $525.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-mongodb-nasdaq-mdb-given-new-52500-price-target-at-citigroup-2026-11-24/",
       "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:38+00:00",
+      "published": "2026-11-24T18:12:36+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "State Street Corp Sells 9,907,425 Shares of Tapestry, Inc. $TPR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-9907425-shares-of-tapestry-inc-tpr-2026-11-24/",
+      "title": "Cracker Barrel Old Country Store (NASDAQ:CBRL) Given New $46.00 Price Target at Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-cracker-barrel-old-country-store-nasdaq-cbrl-given-new-4600-price-target-at-citigroup-2026-11-24/",
       "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:37+00:00",
+      "published": "2026-11-24T18:12:34+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "Church & Dwight Co., Inc. $CHD Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-church-dwight-co-inc-chd-shares-sold-by-state-street-corp-2026-11-24/",
+      "title": "Arcus Biosciences (NYSE:RCUS) Stock Gets Price Target Trim from Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-arcus-biosciences-nyse-rcus-stock-gets-price-target-trim-from-citigroup-2026-11-24/",
       "source": "marketbeat.com",
-      "published": "2026-11-24T10:33:35+00:00",
+      "published": "2026-11-24T18:12:33+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "6,357,267 Constellation Brands Inc $STZ Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6357267-constellation-brands-inc-stz-shares-sold-by-state-street-corp-2026-11-24/",
+      "title": "Helmerich & Payne (NYSE:HP) Stock Price Target Cut by Citigroup",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-helmerich-payne-nyse-hp-stock-price-target-cut-by-citigroup-2026-11-24/",
       "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:43+00:00",
+      "published": "2026-11-24T18:12:33+00:00",
       "tickers": [
-        "STT"
+        "C"
       ]
     },
     {
-      "title": "State Street Corp Sells 40,892,178 Shares of Broadridge Financial Solutions, Inc. $BR",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-sells-40892178-shares-of-broadridge-financial-solutions-inc-br-2026-11-24/",
+      "title": "Citigroup Forecasts Strong Price Appreciation for Agilent Technologies (NYSE:A) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-agilent-technologies-nyse-a-stock-2026-11-24/",
       "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:42+00:00",
+      "published": "2026-11-24T18:12:32+00:00",
       "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "3,871,761 Labcorp Holdings Inc. $LH Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-3871761-labcorp-holdings-inc-lh-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:42+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Ingersoll Rand Inc. $IR Stock Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ingersoll-rand-inc-ir-stock-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:42+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Dover Corporation $DOV Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dover-corporation-dov-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:41+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Nu Holdings Ltd. $NU Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nu-holdings-ltd-nu-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:40+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "18,687,940 Cincinnati Financial Corporation $CINF Shares Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-18687940-cincinnati-financial-corporation-cinf-shares-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:24:40+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Royalty Pharma PLC $RPRX Stock Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-royalty-pharma-plc-rprx-stock-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:18:50+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Teva Pharmaceutical Industries Ltd. $TEVA Stock Sold by State Street Corp",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-teva-pharmaceutical-industries-ltd-teva-stock-sold-by-state-street-corp-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:18:46+00:00",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "AerCap Holdings N.V. $AER Stock: State Street Corp Cuts Holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-aercap-holdings-nv-aer-stock-state-street-corp-cuts-holdings-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T10:18:42+00:00",
-      "tickers": [
-        "STT"
+        "C"
       ]
     }
   ]
