@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-11-24T22:41:56.348460+00:00",
+  "last_updated": "2026-11-25T05:20:15.314271+00:00",
   "headlines": [
+    {
+      "title": "The Washington Wizards' Trae Young drives by the Boston Celtics' Paul George during the first half of an NBA Cup game at Capital One Arena on Tuesday, Nov. 24, 2026, in Washington, D.C..",
+      "url": "https://thebrunswicknews.com/sports/national_sports/the-washington-wizards-trae-young-drives-by-the-boston-celtics-paul-george-during-the-first/image_e6a892a0-8b4e-5fc1-b28f-a61d711da913.html",
+      "source": "thebrunswicknews.com",
+      "published": "2026-11-25T03:59:00+00:00",
+      "tickers": [
+        "C",
+        "COF"
+      ]
+    },
+    {
+      "title": "Saba Capital buys $577 of BNY Mellon strategic municipals",
+      "url": "https://www.investing.com/news/insider-trading-news/saba-capital-buys-577-of-bny-mellon-strategic-municipals-93CH-5049647",
+      "source": "investing.com",
+      "published": "2026-11-25T03:45:59+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Goldman says US data center boom through 2028 will lift power and gas demand",
+      "url": "https://www.investing.com/news/commodities-news/goldman-says-us-data-center-boom-through-2028-will-lift-power-and-gas-demand-5049616",
+      "source": "investing.com",
+      "published": "2026-11-25T03:30:36+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Lenovo's Stock Target Cut by Morgan Stanley to HK$30 Amid Market Uncertainty",
+      "url": "https://www.gurufocus.com/news/9218937/lenovos-stock-target-cut-by-morgan-stanley-to-hk30-amid-market-uncertainty",
+      "source": "gurufocus.com",
+      "published": "2026-11-25T01:50:28+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, SocGen buy Rs 920 crore stake in Lenskart",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-socgen-buy-rs-920-crore-stake-in-lenskart/articleshow/136145273.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-25T01:26:01+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Tracking Al Gore's Generation Investment Management Portfolio - Q3 2026 Update | $SCHW $MSFT $DHR $AMZN $MELI",
+      "url": "https://seekingalpha.com/article/4971646-al-gore-generation-investment-management-portfolio-q3-2026-update",
+      "source": "seekingalpha.com",
+      "published": "2026-11-25T00:59:04+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Citi weighs return to Venezuela five years after exit, Bloomberg News reports",
+      "url": "https://www.investing.com/news/stock-market-news/citi-weighs-return-to-venezuela-five-years-after-exit-bloomberg-news-reports-5049442",
+      "source": "investing.com",
+      "published": "2026-11-25T00:42:22+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Most Stocks Are Losers. Here's How You Can Still Win",
+      "url": "https://www.fool.com/investing/2026/11/24/most-stocks-are-losers-here-is-how-you-can-still-win/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-25T00:21:40+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "iShares J.P. Morgan EM Corporate Bond ETF (BATS:CEMB) Stock Short Interest Report for November",
+      "url": "https://www.tickerreport.com/banking-finance/13671943/ishares-j-p-morgan-em-corporate-bond-etf-batscemb-stock-short-interest-report-for-november.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-24T23:20:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Amcor to present at the 2026 Citi Basic Materials Conference on December 1, 2026",
+      "url": "https://www.prnewswire.com/news-releases/amcor-to-present-at-the-2026-citi-basic-materials-conference-on-december-1-2026-302949173.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-24T23:00:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "J.P. Morgan Asset Mgmt’s Rosenbaum on 2027 AI Spend",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video",
+      "source": "bloomberg.com",
+      "published": "2026-11-24T22:54:13+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Minnesota Vikings vs. Atlanta Falcons: TV, pregame coverage",
+      "url": "https://www.fox9.com/sports/minnesota-vikings-vs-atlanta-falcons-tv-pregame-coverage",
+      "source": "fox9.com",
+      "published": "2026-11-24T22:35:36+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "US data centre boom to drive power, natural gas demand through 2028: Goldman Sachs",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-data-centre-boom-to-drive-power-natural-gas-demand-through-2028-goldman-sachs/articleshow/136147594.cms",
+      "source": "indiatimes.com",
+      "published": "2026-11-24T22:34:38+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Research Analysts’ Weekly Ratings Changes for Agios Pharmaceuticals (AGIO)",
+      "url": "https://www.tickerreport.com/banking-finance/13671878/research-analysts-weekly-ratings-changes-for-agios-pharmaceuticals-agio.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-24T21:56:42+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Nov 8, 2026; Charlotte, North Carolina, USA; Carolina Panthers cornerback Corey Thornton (31) reacts after interceptsing a pass in the first half at Bank of America Stadium. Mandatory Credit: Bob Donnan-Imagn Images",
+      "url": "https://morganton.com/news/state-regional/north-carolina/image_b21f1778-b106-58e4-af70-0be26c9f22e4.html",
+      "source": "morganton.com",
+      "published": "2026-11-24T21:53:58+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs closing on $1.5B private credit secondaries deal",
+      "url": "https://pitchbook.com/news/articles/goldman-sachs-closing-on-1-5b-private-credit-secondary-deal?.tsrc=rss",
+      "source": "pitchbook.com",
+      "published": "2026-11-24T21:47:35+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Why PNC’s president is getting a one-time equity award",
       "url": "https://www.americanbanker.com/news/why-pnc-s-president-is-getting-a-one-time-equity-award",
@@ -9,6 +156,42 @@
       "tickers": [
         "C",
         "PNC"
+      ]
+    },
+    {
+      "title": "Intercontinental Exchange Chair & CEO Jeffrey C. Sprecher to Present at the Goldman Sachs Financial Services Conference on December 8",
+      "url": "http://www.businesswire.com/news/home/20261124843939/en/Intercontinental-Exchange-Chair-CEO-Jeffrey-C.-Sprecher-to-Present-at-the-Goldman-Sachs-Financial-Services-Conference-on-December-8/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "source": "businesswire.com",
+      "published": "2026-11-24T21:30:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Travel + Leisure Co. To Present at the Morgan Stanley Global Consumer & Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261124728995/en/Travel-Leisure-Co.-To-Present-at-the-Morgan-Stanley-Global-Consumer-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-RedI4F8ANV0Ayz_2sxaC7x7cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX_IuNaA2uUvqX9zYGjwql39",
+      "source": "businesswire.com",
+      "published": "2026-11-24T21:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "The Wendy's Company to Participate in the Morgan Stanley Global Consumer & Retail Conference",
+      "url": "https://www.prnewswire.com/news-releases/the-wendys-company-to-participate-in-the-morgan-stanley-global-consumer--retail-conference-302949850.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-24T21:30:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Could Meta Actually Climb 30%? Or Is J.P. Morgan Totally Wrong?",
+      "url": "https://www.tikr.com/blog/could-meta-actually-climb-30-or-is-j-p-morgan-totally-wrong?ref=yahoofinance&tlnk=yf-261124-24hpvhqr&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-11-24T21:15:57+00:00",
+      "tickers": [
+        "JPM"
       ]
     },
     {
@@ -32,9 +215,37 @@
     },
     {
       "title": "First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference",
-      "url": "https://www.prnewswire.com/news-releases/first-horizon-corporation-to-participate-in-the-goldman-sachs-2026-financial-services-conference-302948690.html",
-      "source": "prnewswire.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-horizon-corporation-participate-goldman-211500932.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-24T21:15:00+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Wells Fargo (WFC) Stock Still Looks Undervalued Following Its 99% Run",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-wfc-stock-still-211124730.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-24T21:11:24+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Exelixis to Participate in the Citi 2026 Global Healthcare Conference",
+      "url": "http://www.businesswire.com/news/home/20261124759386/en/Exelixis-to-Participate-in-the-Citi-2026-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-WBlLQO14j4QZPTyX5CYOnwC4VjN53jumZRlnzhBoBxGrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3ltkRSnqzf6ourQGu_UA28CzZCGORvG0LE20YOvo49uqw==",
+      "source": "businesswire.com",
+      "published": "2026-11-24T21:05:00+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Wealthfront to Present at the Goldman Sachs 2026 Financial Services Conference",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wealthfront-present-goldman-sachs-2026-210500522.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-24T21:05:00+00:00",
       "tickers": [
         "GS"
       ]
@@ -49,233 +260,22 @@
       ]
     },
     {
-      "title": "Exelixis to Participate in the Citi 2026 Global Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20261124759386/en/Exelixis-to-Participate-in-the-Citi-2026-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-YN6jh2YIt48IJ80PBTZst6qcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5aCD-FAO6Y4EA4btlz6J4c",
-      "source": "businesswire.com",
+      "title": "Attovia Therapeutics to Participate in Citi’s 2026 Global Healthcare Conference",
+      "url": "https://finance.yahoo.com/healthcare/articles/attovia-therapeutics-participate-citi-2026-210500716.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-24T21:05:00+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Netflix buys LA's Radford Studio Center for $380M from Goldman-led lenders; Hackman Capital paid $1.85B for the lot in 2021, then defaulted on a $1.1B mortgage (John Gittelsohn/Bloomberg)",
-      "url": "https://mediagazer.com/261124/p11#a261124p11",
-      "source": "mediagazer.com",
-      "published": "2026-11-24T21:04:29+00:00",
+      "title": "7 Firms Downgraded Zscaler After CrowdStrike’s $43.9 Billion Deal. Is There Still Money to Make?",
+      "url": "https://www.tikr.com/blog/7-firms-downgraded-zscaler-after-crowdstrikes-43-9-billion-deal-is-there-still-money-to-make?ref=yahoofinance&tlnk=yf-261124-pchw9jcv&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-11-24T21:04:42+00:00",
       "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Northern Trust Leaders to Participate in Goldman Sachs Financial Services Conference 2026 on December 9",
-      "url": "http://www.businesswire.com/news/home/20261124906734/en/Northern-Trust-Leaders-to-Participate-in-Goldman-Sachs-Financial-Services-Conference-2026-on-December-9/?feedref=JjAwJuNHiystnCoBq_hl-VJQ4LChRQEJgEJh9kC8YlSqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5nt7Rl4sG9WNhgpwCiv0iU",
-      "source": "businesswire.com",
-      "published": "2026-11-24T21:00:00+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
-      "source": "bloomberg.com",
-      "published": "2026-11-24T20:55:49+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "What Is Billionaire Richard Chilton Buying? His 10 Biggest Stock Holdings",
-      "url": "https://www.insidermonkey.com/news/what-is-billionaire-richard-chilton-buying-his-10-biggest-stock-holdings-1867296/",
-      "source": "insidermonkey.com",
-      "published": "2026-11-24T20:27:58+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
-      "source": "bloomberg.com",
-      "published": "2026-11-24T20:15:34+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Pan American Silver (NYSE:PAAS) Rating Lowered to Neutral at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-pan-american-silver-nyse-paas-rating-lowered-to-neutral-at-bank-of-america-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T20:06:59+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Wells Fargo Tells Customers They Are Responsible for AI Agents",
-      "url": "https://www.pymnts.com/news/banking/2026/wells-fargo-tells-customers-they-are-responsible-for-ai-agents/",
-      "source": "pymnts.com",
-      "published": "2026-11-24T20:04:45+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Google DeepMind Opens Gemini 4 Carbon for Long-Horizon Agentic Reasoning and Cybersecurity",
-      "url": "https://dev.to/overclock_now/google-deepmind-opens-gemini-4-carbon-for-long-horizon-agentic-reasoning-and-cybersecurity-f7k",
-      "source": "dev.to",
-      "published": "2026-11-24T20:02:46+00:00",
-      "tickers": [
-        "USB"
-      ]
-    },
-    {
-      "title": "BofA Downgrades Pan American Silver (PAAS) to Neutral Amid 2027 Production Concerns",
-      "url": "https://www.gurufocus.com/news/9218113/bofa-downgrades-pan-american-silver-paas-to-neutral-amid-2027-production-concerns",
-      "source": "gurufocus.com",
-      "published": "2026-11-24T19:55:48+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "BottomBounce Goldman Sachs estimates to be worth $1 trillion+",
-      "url": "https://investorshub.advfn.com/boards/read_msg.aspx?message_id=178163979",
-      "source": "advfn.com",
-      "published": "2026-11-24T19:53:25+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs JUST U.S. Large Cap Equity ETF (NYSEARCA:JUST) Shares Gap Up – Should You Buy?",
-      "url": "https://www.tickerreport.com/banking-finance/13671833/goldman-sachs-just-u-s-large-cap-equity-etf-nysearcajust-shares-gap-up-should-you-buy.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-24T19:41:01+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Edgewell Personal Care to Webcast Fireside Chat at the Morgan Stanley Global Consumer and Retail Conference",
-      "url": "https://www.prnewswire.com/news-releases/edgewell-personal-care-to-webcast-fireside-chat-at-the-morgan-stanley-global-consumer-and-retail-conference-302949809.html",
-      "source": "prnewswire.com",
-      "published": "2026-11-24T19:20:00+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Citi AAdvantage Platinum Select Review—Why American Still Wins For Credit Card Spending Toward Status",
-      "url": "https://viewfromthewing.com/citi-aadvantage-platinum-select-review-why-american-still-wins-for-credit-card-spending-toward-status/",
-      "source": "viewfromthewing.com",
-      "published": "2026-11-24T19:04:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "HP Maintained by Citigroup -- Price Target Lowered to $37.00",
-      "url": "https://www.gurufocus.com/news/9217903/hp-maintained-by-citigroup-price-target-lowered-to-3700",
-      "source": "gurufocus.com",
-      "published": "2026-11-24T18:33:54+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "CBRL Maintained by Citigroup -- Price Target Raised to $46.00",
-      "url": "https://www.gurufocus.com/news/9217902/cbrl-maintained-by-citigroup-price-target-raised-to-4600",
-      "source": "gurufocus.com",
-      "published": "2026-11-24T18:33:21+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "MDB Maintained by Citigroup -- Price Target Lowered to $525",
-      "url": "https://www.gurufocus.com/news/9217901/mdb-maintained-by-citigroup-price-target-lowered-to-525",
-      "source": "gurufocus.com",
-      "published": "2026-11-24T18:32:53+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "RCUS Maintained by Citigroup -- Price Target Lowered to $47",
-      "url": "https://www.gurufocus.com/news/9217900/rcus-maintained-by-citigroup-price-target-lowered-to-47",
-      "source": "gurufocus.com",
-      "published": "2026-11-24T18:32:30+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "A Maintained by Citigroup -- Price Target Raised to $205",
-      "url": "https://www.gurufocus.com/news/9217899/a-maintained-by-citigroup-price-target-raised-to-205",
-      "source": "gurufocus.com",
-      "published": "2026-11-24T18:31:59+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "BofA favors copper and uranium, downgrades Pan American Silver",
-      "url": "https://seekingalpha.com/news/4676314-bofa-favors-copper-and-uranium-downgrades-pan-american-silver",
-      "source": "seekingalpha.com",
-      "published": "2026-11-24T18:13:16+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "MongoDB (NASDAQ:MDB) Given New $525.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-mongodb-nasdaq-mdb-given-new-52500-price-target-at-citigroup-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T18:12:36+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Cracker Barrel Old Country Store (NASDAQ:CBRL) Given New $46.00 Price Target at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-cracker-barrel-old-country-store-nasdaq-cbrl-given-new-4600-price-target-at-citigroup-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T18:12:34+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Arcus Biosciences (NYSE:RCUS) Stock Gets Price Target Trim from Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-arcus-biosciences-nyse-rcus-stock-gets-price-target-trim-from-citigroup-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T18:12:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Helmerich & Payne (NYSE:HP) Stock Price Target Cut by Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-helmerich-payne-nyse-hp-stock-price-target-cut-by-citigroup-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T18:12:33+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Forecasts Strong Price Appreciation for Agilent Technologies (NYSE:A) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-agilent-technologies-nyse-a-stock-2026-11-24/",
-      "source": "marketbeat.com",
-      "published": "2026-11-24T18:12:32+00:00",
-      "tickers": [
-        "C"
+        "C",
+        "COF"
       ]
     }
   ]
