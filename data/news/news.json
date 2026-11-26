@@ -1,288 +1,285 @@
 {
-  "last_updated": "2026-11-25T15:57:20.609436+00:00",
+  "last_updated": "2026-11-26T00:10:13.258424+00:00",
   "headlines": [
     {
-      "title": "Eversource Energy (NYSE:ES) Now Covered by Morgan Stanley",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-eversource-energy-nyse-es-now-covered-by-morgan-stanley-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T15:08:47+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Starbucks is said to be exploring a sale of its Japan business",
-      "url": "https://qz.com/starbucks-japan-business-sale-banks-112526",
-      "source": "qz.com",
-      "published": "2026-11-25T14:20:19+00:00",
-      "tickers": [
-        "C",
-        "MS"
-      ]
-    },
-    {
-      "title": "Arcturus Therapeutics to Present at Citi’s 2026 Global Healthcare Conference",
-      "url": "http://www.businesswire.com/news/home/20261125087160/en/Arcturus-Therapeutics-to-Present-at-Citi%E2%80%99s-2026-Global-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg==",
-      "source": "businesswire.com",
-      "published": "2026-11-25T14:15:00+00:00",
+      "title": "Banks Scrutinize Asian Data Center Loans As U.S. Tightens AI Chip Rules",
+      "url": "https://awesomecapital.blogspot.com/2026/11/banks-scrutinize-asian-data-center.html",
+      "source": "awesomecapital.blogspot.com",
+      "published": "2026-11-25T22:26:16+00:00",
       "tickers": [
         "C"
       ]
     },
     {
-      "title": "Truist Financial Has Lowered Expectations for Analog Devices (NASDAQ:ADI) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-analog-devices-nasdaq-adi-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:55+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Dollar Tree (NASDAQ:DLTR) Price Target Raised to $169.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-dollar-tree-nasdaq-dltr-price-target-raised-to-16900-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:54+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Has Lowered Expectations for Fluence Energy (NASDAQ:FLNC) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-has-lowered-expectations-for-fluence-energy-nasdaq-flnc-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:54+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "TTM Technologies (NASDAQ:TTMI) Stock Keeps \"Buy\" Rating at Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ttm-technologies-nasdaq-ttmi-stock-keeps-buy-rating-at-truist-financial-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:52+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Best Buy (NYSE:BBY) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-best-buy-nyse-bby-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:52+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Positive Forecast for Best Buy (NYSE:BBY) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-positive-forecast-for-best-buy-nyse-bby-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:51+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Issues Pessimistic Forecast for Burlington Stores (NYSE:BURL) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-issues-pessimistic-forecast-for-burlington-stores-nyse-burl-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:49+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for DICK'S Sporting Goods (NYSE:DKS) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-forecasts-strong-price-appreciation-for-dicks-sporting-goods-nyse-dks-stock-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:47+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for Duke Energy (NYSE:DUK) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-forecasts-strong-price-appreciation-for-duke-energy-nyse-duk-stock-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:47+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Dycom Industries (NYSE:DY) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-pessimistic-forecast-for-dycom-industries-nyse-dy-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:46+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Gets Price Target Reduction from Truist Financial",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-hewlett-packard-enterprise-nyse-hpe-stock-gets-price-target-reduction-from-truist-financial-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:46+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for Jacobs Solutions (NYSE:J) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-forecasts-strong-price-appreciation-for-jacobs-solutions-nyse-j-stock-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:43+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Southern (NYSE:SO) Price Target Raised to $98.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-southern-nyse-so-price-target-raised-to-9800-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T14:06:36+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "SentinelOne (NYSE:S) Stock Gets Price Target Bump from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-sentinelone-nyse-s-stock-gets-price-target-bump-from-jpmorgan-chase-co-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:42:37+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "AutoZone (NYSE:AZO) Stock Gets Price Target Cut from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-autozone-nyse-azo-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:42:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Abercrombie & Fitch (NYSE:ANF) Price Target Raised to $191.00",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-abercrombie-fitch-nyse-anf-price-target-raised-to-19100-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:42:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Netskope (NASDAQ:NTSK) Stock Gets Price Target Boost from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-netskope-nasdaq-ntsk-stock-gets-price-target-boost-from-jpmorgan-chase-co-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:42:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Okta (NASDAQ:OKTA) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-okta-nasdaq-okta-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:42:35+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Positive Forecast for Dollar Tree (NASDAQ:DLTR) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-positive-forecast-for-dollar-tree-nasdaq-dltr-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:42:34+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Goldman Sachs says it’s too early to buy the AI selloff",
-      "url": "https://cryptobriefing.com/goldman-sachs-too-early-buy-ai-selloff/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-25T13:38:40+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "URBN Maintained by JP Morgan -- Price Target Lowered to $106",
-      "url": "https://www.gurufocus.com/news/9220072/urbn-maintained-by-jp-morgan-price-target-lowered-to-106",
-      "source": "gurufocus.com",
-      "published": "2026-11-25T13:37:17+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "CCEP Maintained by JP Morgan -- Price Target Raised to $97.00",
-      "url": "https://www.gurufocus.com/news/9220067/ccep-maintained-by-jp-morgan-price-target-raised-to-9700",
-      "source": "gurufocus.com",
-      "published": "2026-11-25T13:34:50+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for Urban Outfitters (NASDAQ:URBN) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-issues-pessimistic-forecast-for-urban-outfitters-nasdaq-urbn-stock-price-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:24:33+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Coca-Cola Europacific Partners (NASDAQ:CCEP) Stock Gets Price Target Boost from JPMorgan Chase & Co.",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-coca-cola-europacific-partners-nasdaq-ccep-stock-gets-price-target-boost-from-jpmorgan-chase-co-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:24:32+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "PNC Executives to Speak at Goldman Sachs Financial Services Conference",
-      "url": "https://investor.pnc.com/news-events/financial-press-releases/detail/705/pnc-executives-to-speak-at-goldman-sachs-financial-services-conference",
-      "source": "pnc.com",
-      "published": "2026-11-25T13:15:00+00:00",
-      "tickers": [
-        "C",
-        "PNC"
-      ]
-    },
-    {
-      "title": "Ambarella (NASDAQ:AMBA) Cut to \"Underperform\" at Bank of America",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-ambarella-nasdaq-amba-cut-to-underperform-at-bank-of-america-2026-11-25/",
-      "source": "marketbeat.com",
-      "published": "2026-11-25T13:12:34+00:00",
+      "title": "Embecta to Participate in BofA Securities 2026 Leveraged Finance Conference",
+      "url": "https://finance.yahoo.com/healthcare/articles/embecta-participate-bofa-securities-2026-220000062.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-25T22:00:00+00:00",
       "tickers": [
         "BAC",
         "C"
       ]
     },
     {
-      "title": "Citigroup and Standard Chartered tighten scrutiny of Southeast Asian data centers under US chip curbs",
-      "url": "https://cryptobriefing.com/banks-scrutinize-southeast-asia-data-centers-chip-curbs/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-25T13:06:56+00:00",
+      "title": "Coeur to Participate in Upcoming Conferences",
+      "url": "http://www.businesswire.com/news/home/20261125673318/en/Coeur-to-Participate-in-Upcoming-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-VtKGrx9nVz0xaZgIoTJ4s_5dx8T16yUG6n2KrIsoON4WJT50v2g3Ei-19qH0fyPszGrim8IhAkVNXbaI1AGppOzkqEXpa07kut2m9xviGvGTYPavmvZfs1oMuV_AizOSg==",
+      "source": "businesswire.com",
+      "published": "2026-11-25T21:30:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Downgrades Ambarella Stock After Disappointing Earnings Results",
+      "url": "https://www.barchart.com/story/news/9010224/morgan-stanley-downgrades-ambarella-stock-after-disappointing-earnings-results",
+      "source": "barchart.com",
+      "published": "2026-11-25T21:19:45+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+      "source": "bloomberg.com",
+      "published": "2026-11-25T21:17:21+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Citigroup (C) Explores Venezuela Banking Return As It Seeks Sanctions Waivers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-explores-venezuela-banking-211524552.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-25T21:15:24+00:00",
       "tickers": [
         "C"
+      ]
+    },
+    {
+      "title": "Li Auto (NASDAQ:LI) Stock Rating Raised to Neutral at JPMorgan Chase & Co.",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-li-auto-nasdaq-li-stock-rating-raised-to-neutral-at-jpmorgan-chase-co-2026-11-25/",
+      "source": "marketbeat.com",
+      "published": "2026-11-25T21:06:33+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Best Buy to Present at the Morgan Stanley Global Consumer and Retail Conference",
+      "url": "http://www.businesswire.com/news/home/20261125585593/en/Best-Buy-to-Present-at-the-Morgan-Stanley-Global-Consumer-and-Retail-Conference/?feedref=JjAwJuNHiystnCoBq_hl-bsjWlVyeNLyq_m2tvaHJJaD1w08bW43U_zsPK9s38B4rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3miu0ZZ-LtXjCwD3Ec3ldN_zZCGORvG0LE20YOvo49uqw==",
+      "source": "businesswire.com",
+      "published": "2026-11-25T21:05:00+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "CoreWeave’s Bankers Reportedly Ready $4.5B GPU-Backed Loan Tied To Meta Deal",
+      "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-s-bankers-reportedly-ready-4-5-b-gpu-backed-loan-tied-to-meta-deal/cNbHrsCR9mw?.tsrc=rss",
+      "source": "stocktwits.com",
+      "published": "2026-11-25T21:02:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Higher Late Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-higher-afternoon-205354613.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-25T20:53:54+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "title": "BNY and Microsoft Let AI Agents Haggle Over Treasurys",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+      "source": "pymnts.com",
+      "published": "2026-11-25T20:46:14+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Dec 3, 2022; Charlotte, North Carolina, USA; North Carolina Tar Heels mascot Rameses during the fourth quarter between the North Carolina Tar Heels and the Clemson Tigers at Bank of America Stadium. Mandatory Credit: Jim Dedmon-USA TODAY Sports",
+      "url": "https://morganton.com/news/state-regional/north-carolina/image_543cf19d-23d2-5633-bdc4-6abad84813ad.html",
+      "source": "morganton.com",
+      "published": "2026-11-25T20:33:34+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Wells Fargo set to leave Atlantic Station amid changes in local banking landscape",
+      "url": "https://www.bizjournals.com/atlanta/news/2026/11/25/wells-fargo-to-depart-atlantic-station-office.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-11-25T20:27:47+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Bank of America CEO attributes recent bank tech disruptions to urgent software patching",
+      "url": "https://www.bizjournals.com/charlotte/news/2026/11/25/bank-of-america-brian-moynihan-bank-outages-tech.html?ana=brss_1543",
+      "source": "bizjournals.com",
+      "published": "2026-11-25T20:27:18+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Beacon Financial (NYSE:BBT) Stock: Insider Sumant Pustake Buys 1,679 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-beacon-financial-nyse-bbt-stock-insider-sumant-pustake-buys-1679-shares-2026-11-25/",
+      "source": "marketbeat.com",
+      "published": "2026-11-25T20:08:19+00:00",
+      "tickers": [
+        "C",
+        "TFC"
+      ]
+    },
+    {
+      "title": "Nov 22, 2026; Charlotte, North Carolina, USA; Carolina Panthers wide receiver Tetairoa McMillan (4) warms up prior to a game against the Baltimore Ravens at Bank of America Stadium. Mandatory Credit: Jim Dedmon-Imagn Images",
+      "url": "https://morganton.com/news/state-regional/north-carolina/image_c8a9b817-fa6f-5ea7-a42f-f8c533323ca9.html",
+      "source": "morganton.com",
+      "published": "2026-11-25T20:08:05+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Credicorp, UWM Holdings, Inter & Co, PNC Financial Services Group, and Banco Macro shares are soaring, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/bap/news/why-up-down/credicorp-uwm-holdings-inter-and-co-pnc-financial-services-group-and-banco-macro-shares-are-soaring-what-you-need-to-know",
+      "source": "stockstory.org",
+      "published": "2026-11-25T20:06:03+00:00",
+      "tickers": [
+        "C",
+        "PNC"
+      ]
+    },
+    {
+      "title": "Kirk Cousins makes return to U.S. Bank Stadium with Vikings",
+      "url": "https://www.fox9.com/video/fmc-34i3p858gegev4im",
+      "source": "fox9.com",
+      "published": "2026-11-25T20:06:01+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Kevin O’Connell downplays Kirk Cousins sideline exchange with Brian O’Neill",
+      "url": "https://www.fox9.com/video/fmc-a8u1olz7v58slbt8",
+      "source": "fox9.com",
+      "published": "2026-11-25T20:04:32+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Jensen Huang’s Return Is Off to a Rough Start. The Market Isn’t the Only Thing Paying the Price.",
+      "url": "https://finance.yahoo.com/m/767ae320-0bc1-3401-b2ad-69f62d866b2c/jensen-huang%E2%80%99s-return-is-off.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-25T19:55:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Bank of America sells $120 of Federated Hermes shares",
+      "url": "https://www.investing.com/news/insider-trading-news/bank-of-america-sells-120-of-federated-hermes-shares-93CH-5051358",
+      "source": "investing.com",
+      "published": "2026-11-25T19:15:52+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Sees 52 More GW of Data Center Power in 2028. These 3 Stocks Look Best Positioned to Cash In.",
+      "url": "https://www.fool.com/investing/2026/11/25/goldman-sachs-sees-52-more-gw-of-data-center-power-in-2028-these-3-stocks-look-best-positioned-to-cash-in/?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-25T19:06:11+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Salesforce earnings to put Bank of America’s growth outlook to the test",
+      "url": "https://www.proactiveinvestors.com/companies/news/1102461/salesforce-earnings-to-put-bank-of-america-s-growth-outlook-to-the-test-1102461.html?.tsrc=rss",
+      "source": "proactiveinvestors.com",
+      "published": "2026-11-25T18:59:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Reinstates Equal Weight on Eversource Energy (ES) Amid Legal Headwinds",
+      "url": "https://www.gurufocus.com/news/9220768/morgan-stanley-reinstates-equal-weight-on-eversource-energy-es-amid-legal-headwinds",
+      "source": "gurufocus.com",
+      "published": "2026-11-25T18:57:18+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Why Jim Cramer Stuck With Wells Fargo Stock After the Pullback",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-stuck-wells-184929062.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-25T18:49:29+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "Eversource Energy resumed at Equal Weight at Morgan Stanley on overhangs",
+      "url": "https://seekingalpha.com/news/4676666-eversource-energy-resumed-equal-weight-morgan-stanley-overhangs",
+      "source": "seekingalpha.com",
+      "published": "2026-11-25T18:43:36+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Saba Capital Management, L.P. Boosts BNY Mellon High Yield Strategies Fund (DHF) Stake by 795.99%",
+      "url": "https://www.gurufocus.com/news/9220751/saba-capital-management-lp-boosts-bny-mellon-high-yield-strategies-fund-dhf-stake-by-79599",
+      "source": "gurufocus.com",
+      "published": "2026-11-25T18:39:59+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Ambarella stock: Morgan Stanley cautions against betting on recovery",
+      "url": "https://invezz.com/news/2026/11/25/ambarella-stock-morgan-stanley-cautions-against-betting-on-recovery/",
+      "source": "invezz.com",
+      "published": "2026-11-25T18:21:16+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "12 Big Funds Bought JPMorgan Chase Last Quarter, While 12 Sold. Who’s Right?",
+      "url": "https://www.tikr.com/blog/12-big-funds-bought-jpmorgan-chase-last-quarter-while-12-sold-whos-right?ref=yahoofinance&tlnk=yf-261125-wgx95c2j&.tsrc=rss",
+      "source": "tikr.com",
+      "published": "2026-11-25T18:21:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "How Much Can Julius Baer CEO Stefan Bollinger Spend on Share Buybacks?",
+      "url": "https://observer.com/2026/11/julius-baer-stefan-bollinger-share-buyback/",
+      "source": "observer.com",
+      "published": "2026-11-25T18:03:10+00:00",
+      "tickers": [
+        "MS"
       ]
     }
   ]
