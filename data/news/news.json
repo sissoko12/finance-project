@@ -1,12 +1,105 @@
 {
-  "last_updated": "2026-11-27T20:12:52.610975+00:00",
+  "last_updated": "2026-11-28T02:54:30.263809+00:00",
   "headlines": [
+    {
+      "title": "Citi (C) Hit by $35 Billion London Reporting Error, Triggers Staff Changes",
+      "url": "https://www.gurufocus.com/news/9229158/citi-c-hit-by-35-billion-london-reporting-error-triggers-staff-changes",
+      "source": "gurufocus.com",
+      "published": "2026-11-28T00:30:17+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citigroup Inc. (C) Files Form 8-K With SEC Dated November 27, 2026",
+      "url": "https://www.gurufocus.com/news/9229157/citigroup-inc-c-files-form-8k-with-sec-dated-november-27-2026",
+      "source": "gurufocus.com",
+      "published": "2026-11-28T00:30:07+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "A revocation drill for AI agents, and the caching bug it catches",
+      "url": "https://dev.to/anilatambharii/a-revocation-drill-for-ai-agents-and-the-caching-bug-it-catches-2kol",
+      "source": "dev.to",
+      "published": "2026-11-27T22:06:07+00:00",
+      "tickers": [
+        "WFC",
+        "C"
+      ]
+    },
+    {
+      "title": "BNY Mellon Strategic Municipal Bond Fund (DSM) Declares $0.03 Monthly Dividend",
+      "url": "https://www.gurufocus.com/news/9228882/bny-mellon-strategic-municipal-bond-fund-dsm-declares-003-monthly-dividend",
+      "source": "gurufocus.com",
+      "published": "2026-11-27T21:55:36+00:00",
+      "tickers": [
+        "BK"
+      ]
+    },
+    {
+      "title": "Allstate has been suffering an outage since Monday",
+      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+      "source": "theverge.com",
+      "published": "2026-11-27T21:52:42+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Why JPMorgan Chase Fans May Look To ETFs Right Now",
+      "url": "https://finance.yahoo.com/markets/options/articles/why-jpmorgan-chase-fans-may-211349086.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T21:13:49+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Weekly Wrap: Bitcoin Struggles As Latest Rally Fails",
+      "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-struggles-as-latest-rally-fails-8104?.tsrc=rss",
+      "source": "cryptoprowl.com",
+      "published": "2026-11-27T20:19:00+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "Goldman Warns Stocks Face $100 Billion Sell Wave",
+      "url": "https://nai500.com/blog/2026/11/goldman-warns-stocks-face-100-billion-sell-wave/",
+      "source": "nai500.com",
+      "published": "2026-11-27T20:00:05+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "title": "Caterpillar is quietly making plans for a bigger 2027",
+      "url": "https://www.thestreet.com/investing/stocks/caterpillar-is-quietly-making-plans-for-a-bigger-2027?.tsrc=rss",
+      "source": "thestreet.com",
+      "published": "2026-11-27T19:47:00+00:00",
+      "tickers": [
+        "BAC",
+        "C"
+      ]
+    },
     {
       "title": "Citi AAdvantage Business Card Review—75,000 Miles And Status Credit For Two People From The Same Spending",
       "url": "https://viewfromthewing.com/citi-aadvantage-business-card-review-75000-miles-and-status-credit-for-two-people-from-the-same-spending/",
       "source": "viewfromthewing.com",
       "published": "2026-11-27T19:04:59+00:00",
       "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Top Stock Reports for Alphabet, Meta & Bank of America",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-alphabet-meta-184100991.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T18:41:00+00:00",
+      "tickers": [
+        "BAC",
         "C"
       ]
     },
@@ -42,9 +135,18 @@
       ]
     },
     {
+      "title": "Sector Update: Consumer Stocks Advance Friday Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-friday-171212418.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T17:12:12+00:00",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
       "title": "Harley-Davidson Near Buy Point As Sales Rev Up",
-      "url": "https://www.investors.com/stock-lists/new-highs/harley-davidson-hog-stock-new-highs-markets-zim-integrated-shipping/",
-      "source": "investors.com",
+      "url": "https://finance.yahoo.com/m/efc53298-2cf2-3ed4-aecb-1e3bdd18cbdd/harley-davidson-near-buy.html?.tsrc=rss",
+      "source": "yahoo.com",
       "published": "2026-11-27T17:11:44+00:00",
       "tickers": [
         "MS"
@@ -66,6 +168,25 @@
       "published": "2026-11-27T16:14:46+00:00",
       "tickers": [
         "GS"
+      ]
+    },
+    {
+      "title": "Banks Facing Bond Price-Fixing Trial Agree to Pay Over $400 Million",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/banks-facing-bond-price-fixing-161219624.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T16:12:19+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Omega Healthcare Well Positioned Amid Favorable Sector Fundamentals, Truist Says",
+      "url": "https://finance.yahoo.com/real-estate/articles/omega-healthcare-well-positioned-amid-160716832.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T16:07:16+00:00",
+      "tickers": [
+        "C",
+        "TFC"
       ]
     },
     {
@@ -128,160 +249,41 @@
       ]
     },
     {
+      "title": "Schwab Accelerates AI Adoption: Can It Strengthen Profitability?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/schwab-accelerates-ai-adoption-strengthen-153600527.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T15:36:00+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
+      "title": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow",
+      "url": "https://247wallst.com/investing/2026/11/27/prediction-this-overlooked-ai-stock-could-be-a-big-winner-in-nvidias-shadow/?.tsrc=rss",
+      "source": "247wallst.com",
+      "published": "2026-11-27T15:33:24+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Evercore (EVR) Down 2.8% Since Last Earnings Report: Can It Rebound?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-evr-down-2-8-153014464.html?.tsrc=rss",
+      "source": "yahoo.com",
+      "published": "2026-11-27T15:30:14+00:00",
+      "tickers": [
+        "C",
+        "SCHW"
+      ]
+    },
+    {
       "title": "Goldman Sachs Names Top China Humanoid Robotics Stocks to Watch",
       "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-humanoid-robotics-stocks-to-watch-5053639",
       "source": "investing.com",
       "published": "2026-11-27T15:23:47+00:00",
       "tickers": [
         "GS"
-      ]
-    },
-    {
-      "title": "Contrasting Blue Owl Capital (NYSE:OWL) & Morgan Stanley (NYSE:MS)",
-      "url": "https://www.tickerreport.com/banking-finance/13675955/contrasting-blue-owl-capital-nyseowl-morgan-stanley-nysems.html",
-      "source": "tickerreport.com",
-      "published": "2026-11-27T15:14:42+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Bank of America Sets S&P 500 Target at 7,800 for 2027, SPY Shows Slight Undervaluation",
-      "url": "https://www.gurufocus.com/news/9228689/bank-of-america-sets-sp-500-target-at-7800-for-2027-spy-shows-slight-undervaluation",
-      "source": "gurufocus.com",
-      "published": "2026-11-27T14:59:01+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Goldman calls credit a ‘three-speed market’ as CCC spreads top 1,200bps",
-      "url": "https://cryptobriefing.com/goldman-three-speed-credit-market-ccc-spreads/",
-      "source": "cryptobriefing.com",
-      "published": "2026-11-27T14:58:04+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Bank of America Stock: Is BAC Underperforming the Financial Sector?",
-      "url": "https://www.barchart.com/story/news/9033458/bank-of-america-stock-is-bac-underperforming-the-financial-sector",
-      "source": "barchart.com",
-      "published": "2026-11-27T14:49:20+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "SpaceX (SPCX) Stock: What Happens to a Bankrupt Data Center in Orbit?",
-      "url": "https://blockonomi.com/spacex-spcx-stock-what-happens-to-a-bankrupt-data-center-in-orbit/",
-      "source": "blockonomi.com",
-      "published": "2026-11-27T14:36:37+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Drops Stark Take on Year-End Stock Rally",
-      "url": "https://www.gurufocus.com/news/9228519/goldman-sachs-drops-stark-take-on-yearend-stock-rally",
-      "source": "gurufocus.com",
-      "published": "2026-11-27T14:36:31+00:00",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "title": "BofA sets 2027 S&P 500 target at 7,800 after pullback",
-      "url": "https://seekingalpha.com/news/4677028-bofa-sets-2027-s-and-p-500-target-at-7800-after-pullback",
-      "source": "seekingalpha.com",
-      "published": "2026-11-27T14:01:36+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "J.P. Morgan Highlights Selective Luxury Spending; Richemont (CFRUY) Stands Out on Dividend ...",
-      "url": "https://www.gurufocus.com/news/9228623/jp-morgan-highlights-selective-luxury-spending-richemont-cfruy-stands-out-on-dividend-sustainability",
-      "source": "gurufocus.com",
-      "published": "2026-11-27T13:58:00+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "European luxury braces for another bumpy and uneven year—J.P. Morgan",
-      "url": "https://seekingalpha.com/news/4677013-european-luxury-braces-for-another-bumpy-and-uneven-year---jp-morgan",
-      "source": "seekingalpha.com",
-      "published": "2026-11-27T13:42:53+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Exploits Arrive in “10 to 15 Minutes,” Patches in 45 Days, per Cisco’s Jeetu Patel. Cue CrowdStrike",
-      "url": "https://www.tikr.com/blog/exploits-arrive-in-10-to-15-minutes-patches-in-45-days-per-ciscos-jeetu-patel-cue-crowdstrike?ref=yahoofinance&tlnk=yf-261127-27866rp2&.tsrc=rss",
-      "source": "tikr.com",
-      "published": "2026-11-27T13:35:36+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "JPMorgan: I'm Sitting This One Out For Now | $JPM",
-      "url": "https://seekingalpha.com/article/4972495-jpmorgan-stock-i-am-sitting-this-one-out-for-now",
-      "source": "seekingalpha.com",
-      "published": "2026-11-27T13:30:38+00:00",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "title": "Qfin (NASDAQ:QFIN) Upgraded to Neutral at Citigroup",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-qfin-nasdaq-qfin-upgraded-to-neutral-at-citigroup-2026-11-27/",
-      "source": "marketbeat.com",
-      "published": "2026-11-27T13:06:40+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Citigroup Issues Positive Forecast for HP (NYSE:HPQ) Stock Price",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-hp-nyse-hpq-stock-price-2026-11-27/",
-      "source": "marketbeat.com",
-      "published": "2026-11-27T13:06:38+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "Controladora Vuela Compania de Aviacion (NYSE:VLRS) Downgraded by Citigroup to Sell",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-controladora-vuela-compania-de-aviacion-nyse-vlrs-downgraded-by-citigroup-to-sell-2026-11-27/",
-      "source": "marketbeat.com",
-      "published": "2026-11-27T13:06:35+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "American Airlines And Citi Test A $695 Business Card That Could Earn 50% More Miles And Loyalty Points",
-      "url": "https://viewfromthewing.com/american-airlines-and-citi-test-a-695-business-card-that-could-earn-50-more-miles-and-loyalty-points/",
-      "source": "viewfromthewing.com",
-      "published": "2026-11-27T13:04:56+00:00",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "title": "First National Bank Alaska Is Smashing The Market, Plus Pays 2 Dividends Next Month | $PNC $RF $NEWT $SPY $FBAK",
-      "url": "https://seekingalpha.com/article/4971541-first-national-bank-alaska-is-smashing-the-market-plus-pays-2-dividends-next-month",
-      "source": "seekingalpha.com",
-      "published": "2026-11-27T13:00:00+00:00",
-      "tickers": [
-        "C",
-        "PNC"
       ]
     }
   ]
