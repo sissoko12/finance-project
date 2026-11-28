@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-11-28T02:54:30.263809+00:00",
+  "last_updated": "2026-11-28T11:34:12.955208+00:00",
   "headlines": [
+    {
+      "title": "Inside Jamie Dimon's 'Navy SEAL' approach to getting big things done",
+      "url": "https://www.businessinsider.com/jamie-dimon-jpmorgan-small-navy-seal-teams-2026-11",
+      "source": "businessinsider.com",
+      "published": "2026-11-28T09:31:01+00:00",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "title": "United Fidelity Is Shut in Biggest US Bank Collapse in Two Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/united-fidelity-is-shut-in-biggest-us-bank-collapse-in-two-years",
+      "source": "bloomberg.com",
+      "published": "2026-11-28T06:24:35+00:00",
+      "tickers": [
+        "USB"
+      ]
+    },
+    {
+      "title": "Morgan Stanley (NYSE:MS) Stock Rating Cut to \"Sell\" at Wall Street Zen",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-morgan-stanley-nyse-ms-stock-rating-cut-to-sell-at-wall-street-zen-2026-11-28/",
+      "source": "marketbeat.com",
+      "published": "2026-11-28T06:12:38+00:00",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "title": "Citigroup faces executive shake-up after $35 billion bookkeeping error - WSJ",
+      "url": "https://www.investing.com/news/company-news/citigroup-faces-executive-shakeup-after-35-billion-bookkeeping-error--wsj-5054160",
+      "source": "investing.com",
+      "published": "2026-11-28T04:22:08+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Citi’s Devin rollout could save the bank about $1.5 billion in 2026",
+      "url": "https://cryptobriefing.com/citi-devin-ai-15-billion-savings/",
+      "source": "cryptobriefing.com",
+      "published": "2026-11-28T04:10:56+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Access Investment Grade Corporate Bond ETF (NYSEARCA:GIGB) Shares Shorted: Short Interest Up 332.5% in November",
+      "url": "https://www.tickerreport.com/banking-finance/13676284/goldman-sachs-access-investment-grade-corporate-bond-etf-nysearcagigb-shares-shorted-short-interest-up-332-5-in-november.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-28T01:20:41+00:00",
+      "tickers": [
+        "GS"
+      ]
+    },
     {
       "title": "Citi (C) Hit by $35 Billion London Reporting Error, Triggers Staff Changes",
       "url": "https://www.gurufocus.com/news/9229158/citi-c-hit-by-35-billion-london-reporting-error-triggers-staff-changes",
@@ -57,6 +111,15 @@
       ]
     },
     {
+      "title": "CITIGROUP INC: Form 8-K - 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000119312526480258/0001193125-26-480258-index.htm",
+      "source": "sec.gov",
+      "published": "2026-11-27T21:05:36+00:00",
+      "tickers": [
+        "C"
+      ]
+    },
+    {
       "title": "Weekly Wrap: Bitcoin Struggles As Latest Rally Fails",
       "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-struggles-as-latest-rally-fails-8104?.tsrc=rss",
       "source": "cryptoprowl.com",
@@ -110,6 +173,15 @@
       "published": "2026-11-27T17:27:02+00:00",
       "tickers": [
         "STT"
+      ]
+    },
+    {
+      "title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
+      "url": "https://intodayspaper.cmail19.com/t/d-l-wiilttt-hythjuuykd-td/",
+      "source": "cmail19.com",
+      "published": "2026-11-27T17:25:40+00:00",
+      "tickers": [
+        "C"
       ]
     },
     {
@@ -206,84 +278,6 @@
       "published": "2026-11-27T16:00:33+00:00",
       "tickers": [
         "MS"
-      ]
-    },
-    {
-      "title": "BofA Research Highlights Consumer Discretionary Surge as Holiday Shopping Kicks Off; ...",
-      "url": "https://www.gurufocus.com/news/9228746/bofa-research-highlights-consumer-discretionary-surge-as-holiday-shopping-kicks-off-abercrombie-fitch-anf-in-focus",
-      "source": "gurufocus.com",
-      "published": "2026-11-27T15:57:37+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "FHFA Endorses FICO 10T with Launch Set for September 2028, Wells Fargo Comments on FICO (FICO)",
-      "url": "https://www.gurufocus.com/news/9228741/fhfa-endorses-fico-10t-with-launch-set-for-september-2028-wells-fargo-comments-on-fico-fico",
-      "source": "gurufocus.com",
-      "published": "2026-11-27T15:50:33+00:00",
-      "tickers": [
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "title": "Truist Financial Forecasts Strong Price Appreciation for Omega Healthcare Investors (NYSE:OHI) Stock",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-truist-financial-forecasts-strong-price-appreciation-for-omega-healthcare-investors-nyse-ohi-stock-2026-11-27/",
-      "source": "marketbeat.com",
-      "published": "2026-11-27T15:48:32+00:00",
-      "tickers": [
-        "C",
-        "TFC"
-      ]
-    },
-    {
-      "title": "Ten top-rated consumer discretionary stocks as BofA signals a sector rotation",
-      "url": "https://seekingalpha.com/news/4677059-ten-top-rated-consumer-discretionary-stocks-as-bofa-signals-a-sector-rotation",
-      "source": "seekingalpha.com",
-      "published": "2026-11-27T15:36:30+00:00",
-      "tickers": [
-        "BAC",
-        "C"
-      ]
-    },
-    {
-      "title": "Schwab Accelerates AI Adoption: Can It Strengthen Profitability?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/schwab-accelerates-ai-adoption-strengthen-153600527.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-27T15:36:00+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow",
-      "url": "https://247wallst.com/investing/2026/11/27/prediction-this-overlooked-ai-stock-could-be-a-big-winner-in-nvidias-shadow/?.tsrc=rss",
-      "source": "247wallst.com",
-      "published": "2026-11-27T15:33:24+00:00",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "title": "Evercore (EVR) Down 2.8% Since Last Earnings Report: Can It Rebound?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-evr-down-2-8-153014464.html?.tsrc=rss",
-      "source": "yahoo.com",
-      "published": "2026-11-27T15:30:14+00:00",
-      "tickers": [
-        "C",
-        "SCHW"
-      ]
-    },
-    {
-      "title": "Goldman Sachs Names Top China Humanoid Robotics Stocks to Watch",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-humanoid-robotics-stocks-to-watch-5053639",
-      "source": "investing.com",
-      "published": "2026-11-27T15:23:47+00:00",
-      "tickers": [
-        "GS"
       ]
     }
   ]
